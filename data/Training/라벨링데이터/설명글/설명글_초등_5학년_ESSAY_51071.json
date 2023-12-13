@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘 코로나19가 쉴틈도 없이 계속 돌고 돌고있다.#@문장구분# 그런 상황속에서 우리는 위생을 중요시하며 잘 지켜야한다.#@문장구분# \n 먼저 집에 돌아오면 가장먼저 손을 깨끗하게 손을 씻어야한다.#@문장구분# 만약 세큔이 우리손에 있다가 그 더러운 손으로 눈이나 코, 입등을 만지면 그 병균이 우리 몸속으로 들어가 질병을 일으킬 수도 있다.#@문장구분# 그러므로 우리는 위생을 잘 지켜야한다.#@문장구분# 먼저 아까 말 했듯이 손을 비누로 깨끗하게 씻고, 물기를 털털 잘 털어준다.#@문장구분# 손을 못 씻을 경우엔 손소독제도 괜찮다.#@문장구분# 나도 가끔씩 손씻기 대신에 손소독제를 사용했던 것 같다.#@문장구분# 그리고 샤워를 해야한다. #@문장구분#나는 샤워를 하면 오늘 받은 스트레스를 다 날려버리는 것 같다.#@문장구분# 비록 시작할땐 귀찮지만 하고 나오면 정말 행복해진다. #@문장구분#무엇보다 상쾌하고, 오늘 흘린 땀으로 인해서 생긴 냄새가 싹 없어지니까 더 청결해지는 느낌이 든다.#@문장구분# 우리는 이런 식으로 청결을 유지하며 살것이다.#@문장구분# 그럼 꺠끗하게 청결을 지킬 수 있기 때문이다.",
+      "paragraph_len": 738,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      21.133335,
+      19.419048
+    ],
+    "essay_scoreT_avg": 20.295238,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.11",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "요즘 코로나19가 쉴 틈도 없이 계속 돌고  돌고있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘 코로나19가 <문법_맞춤법>쉴틈도 없이 계속 돌고 돌고있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 상황 속에서 우리는 위생을 중요시하며 잘 지켜야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 <문법_맞춤법>상황속에서 우리는 위생을 중요시하며 잘 지켜야한</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 먼저 집에 돌아오면 가장 먼저 손을 깨끗하게 손을 씻어야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 먼저 집에 돌아오면 <문법_맞춤법>가장먼저 손을 깨끗하게 손을 씻어야한</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 세균이 우리 손에 있다가 그 더러운 손으로 눈이나 코, 입 등을 만지면 그 병균이 우리 몸속으로 들어가 질병을 일으킬 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 <문법_맞춤법>세큔이 우리손에 있다가 그 더러운 손으로 눈이나 코, 입등을</문법_맞춤법> 만지면 그 병균이 우리 몸속으로 들어가 질병을 일으킬 수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 우리는 위생을 잘 지켜야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 우리는 위생을 잘 <문법_맞춤법>지켜야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 아까 말했듯이 손을 비누로 깨끗하게 씻고, 물기를 털털 잘 털어준다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 아까 <문법_맞춤법>말 했듯</문법_맞춤법>이 손을 비누로 깨끗하게 씻고, 물기를 털털 잘 털어준다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 가끔씩 손 씻기 대신에 손소독제를 사용했던 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 가끔씩<문법_맞춤법> 손씻기 대신에 손소독제를 사용했던 것 같</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 샤워를 해야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 샤워를<문법_맞춤법> 해야한</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 비록 시작할 땐 귀찮지만 하고 나오면 정말 행복해진다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 비록 <문법_맞춤법>시작할땐 </문법_맞춤법>귀찮지만 하고 나오면 정말 행복해진다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 이런 식으로 청결을 유지하며 살 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 이런 식으로 청결을 유지하며 <문법_맞춤법>살것이</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 깨끗하게 청결을 지킬 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그럼 <문법_맞춤법>꺠끗하</문법_맞춤법>게 청결을 지킬 수 있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51071",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 479,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 친구가 아주 많진 않았지만 그 래도 같이 노는 친구들이 있다.#@문장구분# 나는 친구가 내가 사는데 있어 꼭 필요하다고 생각한다.#@문장구분# 내가 힘들었을때 내 가족에게도 숨긴것을 내 친구가 알아채고 위로해줬던 기억이 있다.#@문장구분# 스마트폰으로는 못할게 없지만 기계는 나와 대화를 할 수도, 내 기분을 알수도 없기 때문에 스마트폰과 친구중 고르라고 하면 난 친구를 고를 것이다.#@문장구분# 친구와는 놀수 있고, 이야기 할 수 있고, 같이 밥도 먹을 수 있고 이런것 말고도 여러가지를 기계로는 할수 없는 것들을 할 수 있다.#@문장구분# 친구가 없다면 할게 없을 것이다.#@문장구분# 하루종일 심심하게 보내게 될거 같다. #@문장구분#뭐든지 같이 하는게 훨씬 더 재미있기 때문이다. #@문장구분#정말 친한 친구는 가족처럼 가까운 사이가 될 수도 있다.#@문장구분# 많이는 아니여도 친구는 꼭 필요하다고 생각한다.#@문장구분# 우리나라의 속담에도 친구가 관련있는 속담이 많다.#@문장구분# 바늘 가는데 실 간다.#@문장구분# 의가 좋으면 천하도 반분한다. #@문장구분#고슴도치도 살 친구가 있다 등 속담에까지 나오는 걸 보면 친구라는건 정말 중요하고 소중한 것 같다고 생각한다.#@문장구분#",
+      "paragraph_len": 798,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      20,
+      16.55
+    ],
+    "essay_scoreT_avg": 18.85,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 친구가 아주 많진 않았지만 그래도 같이 노는 친구들이 있다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 친구가 아주 많진 않았지만 <문법_맞춤법>그 래도</문법_맞춤법> 같이 노는 친구들이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 힘들었을 때 내 가족에게도 숨긴 것을 내 친구가 알아채고 위로해줬던 기억이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 <문법_맞춤법>힘들었을때</문법_맞춤법> 내 가족에게도 숨긴것을 내 친구가 알아채고 위로해줬던 기억이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스마트폰으로는 못할 게 없지만 기계는 나와 대화를 할 수도, 내 기분을 알 수도 없기 때문에 스마트폰과 친구 중 고르라고 하면 난 친구를 고를 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스마트폰으로는 <문법_맞춤법>못할게</문법_맞춤법> 없지만 기계는 나와 대화를 할 수도, 내 기분을 알수도 없기 때문에 스마트폰과 친구중 고르라고 하면 난 친구를 고를 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구와는 놀 수 있고, 이야기 할 수 있고, 같이 밥도 먹을 수 있고 이런 것 말고도 여러가지를 기계로는 할 수 없는 것들을 할 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구와는 <문법_맞춤법>놀수</문법_맞춤법> 있고, 이야기 할 수 있고, 같이 밥도 먹을 수 있고 이런것 말고도 여러가지를 기계로는 할수 없는 것들을 할 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 없다면 할 게 없을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구가 없다면 <문법_맞춤법>할게</문법_맞춤법> 없을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하루 종일 심심하게 보내게 될 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하루종일 심심하게 보내게 <문법_맞춤법>될거</문법_맞춤법> 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "뭐든지 같이 하는 게 훨씬 더 재미있기 때문이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "뭐든지 같이 <문법_맞춤법>하는게</문법_맞춤법> 훨씬 더 재미있기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 많이는 아니어도 친구는 꼭 필요하다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 많이는 <문법_어미>아니여도</문법_어미> 친구는 꼭 필요하다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라의 속담에도 친구와 관련된 속담이 많다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 우리나라의 속담에도 <문법_조사>친구가</문법_조사> <문법_어미>관련있는</문법_어미> 속담이 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '바늘 가는데 실 간다.'.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바늘 <문법_맞춤법>가는데</문법_맞춤법> 실 간다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "고슴도치도 살 친구가 있다. 등 속담에도 나오는 걸 보면 친구라는 건 정말 중요하고 소중한 것 같다고 생각한다.",
+      "sentence_corr_reason": [
+        "문장부호",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "고슴도치도 살 친구가 <문법_기타>있다</문법_기타> 등 <문법_조사>속담에까지</문법_조사> 나오는 걸 보면 <문법_맞춤법>친구라는건</문법_맞춤법> 정말 중요하고 소중한 것 같다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35275",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 519,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

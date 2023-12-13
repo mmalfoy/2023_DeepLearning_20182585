@@ -1,0 +1,318 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의취미는 게임입니다.#@문장구분# 게임이 왜 취미인지 말해드리겠습니다.#@문장구분# 저는 게임을 초등학교1학년?때쯤 부터 게임을 시작했을껌니다.#@문장구분# 저는 그때는 볼링스카이, 펭귄게임 등등했습니다.#@문장구분# 그때는 잔인한게임을 안했습니다.#@문장구분# 저는 3학년때쯤부터 배틀그라운 이라는 게임을 시작했습니다.#@문장구분# 그게임은 총으로 사람을죽이고 1등까지 하는 방식의 게임입니다.#@문장구분# 근데 게임중독까진 아니고요#@문장구분#ㅎ#@문장구분# 그냥 시간날때마다 게임을 하는정도입니다.#@문장구분# 그 게임은조금 잔인한 게임이긴 합니다.#@문장구분# 1번씩은 해보시기를 바랍니다.#@문장구분# 저는 여기까지입니다.#@문장구분#",
+      "paragraph_len": 530,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.780952,
+      25.780952,
+      23.6
+    ],
+    "essay_scoreT_avg": 25.053968,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.18",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 취미는 게임입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>저의취미는 </문법_맞춤법>게임입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 게임을 초등학교 1학년 때쯤부터 게임을 시작했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 저는 게임을 <문법_맞춤법>초등학교1학년?때쯤 부터</문법_맞춤법> 게임을 <문법_어미>시작했을껌니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 그때는 볼링스카이, 펭귄 게임 등등을 했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 저는 그때는 볼링스카이, <문법_맞춤법>펭귄게임</문법_맞춤법> <문법_조사>등등했습니다.</문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때는 잔인한 게임을 안 했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때는 <문법_맞춤법>잔인한게임을 </문법_맞춤법>안했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 3학년 때쯤부터 배틀 그라운드라는 게임을 시작했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>3학년때쯤부터</문법_맞춤법> 배틀그라운 이라는 게임을 시작했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 게임은 총으로 사람을 죽이고 1등까지 하는 방식의 게임입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그게임은 </문법_맞춤법>총으로 사람을죽이고 1등까지 하는 방식의 게임입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 게임 중독까지는 아니고요",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 근데 <문법_맞춤법><문법_조사>게임중독까진 </문법_조사></문법_맞춤법>아니고요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그냥 시간날 때마다 게임을 하는 정도입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그냥 <문법_맞춤법>시간날때마다</문법_맞춤법> 게임을 하는정도입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 게임은 조금 잔인한 게임이긴 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 <문법_맞춤법>게임은조금 </문법_맞춤법>잔인한 게임이긴 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한 번씩은 해보시기를 바랍니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>1번씩은</문법_맞춤법> 해보시기를 바랍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63510",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 270,
+    "essay_main_subject": "나의 취미"
+  }
+}

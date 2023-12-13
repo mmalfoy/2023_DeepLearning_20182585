@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금 현제 SNS를 제한 하기엔 너무 생활이 불편해 지기 때문에 자유를 원하지만 또 자유만 보장하면 무넺가 되기 때문에 반반씩 해서 SNS를 자유로 이용하는 대신 이상한 음란물,심한욕 등 문제가 되는 계시물을 못 올리게하고 그 작성자를 차단하면 조금이나 SNS이용이 문제가 되지 않을 수있다고 생각한다.#@문장구분#하지만 이렇게 하면 AI가 감지를 못할수도 있으니까 직접 담당사람이 판단하고 차단하는게 좋을것 같다.#@문장구분#우리가 생활 할때 SNS는 너무 편리해서 제안되버리면 일상이 조금 많이 불편한 현상이 일어날수 있어 맘대로 제안하기도 많이 어려워 힘든 상황이다#@문장구분# 그러니까 제안하면서 자유롭게 이용하는 방법을 찾아야 된다. #@문장구분#그렇지만 제안하지않으려면 일단 우리가 먼저 이상한 음란물,언어를 쓰지 않고 SNS를 이용해야한다.#@문장구분#\n제안하는게 맞다고 생각한다.#@문장구분#현제 SNS에는 누군가를 욕하는 글 누군가의 허락을 받지 않은 사진 음란물등 올리면 안되는 많은 게시물이 올라오고 있다 #@문장구분#근데 SNS가 어린아이들도 사용하기 때문에 그런 계시물을 통제하는게 맞다고 생각한다 #@문장구분#안 그러면 그런 계시물을 본 어린아이들 교육에도 문제가 되기 때문이다#@문장구분# 우리나라의 미래 아이들이 잘 크려면 이런 이상한 계시물을 통제해야 한다.#@문장구분#",
+      "paragraph_len": 802,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.0476189,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.55,
+      23.264286,
+      22.264286
+    ],
+    "essay_scoreT_avg": 23.02619,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "미디어 발전과 사용방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "지금 현제 SNS를 제한 하기엔 너무 생활이 불편해 지기 때문에 자유를 원하지만 또 자유만 보장하면 무넺가 되기 때문에 반반씩 해서 SNS를 자유로 이용하는 대신 이상한 음란물,심한욕 등 문제가 되는 계시물을 못 올리게하고 그 작성자를 차단하면 조금이나 SNS이용이 문제가 되지 않을 수있다고 생각한다.",
+      "sentence_corr_txt_styling": "지금 현제 SNS를 제한 하기엔 너무 생활이 불편해 지기 때문에 자유를 원하지만 또 자유만 보장하면 무넺가 되기 때문에 반반씩 해서 SNS를 자유로 이용하는 대신 이상한 음란물,심한욕 등 문제가 되는 계시물을 못 올리게하고 그 작성자를 차단하면 조금이나 SNS이용이 문제가 되지 않을 수있다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 이렇게 하면 AI가 감지를 못할 수도 있으니까 직접 담당자가 판단하고 차단하는 게 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "하지만 이렇게 하면 AI가 감지를 <문법_맞춤법><문법_조사>못할수도 있으니까 직접 담당사람이 판단하고 차단하는게 좋을것 같다.</문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "우리가 생활 할때 SNS는 너무 편리해서 제안되버리면 일상이 조금 많이 불편한 현상이 일어날수 있어 맘대로 제안하기도 많이 어려워 힘든 상황이다",
+      "sentence_corr_txt_styling": "우리가 생활 할때 SNS는 너무 편리해서 제안되버리면 일상이 조금 많이 불편한 현상이 일어날수 있어 맘대로 제안하기도 많이 어려워 힘든 상황이다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니까 제한하면서 자유롭게 이용하는 방법을 찾아야 된다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니까 <문법_맞춤법>제안하면서</문법_맞춤법> 자유롭게 이용하는 방법을 찾아야 된다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇지만 제한하지 않으려면 일단 우리가 먼저 이상한 음란물, 언어를 쓰지 않고 SNS를 이용해야한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇지만 <문법_맞춤법>제안하지않으려면</문법_맞춤법> 일단 우리가 먼저 이상한 음란물,언어를 쓰지 않고 SNS를 이용해야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n제안하는게 맞다고 생각한다.",
+      "sentence_corr_txt_styling": "\n제안하는게 맞다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "현재 SNS에는 누군가를 욕하는 글, 누군가의 허락을 받지 않은 사진, 음란물 등 올리면 안 되는 많은 게시물이 올라오고 있다. ",
+      "sentence_corr_reason": [
+        "쉼표, 띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>현제 SNS에는 누군가를 욕하는 글 누군가의 허락을 받지 않은 사진 음란물등 올리면 안되는 많은 게시물이 올라오고 있다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "근데 SNS가 어린아이들도 사용하기 때문에 그런 게시물을 통제하는 게 맞다고 생각한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "근데 SNS가 어린아이들도 사용하기 때문에 그런 <문법_맞춤법>계시물</문법_맞춤법>을 통제하는게 맞다고 생각한다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "안 그러면 그런 게시물을 본 어린아이들 교육에도 문제가 되기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "안 그러면 그런 <문법_맞춤법>계시물</문법_맞춤법>을 본 어린아이들 교육에도 문제가 되기 때문이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라의 미래 아이들이 잘 크려면 이런 이상한 게시물을 통제해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리나라의 미래 아이들이 잘 크려면 이런 이상한 <문법_맞춤법>계시물</문법_맞춤법>을 통제해야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61394",
+    "essay_prompt": " 미디어는 우리 주변에서 쉽게 찾아볼 수 있습니다. 그중 텔레비전과 라디오, 컴퓨터, 스마트폰 등이 대표적인 미디어라고 할 수 있지요. 사람들은 이 미디어를 이용해 자신의 의사나 감정, 또는 정보를 주고받습니다.\n\n 과거에는 생각이나 뜻을 전하기 위해 말을 이용해 전달해야 했지만, 지금은 SNS(페이스북, 카카오톡 등)를 통해 실시간으로 대화하며 화상 채팅을 무료로 즐기는 시대가 되었습니다. 여러분도 가족/친구들과 SNS를 통해 많은 소통을 하고 계시지요?\n\n 이러한 미디어는 매우 빠른 속도로 진화를 거듭하고 있어요. 앞으로도 더욱 우리 생활 깊숙이 파고들 것입니다.\n\n 다만, 미디어의 발전은 수많은 문제의 원인이 되기도 해요. 다른 사람의 얼굴을 SNS에 올리거나 악플로 남에게 상처 되는 말을 하기도 하지요. 또한, 틀린 정보가 빠르게 퍼져 나가 사람들에게 해를 끼치기도 한답니다.\n\n 이렇게 빠르게 변화하는 미디어의 발 전속에서 우리는 어떻게 미디어를 사용해야 할까요?\n\n 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 할까요? 아니면 새로운 시대에 맞게 모든 자유를 보장해야 할까요? 그 사이에 적절한 사용 방법이 있을까요? 여러분의 의견과 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 602,
+    "essay_main_subject": "미디어 발전과 사용방법"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리 나라에서 가장 먼저 실천되어야 하는 것은 다문화 가정을 무시하지 말자 입니다.#@문장구분# 다문화 가정을 차별하면 다문화 가정은 몹시 속상합니다.#@문장구분#\n 우리 나라에서 두번째로 실천되어야 하는 것은 다문화 가정을 이상하게 생각하지말고 그냥 나보다 특이한 사람이네? 라고생각하면 다문화 가정도 기분이 좋을것 같습니다.#@문장구분#\n 우리 나라에서 세번째로 실천되어야 하는것은 다문화 가정과 친하게 지네기입니다.#@문장구분# 다문화 가정과 함께 놀고 함께 공부하고 예기도 나누면 재미있습니다.#@문장구분# 그리고 저와 아주 친한 1살 어린 동생이 있는대 그동생의 엄마와 할머니가 모두 중국 사람입니다.#@문장구분# 그런데 저는 중국 사람인 동생은 전혀 차별하지 않고 그냥 한국인과 놀듯이 아주 재미있게 잘놀으며 절친같은 사이 입니다.#@문장구분# 그래서 그동생과 저는 절친이 아니여서 고민을 하다가 생각이 났습니다.#@문장구분# 절동이라는 겄입니다.#@문장구분# 어쨋든 다문화 가정을 차별하지 맙시다.",
+      "paragraph_len": 626,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3809524,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.15,
+      14.064285,
+      17.464287
+    ],
+    "essay_scoreT_avg": 16.559525,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.02",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리나라에서 가장 먼저 실천되어야 하는 것은 다문화 가정을 무시하지 말자입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>우리 나라에서</문법_맞춤법> 가장 먼저 실천되어야 하는 것은 다문화 가정을 무시하지 말자 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 우리나라에서 두 번째로 실천되어야 하는 것은 다문화 가정을 이상하게 생각하지 말고 그냥 나보다 특이한 사람이네? 라고 생각하면 다문화 가정도 기분이 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>우리 나라에서 두번째로</문법_맞춤법> 실천되어야 하는 것은 다문화 가정을 이상하게 생각하지말고 그냥 나보다 특이한 사람이네? 라고생각하면 다문화 가정도 기분이 좋을것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 우리나라에서 세 번째로 실천되어야 하는것은 다문화 가정과 친하게 지내기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>우리 나라에서 세번째로</문법_맞춤법> 실천되어야 하는것은 다문화 가정과 친하게 지네기입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 가정과 함께 놀고 함께 공부하고 얘기도 나누면 재미있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다문화 가정과 함께 놀고 함께 공부하고 <문법_맞춤법>예기도</문법_맞춤법> 나누면 재미있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 저와 아주 친한 1살 어린 동생이 있는데 그 동생의 엄마와 할머니가 모두 중국 사람입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 저와 아주 친한 1살 어린 동생이 <문법_맞춤법>있는대 그동생의</문법_맞춤법> 엄마와 할머니가 모두 중국 사람입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 저는 중국 사람인 동생은 전혀 차별하지 않고 그냥 한국인과 놀듯이 아주 재미있게 잘 놀으며 절친 같은 사이입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 저는 중국 사람인 동생은 전혀 차별하지 않고 그냥 한국인과 놀듯이 아주 재미있게 <문법_맞춤법>잘놀으며 절친같은 사이 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 그 동생과 저는 절친이 아니여서 고민을 하다가 생각이 났습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>그동생과</문법_맞춤법> 저는 절친이 아니여서 고민을 하다가 생각이 났습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 절동이라는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 절동이라는 <문법_맞춤법>겄입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어쨌든 다문화 가정을 차별하지 맙시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어쨋든</문법_맞춤법> 다문화 가정을 차별하지 맙시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47694",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 447,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 독서하기 입니다.#@문장구분# 이 취미를 하는 방법은 원하는 책을 고르고 읽으면 됨니다.#@문장구분# 그리고 책을 읽은후 독후감까지 쓰면 더 이득 입니다.#@문장구분# 요즘 읽고있는 책은 해리포터입니다. #@문장구분#제가 가지고 싶은 취미는 그림 그리기입니다. #@문장구분#왜냐하면 매일 그림그려야지 하면서 않그리기 때문입니다.#@문장구분# 책읽기 취미를 같이하고 싶은 사람은 부모님 입니다.#@문장구분# 왜냐하면 저에게 책읽으라면서 않읽고 엄마도 공부한다고 하고 책피자마자 몇 분만에 폰을 보기 때문입니다.#@문장구분#\n 책을 읽으면 잡생각이 없어져서 마음이 편안해짐니다.",
+      "paragraph_len": 432,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      24.914286,
+      21.933334
+    ],
+    "essay_scoreT_avg": 21.749207,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 취미는 독서하기입니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 취미는 <문법_맞춤법>독서하기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 취미를 하는 방법은 원하는 책을 고르고 읽으면 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 취미를 하는 방법은 원하는 책을 고르고 읽으면 <문법_맞춤법>됨니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 책을 읽은 후 독후감까지 쓰면 더 이득입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 책을 <문법_맞춤법>읽은후</문법_맞춤법> 독후감까지 쓰면 더 이득 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 읽고 있는 책은 해리포터입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘 <문법_맞춤법>읽고있는</문법_맞춤법> 책은 해리포터입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 매일 그림 그려야지 하면서 안 그리기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 매일 <문법_맞춤법>그림그려야지</문법_맞춤법> 하면서 않그리기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 책 읽기 취미를 같이 하고 싶은 사람은 부모님입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>책읽기 취미를 같이하고 싶은 사람은 부모님 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 저에게 책 읽으라면서 안 읽고 엄마도 공부한다고 하고 책 펴자마자 몇 분 만에 폰을 보기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>왜냐하면 저에게 책읽으라면서 않읽고 엄마도 공부한다고 하고 책피자마자 몇 분만에 폰을 보기 때문입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 책을 읽으면 잡생각이 없어져서 마음이 편안해집니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 책을 읽으면 잡생각이 없어져서 마음이 <문법_맞춤법>편안해짐니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48277",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 273,
+    "essay_main_subject": "나의 취미"
+  }
+}

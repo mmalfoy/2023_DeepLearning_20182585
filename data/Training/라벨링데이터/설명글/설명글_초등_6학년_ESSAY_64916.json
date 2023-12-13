@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 세종대왕님, 장영실님과 유관순 열사님을 본 받고 싶습니다.#@문장구분# 먼저 세종대왕님을 본 받고 싶은 이유를 알려드리겠습니다.#@문장구분# 세종대왕님은 훈민정음 창제 하신 대단한 분이시다.#@문장구분# 훈민정음 말고도 많지만 훈민정음이 가장 유명하기 때문이다.#@문장구분# 그리고 훈민정음을 만든 세종대왕님 덕분에 지금의 우리가 한글을 쓰고 있으니 정말 존경스럽다.#@문장구분# 또 세종대왕님이 발명하신 많은 것들이 있다.#@문장구분# 두번째는 장영실님이시다. #@문장구분#내가 장영실님을 존경하는 이유는 해시계 또는 물시계 같은 물건을 발명 해주셔서 생활을 편리하게 해주셨지 때문이다.#@문장구분# 만약 해시계와 물시계가 없었다면 우린 조금이라도 더 빨리 시간 측정을 편하게 못 했을 것이다.#@문장구분# 마지막 세번째 유관순 열사님이시다.#@문장구분# 정말 존경스러운 분이신만큼 많은 고생도 하셨다. #@문장구분#유관순 열사님은 1919년 3.1 운동이 일어나자 만세 시위에 참여 했다.#@문장구분# 1919년 4.1 독립만세를 선창하며 격렬한 운동을 하다가 일본헌병에게 잡혀가 고된 고문을 받으신 분이다. #@문장구분#자신이 위험한 상황에서도 독립만세를 외친 유관순 열사님은 결국 17세의 어린 나이로 옥사를 하셨지만 끝까지 독립만세를 외춰 주신 독립운동가이시다.#@문장구분# 세 위인을 소개 했지만 모두 다 정말 대단하고 존경스럽다.#@문장구분#",
+      "paragraph_len": 900,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.3,
+      26.4,
+      22.4
+    ],
+    "essay_scoreT_avg": 23.366667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 세종대왕님, 장영실님과 유관순 열사님을 본 받고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": "저는 세종대왕님, 장영실님과 유관순 열사님을 본 받고 <문법_높임법>싶습니다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 세종대왕님을 본 받고 싶은 이유를 알려 주겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 먼저 세종대왕님을 본 받고 싶은 이유를 <문법_높임법>알려드리겠습니다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님은 훈민정음 창제하신 대단한 분이시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕님은 훈민정음 <문법_맞춤법>창제 하</문법_맞춤법>신 대단한 분이시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째는 장영실님이시다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째는 </문법_맞춤법>장영실님이시다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 장영실님을 존경하는 이유는 해시계 또는 물시계 같은 물건을 발명해 주셔서 생활을 편리하게 해주셨지 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 장영실님을 존경하는 이유는 해시계 또는 물시계 같은 물건을 발<문법_맞춤법>명 해</문법_맞춤법>주셔서 생활을 편리하게 해주셨지 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 해 시계와 물시계가 없었다면 우린 조금이라도 더 빨리 시간 측정을 편하게 못 했을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 <문법_맞춤법>해시계와 </문법_맞춤법>물시계가 없었다면 우린 조금이라도 더 빨리 시간 측정을 편하게 못 했을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막 세 번째 유관순 열사님이시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마지막 <문법_맞춤법>세번째 </문법_맞춤법>유관순 열사님이시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 존경스러운 분이신 만큼 많은 고생도 하셨다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정말 존경스러운 <문법_맞춤법>분이신만큼 </문법_맞춤법>많은 고생도 하셨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "유관순 열사님은 1919년 3.1 운동이 일어나자 만세 시위에 참여했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "유관순 열사님은 1919년 3.1 운동이 일어나자 만세 시위에 참<문법_맞춤법>여 했다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1919년 4.1 독립만세를 선창하며 격렬한 운동을 하다가 일본 헌병에게 잡혀가 고된 고문을 받으신 분이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1919년 4.1 독립만세를 선창하며 격렬한 운동을 하다가 <문법_맞춤법>일본헌병에게 </문법_맞춤법>잡혀가 고된 고문을 받으신 분이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "자신이 위험한 상황에서도 독립만세를 외친 유관순 열사님은 결국 17세의 어린 나이로 옥사를 하셨지만 끝까지 독립만세를 외쳐 주신 독립운동가이시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "자신이 위험한 상황에서도 독립만세를 외친 유관순 열사님은 결국 17세의 어린 나이로 옥사를 하셨지만 끝까지 독립만세를 <문법_맞춤법>외춰 </문법_맞춤법>주신 독립운동가이시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 위인을 소개했지만 모두 다 정말 대단하고 존경스럽다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세 위인을 소<문법_맞춤법>개 했지만</문법_맞춤법> 모두 다 정말 대단하고 존경스럽다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64916",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 600,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

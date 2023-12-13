@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 독서입니다.#@문장구분# 독서는 시간이 적어도 조금은 읽을 수 있어서 좋다고 생각합니다.#@문장구분# 그리고 종류도 많아서 좋다고 생각합니다.#@문장구분# \n 독서를 하는 방법은 간단합니다.#@문장구분# 먼저 제일 중요한 책이 필요합니다.#@문장구분# 그 다음 가장 편한 곳 으로 가서 편한 자세로 앉습니다.#@문장구분# 하지만 자세가 좋지 않으면 고쳐야 합니다.#@문장구분# 그다음에는 책을피고 읽습니다.#@문장구분# 어떤 사람들은 이부분을 조금 어려워 합니다.#@문장구분# 아까전에 연필이나 지우개를 준비했다면은 다른종이에 중요한 부분을 써놓아도 좋습니다.#@문장구분#아니면 형광펜 같은 것을 준비해도 좋습니다.#@문장구분# 대신 그 책이 자기 것 이어야 합니다.#@문장구분# 왜냐하면 연필로 쓰는대신에 책에 펜으로 밑줄을 그을 것이기 때문입니다.#@문장구분# 그렇게 때문에 빌린 책인지 잘 확인해야 합니다.#@문장구분#\n 이번에는 책을 다읽은 후 입니다.#@문장구분# 책을 다 읽은 후 독후감을 쓰면 정말 로 좋습니다.#@문장구분# 기억에 오래 남기 때문입니다.#@문장구분#\n 이렇게 저의 취미인 독서를 어떻게 하는지, 끝나고 무엇을 하는지 알아보았습니다.#@문장구분# 저는 요즘 세계에서 제일 빠른시간에 많이밀린 조앤롤링의 해리포터를 읽고 있는데 정말 재미있는 책이어서 추천해드립니다#@문장구분#",
+      "paragraph_len": 927,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.4,
+      22.733334
+    ],
+    "essay_scoreT_avg": 25.711111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그다음 가장 편한 곳으로 가서 편한 자세로 앉습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그 다</문법_맞춤법>음 가장 편한 곳 으로 가서 편한 자세로 앉습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그다음에는 책을 펴고 읽습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그다음에는 책<문법_맞춤법>을피고</문법_맞춤법> 읽습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어떤 사람들은 이 부분을 조금 어려워합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어떤 사람들은 이<문법_맞춤법>부분</문법_맞춤법>을 조금 어려워 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아까 전에 연필이나 지우개를 준비했다면은 다른 종이에 중요한 부분을 써놓아도 좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아까전에 </문법_맞춤법>연필이나 지우개를 준비했다면은 다른종이에 중요한 부분을 써놓아도 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 연필로 쓰는 대신에 책에 펜으로 밑줄을 그을 것이기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 연필로 쓰<문법_맞춤법>는대신</문법_맞춤법>에 책에 펜으로 밑줄을 그을 것이기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이번에는 책을 다 읽은 후입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 이번에는 책을 <문법_맞춤법>다읽은</문법_맞춤법> 후 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 책을 다 읽은 후 독후감을 쓰면 정말로 좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 책을 다 읽은 후 독후감을 쓰면 <문법_맞춤법>정말 로</문법_맞춤법> 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 요즘 세계에서 제일 빠른 시간에 많이 밀린 조앤 롤링의 해리포터를 읽고 있는데 정말 재미있는 책이어서 추천해 드립니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 요즘 세계에서 제일 <문법_맞춤법>빠른시간에 </문법_맞춤법>많이밀린 조앤롤링의 해리포터를 읽고 있는데 정말 재미있는 책이어서 추천해드립니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42336",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 548,
+    "essay_main_subject": "나의 취미"
+  }
+}

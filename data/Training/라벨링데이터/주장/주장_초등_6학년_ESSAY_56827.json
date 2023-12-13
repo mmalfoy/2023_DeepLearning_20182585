@@ -1,0 +1,384 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요?#@문장구분# 여러분들은 학교폭력을 당해보거나,당해보신적인 있나요? #@문장구분#만약 학교폭력이 일어났을때 자신은 가해자가 되고싶나요? #@문장구분#피해자가 되고싶나요? #@문장구분#제가 생각했을때는 피해자 보다는 그나마 가해자가 더 낫다는 사람들이 훨씬 많을것같습니다.#@문장구분#왜냐하면 자신이 다치는 것은 그 누구나 가슴아프고 슬픈일인걸 우리들은 잘 알고있기 때문입니다.#@문장구분# 지금부터 저를 주제로 가해자가되었을때와 피해자가 되었을때를 함께 알아보겠습니다.#@문장구분#일단 가해자란? #@문장구분#아무이유없이나, 또는 스트레스의 감정,동생,윗언니 오빠등을 따라 함께해서 일어나는 현상이라고도 합니다.#@문장구분#제가 가해자라면 아무 이유 없이 피해자에게 괴로움을 주진 안을것 같고,윗사람들이 시키거나 협박해서 할것같습니다.#@문장구분#물론 친구를 괴롭히면 절대절대 안되는 일 입니다. #@문장구분#그리고 피해자 라면 무서워서 그만하라는 것을 못 할 것같습니다. #@문장구분#그리고 한가지더! 제가 학교폭력을 목격했을때는 선생님들과 부모님 또는 윗어른께 도움을 요청하거나 그만해!또는 멈춰! 라는 말을 할것 같습니다.#@문장구분# 지금까지 저를 주제로 가해자와 피해자가 되보았습니다. #@문장구분#여러분 들은 이런 경우에 어떻게 행동할것이지 어떻게 할수있는지, 한번쯤은 생각해보시는 것도 좋을것 같습니다.",
+      "paragraph_len": 868,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          1.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.5,
+      15.366667,
+      13.877778
+    ],
+    "essay_scoreT_avg": 18.248148,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          0,
+          2,
+          3
+        ],
+        [
+          1,
+          0,
+          1,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 여러분들은 학교폭력을 당해보거나,당해 보신 적이 있나요? ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 여러분들은 학교폭력을 당해보거나,<문법_맞춤법><문법_어미>당해보신적인 </문법_어미></문법_맞춤법>있나요? ",
+      "sentence_corr_txt_styling": " 여러분들은 학교폭력을 당해보거나,당해 보신 적이 있나요? ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 학교폭력이 일어났을 때 자신은 가해자가 되고 싶나요? ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "만약 학교폭력이 <문법_맞춤법>일어났을때 </문법_맞춤법>자신은 가해자가 되고싶나요? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "피해자가 되고 싶나요? ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "피해자가 <문법_맞춤법>되고싶나요?</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 생각했을 때는 피해자보다는 그나마 가해자가 더 낫다는 사람들이 훨씬 많을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 <문법_맞춤법>생각했을때는 </문법_맞춤법>피해자 보다는 그나마 가해자가 더 낫다는 사람들이 훨씬 많을것같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 자신이 다치는 것은 그 누구나 가슴 아프고 슬픈 일인 걸 우리들은 잘 알고 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 자신이 다치는 것은 그 누구나 <문법_맞춤법>가슴아프고 </문법_맞춤법>슬픈일인걸 우리들은 잘 알고있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금부터 저를 주제로 가해자가 되었을 때와 피해자가 되었을 때를 함께 알아보겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금부터 저를 주제로 <문법_맞춤법>가해자가되었을때와 </문법_맞춤법>피해자가 되었을때를 함께 알아보겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아무 이유 없이, 또는 스트레스의 감정,동생,언니 오빠 등을 따라 함께해서 일어나는 현상이라고도 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>아무이유없이나</문법_맞춤법>, 또는 스트레스의 감정,동생,윗언니 오빠등을 따라 함께해서 일어나는 현상이라고도 합니다.",
+      "sentence_corr_txt_styling": "아무 이유 없이, 또는 스트레스의 감정,동생,언니 오빠 등을 따라 함께해서 일어나는 현상이라고도 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 가해자라면 아무 이유 없이 피해자에게 괴로움을 주진 않을 것 같고,윗사람들이 시키거나 협박해서 할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "제가 가해자라면 아무 이유 없이 피해자에게 괴로움을 주진 <문법_맞춤법>안을것 </문법_맞춤법>같고,윗사람들이 시키거나 협박해서 할것같습니다.",
+      "sentence_corr_txt_styling": "제가 가해자라면 아무 이유 없이 피해자에게 괴로움을 주진 않을 것 같고,윗사람들이 시키거나 협박해서 할 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물론 친구를 괴롭히면 절대절대 안 되는 일입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "물론 친구를 괴롭히면 절대절대 안되는 <문법_맞춤법>일 입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "물론 친구를 괴롭히면 절대절대 안 되는 일입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 피해자라면 무서워서 그만하라는 것을 못 할 것 같습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>피해자 라면</문법_맞춤법> 무서워서 그만하라는 것을 못 할 것같습니다. ",
+      "sentence_corr_txt_styling": "그리고 피해자라면 무서워서 그만하라는 것을 못 할 것 같습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 한 가지 더! 제가 학교폭력을 목격했을 때는 선생님들과 부모님 또는 윗어른께 도움을 요청하거나 그만해!또는 멈춰! 라는 말을 할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>한가지더</문법_맞춤법>! 제가 학교폭력을 목격했을때는 선생님들과 부모님 또는 윗어른께 도움을 요청하거나 그만해!또는 멈춰! 라는 말을 할것 같습니다.",
+      "sentence_corr_txt_styling": "그리고 한 가지 더! 제가 학교폭력을 목격했을 때는 선생님들과 부모님 또는 윗어른께 도움을 요청하거나 그만해!또는 멈춰! 라는 말을 할 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금까지 저를 주제로 가해자와 피해자가 되어 보았습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 지금까지 저를 주제로 가해자와 피해자가 <문법_어미>되보았습니다.</문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분들은 이런 경우에 어떻게 행동할 것인지 어떻게 할 수 있는지, 한 번쯤은 생각해보시는 것도 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>여러분 들은</문법_맞춤법> 이런 경우에 어떻게 <문법_어미>행동할것이지 </문법_어미>어떻게 할수있는지, 한번쯤은 생각해보시는 것도 좋을것 같습니다.",
+      "sentence_corr_txt_styling": "여러분들은 이런 경우에 어떻게 행동할 것인지 어떻게 할 수 있는지, 한 번쯤은 생각해보시는 것도 좋을 것 같습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56827",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 588,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

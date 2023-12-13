@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 다수결의 원칙을 옳다고 생각한다.#@문장구분# 왜냐하면 예를들어 음식점을 고를 때 신분이 아무리 높다해도 모든사람들의 의견도 들어봐야하니 높은사람 높지않은사람 따지지 않고 다수결의 원칙을 사용해 더 많은사람들의 의견을 들어봐야한다.#@문장구분# 만약에 다수결의 원칙을 사용하지않으면 신분이 높지않은 사람들도 다 같은사람인데 많은 사람들의 의견을 듣지 못하고 높으신 사람들만 좋은 것 이니 신분이 낮은 사람들도 사람답게 다수결의 원칙을 사용해 많은 인원수의 사람들이 의견을 말하는게 더 옳다고 생각한다.#@문장구분# 하지만 신분이 높고, 않높고로 따지는것도 틀린것은 아니다.#@문장구분# 그런점에 좋은점은 무엇일까?#@문장구분# 첫번째, 너무 신분이 낮은사람들도 다수결로만 따지면 신분이 높은사람들은 아무이유가 없이 그 점에 따라야 하고, 두번째, 다수결로만 정하면 신분이 높지않고 신분이 그냥 낮은손님이라도 다수결로만 따지자면 손님의 의견은 못 들어보고 다수결로만 따라야한다.#@문장구분# 이렇게 나는 다수결의 원칙이 옳다고 생각한데 그게 꼭!옳다고만은 생각하지 않는다.",
+      "paragraph_len": 624,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.8,
+      21.933334,
+      21.933334
+    ],
+    "essay_scoreT_avg": 20.222223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 예를 들어 음식점을 고를 때 신분이 아무리 높다 해도 모든 사람들의 의견도 들어봐야 하니 높은 사람 높지 않은 사람 따지지 않고 다수결의 원칙을 사용해 더 많은 사람들의 의견을 들어봐야한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>예를들어</문법_맞춤법> 음식점을 고를 때 신분이 아무리 높다해도 모든사람들의 의견도 들어봐야하니 높은사람 높지않은사람 따지지 않고 다수결의 원칙을 사용해 더 많은사람들의 의견을 들어봐야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약에 다수결의 원칙을 사용하지 않으면 신분이 높지 않은 사람들도 다 같은 사람인데 많은 사람들의 의견을 듣지 못하고 높으신 사람들만 좋은 것 이니 신분이 낮은 사람들도 사람답게 다수결의 원칙을 사용해 많은 인원수의 사람들이 의견을 말하는 게 더 옳다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약에 다수결의 원칙을 <문법_맞춤법>사용하지않으면 </문법_맞춤법>신분이 높지않은 사람들도 다 같은사람인데 많은 사람들의 의견을 듣지 못하고 높으신 사람들만 좋은 것 이니 신분이 낮은 사람들도 사람답게 다수결의 원칙을 사용해 많은 인원수의 사람들이 의견을 말하는게 더 옳다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 신분이 높고, 않 높고로 따지는 것도 틀린 것은 아니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>하지만 신분이 높고, 않높고로 따지는것도 틀린것은 아니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 하지만 신분이 높고, 않 높고로 따지는 것도 틀린 것은 아니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 점에 좋은 점은 무엇일까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그런점에 좋은점은</문법_맞춤법> 무엇일까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째, 너무 신분이 낮은 사람들도 다수결로만 따지면 신분이 높은 사람들은 아무 이유가 없이 그 점에 따라야 하고, 두 번째, 다수결로만 정하면 신분이 높지 않고 신분이 그냥 낮은 손님이라도 다수결로만 따지자면 손님의 의견은 못 들어보고 다수결로만 따라야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫번째</문법_맞춤법>, 너무 신분이 낮은사람들도 다수결로만 따지면 신분이 높은사람들은 아무이유가 없이 그 점에 따라야 하고, 두번째, 다수결로만 정하면 신분이 높지않고 신분이 그냥 낮은손님이라도 다수결로만 따지자면 손님의 의견은 못 들어보고 다수결로만 따라야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 나는 다수결의 원칙이 옳다고 생각한데 그게 꼭! 옳다고만은 생각하지 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 나는 다수결의 원칙이 옳다고 생각한데 그게 <문법_맞춤법>꼭!옳다</문법_맞춤법>고만은 생각하지 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49647",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 505,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

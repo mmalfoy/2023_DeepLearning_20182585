@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "가한 여가활동은 책보고 게임하고 보드 게임 하고 TV를 본다.#@문장구분# 그리고 스포츠인 야구도 할때도 있고 축구도 하고 달리기도 한다.#@문장구분# 걷기도 하고 번지점프도 있고 농구도 있고 골프 복싱도 하고 태권도 유도 검도 그리고 합기도 있고 아침을 먹고 점심을 먹고 그리고 저녁 먹고 양궁 배구도 있다.#@문장구분# 그리고 배드민턴 탁구 테니스도 있다.#@문장구분# 그리고 높이뛰기도 있다.#@문장구분# 그리고 멀리뛰기도있다.#@문장구분# 씨름도 있다.#@문장구분# 그리고 또 컬링 하키도 있고 체조도 여가활동이다.#@문장구분# 펜싱도 있고 그리고 스키도 있다.#@문장구분# 친구들과 놀기 또 놀이터에서 놀기 그리고 등산하기 그리고 운동하기 그리고 자전거 타기 그리고 킥보드는 누나랑 탄 적이 있다.#@문장구분# 술래잡기를 했는데 #@이름#이가 나를 잡았는데 나는 #@이름#를 잡았다.#@문장구분# #@이름#이는 #@이름#를 잡았고 #@이름#는 나를 잡았다.#@문장구분# 근데 술래잡기를 그만했다.#@문장구분# 야구를 할때는 아빠랑 야구를 한다.#@문장구분# 아빠가 공을 던지고 내가 배트를 쳤다.#@문장구분# 그리고 나도 공을 던지고 잡고 계속 반복했다.#@문장구분# 나는 수영을 했다.#@문장구분# 수영을 하고 미끄럼틀을 탔고 닌텐도에서 동물의숲을 했다.#@문장구분#",
+      "paragraph_len": 958,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.466667,
+      24,
+      24.114285
+    ],
+    "essay_scoreT_avg": 22.526983,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기가 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "가한 여가활동은 <문법_맞춤법>책보고 </문법_맞춤법>게임하고 보드 게임 하고 TV를 본다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기가 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 스포츠인 야구도 <문법_맞춤법>할때도</문법_맞춤법> 있고 축구도 하고 달리기도 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기가 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>멀리뛰기도있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기가 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 야구를 <문법_맞춤법>할때는</문법_맞춤법> 아빠랑 야구를 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기가 필요"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 수영을 하고 미끄럼틀을 탔고 닌텐도에서 <문법_맞춤법>동물의숲을 </문법_맞춤법>했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33602",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 519,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

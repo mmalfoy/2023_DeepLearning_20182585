@@ -1,0 +1,304 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 우리나라와 다른 다문화 사람이여도 그 사람을 존중해주고 놀림을 하지 말았으면 좋겠습니다#@문장구분# 다문화인 사람이 놀림을 받는다면 정말 속이 상하고 자신감이 떨어질것 입니다.#@문장구분# 나또한 우리나라 사람들도 놀림을 받으면 기분이 상할 것 이지요#@문장구분# 그리고 다문화 사람의 국적의 여러가지 문화를 책을 읽으며 배워가면 좋겠습니다.#@문장구분# 그 국적의 문화를 모르고 그 사람과 놀면 많이 오해가 생길수있기 때문입니다 #@문장구분#그리고 다문화인 친구를 우리나라의 문화의 대해도 알려주어야 합니다. #@문장구분#우리나라의 사람과 다문화의 사람도 똑같은 사람이니 꼭 그 문화의 대해 존중해주고 놀림을 하지 말았으면 좋겠습니다.",
+      "paragraph_len": 437,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.8,
+      22,
+      22.4
+    ],
+    "essay_scoreT_avg": 21.066666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 우리나라와 다른 다문화 사람이어도 그 사람을 존중해주고 놀리지 말았으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "맞춤법",
+        "조사",
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_높임법>나는</문법_높임법> 우리나라와 다른 다문화 <문법_맞춤법>사람이여도</문법_맞춤법> 그 사람을 존중해주고 <문법_조사><문법_어미>놀림을 하지</문법_어미></문법_조사> 말았으면 <문법_기타>좋겠습니다</문법_기타>",
+      "sentence_corr_txt_styling": "저는 우리나라와 다른 다문화 사람이어도 그 사람을 존중해주고 놀리지 말았으면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화인 사람이 놀림을 받는다면 정말 속이 상하고 자신감이 떨어질 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 다문화인 사람이 놀림을 받는다면 정말 속이 상하고 자신감이 <문법_맞춤법>떨어질것</문법_맞춤법> 입니다.",
+      "sentence_corr_txt_styling": " 다문화인 사람이 놀림을 받는다면 정말 속이 상하고 자신감이 떨어질 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저 또한 우리나라 사람들도 놀림을 받으면 기분이 상할 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_높임법>나또한</문법_높임법></문법_맞춤법> 우리나라 사람들도 놀림을 받으면 기분이 상할 <문법_어미><문법_기타>것 이지요</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 다문화 사람의 국적의 여러가지 문화를 책을 읽으며 배워가면 좋겠습니다.",
+      "sentence_corr_txt_styling": " 그리고 다문화 사람의 국적의 여러가지 문화를 책을 읽으며 배워가면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 국가의 문화를 모르고 그 사람과 놀면 많은 오해가 생길 수 있기 때문입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 <문법_기타>국적의</문법_기타> 문화를 모르고 그 사람과 놀면 <문법_조사>많이</문법_조사> 오해가 <문법_맞춤법>생길수있기</문법_맞춤법> 때문입니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 다문화인 친구에게 우리나라의 문화의 대해서도 알려주어야 합니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그리고 다문화인 <문법_조사>친구를</문법_조사> 우리나라의 문화의 <문법_맞춤법>대해도</문법_맞춤법> 알려주어야 합니다. ",
+      "sentence_corr_txt_styling": "그리고 다문화인 친구에게 우리나라의 문화의 대해서도 알려주어야 합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리나라의 사람과 다문화의 사람도 똑같은 사람이니 꼭 그 문화에 대해 존중해주고 놀림을 하지 말았으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "우리나라의 사람과 다<문법_조사>문화의</문법_조사> 사람도 똑같은 사람이니 꼭 그 <문법_조사>문화의</문법_조사> 대해 존중해주고 놀림을 하지 말았으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "우리나라의 사람과 다문화의 사람도 똑같은 사람이니 꼭 그 문화에 대해 존중해주고 놀림을 하지 말았으면 좋겠습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46992",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 318,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

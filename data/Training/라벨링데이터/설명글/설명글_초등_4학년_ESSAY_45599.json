@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내 여가 활동은 그림그리기, 만들기, 피아노 치기가 있다.#@문장구분# 그림을 그릴땐 복잡하지만 다 완성하고 나면 뿌듯하다.#@문장구분# 만들기는 만드는 방법을 찾아서 해보기도 하고 아무렇게나 접어보기도 한다.#@문장구분# 종이가 접히는 걸 보면 기분이 좋아진다.#@문장구분# 피아노를 칠 때에는 건반을 누를 때 좋은 소리가 난다.#@문장구분# 피아노 연습을 다 하고 한번도 틀리지 않고 성공했을 땐 기분이 정말 좋다. #@문장구분#여가생활의 대해 고칠점은 일주일의 2번 밖에 하지 못한다는 것이다. #@문장구분#시간이 날 때마다 조금이라도 더 하면 좋을 것 같다.#@문장구분#",
+      "paragraph_len": 427,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      26.047619,
+      24
+    ],
+    "essay_scoreT_avg": 22.815872,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 여가 활동은 그림 그리기, 만들기, 피아노 치기가 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>내 여가 활동은 그림그리기</문법_맞춤법>, 만들기, 피아노 치기가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그림을 그릴 땐 복잡하지만 다 완성하고 나면 뿌듯하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그림을 <문법_맞춤법>그릴땐 </문법_맞춤법>복잡하지만 다 완성하고 나면 뿌듯하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 피아노 연습을 다 하고 한 번도 틀리지 않고 성공했을 땐 기분이 정말 좋다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 피아노 연습을 다 하고<문법_맞춤법> 한번도</문법_맞춤법> 틀리지 않고 성공했을 땐 기분이 정말 좋다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여가생활에 대해 고칠 점은 일주일에 2번 밖에 하지 못한다는 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>여가생활의 대해 고칠점은</문법_맞춤법> 일주일의 2번 밖에 하지 못한다는 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45599",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 267,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

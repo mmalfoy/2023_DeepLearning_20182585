@@ -1,0 +1,338 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "습관은 어떤 행위를 오랫동안 뒤풀이하는 과정에서 저절로 익혀진 행동 방식을 뜻한다. #@문장구분#예)일찍 일어나는 습관을 가지다.#@문장구분# 저는 좋은 습관과 나쁜 습관을 둘 다 가지고 있는데, 나쁜 습관은 손톱을 물어 뜯는 것 입니다.#@문장구분# 이런 습관을 고치려고 매니큐어도 발라봤지만 계속 물어 뜯더라고요. #@문장구분#그래도 전 손톱을 뜯지 않으려고 노력할 것 입니다.#@문장구분# 그리고 좋은 습관은 아까 예를 든 것처럼 일찍 일어나는 것 입니다.#@문장구분# 일찍 일어나는 습관을 가지게 된 방법은 매일 아침 7시로 알람을 맞추고 일어나다 보니 평일엔 7시 전까지 일어나고 주말이어도 늦으면 9시 전까진 일어나게 됬습니다.#@문장구분# 다들 노력만 한다면 좋은 습관을 가지게 될 것 입니다.#@문장구분# 모두 자기만의 방법으로 좋은 습관은 키우고 나쁜 습관은 버리는 것은 어떨까요?#@문장구분#제가 습관에 대한 책을 추천 할 건데 청소년들에겐 청소년의 건강 생활 실천을 위한 좋은 습관 가꾸는 법, 대학생들에겐 대학생의 건강 생활 실천을 위한 좋은 습관 가꾸는 법, 나쁜 습관 정리법이라는 책을 추천합니다.#@문장구분# 나쁜 습관은 없어지고 좋은 습관만 있는 세상을 원합니다.#@문장구분# 말이 안 되긴 하지만 모두 좋은 습관만 가지는 것을 원하는 것 입니다.#@문장구분# 물론 저도 저의 안 좋은 습관을 고치려고 노력 할 것 입니다.#@문장구분#",
+      "paragraph_len": 876,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      27.1,
+      24.4
+    ],
+    "essay_scoreT_avg": 25.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "습관은 어떤 행위를 오랫동안 뒤풀이하는 과정에서 저절로 익혀진 행동 방식을 뜻합니다. ",
+      "sentence_corr_reason": [
+        "어미 통일"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "습관은 어떤 행위를 오랫동안 뒤풀이하는 과정에서 저절로 익혀진 행동 방식을 <문법_어미>뜻한다</문법_어미>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 좋은 습관과 나쁜 습관을 둘 다 가지고 있는데, 나쁜 습관은 손톱을 물어뜯는 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 좋은 습관과 나쁜 습관을 둘 다 가지고 있는데, 나쁜 습관은 손톱을 <문법_맞춤법>물어 뜯는 것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 습관을 고치려고 매니큐어도 발라봤지만 계속 물어뜯었습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 구어체 어미 자제",
+        "띄어쓰기, 구어체 어미 자제"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 이런 습관을 고치려고 매니큐어도 발라봤지만 계속 <문법_맞춤법><문법_어미>물어 뜯더라고요</문법_어미></문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래도 전 손톱을 뜯지 않으려고 노력할 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래도 전 손톱을 뜯지 않으려고 노력할 <문법_맞춤법>것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 좋은 습관은 일찍 일어나는 것입니다.",
+      "sentence_corr_reason": [
+        "불필요",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 좋은 습관은 <스타일링_기타>아까 예를 든 것처럼 일찍</스타일링_기타> 일어나는 <문법_맞춤법>것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": " 그리고 좋은 습관은 일찍 일어나는 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일찍 일어나는 습관을 가지게 된 방법은 매일 아침 7시로 알람을 맞추고 일어나다 보니 평일엔 7시 전까지 일어나고 주말이어도 늦으면 9시 전까진 일어나게 됐습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일찍 일어나는 습관을 가지게 된 방법은 매일 아침 7시로 알람을 맞추고 일어나다 보니 평일엔 7시 전까지 일어나고 주말이어도 늦으면 9시 전까진 일어나게 <문법_맞춤법>됬습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다들 노력만 한다면 좋은 습관을 가지게 될 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다들 노력만 한다면 좋은 습관을 가지게 될 <문법_맞춤법>것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>제가 습관에 대한 책을 추천 할 건데 청소년들에겐 청소년의 건강 생활 실천을 위한 좋은 습관 가꾸는 법, 대학생들에겐 대학생의 건강 생활 실천을 위한 좋은 습관 가꾸는 법, 나쁜 습관 정리법이라는 책을 추천합니다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": "청소년들에겐 청소년의 건강 생활 실천을 위한 좋은 습관 가꾸는 법, 대학생들에겐 대학생의 건강 생활 실천을 위한 좋은 습관 가꾸는 법, 나쁜 습관 정리법이라는 책을 추천합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 나쁜 습관은 없어지고 좋은 습관만 있는 세상을 원합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>나쁜</문법_기타> 습관은 없어지고 좋은 습관만 있는 세상을 원합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 말이 안 되긴 하지만 모두 좋은 습관만 <스타일링_맞춤법><스타일링_어미><스타일링_기타>가지는 것을 원하는 것 입니다</스타일링_기타></스타일링_어미></스타일링_맞춤법>.",
+      "sentence_corr_txt_styling": " 말이 안 되긴 하지만 모두 좋은 습관만 가지기를 원합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 저도 저의 안 좋은 습관을 고치려고 노력할 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 저도 저의 안 좋은 습관을 고치려고 <문법_맞춤법>노력 할 것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33593",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 616,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

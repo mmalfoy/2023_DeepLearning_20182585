@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생은 아주 중요합니다.#@문장구분# 위생을 지키지않으면 병에 걸리기 쉽기 때문입니다.#@문장구분# 저의 위생법은 기본적입니다. #@문장구분#샤워랑 손씻기등 기본적인걸로 위생을 지키니다.#@문장구분# 요즘은 더 위생을 지켜야함니다.#@문장구분# 전염병이 세계적으로 유행하기때문입니다. #@문장구분#그러기때문에 손을 더 잘 씻어야합니다.#@문장구분# 그러기 때문에 저도 손을 잘 씻 습니다. #@문장구분#위생을 잘 지키야 위생과 건강을 지키는 것 입니다. #@문장구분#위생을 지커야 주변사람들도 병의잘걸리니다. #@문장구분#그러무로 위생을 지커야합니다.#@문장구분# 지금까지 위생을 설명했습니다.",
+      "paragraph_len": 475,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.685715,
+      16.733334,
+      10.8
+    ],
+    "essay_scoreT_avg": 14.739682,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.12",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 위생을 지키지 않으면 병에 걸리기 쉽기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 위생을<문법_맞춤법> 지키지않으</문법_맞춤법>면 병에 걸리기 쉽기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "샤워랑 손 씻기 등 기본적인 걸로 위생을 지키니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "샤워랑 <문법_맞춤법>손씻기등 기본적인걸로 </문법_맞춤법>위생을 지키니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘은 더 위생을 지켜야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘은 더 위생을 <문법_맞춤법>지켜야함니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전염병이 세계적으로 유행하기 때문입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 전염병이 세계적으로 <문법_맞춤법>유행하기때문</문법_맞춤법>입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러기 때문에 손을 더 잘 씻어야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그<문법_맞춤법>러기때문에 손을 더 잘 씻어야합니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러기 때문에 저도 손을 잘 씻습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러기 때문에 저도 손을 잘<문법_맞춤법> 씻 습</문법_맞춤법>니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "위생을 잘 지키야 위생과 건강을 지키는 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위생을 잘 지키야 위생과 건강을 지키는 <문법_맞춤법>것 입</문법_맞춤법>니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "위생을 지켜야 주변 사람들도 병에 잘 걸리지 않는다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "위생을 <문법_어미>지커야 주변사람들도 병의잘걸리니다</문법_어미>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러므로 위생을 지켜야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그러무로 위생을 지커야합</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51060",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 255,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "건강한 몸을 만들기 위해서는 올바른 식습관 운동뿐만아니라 개인위생도중요합니다.#@문장구분# 올바른식습관은 육식종류로먹지않고 야채, 채소 등도같이 먹어야합니다.#@문장구분#\n올바른 운동은 스트래칭이나 줄넘기 등을 하루에 1번씩합니다.#@문장구분# 그리고 양치는 하루에 3번아니면2번을 합니다. #@문장구분#샤워도 하루에2번 아침, 저녘을합니다. #@문장구분#청결을 위해서 손도 깨끗하게씻습니다. #@문장구분#저가위생을지키는방법은 학교가기전에 샤워1번 저녁먹기전에샤워1번을꼭 합니다.#@문장구분# \n양치는 아침에한번저녁에한번을합니다.#@문장구분# \n(주말에는3번) 그리고 손도하루에 8번정도씻습니다.",
+      "paragraph_len": 437,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      15.5523815,
+      21.6
+    ],
+    "essay_scoreT_avg": 19.584127,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "건강한 몸을 만들기 위해서는 올바른 식습관 운동 뿐만 아니라 개인위생도 중요합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "건강한 몸을 만들기 위해서는 올바른 식습관 <문법_맞춤법>운동뿐만아니라 개인위생도중요합</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 올바른 식습관은 육식 종류로 먹지 않고 야채, 채소 등도 같이  먹어야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>올바른식습관은 육식종류로먹지않고 야채, 채소 등도같이 먹어야합</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n올바른 운동은 스트레칭이나 줄넘기 등을 하루에 1번씩 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n올바른 운동은<문법_맞춤법> 스트래칭이나 줄넘기 등을 하루에 1번씩합</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 양치는 하루에 3번 아니면 2번 을 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 양치는 하루에 <문법_맞춤법>3번아니면2번을 </문법_맞춤법>합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "샤워도 하루에 2번 아침, 저녁에 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "샤워도 <문법_맞춤법>하루에2번 아침, 저녘을합니</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "청결을 위해서 손도 깨끗하게 씻습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "청결을 위해서 손도<문법_맞춤법> 깨끗하게씻</문법_맞춤법>습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저가 위생을 지키는 방법은  학교 가기 전에  샤워 1번  저녁 먹기 전에 샤워 1번을 꼭  합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>저가위생을지키는방법은 학교가기전에 샤워1번 저녁먹기전에샤워1번을꼭 합니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n양치는 아침에 한번 저녁에 한 번을 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n양치는<문법_맞춤법> 아침에한번저녁에한번을합</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n(주말에는 3번) 그리고 손도 하루에  8번 정도 씻습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n(<문법_맞춤법>주말에는3번) 그리고 손도하루에 8번정도씻습</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51005",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 278,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

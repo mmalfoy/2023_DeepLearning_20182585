@@ -1,0 +1,250 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "피포페인팅이라는 것을 아시나요?#@문장구분# 번호가 적혀져 있는 곳에 번호가 적혀져 있는 물감들을 칠하면 하 나의 작품이 되는 것입니다.#@문장구분# 다양한 그림들이 있어서 밑작업은 되있는 것이고 색칠을 하면 작품 하 나가 정말 아름답게 완성이 됩니다.#@문장구분# 생각보다 시간이 꽤 걸려서 학교 마치고 오늘은 3번을 완성해야하지 하면 3번의 색을 칠해야하는 부분을 칠하는 것입니다.#@문장구분# 과정은 꽤 시간이 걸리고 힘들지 몰라도 결과는 내 스스로 만든 작품이 되는 것이고 인테리어 쪽으로 방에 걸어놓을 수있습니다.#@문장구분# 미술작품을 산다면 가격이 비싼데 스스로 공 들여온 과정으로 미술작품을 걸어놓는다면 오히려 뿌듯함을 더 느낄 수 있을지 않을까요?#@문장구분#",
+      "paragraph_len": 456,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      21.133335,
+      20.8
+    ],
+    "essay_scoreT_avg": 22.111109,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 번호가 적혀 있는 곳에 번호가 적혀 있는 물감들을 칠하면 하나의 작품이 되는 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 번호가 <문법_어미>적혀져 </문법_어미>있는 곳에 번호가 <문법_어미>적혀져 </문법_어미>있는 물감들을 칠하면 <문법_맞춤법>하 나의 </문법_맞춤법>작품이 되는 것입니다.",
+      "sentence_corr_txt_styling": " 번호가 적혀 있는 곳에 번호가 적혀 있는 물감들을 칠하면 하나의 작품이 되는 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다양한 그림들이 있어서 밑작업은 되어있는 것이고 색칠을 하면 작품 하나가 정말 아름답게 완성이 됩니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " 다양한 그림들이 있어서 밑작업은 <문법_어미>되있는 </문법_어미>것이고 색칠을 하면 작품 <문법_맞춤법>하 나가</문법_맞춤법> 정말 아름답게 완성이 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생각보다 시간이 꽤 걸려서 학교 마치고 오늘은 3번을 완성해야지 하면 3번의 색을 칠해야 하는 부분을 칠하는 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 생각보다 시간이 꽤 걸려서 학교 마치고 오늘은 3번을 <문법_어미>완성해야하지 </문법_어미>하면 3번의 색을 <문법_맞춤법>칠해야하는 </문법_맞춤법>부분을 칠하는 것입니다.",
+      "sentence_corr_txt_styling": " 생각보다 시간이 꽤 걸려서 학교 마치고 오늘은 3번을 완성해야지 하면 3번의 색을 칠해야 하는 부분을 칠하는 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과정은 꽤 시간이 걸리고 힘들지 몰라도 결과는 내 스스로 만든 작품이 되는 것이고 인테리어 쪽으로 방에 걸어 놓을 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 과정은 꽤 시간이 걸리고 힘들지 몰라도 결과는 내 스스로 만든 작품이 되는 것이고 인테리어 쪽으로 방에 <문법_맞춤법>걸어놓을 </문법_맞춤법>수있습니다.",
+      "sentence_corr_txt_styling": " 과정은 꽤 시간이 걸리고 힘들지 몰라도 결과는 내 스스로 만든 작품이 되는 것이고 인테리어 쪽으로 방에 걸어 놓을 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술작품을 산다면 가격이 비싼데 스스로 공 들여온 과정으로 미술작품을 걸어 놓는다면 오히려 뿌듯함을 더 느낄 수 있을지 않을까요?",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 미술작품을 산다면 가격이 비싼데 스스로 공 들여온 과정으로 미술작품을 <문법_맞춤법>걸어놓는다면 </문법_맞춤법>오히려 뿌듯함을 더 느낄 수 있을지 않을까요?",
+      "sentence_corr_txt_styling": " 미술작품을 산다면 가격이 비싼데 스스로 공 들여온 과정으로 미술작품을 걸어 놓는다면 오히려 뿌듯함을 더 느낄 수 있을지 않을까요?",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62985",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 337,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

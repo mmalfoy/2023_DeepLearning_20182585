@@ -1,0 +1,282 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "여러분은 위생을 아나요?#@문장구분#위생이란 건강에 유익하도록 조건을 갖추거나 대책을 세우는 일 입니다.#@문장구분#하지만 이 위생을 지키지 않는 사람이 있습니다.#@문장구분#이런사람을 위해 어떻게 해야 할까요.#@문장구분#1.위생을지키지 않는 사람을 위한 개인 위생 용품을 챙겨준다.#@문장구분#2.포스터를 그려 홍보를 한다.#@문장구분#3.집으로 돌아오면 얼굴,손,발을 꼼꼼히 씻는다.#@문장구분#깨끗한 나를 만들고 싶다고요?! #@문장구분#아주 좋은 자세 입니다.#@문장구분#그리고 이 말 기!억!해!주!세!요!남 먼저 말고 나 먼저하세요.#@문장구분#할 일을 다하고 오면 샤워도 꼼꼼히!#@문장구분#여러분 깨끗한 일상을 만들여면계획을 세워서 위생을 지켜도 됩니다.#@문장구분#깨끗한 미래 우리 함께 만들어요.",
+      "paragraph_len": 556,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.619047,
+      22.8,
+      15.780952
+    ],
+    "essay_scoreT_avg": 21.733332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.14",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "055",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "위생이란 건강에 유익하도록 조건을 갖추거나 대책을 세우는 일입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위생이란 건강에 유익하도록 조건을 갖추거나 대책을 세우는 <문법_맞춤법>일 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이런 사람을 위해 어떻게 해야 할까요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이런사람</문법_맞춤법>을 위해 어떻게 해야 할까요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "1. 위생을 지키지 않는 사람을 위한 개인 위생 용품을 챙겨준다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>1.위생을지키지</문법_맞춤법> 않는 사람을 위한 개인 위생 용품을 챙겨준다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "2. 포스터를 그려 홍보를 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>2.포스터를</문법_맞춤법> 그려 홍보를 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "3. 집으로 돌아오면 얼굴, 손, 발을 꼼꼼히 씻는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>3.집으로 돌아오면 얼굴,손,발을 꼼꼼히 씻는다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아주 좋은 자세입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아주 좋은 <문법_맞춤법>자세 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 이 말 기!억!해!주!세!요!남 먼저 말고 나 먼저하세요.",
+      "sentence_corr_txt_styling": "그리고 이 말 기!억!해!주!세!요!남 먼저 말고 나 먼저하세요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분 깨끗한 일상을 만들려면 계획을 세워서 위생을 지켜도 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여러분 깨끗한 일상을 <문법_맞춤법>만들여면</문법_맞춤법>계획을 세워서 위생을 지켜도 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66342",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 317,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서 배우는과목중 사회가 가장좋다.#@문장구분# 과목을 가장 좋아하는이유는 내가역사를배우고싶었는데 학교에서역사를배우니 재미있고 실감이난다. #@문장구분#그래서 역사를배우는사회가 가장 좋다. #@문장구분#역사에서누가 왕이되고 전쟁은 무슨나라와 일어나고 누가있었는지 궁굼하고 재미있다.#@문장구분#특히 역사에서 누가왕이되는지가 재미있다.#@문장구분# 역사를 6학년때도배운다고해서 기분이 좋다. #@문장구분#역사가 좋아서 그런거 자꾸만 사회시간이되면 기분이좋아지고 신이난다.#@문장구분# 역사를 배우면 재미있고 역사가 귀에쏙쏙 들어온다. #@문장구분#사회는 역시재미있고 사회는 역사가 아니여도 재미있다. #@문장구분#그래서 맨날 사회만했으면좋겠다는생각이든다. #@문장구분#역사시간에는 임진왜란같은거를배우는데 그걸듣고나서 다른나라가우리나라와 싸워서 이기거나지거나 상관이없지않나라는생각이든다.",
+      "paragraph_len": 570,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      14.219048,
+      14.5523815
+    ],
+    "essay_scoreT_avg": 17.168253,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교에서 배우는 과목 중 사회가 가장 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교에서 <문법_맞춤법>배우는과목중 사회가 가장좋다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과목을 가장 좋아하는 이유는 내가 역사를 배우고 싶었는데 학교에서 배우니 재미있고 실감이 난다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 과목을 가장 <문법_맞춤법>좋아하는이유는 내가역사를배우고싶었는데 학교에서역사를배우니 재미있고 실감이난다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 역사를 배우는 사회가 가장 좋다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 <문법_맞춤법>역사를배우는사회가</문법_맞춤법> 가장 좋다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "역사에서 누가 왕이 되고 전쟁은 무슨 나라와 일어나고 누가 있었는지 궁굼하고 재미있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>역사에서누가 왕이되고 전쟁은 무슨나라와 일어나고 누가있었는지</문법_맞춤법> 궁굼하고 재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "특히 역사에서 누가 왕이 되는지가 재미있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "특히 역사에서 <문법_맞춤법>누가왕이되는지가</문법_맞춤법> 재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "역사가 좋아서 그런지 자꾸만 사회 시간이 되면 기분이 좋아지고 신이 난다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "역사가 좋아서 <문법_맞춤법>그런거</문법_맞춤법> 자꾸만 사회시간이되면 기분이좋아지고 신이난다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 역사를 배우면 재미있고 역사가 귀에 쏙쏙 들어온다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 역사를 배우면 재미있고 역사가 <문법_맞춤법>귀에쏙쏙</문법_맞춤법> 들어온다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사회는 역시 재미있고 사회는 역사가 아니여도 재미있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사회는 <문법_맞춤법>역시재미있고</문법_맞춤법> 사회는 역사가 아니여도 재미있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 맨날 사회만 했으면 좋겠다는 생각이 든다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 맨날 <문법_맞춤법>사회만했으면좋겠다는생각이든다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "역사 시간에는 임진왜란 같은 거를 배우는데 그걸 듣고 나서 다른 나라가 우리나라와 싸워서 이기거나 지거나 상관이 없지 않나 하는 생각이 든다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>역사시간에는 임진왜란같은거를배우는데 그걸듣고나서 다른나라가우리나라와 싸워서 이기거나지거나 상관이없지않나라는생각이든다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48038",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 371,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 예절의 예의 잘알고 있는거 같다.#@문장구분# 첫번째예절.#@문장구분# 언니한테 까불지않기#@문장구분# 두번째예절.#@문장구분# 엄마한테 존뎃말 쓰기#@문장구분# 세번째예절.#@문장구분# 기차, 버스, 차안에서 장난치지않기#@문장구분# 나는 그리고 커서 어르신들이나 아프신 분들게 꼭 자리를 양보해 드리고 싶다.#@문장구분# 내가 왜 양보하고 싶냐면 만약 내가 양보를 안해줬다가는 어르신이나, 아프신분들이 힘들어하실것 같다.#@문장구분# 내가 자리를 안비켜주면 내가 할머니가 되서 그대로 되돌려 받을거 갔아서 비켜줘야한다.#@문장구분# 만약 지하철, 버스 같은데에서 앞에 임산부가있는데 그 사람이 안 비켜주면 내가가서 한마디 해야할것같다.#@문장구분# 그리고 우리반 친구중에 한명이 나갈때 문을 안닫고가서 선생님이 이건 예의가 아니라고 이거는 적으라고 하셨다.#@문장구분# 웃긴거 갔기도 하고 예의가 없는거 갔기도 하다.#@문장구분# 난 이제 부터는 엄마한테 존뎃말도하고 언니한테도 이제 안까불까불거릴거다.#@문장구분# 그리고 남들 앞에서 이제는 반찬 투정을하지 안을 거라고 다짐합니다.#@문장구분# 그리고 또 찡찡 대지 안을거다.#@문장구분#",
+      "paragraph_len": 795,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.514286,
+      25.019047,
+      20.333334
+    ],
+    "essay_scoreT_avg": 22.622223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.22",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 예절의 예를 잘 알고 있는 거 같다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 예절의 <문법_맞춤법>예의 잘알고 있는거 같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째 예절.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫번째예절.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 언니한테 까불지 않기",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 언니한테 <문법_맞춤법>까불지않기</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째 예절.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째예절</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마한테 존댓말 쓰기",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마한테 <문법_맞춤법>존뎃말</문법_맞춤법> 쓰기",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째 예절.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째예절</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기차, 버스, 차 안에서 장난치지 않기",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기차, 버스, <문법_맞춤법>차안에서 장난치지않기</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 그리고 커서 어르신들이나 아프신 분들께 꼭 자리를 양보해 드리고 싶다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 그리고 커서 어르신들이나 아프신 <문법_맞춤법>분들게</문법_맞춤법> 꼭 자리를 양보해 드리고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 왜 양보하고 싶냐면 만약 내가 양보를 안 해줬다가는 어르신이나, 아프신 분들이 힘들어 하실 것 같다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 왜 양보하고 싶냐면 만약 내가 양보를 <문법_맞춤법>안해줬다가는 어르신이나, 아프신분들이 힘들어하실것 같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 자리를 안 비켜 주면 내가 할머니가 되서 그대로 되돌려 받을 거 같아서 비켜 줘야 한다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 자리를 <문법_맞춤법>안비켜주면 내가 할머니가 되서 그대로 되돌려 받을거 갔아서 비켜줘야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 지하철, 버스 같은 데에서 앞에 임산부가 있는데 그 사람이 안 비켜주면 내가 가서 한마디 해야 할 것같다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 지하철, 버스 <문법_맞춤법>같은데에서 앞에 임산부가있는데 그 사람이 안 비켜주면 내가가서 한마디 해야할것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 우리반 친구 중에 한 명이 나갈 때 문을 안 닫고 가서 선생님이 이건 예의가 아니라고 이거는 적으라고 하셨다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 우리반 <문법_맞춤법>친구중에 한명이 나갈때 문을 안닫고가서 선생님이 이건 예의가 아니라고 이거는 적으라고 하셨다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 웃긴 것 같기도 하고 예의가 없는 것 같기도 하다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>웃긴거 갔기도 하고 예의가 없는거 갔기도 하다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 이제부터는 엄마한테 존댓말도 하고 언니한테도 이제 안 까불까불 거릴 거다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 난 <문법_맞춤법>이제 부터는 엄마한테 존뎃말도하고 언니한테도 이제 안까불까불거릴거다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 남들 앞에서 이제는 반찬 투정을 하지 않을 거라고 다짐합니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 남들 앞에서 이제는 반찬 <문법_맞춤법>투정을하지 안을 거라고 다짐합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 찡찡 대지 않을거다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 또 찡찡 대지 <문법_맞춤법>안을거다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33478",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 475,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지키는 방법은 먼저 양치를 아침, 전심, 밤(잠들기전)에 양치를 하는걸 추천해드려요.#@문장구분# 왜냐하면 아침에는 입안을 깨끗이 양치를 하면 건강이 좋습니다.#@문장구분# 점심, 저녁에는 뭐를 먹으니까 양치를 꼭 해야겠죠.(총 3번)#@문장구분#먼저 위생을 지키는 방법은 건강의 좋은 물, 아체를 먹으세요!#@문장구분#물은 우리몸에 70%가 있습니다.#@문장구분# 그래서 물이 없으면 우리는 죽게됩니다.(건강이 안좋아서)#@문장구분# 야체는 여러분도 아시는것처럼 애체를 먹어라 건강이 좋아져요.#@문장구분# 과자, 콜라등 몸에 안좋은 음식들은 많이 먹지맙시다!#@문장구분#",
+      "paragraph_len": 429,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.866665,
+      20.8,
+      19.666668
+    ],
+    "essay_scoreT_avg": 23.111109,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "위생을 지키는 방법은 먼저 양치를 아침, 점심, 밤(잠들기 전)에 양치를 하는 걸 추천해 드려요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위생을 지키는 방법은 먼저 양치를 아침, <문법_맞춤법>전심</문법_맞춤법>, 밤(잠들기전)에 양치를 하는걸 추천해드려요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "먼저 위생을 지키는 방법은 건강에 좋은 물, 야채를 먹으세요!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "먼저 위생을 지키는 방법은 건<문법_맞춤법>강의</문법_맞춤법> 좋은 물, 아체를 먹으세요!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물은 우리 몸에 70%가 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "물은 <문법_맞춤법>우리몸에</문법_맞춤법> 70%가 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 물이 없으면 우리는 죽게 됩니다.(건강이 안 좋아서)",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 물이 없으면 우리는 죽게됩니다.(건강이 <문법_맞춤법>안좋아서)</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분도 아시는 것처럼 야채를 먹어야 건강이 좋아져요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 야체는 여러분도 아<문법_맞춤법>시는것처</문법_맞춤법>럼 애체를 먹어라 건강이 좋아져요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과자, 콜라 등 몸에 안 좋은 음식들은 많이 먹지 맙시다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 과자, 콜<문법_맞춤법>라등</문법_맞춤법> 몸에 안좋은 음식들은 많이 먹지맙시다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42345",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 270,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

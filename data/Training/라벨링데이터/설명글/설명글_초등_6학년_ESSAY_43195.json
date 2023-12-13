@@ -1,0 +1,337 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저가제일 존경하는 위인은 바로 우리를 한글을 사용하게 만든 세종대왕이다#@문장구분# \n세종대왕이 없었다며 우리는 한글을사용할수도없었을거다 #@문장구분#한글을 못하면 우리는 지금 한자를 써야겠지...#@문장구분#\n첫째 한글을만들었기때문에#@문장구분# 세종대왕이 한글만 만들면 우리는 종이에 지금 한글을못쓰고 한자써야겠지#@문장구분# 지금 우리는 세종대왕 덕분에 한글을 쓰고 있잖아요#@문장구분# 세종대왕 감사합니다....#@문장구분#\n둘째 우리를 일으켜기 때문에#@문장구분# 세종대왕 한글을 쓰지않았다면 아래에 있는 민족분들이 살수없겠지 #@문장구분#공평하지 않아 살수 없었지만 세종대왕 한글 덕분에 나라는 더강력 했겼지...#@문장구분#\n셌째 발명했기때문에#@문장구분# 세종대왕이 장영실과 많은기구를 함께 연구하고만들어 사람들은 편리한 것을 느낄수 있었다.#@문장구분#\n장영실과 세종대왕 당신들이없었다면 지금은 어떻할슬까?....#@문장구분#\n결론 세종대왕이 없으면 이렇게 평화로운 세상을볼수 없었을 거다#@문장구분#감사합니다 세종대왕님.....",
+      "paragraph_len": 711,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      20.65,
+      20.8
+    ],
+    "essay_scoreT_avg": 21.366667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 제일 존경하는 위인은 바로 우리를 한글을 사용하게 만든 세종대왕이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_높임법><문법_기타>저가제일 존경하는 위인은 바로 우리를 한글을 사용하게 만든 세종대왕이다</문법_기타></문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n세종대왕이 없었다며 우리는 한글을 사용할 수도 없었을 거다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " \n세종대왕이 없었다며 우리는 <문법_맞춤법><문법_기타>한글을사용할수도없었을거다</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n첫째 한글을 만들었기 때문에",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n첫째 <문법_맞춤법>한글을만들었기때문에</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕이 한글만 만들면 우리는 종이에 지금 한글을 못 쓰고 한자 써야겠지",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕이 한글만 만들면 우리는 종이에 지금 <문법_맞춤법>한글을못쓰고 한자써야겠지</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n둘째 우리를 일으켰기 때문에",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n둘째 우리를 <문법_맞춤법>일으켜기</문법_맞춤법> 때문에",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕 한글을 쓰지 않았다면 아래에 있는 민족분들이 살 수 없겠지 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕 한글을 <문법_맞춤법>쓰지않았다면 아래에 있는 민족분들이 살수없겠지</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "공평하지 않아 살수 없었지만 세종대왕 한글 덕분에 나라는 더강력 했겼지...",
+      "sentence_corr_txt_styling": "공평하지 않아 살수 없었지만 세종대왕 한글 덕분에 나라는 더강력 했겼지...",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n셋째 발명했기 때문에",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>셌째 발명했기때문에</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕이 장영실과 많은 기구를 함께 연구하고 만들어 사람들은 편리한 것을 느낄 수 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕이 장영실과 <문법_맞춤법>많은기구를 함께 연구하고만들어 사람들은 편리한 것을 느낄수</문법_맞춤법> 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n장영실과 세종대왕 당신들이 없었다면 지금은 어떡했을까?....",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n장영실과 세종대왕 <문법_맞춤법>당신들이없었다면 지금은 어떻할슬까?....</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n결론 세종대왕이 없으면 이렇게 평화로운 세상을 볼 수 없었을 거다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n결론 세종대왕이 없으면 이렇게 평화로운 <문법_맞춤법>세상을볼수</문법_맞춤법> 없었을 거다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43195",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 432,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

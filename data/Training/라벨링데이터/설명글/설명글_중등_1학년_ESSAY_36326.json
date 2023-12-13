@@ -1,0 +1,528 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "습관이라는 책은 되게많다.#@문장구분# 습관이 하는건 안좋은습관, 좋은습관들이 있다. #@문장구분#안좋은 습관은 늦게 자기, 공부 안하기 양치 안하기등이 있다.#@문장구분# 안좋은 습관을 고치는 예시는 이렇게 있다#@문장구분# 특히 늦게 주무시는 분들이 있는데 꼭 빨리 자는게 좋다.#@문장구분# 학생이라면 아직 성장 호르몬이 있다면 꼭 빨리 주무시는게 좋다.#@문장구분# 왜냐하면 빨리 못자면 다크서클이 생겨 얼굴에 피곤함이 많아보인다.#@문장구분# 그다음 두통도 오기도 하다.#@문장구분# 눈도 되게 아프기도 하다. #@문장구분#그러니까 빨리 자는게 좋다.#@문장구분# 다크서클이 생기는 이유는 피로고 수면이 필요해서 그런것이고 늦게 자고 빨리 일어나는 습관을 가지면 더피곤할수 밖에 없다. #@문장구분#그러고 눈에 출혈이오고 눈밑이 되게 어둡게 된다.#@문장구분#근데 다크서클이 안 사라진다면 음식으로 괜찮아질수도 있고 팩같은걸해서 될수도 있으니 너무 걱정은 안해도 된다.#@문장구분# 그다음 공부를 좋은습관들도 있다.#@문장구분# 어떤 것이냐면 영어 단어 10개 라도 외우기 영어를 못하는 사람들을 위해서 팁을 알려주는 것이다. #@문장구분#영어가 아주 싫더라도 꼭 단어 아침에 10개 진짜 힘들다.#@문장구분# 그럼 5개라도 하는게 좋다.#@문장구분# 이런 습관들이 많으면 좋습니다.#@문장구분# 아니면 수학을 못하는 사람들은 수학 문제집을 3장 아니면 5장 정도 해주는게 좋다.#@문장구분# 이런 습관을 잘두길 바랍니다.#@문장구분#",
+      "paragraph_len": 1012,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      22.9,
+      18.2
+    ],
+    "essay_scoreT_avg": 19.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "습관과 관련된  책은 되게 많다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>습관이라는</스타일링_담화 맥락 오류> 책은<문법_맞춤법> 되게많다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "습관과 관련된  책은 되게 많다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 습관에는  안 좋은 습관, 좋은 습관들이 있다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_조사>습관이 하는건</문법_조사> <문법_맞춤법>안좋은습관, 좋은습관들이</문법_맞춤법> 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "안 좋은 습관에는 늦게 자기, 공부 안하기, 양치 안하기 등이 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사>안좋은 습관은</문법_조사></문법_맞춤법> 늦게 자기, 공부 안하기 양치 안하기등이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안좋은 습관을 고치는 방법은 이렇게 있다.",
+      "sentence_corr_reason": [
+        "",
+        "문장부호"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 안좋은 습관을 고치는 <스타일링_담화 맥락 오류>예시는</스타일링_담화 맥락 오류> 이렇게 <문법_맞춤법>있다</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 안좋은 습관을 고치는 방법은 이렇게 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우선, 늦게 자는 사람들이 있는데 꼭 빨리 자는 게 좋다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "높임법",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>특히 </스타일링_담화 맥락 오류>늦게 <문법_높임법>주무시는 분들이</문법_높임법> 있는데 꼭 빨리 <문법_맞춤법>자는게</문법_맞춤법> 좋다.",
+      "sentence_corr_txt_styling": " 우선, 늦게 자는 사람들이 있는데 꼭 빨리 자는 게 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 학생이라면 아직 성장 호르몬이 <스타일링_패러프레이징>있다면 꼭 빨리 주무시는게 좋다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 학생이라면 아직 성장 호르몬이 나오기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한, 빨리 자지 않으면 다크서클이 생겨 얼굴에 피곤함이 많아 보인다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>왜냐하면</스타일링_담화 맥락 오류> 빨리 못자면 다크서클이 생겨 얼굴에 피곤함이 <문법_맞춤법>많아보인다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 또한, 빨리 자지 않으면 다크서클이 생겨 얼굴에 피곤함이 많아 보인다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그다음 두통도 오기도 하다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 두통이 생기기도 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>눈도 되게 아프기도 하다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 그리고 눈도 되게 아플 수 있다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇기 때문에 빨리 자는 게 좋다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>그러니까</스타일링_담화 맥락 오류> 빨리 <문법_맞춤법>자는게</문법_맞춤법> 좋다.",
+      "sentence_corr_txt_styling": "그렇기 때문에 빨리 자는 게 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다크서클이 생기는 이유는 피로 때문이며,  수면이 필요하다는 표시이다. 늦게 자고 빨리 일어나는 습관을 가지면 더 피곤할 수밖에 없다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " 다크서클이 생기는 이유는 <문법_조사><문법_어미>피로고</문법_어미></문법_조사> <스타일링_패러프레이징>수면이 필요해서 그런것이고 </스타일링_패러프레이징>늦게 자고 빨리 일어나는 습관을 가지면 <문법_맞춤법>더피곤할수 밖에 없다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": " 다크서클이 생기는 이유는 피로 때문이며,  수면이 필요하다는 표시이다. 늦게 자고 빨리 일어나는 습관을 가지면 더 피곤할 수밖에 없다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>그러고 눈에 출혈이오고 눈밑이 되게 어둡게 된다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "그러다 보면 눈에 출혈이 오고 눈 밑이 되게 어둡게 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 다크서클이 사라지지 않는다면 음식으로 괜찮아질 수도 있고 팩같은 것을 해서도 도움을 받을 수 있으니 너무 걱정은 안 해도 된다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>근데</스타일링_담화 맥락 오류> 다크서클이 안 사라진다면 음식으로 괜찮아질수도 있고 팩같은걸해서 될수도 있으니 너무 걱정은 <문법_맞춤법>안해도</문법_맞춤법> 된다.",
+      "sentence_corr_txt_styling": "만약 다크서클이 사라지지 않는다면 음식으로 괜찮아질 수도 있고 팩같은 것을 해서도 도움을 받을 수 있으니 너무 걱정은 안 해도 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그다음 공부를 좋은습관들도 있다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 다음으로 공부에 좋은 습관도 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그것은 바로 영어 단어 10개라도 외우기이다. 영어를 못하는 사람들을 위해 좋은 방법을 알려주는 것이다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>어떤 것이냐면 </스타일링_담화 맥락 오류>영어 단어 <문법_맞춤법><문법_어미>10개 라도 외우기</문법_어미></문법_맞춤법> 영어를 못하는 사람들을 위해서 팁을 알려주는 것이다. ",
+      "sentence_corr_txt_styling": " 그것은 바로 영어 단어 10개라도 외우기이다. 영어를 못하는 사람들을 위해 좋은 방법을 알려주는 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "영어가 아주 <스타일링_담화 맥락 오류>싫더라도 꼭 단어 아침에 10개 진짜 힘들다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "영어가 아주 싫더라도 꼭 단어를 외우는 것이 좋다. 아침에 10개가 진짜 힘들다면",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  5개라도 하는 게 좋다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그럼 </스타일링_담화 맥락 오류>5개라도 <문법_맞춤법>하는게</문법_맞춤법> 좋다.",
+      "sentence_corr_txt_styling": "  5개라도 하는 게 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 이런 <스타일링_높임법><스타일링_담화 맥락 오류>습관들이 많으면 좋습니다.</스타일링_담화 맥락 오류></스타일링_높임법>",
+      "sentence_corr_txt_styling": " 이런 습관들은 많으면 많을수록 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 수학을 못하는 사람이라면 수학 문제집을 3장에서 5장 정도 풀어주는 게 좋다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "조사",
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>아니면 </스타일링_담화 맥락 오류>수학을 못하는 <문법_조사><문법_어미>사람들은</문법_어미></문법_조사> 수학 문제집을 3장 <스타일링_담화 맥락 오류>아니면 </스타일링_담화 맥락 오류>5장 정도 해주는게 좋다.",
+      "sentence_corr_txt_styling": " 만약 수학을 못하는 사람이라면 수학 문제집을 3장에서 5장 정도 풀어주는 게 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 습관을 잘 만들기를 바란다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 이런 습관을 <문법_어미>잘두길 바랍니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36326",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 614,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

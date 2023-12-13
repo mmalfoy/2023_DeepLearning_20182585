@@ -1,0 +1,225 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "올바른 습관을 드리기 위해서 우리는 엄청난 노력과 엄청난 시간을 들여서 지금부터라도 좋은 습관을 드리도록 노력해야 한다#@문장구분# 세 살 버릇 여름까지 간다는 속담이 있을 정도로 습관의 무서움이 괜히 사람들에게 알려진 것이 아니다#@문장구분# 한 번 손톱을 물어 뜯기 시작한 습관은 어른이 되어서도 조금만 불안하거나 일이 잘 안 풀리면 손톱을 물어뜯는 사람이 있고 입술을 뜯는 사람 같은 경우에는 본인의 입술이 피어날 때까지 뜯는 경우도 봤다.#@문장구분# 그리고 다리를 떠는 습관 또한 굉장히 보기 안 좋다#@문장구분# 밥 먹다가 혹은 공부를 하다가 다리를 떨게 되면 집중력도 저하되고 또 보는 사람도 그것을 좋게 보지 않기 때문에 이러한 습관들은 어릴 때부터 반드시 고쳐야 하고 부모님이나 지인들이 도움을 줘야 하는 부분이다.#@문장구분# 또한 나쁜 습관을 알아차리게 되면 바로 버티려고 노력을 하고 그것이 힘들다 그러면 주변 지인들에게 도움을 요청해 어떻게 하면 좋을까를 조언을 받는 것이 좋을 것 같다.#@문장구분#",
+      "paragraph_len": 595,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      23.9,
+      24
+    ],
+    "essay_scoreT_avg": 24.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.19",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "올바른 습관을 들이기 위해서 우리는 엄청난 노력과 엄청난 시간을 들여서 지금부터라도 좋은 습관을 들이도록 노력해야 한다.",
+      "sentence_corr_reason": [
+        "",
+        "마침표",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "올바른 습관을 <문법_어미>드리기 </문법_어미>위해서 우리는 엄청난 노력과 엄청난 시간을 들여서 지금부터라도 좋은 습관을 드리도록 노력해야 <문법_기타>한다</문법_기타>",
+      "sentence_corr_txt_styling": "올바른 습관을 들이기 위해서 우리는 엄청난 노력과 엄청난 시간을 들여서 지금부터라도 좋은 습관을 들이도록 노력해야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 살 버릇 여든까지 간다는 속담이 있을 정도로 습관의 무서움이 괜히 사람들에게 알려진 것이 아니다.",
+      "sentence_corr_reason": [
+        "",
+        "마침표"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 세 살 버릇 <문법_맞춤법>여름까지 </문법_맞춤법>간다는 속담이 있을 정도로 습관의 무서움이 괜히 사람들에게 알려진 것이 <문법_기타>아니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한 번 손톱을 물어뜯기 시작한 습관은 어른이 되어서도 조금만 불안하거나 일이 잘 안 풀리면 손톱을 물어뜯는 사람이 있고 입술을 뜯는 사람 같은 경우에는 본인의 입술이 피가 날 때까지 뜯는 경우도 봤다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " 한 번 손톱을 <문법_맞춤법>물어 뜯기 </문법_맞춤법>시작한 습관은 어른이 되어서도 조금만 불안하거나 일이 잘 안 풀리면 손톱을 물어뜯는 사람이 있고 입술을 뜯는 사람 같은 경우에는 본인의 입술이 <문법_어미>피어날 </문법_어미>때까지 뜯는 경우도 봤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다리를 떠는 습관 또한 굉장히 보기 안 좋다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 다리를 떠는 습관 또한 굉장히 보기 안 <문법_기타>좋다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56665",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 475,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

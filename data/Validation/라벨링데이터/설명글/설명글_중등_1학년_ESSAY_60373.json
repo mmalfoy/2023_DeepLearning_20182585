@@ -1,0 +1,165 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승이라는 것은 바로 학생들이 올바른 일만 하게 도와주는 사람이라고 생각합니다.#@문장구분# 제가 초등학생 때 옆반 선생님이 엄청 엄격하시기로 소문이 났던 선생님이셨는데, 옆반 남자애들이 사춘기가 와서 선생님이 하시는 말씀을 잘 따르지 않고 이상한 짓을 하고 다녀서 선생님께 많이 혼났었습니다.#@문장구분# 그 친구들은 학원에서도 남의 관심을 끌기 위해서 일부러 이상한 행동을 해서 부모님한테 연락이 가기도 했었는데 나중에 졸업할 때 보니까 그 남자애들이 전부 선생님을 엄청 좋아하고 따르고 있었습니다.#@문장구분# 그 반 애들이 말해줬는데 그 선생님께서 애들을 막 혼내지 않고 자기 잘못을 반성하게 많이 노력을 하셨다고 했습니다.#@문장구분# 2학기동안 계속 노력하신 선생님을 생각하니 정말 존경스러웠습니다.#@문장구분# 참된 스승이 되기 위해서는 그 선생님처럼 잘못된 학생을 포기하지 않는 끈기랑, 화가 난다고 막 화를 내지 않는 그런 좋은 성격이 필요하다고 생각합니다.#@문장구분#",
+      "paragraph_len": 577,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      30,
+      20
+    ],
+    "essay_scoreT_avg": 24.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 2학기 동안 계속 노력하신 선생님을 생각하니 정말 존경스러웠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>2학기동안</문법_맞춤법> 계속 노력하신 선생님을 생각하니 정말 존경스러웠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60373",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 458,
+    "essay_main_subject": "참된 스승"
+  }
+}

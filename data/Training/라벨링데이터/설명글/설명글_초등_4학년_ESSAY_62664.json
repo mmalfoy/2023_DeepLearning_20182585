@@ -1,0 +1,264 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 여가생활을 즐겁게 하고 있습니다.#@문장구분# 저는 학습시간이 2시간에서 2시간반정도 합니다.#@문장구분# 노는 시간은 3시간이넘죠.#@문장구분# 저의 여가활동은 첫째, 책을 읽고나서 자신이 그 책의 주인공이 되어보는 상상을 합니다.#@문장구분# 마치 미래의 나에 모습인 것 같은 생각도 듭니다.#@문장구분# 둘째, 게임을 합니다.#@문장구분# 하루에 20분 정도 게임을 하면 그간 쌓였던 스트레스가 풀리기 때문입니다.#@문장구분# 셋째, 레고를 가지고 놉니다.#@문장구분# 책을 읽었던 장면으로 상상하여 하기도하고 그 레고에 맞는 이야기를 하기도 합니다.#@문장구분# 넷째, 놀이터에서 놉니다.#@문장구분# 너무 심심하게 되거나 친구가 있으면 꼭 놉니다.#@문장구분# 정말 재미가 있습니다.#@문장구분# 마지막으로 피아노를 칩니다.#@문장구분# 연습을 해야할 땐 꼭 치지면 화나거나 슬플 때 또 외로울 때 정말 쳐야한다.#@문장구분# 나한테는 위안이 될 수 있기 때문이다.#@문장구분# 나의 학습활동과 여가활동 중 고쳐야 할 점은 학습활동은 제대로 해야한다이고 여가활동은 너무 많은 시간을 투자해서이다.#@문장구분# 그래서 전 그런 것을 고쳐야합니다.#@문장구분# 저는 학습활동과 여가활동이 모두 중요한 것임을 알고 있으니 두 활동의 시간을 조금씩 줄이고 늘여야하겠습니다.#@문장구분#",
+      "paragraph_len": 901,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.714287,
+      22.733334,
+      24.4
+    ],
+    "essay_scoreT_avg": 24.949205,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 학습시간이 2시간에서 2시간 반 정도 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 학습시간이 2시간에서 <문법_맞춤법>2시간반정도</문법_맞춤법> 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 노는 시간은 3시간이 넘죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 노는 시간은 <문법_맞춤법>3시간이넘죠.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저의 여가활동은 첫째, 책을 읽고 나서 자신이 그 책의 주인공이 되어보는 상상을 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저의 여가활동은 첫째, 책을 <문법_맞춤법>읽고나서</문법_맞춤법> 자신이 그 책의 주인공이 되어보는 상상을 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마치 미래의 나의 모습인 것 같은 생각도 듭니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마치 미래의 <문법_맞춤법>나에</문법_맞춤법> 모습인 것 같은 생각도 듭니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 연습을 해야할 땐 꼭 치지면 화나거나 슬플 때 또 외로울 때 정말 쳐야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 연습을 해야할 땐 꼭 치지면 화나거나 슬플 때 또 외로울 때 정말 <문법_어미>쳐야한다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나의 학습활동과 여가활동 중 고쳐야 할 점은 학습활동은 제대로 해야 한다고 여가활동은 너무 많은 시간을 투자해서입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 나의 학습활동과 여가활동 중 고쳐야 할 점은 학습활동은 제대로 <문법_맞춤법>해야한다이고</문법_맞춤법> 여가활동은 너무 많은 시간을 <문법_어미>투자해서이다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 학습활동과 여가활동이 모두 중요한 것임을 알고 있으니 두 활동의 시간을 조금씩 줄이고 늘여야 하겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 학습활동과 여가활동이 모두 중요한 것임을 알고 있으니 두 활동의 시간을 조금씩 줄이고 <문법_맞춤법>늘여야하겠습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62664",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 542,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "1차원적으로 생각하면 당연히 해야한다.#@문장구분# 자원도 생기고 국방력도 올라가고 내가 나중에 군대를 안 가도 된다.#@문장구분# 하지만 그 이름은 말 못하지만 누구나 알고 있는 김씨이고 전 세계에 있는 한국 중 최고의 한국인 조선민주주의인민공화국의 위대하니 령도자 김OO 동지가 하실 지는 모르겠지만 일단 한다고 생각해보자.#@문장구분# 북한의 안 좋은 감정이 있는 사람들과 분일이 생겨 나라가 굉장히 혼란 해질 것이다. #@문장구분#그리고 중국과 XX핑을 싫어 하는 사람들도 들고 일어날 것이고, 미국과의 동맹도 불안 해질 것이다. #@문장구분#국기도 바꾸고 법도 바꾸고 핵도 어떻게 처리할지 고민하고 또 탈북한 사람들이 생존권을 보장해 달라고 시위 하고 최고 지도자도 정하고 화폐 통합하고 하면 나라가 망국에 다다를 것같아서 나는...반대한다! #@문장구분#(반대와 찬성을 합친 말, 김현성이 아무리 생각해도 답이 없어서 결국 내린 결론)#@문장구분#",
+      "paragraph_len": 571,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.9523811,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      26.035713,
+      15.885714
+    ],
+    "essay_scoreT_avg": 21.173807,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.04",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "1차원적으로 생각하면 당연히 해야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "1차원적으로 생각하면 당연히 <문법_맞춤법>해야한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 그 이름은 말 못 하지만 누구나 알고 있는 김 씨이고 전 세계에 있는 한국 중 최고의 한국인 조선민주주의인민공화국의 위대하니 령도자 김OO 동지가 하실지는 모르겠지만 일단 한다고 생각해 보자.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 그 이름은 <문법_맞춤법>말 못하지만</문법_맞춤법> 누구나 알고 있는 김씨이고 전 세계에 있는 한국 중 최고의 한국인 조선민주주의인민공화국의 위대하니 령도자 김OO 동지가 하실 지는 모르겠지만 일단 한다고 생각해보자.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 중국과 XX핑을 싫어 하는 사람들도 들고일어날 것이고, 미국과의 동맹도 불안 해질 것이다. ",
+      "sentence_corr_reason": [
+        "붙여쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 중국과 XX핑을 싫어 하는 사람들도 <문법_맞춤법>들고 일어날 것이고</문법_맞춤법>, 미국과의 동맹도 불안 해질 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "국기도 바꾸고 법도 바꾸고 핵도 어떻게 처리할지 고민하고 또 탈북한 사람들이 생존권을 보장해 달라고 시위하고 최고 지도자도 정하고 화폐 통합하고 하면 나라가 망국에 다다를 것 같아서 나는 반대한다! ",
+      "sentence_corr_reason": [
+        "붙여쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "국기도 바꾸고 법도 바꾸고 핵도 어떻게 처리할지 고민하고 또 탈북한 사람들이 생존권을 보장해 달라고 <문법_맞춤법>시위 하고</문법_맞춤법> 최고 지도자도 정하고 화폐 통합하고 하면 나라가 망국에 다다를 것같아서 나는...반대한다! ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36344",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 431,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

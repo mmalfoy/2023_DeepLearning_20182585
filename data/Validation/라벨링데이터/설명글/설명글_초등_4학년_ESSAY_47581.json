@@ -1,0 +1,301 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 나의 선행의 기역나지 않아서 주변에서 아는 사람이 어디서 들은 사람으로 하겠습니다.#@문장구분# 선행을 한 1번째 사람은 코로나백신 주는 의사분들입니다.#@문장구분# 최근 전세계를 위험하게 한 바이러스 코로나19.#@문장구분# 코로나 19는 현재 가장위험한 바이러스들 중 1개인대요.#@문장구분# 지금 이 상황에서도 코로나가 빨리 없어지기 바라는 의사분들 코로나의 걸릴수도 있어도 백신을 주시는 분들이 실은 분들은 업죠?#@문장구분# 2번째는 마스크 잘쓰는 시민분들 입니다!#@문장구분# 최근 코로나때문에 다들 마스크 쓰시죠?#@문장구분# 물론 마스크를 안쓰는 나쁜시민들도 있읍니다.#@문장구분# 하지많 우리 마스크는 전새계시민 분들을 위해서라고 마스크 잘 착용합시다.#@문장구분# -끝-#@문장구분#",
+      "paragraph_len": 525,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.933334,
+      21.133335,
+      11.933332
+    ],
+    "essay_scoreT_avg": 18.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.08",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 나의 선행의 기억나지 않아서 주변에서 아는 사람이 어디서 들은 사람으로 하겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 나의 선행의 <문법_맞춤법>기역나지 </문법_맞춤법>않아서 주변에서 아는 사람이 어디서 들은 사람으로 하겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선행을 한 첫 번째 사람은 코로나 백신 주는 의사 분들입니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 선행을 한 <문법_기타>1번째</문법_기타> 사람은 <문법_맞춤법>코로나백신 </문법_맞춤법>주는 의사분들입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 코로나 19는 현재 가장 위험한 바이러스들 중 1개인데요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 코로나 19는 현재 <문법_맞춤법>가장위험한 </문법_맞춤법>바이러스들 중 <문법_어미>1개인대요.</문법_어미>",
+      "sentence_corr_txt_styling": " 코로나 19는 현재 가장 위험한 바이러스들 중 1개인데요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금 이 상황에서도 코로나가 빨리 없어지기 바라는 의사 분들 코로나에 걸릴 수도 있어도 백신을 주시는 분들이 싫은 분들은 없죠?",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 지금 이 상황에서도 코로나가 빨리 없어지기 바라는 <문법_맞춤법>의사분들 </문법_맞춤법><문법_조사>코로나의 </문법_조사>걸릴수도 있어도 백신을 주시는 분들이 실은 분들은 업죠?",
+      "sentence_corr_txt_styling": " 지금 이 상황에서도 코로나가 빨리 없어지기 바라는 의사 분들 코로나에 걸릴 수도 있어도 백신을 주시는 분들이 싫은 분들은 없죠?",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째는 마스크 잘 쓰는 시민 분들입니다!",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>2번째는 </문법_기타>마스크 <문법_맞춤법>잘쓰는</문법_맞춤법> 시민분들 입니다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 최근 코로나 때문에 다들 마스크 쓰시죠?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 최근 <문법_맞춤법>코로나때문에 </문법_맞춤법>다들 마스크 쓰시죠?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 마스크를 안 쓰는 나쁜 시민들도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 물론 마스크를 <문법_맞춤법>안쓰는 </문법_맞춤법>나쁜시민들도 <문법_어미>있읍니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 우리 마스크는 전세계 시민 분들을 위해서라고 마스크 잘 착용합시다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>하지많 </문법_맞춤법>우리 마스크는 전새계시민 분들을 위해서라고 마스크 잘 착용합시다.",
+      "sentence_corr_txt_styling": " 하지만 우리 마스크는 전세계 시민 분들을 위해서라고 마스크 잘 착용합시다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47581",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 325,
+    "essay_main_subject": "나의 선행"
+  }
+}

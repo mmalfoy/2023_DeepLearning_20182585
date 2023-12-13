@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리는 항상 위생을 지키며 살고있습니다.#@문장구분# 위생을 지키지 않고 생활한다면 병에 걸리기 쉽습니다.#@문장구분# 이런 이유 때문에 라도 꼭 위생을 철저히 해야 합니다. #@문장구분#어떻게 해야 위생을 지킬 수 있을까요?#@문장구분#일단 하루의 한 번 정도는 샤워를 해야합니다.#@문장구분# 여름에는 땀이 많이 나기 때문에 더 자극해주는게 좋습니다,#@문장구분#그리고 머리는 1~2일에 한 번 정도 감아주는게 좋습니다#@문장구분# 이런 것들 말고도 좋은 식습관 가지기와 운동하기등도 위생을 지키는 것과 같이 중요합니다.#@문장구분# 항상 위생을 잘 지키는 생활을 해야 건강하게 생활 할 수 있습니다.",
+      "paragraph_len": 442,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.019047,
+      19.133333,
+      13.952381
+    ],
+    "essay_scoreT_avg": 16.034922,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리는 항상 위생을 지키며 살고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리는 항상 위생을 지키며<문법_맞춤법> 살고있습</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 이유 때문에라도 꼭 위생을 철저히 해야 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 이유 <문법_맞춤법>때문에 라도</문법_맞춤법> 꼭 위생을 철저히 해야 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 하루의 한 번 정도는 샤워를 해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 하루의 한 번 정도는 샤워를 <문법_맞춤법>해야합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여름에는 땀이 많이 나기 때문에 더 자극해 주는 게 좋습니다,",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여름에는 땀이 많이 나기 때문에 더 <문법_맞춤법>자극해주는게 좋</문법_맞춤법>습니다,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 머리는 1~2일에 한 번 정도 감아주는 게 좋습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 머리는 1~2일에 한 번 정도 <문법_맞춤법>감아주는게</문법_맞춤법> 좋습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 것들 말고도 좋은 식습관 가지 기와 운동하기 등도 위생을 지키는 것과 같이 중요합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 것들 말고도 좋은 식습관 <문법_맞춤법>가지기와 운동하기등도 </문법_맞춤법>위생을 지키는 것과 같이 중요합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 항상 위생을 잘 지키는 생활을 해야 건강하게 생활할 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 항상 위생을 잘 지키는 생활을 해야 건강하게 <문법_맞춤법>생활 할</문법_맞춤법> 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51073",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 284,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

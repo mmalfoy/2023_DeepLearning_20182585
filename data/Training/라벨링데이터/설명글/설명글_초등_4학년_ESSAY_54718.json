@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 학습활동은 학교방과후에 방과후컴퓨터를 하고있고 집에와서 숙제와 기본적인 공부를 합니다.#@문장구분# 그러나 문제점은 공부를하다가 자꾸 다른생각을 하거나 딴짓을 하다는겁니다.#@문장구분# 유투브를 보거나 핸드폰을 자꾸만 보게됩니다.#@문장구분# 꼭 고쳐야 할점입니다.#@문장구분# 여가활동때에는 핸드폰게임을 주로 많이 합니다.#@문장구분# 친구들과 같이 놀지않아도 시간이 정말 빨리갈만큼 좋아합니다. #@문장구분#학습활동과 여가활동이 자꾸만 겹쳐서 공부를하다가도 핸드폰을 보게되고 다른생각을 하게되는 것이 저의 가장 큰잘못이고 고쳐야할점입니다.#@문장구분#",
+      "paragraph_len": 404,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.933334,
+      23.952381,
+      17.152382
+    ],
+    "essay_scoreT_avg": 18.346033,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2010.11.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "053",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 학습활동은 학교 방과 후에 방과 후 컴퓨터를 하고 있고 집에 와서 숙제와 기본적인 공부를 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 학습활동은 <문법_맞춤법>학교방과후에 방과후컴퓨터를 하고있고 집에와서</문법_맞춤법> 숙제와 기본적인 공부를 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나 문제점은 공부를 하다가 자꾸 다른 생각을 하거나 딴짓을 하다는 겁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러나 문제점은 <문법_맞춤법>공부를하다가 자꾸 다른생각을 하거나 딴짓을 하다는겁니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유튜브를 보거나 핸드폰을 자꾸만 보게 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>유투브를 </문법_맞춤법>보거나 핸드폰을 자꾸만 보게됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 꼭 고쳐야 할 점입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 꼭 고쳐야 <문법_맞춤법>할점입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동 때에는 핸드폰 게임을 주로 많이 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>여가활동때에는 핸드폰게임을</문법_맞춤법> 주로 많이 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들과 같이 놀지 않아도 시간이 정말 빨리 갈 만큼 좋아합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구들과 같이 <문법_맞춤법>놀지않아도</문법_맞춤법> 시간이 정말 빨리갈만큼 좋아합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학습활동과 여가활동이 자꾸만 겹쳐서 공부를 하다가도 핸드폰을 보게 되고 다른 생각을 하게 되는 것이 저의 가장 큰 잘못이고 고쳐야 할 점입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학습활동과 여가활동이 자꾸만 겹쳐서 <문법_맞춤법>공부를하다가도 핸드폰을 보게되고 다른생각을 하게되는 것이 저의 가장 큰잘못이고 고쳐야할점입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_54718",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 265,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

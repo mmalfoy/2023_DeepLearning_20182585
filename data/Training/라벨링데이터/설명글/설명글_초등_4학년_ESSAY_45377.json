@@ -1,0 +1,332 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 착한일을 지금보다 더 많이 하고 싶다.#@문장구분# 왜냐하면 착한일을 하면 기분이 좋아지기 때문이다.#@문장구분#\n나는 선행을 많이 한다.#@문장구분# 대표적으로 나에게 기억이 남는것은 오늘 만인산에 갈때 간식을 내동생 에게 나눠줬다.#@문장구분# 퓌쉬스넥을 나눠줬는데 족히 20개는 될것이다. #@문장구분#그때 묘한 기분이 들었다. #@문장구분#퓌쉬스넥이 아까웠는데 뿌듯하기도 하고 보람을 느꼈다.#@문장구분#\n그리고 동생이 학원에서 돌아올 시간에 비가내려 내가 우산을들고 학원 앞까지 가서 데려 왔다.#@문장구분# 그때 비가와 찜찜하기도했고 귀찮아서 싫었다. #@문장구분#그러나 하고나니 기분도 개운하고 만족감이 들었다.#@문장구분#\n마지막으로 편의점으로 심부름을 갔다.#@문장구분# 20L종량제 봉투 한 묵금을 사왔다.#@문장구분# 처음 가는거라 걱정됬는데 같다오니 자신감이 생겼다.#@문장구분#\n나는 이렇게 선행을 했다.#@문장구분# 그런데 다른사람들은 어떻게 선행을 했는지 궁금하다.#@문장구분#",
+      "paragraph_len": 704,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.447618,
+      21.933334,
+      20.8
+    ],
+    "essay_scoreT_avg": 21.060316,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.24",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 착한 일을 지금보다 더 많이 하고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>착한일을</문법_맞춤법> 지금보다 더 많이 하고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 착한 일을 하면 기분이 좋아지기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>착한일을</문법_맞춤법> 하면 기분이 좋아지기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대표적으로 나에게 기억이 남는 것은 오늘 만인산에 갈 때 간식을 내 동생에게 나눠줬다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대표적으로 나에게 기억이 <문법_맞춤법>남는것은</문법_맞춤법> 오늘 만인산에 갈때 간식을 내동생 에게 나눠줬다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 피쉬스넥을 나눠 줬는데 족히 20개는 될 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>퓌쉬스넥</문법_맞춤법>을 나눠줬는데 족히 20개는 될것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "피쉬스넥이 아까웠는데 뿌듯하기도 하고 보람을 느꼈다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>퓌쉬스넥이</문법_맞춤법> 아까웠는데 뿌듯하기도 하고 보람을 느꼈다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그리고 동생이 학원에서 돌아올 시간에 비가내려 내가 우산을들고 학원 앞까지 가서 데려왔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n그리고 동생이 학원에서 돌아올 시간에 비가내려 내가 우산을들고 학원 앞까지 가서 <문법_맞춤법>데려 왔다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때 비가 와 찜찜하기도 했고 귀찮아서 싫었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때 <문법_맞춤법>비가와 찜찜하기도했고</문법_맞춤법> 귀찮아서 싫었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러나 하고 나니 기분도 개운하고 만족감이 들었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러나 <문법_맞춤법>하고나니</문법_맞춤법> 기분도 개운하고 만족감이 들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 20L 종량제 봉투 한묶음을 사 왔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>20L종량제</문법_맞춤법> 봉투 한 묵금을 사왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음 가는 거라 걱정됐는데 갔다 오니 자신감이 생겼다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 처음 <문법_맞춤법>가는거라 걱정됬는데 같다오니</문법_맞춤법> 자신감이 생겼다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 다른 사람들은 어떻게 선행을 했는지 궁금하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 <문법_맞춤법>다른사람들은</문법_맞춤법> 어떻게 선행을 했는지 궁금하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45377",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 405,
+    "essay_main_subject": "나의 선행"
+  }
+}

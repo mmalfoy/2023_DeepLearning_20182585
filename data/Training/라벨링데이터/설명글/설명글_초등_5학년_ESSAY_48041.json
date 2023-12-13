@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 가장 좋아하는 과목은 국어 입니다.#@문장구분#다른 재미있는 과목도 많지만 그중 국어 과목을 가장 좋아하고 제일 잘하기 때문입니다.#@문장구분#\n이 국어 과목을 좋아하는 이유는 글을 쓰면 마음이 차분해지고 기분이 좋게 때문입니다.#@문장구분#처음에는 국어과목이 아닌 다른과목을 좋아 했습니다.#@문장구분#\n국어시간에 글을 읽기가 귀찮고 쓰기가 싫었습니다.#@문장구분#또 다른 국어시간날이번엔 마음을 다시 다잡고 글을 읽었습니다.#@문장구분# 다른날에는 글을 읽지 않고다른짓들만 했는데 오늘따라 글이 잘 읽어졌습니다.#@문장구분#문장제 문제도 어렵지 않았습니다.#@문장구분#국어시험을 볼 때 그 선에는문장을 읽고 문제 푸는것이 너무 어렵다고 느꼇지만 이젠 그렇지 않습니다.#@문장구분#국어는 재미있는것 같습니다.",
+      "paragraph_len": 517,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      19.666668,
+      21.133335
+    ],
+    "essay_scoreT_avg": 21.177778,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 가장 좋아하는 과목은 국어입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 가장 좋아하는 과목은 <문법_맞춤법>국어 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "처음에는 국어 과목이 아닌 다른 과목을 좋아했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "처음에는 <문법_맞춤법>국어과목이 아닌 다른과목을 좋아 했습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 다른 국어시간 날, 이번엔 마음을 다시 다잡고 글을 읽었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장 부호",
+        "띄어쓰기, 문장 부호"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "또 다른 <문법_맞춤법><문법_기타>국어시간날이번엔</문법_기타></문법_맞춤법> 마음을 다시 다잡고 글을 읽었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 다른날에는 글을 읽지 않고다른짓들만 했는데 오늘따라 글이 잘 읽어졌습니다.",
+      "sentence_corr_txt_styling": " 다른날에는 글을 읽지 않고다른짓들만 했는데 오늘따라 글이 잘 읽어졌습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "국어시험을 볼 때 그 전에는 문장을 읽고 문제 푸는 것이 너무 어렵다고 느꼈지만 이젠 그렇지 않습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "국어시험을 볼 때 그 <문법_맞춤법>선에는문장을</문법_맞춤법> 읽고 문제 푸는것이 너무 어렵다고 느꼇지만 이젠 그렇지 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "국어는 재미있는 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "국어는 <문법_맞춤법>재미있는것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48041",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 338,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

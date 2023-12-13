@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 물을 많이 마시는 습관을 들이기 위해 노력 중입니다.#@문장구분# 원래 물을 정말 안 마시는 편인데 물을 많이 안 마시다보니 변비가 생기고 말았습니다.#@문장구분# 처음에는 심각하지 않게 생각하고 넘겼는데 변비에 걸린 채 3년 이상을 살다보니 장도 안 좋아지고 배가 자주 아프게 되었습니다.#@문장구분# 가끔 변비약을 먹어봤지만 효과는 잠시일 뿐 나아지지 않았고, 오히려 약을 먹은 날엔 배가 아파서 너무 고통스러웠습니다.#@문장구분# 병원에 가보니 물을 많이 마시라는 말 뿐이였습니다.#@문장구분# 그래서 엄마와 아빠가 저에게 억지로 물을  마시게끔 했습니다.#@문장구분# 저도 이젠 심각성을 느끼고 매일 물을 1리터 가까이는 마시도록 노력 중입니다.#@문장구분# 이렇게 물을 많이 마시다보면 변비가 사라질 것이라는 희망을 안고 말이죠.#@문장구분# 이 글을 보는 모든 사람들이 물의 중요성을 알고 물을 많이 마셨으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 592,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.3,
+      26.15,
+      17.35
+    ],
+    "essay_scoreT_avg": 21.599998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 처음에는 심각하지 않게 생각하고 넘겼는데 변비에 걸린 채 3년 이상을 살다 보니 장도 안 좋아지고 배가 자주 아프게 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 처음에는 심각하지 않게 생각하고 넘겼는데 변비에 걸린 채 3년 이상을 <문법_맞춤법>살다보니</문법_맞춤법> 장도 안 좋아지고 배가 자주 아프게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 병원에 가보니 물을 많이 마시라는 말 뿐이었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 병원에 가보니 물을 많이 마시라는 말 <문법_맞춤법>뿐이였습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 이젠 심각성을 느끼고 매일 물을 1리터 가까이 마시도록 노력 중입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 저도 이젠 심각성을 느끼고 매일 물을 1리터 <문법_조사>가까이는</문법_조사> 마시도록 노력 중입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 물을 많이 마시다 보면 변비가 사라질 것이라는 희망을 안고 말이죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 물을 많이 <문법_맞춤법>마시다보면</문법_맞춤법> 변비가 사라질 것이라는 희망을 안고 말이죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69127",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 412,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

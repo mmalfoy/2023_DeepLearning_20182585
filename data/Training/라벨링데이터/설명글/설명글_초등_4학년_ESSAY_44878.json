@@ -1,0 +1,203 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "모두가 선행을 실천한다고 생각한다.#@문장구분# 그렇지만 꼭 선행을 하고 있지는 않다.#@문장구분# 꼭 선행을 해야 할까?#@문장구분# 선행은 착한 일을 하는 것이다.#@문장구분# 꼭 선행을 한다면 나쁜 일이 생길 수도 있다. #@문장구분#예를 들어 어떤 사람이 \"~좀 해줄래?\"라는 말에 도와주었다가 그 사람이 아이들을 잡아갈 수 있다.#@문장구분# 나는 그 일에 거절하는 것이 선행이라고 생각한다. #@문장구분#부정행위만 해서는 안된다.#@문장구분# 선행도 강약조절을 해야 한다고#@문장구분#",
+      "paragraph_len": 394,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1.5714285,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      12.8,
+      15.019047,
+      13.314285
+    ],
+    "essay_scoreT_avg": 13.71111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 나는 그 일에 거절하는 것이 선행이라고 생각한다. ",
+      "sentence_corr_txt_styling": " 나는 그 일에 거절하는 것이 선행이라고 생각한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "부정행위만 해서는 안 된다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "부정행위만 해서는 <문법_맞춤법>안된다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "부정행위만 해서는 안 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선행도 강약 조절을 해야 한다고",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 선행도 <문법_맞춤법>강약조절을</문법_맞춤법> 해야 한다고",
+      "sentence_corr_txt_styling": " 선행도 강약 조절을 해야 한다고",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44878",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 215,
+    "essay_main_subject": "나의 선행"
+  }
+}

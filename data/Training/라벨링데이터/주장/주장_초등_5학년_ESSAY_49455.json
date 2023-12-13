@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미디어는 시대가 발전할때 같이발전 하는 것 입니다.#@문장구분# 미디어는 일종에 스마트폰, PC, TV 등 여러가지가 있는데요.#@문장구분# 전 그모두 사용합니다.#@문장구분# 미디어는 점점 빨라지고, 더욱 수많은 정보들을 가지고 있습니다.#@문장구분# 예전에는 전화 연결을하는  사람도 있었다고 하네요..#@문장구분# 하지만 미디어에 발전으로인해서 없어진 직업들이 많아졌습니다.#@문장구분# 하지만 직업이 없어졌지만 미디에의 발전은 소득보다 이득이되는게 더욱 많다고 생각합니다.#@문장구분# 그렇기에 많은 직없들이 없어지는 만큼 이득을 보는것입다.#@문장구분# 미디어의 발젼은 우리들을 더욱편리하게한다.#@문장구분#  \n이렇게 오늘 전 미디어의 발전과 사용방법에 관련한 이야기를 정리해 보았습니다.#@문장구분# 감사합니다.",
+      "paragraph_len": 535,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.75,
+      14.514286,
+      14.814285
+    ],
+    "essay_scoreT_avg": 17.359524,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "미디어 발전과 사용방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미디어는 시대가 발전 할때 같이 발전하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미디어는 시대가 발전할때 같이발전 하는 <문법_맞춤법>것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미디어는 일종에 스마트폰, PC, TV 등 여러 가지가 있는데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미디어는 일종에 스마트폰, PC, TV 등 <문법_맞춤법>여러가지가 </문법_맞춤법>있는데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전 그 모두 사용합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 전 <문법_맞춤법>그모두 </문법_맞춤법>사용합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예전에는 전화 연결을 하는  사람도 있었다고 하네요..",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예전에는 전화 <문법_맞춤법>연결을하는 </문법_맞춤법> 사람도 있었다고 하네요..",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 미디어에 발전으로 인해서 없어진 직업들이 많아졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 미디어에 <문법_맞춤법>발전으로인해서</문법_맞춤법> 없어진 직업들이 많아졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 직업이 없어졌지만 미디에의 발전은 소득보다 이득이 되는 게 더욱 많다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 직업이 없어졌지만 미디에의 발전은 소득보다 <문법_맞춤법>이득이되는게 </문법_맞춤법>더욱 많다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기에 많은 직업들이 없어지는 만큼 이득을 보는 것 입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기에 많은 <문법_맞춤법>직없들이 </문법_맞춤법>없어지는 만큼 이득을 보는것입다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미디어의 발전은 우리들을 더욱 편리하게 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미디어의 발젼은 우리들을 <문법_맞춤법>더욱편리하게한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49455",
+    "essay_prompt": " 미디어는 우리 주변에서 쉽게 찾아볼 수 있습니다. 그중 텔레비전과 라디오, 컴퓨터, 스마트폰 등이 대표적인 미디어라고 할 수 있지요. 사람들은 이 미디어를 이용해 자신의 의사나 감정, 또는 정보를 주고받습니다.\n\n 과거에는 생각이나 뜻을 전하기 위해 말을 이용해 전달해야 했지만, 지금은 SNS(페이스북, 카카오톡 등)를 통해 실시간으로 대화하며 화상 채팅을 무료로 즐기는 시대가 되었습니다. 여러분도 가족/친구들과 SNS를 통해 많은 소통을 하고 계시지요?\n\n 이러한 미디어는 매우 빠른 속도로 진화를 거듭하고 있어요. 앞으로도 더욱 우리 생활 깊숙이 파고들 것입니다.\n\n 다만, 미디어의 발전은 수많은 문제의 원인이 되기도 해요. 다른 사람의 얼굴을 SNS에 올리거나 악플로 남에게 상처 되는 말을 하기도 하지요. 또한, 틀린 정보가 빠르게 퍼져 나가 사람들에게 해를 끼치기도 한답니다.\n\n 이렇게 빠르게 변화하는 미디어의 발 전속에서 우리는 어떻게 미디어를 사용해야 할까요?\n\n 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 할까요? 아니면 새로운 시대에 맞게 모든 자유를 보장해야 할까요? 그 사이에 적절한 사용 방법이 있을까요? 여러분의 의견과 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 337,
+    "essay_main_subject": "미디어 발전과 사용방법"
+  }
+}

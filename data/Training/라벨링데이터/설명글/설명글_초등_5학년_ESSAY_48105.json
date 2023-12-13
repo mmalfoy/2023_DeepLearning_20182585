@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 퍼즐 맞추기 입니다.#@문장구분# 퍼즐 맞추기의 방법은, 예시 그림을 보고 그림을 완성하는 것 입니다.#@문장구분# 이퍼즐 맞추기를 아기들이 하는 것이라고 생각하지만, 1000PCS나 100PCS 같은 퍼즐은 맞추기 아주 어렵 습니다.#@문장구분#제가 퍼즐 맞추기를 좋아하는 이유는,다 맞추면 짜릿한 쾌감이 들고, 그림액자도 비싸지 않고, 시간도 잘가기때문입니다.#@문장구분# 그리고, 퍼즐은 공간지각능력 같은것을 키워 주어서 뇌에도 좋습니다.#@문장구분# 그래서 저는 퍼즐을 아직까지도 하는것 같습니다.#@문장구분#",
+      "paragraph_len": 374,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.466667,
+      24.114285,
+      27.952381
+    ],
+    "essay_scoreT_avg": 24.177778,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 퍼즐 맞추기의 방법은, 예시 그림을 보고 그림을 완성하는 것입니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 퍼즐 맞추기의 방법은, 예시 그림을 보고 그림을 완성하는 <문법_맞춤법>것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 퍼즐 맞추기를 아기들이 하는 것이라고 생각하지만, 1000PCS나 100PCS 같은 퍼즐은 맞추기 아주 어렵습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이퍼즐</문법_맞춤법> 맞추기를 아기들이 하는 것이라고 생각하지만, 1000PCS나 100PCS 같은 퍼즐은 맞추기 아주 어렵 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 퍼즐 맞추기를 좋아하는 이유는, 다 맞추면 짜릿한 쾌감이 들고, 그림액자도 비싸지 않고, 시간도 잘 가기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 퍼즐 맞추기를 좋아하는 <문법_맞춤법>이유는,</문법_맞춤법>다 맞추면 짜릿한 쾌감이 들고, 그림액자도 비싸지 않고, 시간도 잘가기때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고, 퍼즐은 공간 지각 능력 같은 것을 키워 주어서 뇌에도 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고, 퍼즐은 <문법_맞춤법>공간지각능력 같은것을</문법_맞춤법> 키워 주어서 뇌에도 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 퍼즐을 아직까지도 하는 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 퍼즐을 아직까지도 <문법_맞춤법>하는것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48105",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 255,
+    "essay_main_subject": "나의 취미"
+  }
+}

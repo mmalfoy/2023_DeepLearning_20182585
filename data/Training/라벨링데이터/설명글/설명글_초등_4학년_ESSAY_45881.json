@@ -1,0 +1,267 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미활동은 줄넘기와 배드민턴이다.#@문장구분# 줄넘기는 왜취미로 삶고있냐면 줄넘기는 기술도많고 음악에 리듬을 맞쳐 줄넘기를 해서재밌다.#@문장구분# 배드민턴도 왜취미로 삶고있냐면 다른친구들과 배드민턴을 칠수있기때문이다.#@문장구분# 그리고 도서관에서 조용하게 책을 읽는 것도 취미다!#@문장구분# 왜냐하면도서관에서 조용하게책을 읽으면 마음이 편한해지고 마음이아주 즐거워진다.#@문장구분# 만약 내가 어른이 되면 크레이터가 되고 싶다.#@문장구분# 왜냐하면 구독자가 점점 많아지면 돈도 벌고 인기가 많아져서이다.#@문장구분# 내친구 새명 모여서 놀면은 엄청나게재밌다.#@문장구분# 야식은 #라면,#게장을 좋아하고 아주 맛있게먹는다.#@문장구분# 간식도먹는다.#@문장구분#뭐냐눠 아이스크림,과자,호떡등을 먹는다.#@문장구분#",
+      "paragraph_len": 549,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.8571428,
+          1.8571428,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              3,
+              0
+            ],
+            [
+              1,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.9047619,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.695238,
+      22.695238,
+      23.6
+    ],
+    "essay_scoreT_avg": 22.996826,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          3,
+          0
+        ],
+        [
+          1,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 줄넘기는 왜 취미로 삼고 있냐면 줄넘기는 기술도 많고 음악에 리듬을 맞혀 줄넘기를 해서 재밌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 줄넘기는 <문법_맞춤법>왜취미로 삶고있냐면</문법_맞춤법> 줄넘기는 기술도많고 음악에 리듬을 맞쳐 줄넘기를 해서재밌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 배드민턴도 왜 취미로 삼고 있냐면 다른 친구들과 배드민턴을 칠 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 배드민턴도 <문법_맞춤법>왜취미로 삶고있냐면 다른친구들과 배드민턴을 칠수있기때문이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 도서관에서 조용하게 책을 읽으면 마음이 편안해지고 마음이 아주 즐거워진다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>왜냐하면도서관에서 조용하게책을</문법_맞춤법> 읽으면 마음이 편한해지고 마음이아주 즐거워진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 친구 세 명이 모여서 놀면 엄청나게 재밌다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어미>내친구 새명 모여서 놀면은 엄청나게재밌다.</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 야식은 #라면,#게장을 좋아하고 아주 맛있게 먹는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 야식은 #라면,#게장을 좋아하고 아주 <문법_맞춤법>맛있게먹는다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 간식도 먹는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>간식도먹는다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "무엇이냐면 아이스크림, 과자, 호떡 등을 먹는다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어미>뭐냐눠 아이스크림,과자,호떡등을 먹는다</문법_어미></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45881",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 329,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

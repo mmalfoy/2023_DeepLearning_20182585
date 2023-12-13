@@ -1,0 +1,414 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 진정한 친구는 소중하고 또 소중한 존재이다.#@문장구분#내가 슬플때  힘들때 나의 고민을 잘 들어주고,  나를 위로해주는 친구가 있어야한다고 생각한다.#@문장구분# 또는 유쾌하고 재치있고  센스있는 친구가 진정한 친구라고 생각을 한다.#@문장구분# 이기적이지 않고 날 잘  챙겨주는 친구 하나정도는 가져야한다는것을 5년 반동안 학교생활을 하면서 정말 크게 느낀것이다.#@문장구분# 학교다니면서도친구의 소중함을 느낀다.#@문장구분# 내가 생각하는 친구는 단순히 재밌고,착하고,  배려심이 많고, 소외시키지않는 친구가내가 생각하는 완벽한 친구이다.#@문장구분# 물론사람이 완벽하지는 않지만  연필뒤에 붙어있는 지우개처럼 나를 항상 챙겨주는 그런 친구인것이다.#@문장구분# 진정한친구는 '나를 생각해주고 걱정해주는 친구' 이다.#@문장구분# 계속 학교를 다니면서 아주 많고 많은 일 들이 일어났지만 소외당한적도 많다.#@문장구분# 소외를 당하면 어떤기분인지 자세히 알기에 공감이 많이 된다.#@문장구분#그래서 꼭 소외시키지 않는 친구가  진정한 친구라고 생각을 한다. #@문장구분#   또 내가 다른 친구의 기준으로 어떤식으로 보이고 싶냐면 배려심이 깊고  착한친구, 재밌는 친구의 시선으로  주목 받았으면 좋겠다.#@문장구분# 내옆에는 착하고 마음이 따뜻한 친구들도 수두룩하게있어서 6학년 학교 생활을 잘 해나가고있는것같다.#@문장구분# 또 주변에는 웃기고 유쾌한 친구들도 많아서 다행이라고 생각한다. #@문장구분#곧 중학생으로 올라가는데 남은 초등학교 생활을 잘 마치고 마지막까지도, 앞으로도 계속 좋은친구를 두고 학교생활을 잘 하고 다녔으면 좋겠다.#@문장구분#요즘 사춘기 시기이도 하고 친구관계 문제가 많이 일어나고 있어서 많이  고민이 된다#@문장구분#. 지인들과 언니, 부모님께 제대로 된 고민상담을 받고싶다.#@문장구분#",
+      "paragraph_len": 1140,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.15,
+      26,
+      24.4
+    ],
+    "essay_scoreT_avg": 25.183334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 슬플 때도  힘들 때도 나의 고민을 잘 들어주고,  나를 위로해주는 친구가 있어야한다고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 <문법_맞춤법>슬플때  힘들때</문법_맞춤법> 나의 고민을 잘 들어주고,  나를 위로해주는 친구가 있어야한다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이기적이지 않고 날 잘  챙겨주는 친구 하나 정도는 가져야 한다는 것을 5년 반 동안 학교생활을 하면서 정말 크게 느꼈다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 이기적이지 않고 날 잘  챙겨주는 친구 <문법_맞춤법>하나정도는</문법_맞춤법> 가져야한다는것을 5년 반동안 학교생활을 하면서 <스타일링_담화 맥락 오류>정말 크게 느낀것이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 이기적이지 않고 날 잘  챙겨주는 친구 하나 정도는 가져야 한다는 것을 5년 반 동안 학교생활을 하면서 정말 크게 느꼈다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교에 다니면서도 친구의 소중함을 느낀다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>학교다니면서도친구의</문법_맞춤법> 소중함을 느낀다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 생각하는 친구는 재밌고, 착하고,  배려심이 많고, 소외시키지 않는 친구가 내가 생각하는 완벽한 친구이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 내가 생각하는 친구는 <스타일링_담화 맥락 오류>단순히 재밌고,착하고, </스타일링_담화 맥락 오류> 배려심이 많고, <문법_맞춤법>소외시키지않는</문법_맞춤법> 친구가내가 생각하는 완벽한 친구이다.",
+      "sentence_corr_txt_styling": " 내가 생각하는 친구는 재밌고, 착하고,  배려심이 많고, 소외시키지 않는 친구가 내가 생각하는 완벽한 친구이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 사람이 완벽하지는 않다. 하지만  연필 뒤에 붙어있는 지우개처럼 나를 항상 챙겨주는 그런 친구는 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>물론사람이 완벽하지는 않지만</스타일링_패러프레이징>  <문법_맞춤법>연필뒤에</문법_맞춤법> 붙어있는 지우개처럼 나를 항상 챙겨주는 그런 친구인것이다.",
+      "sentence_corr_txt_styling": " 물론 사람이 완벽하지는 않다. 하지만  연필 뒤에 붙어있는 지우개처럼 나를 항상 챙겨주는 그런 친구는 있다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진정한 친구는 '나를 생각해주고 걱정해주는 친구'이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>진정한친구는</문법_맞춤법> '나를 생각해주고 걱정해주는 친구' 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_패러프레이징>계속 학교를 다니면서 아주 많고 많은 일 들이 일어났지만 소외당한적도 많다.</스타일링_패러프레이징></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 학교에 다니면서 아주 많고 많은 일들이 일어났고, 소외당한 적도 많다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 소외를 당하면 어떤 기분인지 잘 알기에 공감이 많이 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 소외를 당하면 <문법_맞춤법>어떤기분인지</문법_맞춤법> <스타일링_담화 맥락 오류>자세히</스타일링_담화 맥락 오류> 알기에 공감이 많이 된다.",
+      "sentence_corr_txt_styling": " 소외를 당하면 어떤 기분인지 잘 알기에 공감이 많이 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>그래서 꼭 소외시키지 않는 친구가  진정한 친구라고 생각을 한다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": "그래서 소외시키지 않는 친구가  진정한 친구라고 생각한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "   <스타일링_패러프레이징>또 내가 다른 친구의 기준으로 어떤식으로 보이고 싶냐면</스타일링_패러프레이징> 배려심이 깊고  착한친구, 재밌는 친구의 시선으로  주목 받았으면 좋겠다.",
+      "sentence_corr_txt_styling": "   나는 다른 친구에게 배려심이 깊고 착한 친구, 재밌는 친구로 주목 받고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 옆에는 착하고 마음이 따뜻한 친구들도 수두룩하게 있어서 6학년 학교 생활을 잘 해 나가고 있는 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>내옆에는</문법_맞춤법> 착하고 마음이 따뜻한 친구들도 수두룩하게있어서 6학년 학교 생활을 잘 해나가고있는것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "곧 중학교로 올라가는데 남은 초등학교 생활을 잘 마치고 마지막까지도, 앞으로도 계속 좋은 친구를 두고 학교생활을 잘 했으면 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "곧 <스타일링_담화 맥락 오류>중학생으로</스타일링_담화 맥락 오류> 올라가는데 남은 초등학교 생활을 잘 마치고 마지막까지도, 앞으로도 계속 <문법_맞춤법>좋은친구를</문법_맞춤법> 두고 학교생활을 잘 <스타일링_패러프레이징>하고 다녔으면</스타일링_패러프레이징> 좋겠다.",
+      "sentence_corr_txt_styling": "곧 중학교로 올라가는데 남은 초등학교 생활을 잘 마치고 마지막까지도, 앞으로도 계속 좋은 친구를 두고 학교생활을 잘 했으면 좋겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요즘 사춘기 시기이기도 하고 친구 관계 문제가 많이 일어나고 있어서 고민이 된다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "요즘 사춘기 <문법_조사>시기이도</문법_조사> 하고 <문법_맞춤법>친구관계</문법_맞춤법> 문제가 많이 일어나고 있어서 <스타일링_패러프레이징>많이  고민이 된다</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "요즘 사춘기 시기이기도 하고 친구 관계 문제가 많이 일어나고 있어서 고민이 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지인들과 언니, 부모님께 제대로 된 고민 상담을 받고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>. 지인들과 언니, 부모님께 제대로 된 고민상담을 받고싶다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36139",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 800,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

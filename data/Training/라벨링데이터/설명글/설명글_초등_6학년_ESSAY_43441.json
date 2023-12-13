@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내개 생각할때, 진정한 친구는 내 이야기를 잘 들어주고 공감을 같이 해주는 친구, 새 친구가 생겼어도 그 전의 친구는 버리지 않는 친구, 슬프거나 기쁠때 앞에서 기뻐해주고 슬퍼해주는 친구가 진정한 친구이고, 또 내가 좋아하는 친구들이다.#@문장구분# 근데 이런 친구들은 누구나 기다리고 더 좋아할 것 이다.#@문장구분# 하지만 몇몇 학생들은 반대 일수도 있다.#@문장구분# 내가 제일 좋아하는 친구1은 새 친구가 생겼다고 전의 친구를 버리지 않는 친구가 제일 좋다.#@문장구분# 그리고 내가 제일 좋아하는 친구2는 내가 슬퍼할때 옆에서 같이 슬퍼해주는 친구가 좋다.#@문장구분# 그리고 마지막 내가 제일 좋아하는 친구3은 내 이야기를 잘 들어주고 위로, 공감을 해주는 친구가 좋다.#@문장구분#",
+      "paragraph_len": 466,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      24.1,
+      30
+    ],
+    "essay_scoreT_avg": 24.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내개 생각할 때, 진정한 친구는 내 이야기를 잘 들어주고 공감을 같이 해주는 친구, 새 친구가 생겼어도 그전의 친구는 버리지 않는 친구, 슬프거나 기쁠 때 앞에서 기뻐해 주고 슬퍼해주는 친구가 진정한 친구이고, 또 내가 좋아하는 친구들이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내개 <문법_맞춤법>생각할때, 진정한 친구는 내 이야기를 잘 들어주고 공감을 같이 해주는 친구, 새 친구가 생겼어도 그 전의 친구는 버리지 않는 친구, 슬프거나 기쁠때 앞에서 기뻐해주고</문법_맞춤법> 슬퍼해주는 친구가 진정한 친구이고, 또 내가 좋아하는 친구들이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 이런 친구들은 누구나 기다리고 더 좋아할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 이런 친구들은 누구나 기다리고 더 좋아할 <문법_맞춤법>것 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 몇몇 학생들은 반대 일 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 몇몇 학생들은 반대 <문법_맞춤법>일수도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 제일 좋아하는 친구 1은 새 친구가 생겼다고 전의 친구를 버리지 않는 친구가 제일 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 제일 좋아하는 <문법_맞춤법>친구1은</문법_맞춤법> 새 친구가 생겼다고 전의 친구를 버리지 않는 친구가 제일 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 내가 제일 좋아하는 친구 2는 내가 슬퍼할 때 옆에서 같이 슬퍼해주는 친구가 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 내가 제일 좋아하는 <문법_맞춤법>친구2는 내가 슬퍼할때</문법_맞춤법> 옆에서 같이 슬퍼해주는 친구가 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 마지막 내가 제일 좋아하는 친구 3은 내 이야기를 잘 들어주고 위로, 공감을 해주는 친구가 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 마지막 내가 제일 좋아하는 <문법_맞춤법>친구3은</문법_맞춤법> 내 이야기를 잘 들어주고 위로, 공감을 해주는 친구가 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43441",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 346,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "원래 양치질을 하는 것을 귀찮다고 생각했습니다.#@문장구분# 아침에 준비하는 것도 힘든데 양치질하고 밤에는 자고 싶은데 양치질하는 것을 좋아하지 않았습니다.#@문장구분# 그런데 이빨이 점점 아파졌고 양치질을 제대로 하지 않아서 충치가 생겼습니다.#@문장구분# 그렇게 치과에 가서 아픈 치료를 받았습니다. 그때부터 양치질을 하는 습관을 길렀습니다.#@문장구분# 아무리 바빠도 짧게라도 양치질을 하고 양치질을 할 시간이 도저히 없으면 가글이라도 했습니다.#@문장구분# 밥을 먹고 바로 양치질을 하고 밤에도 피곤하더라도 양치질을 하고 자기 위해 노력했습니다.#@문장구분# 그렇게 양치질을 하루에 3번 하는 것이 습관이 되었고 치과도 건강검진 받는 것이 아니면 충지로 가는 일이 없어져 이빨이 건강해졌습니다.#@문장구분# 나의 건강을 위해 이러한 습관을 기르는 것이 중요하다는 것을 느꼈고 다른 안 좋은 것도 빨리 고쳐 좋은 습관으로 바꿔야겠다고 생각했습니다.#@문장구분#",
+      "paragraph_len": 588,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.05,
+      26.15,
+      14.55
+    ],
+    "essay_scoreT_avg": 21.249998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 아침에 준비하는 것도 힘든데 양치질하고 밤에는 자고 싶은데 양치질 하는 것을 좋아하지 않았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아침에 준비하는 것도 힘든데 양치질하고 밤에는 자고 싶은데 <문법_맞춤법>양치질하는</문법_맞춤법> 것을 좋아하지 않았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 이가 점점 아파졌고 양치질을 제대로 하지 않아서 충치가 생겼습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 그런데 <문법_조사><문법_기타>이빨이</문법_기타></문법_조사> 점점 아파졌고 양치질을 제대로 하지 않아서 충치가 생겼습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 양치질을 하루에 3번 하는 것이 습관이 되었고 치과도 건강검진 받는 것이 아니면 충지로 가는 일이 없어져 이가 건강해졌습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 그렇게 양치질을 하루에 3번 하는 것이 습관이 되었고 치과도 건강검진 받는 것이 아니면 충지로 가는 일이 없어져 <문법_조사><문법_기타>이빨이</문법_기타></문법_조사> 건강해졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69117",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 428,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

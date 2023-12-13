@@ -1,0 +1,273 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 통일을 찬성합니다.#@문장구분# 왜냐하면 통일을하면 더많은 여러새로운 친구를 사귀고 싶기 때문입니다.#@문장구분# 그리고 전쟁을 막기 위해서입니다.#@문장구분# 우리나라가 북과 남으로분리가 되 다른 나라보다 작습니다.#@문장구분# 저번에 미국이우리나라를 도와줘서 미국과 중국이싸울 때 미국을 배신하면 우리나라가 힘들어지기때문입니다.#@문장구분# 그리고 중국을 배신하면 우리 나라 물건 수입이중국에거의 많기 때문에 중국을배신하면 우리나라가 가난해져 난처한 상황이 일어나기 때문입니다.#@문장구분#\n 그래서 통일을 하고 모두의생을 맏대여 무슨나라의 편을 들어줄지 정하고 편을들어줄것같기때문입니다.#@문장구분# 그래서저는 통일을 찬성 합니다.#@문장구분#",
+      "paragraph_len": 470,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.6,
+      18.8,
+      11.55
+    ],
+    "essay_scoreT_avg": 17.983334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 통일이 되면 더 많이 친구를 사귈 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>통일을하면</문법_맞춤법> <스타일링_담화 맥락 오류>더많은 여러새로운 친구를 사귀고 싶기</스타일링_담화 맥락 오류> 때문입니다.",
+      "sentence_corr_txt_styling": " 왜냐하면 통일이 되면 더 많이 친구를 사귈 수 있기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 전쟁을 <스타일링_어미><스타일링_담화 맥락 오류>막기 위해서입니다.</스타일링_담화 맥락 오류></스타일링_어미>",
+      "sentence_corr_txt_styling": " 그리고 전쟁을 막기 위해서 통일이 되었으면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라는 남과 북으로 분리되어 있어 다른 나라보다 작습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "어순"
+      ],
+      "sentence_txt": " <문법_조사>우리나라가 </문법_조사><문법_어미><문법_어순>북과 남으로분리가 되</문법_어순></문법_어미> 다른 나라보다 작습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>저번에 미국이우리나라를 도와줘서</스타일링_담화 맥락 오류> 미국과 중국이싸울 때 미국을 배신하면 우리나라가 힘들어지기때문입니다.",
+      "sentence_corr_txt_styling": " 지난번에는 미국이 우리나라를 도와줬습니다. 그래서 우리나라는 미국을 배신할 수 없습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고 중국을 배신하면</스타일링_담화 맥락 오류> 우리 나라 물건 수입이중국에거의 많기 때문에 중국을배신하면 우리나라가 가난해져 난처한 상황이 일어나기 때문입니다.",
+      "sentence_corr_txt_styling": " 그렇다고 중국을 배신할 수도 없습니다. 우리나라의 물건 수입이 중국에 의존하기 때문에 우리나라가 가난해질 수 있기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n <스타일링_담화 맥락 오류>그래서 통일을 하고</스타일링_담화 맥락 오류> 모두의생을 맏대여 무슨나라의 편을 들어줄지 정하고 편을들어줄것같기때문입니다.",
+      "sentence_corr_txt_styling": "\n 이렇듯 우리나라는 아직 약합니다.  그러나 만약 통일이 된다면 아무도 우리나라를 함부로 대할 수 없을 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 통일을 찬성합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그래서저는 </문법_맞춤법>통일을 찬성 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39388",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 310,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

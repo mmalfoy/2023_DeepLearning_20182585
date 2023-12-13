@@ -1,0 +1,271 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 친구란 서로가 힘들 때 위로해주고, 격려해주는 친구가 진정한 친구라 생각한다.#@문장구분# 친구는 서로를 잘 챙겨주고 아껴줘야 하고, 믿어줘야 한다.#@문장구분# 연락만 하는 친구는 진정한 친구라고 생각돼진 않는다.#@문장구분# 인사만 한다고도 진정한 친구론 볼 수 없다.#@문장구분# 왜냐하면 서로 마음까지다 공유하고 아껴야 하는데 지나가다가 잠깐 인사한 걸론 친구가 아니다.#@문장구분# 나는 친구들에게 어깨가 될 수 있고, 얘기를 잘 들어주며 믿음직한 친구가 되고 싶다.#@문장구분# 그리고 같이 있으면 행복하고 편한 친구가 돼고 싶고, 옆에서 응원해 주는 친구가 돼고 싶다.#@문장구분# 친구들에게 배려와 고마움을 주어 멋진 친구가 될 것이다.#@문장구분#",
+      "paragraph_len": 478,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      17.6,
+      19.75
+    ],
+    "essay_scoreT_avg": 19.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 친구란 서로가 힘들 때 위로해 주고, 격려해 주는 친구가 진정한 친구라 생각한다.",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 친구란 서로가 힘들 때 <문법_맞춤법>위로해주고</문법_맞춤법>, 격려해주는 친구가 진정한 친구라 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구는 서로를 잘 챙겨 주고 아껴 줘야 하고, 믿어 줘야 한다.",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다.",
+        "어미 '고'가 반복됩니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 친구는 서로를 잘 <문법_맞춤법>챙겨주고</문법_맞춤법> 아껴줘야 하고, 믿어줘야 한다.",
+      "sentence_corr_txt_styling": " 친구는 서로를 잘 챙겨 주고 아껴 줘야 하고, 믿어 줘야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 연락만 하는 친구는 진정한 친구라고 생각되지는 않는다.",
+      "sentence_corr_reason": [
+        "'생각되다'가 옳은 표현입니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 연락만 하는 친구는 진정한 친구라고 <문법_맞춤법>생각돼진</문법_맞춤법> 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인사만 한다고도 진정한 친구로 볼 수 없다.",
+      "sentence_corr_reason": [
+        "'는'을 빼는 것이 좋을 것 같습니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 인사만 한다고도 진정한 <문법_조사>친구론</문법_조사> 볼 수 없다.",
+      "sentence_corr_txt_styling": " 인사만 한다고도 진정한 친구로 볼 수 없다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 서로 마음까지 다 공유하고 아껴야 하는데 지나가다가 잠깐 인사한 것으로는 친구가 아니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "구어적 표현은 지양해야 합니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 서로 <문법_맞춤법>마음까지다</문법_맞춤법> 공유하고 아껴야 하는데 지나가다가 잠깐 인사한 <문법_기타>걸론</문법_기타> 친구가 아니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 나는 친구들에게 어깨가 될 수 있고, 얘기를 잘 들어주며 믿음직한 친구가 되고 싶다.",
+      "sentence_corr_txt_styling": " 나는 친구들에게 어깨가 될 수 있고, 얘기를 잘 들어주며 믿음직한 친구가 되고 싶다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 같이 있으면 행복하고 편한 친구가 되고 싶고, 옆에서 응원해 주는 친구가 되고 싶다.",
+      "sentence_corr_reason": [
+        "'되다'가 옳은 표현입니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 같이 있으면 행복하고 편한 친구가 <문법_맞춤법>돼고</문법_맞춤법> 싶고, 옆에서 응원해 주는 친구가 <문법_맞춤법>돼고</문법_맞춤법> 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38293",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 319,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 안 좋은 습관은 지나다닐 때 인상을 찌푸리며 다니는 습관입니다.#@문장구분# 이유 없이 그냥 길을 걸을 때 인상을 찌푸리면서 다닙니다.#@문장구분# 이것을 본 사람은 혹시 기분이 안 좋냐며 물어보기도 한 적이 있습니다.#@문장구분# 이런 습관은 사람을 처음 만날 때 첫인상에 안 좋은 영향을 줄 것 같아 고쳐야겠다고 마음을 먹었습니다.#@문장구분# 그래서 집에서 웃는 연습을 많이 하였고 다닐 때도 의식적으로 눈썹을 내려 인상을 쓰지 않으려 노력합니다.#@문장구분# 이런 표정을 연습할 때에는 거울이 있으면 좋지만 길을 걸을 때만 표정이 안 좋아지니 거울을 챙겨 확인해 보는 것도 도움이 많이 되었습니다.#@문장구분# 이런 습관이 지금은 완전히 고쳐졌을 것이라 생각할 수 있지만 언제 적부터였는지 모를 이 습관은 지금도 계속 길을 걸을 때면 저절로 인상이 찌푸려져 다급하게 눈썹을 신경 쓰게 합니다.#@문장구분# 습관은 절대 한 번에 고쳐지지 않습니다.#@문장구분# 꽤 오랫동안 고쳐보고 노력했지만 완전히 고쳐지지 않았습니다.#@문장구분#",
+      "paragraph_len": 645,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.15,
+      21.6,
+      20
+    ],
+    "essay_scoreT_avg": 21.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이런 습관이 지금은 완전히 고쳐졌을 것이라 생각할 수 있지만 언제적부터였는지 모를 이 습관은 지금도 계속 길을 걸을 때면 저절로 인상이 찌푸려져 다급하게 눈썹을 신경 쓰게 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 습관이 지금은 완전히 고쳐졌을 것이라 생각할 수 있지만 <문법_맞춤법>언제 적부터였는지</문법_맞춤법> 모를 이 습관은 지금도 계속 길을 걸을 때면 저절로 인상이 찌푸려져 다급하게 눈썹을 신경 쓰게 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 습관은 절대 한번에 고쳐지지 않습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 습관은 절대 <문법_맞춤법>한 번에</문법_맞춤법> 고쳐지지 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61186",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 466,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

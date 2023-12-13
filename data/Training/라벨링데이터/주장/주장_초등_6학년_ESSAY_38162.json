@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘 학교폭력 사건이 점점 많이 생기는 것 같습니다.#@문장구분# 인터넷에서도 많이 보이는 기사라서 더욱 심각성이 느껴지는데요.#@문장구분# 그럼 학교 폭력을 예방하는 방법에는 어떤것이 있을까요?#@문장구분#\n 첫째, 평소 친구 관계를 좋게 만드는 것 입니다.#@문장구분# 친구에게 잘해주면 그 친구는 나에게 호감을 느낄것이고, 그럼 그 친구는 나에게 잘해주어 학교 폭력은 잘 일어나지 않을 것 입니다.#@문장구분#\n 둘째, 학교  폭력의 법을 강화한다.#@문장구분# 법을 강화한다면 법이 무서워 학교 폭력을 많이 하지 않을 것이고, 학교 폭력이 줄어들 것 입니다.#@문장구분#\n 셋째, 자신의 의사를 잘 표한하는 것 입니다.#@문장구분#자신의 의사를 표현하지 않으면 피해자가 되기 쉽습니다.#@문장구분# 그래서 자신의 의사를 잘 표현해야 합니다.#@문장구분# 그리하여 평소 친구 관계를 좋게 하고 법을 강화하면 자신의 의사를 잘 표현해야 합니다.#@문장구분#",
+      "paragraph_len": 624,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27,
+      23.877777,
+      19.7
+    ],
+    "essay_scoreT_avg": 23.525925,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그럼 학교 폭력을 예방하는 방법에는 어떤 것이 있을까요?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그럼 학교 폭력을 예방하는 방법에는 <문법_맞춤법>어떤것이</문법_맞춤법> 있을까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫째, 평소 친구 관계를 좋게 만드는 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 첫째, 평소 친구 관계를 좋게 만드는 <문법_맞춤법>것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구에게 잘해주면 그 친구는 나에게 호감을 느낄 것이고, 그럼 그 친구는 나에게 잘해주어 학교 폭력은 잘 일어나지 않을 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구에게 잘해주면 그 친구는 나에게 호감을 <문법_맞춤법>느낄것이고</문법_맞춤법>, 그럼 그 친구는 나에게 잘해주어 학교 폭력은 잘 일어나지 않을 것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 둘째, 학교  폭력의 법을 강화한다.",
+      "sentence_corr_txt_styling": "\n 둘째, 학교  폭력의 법을 강화한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 법을 강화한다면 법이 무서워 학교 폭력을 많이 하지 않을 것이고, 학교 폭력이 줄어들 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 법을 강화한다면 법이 무서워 학교 폭력을 많이 하지 않을 것이고, 학교 폭력이 줄어들 <문법_맞춤법>것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 셋째, 자신의 의사를 잘 표현하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 셋째, 자신의 의사를 잘 <문법_맞춤법>표한하는</문법_맞춤법> 것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리하여 평소 친구 관계를 좋게 하고 법을 강화하면 자신의 의사를 잘 표현해야 합니다.",
+      "sentence_corr_txt_styling": " 그리하여 평소 친구 관계를 좋게 하고 법을 강화하면 자신의 의사를 잘 표현해야 합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38162",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 407,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

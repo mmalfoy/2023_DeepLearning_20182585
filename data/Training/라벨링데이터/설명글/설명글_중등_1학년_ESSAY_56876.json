@@ -1,0 +1,412 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "음.. 제가 가지고 있는 습관 중에 가장 나쁜 습관들은 1. 손톱 물어뜯기입니다. #@문장구분#제가 왜 물어 뜯냐면 심리적 불안감 때문이에요.#@문장구분# 제가 일상생활을 하다가 두렵거나 답답하면 어느 순간 손톱을 잘근잘근 물어뜯고 있더라고요.#@문장구분# 잘 안 고쳐 지는게 제일 힘든거같아요.#@문장구분# 그래도 노하우가 있다고하면 손톱이 조금이라도 기르면 바로 자르고 있어요.#@문장구분# 그럼 물어 뜯을 손톱이 없잖아요.#@문장구분# 몸 중에 세균이 제일 많은 곳이 손톱이기도해요.#@문장구분# 그래서 손톱을 입으로 뜯으니까 세균이 옮는다고 생각을 하고 행동을 해서 많이 고쳐지고 있는 중이에요!!#@문장구분# 그리고 또 안 좋은 습관은 2. 늦잠 자는거에요.#@문장구분# 항상 집에서 게임을 하거나 핸드폰으로 유튜브를 하게 되면 12시가 훌쩍 지나있는데 바로 잠이 안 들더라고요.#@문장구분# 그레서 아침에 일어나는게 엄청 힘들어서 학교도 지각 할 뻔 했어요.#@문장구분# 이걸 고치기 위한 노하우는 핸드폰 사용을 줄이고 일찍 자는거에요.#@문장구분# 일어날 때 알람을 맞추거나 집에있는 부모님께 깨워달라고 부탁을 하는거도 나쁘지 않은거같아요. #@문장구분#그러니 다들 늦잠과 손톱은 절대 물어뜯지마세요.#@문장구분#",
+      "paragraph_len": 812,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.05,
+      21.85,
+      20.9
+    ],
+    "essay_scoreT_avg": 21.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "음.. 제가 가지고 있는 습관 중에 가장 나쁜 습관들은 1. 손톱 물어뜯기입니다. ",
+      "sentence_corr_txt_styling": "음.. 제가 가지고 있는 습관 중에 가장 나쁜 습관들은 1. 손톱 물어뜯기입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 왜 물어뜯냐면 심리적 불안감 때문이에요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "제가 왜 <문법_맞춤법>물어 뜯냐면</문법_맞춤법> 심리적 불안감 때문이에요.",
+      "sentence_corr_txt_styling": "제가 왜 물어뜯냐면 심리적 불안감 때문이에요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 제가 일상생활을 하다가 두렵거나 답답하면 어느 순간 손톱을 잘근잘근 물어뜯고 있더라고요.",
+      "sentence_corr_txt_styling": " 제가 일상생활을 하다가 두렵거나 답답하면 어느 순간 손톱을 잘근잘근 물어뜯고 있더라고요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 잘 안 고쳐지는 게 제일 힘든 것 같아요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 잘 안 고쳐 지는게 제일 <문법_맞춤법>힘든거같아요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 잘 안 고쳐지는 게 제일 힘든 것 같아요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 노하우가 있다고 하면 손톱이 조금이라도 기르면 바로 자르고 있어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래도 노하우가 <문법_맞춤법>있다고하면</문법_맞춤법> 손톱이 조금이라도 기르면 바로 자르고 있어요.",
+      "sentence_corr_txt_styling": " 그래도 노하우가 있다고 하면 손톱이 조금이라도 기르면 바로 자르고 있어요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 물어뜯을 손톱이 없잖아요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그럼 <문법_맞춤법>물어 뜯을 </문법_맞춤법>손톱이 없잖아요.",
+      "sentence_corr_txt_styling": " 그럼 물어뜯을 손톱이 없잖아요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 몸 중에 세균이 제일 많은 곳이 손톱이기도 해요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 몸 중에 세균이 제일 많은 곳이 <문법_맞춤법>손톱이기도해요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 몸 중에 세균이 제일 많은 곳이 손톱이기도 해요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 손톱을 입으로 뜯으니까 세균이 옮는다고 생각을 하고 행동을 해서 많이 고쳐지고 있는 중이에요!!",
+      "sentence_corr_txt_styling": " 그래서 손톱을 입으로 뜯으니까 세균이 옮는다고 생각을 하고 행동을 해서 많이 고쳐지고 있는 중이에요!!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 안 좋은 습관은 2. 늦잠 자는 거예요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 또 안 좋은 습관은 2. 늦잠 <문법_맞춤법><문법_어미>자는거에요.</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": " 그리고 또 안 좋은 습관은 2. 늦잠 자는 거예요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 항상 집에서 게임을 하거나 핸드폰으로 유튜브를 하게 되면 12시가 훌쩍 지나있는데 바로 잠이 안 들더라고요.",
+      "sentence_corr_txt_styling": " 항상 집에서 게임을 하거나 핸드폰으로 유튜브를 하게 되면 12시가 훌쩍 지나있는데 바로 잠이 안 들더라고요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 아침에 일어나는 게 엄청 힘들어서 학교도 지각 할 뻔했어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그레서 아침에 <문법_맞춤법>일어나는게</문법_맞춤법> 엄청 힘들어서 학교도 지각 할 뻔 했어요.",
+      "sentence_corr_txt_styling": " 그래서 아침에 일어나는 게 엄청 힘들어서 학교도 지각 할 뻔했어요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이걸 고치기 위한 노하우는 핸드폰 사용을 줄이고 일찍 자는 거예요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이걸 고치기 위한 노하우는 핸드폰 사용을 줄이고 일찍 <문법_맞춤법><문법_어미>자는거에요.</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": " 이걸 고치기 위한 노하우는 핸드폰 사용을 줄이고 일찍 자는 거예요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일어날 때 알람을 맞추거나 집에 계시는 부모님께 깨워달라고 부탁을 하는 것도 나쁘지 않은 것 같아요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 일어날 때 알람을 맞추거나 <문법_높임법>집에있는 </문법_높임법>부모님께 깨워달라고 부탁을 <문법_맞춤법>하는거도 </문법_맞춤법>나쁘지 않은거같아요. ",
+      "sentence_corr_txt_styling": " 일어날 때 알람을 맞추거나 집에 계시는 부모님께 깨워달라고 부탁을 하는 것도 나쁘지 않은 것 같아요. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 다들 늦잠과 손톱은 절대 물어뜯지 마세요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그러니 다들 늦잠과 손톱은 절대 <문법_맞춤법>물어뜯지마세요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "그러니 다들 늦잠과 손톱은 절대 물어뜯지 마세요.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56876",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 532,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

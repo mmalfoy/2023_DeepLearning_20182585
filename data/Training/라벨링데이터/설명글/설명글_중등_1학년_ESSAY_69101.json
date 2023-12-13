@@ -1,0 +1,233 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "습관 중에는 좋은 습관도 있고  좋지 않는 습관들도 잇다.#@문장구분# 당연히 좋은 습관들은 만들어내고 나쁜 습관들을 버리려고 노력해야만 한다.#@문장구분# 나는 아침을 먹는 습관을 만들어냈다. #@문장구분#이전에 나는 아침을 먹지 않았다.#@문장구분#아침에 일어나 준비하여서 학교에 가기 바빠 아침을 먹지 않게 되었다.#@문장구분# 엄마가 가끔 챙겨주기는 하였지만 시간에 쫓겨 거르는 것이 일상이였다.#@문장구분# 아침을 먹지 않으니 배가 고프고 학교 수업에 집중이 잘 되지 않았다.#@문장구분# 아침을 먹는 것이 건강에 더 좋고 수업에도 잘 집중할 수 있으니 아침을 먹는 습관을 다시 가져보기로 결심하였다.#@문장구분# 아침에 조금 일찍 눈을 뜨고 학교 가방은 전날에 미리 준비해놓고 하는 사소한 일상을 바꾸다보니 자연스럽게 아침을 먹을 수 있는 시간이 생겨났다.#@문장구분# 귀찮고 힘들었지만 나의 건강과 공부를 위해 빠지지 않고 아침을 챙겨먹으려고 노력하였다.#@문장구분# 시간이 부족한 날에는 사과나 빵과 같은 것이라도 먹으려는 습관을 만들어 냈다.#@문장구분# 아침을 먹으니 전보다 더 수업에 집중할 수 있고 군것질도 덜 하게 되어서 매우 좋다.#@문장구분#",
+      "paragraph_len": 754,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.15,
+      28.4,
+      21.3
+    ],
+    "essay_scoreT_avg": 24.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "습관 중에는 좋은 습관도 있고  좋지 않은 습관들도 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": "습관 중에는 좋은 습관도 있고  좋지 <문법_어미>않는</문법_어미> 습관들도 <문법_맞춤법>잇다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 당연히 좋은 습관들은 만들어 내고 나쁜 습관들을 버리려고 노력해야만 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 당연히 좋은 습관들은 <문법_맞춤법>만들어내고</문법_맞춤법> 나쁜 습관들을 버리려고 노력해야만 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마가 가끔 챙겨주기는 하였지만 시간에 쫓겨 거르는 것이 일상이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마가 가끔 챙겨주기는 하였지만 시간에 쫓겨 거르는 것이 <문법_맞춤법>일상이였다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침에 조금 일찍 눈을 뜨고 학교 가방은 전날에 미리 준비해놓고 하는 사소한 일상을 바꾸다 보니 자연스럽게 아침을 먹을 수 있는 시간이 생겨났다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아침에 조금 일찍 눈을 뜨고 학교 가방은 전날에 미리 준비해놓고 하는 사소한 일상을 <문법_맞춤법>바꾸다보니</문법_맞춤법> 자연스럽게 아침을 먹을 수 있는 시간이 생겨났다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 귀찮고 힘들었지만 나의 건강과 공부를 위해 빠지지 않고 아침을 챙겨 먹으려고 노력하였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 귀찮고 힘들었지만 나의 건강과 공부를 위해 빠지지 않고 아침을 <문법_맞춤법>챙겨먹으려고</문법_맞춤법> 노력하였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69101",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 515,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

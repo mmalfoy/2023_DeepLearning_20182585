@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "통일을 하는 것은 찬성을 해야 합니다.#@문장구분# 왜냐하면 첫 번째로 우리는 자원이 많이 부족합니다.#@문장구분# 하지만 북한은 발전대신 자원이 풍부한 나라입니다.#@문장구분# 그렇기 때문에 우리가 조금 더 발전한 기술들로 자원을 가지고 더 큰 발전을 이루어낼 수 있습니다.#@문장구분# 그리고 두 번째로 통일을 하면 나라가 지도에 있는 한반도 모양으로 땅이 넓어지면서 국민의 인구수가 더 많이 늘어납니다.#@문장구분#그리고 세 번째, 이렇게 넓어진 땅과 늘어난 인구로 인해 더 많은 일자리가 생기고 개발이 안된 지역들을 더 개발 할 수 있게 됩니다.#@문장구분# 네 번째 우리는 지금 휴전상태로 전쟁을 쉬고 있습니다.#@문장구분# 하지만 통일을 하게 된다면 우리는 전쟁이 끝이 나고 다시 전쟁이 일어나지 않아서 더 평화롭고 안심하며 살아갈 수 있습니다.#@문장구분# 그렇기 때문에 우리는 꼭 통일을 해야 합니다.#@문장구분# 지금까지 저의 생각과 의견이었습니다.#@문장구분#",
+      "paragraph_len": 621,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3809524,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.464287,
+      23.264286,
+      18.8
+    ],
+    "essay_scoreT_avg": 21.509523,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "통일을 하는 것은 찬성을 해야 합니다.",
+      "sentence_corr_txt_styling": "통일을 하는 것은 찬성을 해야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 북한은 발전 대신 자원이 풍부한 나라입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 북한은 <문법_맞춤법>발전대신</문법_맞춤법> 자원이 풍부한 나라입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그렇기 때문에 우리가 조금 더 발전한 기술들로 자원을 가지고 더 큰 발전을 이루어낼 수 있습니다.",
+      "sentence_corr_txt_styling": " 그렇기 때문에 우리가 조금 더 발전한 기술들로 자원을 가지고 더 큰 발전을 이루어낼 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 두 번째로 통일을 하면 나라가 지도에 있는 한반도 모양으로 땅이 넓어지면서 국민의 인구수가 더 많이 늘어납니다.",
+      "sentence_corr_txt_styling": " 그리고 두 번째로 통일을 하면 나라가 지도에 있는 한반도 모양으로 땅이 넓어지면서 국민의 인구수가 더 많이 늘어납니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 세 번째, 이렇게 넓어진 땅과 늘어난 인구로 인해 더 많은 일자리가 생기고 개발이 안된 지역들을 더 개발할 수 있게 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 세 번째, 이렇게 넓어진 땅과 늘어난 인구로 인해 더 많은 일자리가 생기고 개발이 안된 지역들을 더 <문법_맞춤법>개발 할</문법_맞춤법> 수 있게 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 하지만 통일을 하게 된다면 우리는 전쟁이 끝이 나고 다시 전쟁이 일어나지 않아서 더 평화롭고 안심하며 살아갈 수 있습니다.",
+      "sentence_corr_txt_styling": " 하지만 통일을 하게 된다면 우리는 전쟁이 끝이 나고 다시 전쟁이 일어나지 않아서 더 평화롭고 안심하며 살아갈 수 있습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53414",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 421,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

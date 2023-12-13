@@ -1,0 +1,303 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가살고자 하는 집은 1００평짜리 집이고 거실기크고 주방도크고 방도많고크기도크면좋겠다.#@문장구분# 방은2０개이고 색깔은화이트고 집의생김새는 모던하다.#@문장구분# 내가살고싶은집은많지만 그래도엄마아빠와같이살고시간도보낼수 있음 다좋다.#@문장구분# 예쁨집에서 엄마아빠와 살는것도좋겠다.#@문장구분# 내가 결혼을했을때는엄마아빠모시고살것 같다.#@문장구분# 만약남편이싫다고하면 엄마아빠랑같이살것같다.#@문장구분# 만약 엄마아빠가 남편이랑살라고하면 엄마아빠말을들어준다.#@문장구분#",
+      "paragraph_len": 356,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.952381,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.380953,
+      22.580952,
+      30
+    ],
+    "essay_scoreT_avg": 21.987303,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 살고자 하는 집은 1００평짜리 집이고 거실이 크고 주방도 크고 방도 많고 크기도 크면 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "패러프레이징",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>내가살고자</문법_맞춤법> 하는 집은 1００평짜리 집이고 <문법_조사>거실기크고</문법_조사> 주방도크고 방도많고크기도크면좋겠다.",
+      "sentence_corr_txt_styling": "내가 살고자 하는 집은 1００평짜리 집이고 거실이 크고 주방도 크고 방도 많고 크기도 크면 좋겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 방은 2０개이고 색깔은 하얀색이고 집의 생김새는 모던했으면 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기, 외래서 순화",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>방은2０개이고</문법_맞춤법> <문법_기타>색깔은화이트고</문법_기타> 집의생김새는 <문법_어미>모던하다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 살고 싶은 집은 많지만 그래도 엄마, 아빠와 같이 살고 시간을 보낼 수 있으면 다 좋다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>내가살고싶은집은많지만</문법_맞춤법> <문법_조사><문법_기타>그래도엄마아빠와같이살고시간도보낼수</문법_기타></문법_조사> <문법_어미>있음</문법_어미> 다좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예쁜 집에서 엄마, 아빠와 사는 것도 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어미>예쁨집에서</문법_어미></문법_맞춤법> <문법_기타>엄마아빠와</문법_기타> 살는것도좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 결혼을 할 때는엄마와 아빠를 모시고 살 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제",
+        "조사"
+      ],
+      "sentence_txt": " 내가 <문법_맞춤법><문법_시제>결혼을했을때는</문법_시제></문법_맞춤법><문법_조사>엄마아빠모시고살것</문법_조사> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 남편이 싫다고 하면 엄마, 아빠랑 같이 살 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>만약남편이싫다고하면</문법_맞춤법> 엄마아빠랑같이살것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 엄마, 아빠가 남편이랑 살라고 하면 엄마, 아빠의 말을 들을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 만약 <문법_기타>엄마아빠가</문법_기타> <문법_맞춤법>남편이랑살라고하면</문법_맞춤법> <문법_조사>엄마아빠말을들어준다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40792",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 217,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

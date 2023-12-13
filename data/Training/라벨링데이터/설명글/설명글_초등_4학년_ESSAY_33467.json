@@ -1,0 +1,336 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 예절은요 없어요.#@문장구분# 대중교통을 타본적은 없지만 본적이 있어요.#@문장구분# 저는 제가 앉고싶은 자리가 있어도 노약자 분들게 자리를 양보할거예요.#@문장구분# 만약 버스를 타고 어디를 가도 있었는데 어떤 할머니가 자리가 없어서 서있으시다면 저는 할머니니까 자리를 양보할것입니다#@문장구분# 할머니는 나이가 많으시니 다리가 아프실거 같아서 자리를 비켜드릴거 같아요.#@문장구분# 왜냐하면요#@문장구분#(그 이유는) 첫째 할머니시니까입니다.#@문장구분# 할머니는 나이가 있으시다.#@문장구분# 둘째 할머니가 나이가 있으시니 다리가 아프실거 같아서#@문장구분# 셋째 할머니가 앉고 싶을수도 있으니까#@문장구분# 그리고 제가 생각하는 예절은 첫째 밥먹을때 폰을보지 않는다.#@문장구분# 둘째 부모님한테 반말하지 않는다.#@문장구분# 셋째 어른들을보면 인사를 한다.#@문장구분# 넷째 부모님한테 투정부리지 말기 이말이 예절이 아닐수도 있지만 저는 꼭 지키고 싶은 예절인것 같습니다.#@문장구분# 제가 생각하는 예절 틀린걸수도 있지만요#@문장구분# 저는 예절이라고 저는 생각합니다.#@문장구분# 저는 커서 예절을 잘 지키는 사람이 되고 싶습니다.#@문장구분#",
+      "paragraph_len": 820,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.714287,
+      26.4,
+      19.2
+    ],
+    "essay_scoreT_avg": 21.104763,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.21",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 대중교통을 타 본 적은 없지만 본 적이 있어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대중교통을 <문법_맞춤법>타본적은 없지만 본적이 있어요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 제가 앉고 싶은 자리가 있어도 노약자 분들께 자리를 양보할 거예요.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 제가 <문법_맞춤법>앉고싶은 자리가 있어도 노약자 분들게 자리를 양보할거예요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 버스를 타고 어디를 가고 있었는데 어떤 할머니가 자리가 없어서 서 있으시다면 저는 할머니니까 자리를 양보할 것입니다",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 버스를 타고 어디를 <문법_맞춤법>가도 있었는데 어떤 할머니가 자리가 없어서 서있으시다면 저는 할머니니까 자리를 양보할것입니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 할머니는 나이가 많으시니 다리가 아프실 거 같아서 자리를 비켜드릴 거 같아요.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 할머니는 나이가 많으시니 다리가 <문법_맞춤법>아프실거 같아서 자리를 비켜드릴거 같아요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "(그 이유는) 첫째 할머니이시니까 입니다.",
+      "sentence_corr_reason": [
+        "높임법으로 수정 교정"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": "(그 이유는) 첫째 <문법_높임법>할머니시니까입니다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째 할머니가 나이가 있으시니 다리가 아프실 거 같아서",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 둘째 할머니가 나이가 있으시니 다리가 <문법_맞춤법>아프실거 같아서</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 셋째 할머니가 앉고 싶으실 수도 있으니까",
+      "sentence_corr_reason": [
+        "높임말로 문장을 매끄럽게 보완"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 셋째 할머니가 앉고 <문법_높임법>싶을수도 </문법_높임법>있으니까",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 제가 생각하는 예절은 첫째 밥 먹을 때 폰을 보지 않는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 제가 생각하는 예절은 첫째 <문법_맞춤법>밥먹을때 폰을보지 않는다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 셋째 어른들을 보면 인사를 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 셋째 <문법_맞춤법>어른들을보면</문법_맞춤법> 인사를 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 넷째 부모님한테 투정 부리지 말기 이말이 예절이 아닐 수도 있지만 저는 꼭 지키고 싶은 예절인 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 넷째 부모님한테 <문법_맞춤법>투정부리지 말기 이말이 예절이 아닐수도 있지만 저는 꼭 지키고 싶은 예절인것 같습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 생각하는 예절 틀린 걸 수도 있지만요",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 생각하는 예절<문법_맞춤법> 틀린걸수도 </문법_맞춤법>있지만요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33467",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 481,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어르신들 어른들 분에게 인사 해보았다.#@문장구분# 어르신들에게 인사를 하여 작은 기쁨? 을 주어서 그래도 행복하게 해드린다.#@문장구분# 그래도 그게 선행이 될수 있으면 나도 기분좋고 어르신 어른들 모두가 좋을지도 모른다.#@문장구분# 선행이 아니어도 나 선행한걸로 다 기분 좋으면 다 선행일까? 아닐까? 나도 모른다......#@문장구분# 그래도 난 기분 좋으면 선행인거 같다.#@문장구분# 다른건 모르지만 친구들에게도 선행을 배푼건지도 모르겠고 선생님한테도 선행을 배푼건지도 모르는 나지만 그래도 난 선행을 배푼거 같다.#@문장구분# 그러니 선행을 배푼거 같다.#@문장구분# 정확하지도 않고 답도 아니지.#@문장구분# 그렇지만 그렇지만...... 난 선행을 배푼거 같으니 선행을 배푼것 아닐까? 하는 생각도 든다.#@문장구분# 아 난 몰라 하고 인사 안하고 지나가는 사람도 있지만 하는거다.#@문장구분# 예의있고 난 지나칠때도 있지만 거의 지나치지 않고 인사를 하게 할것이다.#@문장구분# 선행을 배푼거인가 보다.#@문장구분# 그래서 게임 하면서 놀때 선행을 배풀었고 모두 선행을 배푸며 사는걸지도 모른다.#@문장구분#",
+      "paragraph_len": 742,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1.4285715,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.4285713,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.047619,
+      13.933334,
+      13.980953
+    ],
+    "essay_scoreT_avg": 13.987302,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "어르신들 어른들 분에게 인사해 보았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어르신들 <문법_맞춤법>어른들 분에게 인사 해보았다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 그게 선행이 될 수 있으면 나도 기분좋고 어르신 어른들 모두가 좋을지도 모른다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래도 그게 선행이 <문법_맞춤법>될수</문법_맞춤법> 있으면 나도 기분좋고 어르신 어른들 모두가 좋을지도 모른다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선행이 아니어도 나 선행한 걸로 다 기분 좋으면 다 선행일까? 아닐까? 나도 모른다......",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선행이 아니어도 나 <문법_맞춤법>선행한걸로</문법_맞춤법> 다 기분 좋으면 다 선행일까? 아닐까? 나도 모른다......",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 난 기분 좋으면 선행인 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래도 난 기분 좋으면 <문법_맞춤법>선행인거</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른건 모르지만 친구들에게도 선행을 배푼건지도 모르겠고 선생님한테도 선행을 베푼 건지도 모르는 나지만 그래도 난 선행을 베푼 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다른건 모르지만 친구들에게도 선행을 <문법_맞춤법>배푼건지도</문법_맞춤법> 모르겠고 선생님한테도 선행을 <문법_맞춤법>배푼건지도</문법_맞춤법> 모르는 나지만 그래도 난 선행을 배푼거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 그렇지만...... 난 선행을 베푼 것 같으니 선행을 베푼 거 아닐까? 하는 생각도 든다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇지만 그렇지만...... 난 선행을 <문법_맞춤법>배푼거 같으니 선행을 배푼것</문법_맞춤법> 아닐까? 하는 생각도 든다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아 난 몰라 하고 인사 안 하고 지나가는 사람도 있지만 하는 거다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아 난 몰라 하고 인사 <문법_맞춤법>안하고 지나가는 사람도 있지만 하는거다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 게임하면서 놀 때 선행을 베풀었고 모두 선행을 베푸며 사는 걸지도 모른다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>게임 하면서 놀때 선행을 배풀었고 모두 선행을 배푸며 사는걸지도</문법_맞춤법> 모른다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62701",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 482,
+    "essay_main_subject": "나의 선행"
+  }
+}

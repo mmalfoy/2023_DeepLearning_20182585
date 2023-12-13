@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미는 그림 그리기 이다.#@문장구분# 그림 그리는 것은 종이에 그림을 그리는것이다.#@문장구분# 자신이 그리고 싶은것을 그리는것인데 나는 주로 구데다마, 피카츄등 만화캐릭터를 그린다.#@문장구분# 나는 친구와 함깨 피아노를 치거나 같이 독서 하거나 그림을 그림을 그리고 싶다.#@문장구분# 그림 더 재미있을것 같다.#@문장구분# 아니면 조용히 음악을 듣고 싶다.#@문장구분# 신나는 노래를 들으면 기분이 좋아 질것 같아 행복할것 같다.#@문장구분# 나의 취미는 그림을 그리는것이지만 노래를 듣는걸로 바뀔것 같다.",
+      "paragraph_len": 381,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          1.5714285,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.066666,
+      15.819047,
+      23.666668
+    ],
+    "essay_scoreT_avg": 22.517462,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.10",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_50798",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 242,
+    "essay_main_subject": "나의 취미"
+  }
+}

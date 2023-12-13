@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 의견 즉 여가활동은 게임 입니다.#@문장구분# 저는 숙제를 다 해야만 게임을 할 수 있습니다.#@문장구분# 하지만 게임만 하고 싶어하는 생각도 있습니다.#@문장구분# 게임은 여가활동 인데 저는 이 사실을 알고 있는데 그래도 게임만 하고싶어 합니다.#@문장구분# 제가 아는 그 사실은 게임은 숙제가 끝나고 바로 하는 것이 아니라 숙제를 모두 끝내고 시간이 남았을때 하는 것이라는 사실 입니다 .#@문장구분#제가 하고 있는 여가활동에서 고쳐야 하는 것은 이것입니다 .#@문장구분#저에게 여가활동이 한 개 더 있습니다.#@문장구분# 바로 운동 입니다.#@문장구분# 평소 운동을 좋아하고 잘하는 스타일 이여서 주말에 아빠와 동생과 저는 공원에 가서 자전거를 탑니다.#@문장구분# 그리고 하고 싶은 여가활동이 운동중에 또 있습니다.#@문장구분# 무엇이냐면 롱보드 입니다.#@문장구분# 친한 언니가 롱보드를 타는데 재미있어 보여서 타보고싶은 마음이 있는 것 입니다.#@문장구분#",
+      "paragraph_len": 644,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.64762,
+      21.933334,
+      21.933334
+    ],
+    "essay_scoreT_avg": 22.504763,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 의견 즉 여가활동은 게임입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 의견 즉 여가활동은 <문법_맞춤법>게임 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임은 여가활동인데 저는 이 사실을 알고 있는데 그래도 게임만 하고싶어 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게임은 <문법_맞춤법>여가활동 인데</문법_맞춤법> 저는 이 사실을 알고 있는데 그래도 게임만 하고싶어 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 아는 그 사실은 게임은 숙제가 끝나고 바로 하는 것이 아니라 숙제를 모두 끝내고 시간이 남았을 때 하는 것이라는 사실입니다 .",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 아는 그 사실은 게임은 숙제가 끝나고 바로 하는 것이 아니라 숙제를 모두 끝내고 시간이 <문법_맞춤법>남았을때 하는 것이라는 사실 입니다 .</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바로 운동입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바로 <문법_맞춤법>운동 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 평소 운동을 좋아하고 잘하는 스타일이어서 주말에 아빠와 동생과 저는 공원에 가서 자전거를 탑니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 평소 운동을 좋아하고 잘하는 <문법_맞춤법>스타일 이여서</문법_맞춤법> 주말에 아빠와 동생과 저는 공원에 가서 자전거를 탑니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 하고 싶은 여가활동이 운동 중에 또 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 하고 싶은 여가활동이 <문법_맞춤법>운동중에</문법_맞춤법> 또 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 무엇이냐면 롱보드입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 무엇이냐면 <문법_맞춤법>롱보드 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친한 언니가 롱보드를 타는데 재미있어 보여서 타 보고 싶은 마음이 있는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친한 언니가 롱보드를 타는데 재미있어 보여서 <문법_맞춤법>타보고싶은 마음이 있는 것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62661",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 405,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

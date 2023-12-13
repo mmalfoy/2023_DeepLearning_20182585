@@ -1,0 +1,316 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 찬성입니다.#@문장구분# 왜냐하면 금수저는 사고 싶은것이나 가고 싶은곳을 사거나 갈 수 있는데 흙수저는 하고 싶은것도 못하고 여유롭지가 않기 때문입니다.#@문장구분# 흙수저는 아무리 노력해도 노력하지 않으면 다시 흙수저가 되기 때문이지만 금수저는 돈을 많이 벌기 때문에 여유롭고 마음만 먹으면 최고가 될 수 있기 때문이다.#@문장구분# 그래서 나는 찬성이라고 생각한다.#@문장구분# 그래서 지금부터 3가지를 한번 써 보겠다.#@문장구분# 첫번째는 금수저는 잘하면 높은 자리에 오를 수 있고, 흙수저는 낮은 자리에 오를수밖에 없다.#@문장구분# 그래서 나는 첫번째 이유라고 생각한다.#@문장구분# 두번째는 옛날 신라시대에는 골품제도가 있었다.#@문장구분# 성골만이 왕이 될 수 있었다.#@문장구분# 진골은 왕이 될 수 없었다.#@문장구분# 이러한 신분차이로 낮은 신분에 좋은 사람이 있어도 관직에 오를 수 없었다.#@문장구분# 그리고 신분마다 집에서 기르는 말의 수나 집의 크기도 하나하나 다 달랐다.#@문장구분# 그래서 나는 이것을 예를 들어서 불평등의 예라고 생각한다.#@문장구분# 또 나는 이렇게 생각을 한다.#@문장구분# 흙수저든 금수 노력하면 흙수저도 금수저가 되고, 금수저는 노력하면 금수저가 계속 될 수 있다.#@문장구분#",
+      "paragraph_len": 832,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.5,
+      26.711111,
+      23.566666
+    ],
+    "essay_scoreT_avg": 23.925926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.24",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이후 문장들과 통일"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_기타>저는 찬성입니다</스타일링_기타>.",
+      "sentence_corr_txt_styling": "나는 찬성이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 금수저는 사고싶은 것이나 가고 싶은곳을 사거나 갈 수 있는데 흙수저는 하고싶은 것도 못하고 여유롭지가 않다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 붙여쓰기",
+        "뒷 문장들과 통일",
+        "뒷 문장들과 통일"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 금수저는 <문법_맞춤법>사고 싶은것이나</문법_맞춤법> 가고 싶은곳을 사거나 갈 수 있는데 흙수저는 하고 싶은것도 못하고 여유롭지가 <스타일링_어미><스타일링_기타>않기 때문입니다</스타일링_기타></스타일링_어미>.",
+      "sentence_corr_txt_styling": " 왜냐하면 금수저는 사고싶은 것이나 가고 싶은곳을 사거나 갈 수 있는데 흙수저는 하고싶은 것도 못하고 여유롭지가 않다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 흙수저는 노력하지 않으면 다시 흙수저가 되지만 금수저는 돈을 많이 벌기 때문에 여유롭고 마음만 먹으면 최고가 될 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "어미"
+      ],
+      "sentence_txt": " 흙수저는 <스타일링_패러프레이징>아무리 노력해도 노력하지 않으면</스타일링_패러프레이징> 다시 흙수저가 <문법_어미>되기 때문이지만</문법_어미> 금수저는 돈을 많이 벌기 때문에 여유롭고 마음만 먹으면 최고가 될 수 있기 때문이다.",
+      "sentence_corr_txt_styling": " 흙수저는 노력하지 않으면 다시 흙수저가 되지만 금수저는 돈을 많이 벌기 때문에 여유롭고 마음만 먹으면 최고가 될 수 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 찬성이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그래서 나는 <문법_어미>찬성이라고 생각한다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 금수저는 잘하면 높은 자리에 오를 수 있고, 흙수저는 낮은 자리에 오를 수밖에 없다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_기타>첫번째는 금수저는</스타일링_기타> 잘하면 높은 자리에 오를 수 있고, 흙수저는 낮은 자리에 <문법_맞춤법>오를수밖에</문법_맞춤법> 없다.",
+      "sentence_corr_txt_styling": " 금수저는 잘하면 높은 자리에 오를 수 있고, 흙수저는 낮은 자리에 오를 수밖에 없다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그게 나는 첫 번째 이유라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "접속어 수정"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그래서</문법_기타> 나는 <문법_맞춤법>첫번째</문법_맞춤법> 이유라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "불필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>두번째는 옛날</스타일링_기타> 신라시대에는 골품제도가 있었다.",
+      "sentence_corr_txt_styling": " 옛날 신라시대에는 골품제도가 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 나는 <스타일링_패러프레이징>이것을 예를 들어서</스타일링_패러프레이징> 불평등의 예라고 생각한다.",
+      "sentence_corr_txt_styling": " 그래서 나는 이게 불평등의 예라고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 흙수저든 금수저든 노력하면 흙수저도 금수저가 될 수 있고, 금수저는 노력하면 금수저가 계속 될 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 흙수저든 <문법_어미>금수</문법_어미> 노력하면 흙수저도 <문법_어미>금수</문법_어미>저가 <스타일링_기타>되고</스타일링_기타>, <문법_어미>금수</문법_어미>저는 노력하면 <문법_어미>금수</문법_어미>저가 계속 될 수 있다.",
+      "sentence_corr_txt_styling": " 흙수저든 금수저든 노력하면 흙수저도 금수저가 될 수 있고, 금수저는 노력하면 금수저가 계속 될 수 있다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33882",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 532,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

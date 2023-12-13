@@ -1,0 +1,254 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 존경하는 위인은 세종대왕 입니다. #@문장구분#모두가 알고 있는 것처럼 우리말(훈민정음)을 만들고 큰 업적을 남기셨기 때문입니다.#@문장구분# 우리가 많이 알고 있는 이유는 그만큼 유명하고 대단하신 분이기 때문입니다.#@문장구분# 내가 만약 세종대왕이였다면 훈민정음을 만들다 포기하고 잠을 잤을 것 같은데 세종대왕은 끝까지 끈기있게 노력해서 우리말을 만들어냈다는 것이 놀랍고 대단하다고 생각합니다. #@문장구분#두번째로 존경하는 위인은 유관순 입니다. #@문장구분#이 분도 많은 사람들이 알고 있을 것 같습니다. #@문장구분#어린나이였을 때부터 우리나라 독립을 위해 몸을 바쳐 노력한 분 입니다. #@문장구분#고문으로 돌아가셨지만 역사적으로 많이 유명한 유관순은 지금까지도 우리가 기억하는 위인 입니다. #@문장구분#그때에는 일본에게 나라를 빼앗겼을 때인데도 우리나라를 독립시키려고 돌아가시기 전까지 독립운동을 한 위인인 만큼 유명합니다.",
+      "paragraph_len": 576,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.9,
+      24.9,
+      18.4
+    ],
+    "essay_scoreT_avg": 22.066666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 존경하는 위인은 세종대왕입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 존경하는 위인은 <문법_맞춤법>세종대왕 입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 만약 세종대왕이였다면 훈민정음을 만들다 포기하고 잠을 잤을 것 같은데 세종대왕은 끝까지 끈기 있게 노력해서 우리말을 만들어냈다는 것이 놀랍고 대단하다고 생각합니다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_높임법>내가</문법_높임법> 만약 세종대왕이였다면 훈민정음을 만들다 포기하고 잠을 잤을 것 같은데 세종대왕은 끝까지 <문법_맞춤법>끈기있게</문법_맞춤법> 노력해서 우리말을 만들어냈다는 것이 놀랍고 대단하다고 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "두 번째로 존경하는 위인은 유관순입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>두번째로 존경하는 위인은 유관순 입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이분도 많은 사람들이 알고 있을 것 같습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이 분</문법_맞춤법>도 많은 사람들이 알고 있을 것 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어린 나이였을 때부터 우리나라 독립을 위해 몸을 바쳐 노력한 분입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>어린나이였을</문법_맞춤법> 때부터 우리나라 독립을 위해 몸을 바쳐 노력한 분 입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "고문으로 돌아가셨지만 역사적으로 많이 유명한 유관순은 지금까지도 우리가 기억하는 위인입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "고문으로 돌아가셨지만 역사적으로 많이 유명한 유관순은 지금까지도 우리가 기억하는 <문법_맞춤법>위인 입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66368",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 418,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

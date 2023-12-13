@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 예전에 건강이 좋지 않아서 병원을 자주 갔습니다.#@문장구분# 왜 건강이 좋지 않을까에 대해서 생각을 해 보니 제가 매일 잠을 늦게 자고 늦게까지 친구들과 게임을 한다는 사실이 생각이 났습니다.#@문장구분# 그래서 저는 게임을 줄이고 일찍 자야겠다고 생각해서 매일 새벽까지 하던 게임을 시간을 정해두고 정해진 시간이 지나면 미련없이 게임을 종료하고 잘 준비를 하고 잘 준비를 했습니다.#@문장구분# 물론 처음에는 한판만 더 하고 자고 싶기도 했고 오늘은 졸리지도 않은데 그냥 더 하면 안 될까 고민도 됐는데 결심한 걸 지키기 위해서 매일 일찍 잠에 든 결과 신기하게도 몸 상태가 좋아졌습니다.#@문장구분# 완전하게 건강해지는 않았지만 예전처럼 아프지는 않게 되었고 요즘은 더 건강해지기 위해서 꼬박꼬박 규칙적인 식사와 운동도 함께 하고 있습니다.#@문장구분# 그래서인지 지금은 매우 건강해져서 병원에도 자주 들르지 않아도 됩니다.#@문장구분# 게임 시간을 줄이니 게임도 더 재미있어지고 건강도 챙길 수 있어서 좋았습니다.#@문장구분# 앞으로도 건강해지기 위해서 일찍 자고 밥을 잘 먹고 운동도 열심히 할 생각입니다.#@문장구분#",
+      "paragraph_len": 682,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      22.3,
+      20.5
+    ],
+    "essay_scoreT_avg": 22.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 게임을 줄이고 일찍 자야겠다고 생각해서 매일 새벽까지 하던 게임을 시간을 정해두고 정해진 시간이 지나면 미련 없이 게임을 종료하고 잘 준비를 하고 잘 준비를 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 게임을 줄이고 일찍 자야겠다고 생각해서 매일 새벽까지 하던 게임을 시간을 정해두고 정해진 시간이 지나면 <문법_맞춤법>미련없이 </문법_맞춤법>게임을 종료하고 잘 준비를 하고 잘 준비를 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 처음에는 한 판만 더 하고 자고 싶기도 했고 오늘은 졸리지도 않은데 그냥 더 하면 안 될까 고민도 됐는데 결심한 걸 지키기 위해서 매일 일찍 잠에 든 결과 신기하게도 몸 상태가 좋아졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 처음에는 <문법_맞춤법>한판만 </문법_맞춤법>더 하고 자고 싶기도 했고 오늘은 졸리지도 않은데 그냥 더 하면 안 될까 고민도 됐는데 결심한 걸 지키기 위해서 매일 일찍 잠에 든 결과 신기하게도 몸 상태가 좋아졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71459",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 522,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

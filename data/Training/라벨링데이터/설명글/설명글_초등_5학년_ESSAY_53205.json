@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 제일 좋아하는 과목은 수학입니다.#@문장구분# 왜냐하면 4살부터 숫자를 좋아했고 어렸을 때부터 관심이 있어 미리 구구단 같은 것을 배우고 재밌어 했습니다.#@문장구분# 그리고 수학문제를 풀 때 어려운 문제를 풀어내면 그것을 해결 했다는 생각에 제 자신이 뿌듯하고 행복하고 기쁩니다.#@문장구분# 그리고 수학은 같은 답이여도 공식을 어떻게 쓰냐 어떻게 풀 것이냐에 따라 전부 다르게 풀 수 있어서 창의적인 생각을 같이 할 수 있는 것 같습니다.#@문장구분# 그래서 수학을 좋아하고 앞으로도 더 많은 문제를 풀어보고 싶다는 생각을 합니다.#@문장구분# 더 어려운 문제를 해결하고 싶습니다.",
+      "paragraph_len": 395,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.933334,
+      21.133335,
+      21.714287
+    ],
+    "essay_scoreT_avg": 21.593653,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 제일 좋아하는 과목은 수학입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": "<문법_조사><문법_높임법>저는 </문법_높임법></문법_조사>제일 좋아하는 과목은 수학입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 4살부터 숫자를 좋아했고 어렸을 때부터 관심이 있어 미리 구구단 같은 것을 배우고 재밌어했습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 4살부터 숫자를 좋아했고 어렸을 때부터 관심이 있어 미리 구구단 같은 것을 배우고 <문법_맞춤법>재밌어 했습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 왜냐하면 4살부터 숫자를 좋아했고 어렸을 때부터 관심이 있어 미리 구구단 같은 것을 배우고 재밌어했습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 수학 문제를 풀 때 어려운 문제를 풀어내면 그것을 해결했다는 생각에 제 자신이 뿌듯하고 행복하고 기쁩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>수학문제를 </문법_맞춤법>풀 때 어려운 문제를 풀어내면 그것을 해결 했다는 생각에 제 자신이 뿌듯하고 행복하고 기쁩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 수학은 같은 답이어도 공식을 어떻게 쓰냐 어떻게 풀 것이냐에 따라 전부 다르게 풀 수 있어서 창의적인 생각을 같이 할 수 있는 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 수학은 같은 <문법_맞춤법>답이여도 </문법_맞춤법>공식을 어떻게 쓰냐 어떻게 풀 것이냐에 따라 전부 다르게 풀 수 있어서 창의적인 생각을 같이 할 수 있는 것 같습니다.",
+      "sentence_corr_txt_styling": " 그리고 수학은 같은 답이어도 공식을 어떻게 쓰냐 어떻게 풀 것이냐에 따라 전부 다르게 풀 수 있어서 창의적인 생각을 같이 할 수 있는 것 같습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53205",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 297,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

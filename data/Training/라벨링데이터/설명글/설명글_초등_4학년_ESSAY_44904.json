@@ -1,0 +1,302 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제목:#@문장구분#내가 생각하는 예절의기준#@문장구분# \n 우리는 살아가면서 예절은 한번이라도 지켜봤을 거라고 생각한다.#@문장구분# 이제부터 내가 생각하는 예절의 기준을 적어보겠다.#@문장구분# 일단 제일 기본적인 존댓말하기!#@문장구분# 존댓말은 어른, 어르신 또는 나보다 높은 사람에게 존댓말을 해야한다.#@문장구분# 생각한다. 우리가 존댓말을 어른들에게 하지 않으면 어른들께서는 우리를 예의 없는 아이로 보셔서 미움만 받게 될 것이다.#@문장구분# 그리고 인사하는건 물론이고 친구들을 배려하고 친구들과 선생님의 말을 귀기울여 들어야한다.#@문장구분# 왜냐하면 친구들 배려하지 않으면 사이가 멀어질 것이고 '가는말이 고아야 오는말이 곱다' 같은 속담처럼 친구를 배려하면 나중에 친구가 좋은 보답을 해줄수도 있다.#@문장구분# 이처럼 나는 예절을 이런식으로 생각한다.#@문장구분# 내가 지금 말한 것과 반대하고 있는 사람은 예의가 없다고 생각한다.#@문장구분# 앞으로 모든 사람들이 예절을 잘 지키면 좋겠다.#@문장구분#",
+      "paragraph_len": 673,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.933334,
+      26.8,
+      20.333334
+    ],
+    "essay_scoreT_avg": 23.022223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 예절의 기준",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 <문법_맞춤법>예절의기준</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 우리는 살아가면서 예절은 한 번이라도 지켜봤을 거라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 우리는 살아가면서 예절은 <문법_맞춤법>한번이라도</문법_맞춤법> 지켜봤을 거라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 제일 기본적인 존댓말 하기!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단 제일 기본적인 <문법_맞춤법>존댓말하기!</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 존댓말은 어른, 어르신 또는 나보다 높은 사람에게 존댓말을 해야 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 존댓말은 어른, 어르신 또는 나보다 높은 사람에게 존댓말을 <문법_맞춤법>해야한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 존댓말은 어른, 어르신 또는 나보다 높은 사람에게 존댓말을 해야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 생각한다. 우리가 존댓말을 어른들에게 하지 않으면 어른들께서는 우리를 예의 없는 아이로 보셔서 미움만 받게 될 것이다.",
+      "sentence_corr_txt_styling": " 생각한다. 우리가 존댓말을 어른들에게 하지 않으면 어른들께서는 우리를 예의 없는 아이로 보셔서 미움만 받게 될 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 인사하는 건 물론이고 친구들을 배려하고 친구들과 선생님의 말을 귀 기울여 들어야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>인사하는건</문법_맞춤법> 물론이고 친구들을 배려하고 친구들과 선생님의 말을 귀기울여 들어야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 친구들 배려하지 않으면 사이가 멀어질 것이고 '가는 말이 고와야 오는 말이 곱다' 같은 속담처럼 친구를 배려하면 나중에 친구가 좋은 보답을 해줄 수도 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 친구들 배려하지 않으면 사이가 멀어질 것이고 <문법_맞춤법>'가는말이 고아야 오는말이</문법_맞춤법> 곱다' 같은 속담처럼 친구를 배려하면 나중에 친구가 좋은 보답을 해줄수도 있다.",
+      "sentence_corr_txt_styling": " 왜냐하면 친구들 배려하지 않으면 사이가 멀어질 것이고 '가는 말이 고와야 오는 말이 곱다' 같은 속담처럼 친구를 배려하면 나중에 친구가 좋은 보답을 해줄 수도 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이처럼 나는 예절을 이런 식으로 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 이처럼 나는 예절을 <문법_맞춤법>이런식으로</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": " 이처럼 나는 예절을 이런 식으로 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 내가 지금 말한 것과 반대하고 있는 사람은 예의가 없다고 생각한다.",
+      "sentence_corr_txt_styling": " 내가 지금 말한 것과 반대하고 있는 사람은 예의가 없다고 생각한다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44904",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 433,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

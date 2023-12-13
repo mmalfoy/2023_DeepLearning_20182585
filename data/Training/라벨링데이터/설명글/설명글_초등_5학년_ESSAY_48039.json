@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 학교 과목중 가장 좋아하는 과목은 수학입니다.#@문장구분# 왜냐하면 수학 5학년 2학기 수학이 쉽기 때문입니다.#@문장구분# 5학년 2학기에 나오는 합동과 대칭은그냥 자로 쓱 하고 그리면 돼기때문에수학이 가장쉽고,좋습니다.#@문장구분# 다음년 에는 바뀔지도 모르겠지만 그래도 지금은 수학이 좋습니다. #@문장구분#근데 다음 단원인 소수의 곱셈이 5학년 수학중에 가장 어렵다라고 누나가 말을해서 다음년이 아닌 올해가 됄수도 있다는 생각을하고있다.#@문장구분# 다음년은 더 힘들어지고 어려워 질거같고 수포자가 될수도 있겠다고 생각은 하고있지만 아마도 그러면 어머니에게 죽을수도 있을거같아서 수포자는 안할것이다.#@문장구분# 그리고 시험은 열심히 공부해서 100점 90점을 노려볼것이고 학원과 학교에서 더욱열심히 노력 할 것이다.",
+      "paragraph_len": 486,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.619047,
+      18.066668,
+      20.333334
+    ],
+    "essay_scoreT_avg": 20.339684,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 학교 과목 중 가장 좋아하는 과목은 수학입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 학교 <문법_맞춤법>과목중</문법_맞춤법> 가장 좋아하는 과목은 수학입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 5학년 2학기에 나오는 합동과 대칭은 그냥 자로 쓱 하고 그리면 되기 때문에 수학이 가장 쉽고, 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 5학년 2학기에 나오는 합동과 <문법_맞춤법>대칭은그냥</문법_맞춤법> 자로 쓱 하고 그리면 돼기때문에수학이 가장쉽고,좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음 해에는 바뀔지도 모르겠지만 그래도 지금은 수학이 좋습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다음년 에는</문법_맞춤법> 바뀔지도 모르겠지만 그래도 지금은 수학이 좋습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "근데 다음 단원인 소수의 곱셈이 5학년 수학 중에 가장 어렵다고 누나가 말을 해서 다음 해가 아니라 올해가 될 수도 있다는 생각을 하고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 종결 어미 통일"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "근데 다음 단원인 소수의 곱셈이 5학년 <문법_맞춤법>수학중에</문법_맞춤법> 가장 <문법_어미>어렵다라고 누나가 말을해서 다음년이 아닌 올해가 됄수도 있다는 생각을하고있다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음 해는 더 힘들어지고 어려워질 것 같고 수포자가 될 수도 있겠다고 생각은 하고 있지만 아마도 그러면 어머니에게 죽을 수도 있을 것 같아서 수포자는 안 할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다음년은</문법_맞춤법> 더 힘들어지고 어려워 질거같고 수포자가 될수도 있겠다고 생각은 하고있지만 아마도 그러면 어머니에게 죽을수도 있을거같아서 수포자는 안할것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 시험은 열심히 공부해서 100점 90점을 노려볼 것이고 학원과 학교에서 더욱열심히 노력할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 시험은 열심히 공부해서 100점 90점을 <문법_맞춤법>노려볼것이고</문법_맞춤법> 학원과 학교에서 더욱열심히 노력 할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48039",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 367,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

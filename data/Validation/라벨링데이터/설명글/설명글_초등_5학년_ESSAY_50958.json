@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "또 하루에 1번 샤워하고요#@문장구분# 손은 하루에 1번에서 2번정도 씻습니다.#@문장구분# 그리고 제몸은 운동으로 관리하지만 식습관이 않좋아서 야채를 먹지않는다.#@문장구분# 그리고 내가 야채를 먹으면 토하는 그런게 있기 때문에 야채나 채소를 먹지 않는다.#@문장구분#\n 나는 운동을 축구 등 운동을 하고있다.#@문장구분# 나는 몸관리를 못하고있다.#@문장구분# 살은 살대로 디룩디룩 찌고 못생겨 져서 짜증나고 외출후 손발을 씻는다.#@문장구분# 좋은점은 그걸 하면 세균이 사라지고 건강에도 좋다.#@문장구분#\n 앞으로 계획 손발을 잘 씻을 것이다.#@문장구분# 세균에 감염 될수도있고 몸에도 않 좋고 건강에 해로울수도 있으며 손발은 잘 씻어야 한다.#@문장구분#\n 앞으로 많이 샤워 할것이다.#@문장구분# 깨끗히 머리도 감고 몸도 닦고 아프지 않계 생활 할것입니다.#@문장구분#\n 앞으로 양치를 2번에서 3번 정도 힘을 써서 늘릴 것이고 다치지 않고 건강하게 생활 할것이다.",
+      "paragraph_len": 647,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.933334,
+      11.933332,
+      13.933334
+    ],
+    "essay_scoreT_avg": 15.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 손은 하루에 1번에서 2번 정도 씻습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손은 하루에 1번에서 <문법_맞춤법>2번정도 씻습니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 제 몸은 운동으로 관리하지만 식습관이 안 좋아서 야채를 먹지 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>제몸은 운동으로 관리하지만 식습관이 않좋아서 야채를 먹지않는</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 내가 야채를 먹으면 토하는 그런 게 있기 때문에 야채나 채소를 먹지 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 내가 야채를 먹으면 토하는 <문법_맞춤법>그런게</문법_맞춤법> 있기 때문에 야채나 채소를 먹지 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 나는 운동을 축구 등 운동을 하고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 나는 운동을 축구 등 운동을 <문법_맞춤법>하고있</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 몸 관리를 못하고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>몸관리를 못하고있</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 살은 살대로 뒤룩뒤룩 찌고 못 생겨져서 짜증 나고  외출 후 손발을 씻는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 살은 살대로<문법_맞춤법> 디룩디룩 찌고 못생겨 져서 짜증나고 외출후</문법_맞춤법> 손발을 씻는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 좋은 점은 그걸 하면 세균이 사라지고 건강에도 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>좋은점은</문법_맞춤법> 그걸 하면 세균이 사라지고 건강에도 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세균에 감염될 수도 있고 몸에도 안 좋고 건강에 해로울 수도 있으며 손발은 잘 씻어야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세균에 <문법_맞춤법>감염 될수도있고 몸에도 않 좋고 건강에 해로울수도 있</문법_맞춤법>으며 손발은 잘 씻어야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 앞으로 많이 샤워할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 앞으로 많이 <문법_맞춤법>샤워 할것이</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 깨끗이 머리도 감고 몸도 닦고 아프지 않게 생활할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>깨끗히</문법_맞춤법> 머리도 감고 몸도 닦고 아프지 않계 생활 할것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 앞으로 양치를 2번에서 3번 정도 힘을 써서 늘릴 것이고 다치지 않고 건강하게 생활할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 앞으로 양치를 2번에서 3번 정도 힘을 써서 늘릴 것이고 다치지 않고 건강하게 <문법_맞춤법>생활 할것이</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50958",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 408,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

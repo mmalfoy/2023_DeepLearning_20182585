@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에게서 내가 가장 존경하는 위인은 세종대왕 이다. #@문장구분#세종대왕 께서는 어렸을 때 부터 아버지가 말을 타면 짐승을 사냥하는 모습을 보면서 자랐다.#@문장구분# \n 그래서 세종대왕 께서는 활 쏘는 것을 좋아하셨다. #@문장구분#그래서 책 읽는 것 보다 말을타며, 활 쏘는 것 을 좋아하셨다. #@문장구분#그래서 어렸을때부터 세종대왕은 어려서부터 굉장히 활발하였다.#@문장구분# 어느덧, 나이가 많이든 세종은 백성들이 한자를 배우지 못해 글을 읽지 못하는 것을 보게된다. #@문장구분#그리고 세종은 돌아가서 계속 고민 한다 어떻게하면 백성들이 편하게 글을 읽지. 라고 말이다. #@문장구분#그래서 세종은 신하들과 같이 편하게 읽을수있는 글자를 만들었다. #@문장구분#그리고 한국인이라면 다 앎낳나 인물 세종대왕이 되었다.#@문장구분#",
+      "paragraph_len": 530,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      23.55,
+      28.15
+    ],
+    "essay_scoreT_avg": 23.983332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나에게서 내가 가장 존경하는 위인은 세종대왕이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나에게서 내가 가장 존경하는 위인은 <문법_맞춤법>세종대왕 이다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세종대왕께서는 어렸을 때부터 아버지가 말을 타면 짐승을 사냥하는 모습을 보면서 자랐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>세종대왕 께서는</문법_맞춤법> 어렸을 때 부터 아버지가 말을 타면 짐승을 사냥하는 모습을 보면서 자랐다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 그래서 세종대왕께서는 활 쏘는 것을 좋아하셨다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 그래서 <문법_맞춤법>세종대왕 께서는</문법_맞춤법> 활 쏘는 것을 좋아하셨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 책 읽는 것보다 말을 타며, 활 쏘는 것 을 좋아하셨다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 책 읽는 <문법_맞춤법>것 보다 말을타며</문법_맞춤법>, 활 쏘는 것 을 좋아하셨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 어렸을 때부터 세종대왕은 어려서부터 굉장히 활발하였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 <문법_맞춤법>어렸을때부터</문법_맞춤법> 세종대왕은 어려서부터 굉장히 활발하였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느덧, 나이가 많이 든 세종은 백성들이 한자를 배우지 못해 글을 읽지 못하는 것을 보게 된다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어느덧, 나이가 <문법_맞춤법>많이든</문법_맞춤법> 세종은 백성들이 한자를 배우지 못해 글을 읽지 못하는 것을 보게된다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 세종은 돌아가서 계속 고민한다 어떻게 하면 백성들이 편하게 글을 읽지. 라고 말이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 세종은 돌아가서 계속 <문법_맞춤법>고민 한다 어떻게하면</문법_맞춤법> 백성들이 편하게 글을 읽지. 라고 말이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 세종은 신하들과 같이 편하게읽을 수 있는 글자를 만들었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 세종은 신하들과 같이 편하게<문법_맞춤법> 읽을수있는</문법_맞춤법> 글자를 만들었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 한국인이라면 다 앎 낳나 인물 세종대왕이 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 한국인이라면 다 <문법_맞춤법>앎낳나</문법_맞춤법> 인물 세종대왕이 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_41434",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 351,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

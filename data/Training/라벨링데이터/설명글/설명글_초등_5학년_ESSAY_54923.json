@@ -1,0 +1,271 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "초등학교 1학년때 아빠와 함께 사직야구장에 가서 야구라는 스포츠를 처음 접하게 되었고 롯데 자이언츠라는 야구팀에 관심을 가지게 되었다.#@문장구분# 매일 아침 스마트폰으로 전날 경기를 찾아보는것이 나의 일과의 시작이 되었고 아빠와 함께 야구 보러가는 것이 어느덧   나의 취미가 되었다. #@문장구분#내가 가장 좋아하는 선수의 유니폼을 입고 서울 과중등 다른 도시들을 여행하고 그 지역의 야구장에서 관람하는것이 내가 가장 좋아하는 여행이고 우리가 가는 여행지에서 롯데 자이언츠의 경기가 있는지 찾아보는 습관을 가지게 되었다. #@문장구분#2019년 11월에 대한민국 과 쿠바가 야구경기를 하는 것을 본적이 있다.#@문장구분# 그때 한국이 이겼지만 쿠바도 한국 못지않게 잘했다. #@문장구분#그래서 그걸보고 두 나라다 잘하는것 같았다. #@문장구분#그래서 이번 도쿄올림픽에서 좋은 결과를 내진못했지만 그리고 국가대표 경기를 직접가서 보진 못했지만 TV나 핸드폰으로 본건 안으로 좋았다. #@문장구분#디크인 친구들과도 가고싶다.",
+      "paragraph_len": 608,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.619047,
+      21.933334,
+      21.933334
+    ],
+    "essay_scoreT_avg": 20.828573,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.06",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "051",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "초등학교 1학년 때 아빠와 함께 사직야구장에 가서 야구라는 스포츠를 처음 접하게 되었고 롯데 자이언츠라는 야구팀에 관심을 가지게 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "초등학교 <문법_맞춤법>1학년때</문법_맞춤법> 아빠와 함께 사직야구장에 가서 야구라는 스포츠를 처음 접하게 되었고 롯데 자이언츠라는 야구팀에 관심을 가지게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 매일 아침 스마트폰으로 전날 경기를 찾아보는 것이 나의 일상의 시작이 되었고 아빠와 함께 야구 보러 가는 것이 어느덧   나의 취미가 되었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 매일 아침 스마트폰으로 전날 경기를 <문법_맞춤법>찾아보는것이</문법_맞춤법> 나의 일과의 시작이 되었고 아빠와 함께 야구 보러가는 것이 어느덧   나의 취미가 되었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 가장 좋아하는 선수의 유니폼을 입고 다른 도시들을 여행하고 그 지역의 야구장에서 관람하는 것이 내가 가장 좋아하는 여행이고 우리가 가는 여행지에서 롯데 자이언츠의 경기가 있는지 찾아보는 습관을 가지게 되었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 가장 좋아하는 선수의 유니폼을 입고 <문법_맞춤법>서울 과중등 다른 도시들을 여행하고</문법_맞춤법> 그 지역의 야구장에서 관람하는것이 내가 가장 좋아하는 여행이고 우리가 가는 여행지에서 롯데 자이언츠의 경기가 있는지 찾아보는 습관을 가지게 되었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "2019년 11월에 대한민국과 쿠바가 야구 경기를 하는 것을 본 적이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "2019년 11월에 <문법_맞춤법>대한민국 과</문법_맞춤법> 쿠바가 야구경기를 하는 것을 본적이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 그걸 보고 두 나라다 잘하는것 같았다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 <문법_맞춤법>그걸보고</문법_맞춤법> 두 나라다 잘하는것 같았다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 이번 도쿄 올림픽에서 좋은 결과를 내진 못했지만 또, 국가대표 경기를 직접가서 보진 못했지만 TV나 핸드폰으로 본 것 만으로 좋았다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "그래서 이번 <문법_맞춤법>도쿄올림픽에서</문법_맞춤법> 좋은 결과를 내진못했지만 그리고 국가대표 경기를 직접가서 보진 못했지만 TV나 <문법_조사><문법_어미>핸드폰으로 본건 안으로 좋았다.</문법_어미></문법_조사> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "디카인 친구들과도 가고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>디크</문법_맞춤법>인 친구들과도 가고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_54923",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 469,
+    "essay_main_subject": "나의 취미"
+  }
+}

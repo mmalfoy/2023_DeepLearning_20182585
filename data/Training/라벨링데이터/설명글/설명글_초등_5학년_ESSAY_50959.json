@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 몸을 깨끗하게 하기 위해 매일매일 머리도 감고 몸도 씻고 양치는 하루에 2~3번 정도합니다.#@문장구분# 새수도 아침에 1번 저녁에 1번 하기 때문에 2번합니다.#@문장구분# 손은 집에 들어올때 마다 씻슴니다.#@문장구분# 저는 몸을 깨끗하게 하려고 노력할것 입니다.#@문장구분# 하루에 1번씩 매일 귀찮아 하지 안고 씻으려고 할것 입니다.#@문장구분# 양치도 많이 하려고 노력 할것 이고 밥먹기 전에도 손을 매일 씻으려고 노력할것 입니다.#@문장구분# 머리 감고 나서도 머리를 말릴것 이고 손씻고 나서도 수건으로 닦을것 입니다.#@문장구분# 몸도 비누로 매일 깨끗이 닦을것 입니다.#@문장구분# 다른사람들이 깨끗하게 하는 방법을 알려주면 최대한 노력할것 입니다.#@문장구분# 새균이 몸에 들어오지 못하게 청결하게 노력할것 이고 병에도 걸리지 않게 노력할것 입니다.#@문장구분# 요즘 코로나니까 어디를 갈때는 손소독제를 꼭 사용하려 노력할것 입니다.#@문장구분# 인터넷에 몸을 청결하게 하는 방법도 찾아서 열심히 실천을 할것입니다.#@문장구분# 그리고 사촌동생들에게도 알려주고 실천하라고 할것입니다.",
+      "paragraph_len": 718,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          1.4285715,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.64762,
+      19.64762,
+      20.219048
+    ],
+    "essay_scoreT_avg": 21.171429,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 몸을 깨끗하게 하기 위해 매일매일 머리도 감고 몸도 씻고 양치는 하루에 2~3번 정도 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 몸을 깨끗하게 하기 위해 매일매일 머리도 감고 몸도 씻고 양치는 하루에 2~3번 <문법_맞춤법>정도합니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세수도 아침에 1번 저녁에 1번 하기 때문에 2번 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>새수도 아침에 1번 저녁에 1번 하기 때문에 2번합</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손은 집에 들어올 때마다 씻습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손은 집에 <문법_맞춤법>들어올때 마다 씻슴</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 몸을 깨끗하게 하려고 노력할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 몸을 깨끗하게 하려고 <문법_맞춤법>노력할것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하루에 1번씩 매일 귀찮아하지 않고 씻으려고 할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하루에 1번씩 매일<문법_맞춤법> 귀찮아 하지 안고 씻으려고 할것 입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 양치도 많이 하려고 노력할 것이고 밥 먹기 전에도 손을 매일 씻으려고 노력할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 양치도 많이 하려고 <문법_맞춤법>노력 할것 이고 밥먹기 전에도 손을 매일 씻으려고 노력할것 입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 머리 감고 나서도 머리를 말릴 것이고 손 씻고 나서도 수건으로 닦을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 머리 감고 나서도 머리를 <문법_맞춤법>말릴것 이고 손씻고 나서도 수건으로 닦을것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 사람들이 깨끗하게 하는 방법을 알려주면 최대한 노력할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다른사람들이 깨끗하게 하는 방법을 알려주면 최대한 노력할것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세균이 몸에 들어오지 못하게 청결하게 노력할 것이고 병에도 걸리지 않게 노력할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>새균이</문법_맞춤법> 몸에 들어오지 못하게 청결하게 노력할것 이고 병에도 걸리지 않게 노력할것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 코로나니까 어디를 갈 때는 손소독제를 꼭 사용하려 노력할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘 코로나니까 어디를 <문법_맞춤법>갈때는 손소독제를 꼭 사용하려 노력할것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인터넷에 몸을 청결하게 하는 방법도 찾아서 열심히 실천을 할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인터넷에 몸을 청결하게 하는 방법도 찾아서 열심히 실천을 <문법_맞춤법>할것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 사촌동생들에게도 알려주고 실천하라고 할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 사촌동생들에게도 알려주고 실천하라고 <문법_맞춤법>할것입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50959",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 479,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

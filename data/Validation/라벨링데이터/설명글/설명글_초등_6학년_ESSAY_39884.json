@@ -1,0 +1,315 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 존경하는 인물은 여러명이지만 그중에서 한분은 스티브 잡스이다.#@문장구분# 스티브 잡스는 지금 돌아가셨지만 아직까지도 많은 사람들의 사랑을 받고 있다.#@문장구분# 애플 회사를 설립한 것으로 유명하고 천재적인 것으로도 유명하다.#@문장구분#\n 스티브 잡스는 1995년 미국에서 태어났다.#@문장구분# 하지만 친부모는 대학생이였기에 스티브 잡스를 입양보냈다.#@문장구분# 스티브 잡스는 다행이도 좋은 부모를 만났다.#@문장구분# 부모님은 스티브 잡스의 호기심을 자극했고, 또 풀게 해주었다.#@문장구분# 부모님의 훌륭한 교육덕분에 지금의 스티브잡스가 올 수있는거 같다.#@문장구분#\n 스티브 잡스는 워즈라는 친구와 함께 사업을 시작했고 애플이라는 이름을 지었다.#@문장구분#처음에는 컴퓨터를 만들었다.#@문장구분# 그다음 스티브는 존과 함께 일하면서 서로 경영자 자리를 지키기 위해 싸웠다.#@문장구분# 결국 스티브는 회사에서 쫓겨났다.#@문장구분# 스티브는 픽사에서 토이 스토리라는 영화를 흥행시켰다.#@문장구분# 그후로 다시 애플에 복귀해 1977년에 아이맥을 출시했다.#@문장구분# 그다음 애플 스토어가 생기고 2001년에 아이팟이 출시했다.#@문장구분# 2007년에 아이폰이 출시했고 2010년에 아이패드가 출시되었다.#@문장구분# 안타깝게도 스티브는 병에걸려 20 11년에 돌아가셨다.#@문장구분#\n 스티브 잡스는 포기하지 않는 삶을 살았다.#@문장구분# 나는 끊기가 없어 무언갈 할 때 쉽게 포기하지만 나도 스티브 잡스의 삶을 본받아 포기하지 않는 삶을 살겠다.#@문장구분#",
+      "paragraph_len": 1024,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      23.1,
+      21.6
+    ],
+    "essay_scoreT_avg": 24.233332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 존경하는 인물은 여러 명이지만 그 중에서 한 분은 스티브 잡스이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 존경하는 인물은 <문법_맞춤법>여러명이지만 </문법_맞춤법>그중에서 한분은 스티브 잡스이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 친부모는 대학생이었기에 스티브 잡스를 입양보냈다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 친부모는 <문법_맞춤법>대학생이였기에 </문법_맞춤법>스티브 잡스를 입양보냈다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스티브 잡스는 다행히도 좋은 부모를 만났다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스티브 잡스는 <문법_맞춤법>다행이도 </문법_맞춤법>좋은 부모를 만났다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님의 훌륭한 교육 덕분에 지금의 스티브잡스가 올 수 있는 거 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 부모님의 훌륭한 <문법_맞춤법>교육덕분에 </문법_맞춤법>지금의 스티브잡스가 올 수있는거 같다.",
+      "sentence_corr_txt_styling": " 부모님의 훌륭한 교육 덕분에 지금의 스티브잡스가 올 수 있는 거 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 스티브는 픽사에서 토이 스토리라는 영화를 흥행시켰다.",
+      "sentence_corr_txt_styling": " 스티브는 픽사에서 토이 스토리라는 영화를 흥행시켰다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 후로 다시 애플에 복귀해 1977년에 아이맥을 출시했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그후로 </문법_맞춤법>다시 애플에 복귀해 1977년에 아이맥을 출시했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그다음 애플 스토어가 생기고 2001년에 아이팟이 출시했다.",
+      "sentence_corr_txt_styling": " 그다음 애플 스토어가 생기고 2001년에 아이팟이 출시했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 2007년에 아이폰이 출시했고 2010년에 아이패드가 출시되었다.",
+      "sentence_corr_txt_styling": " 2007년에 아이폰이 출시했고 2010년에 아이패드가 출시되었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안타깝게도 스티브는 병에 걸려 20 11년에 돌아가셨다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 안타깝게도 스티브는 <문법_맞춤법>병에걸려 </문법_맞춤법>20 11년에 돌아가셨다.",
+      "sentence_corr_txt_styling": " 안타깝게도 스티브는 병에 걸려 20 11년에 돌아가셨다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 나는 끊기가 없어 무언갈 할 때 쉽게 포기하지만 나도 스티브 잡스의 삶을 본받아 포기하지 않는 삶을 살겠다.",
+      "sentence_corr_txt_styling": " 나는 끊기가 없어 무언갈 할 때 쉽게 포기하지만 나도 스티브 잡스의 삶을 본받아 포기하지 않는 삶을 살겠다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39884",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 645,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

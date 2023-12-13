@@ -1,0 +1,317 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 흰색이고 화장실은 한 두 개 정도 있고, 좀 너무 작지는 않게 하면 좋겠습니다.#@문장구분# 그리고 계단이 있어서 2층도 있으면 좋겠고 방은 1층에는 5개 그리고 2층에는 5개 정도만 있어도 좋을 것 같습니다.#@문장구분# 거실은 좀 크게하고 주방도 거실 쪽에 있으면 좋겠습니다.#@문장구분# 그리고 1층 거실에 창문이 크게 있으면 좋겠습니다.#@문장구분# 거실에 쇼파도 놓고 식탁도 놓으면 좋겠습니다.#@문장구분# 2층에 있는 방 중에 1개는 제 방이고, 다른 방 중 가장 큰 방 하나를 만들고 엄마와 아빠가 가끔 많이 오실 때마다 그 방을 줄거고 아니면 그냥 같이 살면 좋겠습니다.#@문장구분# 나머지 방은 천천히 생각하면 좋겠습니다. #@문장구분#집이 약간 주택처럼 생겼어도 좋겠습니다.#@문장구분# 그리고 집 앞에 마당이 있으면 좋겠습니다.#@문장구분# 나중에 꼭 이런 집에서 살면 좋겠습니다.#@문장구분# 그리고 되면 고양이 아니면 강아지처럼 애완동물을 키우고 싶고 마당에서 같이 산책하면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 662,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3809524,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.285713,
+      26.685713,
+      24.4
+    ],
+    "essay_scoreT_avg": 25.790476,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 살고 싶은 집은 흰색이고 화장실은 두 개 정도 있고, 너무 작지는 않게 하면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어순><문법_기타>저는 흰색이고 화장실은 한 두 개 정도 있고, 좀 너무 작지는 않게 하면 좋겠습니다.</문법_기타></문법_어순></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 계단이 있는 2층이었으면 좋겠고, 방은 1층에는 5개 그리고 2층에는 5개 정도 있으면 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그리고 계단이 있어서 2층도 있으면 좋겠고 방은 1층에는 5개 그리고 2층에는 5개 정도만 있어도 좋을 것 같습니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거실은 크고, 주방은 거실 쪽에 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>거실은 좀 크게하고 주방도 거실 쪽에 있으면 좋겠습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 1층에는 창문이 크게 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 <문법_기타>1층 거실에</문법_기타> 창문이 크게 있으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거실에는 소파와 식탁을 놓으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 거실<문법_맞춤법><문법_기타>에 쇼파도 놓고 식탁도</문법_기타></문법_맞춤법> 놓으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2층에 있는 방 중에 1개는 제 방이고, 다른 방 중 가장 큰 방 하나를 만들고 엄마와 아빠가 가끔 오실 때마다 그 방을 사용하면 좋겠습니다. 하지만 가족과 함께 사는 것보다 좋은 것은 없습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 2층에 있는 방 중에 1개는 제 방이고, 다른 방 중 가장 큰 방 하나를 만들고 엄마와 아빠가 가끔 <문법_맞춤법><문법_조사><문법_기타>많이 오실 때마다 그 방을 줄거고 아니면 그냥 같이 살면 좋겠습니다.</문법_기타></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나머지 방은 천천히 생각하겠습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 나머지 방은 천천히 <문법_기타>생각하면 좋겠습니다</문법_기타>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "추가로, 집이 주택처럼 생겨도 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>집이 약간 주택처럼 생겼어도 좋겠습니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 고양이 또는 강아지와 같은 반려동물을 키우고 싶고, 마당에서 같이 산책하면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그리고 되면 고양이 아니면 강아지처럼 애완동물을 키우고 싶고 마당에서 같이 산책하면 좋겠습니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38069",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 443,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

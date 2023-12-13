@@ -1,0 +1,203 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 아침에 매일 늦게 일어나서 학교에 꼭 지각을 하는 습관이 있었다.#@문장구분# 전날에 일찍 자고 아무것도 안 하고 잠자리에 누웠는데도 아침만 되면은 꼭 눈이 늦게 떠지더라 부모님은 일 때문에 아침에 나보다 일찍 나가시기 때문에 나 스스로 일어나는 것이 나에겐 너무 버거웠다.#@문장구분# 그래서 선생님과 부모님들에게 혼도 많이 나고 나 스스로도 다시는 늦게 일어나지 않겠다고 다짐을 많이 했지만 이게 잘 되진 않더라 그래서 나는 특단의 조치를 내렸다.#@문장구분# 바로 아침에 늦게 일어나면 그날 하루 게임을 하지 않는 것이다. #@문장구분#이렇게 생각하고 알림을 여러 개 맞춰두고 매일 아침 평소 일어나는 시간보다 1시간씩 일찍 일어나는 것을 시작했었다.#@문장구분# 이렇게 하고나니 이제는 아침에 일찍 일어나는 게 더 이상 어렵지 않고 오히려 알림 없이도 그 시간에 눈이 떠지는 쾌거를 이루었다. #@문장구분#그러다 보니 선생님들이나 부모님들도 좋아하시고 나 또한 나 스스로에게도 너무 대견해서 기분이 좋았다.#@문장구분#",
+      "paragraph_len": 612,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.9,
+      25.35,
+      26.25
+    ],
+    "essay_scoreT_avg": 25.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 전날에 일찍 자고 아무것도 안 하고 잠자리에 누웠는데도 아침만 되면은 꼭 눈이 늦게 떠졌다. 부모님은 일 때문에 아침에 나보다 일찍 나가시기 때문에 나 스스로 일어나는 것이 나에겐 너무 버거웠다.",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 전날에 일찍 자고 아무것도 안 하고 잠자리에 누웠는데도 아침만 되면은 꼭 눈이 늦게 <문법_어미><문법_기타>떠지더라 </문법_기타></문법_어미>부모님은 일 때문에 아침에 나보다 일찍 나가시기 때문에 나 스스로 일어나는 것이 나에겐 너무 버거웠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 선생님과 부모님들에게 혼도 많이 나고 나 스스로도 다시는 늦게 일어나지 않겠다고 다짐을 많이 했지만 이게 잘 되진 않았다. 그래서 나는 특단의 조치를 내렸다.",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 선생님과 부모님들에게 혼도 많이 나고 나 스스로도 다시는 늦게 일어나지 않겠다고 다짐을 많이 했지만 이게 잘 되진 <문법_어미><문법_기타>않더라 </문법_기타></문법_어미>그래서 나는 특단의 조치를 내렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 하고 나니 이제는 아침에 일찍 일어나는 게 더 이상 어렵지 않고 오히려 알림 없이도 그 시간에 눈이 떠지는 쾌거를 이루었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 <문법_맞춤법>하고나니 </문법_맞춤법>이제는 아침에 일찍 일어나는 게 더 이상 어렵지 않고 오히려 알림 없이도 그 시간에 눈이 떠지는 쾌거를 이루었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56880",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 472,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

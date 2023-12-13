@@ -1,0 +1,288 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에는 아주 많은 취미활동이 있습니다. #@문장구분#다들 취미 있으시죠?#@문장구분# 취미는 아주 다양합니다.#@문장구분# 저의 취미는 게임하기, 노래듣기, 운동하기입니다.#@문장구분# 게임하기는 투구나 좋아하는것 입니다. #@문장구분#그냥 뭔가 할 수록 재미가있습니다. #@문장구분#운동하기는 제가 평소에 운동을 싫어하는데 다이어트라는 계기 때문에 시작하기 했습니다. #@문장구분#운동이 꽤나 힘들어 보이시죠! #@문장구분#그건 착각입니다.#@문장구분# 운동은 진짜로 재밌습니다.#@문장구분# 노래듣기는 잔잔하고 고요한 노래를 틀고 자면 마법도 아니고 잠이 스르륵 온답니다.#@문장구분# 저는 주로 신나는 아이돌 노래를 듣지만 사실상 잔잔한 노래를 듣지 않습니다.#@문장구분# 왜냐하면 잔잔한 노래는 너무 지루하고 진부합니다. #@문장구분#그레서 제가 잔잔한 노래를 듣지 않는것입니다.#@문장구분# 저는 노래듣는걸 추천 합니다. #@문장구분#그 이유는 노래를 들으면 기분이 좋아지기 때문입니다.#@문장구분#",
+      "paragraph_len": 717,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      28.333334,
+      23.64762
+    ],
+    "essay_scoreT_avg": 23.993652,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저의 취미는 게임하기, 노래 듣기, 운동하기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저의 취미는 게임하기, <문법_맞춤법>노래듣기</문법_맞춤법>, 운동하기입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임하기는 누구나 좋아하는 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게임하기는 <문법_맞춤법>투구나</문법_맞춤법> 좋아하는것 입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그냥 뭔가 할수록 재미가 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그냥 뭔가 <문법_맞춤법>할 수록 재미가있습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "운동하기는 제가 평소에 운동을 싫어하는데 다이어트라는 계기 때문에 시작하게 됐습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "운동하기는 제가 평소에 운동을 싫어하는데 다이어트라는 계기 때문에 <문법_어미>시작하기 했습니다</문법_어미>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 노래 듣기는 잔잔하고 고요한 노래를 틀고 자면 마법도 아닌데 잠이 스르륵 온답니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>노래듣기</문법_맞춤법>는 잔잔하고 고요한 노래를 틀고 자면 마법도 <문법_어미>아니고</문법_어미> 잠이 스르륵 온답니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 주로 신나는 아이돌 노래를 들어서 사실상 잔잔한 노래를 듣지 않습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 저는 주로 신나는 아이돌 노래를 <문법_어미>듣지만</문법_어미> 사실상 잔잔한 노래를 듣지 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그레서 제가 잔잔한 노래를 듣지 않는 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그레서 제가 잔잔한 노래를 듣지 <문법_맞춤법>않는것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 노래 듣는 걸 추천합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>노래듣는걸 추천 합니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48394",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 399,
+    "essay_main_subject": "나의 취미"
+  }
+}

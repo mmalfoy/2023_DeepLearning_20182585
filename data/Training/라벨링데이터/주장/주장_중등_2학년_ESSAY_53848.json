@@ -1,0 +1,250 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "여자나 남자나 다 해부해보면 똑같이 생겼다.#@문장구분# 다른 건 겉모습 뿐인데, 사회는 겉모습만 보고 성별에 프레임을 씌운다.#@문장구분# 그래서 사회적인 고정관념이 생기고, 그래서 남자와 여자가 서로 달라보이는 것이다.#@문장구분# 성별에 관계없이 인간은 생물학적으로 똑같을 수밖에 없다.#@문장구분# 자꾸 여자 남자 나누는 건 옛날부터 깊게 뿌리내린 남녀에 대한 차별때문인 거다.#@문장구분# 이제부터 우리는 그 차별을 차차 없애가야 한다.#@문장구분# 앞에서 말했듯이 여자와 남자는 별반 차이가 없기 때분에 잘하는 일과 못하는일이 나누어지지도 않는다.#@문장구분# 그냥 외관만 보고 일반화가 되어버린 편견 탓에 생긴 또 다른 편견일 뿐이다.#@문장구분# 나는 여자이지만 요리를 잘 못한다.#@문장구분# 사회의 편견에 따르면 여자는 요리를 남자보다 잘 해야 하는데 말이다.#@문장구분# 남자와 여자를 성별로 다른 존재라고 나누는 건 정말 옛날 얘기인 거 같은데 왜 또 나보고 이런 주제로 글을 쓰라고 하는 건지 도통 모르겠다.#@문장구분# 이젠 말하기도 힘들다.#@문장구분# 여자와 남자는 생물학적으로 같기 때문에, 거시기 말고는 다른 점이 하나도 없을 거다.#@문장구분# 뇌 구조도 똑같기 때문에 생각하는 방식도, 취향도, 모든게 다, 처음은 같았을 거다.#@문장구분# 살아가면서 환경의 영향을 받아서 취향이 조금씩 나뉘는 거지, 절대 생물학적 요인 때문에 선호하는 거나 성격 등이 달라지는 건 아니라고 생각한다.#@문장구분# 어서 빨리 이 편견을 없애야 한다.#@문장구분# 남녀 차별의 근원이다.#@문장구분# 이런 편견 말고, 우리는 발전된 과학의 근거를 믿어야 한다.#@문장구분#",
+      "paragraph_len": 1068,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4,
+          1,
+          1.6
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              3
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              1
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.2,
+      13,
+      13.6
+    ],
+    "essay_scoreT_avg": 18.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          0,
+          1,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          1
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 6,
+      "org_coherence": 3,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 3,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 3
+    },
+    "essay_main_subject": "생물학적으로 다른 남/여에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 4,
+      "exp_grammar": 2,
+      "exp_vocab": 4,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "여자나 남자나 다 해부해 보면 똑같이 생겼다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여자나 남자나 다 <문법_맞춤법>해부해보면</문법_맞춤법> 똑같이 생겼다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 건 겉모습뿐인데, 사회는 겉모습만 보고 성별에 프레임을 씌운다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다른 건 <문법_맞춤법>겉모습 뿐인데</문법_맞춤법>, 사회는 겉모습만 보고 성별에 프레임을 씌운다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 사회적인 고정관념이 생기고, 그래서 남자와 여자가 서로 달라 보이는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 사회적인 고정관념이 생기고, 그래서 남자와 여자가 서로 <문법_맞춤법>달라보이는</문법_맞춤법> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자꾸 여자 남자 나누는 건 옛날부터 깊게 뿌리내린 남녀에 대한 차별 때문인 거다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자꾸 여자 남자 나누는 건 옛날부터 깊게 뿌리내린 남녀에 대한 <문법_맞춤법>차별때문인 거다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞에서 말했듯이 여자와 남자는 별반 차이가 없기 때문에 잘하는 일과 못 하는일이 나누어지지도 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 앞에서 말했듯이 여자와 남자는 별반 차이가 없기 <문법_맞춤법>때분에</문법_맞춤법> 잘하는 일과 못하는일이 나누어지지도 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뇌 구조도 똑같기 때문에 생각하는 방식도, 취향도, 모든 게 다, 처음은 같았을 거다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 뇌 구조도 똑같기 때문에 생각하는 방식도, 취향도, <문법_맞춤법>모든게</문법_맞춤법> 다, 처음은 같았을 거다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53848",
+    "essay_prompt": " 미국 필라델피아대학교 의과대 라지니 버마 교수가 이끈 연구팀은 8~22살 사이의 나이를 가진 949명(남 428, 여 521)의 뇌 연결망 구조를 분석해보니 남녀 간에 뚜렷한 차이가 나타났다고 보고했습니다.\n\n 즉, 여러 사람의 뇌 구조를 비교해보니 여성과 남성의 뇌 구조가 확실한 차이를 나타낸다는 연구 결과였습니다. 연구팀은 이런 뇌 연결망 구조의 차이는 남녀의 사고방식과 행동 차이를 다시 확인해주는 것이라고 말했습니다.\n\n 이처럼 여성과 남성은 신체적으로 다른 부분이 분명히 존재합니다. 사회적으로 차별을 두는 것은 매우 안 좋은 현상이지만 신체적으로 각자에게 더 알맞은 일이나 효율성을 극대화 할 수 있는 일이 존재할 것입니다.\n\n 하지만, 요즘처럼 여성과 남성의 사회적 차별에 민감한 시기에 이러한 생물학적 차이에 의해 생긴 일자리의 남/여 비율이나 옷의 스타일, 헤어 스타일 등도 비판하는 단체들이 있습니다. 생물학적 차이 때문에 자연스럽게 남성과 여성의 잘 할 수 있는 분야나 스타일, 미적 기준 같은 것이 생긴 것이 아니라 사회적인 편견이 만들어낸 부산물이라고 주장합니다.\n\n 수많은 사람들의 의견이 다르기 때문에 어떤 것이 옳은 주장이라고 할 수는 없습니다. 사회적 이유일 수도 있고 생물학적 이유일 수도 있지요.\n\n 여러분들은 생물학적인 차이 때문에 남성과 여성이 잘 해낼 수 있는 일이 다르고 미적 관점이 다르다는 것에 대해 어떻게 생각하시나요? 당연하다고 생각하나요? 아니면 사회가 만들어낸 차별이라고 생각하시나요? 본인의 의견을 작성하고 그 이유에 대해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 708,
+    "essay_main_subject": "생물학적으로 다른 남/여에 대한 본인의 생각 작성"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 존경 받을만한 행동과 모습은 무수히 많지만 몇개만 정리하려고 한다.#@문장구분# 존경 받을만한 행동은 내가 아닌 다른 어려운 분들을 돕는것이다.#@문장구분# 내가 번 돈을 내가 아닌 모르는 남에게 쓰는 것은 쉬운것이 아니기 때문에 대단하다고 생각한다.#@문장구분# 만약 내가 어른이 되어서 나혼자 돈을 번다면 한번쯤은 큰금액이 아니더라도 해보고싶고, 돈이 아니더라도 나에겐 필요없는 물건들을 기부하는 일 부터 차근차근 노력 할 것 이다.#@문장구분#\n 두번째로 존경받을만한 모습은 앞이든 뒤든 모든사람이 나를 보는모습이 같은 것 이다.#@문장구분# 요즘 과거에 학교폭력을 주도한 연예인들이 아무렇지도 않게 활동 한 것이 밝혀지고있는데, 모든사람에게 솔직하고 창피할것 없는 앞뒤가 똑같은 사람이 존경받을만 한거 같다.#@문장구분# 나도 그런사람이 되기 위하여 노력할것이다.#@문장구분#",
+      "paragraph_len": 537,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      21.5,
+      25.75
+    ],
+    "essay_scoreT_avg": 25.083334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 존경 받을만한 행동은 내가 아닌 다른 어려운 분들을 돕는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 존경 받을만한 행동은 내가 아닌 다른 어려운 분들을 <문법_맞춤법>돕는것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 번 돈을 내가 아닌 모르는 남에게 쓰는 것은 쉬운 것이 아니기 때문에 대단하다고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 번 돈을 내가 아닌 모르는 남에게 쓰는 것은 <문법_맞춤법>쉬운것이 </문법_맞춤법>아니기 때문에 대단하다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 내가 어른이 되어서 나 혼자 돈을 번다면 한번쯤은 큰 금액이 아니더라도 해보고 싶고, 돈이 아니더라도 나에겐 필요 없는 물건들을 기부하는 일부터 차근차근 노력할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 만약 내가 어른이 되어서 <문법_맞춤법>나혼자 </문법_맞춤법>돈을 번다면 한번쯤은 큰금액이 아니더라도 해보고싶고, 돈이 아니더라도 나에겐 필요없는 물건들을 기부하는 일 부터 차근차근 노력 할 것 이다.",
+      "sentence_corr_txt_styling": " 만약 내가 어른이 되어서 나 혼자 돈을 번다면 한번쯤은 큰 금액이 아니더라도 해보고 싶고, 돈이 아니더라도 나에겐 필요 없는 물건들을 기부하는 일부터 차근차근 노력할 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 두번째로 존경 받을만한 모습은 앞이든 뒤든 모든 사람이 나를 보는 모습이 같은 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 두번째로 <문법_맞춤법>존경받을만한 </문법_맞춤법>모습은 앞이든 뒤든 모든사람이 나를 보는모습이 같은 것 이다.",
+      "sentence_corr_txt_styling": "\n 두번째로 존경 받을만한 모습은 앞이든 뒤든 모든 사람이 나를 보는 모습이 같은 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 과거에 학교 폭력을 주도한 연예인들이 아무렇지도 않게 활동한 것이 밝혀지고 있는데, 모든 사람에게 솔직하고 창피할 것 없는 앞뒤가 똑같은 사람이 존경 받을만한 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘 과거에 <문법_맞춤법>학교폭력을 </문법_맞춤법>주도한 연예인들이 아무렇지도 않게 활동 한 것이 밝혀지고있는데, 모든사람에게 솔직하고 창피할것 없는 앞뒤가 똑같은 사람이 존경받을만 한거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 그런 사람이 되기 위하여 노력할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 <문법_맞춤법>그런사람이 </문법_맞춤법>되기 위하여 노력할것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39899",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 398,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

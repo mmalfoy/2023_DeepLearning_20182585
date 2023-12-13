@@ -1,0 +1,250 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금부터 다문화 가정을 대하는 나의 자세를 말하겠다.#@문장구분# 지금까지 아는 사람중 에서는 다문화 가정 친구는 없다.#@문장구분# 하지만 어릴때는 흑인이나 백인을 보면 엄마한테 알려줄려고 손가락질을 하거나 속으로 조금 이상하다고 생각했다.#@문장구분# 지금 다문화 교육을 받은 나는 그때의 나를 조금 이해할수가 없다.#@문장구분# 이제 지금의 내가 다문화 가정 친구나 외국인을 대하는 자세를 말하겠다.#@문장구분# \n 옛날에는 이상하다고 생각했던 반면 지금은 이상하다고 생각하지 않고 오히려 특별한 사람이라고 말하고 싶다.#@문장구분# 그리고 흑인은 옛날에는 거부감이 들었지만 지금은 힘들게 자랐을 것 같아 더 잘해주고 싶다.#@문장구분# \n 나는 실제로 다문화 가정 친구나 외국인이 말을 걸며 친절하게 대해주고 차별을 하지 않도록 하겠다.#@문장구분# \n 힘네세요!#@문장구분# 언젠가 멋진 사람이 될수 있어요.",
+      "paragraph_len": 574,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23,
+      22.885715,
+      23.55
+    ],
+    "essay_scoreT_avg": 23.145239,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 지금까지 아는 사람 중에서는 다문화 가정 친구는 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금까지 아는 <문법_맞춤법>사람중 에서는</문법_맞춤법> 다문화 가정 친구는 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 어릴 때는 흑인이나 백인을 보면 엄마한테 알려주려고 손가락질을 하거나 속으로 조금 이상하다고 생각했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>어릴때는</문법_맞춤법> 흑인이나 백인을 보면 엄마한테 알려줄려고 손가락질을 하거나 속으로 조금 이상하다고 생각했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금 다문화 교육을 받은 나는 그때의 나를 조금 이해할 수가 없다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 지금 다문화 교육을 받은 나는 그때의 나를 조금 <문법_맞춤법>이해할수가</문법_맞춤법> 없다.",
+      "sentence_corr_txt_styling": " 지금 다문화 교육을 받은 나는 그때의 나를 조금 이해할 수가 없다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 나는 실제로 다문화 가정 친구나 외국인이 말을 걸면 친절하게 대해주고 차별을 하지 않도록 하겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " \n 나는 실제로 다문화 가정 친구나 외국인이 말을 <문법_어미>걸며</문법_어미> 친절하게 대해주고 차별을 하지 않도록 하겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 힘내세요!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>힘네세요</문법_맞춤법>!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 언젠가 멋진 사람이 될 수 있어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 언젠가 멋진 사람이 <문법_맞춤법>될수</문법_맞춤법> 있어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47026",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 395,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

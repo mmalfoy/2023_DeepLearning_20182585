@@ -1,0 +1,389 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "좋은 습관을 들이기위해노력한경험과 결과를 쓰겠습니다. #@문장구분#좋은습관을 들이기위한 노력1 키커질려고 잠을일찍잤습니다.#@문장구분# 하지만일찍자고일찍일어났는데도별로 못커서우유를 마셨는데키가안커서 실패하였습니다.#@문장구분# 2 공부를할려고 노력을했는데 3일동안 잘하다가 어느순간부터 귀찮아져서 공부를포기하지는 않았고 가끔씩 하고있습니다.#@문장구분# 3 게임을 좀많이해서 줄일려고 해봤는데 너무심심하고 할게없어서 컴퓨터를켜서 게임을했었습니다.#@문장구분# 그래서 실패했습니다.#@문장구분# 4 탄산음료를줄일려고 이온음료나물을 계속마셨는데 계속 콜라가마시고 싶어서 아무생각없이 콜라를 마셔서계획을 실패한적이있었습니다. #@문장구분#그때제가 너무한심했습니다.#@문장구분# 5 학원딱1번만빠지고 놀려고 엄마한테물어봤는데 엄마가 처음에는안된다고했지만 엄마를 잘 설득해서 학원을 빠지고 애들이 랑 재밌게 놀아서좋았습니다. #@문장구분#결국 노력해서 해내었습니다.#@문장구분# 노력만해도 반만간다는게 사실30프로거진30프로인거같습니다. #@문장구분#노력을해도안된적이있고노력을했는데 된적이있어서 약간헷갈려서 30프로라고했습니다.#@문장구분# 이처럼 노력을 해도 조금은된다는것을깨달았습니다.#@문장구분# 그리고 습관을 들이는 방법은 그냥 많이 하다보면 익숙해져서 습관이들어진다.#@문장구분#",
+      "paragraph_len": 842,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.05,
+      22.1,
+      27.1
+    ],
+    "essay_scoreT_avg": 22.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "032",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "좋은 습관을 들이기 위해 노력한 경험과 결과를 쓰겠습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "좋은 습관을 <문법_맞춤법>들이기위해노력한경험과</문법_맞춤법> 결과를 쓰겠습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "먼저 키가 크기 위해 잠을 일찍 잤습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_기타>좋은습관을 들이기위한 노력1</스타일링_기타> <스타일링_조사>키커질려고</스타일링_조사> <문법_맞춤법>잠을일찍잤습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "먼저 키가 크기 위해 잠을 일찍 잤습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 일찍 자고 일찍 일어났는데도 키가 별로 못 커서 우유를 마셨는데 역시 키가 안 커서 실패하였습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 호응관게 알기 위해 단어 추가",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>하지만일찍자고일찍일어났는데도별로</문법_맞춤법> <스타일링_기타>못커서우유를 마셨는데키가안커서 실패하였습니다</스타일링_기타>.",
+      "sentence_corr_txt_styling": " 하지만 일찍 자고 일찍 일어났는데도 키가 별로 못 커서 우유를 마셨는데 역시 키가 안 커서 실패하였습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 공부를 하려고 노력을했는데 3일동안 잘 하다가 어느 순간부터 귀찮아져서 가끔씩 하고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기, 어미",
+        "띄어쓰기, 어미"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_기타>2</문법_기타> <문법_맞춤법><문법_어미>공부를할려고</문법_어미></문법_맞춤법> 노력을했는데 3일동안 잘하다가 어느순간부터 귀찮아져서 공부를포기하지는 않았고 가끔씩 하고있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음으로 게임을 좀 많이 해서 줄이려고 해봤는데 너무 심심하고 할 게 없어서 컴퓨터를 켜서 게임을 했습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "띄어쓰기, 어미"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_기타>3</문법_기타> 게임을 <문법_맞춤법>좀많이해서</문법_맞춤법> 줄일려고 해봤는데 너무심심하고 할게없어서 컴퓨터를켜서 <문법_어미>게임을했었습니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 탄산음료도 줄이려고 이온음료나 물을 계속마셨는데 계속 콜라가 마시고 싶어서 아무생각없이 콜라를 마셔서 계획이 실패한 적이 있었습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 어미",
+        "띄어쓰기, 어미",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어미>4 탄산음료를줄일려고 </문법_어미></문법_맞춤법>이온음료나물을 계속마셨는데 계속 콜라가마시고 싶어서 아무생각없이 콜라를 <문법_조사>마셔서계획을</문법_조사> 실패한적이있었습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때 제가 너무 한심했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그때제가 너무한심했습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 학원을 딱 한 번만 빠지고 놀려고 엄마한테 물어봤는데 엄마가 처음에는 안된다고 했지만 엄마를 잘 설득해서 학원을 빠지고 애들이랑 재밌게 놀아서 좋았습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기, 기타 맞춤범"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_기타>5</문법_기타> <문법_맞춤법>학원딱1번만빠지고 놀려고</문법_맞춤법> 엄마한테물어봤는데 엄마가 처음에는안된다고했지만 엄마를 잘 설득해서 학원을 빠지고 애들이 랑 재밌게 놀아서좋았습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 노력만해도 반은 간다는 게 30프로 정도만 맞는 것 같습니다. ",
+      "sentence_corr_reason": [
+        "조사, 띄어쓰기",
+        "조사, 띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " 노력만해도 <문법_맞춤법><문법_조사>반만간다는게</문법_조사></문법_맞춤법> <스타일링_담화 맥락 오류><스타일링_기타>사실30프로거진30프로인거같습니다</스타일링_기타></스타일링_담화 맥락 오류>. ",
+      "sentence_corr_txt_styling": " 노력만해도 반은 간다는 게 30프로 정도만 맞는 것 같습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "노력을 해도 안 된 적이 있고 노력을 했는데 된 적이 있어서 30프로라고 했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>노력을해도안된적이있고노력을했는데 된적이있어서 약간헷갈려서 30프로라고했습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이처럼 노력을 하면 조금은 된다는 것을 깨달았습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 이처럼 노력을 <문법_어미><문법_기타>해도</문법_기타></문법_어미> <문법_맞춤법>조금은된다는것을깨달았습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 습관을 들이는 방법은 그냥 많이 하다보면 익숙해져서 습관이 듭니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그리고 습관을 들이는 방법은 그냥 많이 하다보면 익숙해져서 <문법_어미>습관이들어진다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33672",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 562,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

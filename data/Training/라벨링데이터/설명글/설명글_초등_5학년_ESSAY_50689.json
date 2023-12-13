@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 독서와 나가서 놀기입니다.#@문장구분# 독서를 취미로 하는 이유는 독서를 하는게 재미있어서고 나가서 놀기를 취미로 하는 이유는 나가서 놀면 스트레스가풀려서와 재미있어서입니다.#@문장구분# 취미를 하는 시간은 독서든 거의 매일이고 나가서 놀기는 주말에 정성을 일고 나서 입니다.#@문장구분# 취미를 같이하는 취미를 같이 는 사람은 독서는 보통 혼자 하지만 가끔식 동생과 같이 하고 나가서 놀기는 보통 동생과 둘이서 하지만 가끔식 동생친구랑 동생친구의동생이랑 내친구랑 같이 하기도 합니다.#@문장구분# 독서와 관련된 대회는 우리학교에서 개최하는 독서스타상 대회이고 나가서 놀기와 관련된 대회는 없습니다.#@문장구분# 독서와 나가서 놀기외에 내가 하고있는 취미든 게임하기도 있습니다.#@문장구분# 제가 하고싶은 취미는 자전거 타기 입니다.#@문장구분# 그리고 나가서 노는 시간을 더 늘리고 싶고 나가서 놀때 같이 노는 사람을 더 늘리고 싶다.#@문장구분#",
+      "paragraph_len": 586,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.019047,
+      20.333334,
+      28.4
+    ],
+    "essay_scoreT_avg": 24.584127,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 독서를 취미로 하는 이유는 독서를 하는 게 재미있어서고 나가서 놀기를 취미로 하는 이유는 나가서 놀면 스트레스가 풀려서 와 재미있어서입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 독서를 취미로 하는 이유는 독서를 <문법_맞춤법>하는게 재미있어서고 나가서 놀기를 취미로 하는 이유는 나가서 놀면 스트레스가풀려서와 재미있어서입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 취미를 하는 시간은 독서든 거의 매일이고 나가서 놀기는 주말에 정성을 일고 나서입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 취미를 하는 시간은 독서든 거의 매일이고 나가서 놀기는 주말에 정성을 일고 <문법_맞춤법>나서 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 취미를 같이하는 취미를 같이하는 사람은 독서는 보통 혼자 하지만 가끔씩 동생과 같이  하고 나가서 놀기는 보통 동생과 둘이서 하지만 가끔씩 동생 친구랑  동생 친구의 동생이랑  내 친구랑 같이 하기도 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 취미를 같이하는 <문법_맞춤법>취미를 같이 는 사람은 독서는 보통 혼자 하지만 가끔식 동생과 같이 하고 나가서 놀기는 보통 동생과 둘이서 하지만 가끔식 동생친구랑 동생친구의동생이랑 내친구랑 같이 하기도 합니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 독서와 관련된 대회는 우리 학교에서 개최하는 독서 스타상 대회이고 나가서 놀기와 관련된 대회는 없습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 독서와 관련된 대회는<문법_맞춤법> 우리학교에서 개최하는 독서스타상 대회이고 나가서 놀기와 관련된 대회는 없</문법_맞춤법>습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 독서와 나가서 놀이 외에 내가 하고 있는 취미든 게임하기도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 독서와 나가서 <문법_맞춤법>놀기외에 내가 하고있는 취미든 게임하기도</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 하고 싶은 취미는 자전거 타기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 <문법_맞춤법>하고싶은 취미는 자전거 타기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나가서 노는 시간을 더 늘리고 싶고 나가서 놀 때 같이 노는 사람을 더 늘리고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 나가서 노는 시간을 더 늘리고 싶고 나가서 <문법_맞춤법>놀때 </문법_맞춤법>같이 노는 사람을 더 늘리고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50689",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 426,
+    "essay_main_subject": "나의 취미"
+  }
+}

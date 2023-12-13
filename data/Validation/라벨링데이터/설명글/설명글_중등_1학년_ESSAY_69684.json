@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승이 되기 위해 꼭 필요한 요소 2가지에 대해 제가 생각하는 바를 말하도록 하겠습니다.#@문장구분# 먼저 첫번째는 저에게 동기부여를 해주실 수 있는 선생님입니다.#@문장구분# 두번째는 저에게 정서적인 지지를 해주실수 있는 선생님입니다.#@문장구분# 둘 다 비슷한 말일지도 모르지만, 저는 이 두가지 모두를 저에게 주셨던 선생님 덕에 이만큼 성장할 수 있었습니다.#@문장구분# 제 말을 잘 들어주시고 응원해주시고, 제가 힘들때 제 편이 되어주셔서 조언도 해주시고 지칠때 힘이 되어주셨습니다.#@문장구분# 그렇기 때문에 저는 참 된 스승은 학생의 편을 들어주실 수 있는 선생님이라고 생각합니다.#@문장구분# 그러기 위해서는 먼저 학생들의 말에 귀기울여주시고, 공감하기 위해 학생들의 처지에서 생각하겨야 하기 때문입니다.#@문장구분# 그렇게 저희에게 어떻게 하면 힘이 될 수 있는 말을 할 수 있을지를 아시고 그렇게 효과적인 동기부여를, 효과적인 정서적인 지지를 할 수 있게 됩니다.#@문장구분# 그 덕분에 저는 제 꿈을 포기하고 싶을때 다시 딛고 일어날 수 있었고, 지금 다시 달릴 수 있게 되었습니다.#@문장구분#그렇기 때문에, 제가 생각하는 참된 스승은 학생의 편인, 학생을 이해할 수 있는 선생님이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 765,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.3,
+      24.3,
+      18.5
+    ],
+    "essay_scoreT_avg": 22.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 먼저 첫 번째는 저에게 동기부여를 해주실 수 있는 선생님입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 <문법_맞춤법>첫번째는 </문법_맞춤법>저에게 동기부여를 해주실 수 있는 선생님입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째는 저에게 정서적인 지지를 해주실 수 있는 선생님입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째는 </문법_맞춤법>저에게 정서적인 지지를 해주실수 있는 선생님입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘 다 비슷한 말일지도 모르지만, 저는 이 두 가지 모두를 저에게 주셨던 선생님 덕에 이만큼 성장할 수 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 둘 다 비슷한 말일지도 모르지만, 저는 이 <문법_맞춤법>두가지 </문법_맞춤법>모두를 저에게 주셨던 선생님 덕에 이만큼 성장할 수 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제 말을 잘 들어주시고 응원해 주시고, 제가 힘들 때 제 편이 되어주셔서 조언도 해주시고 지칠 때 힘이 되어주셨습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제 말을 잘 들어주시고 응원해주시고, 제가 힘들때 제 편이 되어주셔서 조언도 해주시고 <문법_맞춤법>지칠때 </문법_맞춤법>힘이 되어주셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 저는 참된 스승은 학생의 편을 들어주실 수 있는 선생님이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법> </문법_맞춤법>그렇기<문법_맞춤법> </문법_맞춤법>때문에<문법_맞춤법> </문법_맞춤법>저는<문법_맞춤법> </문법_맞춤법>참<문법_맞춤법> </문법_맞춤법>된<문법_맞춤법> </문법_맞춤법>스승은<문법_맞춤법> </문법_맞춤법>학생의<문법_맞춤법> </문법_맞춤법>편을<문법_맞춤법> </문법_맞춤법>들어주실<문법_맞춤법> </문법_맞춤법>수<문법_맞춤법> </문법_맞춤법>있는<문법_맞춤법> </문법_맞춤법>선생님이라고<문법_맞춤법> </문법_맞춤법>생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러기 위해서는 먼저 학생들의 말에 귀 기울여주시고, 공감하기 위해 학생들의 처지에서 생각하셔야 하기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러기 위해서는 먼저 학생들의 말에 <문법_맞춤법>귀기울여주시고</문법_맞춤법>, 공감하기 위해 학생들의 처지에서 생각하겨야 하기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 덕분에 저는 제 꿈을 포기하고 싶을 때 다시 딛고 일어날 수 있었고, 지금 다시 달릴 수 있게 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 덕분에 저는 제 꿈을 포기하고 <문법_맞춤법>싶을때 </문법_맞춤법>다시 딛고 일어날 수 있었고, 지금 다시 달릴 수 있게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69684",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 566,
+    "essay_main_subject": "참된 스승"
+  }
+}

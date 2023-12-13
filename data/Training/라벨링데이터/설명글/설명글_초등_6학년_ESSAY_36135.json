@@ -1,0 +1,385 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "친구는 정말 중요하다#@문장구분#. 누구에겐 가족만큼이나 소중하다.#@문장구분# 나도 그런존재가 있었다.#@문장구분# 하지만 각자사정으로 해어졌다.#@문장구분# 2학년때도 각별한 친분이 있던 애가 있었다#@문장구분#  야구도 하고 라면도 끌여먹고  많이 했지만 결국 여기로 오며 또 해어졌다. #@문장구분#그렇기에 나는 친구라는 존재가 매우 각별하게 느껴진다.#@문장구분# 인생에서 친구가 없어도 생각하는 사람이 있을지는 모르겠지만 나는 친구가 없는 내가 공감해주거나 힘들때 버티는기둥 두개중 하나가 없는 느낌이다.#@문장구분#\n하나는 가족 하나는 친구이다.#@문장구분# 건물은 기둥이 충분하지 않으면 쉽게 무너진다.#@문장구분# 내가 건물이라면 친구라는 기둥이 없다면 가족이라는 기둥많으로는쉽게무너진다.#@문장구분# 다름사람들은 괞찮을수 있겠지만 나는 하나라도 없으면 정말 힘들것 같다. #@문장구분#하지만 이름만 친구가 아닌 진짜 내가 힘들때, 슬플때 같이 공감해주고 일으켜주는 친구가 진정한 친구라고 생각한다.#@문장구분# 내가 어떤 모습이든 어떤 과치간을 가지든 항상 사랑해주고 잘대해주는 친구가 진짜 친구이다.#@문장구분# 정말 좋은 친구는 항상 대리고 다니고 싶다.#@문장구분#",
+      "paragraph_len": 804,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.35,
+      22.85,
+      12.65
+    ],
+    "essay_scoreT_avg": 19.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.23",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "친구는 정말 중요하다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구는 정말 <문법_맞춤법>중요하다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "누구에겐 가족만큼이나 소중하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>. 누구에겐</문법_맞춤법> 가족만큼이나 소중하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나에게도 그런 존재가 있었다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>나도</스타일링_패러프레이징> <문법_맞춤법>그런존재가</문법_맞춤법> 있었다.",
+      "sentence_corr_txt_styling": " 나에게도 그런 존재가 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 각자 사정으로 헤어졌다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>각자사정으로</문법_맞춤법> 해어졌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_패러프레이징>2학년때도</스타일링_패러프레이징></스타일링_맞춤법> 각별한 친분이 있던 애가 있었다",
+      "sentence_corr_txt_styling": " 2학년 때 각별한 친분이 있던 애가 있었다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  야구도 하고 라면도 끓여먹고  많이 했지만 결국 여기로 오며 또 헤어졌다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "  야구도 하고 라면도 <문법_맞춤법>끌여먹고</문법_맞춤법>  많이 했지만 결국 여기로 오며 또 해어졌다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 인생에서 친구가 <스타일링_담화 맥락 오류>없어도 생각하는</스타일링_담화 맥락 오류> 사람이 있을지는 모르겠지만 나는 친구가 없는 내가 공감해주거나 <스타일링_맞춤법><스타일링_패러프레이징>힘들때 버티는기둥 두개중</스타일링_패러프레이징></스타일링_맞춤법> 하나가 없는 느낌이다.",
+      "sentence_corr_txt_styling": " 인생에서 친구가 없어도 된다고 생각하는 사람이 있을지는 모르겠지만 나는 친구가 없으면 공감해주거나 힘들 때 버틸 수 있는 기둥 두 개 중 하나가 없는 느낌이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n<스타일링_패러프레이징>하나는 가족 하나는 친구이다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "\n두 기둥은 하나는 가족, 하나는 친구이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 건물인데 친구라는 기둥이 없다면 가족이라는 기둥만으로는 쉽게 무너지는 것이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_패러프레이징>내가 건물이라면 친구라는 기둥이 없다면 가족이라는 기둥많으로는쉽게무너진다.</문법_패러프레이징></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 사람들은 괜찮을 수 있겠지만 나는 하나라도 없으면 정말 힘들 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다름사람들은 괞찮을수</문법_맞춤법> 있겠지만 나는 하나라도 없으면 정말 힘들것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 이름만 친구가 아닌 진짜 내가 힘들 때, 슬플 때 같이 공감해주고 일으켜주는 친구가 진정한 친구라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 이름만 친구가 아닌 진짜 내가 <문법_맞춤법>힘들때, 슬플때</문법_맞춤법> 같이 공감해주고 일으켜주는 친구가 진정한 친구라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 어떤 모습이든 어떤 가치관을 가지든 항상 사랑해주고 잘 대해주는 친구가 진짜 친구이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 어떤 모습이든 어떤 <문법_맞춤법>과치간을</문법_맞춤법> 가지든 항상 사랑해주고 잘대해주는 친구가 진짜 친구이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 좋은 친구는 항상 데리고 다니고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정말 좋은 친구는 항상 <문법_맞춤법>대리고</문법_맞춤법> 다니고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36135",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 504,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리나라에 문화를 선조분들께 힘들게 지켜 내셨는데 디자인 및 코디게임 개발사에서 전보다 심각했던 역사왜곡의 문제가 시작되었습니다.#@문장구분# 이 게임은 여러 디자인으로 만들어진 코스튬을 제작해서 입히고 사람들과 서로 공유하면서 즐기느 게임 입니다.#@문장구분# 하지만 한복이란 의상이 한국과 중국, 대안에 동시에 출시 되면서 문제가 되었습니다.#@문장구분# 중국 유저들이 한국 유저들에게 \"한복은 조선족의 옷이다\"라고 악플을 달면서 한국 유저들과 부딛히기 시작하였습니다.#@문장구분# 그래서 게임사는 한복이 중국 전통의 색이 맛다는 입장을 표명을 내 놓았습니다.#@문장구분# 한복의 역사는 고구려, 백제, 신라의 삼국시대로부터 시작되었습니다.#@문장구분# 고구려는 중국 당나라시대의 의상과 불교의 영향을 받았는데 그후 한국의 왕과 몽골족 공주와의 혼사로 중국 용안시대의 옷이 한국에 들어왔고 그것이 한복의 시초가 된것입니다.#@문장구분# 그래서 한국 문화인 한복을 중국에서부터 지켜냈습니다.#@문장구분#",
+      "paragraph_len": 610,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.266666,
+      20,
+      24.5
+    ],
+    "essay_scoreT_avg": 23.588888,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "한류를 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리나라에 문화를 선조분들께 힘들게 지켜 내셨는데 디자인 및 코디 게임 개발사에서 전보다 심각했던 역사왜곡의 문제가 시작되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리나라에 문화를 선조분들께 힘들게 지켜 내셨는데 디자인 및 <문법_맞춤법>코디게임</문법_맞춤법> 개발사에서 전보다 심각했던 역사왜곡의 문제가 시작되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 게임은 여러 디자인으로 만들어진 코스튬을 제작해서 입히고 사람들과 서로 공유하면서 즐기는 게임입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 게임은 여러 디자인으로 만들어진 코스튬을 제작해서 입히고 사람들과 서로 공유하면서 <문법_맞춤법>즐기느</문법_맞춤법> 게임 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 한복이란 의상이 한국과 중국, 대안에 동시에 출시되면서 문제가 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 한복이란 의상이 한국과 중국, 대안에 동시에 <문법_맞춤법>출시 되면서 </문법_맞춤법>문제가 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 중국 유저들이 한국 유저들에게 \"한복은 조선족의 옷이다\"라고 악플을 달면서 한국 유저들과 부딪히기 시작하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 중국 유저들이 한국 유저들에게 \"한복은 조선족의 옷이다\"라고 악플을 달면서 한국 유저들과 <문법_맞춤법>부딛히기</문법_맞춤법> 시작하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 게임사는 한복이 중국 전통의 색이 맞다는 입장을 표명을 내놓았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 게임사는 한복이 중국 전통의 색이 <문법_맞춤법>맛다는</문법_맞춤법> 입장을 표명을 내 놓았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고구려는 중국 당나라 시대의 의상과 불교의 영향을 받았는데 그 후 한국의 왕과 몽골족 공주와의 혼사로 중국 용안 시대의 옷이 한국에 들어왔고 그것이 한복의 시초가 된 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 고구려는 중국 <문법_맞춤법>당나라시대의</문법_맞춤법> 의상과 불교의 영향을 받았는데 그후 한국의 왕과 몽골족 공주와의 혼사로 중국 용안시대의 옷이 한국에 들어왔고 그것이 한복의 시초가 된것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 한국 문화인 한복을 중국으로부터 지켜냈습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 한국 문화인 한복을<문법_맞춤법> 중국에서부터</문법_맞춤법> 지켜냈습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42175",
+    "essay_prompt": " 한류(韓流)는 한국의 대중문화, 즉 한국에서 제작된 영화, 방송, 음악, 패션 등이 해외에서 인기리에 소비되는 문화적 현상입니다. 넓은 의미로는 의·식·주 등 한국 문화 전체를 말하기도 합니다.\n\n 하지만, 최근 중국은 한류의 문화적 경제적 파급력에 주목하며 동북공정의 일환으로 한복, 김치, 비빔밥, 쌈 문화 등을 중국 소수민족의 문화로 편입시키려 하고 있습니다.\n\n SNS에 한국 사람이 한국적인 것을 올리면 '중국의 전통을 대신 알려줘서 고맙다.'던가 '중국의 전통을 마음대로 한국의 것이라 하지 말아라.'라는 댓글을 달고 있습니다.\n\n 중국 방송에서까지 이를 주제로 다루며 한국의 문화와 전통을 중국의 문화라고 주장하고 있습니다.\n\n 이러한 억지 주장을 우리가 가만히 있으면 중국이 그만둘까요? 우리는 중국의 행동에 어떻게 대처해야 할까요?\n\n UN이나 국제적인 기관에 중국의 억지 주장에 대해 호소할 수도 있고, 인터넷상에서 중국인들과 끊임없이 논쟁할 수도 있습니다.\n\n 여러분은 이러한 현상에 대해 어떻게 생각하며 한국문화로서 한류 열풍을 지켜내기 위한 방안이 어떤 것이 있다고 생각하시나요? 본인의 생각을 작성해주세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 450,
+    "essay_main_subject": "한류를 지키는 방법"
+  }
+}

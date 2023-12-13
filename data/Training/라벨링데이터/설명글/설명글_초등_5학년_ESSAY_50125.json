@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 가장 좋아하는 과목은 영어이다.#@문장구분# 왜냐하면 영어는 내가 가장 자신이있는 과목이기 때문이다.#@문장구분# 그리고 나는 왠지 모르게 재미있고 영어학원에는 내가 가장 친한 친구이기도 하기 때문이다.#@문장구분# 그리고 영어학원에 있는 선생님들은 모두 착하시고 매년 할러윈, 크리스마스마다 행사를 하는 데 이번 할러윈은 무엇을 할 지 궁금 하기도 하다.#@문장구분# 나의 가장 좋은 학원은 영어학원 이기도 하다.#@문장구분# 그리고 시험을 볼 때 커트 라인 이라고 지정해 준 틀린 단어가 넘지 않고 통과를 할 때마다 포만감을 느낄 수 있고 단어를 외울 때 재미를 느낄 수 있다.#@문장구분# 그래서 난 영어가 좋다.#@문장구분#",
+      "paragraph_len": 447,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.066668,
+      21.133335,
+      17.952381
+    ],
+    "essay_scoreT_avg": 18.717463,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 영어는 내가 가장 자신이 있는 과목이기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 영어는 내가 가장 <문법_맞춤법>자신이있는 </문법_맞춤법>과목이기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 영어학원에 있는 선생님들은 모두 착하시고 매년 할러윈, 크리스마스마다 행사를 하는 데 이번 할러윈은 무엇을 할지 궁금하기도 하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 영어학원에 있는 선생님들은 모두 착하시고 매년 할러윈, 크리스마스마다 행사를 하는 데 이번 할러윈은 무엇을 <문법_맞춤법>할 지 궁금 하기도</문법_맞춤법> 하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나의 가장 좋은 학원은 영어학원이기도 하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나의 가장 좋은 학원은 영어<문법_맞춤법>학원 이기도</문법_맞춤법> 하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 시험을 볼 때 커트라인이라고 지정해 준 틀린 단어가 넘지 않고 통과를 할 때마다 포만감을 느낄 수 있고 단어를 외울 때 재미를 느낄 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 시험을 볼 때 <문법_맞춤법>커트 라인 이라고</문법_맞춤법> 지정해 준 틀린 단어가 넘지 않고 통과를 할 때마다 포만감을 느낄 수 있고 단어를 외울 때 재미를 느낄 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50125",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 308,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

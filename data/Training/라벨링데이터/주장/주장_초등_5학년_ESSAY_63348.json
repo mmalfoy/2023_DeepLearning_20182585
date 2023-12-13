@@ -1,0 +1,347 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "피부차별은 안됩니다.#@문장구분# 우리나라에도 거먼 사람도 있지 않습니까??#@문장구분#(아니라면 그사람을 비하 하는 것입니까??#@문장구분#글구!!#@문장구분#솔직히 얼굴까지 비교하진 말아주었음 합니다.#@문장구분#외국에 살다왔다면 말이 어려울 수 있습니다.#@문장구분# 예로 들으면 미국에서 태어나 거기서 살다 한국에 왔다.#@문장구분#그럼 한국말이 어렵지 않겠습니까?#@문장구분#그럼 친구가 있다면 도와주어야지 놀려야 합니까!!#@문장구분#그런아이나 성인이나 마음의 상처는 깊숙히 들어갑니다.#@문장구분#자기의 어머니가 힘들게 애쓰시면서 나으셨는데 차별하고 놀리고 때리고 이렇게 해야합니까??#@문장구분#제가 다문화 외국아이가 되보겠습니ㅏㄷ,#@문장구분# 하루하루 밖에 나가기 싱으지 않겠습니까?#@문장구분#이상입니다.#@문장구분#감사합니다!#@문장구분#",
+      "paragraph_len": 620,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.5,
+      12.35,
+      12.35
+    ],
+    "essay_scoreT_avg": 12.733334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "피부 차별은 안 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>피부차별은 </문법_맞춤법>안됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라에도 까만 사람도 있지 않습니까??",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 우리나라에도 <문법_맞춤법>거먼 </문법_맞춤법>사람도 있지 않습니까??",
+      "sentence_corr_txt_styling": " 우리나라에도 까만 사람도 있지 않습니까??",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "(아니라면 그 사람을 비하하는 것입니까??",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "(아니라면 그사람을 <문법_맞춤법>비하 하는</문법_맞춤법> 것입니까??",
+      "sentence_corr_txt_styling": "(아니라면 그 사람을 비하하는 것입니까??",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고!!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>글구</문법_맞춤법>!!",
+      "sentence_corr_txt_styling": "그리고!!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "솔직히 얼굴까지 비교하지 말아주었으면 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "솔직히 얼굴까지 <문법_어미>비교하진 </문법_어미>말아주었음 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예로 들어 미국에서 태어나 거기서 살다 한국에 왔다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 예로 <문법_어미>들으면 </문법_어미>미국에서 태어나 거기서 살다 한국에 왔다.",
+      "sentence_corr_txt_styling": " 예로 들어 미국에서 태어나 거기서 살다 한국에 왔다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그럼 친구가 있다면 도와주어야지 놀려야 합니까!!",
+      "sentence_corr_txt_styling": "그럼 친구가 있다면 도와주어야지 놀려야 합니까!!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런 아이나 성인이나 마음의 상처는 깊숙이 들어갑니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>그런아이나 </문법_맞춤법>성인이나 마음의 상처는 깊숙히 들어갑니다.",
+      "sentence_corr_txt_styling": "그런 아이나 성인이나 마음의 상처는 깊숙이 들어갑니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "자기의 어머니가 힘들게 애쓰시면서 낳으셨는데 차별하고 놀리고 때리고 이렇게 해야 합니까??",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "자기의 어머니가 힘들게 애쓰시면서 <문법_맞춤법>나으셨는데 </문법_맞춤법>차별하고 놀리고 때리고 이렇게 해야합니까??",
+      "sentence_corr_txt_styling": "자기의 어머니가 힘들게 애쓰시면서 낳으셨는데 차별하고 놀리고 때리고 이렇게 해야 합니까??",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 다문화 외국아이가 되어보겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "제가 다문화 외국아이가 <문법_맞춤법><문법_어미>되보겠습니ㅏㄷ,</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하루하루 밖에 나가기 싫지 않겠습니까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하루하루 밖에 나가기 <문법_맞춤법>싱으지 </문법_맞춤법>않겠습니까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63348",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 321,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

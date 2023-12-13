@@ -1,0 +1,400 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "부모님이 아무리 능력이 많아도 자신의 능력만 해도 가능성이 있다.#@문장구분# 하지만 부모님의 능력이 있어야 성공하는것도 맞다.#@문장구분# 그러나 그외 자신이 능력과 하고싶은 마음이 있으면 부모님에 능력이 없어도 괜찮다고 생각한다.#@문장구분# 부모님이 능력 그렇게 중요하지 않다.#@문장구분# 그리고 세상이 불평등한것 그리고 사람들이 그렇게 만든거다.#@문장구분# 사람의 이기심으로 세상이 이렇게 불평등 한것이다.#@문장구분# 사람의 이기심을 줄이면 충분히 평등 해질수 있다고 생각한다.#@문장구분# 그리고 금수저 흙수저 이런건 상관없다.#@문장구분# 그리고 많은 사람들이 평등을 외치고 있는데 정부에서는 자기만 잘살려고 그지만 착한사람도 있지만 나 생각엔 나쁜 사람이 더 많다고 생각한다.#@문장구분# 그 나쁜사람들때매 저소득층이 더 늘어나고 그래서 옥탑방에서 고독사하는 사람이 많아진다.#@문장구분# 그리고 사람들이 노력을 해도 돈의힘이 있으니까 그 노력을 무산되게 만들고 남의 꿈을 짓밟고 자기 자식들만 잘되게 할라고 근데 솔직히 말하면 자기자식 잘 되면 좋으니까.#@문장구분# 근데 다른사람의 노력을 짓밟는거 좀 그렇다.#@문장구분# 여러 배우들도 가난한데 성공했다.#@문장구분# 예를들면 윤존둔 이언 펜트하우스를 나온 사람마다 윤존둔을 어렸을때 휴지도 재대로 못썼다.#@문장구분# 이렇게 부모가 능력이 안되도 충분히 잘될수도 있다.#@문장구분# 그러니까 자신의 능력을 믿으면 된다.#@문장구분# 그래서 결론은 부모의 능력이 없어도 되고 자기 자신을 믿고 앞으로 나아가는게 좋다고 생각한다.#@문장구분#",
+      "paragraph_len": 1012,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          1.5,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.166668,
+      14.177777,
+      12.5222225
+    ],
+    "essay_scoreT_avg": 17.955557,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          0,
+          2,
+          2
+        ],
+        [
+          1,
+          0,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "부모님이 아무리 능력이 많아도 <스타일링_담화 맥락 오류>자신의 능력만 해도</스타일링_담화 맥락 오류> 가능성이 있다.",
+      "sentence_corr_txt_styling": "부모님이 아무리 능력이 많아도 자신의 능력만으로도 성공할 가능성이 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 부모님의 능력이 있어야 성공하는 것도 맞다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 부모님의 능력이 있어야 <문법_맞춤법>성공하는것도</문법_맞춤법> 맞다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나 자신의 능력과 하고 싶은 마음이 있으면 부모님의  능력이 없어도 괜찮다고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 ",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그러나 <스타일링_담화 맥락 오류>그외 자신이 능력과</스타일링_담화 맥락 오류> <문법_맞춤법>하고싶은</문법_맞춤법> 마음이 있으면 <문법_조사>부모님에</문법_조사> 능력이 없어도 괜찮다고 생각한다.",
+      "sentence_corr_txt_styling": " 그러나 자신의 능력과 하고 싶은 마음이 있으면 부모님의  능력이 없어도 괜찮다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 <스타일링_맞춤법><스타일링_담화 맥락 오류>세상이 불평등한것 그리고</스타일링_담화 맥락 오류></스타일링_맞춤법> 사람들이 그렇게 만든거다.",
+      "sentence_corr_txt_styling": " 그리고 세상이 불평등한 것은 사람들이 그렇게 만든 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 사람의 이기심으로 세상이 이렇게 <스타일링_맞춤법><스타일링_담화 맥락 오류>불평등 한것이다.</스타일링_담화 맥락 오류></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 사람의 이기심으로 세상이 이렇게 불평등해진 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람의 이기심을 줄이면 충분히 평등해질 수 있다고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람의 이기심을 줄이면 충분히 <문법_맞춤법>평등 해질수 있다고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 금수저 흙수저 이런 건 상관없다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 금수저 흙수저 <문법_맞춤법>이런건</문법_맞춤법> 상관없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 많은 사람들이 평등을 외치고 있는데 정부에서는 자기만 잘 살려고 하고,  착한 사람도 있지만 내  생각엔 나쁜 사람이 더 많은 것 같다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 ",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 많은 사람들이 평등을 외치고 있는데 정부에서는 자기만 <스타일링_담화 맥락 오류>잘살려고 그지만</스타일링_담화 맥락 오류> <문법_맞춤법>착한사람도</문법_맞춤법> 있지만 나 생각엔 나쁜 사람이 더 <스타일링_패러프레이징>많다고 생각한다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 그리고 많은 사람들이 평등을 외치고 있는데 정부에서는 자기만 잘 살려고 하고,  착한 사람도 있지만 내  생각엔 나쁜 사람이 더 많은 것 같다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 나쁜 사람들 때문에  저소득층이 더 늘어나고 그래서 옥탑방에서 고독사하는 사람이 많아진다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 <문법_맞춤법>나쁜사람들때매</문법_맞춤법> 저소득층이 더 늘어나고 그래서 옥탑방에서 고독사하는 사람이 많아진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 사람들이 노력을 해도 돈의 힘이 있으니까 그 노력을 무산되게 만들고 남의 꿈을 짓밟고 자기 자식들만 잘 되게 하려고 한다.  솔직히 말해서  자기 자식이 잘 되면 좋긴 하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 사람들이 노력을 해도 <문법_맞춤법>돈의힘이</문법_맞춤법> 있으니까 그 노력을 무산되게 만들고 남의 꿈을 짓밟고 자기 자식들만 <스타일링_담화 맥락 오류>잘되게 할라고</스타일링_담화 맥락 오류> 근데 솔직히 말하면 자기자식 잘 되면 좋으니까.",
+      "sentence_corr_txt_styling": " 그리고 사람들이 노력을 해도 돈의 힘이 있으니까 그 노력을 무산되게 만들고 남의 꿈을 짓밟고 자기 자식들만 잘 되게 하려고 한다.  솔직히 말해서  자기 자식이 잘 되면 좋긴 하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 다른 사람의 노력을 짓밟는 건  좀 그렇다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 <문법_맞춤법>다른사람의</문법_맞춤법> 노력을 짓밟는거 좀 그렇다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들면 윤존둔. 이언 펜트하우스를 나온 사람이다.  윤존둔을 어렸을 때 휴지도 제대로  사용하지 못했다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        "문장 부호 ",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>예를들면</문법_맞춤법> <문법_기타>윤존둔</문법_기타> 이언 펜트하우스를 나온 사람마다 <문법_기타>윤존둔</문법_기타>을 어렸을때 휴지도 재대로 <스타일링_담화 맥락 오류>못썼다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 예를 들면 윤존둔. 이언 펜트하우스를 나온 사람이다.  윤존둔을 어렸을 때 휴지도 제대로  사용하지 못했다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 부모가 능력이 안돼도  충분히 잘 될 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 부모가 능력이 <문법_맞춤법>안되도</문법_맞춤법> 충분히 잘될수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 결론은 부모의 능력이 없어도 되고 자기 자신을 믿고 앞으로 나아가는 게 좋다고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 결론은 부모의 능력이 없어도 되고 자기 자신을 믿고 앞으로 <문법_맞춤법>나아가는게 </문법_맞춤법>좋다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35748",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 672,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

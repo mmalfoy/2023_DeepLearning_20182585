@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 그림그리기 게임하기 자전거타기임니다.#@문장구분# 그중에서 난 그림 그리기가 좋습니다.#@문장구분# 그리고 두번째는 게임하기 세번째는 자전거 타기 입니다.#@문장구분#\n 제가 그림그리기가 좋은 이유는 저는 어릴때 부터 만들기와 그림그리는 것을 좋아했습니다.#@문장구분# 그리고 두번째로 게임하기가 좋은 이유는 게임을 언제 어디서 하든 휴대폰게임은 재미있기 때문 임니다.#@문장구분# 그리고 세번째로 자전거 타기인 이유는 자전거를 타면 상쾌하고 자전거를 타면 재미도 있었다.#@문장구분# 그리고 자전거를 타면 스트레쓰도 날라 가는 기분이 든 다.#@문장구분#",
+      "paragraph_len": 409,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.866665,
+      21.6,
+      19.666668
+    ],
+    "essay_scoreT_avg": 23.377777,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 취미는 그림 그리기 게임하기 자전거 타기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 취미는 <문법_맞춤법>그림그리기</문법_맞춤법> 게임하기 자전거타기임니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 두 번째는 게임하기 세 번째는 자전거 타기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>두번째는</문법_맞춤법> 게임하기 세번째는 자전거 타기 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 제가 그림 그리기가 좋은 이유는 저는 어릴 때부터 만들기와 그림 그리는 것을 좋아했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 제가 <문법_맞춤법>그림그리기가 </문법_맞춤법>좋은 이유는 저는 어릴때 부터 만들기와 그림그리는 것을 좋아했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 두 번째로 게임하기가 좋은 이유는 게임을 언제 어디서 하든 휴대폰 게임은 재미있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>두번째로</문법_맞춤법> 게임하기가 좋은 이유는 게임을 언제 어디서 하든 휴대폰게임은 재미있기 때문 임니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 세 번째로 자전거 타기인 이유는 자전거를 타면 상쾌하고 자전거를 타면 재미도 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>세번째로</문법_맞춤법> 자전거 타기인 이유는 자전거를 타면 상쾌하고 자전거를 타면 재미도 <문법_높임법>있었다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 자전거를 타면 스트레스도 날아가는 기분이 든다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그리고 자전거를 타면 <문법_맞춤법><문법_조사>스트레쓰도 날라 가는</문법_조사></문법_맞춤법> 기분이 든 다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42325",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 270,
+    "essay_main_subject": "나의 취미"
+  }
+}

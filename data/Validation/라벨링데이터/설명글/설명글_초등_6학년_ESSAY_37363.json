@@ -1,0 +1,263 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "난 이순신 장군을 존경한다.#@문장구분# 그 이유는 아주 큰 업적을 남기셨기도 하고, 적에 맞서 열심히 싸우는 모습이 멋졌기 때문이다.#@문장구분# 일단, 이순신 장군님의 업적은 임진왜란 때 학인진 전술로 큰 승리를 거두고, 남쪽바다를 지켜냈습니다.#@문장구분# 그리고 이순신 장군은 10척이라는 배로 300척이 넘는 배를 물리쳤습니다.#@문장구분# 어떻게 그랬을 까요?#@문장구분# 죽고자 하면 살고 살고자 하면 죽는다라는 말을 하면서 병사들의 의지를 북돋았고, 그러므로 병사들은 이순신을 따라 죽을 각오로 싸웠기 때문입니다.#@문장구분# 만약 제가 이순신 이였다면 무서워서 도망쳤을 텐데 이순신은 무서워하지 않고 맞서 싸운 모습이 너무 멋졌다.#@문장구분# 나도 이순신장군처럼 무섭다고 피하지 않고 끝까지 맞서 싸워야겠다는 생각을 했다.#@문장구분#",
+      "paragraph_len": 525,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.1,
+      23.85,
+      20.25
+    ],
+    "essay_scoreT_avg": 23.066666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          1
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 아주 큰 업적을 남기셨고, 적에 맞서 열심히 싸우는 모습이 멋졌기 때문이다.",
+      "sentence_corr_reason": [
+        "조사의 부적절한 사용"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그 이유는 아주 큰 업적을<문법_조사> 남기셨기도 하고</문법_조사>, 적에 맞서 열심히 싸우는 모습이 멋졌기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단, 이순신 장군님의 업적은 임진왜란 때 학익진 전술로 큰 승리를 거두고, 남쪽 바다를 지켜냈습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단, 이순신 장군님의 업적은 임진왜란 때 <문법_맞춤법>학인진</문법_맞춤법> 전술로 큰 승리를 거두고, 남쪽바다를 지켜냈습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어떻게 그랬을까요?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어떻게 <문법_맞춤법>그랬을 까요?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '죽고자 하면 살고 살고자 하면 죽는다'라는 말을 하면서 병사들의 의지를 북돋았고, 이에 병사들은 이순신을 따라 죽을 각오로 싸웠기 때문입니다.",
+      "sentence_corr_reason": [
+        "문장 부호",
+        "접속사"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>죽고자 하면 살고 살고자 하면 죽는다</문법_맞춤법>라는 말을 하면서 병사들의 의지를 북돋았고, <스타일링_담화 맥락 오류>그러므로 </스타일링_담화 맥락 오류>병사들은 이순신을 따라 죽을 각오로 싸웠기 때문입니다.",
+      "sentence_corr_txt_styling": " '죽고자 하면 살고 살고자 하면 죽는다'라는 말을 하면서 병사들의 의지를 북돋았고, 이에 병사들은 이순신을 따라 죽을 각오로 싸웠기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 제가 이순신이었다면 무서워서 도망쳤을 텐데 이순신은 무서워하지 않고 맞서 싸운 모습이 너무 멋졌습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제",
+        "높임법"
+      ],
+      "sentence_txt": " 만약 제가 <문법_맞춤법><문법_시제>이순신 이였다면 </문법_시제></문법_맞춤법>무서워서 도망쳤을 텐데 이순신은 무서워하지 않고 맞서 싸운 모습이 너무 <문법_높임법>멋졌다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 이순신 장군처럼 무섭다고 피하지 않고 끝까지 맞서 싸워야겠다고 생각했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 나도 <문법_맞춤법>이순신장군처럼</문법_맞춤법> 무섭다고 피하지 않고 끝까지 맞서 <문법_어미>싸워야겠다는 생각을 했다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37363",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 367,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

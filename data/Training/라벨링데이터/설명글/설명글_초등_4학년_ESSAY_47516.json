@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 원하는 미래 집은 화려하고 편안하고 편리하고 깨끗하고 색깔은 어두운색이고 게임방이 있고 놀이방이 있고 침실이 있고 화장실이 많고 2층집이고 주방에서 밥을 먹을수 있고 학교와 가깝고 지하철역과 가깝고 TV가 성능이 좋고 물건이 많으며 좋고 마당이 있고 내방에 책이많고 화장실이 있으며 침실엔 TV도 있고 거실엔 소파가 있고 강아지도 있고 병원과 가깝고 주변에 시내와 마트가 있고 컴퓨터가 고성능이고 휴대폰이 많고 옷장이 침실에 있으며 그안에 서랍그리고 거울이 있으며 거실엔 배란다가 있고또 운동기구가 많고 돈이엄청 많았으면 좋겠습니다.#@문장구분#\n그리고 반지 귀걸이 팔찌 발찌등 옷방에 있었으면 합니다. #@문장구분#그리고 마당엔 텃밭이 있었으면 좋겠고 화단도 있으면 좋을것 같고 2층엔 침실 화장실 다락방 마당에 차고와 수영장까지.#@문장구분#",
+      "paragraph_len": 459,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      21.133335,
+      18.666668
+    ],
+    "essay_scoreT_avg": 20.844446,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.29",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 원하는 미래 집은 화려하고 편안하고 편리하고 깨끗하고 색깔은 어두운 색이고 게임방이 있고 놀이방이 있고 침실이 있고 화장실이 많고 2층집이고 주방에서 밥을 먹을 수 있고 학교와 가깝고 지하철역과 가깝고 TV가 성능이 좋고 물건이 많으며 좋고 마당이 있고 내 방에 책이 많고 화장실이 있으며 침실엔 TV도 있고 거실엔 소파가 있고 강아지도 있고 병원과 가깝고 주변에 시내와 마트가 있고 컴퓨터가 고성능이고 휴대폰이 많고 옷장이 침실에 있으며 그 안에서랍 그리고 거울이 있으며 거실엔 베란다가 있고 또 운동기구가 많고 돈이 엄청 많았으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 원하는 미래 집은 화려하고 편안하고 편리하고 깨끗하고 색깔은 <문법_맞춤법>어두운색이고 </문법_맞춤법>게임방이 있고 놀이방이 있고 침실이 있고 화장실이 많고 2층집이고 주방에서 밥을 먹을수 있고 학교와 가깝고 지하철역과 가깝고 TV가 성능이 좋고 물건이 많으며 좋고 마당이 있고 내방에 책이많고 화장실이 있으며 침실엔 TV도 있고 거실엔 소파가 있고 강아지도 있고 병원과 가깝고 주변에 시내와 마트가 있고 컴퓨터가 고성능이고 휴대폰이 많고 옷장이 침실에 있으며 그안에 서랍그리고 거울이 있으며 거실엔 배란다가 있고또 운동기구가 많고 돈이엄청 많았으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그리고 반지 귀걸이 팔찌 발찌 등 옷 방에 있었으면 합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n그리고 반지 귀걸이 팔찌 <문법_맞춤법>발찌등 </문법_맞춤법>옷방에 있었으면 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 마당엔 텃밭이 있었으면 좋겠고 화단도 있으면 좋을 것 같고 2층엔 침실 화장실 다락방 마당에 차고와 수영장까지.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 마당엔 텃밭이 있었으면 좋겠고 화단도 있으면 <문법_맞춤법>좋을것 </문법_맞춤법>같고 2층엔 침실 화장실 다락방 마당에 차고와 수영장까지.",
+      "sentence_corr_txt_styling": "그리고 마당엔 텃밭이 있었으면 좋겠고 화단도 있으면 좋을 것 같고 2층엔 침실 화장실 다락방 마당에 차고와 수영장까지.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47516",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 399,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

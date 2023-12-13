@@ -1,0 +1,228 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 의견은 모든 사람에게 예절을 지켜야한다고 생각합니다.#@문장구분# 왜냐하면 아는 사람한테만 예절을 지키고, 모르는 사람한테에는 예절을 안 지키면 차별감이 느끼게 됩니다.#@문장구분# 또 모든 사람에게 존댓말을 써야한다고 생각해야 합니다.#@문장구분# 왜냐하면 친구와 상황극을 할때에는 존댓말을 써야할수 있고, 또 모르는 사람에게 나와 나이가 같다고 해도 모르는 사람한테는 반말을 하면 안되기 때문입니다.#@문장구분#",
+      "paragraph_len": 286,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.733334,
+      15.133333,
+      20.333334
+    ],
+    "essay_scoreT_avg": 17.4,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 모든 사람에게 예절을 지켜야 한다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기띄어쓰기띄어쓰기띄어쓰기띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>제 의견은</문법_기타> 모든 사람에게 예절을 <문법_맞춤법>지켜야한다고</문법_맞춤법> 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 아는 사람한테만 예절을 지키고, 모르는 사람한테는 예절을 안 지키면 차별을 느끼게 되기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " 왜냐하면 아는 사람한테만 예절을 지키고, 모르는 <문법_조사>사람한테에는</문법_조사> 예절을 안 지키면 <문법_기타>차별감이</문법_기타> 느끼게 <문법_어미>됩니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 또 모든 사람에게 존댓말을 <스타일링_담화 맥락 오류>써야한다고 생각해야 합니</스타일링_담화 맥락 오류>다.",
+      "sentence_corr_txt_styling": " 또 모든 사람에게 존댓말을 써야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 친구와 상황극을 할 때에는 존댓말을 써야 할 수 있고, 또 나와 나이가 같다고 해도 모르는 사람한테는 반말을 하면 안되기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 친구와 상황극을 <문법_맞춤법>할때에는</문법_맞춤법> 존댓말을 써야할수 있고, 또 <스타일링_패러프레이징>모르는 사람에게 나와 나이가 같다고 해도 모르는 사람한테는</스타일링_패러프레이징> 반말을 하면 안되기 때문입니다.",
+      "sentence_corr_txt_styling": " 왜냐하면 친구와 상황극을 할 때에는 존댓말을 써야 할 수 있고, 또 나와 나이가 같다고 해도 모르는 사람한테는 반말을 하면 안되기 때문입니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39626",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 206,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

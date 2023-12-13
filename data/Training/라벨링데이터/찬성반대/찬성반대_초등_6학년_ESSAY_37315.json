@@ -1,0 +1,381 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금 현대 사회는 많은양의 에너지를 쓰고 있습니다.#@문장구분# 하지만 그에 따른 대가도 있겠지요.#@문장구분# 그 대가는 우리의 호나경이 점점 파괴되는 것입니다. #@문장구분#저라면 당장 환경을 위해 에너지를 절약할 수는 없을 것 같습니다.#@문장구분# 하지만 제 앞날에 지구가 파괴된다면 저는 어쩔 수 없이 저만이라도 해야할 것 같습니다.#@문장구분# 하지만 이 책임이 우리가 질 이유가 없다 생각하기에 저희는 공장을 짓는 회사가 다 책임을 지고 편하게 살면 될 것 같습니다.#@문장구분# 그 이유는 첫째, 문명은 발달해왔고, 여기서 후퇴한다면 우리의 문명은 더 이상 성장할 수 없는 것이다. #@문장구분#우리가 다시 후퇴하고 발전하면 더 이상 발전을 못하고 한계에서 머무르게 된다.#@문장구분# 차라리 더 발달된 문명을 보고 죽는 데 낫지, 계속 반복되는 후퇴, 진보는 우리에게 큰 혼란을 야기하고 지구도 더 이상은 지겨워 상황이 악회되기 때문이다.#@문장구분# 게다가 문명이란 이미 전해졌기에 더 발달해도 그에 따른 대책이 있을 것이다.#@문장구분# 둘째, 우리의 책임이 아니다.#@문장구분# 이 책임은 기성세대의 빠른 발전에 대한 댓가이지, 우리는 그저 아직 이유없이 짊어질 이유는 없다.",
+      "paragraph_len": 757,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.2,
+      27.777779,
+      24.455555
+    ],
+    "essay_scoreT_avg": 26.811111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "지금 현대 사회는 많은 양의 에너지를 쓰고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금 현대 사회는 <문법_맞춤법>많은양의</문법_맞춤법> 에너지를 쓰고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 대가는 우리의 환경이 점점 파괴되는 것입니다. ",
+      "sentence_corr_reason": [
+        "오타"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 대가는 우리의 <문법_맞춤법>호나경이</문법_맞춤법> 점점 파괴되는 것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 당장 환경을 위해 에너지를 절약할 수는 없을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "<문법_조사>저라면</문법_조사> 당장 환경을 위해 에너지를 절약할 수는 없을 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 하지만 제 앞날에 지구가 파괴된다면<스타일링_패러프레이징> 저는</스타일링_패러프레이징> 어쩔 수 없이 저만이라도 해야할 것 같습니다.",
+      "sentence_corr_txt_styling": " 하지만 제 앞날에 지구가 파괴된다면  어쩔 수 없이 저만이라도 해야할 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 이 책임을 우리가 질 이유는 없다고 생각하기 때문에 공장을 짓는 회사가 다 책임을 지고 저희는 편하게 살면 될 것 같습니다.",
+      "sentence_corr_reason": [
+        "접속사 오류",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "조사",
+        "어순"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>하지만</스타일링_담화 맥락 오류> 이 <문법_조사>책임이</문법_조사> 우리가 질 이유가 없다 생각하기에 <문법_어순>저희는 공장을 짓는 회사가 다 책임을 지고 편하게 살면 될 것 같습니다.</문법_어순>",
+      "sentence_corr_txt_styling": " 그런데 이 책임을 우리가 질 이유는 없다고 생각하기 때문에 공장을 짓는 회사가 다 책임을 지고 저희는 편하게 살면 될 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 에너지 절약에 반대하는 이유는 첫째, 문명은 발달해왔고, 여기서 후퇴한다면 우리의 문명은 더 성장할 수 없기 때문입니다. ",
+      "sentence_corr_reason": [
+        "접속사 오류",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그 이유는 </스타일링_담화 맥락 오류>첫째, 문명은 발달해왔고, 여기서 후퇴한다면 우리의 문명은 <문법_맞춤법>더 이상 </문법_맞춤법><문법_조사><문법_높임법>성장할 수 없는 것이다.</문법_높임법></문법_조사> ",
+      "sentence_corr_txt_styling": " 제가 에너지 절약에 반대하는 이유는 첫째, 문명은 발달해왔고, 여기서 후퇴한다면 우리의 문명은 더 성장할 수 없기 때문입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리가 후퇴하고 다시 발전하게 되면, 더 발전하지 못하고 한계에 머무르게 될 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": "우리가 <문법_어순><문법_담화 맥락 오류>다시 후퇴하고 발전하면 더 이상</문법_담화 맥락 오류></문법_어순> 발전을 못하고 한계에<문법_어미>서 머무르게 된다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 계속 반복되는 후퇴와 진보는 우리에게 큰 혼란을 야기하므로, 오히려 더 발달한 문명을 보고 죽는 것이 낫다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        "자동사, 타동사",
+        "불필요한 내용, 어순 변경"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 차라리 더<문법_기타> 발달된</문법_기타> 문명을 보고 <스타일링_담화 맥락 오류>죽는 데 낫지,</스타일링_담화 맥락 오류> 계속 반복되는 후퇴, 진보는 우리에게 큰 혼란을 야기하고 지구도 더 이상은 지겨워 상황이 악회되기 때문이다.",
+      "sentence_corr_txt_styling": " 계속 반복되는 후퇴와 진보는 우리에게 큰 혼란을 야기하므로, 오히려 더 발달한 문명을 보고 죽는 것이 낫다고 생각합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게다가 문명은 이미 전해졌기 때문에 에너지가 더 발달해도 그에 따른 대책이 있을 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "불확실한 주어",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "높임법"
+      ],
+      "sentence_txt": " 게다가 <문법_조사>문명이란</문법_조사> 이미 <문법_기타>전해졌기에 더 </문법_기타>발달해도 그에 따른 대책이 있을 <문법_높임법>것이다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째, 우리의 책임이 아니라고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": " 둘째, 우리의 책임이 <문법_어미><문법_높임법>아니다.</문법_높임법></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 책임은 기성세대의 빠른 발전에 대한 대가이므로, 우리는 그저 이유 없이 짊어질 이유가 없다고 생각합니다.",
+      "sentence_corr_reason": [
+        "오타",
+        "오타",
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "패러프레이징",
+        "어미"
+      ],
+      "sentence_txt": " 이 책임은 기성세대의 빠른 발전에 대한 <문법_맞춤법><문법_조사>댓가이지,</문법_조사></문법_맞춤법> 우리는 <스타일링_패러프레이징>그저 아직</스타일링_패러프레이징> 이유없이 짊어질 <문법_어미>이유는 없다.</문법_어미>",
+      "sentence_corr_txt_styling": " 이 책임은 기성세대의 빠른 발전에 대한 대가이므로, 우리는 그저 이유 없이 짊어질 이유가 없다고 생각합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37315",
+    "essay_prompt": " 과학 발전을 통해 다양한 에너지들이 만들어지고 일상생활에 사용되고 있습니다. 대표적인 예가 원자력입니다.\n\n 원자력 발전소에서 생산되는 엄청난 양의 에너지를 통해 여러분이 핸드폰을 하고 TV를 보고 전등을 켤 수 있습니다.\n\n 하지만 원자력 발전소를 통해 에너지를 생산하는 과정에서 폭발위험과 핵폐기물로 인한 심각한 환경문제가 발생하고 있습니다.\n\n 우리가 에너지를 사용하면 사용할수록 원자력 발전소 같은 에너지를 생산할 수 있는 시설이 더욱 많이 필요할 것입니다. 이는 더 많은 환경문제를 일으키겠죠?\n\n 그렇기 때문에 더 에너지 사용을 늘리지 말자는 의견이 많이 나오고 있습니다. 생활의 편리함을 뒤로하고 에너지 절약을 먼저 하자는 의견입니다.\n\n 여러분은 편리한 생활을 줄이고 에너지를 절약하여 환경을 살리는 데 찬성하시나요? 아니면 환경보다는 지금의 편리함이 더 중요하다고 생각하시나요?  본인의 생각을 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 538,
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각"
+  }
+}

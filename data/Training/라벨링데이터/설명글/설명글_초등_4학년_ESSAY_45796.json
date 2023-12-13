@@ -1,0 +1,330 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 한 선행은 엄마랑 외출하는데 엄마의 가방이 무거워 들어드렸고, 엄마랑 마트가서 장을 보고 왔는데 장바구니가 많고 무거워서 들어드렸다.#@문장구분#그리고 친구랑 놀때 다놀고 친구의 책상을 같이 옮겨주었다.#@문장구분# 그리고 집에서 고기를 먹고 바닥에 기름이 많아 걸래에 티슈를 껴 열심히 닦았다.#@문장구분# 그리고 학원끝나고 집에 들어갈때 친한 아랫집 아주머니가 같이 엘베타셔서 층을 눌러드렸다.#@문장구분# 그리고 친구가 모르는것도 알려주었다.#@문장구분# 또 교실에 새로운 책사이 들어오기 전날에 사물함 위에도 닦고 바닥도 먼지를 쓸었다. #@문장구분#그리고 친구가 어려워 하는 것도 도와주고 아는 동생의 가방이 무거워 들어준 적이 있다.#@문장구분#그리고 언니가 가방을 무거워해서 들어주고 음식도 사주었다.#@문장구분# 엄마 아빠께서 퇴근하시기 전에 집정리도 하고 닦았다.#@문장구분# 그리고 엄마 아빠께서 외출하고들어오시는데 언니랑 같이 김치볶음밥을 만들어 드렸다.#@문장구분# 엄마 아빠께서 짐을 싸려고 하시는데 도와드렸다.#@문장구분# 그리고 친구가 부탁하는것도 많이 들어줬다.#@문장구분# 그리고 마지막으로 동생들에게 먹을것을 많이 사주었다.#@문장구분#",
+      "paragraph_len": 770,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3809524,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.685713,
+      26.685713,
+      22.8
+    ],
+    "essay_scoreT_avg": 25.390474,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 한 선행은 엄마랑 외출하는데 엄마의 가방이 무거워 들어드렸고, 엄마랑 마트 가서 장을 보고 왔는데 장바구니가 많고 무거워서 들어드렸다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 한 선행은 엄마랑 외출하는데 엄마의 가방이 무거워 들어드렸고, 엄마랑<문법_맞춤법> 마트가서</문법_맞춤법> 장을 보고 왔는데 장바구니가 많고 무거워서 들어드렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 친구랑 놀 때 다 놀고 친구의 책상을 같이 옮겨주었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 친구랑 <문법_맞춤법>놀때 다놀고 </문법_맞춤법>친구의 책상을 같이 옮겨주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 집에서 고기를 먹고 바닥에 기름이 많아 걸레에 티슈를 껴 열심히 닦았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 집에서 고기를 먹고 바닥에 기름이 많아<문법_맞춤법> 걸래</문법_맞춤법>에 티슈를 껴 열심히 닦았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 학원 끝나고 집에 들어갈 때 친한 아랫집 아주머니가 같이 엘리베이터에 타셔서 층을 눌러드렸다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>학원끝나고</문법_맞춤법> 집에 들어갈때 친한 아랫집 아주머니가 같이 엘베타셔서 층을 눌러드렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구가 모르는 것도 알려주었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친구가 <문법_맞춤법>모르는것</문법_맞춤법>도 알려주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 교실에 새로운 책들이 들어오기 전날에 사물함 위에도 닦고 바닥도 먼지를 쓸었다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 또 교실에 새로운 <문법_조사><문법_어미>책사이</문법_어미></문법_조사> 들어오기 전날에 사물함 위에도 닦고 바닥도 먼지를 쓸었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 친구가 어려워하는 것도 도와주고 아는 동생의 가방이 무거워 들어준 적이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 친구가<문법_맞춤법> 어려워 하는</문법_맞춤법> 것도 도와주고 아는 동생의 가방이 무거워 들어준 적이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마 아빠께서 퇴근하시기 전에 집 정리도 하고 닦았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마 아빠께서 퇴근하시기 전에 <문법_맞춤법>집정리</문법_맞춤법>도 하고 닦았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 엄마 아빠께서 외출하고 들어오시는데 언니랑 같이 김치볶음밥을 만들어 드렸다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 엄마 아빠께서<문법_맞춤법> 외출하고들어오시는데</문법_맞춤법> 언니랑 같이 김치볶음밥을 만들어 드렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구가 부탁하는 것도 많이 들어줬다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친구가<문법_맞춤법> 부탁하는것도</문법_맞춤법> 많이 들어줬다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 마지막으로 동생들에게 먹을 것을 많이 사주었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 마지막으로 동생들에게 <문법_맞춤법>먹을것을</문법_맞춤법> 많이 사주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45796",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 512,
+    "essay_main_subject": "나의 선행"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사람들의 몸을 지키려면 건강한 몸을 만들기가 있다. #@문장구분#건강한 몸을 만들려면 운동을 꾸준히 해야됩니다. #@문장구분#왜 꾸준히 해야 하냐면 한 번만 하면 더 이상 안 하게 됩니다.#@문장구분# 그러므로 살이찌면서 비만, 과체중이 됩니다. #@문장구분#그러므로 꾸준히 해야합니다.#@문장구분# 그리고 식습관도 중요 합니다. #@문장구분#식습관이 이상해져서 야식과 인스턴트, 즉석식품을 계속 먹게되면 위생이 있습니다.#@문장구분# 그러니까. 야식 인수턴트, 즉석식품을 자주 먹으면 안됩니다 #@문장구분#그리고 요즘은 코시국 때문에 위생이 더욱더 중요합니다.#@문장구분# 특히 밖에 나갔다가 들어오면 꼭 씻어야 합니다.#@문장구분# 그리고 2000m에 거리두기를 해야합니다.#@문장구분# 그리고 코입에 새균을 없앨려면 올바른 식습관과 위생 운동을 잘 해야 합니다.#@문장구분# 그러니 위생은 중요합니다.#@문장구분#",
+      "paragraph_len": 627,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.885715,
+      20,
+      15.314285
+    ],
+    "essay_scoreT_avg": 18.4,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "사람들의 몸을 <스타일링_패러프레이징>지키려면 건강한 몸을 만들기가 있다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": "사람들의 몸을 지키는 방법에는 건강한 몸을 만들기가 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그러므로 살이찌면서 비만, 과체중이 됩니다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": " 그렇게 되면 살이 찌면서 비만, 과체중이 됩니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 식습관도 중요합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 식습관도 <문법_맞춤법>중요 합니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "식습관이 이상해져서 야식과 인스턴트, 즉석식품을 계속 <스타일링_담화 맥락 오류><스타일링_패러프레이징>먹게되면 위생이 있습니다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "식습관이 이상해져서 야식과 인스턴트, 즉석식품을 계속 먹게 되면 건강에 좋지 않습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그러니까. 야식 인수턴트, 즉석식품을 자주 먹으면 안됩니다</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": " 따라서 야식, 인스턴트, 즉석식품을 자주 먹으면 안 됩니다.  ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 <스타일링_패러프레이징>2000m에</스타일링_패러프레이징> 거리두기를 해야합니다.",
+      "sentence_corr_txt_styling": " 그리고 2m 거리두기를 해야합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 <스타일링_패러프레이징>코입에 새균을 없앨려면 올바른 식습관과 위생 운동을 잘 해야 합니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 그리고 코와 입의 세균을 없애려면 올바른 식습관을 가지고 운동을 잘 해야 합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36067",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 369,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

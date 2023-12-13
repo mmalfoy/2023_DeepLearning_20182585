@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 너무 뚱뚱하다.#@문장구분# 그래서 다이어트를 해서 다를 친구들처럼 날씬해지고 싶다.#@문장구분# 그러나 매번 다이어트를 하지만 실패한다 원인이 뭔가를 살펴보니 나는 아무 때나 먹는다.#@문장구분# 정작 엄마가 밥을 해놓고 먹으라고 할때는 입맛이 없다고 잘안먹으면서 군거질을 입에 달고 산다.#@문장구분# 시험공부를 하다가도 스트레스가 쌓인다고 초코렛을 먹고 친구랑 싸웟다고 기분이 안좋다고도 초코렛을 먹는다.#@문장구분# 운동이라도 할까하고 산책을 나갔다가도 돌아오면 당떨어졌다고 다시 빵집을 간다.#@문장구분# 난 즐거울때도 힘들때도 항상 먹을것으로 해결하는 나쁜습관이 나의 다이어트의 실패원인이었다.#@문장구분# 그것을 좋은 습관으로 바꾸기위해서 난 어떤일에 닥치든 다른걸로 해결하는 방법을 찾아야한다.#@문장구분# 실패할수도있지만 내감정을 조절하는 법을 이제는 좋은습관을 기르므로해서 해결하도록 노력할것이다.#@문장구분#",
+      "paragraph_len": 583,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.6,
+      28,
+      20
+    ],
+    "essay_scoreT_avg": 23.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          1,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 정작 엄마가 밥을 해놓고 먹으라고 할때는 입맛이 없다고 잘 안 먹으면서 군것질을 입에 달고 산다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정작 엄마가 밥을 해놓고 먹으라고 할때는 입맛이 없다고 <문법_맞춤법>잘안먹으면서 군거질을</문법_맞춤법> 입에 달고 산다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 시험공부를 하다가도 스트레스가 쌓인다고 초코렛을 먹고 친구랑 싸웠다고 기분이 안 좋다고도 초콜릿을 먹는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 시험공부를 하다가도 스트레스가 쌓인다고 초코렛을 먹고 친구랑 <문법_맞춤법>싸웟다고</문법_맞춤법> 기분이 안좋다고도 초코렛을 먹는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 운동이라도 할까 하고 산책을 나갔다가도 돌아오면 당 떨어졌다고 다시 빵집을 간다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 운동이라도 <문법_맞춤법>할까하고</문법_맞춤법> 산책을 나갔다가도 돌아오면 당떨어졌다고 다시 빵집을 간다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 즐거울 때도 힘들 때도 항상 먹을 것으로 해결하는 나쁜 습관이 나의 다이어트의 실패 원인이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 난 <문법_맞춤법>즐거울때도 힘들때도 항상 먹을것으로</문법_맞춤법> 해결하는 나쁜습관이 나의 다이어트의 실패원인이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그것을 좋은 습관으로 바꾸기 위해서 난 어떤 일에 닥치든 다른 걸로 해결하는 방법을 찾아야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그것을 좋은 습관으로 <문법_맞춤법>바꾸기위해서 난 어떤일에</문법_맞춤법> 닥치든 다른걸로 해결하는 방법을 찾아야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 실패할 수도 있지만 내 감정을 조절하는 법을 이제는 좋은 습관을 기름으로 해서 해결하도록 노력할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>실패할수도있지만 내감정을</문법_맞춤법> 조절하는 법을 이제는 좋은습관을 기르므로해서 해결하도록 노력할것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60367",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 404,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "#@금융#는 시선에 의해 상처 받는 경우,또는 피부색 이나  생김새로 인해 차별 받는 경우를 줄이기 위한 방법은 그 차별을 한 사람에게 차별이 어떤 느낌인지 똑같이 차별을 당하게 하는 방법을 추천한다. #@문장구분#이유는 자신도 차별을 받은 피해자 입장이 되면 자기가 차별 했던 사람의 심정을 알게 되어서 더이상 차별을 하지 않을 것이다.#@문장구분# 차별을 한 사람이 너무 많아서 똑같이 돌려줄수 없다면 법을 새로 만들어서 법적으로 처벌을 받게 하면 좋을 것 같다. #@문장구분#위 방법 대로 차별의 무서움을 알게 하면 더이상 차별을 하지 못할것이다.",
+      "paragraph_len": 361,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      7.2,
+      18.45,
+      15.464286
+    ],
+    "essay_scoreT_avg": 13.704762,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "이유는 자신도 차별을 받은 피해자 입장이 되면 자기가 차별했던 사람의 심정을 알게 되어서 더이상 차별을 하지 않을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이유는 자신도 차별을 받은 피해자 입장이 되면 자기가 <문법_맞춤법>차별 했던</문법_맞춤법> 사람의 심정을 알게 되어서 더이상 차별을 하지 않을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 차별을 한 사람이 너무 많아서 똑같이 돌려줄 수 없다면 법을 새로 만들어서 법적으로 처벌을 받게 하면 좋을 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 차별을 한 사람이 너무 많아서 똑같이 <문법_맞춤법>돌려줄수</문법_맞춤법> 없다면 법을 새로 만들어서 법적으로 처벌을 받게 하면 좋을 것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "위 방법 대로 차별의 무서움을 알게 하면 더이상 차별을 하지 못할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위 방법 대로 차별의 무서움을 알게 하면 더이상 차별을 하지 <문법_맞춤법>못할것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46977",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 310,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

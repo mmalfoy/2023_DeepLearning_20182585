@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사회적 불평등이 지역상으로도 문제가 많다.#@문장구분# 지금 우리가 살고 있는 지역을 봐도 알 수 있다.#@문장구분# 서울에 가보면 자동차도 많이 돌아다니고 건물들도 빼곡하게 있다.#@문장구분# 이걸 보고 사람이 많이 살고 있다고 생각했다.#@문장구분# 유명한 음식점 , 전시회, 관광지도 있어서 볼거리도 많았고 유명한 연예인도 많다. #@문장구분#다양한 일자리도 많이 있어서 사람들이 서울로 가길 원한다. #@문장구분#시골을 생각해보면 병원도 버스를 타고 한참 지나가야 하나 나온다. #@문장구분#배달음식을 시키고 싶어도 배달 거리가 되지 않아서 먹지를 못한다 . #@문장구분#그리고 일자리도 농사를 짓는 거 말고는 딱히 없다. #@문장구분#여러 가지 면에서 서울이 살기 좋다고 생각한다. #@문장구분#사람들이 모두 도시에서 살고 도시에 사람이 많아지니깐 여러 문화시설들도 도시만 많이 생기기 시작했다.#@문장구분# 시골은 그나마 있던 가게들이 문을 닫고 있다.#@문장구분# 계속해서 도시는 생기고 시골은 없어진다면 도시와 시골의 불평등도 심해진다. #@문장구분#그래서 이것을 해결하기 위해 시골에서도 다양한 일을 할 수 있게 일자리를 만들어주고 도시에서 시골로 내려온 사람들에게 여러 가지 기회도 많이 주어야한다.#@문장구분#",
+      "paragraph_len": 814,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.188889,
+      21.788889,
+      20.3
+    ],
+    "essay_scoreT_avg": 19.759258,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 유명한 음식점 , 전시회, 관광지도 있어서 볼거리도 많고 유명한 연예인도 많다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 유명한 음식점 , 전시회, 관광지도 있어서 볼거리도 <문법_시제>많았고</문법_시제> 유명한 연예인도 많다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "배달음식을 시키고 싶어도 배달 거리가 되지 않아서 먹지 못한다 . ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "배달음식을 시키고 싶어도 배달 거리가 되지 않아서 <문법_조사>먹지를</문법_조사> 못한다 . ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 일자리도 농사를 짓는 것 말고는 딱히 없다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 일자리도 농사를 짓는 <문법_맞춤법>거</문법_맞춤법> 말고는 딱히 없다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들이 모두 도시에서 살고 도시에 사람이 많아지니까 여러 문화시설들도 도시만 많이 생기기 시작했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사람들이 모두 도시에서 살고 도시에 사람이 <문법_맞춤법>많아지니깐</문법_맞춤법> 여러 문화시설들도 도시만 많이 생기기 시작했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 계속해서 도시는 생기고 시골은 없어진다면 도시와 시골의 불평등도 심해질 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 계속해서 도시는 생기고 시골은 없어진다면 도시와 시골의 불평등도 <문법_시제>심해진다</문법_시제>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 이것을 해결하기 위해 시골에서도 다양한 일을 할 수 있게 일자리를 만들어 주고, 도시에서 시골로 내려온 사람들에게 여러 가지 기회도 많이 주어야 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그래서 이것을 해결하기 위해 시골에서도 다양한 일을 할 수 있게 일자리를 <문법_맞춤법><문법_기타>만들어주고</문법_기타></문법_맞춤법> 도시에서 시골로 내려온 사람들에게 여러 가지 기회도 많이 주어야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75786",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 535,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

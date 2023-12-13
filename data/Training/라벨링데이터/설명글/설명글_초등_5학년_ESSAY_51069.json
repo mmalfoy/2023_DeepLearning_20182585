@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금 생각해 보면 나는 깨끗하지 않는 것 같습니다.#@문장구분# 나의 몸을 꺠끗하게 유지하기 위해 서는 첫 번째로 양치, 샤워, 손을 하루에 아치미, 점심, 저녁으로 총3번 이상 기준을 정하여 씻습니다.#@문장구분# 두 번째는 물건, 사람과 접촉하고, 손이 많이 더러워 지면 바로바로 씻습니다.#@문장구분# 세 번째는 이 두가지 방법을 꾸준히 '노력하면서 실천해야 합니다. #@문장구분#꾸준히 하고 노력하면 실천하는 것은 기본입니다. #@문장구분#세 번째가 잘 되어야지 첫 번째, 두 번째가 실천이 됩니다.#@문장구분# 이 내용은 저의 생각입니다.",
+      "paragraph_len": 384,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.885714,
+      16.4,
+      13.952381
+    ],
+    "essay_scoreT_avg": 14.746032,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.11",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "지금 생각해 보면 나는 깨끗하지 않은 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금 생각해 보면 나는<문법_맞춤법> 깨끗하지 않는 </문법_맞춤법>것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나의 몸을 깨끗하게 유지하기 위해 서는 첫 번째로 양치, 샤워, 손을 하루에 아침, 점심, 저녁으로 총 3번 이상 기준을 정하여 씻습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나의 몸을 <문법_맞춤법>꺠끗하게 유지하기 위해 서는 첫 번째로 양치, 샤워, 손을 하루에 아치미, 점심, 저녁으로 총3번 이상</문법_맞춤법> 기준을 정하여 씻습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째는 물건, 사람과 접촉하고, 손이 많이 더러워지면 바로바로 씻습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 두 번째는 물건, 사람과 접촉하고, 손이 많이 <문법_맞춤법>더러워 지</문법_맞춤법>면 바로바로 씻습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째는 이 두 가지 방법을 꾸준히 '노력하면서 실천해야 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세 번째는 이<문법_맞춤법> 두가지</문법_맞춤법> 방법을 꾸준히 '노력하면서 실천해야 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51069",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 265,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

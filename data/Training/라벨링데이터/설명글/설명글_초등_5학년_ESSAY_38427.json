@@ -1,0 +1,189 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 가장 좋아하는 과목은 미술입니다. #@문장구분#왜냐하면 저의 꿈이 유튜브와 가게를 통해 인스를 그려 제작하고 영상을 찍고 포장하며 파는 사람인데 인스를 그려서 팔려면 인스의 도안을 그려야 하는데 미술을 하면 그림실력이 늘기 때문에 인스도안을 더 잘 그릴 수 있기 때문입니다. #@문장구분#그리고 미술시간에는 가끔씩 만들기를 하는데 그 시간동안 친구들과 웃고 떠들며 재미있게 만들기도 할 수 있고, 다 만들고 집에 가져가면 뿌듯하기도 하고 부모님께 칭찬도 들으니 기분이 좋습니다. #@문장구분#또 저는 그림을 잘 못 그려서 친구들도 도와주고 점점 저의 그림실력을 늘릴 수 있기 때문입니다.#@문장구분# 저는 그림그리기와 만들기 등등을 좋아하는데 미술시간에 그런 것들을 해서 제가 좋아하는 과목이 미술입니다.#@문장구분#",
+      "paragraph_len": 469,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      26.047619,
+      24.114285
+    ],
+    "essay_scoreT_avg": 23.653967,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 저의 꿈이 유튜브와 가게를 통해 스티커를 그려 제작하고 영상을 찍고 포장하며 파는 사람인데, 스티커를 그려서 팔려면 인스의 도안을 그려야 하는데 미술을 하면 그림실력이 늘기 때문입니다. ",
+      "sentence_corr_reason": [
+        "호흡 필요",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "왜냐하면 저의 꿈이 유튜브와 가게를 통해 인스를 그려 제작하고 영상을 찍고 포장하며 파는 <문법_기타>사람인데</문법_기타> 인스를 그려서 팔려면 인스의 도안을 그려야 하는데 미술을 하면 그림실력이 <스타일링_패러프레이징>늘기 때문에 인스도안을 더 잘 그릴 수 있기 때문입니다</스타일링_패러프레이징>. ",
+      "sentence_corr_txt_styling": "왜냐하면 저의 꿈이 유튜브와 가게를 통해 스티커를 그려 제작하고 영상을 찍고 포장하며 파는 사람인데, 스티커를 그려서 팔려면 인스의 도안을 그려야 하는데 미술을 하면 그림실력이 늘기 때문입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "또 저는 그림을 잘 못 그려서 친구들도 <스타일링_맞춤법><스타일링_기타>도와주고 점점 저의 그림실력을 늘릴 수 있기 때문입니다</스타일링_기타></스타일링_맞춤법>.",
+      "sentence_corr_txt_styling": "또 저는 그림을 잘 못 그려서 친구들도 도와주며 저의 그림 실력을 키우고 싶습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38427",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 371,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

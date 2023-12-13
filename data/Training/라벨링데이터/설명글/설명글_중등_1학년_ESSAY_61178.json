@@ -1,0 +1,254 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 아주 어렸을때부터 손가락을 빠는 습관이있었습니다. #@문장구분#그래서 유치원생이 되었을때도 손가락을 빨았었습니다.#@문장구분# 그런데 어느날 손가락을 빠는 것이 부끄럽게 느껴졌습니다.#@문장구분# 다른 친구들은 손가락을 빨지 않는데 저만 손가락을 빨고 있으니까 뭔가 부끄러웠습니다.#@문장구분# 그래서 저는 이습관을 고쳐야겠다고 생각했습니다.#@문장구분# 하지만 처음부터 바로 손가락을 빨지 않는 것은 힘들었습니다.#@문장구분# 그렇지만 친구들에게 부끄러워서라도 손가락을 빨고 싶지 않았기 때문에 얼른 손가락 빠는 버릇을 고칠 수 있었습니다.#@문장구분# 제가 알려드리는 안좋은 습관을 고치는 노하우는 누군가가 항상 날 주시하고 있다고 생각합니다.#@문장구분# 나는 백만유튜버고 다른 구독자들이 나를 지켜보고 있다라고 생각하면 괜히 내가 올바른 행동을 해야할거 같은 기분이 든답니다. #@문장구분#그래서 고치기 어려운 나쁜 습관이 있으시다면 이렇게 한 번 해 보세요!#@문장구분#",
+      "paragraph_len": 625,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.5,
+      26.55,
+      21.35
+    ],
+    "essay_scoreT_avg": 23.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 아주 어렸을 때부터 손가락을 빠는 습관이 있었습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 아주 <문법_맞춤법>어렸을때부터 손가락을 빠는 습관이있었습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 유치원생이 되었을 때도 손가락을 빨았었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 유치원생이 <문법_맞춤법>되었을때도</문법_맞춤법> 손가락을 빨았었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 어느 날 손가락을 빠는 것이 부끄럽게 느껴졌습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 <문법_맞춤법>어느날</문법_맞춤법> 손가락을 빠는 것이 부끄럽게 느껴졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 이 습관을 고쳐야겠다고 생각했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 <문법_맞춤법>이습관을</문법_맞춤법> 고쳐야겠다고 생각했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 알려드리는 안 좋은 습관을 고치는 노하우는 누군가가 항상 날 주시하고 있다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 알려드리는 <문법_맞춤법>안좋은</문법_맞춤법> 습관을 고치는 노하우는 누군가가 항상 날 주시하고 있다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 백만 유튜버고 다른 구독자들이 나를 지켜보고 있다고 생각하면 괜히 내가 올바른 행동을 해야할 거 같은 기분이 든답니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>백만유튜버고</문법_맞춤법> 다른 구독자들이 나를 지켜보고 <문법_어미>있다라고</문법_어미> 생각하면 괜히 내가 올바른 행동을 해야할거 같은 기분이 든답니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61178",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 426,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

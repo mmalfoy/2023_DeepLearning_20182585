@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서는 다양한 과목을 가르치고 있습니다. #@문장구분#하지만 사람마다 개성이 다르고 좋아하는 과목이 다르기 때문 효율적이지 못한 점이 있습니다. #@문장구분#그래서 교양면에서 최소한의 과목만 가르치고 그외에는 학생들이 좋아하는 과목을 가르치는 것이 좋다고 생각합니다. #@문장구분#나는 여러 과목중 수학을 제일 좋아 합니다. #@문장구분#나는 외우는 것을 싫어합니다. #@문장구분#그래서 외우는 과목인 생물 등은 싫어합니다.#@문장구분# 반면 수학은 외우지 않아도 논리적으로 생각하면 쉽게 풀리는 경우가 많아 좋아합니다.#@문장구분# 그리고 수학을 하다보면 사고력이 발달하여 재미있습니다. #@문장구분#나는 가끔 무엇인가 골똘히 생각하는 경향이 있어 수학이 재미있고 또 어려운 수학 문제를 풀었을 때 내가 해 냈다는 성취감을 느낄 수 있어 수학이 재미 있습니다.",
+      "paragraph_len": 532,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.685715,
+      28.066666,
+      22
+    ],
+    "essay_scoreT_avg": 24.91746,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그래서 교양 면에서 최소한의 과목만 가르치고 그외에는 학생들이 좋아하는 과목을 가르치는 것이 좋다고 생각합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 <문법_맞춤법>교양면에서</문법_맞춤법> 최소한의 과목만 가르치고 그외에는 학생들이 좋아하는 과목을 가르치는 것이 좋다고 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 여러 과목 중 수학을 제일 좋아 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 여러 <문법_맞춤법>과목중</문법_맞춤법> 수학을 제일 좋아 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 수학을 하다 보면 사고력이 발달하여 재미있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 수학을 <문법_맞춤법>하다보면</문법_맞춤법> 사고력이 발달하여 재미있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62459",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 373,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

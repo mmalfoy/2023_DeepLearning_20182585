@@ -1,0 +1,371 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 생각은 유기와 동물들 분양로 가기전에 나의 생각을 다시 생각을 하고 가야된다. #@문장구분#왜냐하면 단 분양을 한 뒤 유기한 사람이 3분의 1이기 때문이다. #@문장구분#대체 방법 1은 인제 자신의 마음 준비가 됬는지 다시 재차 생각도하고분양로 가는게 좋다.#@문장구분#그리고자신의 집안의 돈과 집이 되는지 확인을 해야한다. #@문장구분# 강아지와 고양이는 되어 놀 공간이없다.#@문장구분#스트레스로 받아 돈만 사 였 기 있기 대문이다. #@문장구분#이 종슬기 분양도 해도 되지만 강아지나 고양이 등 배변패드 울티라나 했으면 된 다. #@문장구분#분양을 해도 된다. #@문장구분#예건대 보인다고 색각하지만 보라 강아지도 오동 해야된다. #@문장구분#그렇지만 고양이나 영역을물론 산책하면 되지 않는다.#@문장구분#  그리고 요리를 할때는 동물들을 주방에 멀리  열어나야된다.#@문장구분# 동물들은 물건에 아니기 때문에 사람처럼 해줘야 한다. #@문장구분#우리는 그냥 막 분양하고 유기를 하며 동물들을 일어나 상처을 입을까 #@문장구분#우 리는 분양전 싼조가 돈에 생각까지 한다.#@문장구분#요예 분양 해야지 유기를 줄오 주있고 동물과 자신도 걷을 해 물 수 있 기 때묻이다.",
+      "paragraph_len": 785,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.6,
+      19.4,
+      18.8
+    ],
+    "essay_scoreT_avg": 17.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          1,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 생각은 유기와 동물들 분양하러 가기 전에 나의 생각을 다시 생각을 하고 가야 된다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 생각은 유기와 동물들 <문법_맞춤법>분양로 가기전에 나의 생각을 다시 생각을 하고 가야된다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "대체 방법 1은 인제 자신의 마음 준비가 됐는지 다시 재차 생각도 하고 분양하러 가는 게 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "대체 방법 1은 인제 자신의 마음 <문법_맞춤법>준비가 됬는지 다시 재차 생각도하고분양로 가는게</문법_맞춤법> 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 자신의 집안의 돈과 집이 되는지 확인을 해야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그리고자신의 집안의 돈과 집이 되는지 확인을 해야한다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 강아지와 고양이는 되어 놀 공간이 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 강아지와 고양이는 되어 놀 <문법_맞춤법>공간이없다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "스트레스로 받아 돈만 사 였 기 있기 대문이다. ",
+      "sentence_corr_txt_styling": "스트레스로 받아 돈만 사 였 기 있기 대문이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 종슬기 분양도 해도 되지만 강아지나 고양이 등 배변패드 울티리나 했으면 된다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "이 종슬기 분양도 해도 되지만 강아지나 고양이 등 배변패드 <문법_맞춤법>울티라나 했으면 된 다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "이 종슬기 분양도 해도 되지만 강아지나 고양이 등 배변패드 울티리나 했으면 된다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예건대 보인다고 생각하지만 보라 강아지도 오동 해야 된다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": "예건대 보인다고 <문법_맞춤법>색각하지만 보라 강아지도 오동 해야된다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "예건대 보인다고 생각하지만 보라 강아지도 오동 해야 된다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇지만 고양이나 영역을 물론 산책하면 되지 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇지만 고양이나 <문법_맞춤법>영역을물론</문법_맞춤법> 산책하면 되지 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "  그리고 요리를 할때는 동물들을 주방에 멀리  열어나야된다.",
+      "sentence_corr_txt_styling": "  그리고 요리를 할때는 동물들을 주방에 멀리  열어나야된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리는 그냥 막 분양하고 유기를 하며 동물들을 일어나 상처를 입을까 ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "우리는 그냥 막 분양하고 유기를 하며 동물들을 일어나 <문법_맞춤법>상처을 입을까</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "우리는 그냥 막 분양하고 유기를 하며 동물들을 일어나 상처를 입을까 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리는 분양전 싼조가 돈에 생각까지 한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>우 리는</문법_맞춤법> 분양전 싼조가 돈에 생각까지 한다.",
+      "sentence_corr_txt_styling": "우리는 분양전 싼조가 돈에 생각까지 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요예 분양해야지 유기를 줄일 수 있고 동물과 자신도 걷을 해 물 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": "요예 <문법_맞춤법>분양 해야지 유기를 줄오 주있고 동물과 자신도 걷을 해 물 수 있 기 때묻이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "요예 분양해야지 유기를 줄일 수 있고 동물과 자신도 걷을 해 물 수 있기 때문이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43061",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 505,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

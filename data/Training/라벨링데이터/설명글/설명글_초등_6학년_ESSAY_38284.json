@@ -1,0 +1,355 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제목;한글을 만드신 세종대왕.#@문장구분# 우리나라에 사는 사람들을 위해 쉬운글자 한글을 만드신 세종대왕님이다.#@문장구분# 세종대왕님은 자신의 나라 백성들이 글씨를 잘 못읽으는 모습을 보고 한글을 만드셨다.#@문장구분# 제일 기본적인것은 가나다라마바사아자차카타파하 이다.#@문장구분# 한국인이라면 이거는꼭 알고있는것이다.#@문장구분# 세종대왕보다 더 휼륭한 위인들이 있겠지만 방탄소년단이라는 아이돌의 외국팬들이 많아서 방탄소년단의 한글이들어가있는 노래를 부르려고 또는 방탄소년단이 하는말을 들으려고 한글을 외국인들이 많이 배운다.#@문장구분# 방탄소년단이라는아이돌 덕분에 우리나라가 엄청 자랑스럽다.#@문장구분# 나도 다른나라의 언어를 배우지만 가장 쉽고 재미있는 언어는 한글같다.#@문장구분# 세종대왕님이 살아계셨다면 당장 만나러 가고싶다.#@문장구분# 만나서 감사하다는 말을 계속 하고싶다.#@문장구분# 앞으로 우리나라의 그 한글을 배우고 아껴주는 사람들이 더 많았으면 좋겠다.#@문장구분#세종대왕님 한글을 만들어주셔서 정말감사합니다.#@문장구분#",
+      "paragraph_len": 689,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.65,
+      25.1,
+      21.6
+    ],
+    "essay_scoreT_avg": 21.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제목: 한글을 만드신 세종대왕",
+      "sentence_corr_reason": [
+        "쌍점이 자연스럽습니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>제목;한글을</문법_기타> 만드신 세종대왕.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라에 사는 사람들을 위해 쉬운 글자 한글을 만드신 세종대왕님이다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 우리나라에 사는 사람들을 위해 <문법_맞춤법>쉬운글자</문법_맞춤법> 한글을 만드신 세종대왕님이다.",
+      "sentence_corr_txt_styling": " 우리나라에 사는 사람들을 위해 쉬운 글자 한글을 만드신 세종대왕님이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님은 자신의 나라 백성들이 글씨를 잘 못 읽는 모습을 보고 한글을 만드셨다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕님은 자신의 나라 백성들이 글씨를 잘 <문법_맞춤법>못읽으는</문법_맞춤법> 모습을 보고 한글을 만드셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제일 기본적인 것은 가나다라마바사아자차카타파하이다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 제일 <문법_맞춤법>기본적인것은</문법_맞춤법> 가나다라마바사아자차카타파하 이다.",
+      "sentence_corr_txt_styling": " 제일 기본적인 것은 가나다라마바사아자차카타파하이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한국인이라면 이거는 꼭 알고 있는 것이다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한국인이라면 <문법_맞춤법>이거는꼭</문법_맞춤법> 알고있는것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕보다 더 휼륭한 위인들이 있겠지만 방탄소년단이라는 아이돌의 외국 팬들이 많아서 방탄소년단의 한글이 들어가 있는 노래를 부르려고 또는 방탄소년단이 하는 말을 들으려고 한글을 외국인들이 많이 배운다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 세종대왕보다 더 휼륭한 위인들이 있겠지만 방탄소년단이라는 아이돌의 <문법_맞춤법>외국팬들이</문법_맞춤법> 많아서 방탄소년단의 한글이들어가있는 노래를 부르려고 또는 방탄소년단이 하는말을 들으려고 한글을 외국인들이 많이 배운다.",
+      "sentence_corr_txt_styling": " 세종대왕보다 더 휼륭한 위인들이 있겠지만 방탄소년단이라는 아이돌의 외국 팬들이 많아서 방탄소년단의 한글이 들어가 있는 노래를 부르려고 또는 방탄소년단이 하는 말을 들으려고 한글을 외국인들이 많이 배운다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 방탄소년단이라는 아이돌 덕분에 우리나라가 엄청 자랑스럽다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>방탄소년단이라는아이돌</문법_맞춤법> 덕분에 우리나라가 엄청 자랑스럽다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 다른 나라의 언어를 배우지만 가장 쉽고 재미있는 언어는 한글 같다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 <문법_맞춤법>다른나라의</문법_맞춤법> 언어를 배우지만 가장 쉽고 재미있는 언어는 한글같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님이 살아 계셨다면 당장 만나러 가고 싶다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕님이 <문법_맞춤법>살아계셨다면</문법_맞춤법> 당장 만나러 가고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만나서 감사하다는 말을 계속 하고 싶다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만나서 감사하다는 말을 계속 <문법_맞춤법>하고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로 우리나라의 그 한글을 배우고 아껴 주는 사람들이 더 많았으면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 앞으로 우리나라의 그 한글을 배우고 <문법_맞춤법>아껴주는</문법_맞춤법> 사람들이 더 많았으면 좋겠다.",
+      "sentence_corr_txt_styling": " 앞으로 우리나라의 그 한글을 배우고 아껴 주는 사람들이 더 많았으면 좋겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세종대왕님 한글을 만들어 주셔서 정말 감사합니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "세종대왕님 한글을 <문법_맞춤법>만들어주셔서</문법_맞춤법> 정말감사합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38284",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 450,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

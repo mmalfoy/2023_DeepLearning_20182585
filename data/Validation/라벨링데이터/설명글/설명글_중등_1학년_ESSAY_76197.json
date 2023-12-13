@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 참된 스승이란 아이들에게 조리실습을 많이 시켜주는 선생님이라고 생각합니다.#@문장구분# 왜냐하면 저는 어렸을때부터 무언가를 만들어 먹는 것을 아주 좋아했습니다. #@문장구분#그래서 제가 만든 음식을 부모님께 드리면 부모님이 정말 좋아하셨기 때문에 저의 반친구들과 같이 조리실습을 하게 된다면 엄청 좋을거 같습니다.#@문장구분# 일단 반에서 조를 짜서 먼저 어떤 음식을 만들지 회의를 합니다. #@문장구분#그리고 회의가 끝나면 친구들이랑 장을보러 마트에 갑니다.#@문장구분# 그래서 마트에가서 친구들이랑 물건을 사고 맛있는 과자도 하나씩사서 가는 길에 먹으면 정말 기분이 좋습니다. #@문장구분#그리고 학교에서 친구들과 이제 조리실습을 하게 되면 누구는 감자를 깎고 누구는 달걀을 삶고 역할 분담을 하면서 친구들과 더 친해질 수 있게 될 것입니다. #@문장구분#그리고 다 같이 만든 음식을 사진을 찍고 같이 먹어보고 다른 선생님들께도 드리고 하면서 친구들과의 사이가 더욱 돈독해 질 수 있을 것이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 623,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.35,
+      17.85,
+      16.25
+    ],
+    "essay_scoreT_avg": 19.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 저는 어렸을 때부터 무언가를 만들어 먹는 것을 아주 좋아했습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 저는 <문법_맞춤법>어렸을때부터 </문법_맞춤법>무언가를 만들어 먹는 것을 아주 좋아했습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 제가 만든 음식을 부모님께 드리면 부모님이 정말 좋아하셨기 때문에 저의 반 친구들과 같이 조리실습을 하게 된다면 엄청 좋을 거 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 제가 만든 음식을 부모님께 드리면 부모님이 정말 좋아하셨기 때문에 저의 <문법_맞춤법>반친구들과</문법_맞춤법> 같이 조리실습을 하게 된다면 엄청 좋을거 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 회의가 끝나면 친구들이랑 장을 보러 마트에 갑니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 회의가 끝나면 친구들이랑 <문법_맞춤법>장을보러 </문법_맞춤법>마트에 갑니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 마트에 가서 친구들이랑 물건을 사고 맛있는 과자도 하나씩 사서 가는 길에 먹으면 정말 기분이 좋습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>마트에가서 </문법_맞춤법>친구들이랑 물건을 사고 맛있는 과자도 하나씩사서 가는 길에 먹으면 정말 기분이 좋습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 다 같이 만든 음식을 사진을 찍고 같이 먹어보고 다른 선생님들께도 드리고 하면서 친구들과의 사이가 더욱 돈독해질 수 있을 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고<문법_맞춤법> </문법_맞춤법>다<문법_맞춤법> </문법_맞춤법>같이<문법_맞춤법> </문법_맞춤법>만든<문법_맞춤법> </문법_맞춤법>음식을<문법_맞춤법> </문법_맞춤법>사진을<문법_맞춤법> </문법_맞춤법>찍고<문법_맞춤법> </문법_맞춤법>같이<문법_맞춤법> </문법_맞춤법>먹어보고<문법_맞춤법> </문법_맞춤법>다른<문법_맞춤법> </문법_맞춤법>선생님들께도<문법_맞춤법> </문법_맞춤법>드리고<문법_맞춤법> </문법_맞춤법>하면서<문법_맞춤법> </문법_맞춤법>친구들과의<문법_맞춤법> </문법_맞춤법>사이가<문법_맞춤법> </문법_맞춤법>더욱<문법_맞춤법> </문법_맞춤법>돈독해<문법_맞춤법> </문법_맞춤법>질<문법_맞춤법> </문법_맞춤법>수<문법_맞춤법> </문법_맞춤법>있을<문법_맞춤법> </문법_맞춤법>것이라고<문법_맞춤법> </문법_맞춤법>생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_76197",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 464,
+    "essay_main_subject": "참된 스승"
+  }
+}

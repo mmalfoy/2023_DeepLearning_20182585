@@ -1,0 +1,258 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요? #@문장구분#오늘은 제가 생각하는 존경하는 위인을 알려드리려고 합니다.#@문장구분#저는 세상에서 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남기신분,세종대왕님 입니다.#@문장구분#왜냐하면 세종대왕님은 \"가나다라마바사'한글인 훈민정음을 만드셨기 때문입니다.#@문장구분#이 훈민정음을 만드시면서 얼마나 고생하셨을지 자기 자신이 필요해서 만든게 아닌,백성이 어려운 한자를 대부분 못 읽어서 한땀한땀 만드신 것 이 정말 존경스럽기 때문입니다.#@문장구분#저는 세종대왕님을 보고 저도 제가 필요한 것만 생각하지 않고,다른 사람들을 위해 아이디어를 생각해서 모두에게 편리한것을 만들고 싶다는 생각이 들었습니다.#@문장구분#그리고 만약 세종대왕님이 훈민정음을 안만드셨다면 2021년 현재까지도 어렵고,골치아픈 한자를 사용하고 있었을 겁니다. #@문장구분#이처럼 세종대왕님은 정말 유명하지 못할 수가 없는 많은 사람들에게 존경받을 최고에 위인 이신것 같습니다.#@문장구분# 이렇게 이 위인이 없었다면 어떻게 대체했을지 알아보았습니다.#@문장구분# 제가 왜? 이위인을 존경하는지를 주제로 이글을 써보았습니다.",
+      "paragraph_len": 684,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.35,
+      21.85,
+      21.6
+    ],
+    "essay_scoreT_avg": 19.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 세상에서 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남기신 분,세종대왕님입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "저는 세상에서 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 <문법_맞춤법>남기신분</문법_맞춤법>,세종대왕님 입니다.",
+      "sentence_corr_txt_styling": "저는 세상에서 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남기신 분,세종대왕님입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 훈민정음을 만드시면서 얼마나 고생하셨을지 자기 자신이 필요해서 만든 게 아닌,백성이 어려운 한자를 대부분 못 읽어서 한 땀 한 땀 만드신 것이 정말 존경스럽기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "이 훈민정음을 만드시면서 얼마나 고생하셨을지 자기 자신이 필요해서 <문법_맞춤법>만든게 </문법_맞춤법>아닌,백성이 어려운 한자를 대부분 못 읽어서 한땀한땀 만드신 것 이 정말 존경스럽기 때문입니다.",
+      "sentence_corr_txt_styling": "이 훈민정음을 만드시면서 얼마나 고생하셨을지 자기 자신이 필요해서 만든 게 아닌,백성이 어려운 한자를 대부분 못 읽어서 한 땀 한 땀 만드신 것이 정말 존경스럽기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 세종대왕님을 보고 저도 제가 필요한 것만 생각하지 않고,다른 사람들을 위해 아이디어를 생각해서 모두에게 편리한 것을 만들고 싶다는 생각이 들었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 세종대왕님을 보고 저도 제가 필요한 것만 생각하지 않고,다른 사람들을 위해 아이디어를 생각해서 모두에게 <문법_맞춤법>편리한것을 </문법_맞춤법>만들고 싶다는 생각이 들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 만약 세종대왕님이 훈민정음을 안 만드셨다면 2021년 현재까지도 어렵고,골치 아픈 한자를 사용하고 있었을 겁니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 만약 세종대왕님이 훈민정음을 <문법_맞춤법>안만드셨다면</문법_맞춤법> 2021년 현재까지도 어렵고,골치아픈 한자를 사용하고 있었을 겁니다. ",
+      "sentence_corr_txt_styling": "그리고 만약 세종대왕님이 훈민정음을 안 만드셨다면 2021년 현재까지도 어렵고,골치 아픈 한자를 사용하고 있었을 겁니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이처럼 세종대왕님은 정말 유명하지 못할 수가 없는 많은 사람들에게 존경받을 최고의 위인이신 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "이처럼 세종대왕님은 정말 유명하지 못할 수가 없는 많은 사람들에게 존경받을 <문법_조사>최고에</문법_조사> <문법_맞춤법>위인 이신것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 왜? 이위인을 존경하는지를 주제로 이 글을 써보았습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 왜? 이위인을 존경하는지를 주제로 <문법_맞춤법>이글을 </문법_맞춤법>써보았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56836",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 506,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

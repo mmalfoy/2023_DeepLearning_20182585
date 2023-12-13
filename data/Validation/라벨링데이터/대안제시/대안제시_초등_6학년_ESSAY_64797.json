@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물은 혼자서 키우기도 하지만 귀엽다고 해서 데려가 키우기도 하지만 외롭거나 가정이 필요해서 키운다 #@문장구분#하지만 단지 귀여워서 키우는것은 마땅하지 않다 큰 고민을 해보고 생각을 해봐야 알수있따#@문장구분# 막상 키우면 챙겨주기 힘들거나 바쁘거나 생활에 살려 못키우기도 한다 #@문장구분#키울때에는 인터넷등 지인의 도움을 받아 키우는 방법 사료 등은 미리 알아두고 키우는것이 유기를 피하는 방법이다#@문장구분# 유기가 지속되어 확률이 높아진다면 법을 만들어 처벌을 주거나 벌금을 내는것도 한가지 방법이다#@문장구분# 또한 유기 대처법은 자신의 시간등을 고려해 강아지 카페등 맡겨놨다가 일이 끝날때 데리러 오거나 시간을 맞춰 고려한다#@문장구분# 유기란것은 굉장히 나쁘지만 어쩔수없는 선택이기도 하여 이책임을 자신이 등지고 있어야하니 정보나 시간을 무조건 고려하고 유기를 어쩔수 없이 한다면 벌금이나 처벌이 꼭 생겼다면 좋겠다 #@문장구분#자신의 책임이 유기를 만들지 않게 조심히 생각을하여 키우면 좋겠다 #@문장구분#다들 유기를 안하면 좋겠다",
+      "paragraph_len": 636,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.666668,
+      27.61111,
+      27
+    ],
+    "essay_scoreT_avg": 27.75926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "반려동물은 혼자서 키우기도 하지만 귀엽다고 해서 데려가 키우기도 하지만 외롭거나 가정이 필요해서 키운다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "반려동물은 혼자서 키우기도 하지만 귀엽다고 해서 데려가 키우기도 하지만 외롭거나 가정이 필요해서 <문법_맞춤법>키운다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 단지 귀여워서 키우는 것은 마땅하지 않다.  큰 고민을 해보고 생각을 해봐야 알 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 단지 귀여워서 키우는것은 마땅하지 않다 큰 고민을 해보고 생각을 해봐야 <문법_맞춤법>알수있따</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 막상 키우면 챙겨주기 힘들거나 바쁘거나 생활에 치어 못 키우기도 한다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 막상 키우면 챙겨주기 힘들거나 바쁘거나 생활에 살려 <문법_맞춤법>못키우기도 </문법_맞춤법>한다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "키울 때에는 인터넷 등 지인의 도움을 받아 키우는 방법 사료 등은 미리 알아두고 키우는 것이 유기를 피하는 방법이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>키울때에는 </문법_맞춤법>인터넷등 지인의 도움을 받아 키우는 방법 사료 등은 미리 알아두고 키우는것이 유기를 피하는 방법이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유기가 지속되어 확률이 높아진다면 법을 만들어 처벌을 주거나 벌금을 내는 것도 한 가지 방법이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 유기가 지속되어 확률이 높아진다면 법을 만들어 처벌을 주거나 벌금을 <문법_맞춤법>내는것도 </문법_맞춤법>한가지 방법이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 유기 대처법은 자신의 시간 등을 고려해 강아지 카페 등 맡겨놨다가 일이 끝날 때 데리러 오거나 시간을 맞춰 고려한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 유기 대처법은 자신의 시간등을 고려해 강아지 <문법_맞춤법>카페등 </문법_맞춤법>맡겨놨다가 일이 끝날때 데리러 오거나 시간을 맞춰 고려한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유기란 것은 굉장히 나쁘지만 어쩔 수 없는 선택이기도 하여 이 책임을 자신이 등지고 있어야 하니 정보나 시간을 무조건 고려하고 유기를 어쩔 수 없이 한다면 벌금이나 처벌이 꼭 생겼으면 좋겠다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>유기란것은 </문법_맞춤법>굉장히 나쁘지만 어쩔수없는 선택이기도 하여 이책임을 자신이 등지고 있어야하니 정보나 시간을 무조건 고려하고 유기를 어쩔수 없이 한다면 벌금이나 처벌이 꼭 생겼다면 좋겠다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "자신의 책임이 유기를 만들지 않게 조심히 생각을 하여 키우면 좋겠다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "자신의 책임이 유기를 만들지 않게 조심히 <문법_맞춤법>생각을하여 </문법_맞춤법>키우면 좋겠다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다들 유기를 안 하면 좋겠다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다들 유기를 <문법_맞춤법>안하면 </문법_맞춤법>좋겠다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64797",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 477,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

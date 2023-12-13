@@ -1,0 +1,294 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 좋아하는 과목은 사회, 미술 입니다.#@문장구분# 먼저 제가 사회를 좋아하는 이유는 새로운 것들을 알 수 있어서 입니다. #@문장구분#물론 다른 과목들도 새로운 내용과 신기한 원리들을 알 수 있지만사회는 우리나라에 역사도 배우니까 더흥미롭고 재미있는 것 갔다.#@문장구분# 내가 역사에 대해 잘 모르고 사회에 대해서도잘 몰라서 배우는게 더 재미있고 흥미로운 것 갔다.#@문장구분#\n 제가 미술을 좋아하는 이유는 미술을할 때면 아무 생각도 않아고 마음이 편하기 때문입니다.#@문장구분#미술은 다른 과목에비해 머리를 많이 안쓰기 때문에 뇌도 편안하고 마음도 편안합니다. #@문장구분#그리고 색칠하는 것과 내가 표현하고 싶은것을 그림으로는 표현 할 수 있어서 더 재미있습니다.#@문장구분# 저는 이러한 이유로사회와 미술을 좋아합니다.",
+      "paragraph_len": 501,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.733334,
+      26.114285,
+      28.285713
+    ],
+    "essay_scoreT_avg": 23.711111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 좋아하는 과목은 사회, 미술입니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 좋아하는 과목은 사회, <문법_맞춤법>미술 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 제가 사회를 좋아하는 이유는 새로운 것들을 알 수 있어서입니다. ",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 제가 사회를 좋아하는 이유는 새로운 것들을 알 수 <문법_맞춤법>있어서 입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물론 다른 과목들도 새로운 내용과 신기한 원리들을 알 수 있지만 사회는 우리나라의 역사도 배우니까 더 흥미롭고 재미있는 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": "물론 다른 과목들도 새로운 내용과 신기한 원리들을 알 수 <문법_맞춤법><문법_조사><문법_높임법>있지만사회는 우리나라에 역사도 배우니까 더흥미롭고 재미있는 것 갔다.</문법_높임법></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 역사에 대해 잘 모르고 사회에 대해서도 잘 몰라서 배우는 게 더 재미있고 흥미로운 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_높임법>내가 역사에 대해 잘 모르고 사회에 대해서도잘 몰라서 배우는게 더 재미있고 흥미로운 것 갔다.</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 제가 미술을 좋아하는 이유는 미술을 할 때면 아무 생각도 안 나고 마음이 편하기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 제가 미술을 좋아하는 이유는 <문법_맞춤법>미술을할</문법_맞춤법> 때면 아무 생각도 않아고 마음이 편하기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "미술은 다른 과목에 비해 머리를 많이 안 쓰기 때문에 뇌도 편안하고 마음도 편안합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미술은 다른 <문법_맞춤법>과목에비해 머리를 많이 안쓰기</문법_맞춤법> 때문에 뇌도 편안하고 마음도 편안합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 색칠하는 것과 내가 표현하고 싶은 것을 그림으로는 표현할 수 있어서 더 재미있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 색칠하는 것과 내가 표현하고 <문법_맞춤법>싶은것을 그림으로는 표현 할</문법_맞춤법> 수 있어서 더 재미있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이러한 이유로 사회와 미술을 좋아합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 이러한 <문법_맞춤법>이유로사회와</문법_맞춤법> 미술을 좋아합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48062",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 362,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 찬성합니다.#@문장구분# 왜냐하면 원래 한 나라인데 갈라진게 얼마나 마음 아픕니까.#@문장구분# 북과, 남으로 갈라질 때 떨어졌을 것입니다.#@문장구분# 그러니 통일을 하면 가족을 만나 기쁜 사람도 있을 것입니다.#@문장구분# 그리고 통일을 하면 민주주의 국가로 할지 사회주의 국가로 할지 고민 될 것입니다.#@문장구분# 그러면 편한 대로 하면 됩니다.#@문장구분# 그리고 어린이들이 많기 때문에 학교도 늘어 날 것입니다.#@문장구분# 친구가 많아지면서 같이 놀 사람도 생겨 더 화기애애할 것입니다.#@문장구분# 그리고 회사에 다니는 사람이 많아져서 대박 나는 회사도 많아지고 못 가본 곳도 갈 수 있습니다.#@문장구분# 여기까지 제 의견입니다.#@문장구분#",
+      "paragraph_len": 501,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.8,
+      18,
+      18.85
+    ],
+    "essay_scoreT_avg": 20.216667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.11",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "063",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 원래 한 나라인데 갈라진 게 얼마나 마음 아픕니까.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 원래 한 나라인데 <문법_맞춤법>갈라진게 </문법_맞춤법>얼마나 마음 아픕니까.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 북과, 남으로 갈라질 때 가족들이 떨어졌을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타> </문법_기타>북과,<문법_기타> </문법_기타>남으로<문법_기타> </문법_기타>갈라질<문법_기타> </문법_기타>때<문법_기타> </문법_기타>떨어졌을<문법_기타> </문법_기타>것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 통일을 하면 민주주의 국가로 할지 사회주의 국가로 할지 고민될 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 통일을 하면 민주주의 국가로 할지 사회주의 국가로 할지 <문법_맞춤법>고민 </문법_맞춤법>될 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 어린이들이 많기 때문에 학교도 늘어날 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 어린이들이 많기 때문에 학교도 <문법_맞춤법>늘어 </문법_맞춤법>날 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66636",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 301,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

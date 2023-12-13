@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 첫번째 계획은 지금 코로나 시대나 코로나가 없을때도 무조건 나갔다 오면 손을 비누로 씻기이다.#@문장구분# 손씻기는 요즘에도 필수이지만 밥 먹기전에 손을 씻고 먹어야한다.#@문장구분# 손을 안씻고 밥을 먹으면 자기 손에있던 새균이 숟가락이나 젓가락에 세균이 달라붙어 우리가 세균을 먹기 때문이다.#@문장구분#\n 둘째 계휙은 하루에 3~4번씩 양치하기이다.#@문장구분# 양치는 우리가 음식을 먹을 때 음식물이 이빨에 섞여 입에서 냄새가나거나 우리 이빨에 충치가 생기면 이가 너무 아프고 또 치과 에서 치료비가 많이 들고 치료 하는데 너무 아프기 때문이다.",
+      "paragraph_len": 364,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.933334,
+      15.6,
+      17.533333
+    ],
+    "essay_scoreT_avg": 18.355555,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 첫 번째 계획은 지금 코로나 시대나 코로나가 없을 때도 무조건 나갔다 오면 손을 비누로 씻기이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 <문법_맞춤법>첫번째 계획은 지금 코로나 시대나 코로나가 없을때도</문법_맞춤법> 무조건 나갔다 오면 손을 비누로 씻기이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손 씻기는 요즘에도 필수이지만 밥 먹기 전에 손을 씻고 먹어야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>손씻기는 요즘에도 필수이지만 밥 먹기전에 손을 씻고 먹어야한</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손을 안 씻고 밥을 먹으면 자기 손에 있던 세균이 숟가락이나 젓가락에 세균이 달라붙어 우리가 세균을 먹기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손을<문법_맞춤법> 안씻고 밥을 먹으면 자기 손에있던 새균이</문법_맞춤법> 숟가락이나 젓가락에 세균이 달라붙어 우리가 세균을 먹기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 둘째 계획은 하루에 3~4번씩 양치하기이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 둘째 <문법_맞춤법>계휙은</문법_맞춤법> 하루에 3~4번씩 양치하기이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 양치는 우리가 음식을 먹을 때 음식물이 이빨에 섞여 입에서 냄새가 나거나 우리 이빨에 충치가 생기면 이가 너무 아프고 또 치과에서 치료비가 많이 들고 치료하는데 너무 아프기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 양치는 우리가 음식을 먹을 때 음식물이 이빨에 섞여 입에서 <문법_맞춤법>냄새가나거나 우리 이빨에 충치가 생기면 이가 너무 아프고 또 치과 에서 치료비가 많이 들고 치료 하는데 너</문법_맞춤법>무 아프기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50956",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 285,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

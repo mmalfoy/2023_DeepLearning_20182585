@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 체육이 가장 좋다.#@문장구분# 학교에서 배우는 과목은 10가지 정도로 아주 다양하고 또 아주 많지만 체육처럼 기존의 틀을 깨부순 과목은 없는 것 같다.#@문장구분# 아기 연주를 하고 노래를 하는 음악?#@문장구분# 음악 과목도 책상에 앉아 이론 수업을 하고 공부하는 것은 다른 과목들과 같다.#@문장구분# 반면에 체육은 교실, 책상이라는 틀 밖으로 나가 빈 공간에서 자유롭게 행동할 수 있다.#@문장구분# 체육 과목은 탁 트여서 상쾌할 공간이 작아지고 단순히 머리로만 하는 것이 아니라 몸까지도 위주로 사용하는 과목이기 때문에 좋아한다.#@문장구분# 또, 체육 시간에 경쟁을 할 때에는 서로의 점수와 상황이 비등비등할 때 느끼는 오묘한 긴장감과 재미가 경기와 과목에 재미를 부가해준다.#@문장구분#",
+      "paragraph_len": 485,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.0476189,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22,
+      23.419048,
+      15.085714
+    ],
+    "essay_scoreT_avg": 20.168253,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 악기 연주를 하고 노래를 하는 음악?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아기</문법_맞춤법> 연주를 하고 노래를 하는 음악?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 체육 과목은 탁 트여서 상쾌할 공간이 작아지고 단순히 머리로만 하는 것이 아니라 몸까지도 위주로 사용하는 과목이기 때문에 좋아한다.",
+      "sentence_corr_txt_styling": " 체육 과목은 탁 트여서 상쾌할 공간이 작아지고 단순히 머리로만 하는 것이 아니라 몸까지도 위주로 사용하는 과목이기 때문에 좋아한다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47950",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 346,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지키는 방법은 무엇이 있을지 알아봅시다.#@문장구분# 위생을 지키는 방법은 아주 여러가지에 방법들이 있습니다.#@문장구분# 그중 첫번째는 손씻기입니다.#@문장구분# 손씻기가 왜 위생을 지키는 방법이냐고 생각하는 사람들이 있기때문에 손씻기가 왜 중요한지 알려드리겠습니다.#@문장구분# 그 이유는 손으로 아주 다양한 물건들을 만지고 집에 들어오기 때문입니다.#@문장구분# 손으로 여러가지에 물건들을 만지는데 그 물건에 무엇이 뭇어있을지 누가 만졌는지 모르고 감기같이 기침을 하는 사람들이 손잡이,물건 등 재채기를하거나 재채기를 손에다 하고 손을 씻지않고 문고리와 물건등을 그냥 만지는 사람들이 있기때문입니다.#@문장구분# 두번째 그 다음위생을 지키는방법은 양치 잘 하기 입니다.#@문장구분# 그 이유는 양치를 잘 하지 않는다면 이빨이 썩고 냄새가 나기 때문입니다.#@문장구분# 이빨이 썩으면 안좋은 점은 맛있는 음식들을 잘 먹지 못 하기 때문입니다.#@문장구분# 먹지 못 하는 이유는 이빨이 아파서입니다.#@문장구분# 냄새가 나면 안좋은점은 다른 사람들에게피해가 되고 다른사람들에 시선이 이상하게 볼거라서입니다.#@문장구분# 저는 하루에 양치를 2~3번 밖에 안하는데 양치를 더 많이 하려고 노력해야 겠습니다.#@문장구분#",
+      "paragraph_len": 786,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      24.447618,
+      27.485714
+    ],
+    "essay_scoreT_avg": 24.088888,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 위생을 지키는 방법은 아주 여러 가지에 방법들이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 위생을 지키는 방법은 아주 <문법_맞춤법>여러가지에 </문법_맞춤법>방법들이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중 첫 번째는 손 씻기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그중 <문법_맞춤법>첫번째는 </문법_맞춤법>손씻기입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손 씻기가 왜 위생을 지키는 방법이냐고 생각하는 사람들이 있기 때문에 손 씻기가 왜 중요한지 알려드리겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>손씻기가</문법_맞춤법> 왜 위생을 지키는 방법이냐고 생각하는 사람들이 있기때문에 <문법_맞춤법>손씻기가</문법_맞춤법> 왜 중요한지 알려드리겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손으로 여러 가지 물건들을 만지는데 그 물건에 무엇이 묻어있을지 누가 만졌는지 모르고 감기같이 기침을 하는 사람들이 손잡이, 물건 등 재채기를 하거나 재채기를 손에다 하고 손을 씻지 않고 문고리와 물건등을 그냥 만지는 사람들이 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손으로 <문법_맞춤법>여러가지에 </문법_맞춤법>물건들을 만지는데 그 물건에 무엇이 뭇어있을지 누가 만졌는지 모르고 감기같이 기침을 하는 사람들이 손잡이,물건 등 재채기를하거나 재채기를 손에다 하고 손을 씻지않고 문고리와 물건등을 그냥 만지는 사람들이 있기때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째 그 다음 위생을 지키는 방법은 양치 잘 하기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째 </문법_맞춤법>그 다음위생을 지키는방법은 양치 잘 하기 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이빨이 썩으면 안 좋은 점이 맛있는 음식들을 잘 먹지 못하기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이빨이 썩으면 <문법_맞춤법>안좋은</문법_맞춤법> 점은 맛있는 음식들을 잘 먹지 못 하기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먹지 못하는 이유는 이빨이 아파서입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먹지 <문법_맞춤법>못 하는</문법_맞춤법> 이유는 이빨이 아파서입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 냄새가 나면 안 좋은 점은 다른 사람들에게 피해가 되고 다른 사람들의 시선이 이상하게 볼 거기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 냄새가 나면 <문법_맞춤법>안좋은점은</문법_맞춤법> 다른 사람들에게피해가 되고 다른사람들에 시선이 이상하게 볼거라서입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 하루에 양치를 2~3번 밖에 안 하는데 양치를 더 많이 하려고 노력해야겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 하루에 양치를 2~3번 밖에 <문법_맞춤법>안하는데</문법_맞춤법> 양치를 더 많이 하려고 노력해야 겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42362",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 547,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지키는 방법은 우리가 지금 코로나 때문에 우리가 마스크를 끼고 다녀서 미세먼지를 차단할수 있지만 청결 하게 지내야 한다.#@문장구분# 먼저 손 을 씻기#@문장구분# 왜냐하면 손을 청결이 해야 손에 세균의 일부를 없앨수 있다.#@문장구분# 손을 아무리 씻어도 세균은 다 날라가진 않지만 일부에 세균은 날아간다. #@문장구분#그러니 손을 많이 자주 씻고 꼼꼼히 잘 씻자#@문장구분# 하루에 한번씩 샤워 하기 #@문장구분#세수 꼼꼼히 하기 #@문장구분#하루 양치 3번!!#@문장구분#손씻기는 30초 동안 뽀득 뽀득 깨끗이#@문장구분# 우리 이 간단한 3가지 꼭 지켜서 건강을 지킵시다!!",
+      "paragraph_len": 446,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      11.933332,
+      16.733334,
+      12.285714
+    ],
+    "essay_scoreT_avg": 13.650794,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.09",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "위생을 지키는 방법은 우리가 지금 코로나 때문에 우리가 마스크를 끼고 다녀서 미세먼지를 차단할 수 있지만 청결하게 지내야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위생을 지키는 방법은 우리가 지금 코로나 때문에 우리가 마스크를 끼고 다녀서 미세먼지를 <문법_맞춤법>차단할수 있지만 청결 하게 </문법_맞춤법>지내야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 손을 씻기",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 <문법_맞춤법>손 을</문법_맞춤법> 씻기",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 손을 청결이 해야 손에 세균의 일부를 없앨 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 손을 청결이 해야 손에 세균의 일부를<문법_맞춤법> 없앨수</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하루에 한 번씩 샤워 하기 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하루에 <문법_맞춤법>한번씩 샤워 하기</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "손 씻기는 30초 동안 뽀득 뽀득 깨끗이",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>손씻기는</문법_맞춤법> 30초 동안 뽀득 뽀득 깨끗이",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51063",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 268,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

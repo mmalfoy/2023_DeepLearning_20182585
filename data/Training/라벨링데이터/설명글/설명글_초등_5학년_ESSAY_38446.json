@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인 위생도 매우 중요합니다. #@문장구분#올바른 개윈위생도 매우 중요합니다. #@문장구분#올바른 식습관에는 야채 많이 먹고 골고루 잘 먹어야합니다. #@문장구분#운동중엔 달리기,걷기,윗몸일으키키 등이 있고, 개인 위생은 우리 몸을 항상 깨끗하게 유지하고 있지 않으면 우리 몸 속에 세균들이 들어와 병에 걸릴 수도 있고, 우리를 아프고 괴롭게 만들 수도 있기 때문입니다.#@문장구분# 저는 손 자주 씻고 운동도 하고 양치질도 잘해서 병이 저를 괴롭히지 않게 하겠습니다. #@문장구분#여러분들도 위생,식습관,운동 등을 자주 하시면 병이 걸리지 않을거에요!#@문장구분#",
+      "paragraph_len": 428,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      16.733334,
+      24
+    ],
+    "essay_scoreT_avg": 19.711111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "올바른 개인 위생도 매우 중요합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "올바른 <문법_맞춤법>개윈위생도</문법_맞춤법> 매우 중요합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "올바른 식습관을 위해 야채를 많이 먹고 골고루 잘 먹어야 합니다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "올바른 식습관<문법_조사>에는</문법_조사> 야채 많이 먹고 골고루 잘 <문법_맞춤법>먹어야합니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "운동에는 달리기, 걷기, 윗몸일으키기 등이 있습니다. 우리 몸을 항상 깨끗하게 유지하고 있지 않으면 우리 몸 속에 세균들이 들어와 병에 걸릴 수도 있고, 우리를 아프고 괴롭게 만들 수도 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기, 맞춤법",
+        "띄어쓰기, 맞춤법",
+        "내용 다르므로 문장 끊기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": "<문법_조사>운동중엔</문법_조사> <문법_맞춤법><문법_기타>달리기,걷기,윗몸일으키키</문법_기타></문법_맞춤법> 등이 <스타일링_어미>있고,</스타일링_어미> 개인 위생은 우리 몸을 항상 깨끗하게 유지하고 있지 않으면 우리 몸 속에 세균들이 들어와 병에 걸릴 수도 <스타일링_어미>있고,</스타일링_어미> 우리를 아프고 괴롭게 만들 수도 있기 때문입니다.",
+      "sentence_corr_txt_styling": "운동에는 달리기, 걷기, 윗몸일으키기 등이 있습니다. 우리 몸을 항상 깨끗하게 유지하고 있지 않으면 우리 몸 속에 세균들이 들어와 병에 걸릴 수도 있고, 우리를 아프고 괴롭게 만들 수도 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 손을 자주 씻고 운동도 하고 양치질도 잘 해서 병이 저를 괴롭히지 않게 하겠습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_조사>손</문법_조사> 자주 씻고 운동도 하고 양치질도 <문법_맞춤법>잘해서</문법_맞춤법> 병이 저를 괴롭히지 않게 하겠습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분들도 위생과 식습관을 철저히 하고, 운동을 자주 하시면 병에 걸리지 않을 것입니다.",
+      "sentence_corr_reason": [
+        "수식 및 호응관계",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": "여러분들도 <스타일링_기타>위생,식습관,운동</스타일링_기타> 등을 자주 하시면 <문법_조사>병이</문법_조사> 걸리지 않을거에요!",
+      "sentence_corr_txt_styling": "여러분들도 위생과 식습관을 철저히 하고, 운동을 자주 하시면 병에 걸리지 않을 것입니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38446",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 308,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

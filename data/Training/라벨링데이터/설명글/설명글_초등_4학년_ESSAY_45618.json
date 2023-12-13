@@ -1,0 +1,203 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 제 이모같은 집을 원합니다.#@문장구분# \n \n제가 어른이 된다면 깔끔(깨끗)하고, 하얀집 에서 살고 싶습니다.#@문장구분#\n \n가구는 하얗거나, 나무 같은 색깔이고, 집에 화분도 몇 개 가지고 싶습니다.#@문장구분# 소파는 회색을 원합니다.#@문장구분#\n \n집의 크기는 크고, 화장실, 방도 길거나 넓은 것을 원합니다.#@문장구분#\n \n복도는 길기를 원합니다.#@문장구분# 이모네 집처럼 에어컨도 천장에 있거나, 하얗게 되어 있으면 좋겠습니다.#@문장구분#\n \n아파트에서 살았으면 좋겠고, 10층 이상으로 살고 싶습니다.#@문장구분#\n \n아파트 근처에는 공원이 있으면 좋겠습니다.#@문장구분#\n \n간단하게 말하자면, 아파트(집)근처에 공원이 있는), 10층 이상의 집에서, 집은 전체적으로 크고, 넓고, 길고, 화분 몇 게 있는 집을 원합니다.#@문장구분#\n \n이상으로 제 글을 마치도록 하겠습니다. #@문장구분#감사합니다.#@문장구분#",
+      "paragraph_len": 628,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.333332,
+      24.4,
+      25.019047
+    ],
+    "essay_scoreT_avg": 22.584127,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는저희 이모네 집과 같은 집을 원합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "저는<문법_맞춤법><문법_기타> 제 이모같은</문법_기타></문법_맞춤법> 집을 원합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n \n제가 어른이 된다면 깔끔(깨끗) 하고, 하얀집에서 살고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n \n제가 어른이 된다면 <문법_맞춤법>깔끔(깨끗)하고, 하얀집 에서</문법_맞춤법> 살고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n \n간단하게 말하자면, 아파트(집) 근처에 공원이 있는, 10층 이상의 집에서, 집은 전체적으로 크고, 넓고, 길고, 화분 몇 개 있는 집을 원합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n \n간단하게 말하자면, <문법_맞춤법>아파트(집)근처에</문법_맞춤법> 공원이 있는), 10층 이상의 집에서, 집은 전체적으로 크고, 넓고, 길고, 화분 몇 게 있는 집을 원합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45618",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 388,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아무리 피부색이 달라도 우리는 다문화를 보호해 주어야 한다. #@문장구분#어머니나 아버지가 외국인일 수 있다. #@문장구분#그런데 그 친구를 비난하면 다문화 가정은 속상 할 수 있다.#@문장구분# 만약 다문화 친구들이 놀리는걸 보면 괴롭히지 말 해야한다.#@문장구분# 다문화 친구한톄 잘 대해 주고 그래야 한다. #@문장구분#그러면 다문화 친구도 나를 잘 대해 줄 것이다.#@문장구분# 다문화 친구를 존중 해야 한다.#@문장구분# 다문화 친구하고 말을 해야 한다. #@문장구분#다문화 가정을 비난하지 말고 소중하게 여기는 마음이 필요하다. #@문장구분#다문화 친구들은 모르는 곳이 많아 어디가려는데 몰라서 물어보면 그냥 어디로가라고 말 하지 말고 같이 가 준다.",
+      "paragraph_len": 487,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.064285,
+      18,
+      16.364286
+    ],
+    "essay_scoreT_avg": 16.142859,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그런데 그 친구를 비난하면 다문화 가정은 속상할 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 그 친구를 비난하면 다문화 가정은 <문법_맞춤법>속상 할 수</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 다문화 친구들이 놀리는 걸 보면 괴롭히지 말라고 말해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 다문화 친구들이 <문법_맞춤법>놀리는걸 보면 괴롭히지 말 해야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 친구한테 잘 대해 주고 그래야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다문화<문법_맞춤법> 친구한톄</문법_맞춤법> 잘 대해 주고 그래야 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 친구를 존중해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다문화 친구를 존<문법_맞춤법>중 해</문법_맞춤법>야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다문화 친구들은 모르는 곳이 많아 어디 가려는데 몰라서 물어보면 그냥 어디로 가라고 말하지 말고 같이 가 준다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다문화 친구들은 모르는 곳이 많아 <문법_맞춤법>어디가려는데 </문법_맞춤법>몰라서 물어보면 그냥 어디로가라고 말 하지 말고 같이 가 준다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50014",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 309,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

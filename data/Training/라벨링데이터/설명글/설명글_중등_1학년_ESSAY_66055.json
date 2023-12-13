@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 만들고 싶은 습관이 있다.#@문장구분# 밤 10시에 자고 아침 7시에 일어나는 습관이다.#@문장구분# 너무 늦지도 이르지도 않은 10시와 7시에 일어나는 사람이 되고싶다.#@문장구분# ",
+      "paragraph_len": 145,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 일찍 일어나는 새가 더 많은 먹이를 먹는다는 말이 있다.#@문장구분# 사람도 마찬가지로 일찍 일어나는 사람이 더 많은 일을 해낼 수 있는 것이다.#@문장구분#",
+      "paragraph_len": 115,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 이 습관을 만들기 위해서 나는 숙제도 빨리빨리 끝내 일찍 자려고도 해 보았고 알람을 맞춰 놓아 일찍 일어나보기도 하였다.#@문장구분# 어느 정도는 감당 가능했지만 얼마 지나지 않아 '이건 안 되겠다'라고 느꼈다.#@문장구분# 일찍 자기엔 저녁 시간의 숙제나 공부 시간이 많이 부족했기 때문이다.#@문장구분# 또 이미 7시 30분에 일어나게 되는 습관이 생겨버려 7시에 일어나는 것에 힘듦을 많이 느꼈따.#@문장구분# 결과적으로는 내가 원하는 습관을 만들지는 못하고 나쁜 습관만 나에게 길들여진 셈이 되어버렸다.#@문장구분# ",
+      "paragraph_len": 359,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 얼마 전의 일이지만 요즘에도 이 습관을 들이기 위해 노력하는 중이다.#@문장구분#",
+      "paragraph_len": 59,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      23.3,
+      25.75,
+      23.4
+    ],
+    "essay_scoreT_avg": 24.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 너무 늦지도 이르지도 않은 10시와 7시에 일어나는 사람이 되고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 너무 늦지도 이르지도 않은 10시와 7시에<문법_맞춤법> 일어나는 사람이 되고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 이미 7시 30분에 일어나게 되는 습관이 생겨버려 7시에 일어나는 것에 힘듦을 많이 느꼈다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 이미 7시 30분에 일어나게 되는 습관이 생겨버려 7시에 일어나는 것에 힘듦을 많이 <문법_맞춤법>느꼈따</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66055",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 465,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

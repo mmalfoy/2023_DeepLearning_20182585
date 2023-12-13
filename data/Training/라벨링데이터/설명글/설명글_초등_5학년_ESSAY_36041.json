@@ -1,0 +1,397 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕 하세요.#@문장구분# 저는 #@이름# 이라고 합니다.#@문장구분# 제가 오늘 한번 쓸 글은 위생을 지키는 방법에 대해서 써보도록 하겠 습니다.#@문장구분# 일단 오늘의 순서는 이렇 습니다. #@문장구분#첫번째는 위생을 왜 지켜야 하는지 그리고 요즘 유행 하는 코로나로 쓰도록 하겠 습니다#@문장구분#. 일단 첫번째는 위생을 와 지켜야 되는지 알아 보겠 습니다.#@문장구분# 일단 위생을 지키는 방법은 간단 합니다#@문장구분#. 아 물론 이건 저의 개인적인 생각입니다. #@문장구분#그리고 위생을 안지키며는 한마디로 하겠 습니다.#@문장구분# 그냥 병원에 가거나 죽습니다. #@문장구분#그런데 이글을 본 어린이 들은 이렇게 생각을 할수도 있습니다.#@문장구분# \"엇 건강이 나빠진다고?#@문장구분#뭔소리야 몸안에가 보이질 않는데\"#@문장구분#라고 생각 할수 있습니다. #@문장구분#아 그리고 저생각 제가 6살때 했던 생각 입니다. #@문장구분#그다음은 코로나를 이겨 낼려면 일단 지금은 필수인 마스크를 쓰고 집에 돌아 오자 마자 바로 화장실로 뛰어가서 손을 씻고 밖을 중요 하지 않다면 나가지 말기 입니다. #@문장구분#이 3개만 잘 지킨다면 코로나는 이겨낼수 있을것 입니다.#@문장구분#",
+      "paragraph_len": 845,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.047619,
+      20,
+      14.285714
+    ],
+    "essay_scoreT_avg": 17.444445,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕하세요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>안녕 하세요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 제가 오늘 한번 <스타일링_패러프레이징>쓸 글은 위생을 지키는 방법에 대해서 써보도록 하겠 습니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 제가 오늘 한번 위생을 지키는 방법에 대해서 써보도록 하겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 오늘의 순서는 이렇습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단 오늘의 순서는 <문법_맞춤법>이렇 습니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>첫번째는 위생을 왜 지켜야 하는지 그리고 요즘 유행 하는 코로나로 쓰도록 하겠 습니다</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "첫 번째는 위생을 왜 지켜야 하는지, 그리고 요즘 유행하는 코로나에 대해 쓰겠습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 첫 번째는 위생을 왜 지켜야 되는지 알아보겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>. 일단 첫번째는 위생을 와 지켜야 되는지 알아 보겠 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 위생을 지키는 방법은 간단합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단 위생을 지키는 방법은 <문법_맞춤법>간단 합니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>. 아 물론 이건 저의 개인적인 생각입니다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": "물론 이건 저의 개인적인 생각입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>그리고 위생을 안지키며는 한마디로 하겠 습니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "위생을 안 지키면, 한마디로 말해서",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 이 글을 본 어린이들은 이렇게 생각을 할 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 <문법_맞춤법>이글을 본 어린이 들은 이렇게 생각을 할수도 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"엇, 건강이 나빠진다고?",
+      "sentence_corr_reason": [
+        "쉼표"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " \"<문법_기타>엇 건강이 나빠진다고?</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "뭔 소리야. 몸 안이 보이질 않는데.\"",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>뭔소리야 몸안에가 보이질 않는데\"</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "라고 생각할 수 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "라고 <문법_맞춤법>생각 할수 있습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_맞춤법><스타일링_패러프레이징>아 그리고 저생각 제가 6살때 했던 생각 입니다.</스타일링_패러프레이징></스타일링_맞춤법> ",
+      "sentence_corr_txt_styling": "제가 여섯 살 때 했던 생각입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_맞춤법><스타일링_패러프레이징>그다음은 코로나를 이겨 낼려면 일단 지금은 필수인 마스크를 쓰고 집에 돌아 오자 마자 바로 화장실로 뛰어가서 손을 씻고 밖을 중요 하지 않다면 나가지 말기 입니다.</스타일링_패러프레이징></스타일링_맞춤법> ",
+      "sentence_corr_txt_styling": "그 다음은 코로나를 이겨내는 방법입니다. 일단 지금은 필수적인 마스크를 쓰고 집에 돌아오자마자 바로 화장실로 뛰어가서 손을 씻고 중요하지 않다면 밖에 나가지 말기입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 세 개만 잘 지킨다면 코로나는 이겨낼 수 있을 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이 <문법_맞춤법>3개만 잘 지킨다면 코로나는 이겨낼수 있을것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36041",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 491,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

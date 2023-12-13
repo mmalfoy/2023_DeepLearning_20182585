@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 본받고 싶은 인물은 가브리엘 샤넬이다.#@문장구분# 그녀는 프랑스에서 1883년에 태어났으며, 'CHANEL' 이라는 회사를 만들었다.#@문장구분# \n 샤넬은 12살이 되던 해,어머니가 병으로 돌아가셨다.#@문장구분# 아버지는 샤넬과 형제들을 고아원에 보냈고, 샤넬은 고아원에서 친구도 사귀지 않고 혼자 지냈다.#@문장구분# 시간이 흘러 스물두 살이 된 샤넬은 직접 옷을 만들어 입었다.#@문장구분# 그 때 여자들은 코르겟이란 속옷을 안에 입었는데 그것을 입으면 제대로 먹지도 앉지도 못했다고 한다.#@문장구분#  또한 샤넬은 스물네 살 때 남자만 입을 수 있던 바지를 만들어 입었다.#@문장구분#\n 샤넬은 색깔도 보통 사람들과 다르게 보았다.#@문장구분# 검은색 천으로 '리틀 블랙'이라는 옷도 제작하고, 디자인 공부를 제대로 한 적이 없는데도 독특한 방식으로 만들었다 한다.#@문장구분#\n 이제까지 샤넬이 한 의류 디자인들을 보면 향수와 장신구, 옷 등을 많이 만들었던 것 같다.#@문장구분#\n 책을 읽으면서 샤넬에 대한 많은 것을 배우고 알게 되었다.#@문장구분# 그렇지만 옷을 만들고 많은 것을 발명하게 된 데에는 자신감과 창의적인 생각이 필요할 것 같다.#@문장구분#\n 나도 앞으로 나만의 창의적인 물건과 자신감을 가지고 나만의 길을 찾고 싶다.#@문장구분#",
+      "paragraph_len": 825,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.75,
+      21.5,
+      24.4
+    ],
+    "essay_scoreT_avg": 24.216667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " \n 샤넬은 12살이 되던 해, 어머니가 병으로 돌아가셨다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 샤넬은 12살이 되던 <문법_맞춤법>해,어머니가</문법_맞춤법> 병으로 돌아가셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 때 여자들은 코르셋이란 속옷을 안에 입었는데 그것을 입으면 제대로 먹지도 앉지도 못했다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 때 여자들은 <문법_맞춤법>코르겟이란 </문법_맞춤법>속옷을 안에 입었는데 그것을 입으면 제대로 먹지도 앉지도 못했다고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "  또한 샤넬은 스물네 살 때 남자만 입을 수 있던 바지를 만들어 입었다.",
+      "sentence_corr_txt_styling": "  또한 샤넬은 스물네 살 때 남자만 입을 수 있던 바지를 만들어 입었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 검은색 천으로 '리틀 블랙'이라는 옷도 제작하고, 디자인 공부를 제대로 한 적이 없는데도 독특한 방식으로 만들었다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 검은색 천으로 '리틀 블랙'이라는 옷도 제작하고, 디자인 공부를 제대로 한 적이 없는데도 독특한 방식으로 <문법_어미>만들었다 </문법_어미>한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그렇지만 옷을 만들고 많은 것을 발명하게 된 데에는 자신감과 창의적인 생각이 필요할 것 같다.",
+      "sentence_corr_txt_styling": " 그렇지만 옷을 만들고 많은 것을 발명하게 된 데에는 자신감과 창의적인 생각이 필요할 것 같다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39903",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 566,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

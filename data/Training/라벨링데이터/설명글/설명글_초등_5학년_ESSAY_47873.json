@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 수학, 과학이 젤 좋다.#@문장구분# 그이유는 수학은 원래 잘해서 재미있다.#@문장구분# 항상 답이 나와 재미있고 친구와 문제를 모를때 알려켜 주는것도 좋다.#@문장구분# 그리고 사회도 좋다.#@문장구분# 사회는 그냥 보는게 좋다.#@문장구분# 한국사도 재밌지만 세계사가 가장 좋다.#@문장구분# 현재 그리스로마 신화와 세계2차대전이 가장 재미케 보고 있다.#@문장구분# 수학은 중1 1학기 3단원 수직선을 하고 있다.#@문장구분# 수학은 머리가 아프지만 꽤 재미있다.#@문장구분# 사회의 세계2차대전을 가족들에게 말해주면 들어줘서 기분이 좋고 수학은 진도가 빨라서 칭찬을 들어서 좋다.#@문장구분# 하지만 모든 과목이 좋다.#@문장구분# 영어 빼고....#@문장구분# 영어는 언젠가 잘해질꺼다.#@문장구분#",
+      "paragraph_len": 568,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      17.866667,
+      14.752381
+    ],
+    "essay_scoreT_avg": 17.650793,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 수학은 원래 잘해서 재미있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는</문법_맞춤법> 수학은 원래 잘해서 재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 항상 답이 나와 재미있고 친구와 문제를 모를 때 알려주는 것도 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 항상 답이 나와 재미있고 친구와 문제를 <문법_맞춤법>모를때 알려켜 주는것도</문법_맞춤법> 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사회는 그냥 보는 게 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사회는 그냥 <문법_맞춤법>보는게</문법_맞춤법> 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 현재 그리스 로마 신화와 세계2차대전을 가장 재미있게 보고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 현재 <문법_맞춤법><문법_조사>그리스로마 신화와 세계2차대전이 가장 재미케 보고 있다.</문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 영어는 언젠가 잘해질꺼다.",
+      "sentence_corr_txt_styling": " 영어는 언젠가 잘해질꺼다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47873",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 308,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

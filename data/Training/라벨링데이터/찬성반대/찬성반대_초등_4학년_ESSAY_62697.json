@@ -1,0 +1,389 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 통일을 반대합니다.#@문장구분# 그 이유는 서로 통일하면 혼란스럽고,전쟁이 나기 때문입니다.#@문장구분# 그리고 북한은 사회주의 국가이고 남한은 민주주의 국가여서 서로 싸우는게 일상이 될수도 있어서 주민들이 당황스러 할수있습니다.#@문장구분# 만약에 반대가 된다면 서로 각각 나라에서 평화롭고 전쟁이 없는 나라에서 살수 있습니다.#@문장구분# 그러니 전 반.대! 합니다.#@문장구분# 그리고 왜 꼭 통일 해야 되나요?#@문장구분# 부조건 통일 하라는 것은 없습니다!#@문장구분# 평화로운 나라를 바꿀건가요?#@문장구분# 맨날 전쟁만 하고 살것인가요?#@문장구분# 전쟁이 나는 이유는 통일 때문 이라고 생각합니다.#@문장구분# 통일이 사라지면 전쟁도 안나고 싸움도 안나고 조용하고 좋은 나라가 만들어질 것 입니다.#@문장구분# 전 그렇게 생각 합니다.#@문장구분# 떨어진 이산가족분들게 미안하지만 전 반대하고,통일을 찬성 안하겠습니다.#@문장구분# 물론 떨어져서 슬프고,우울하고,만나고 싶겠지만 나라를 위해서 라도 통일을 멈춰야겠다는 생각 부터 들었습니다.#@문장구분# 그리고, 앞서 말했듯이 맨날 전쟁이 일어나면 어떨거 같습니까?#@문장구분# 전쟁소리만 듣고도 살수없습니다.#@문장구분# 서로 싸우다가 결국 나라는 사라지게 될것 입니다.#@문장구분# 나라를 지켜야 된다면 통일을 하지 맙시다.#@문장구분# 그래야 좋은나라가 만들어 질테니까요.#@문장구분#",
+      "paragraph_len": 952,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.714287,
+      27,
+      23.55
+    ],
+    "essay_scoreT_avg": 26.421427,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 서로 통일하면 혼란스럽고, 전쟁이 나기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 이유는 서로 통일하면 <문법_맞춤법>혼란스럽고,전쟁이</문법_맞춤법> 나기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 북한은 사회주의 국가이고 남한은 민주주의 국가여서 서로 싸우는 게 일상이 될 수도 있어서 주민들이 당황스러워 할 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 북한은 사회주의 국가이고 남한은 민주주의 국가여서 서로 <문법_맞춤법>싸우는게 일상이 될수도 있어서 주민들이 당황스러 할수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약에 반대가 된다면 서로 각각 나라에서 평화롭고 전쟁이 없는 나라에서 살 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약에 반대가 된다면 서로 각각 나라에서 평화롭고 전쟁이 없는 나라에서 <문법_맞춤법>살수</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 왜 꼭 통일해야 되나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 왜 꼭 <문법_맞춤법>통일 해야</문법_맞춤법> 되나요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 무조건 통일하라는 것은 없습니다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>부조건 통일 하라는</문법_맞춤법> 것은 없습니다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 평화로운 나라를 바꿀 건가요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 평화로운 나라를 <문법_맞춤법>바꿀건가요?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 맨날 전쟁만 하고 살 것인가요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 맨날 전쟁만 하고 <문법_맞춤법>살것인가요?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 통일이 사라지면 전쟁도 안 나고 싸움도 안나고 조용하고 좋은 나라가 만들어질 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 통일이 사라지면 전쟁도 <문법_맞춤법>안나고</문법_맞춤법> 싸움도 <문법_맞춤법>안나고</문법_맞춤법> 조용하고 좋은 나라가 만들어질 것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전 그렇게 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 전 그렇게 <문법_맞춤법>생각 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 떨어진 이산가족 분들께 미안하지만 전 반대하고, 통일을 찬성 안 하겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 떨어진 <문법_맞춤법>이산가족분들게</문법_맞춤법> 미안하지만 전 반대하고,통일을 찬성 안하겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 떨어져서 슬프고, 우울하고, 만나고 싶겠지만 나라를 위해서라도 통일을 멈춰야겠다는 생각부터 들었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 떨어져서<문법_맞춤법> 슬프고,우울하고,만나고</문법_맞춤법> 싶겠지만 나라를 위해서 라도 통일을 멈춰야겠다는 생각 부터 들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고, 앞서 말했듯이 맨날 전쟁이 일어나면 어떨 거 같습니까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고, 앞서 말했듯이 맨날 전쟁이 일어나면 <문법_맞춤법>어떨거</문법_맞춤법> 같습니까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전쟁소리만 듣고도 살 수 없습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 전쟁소리만 듣고도 <문법_맞춤법>살수없습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 서로 싸우다가 결국 나라는 사라지게 될 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 서로 싸우다가 결국 나라는 사라지게 <문법_맞춤법>될것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래야 좋은 나라가 만들어질 테니까요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래야 <문법_맞춤법>좋은나라가 만들어 질테니까요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62697",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 572,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 거울같은 친구가 되고 싶습니다.#@문장구분# 왜냐하면 거울같은 친구란 나 자신과 비슷한 친구입니다.#@문장구분# 나는 어떤 친구가 되고싶으면 친구가 슬퍼할때 위로해주고 친구가 재미있게 놀때 같이 공감해주는 친구가 되고싶습니다.#@문장구분# 예를 들어 친구가 나와같이 유튜브 치킨먹방을 찍을 친구가 계속 친킨만 찍으니까 친구엄마가 그만찍고 얼른 먹으라고 했습니다.#@문장구분# 이런 상황에 내가 \"그래 언른 먹는게 나은것같에\" 또는 \"괜찮아 지금부터 먹으면 되지\"라고말하는게 맞을까요?#@문장구분# 저는 2번\"괜찮아 지금부터 먹으면 되\"라고 말할것입니다.#@문장구분# 그러므로 나는 친구의 거울같은 친구가 되고싶습니다.",
+      "paragraph_len": 426,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.15,
+      22.65,
+      23.6
+    ],
+    "essay_scoreT_avg": 24.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 거울 같은 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>거울같은</문법_맞춤법> 친구가 되고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 거울 같은 친구란 나 자신과 비슷한 친구입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>거울같은</문법_맞춤법> 친구란 나 자신과 비슷한 친구입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 어떤 친구가 되고싶으면 친구가 어떤 친구가 되고 싶으면 친구가 슬놀 때 때 공감해 주는 친구가 되고 싶습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 어떤 친구가 되고싶으면 친구가<문법_맞춤법> 슬퍼할때 위로해주고 친구가 재미있게 놀때 같이 공감해주는</문법_맞춤법> 친구가 되고싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 친구가 나와 같이 유튜브 치킨 먹방을 찍을 친구가 계속 치킨만 찍으니까 친구 엄마가 그만 찍고  얼른 먹으라고 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들어 친구가 <문법_맞춤법>나와같이</문법_맞춤법> 유튜브 치킨먹방을 찍을 친구가 계속 친킨만 찍으니까 친구엄마가 그만찍고 얼른 먹으라고 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 상황에 내가 \"그래 얼른 먹는 게 나은 것 같아\" 또는 \"괜찮아 지금부터 먹으면 되지\"라고 말하는 게 맞을까요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 상황에 내가 \"그래<문법_맞춤법> 언른 먹는게 나은것같에</문법_맞춤법>\" 또는 \"괜찮아 지금부터 먹으면 되지\"라고말하는게 맞을까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 2번\"괜찮아 먹으면 돼\"라고 말할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 2번\"괜찮아 <문법_맞춤법>지금부터 먹으면 되\"라고 말할것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 나는 친구의 거울 같은 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 나는 친구의<문법_맞춤법> 거울같은 친구가 되고싶습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52644",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 307,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

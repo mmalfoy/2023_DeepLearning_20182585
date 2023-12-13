@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "난 SNS는 익명성을 보장해야한다고 생각한다.#@문장구분# 그 이유는 페이스북이나 인스타그램이나 트위터같은걸 보면 익명성을 모두 보장하고 있기 때문이다.#@문장구분#그렇게 인기많고 큰 회사들이 익명성을 유지하는데에는 이유가 있다고 생각한다.#@문장구분# 그리고 많은 사람들이 익명으로 댓글을 다는것에 익숙해 있고 익명으로 댓글을 다는 것이 더 편안하게 느낄거라고 생각한다.#@문장구분# 그러니까 갑자기 익명을 실명으로 바꿔버리면 많은 사람들이 SNS에 댓글을 다는 것을 꺼려 하게 될 것이다. 그럼 SNS를 즐기게 되는 이유가 사라진다.#@문장구분# \n 그리고 익명성을 보장안하면 칭찬도 못할꺼같다.#@문장구분# 나 또한 내가 좋아하는 아이돌들이나 배우 인스타그램이나 페이스북에 들어가 좋은 댓글들을 많이 다는데 내 이름이 거기 다 나와버리면 친구들이 막 놀릴 수 도 있고 그렇기 때문에 나는 익명성이 꼭 보장되어야한다고 생각한다.#@문장구분# 그래야 나같이 부끄러움을 많이 타는 사람들도 자유롭게 댓글들을 달 수 있다고 생각한다.#@문장구분# 그리고 악플들을 삭제버튼을 통해서 모두 지워버리고 좋은 댓글들만 남겨놓으면 댓글들이 깨끗한 게시물이 될꺼같다.#@문장구분#",
+      "paragraph_len": 714,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.777779,
+      25.222221,
+      27.01111
+    ],
+    "essay_scoreT_avg": 24.67037,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "난 SNS는 익명성을 보장해야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "난 SNS는 익명성을 <문법_맞춤법>보장해야한다고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 페이스북이나 인스타그램이나 트위터 같은 걸 보면 익명성을 모두 보장하고 있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 이유는 페이스북이나 인스타그램이나 <문법_맞춤법>트위터같은걸 </문법_맞춤법>보면 익명성을 모두 보장하고 있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇게 인기 많고 큰 회사들이 익명성을 유지하는 데에는 이유가 있다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇게 <문법_맞춤법>인기많고 큰 회사들이 익명성을 유지하는데에는</문법_맞춤법> 이유가 있다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 많은 사람들이 익명으로 댓글을 다는 것에 익숙해 있고 익명으로 댓글을 다는 것이 더 편안하게 느낄 거라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 많은 사람들이 익명으로 댓글을 <문법_맞춤법>다는것에 익숙해 있고 익명으로 댓글을 다는 것이 더 편안하게 느낄거라고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 그리고 익명성을 보장 안 하면 칭찬도 못할 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 그리고 익명성을 <문법_맞춤법>보장안하면 칭찬도 못할꺼같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나 또한 내가 좋아하는 아이돌들이나 배우 인스타그램이나 페이스북에 들어가 좋은 댓글들을 많이 다는데 내 이름이 거기 다 나와버리면 친구들이 막 놀릴 수도 있고 그렇기 때문에 나는 익명성이 꼭 보장되어야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나 또한 내가 좋아하는 아이돌들이나 배우 인스타그램이나 페이스북에 들어가 좋은 댓글들을 많이 다는데 내 이름이 거기 다 나와버리면 친구들이 막 놀릴 <문법_맞춤법>수 도 있고 그렇기 때문에 나는 익명성이 꼭 보장되어야한다고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 악플들을 삭제 버튼을 통해서 모두 지워버리고 좋은 댓글들만 남겨놓으면 댓글들이 깨끗한 게시물이 될 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 악플들을 <문법_맞춤법>삭제버튼을 통해서 모두 지워버리고 좋은 댓글들만 남겨놓으면 댓글들이 깨끗한 게시물이 될꺼같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56368",
+    "essay_prompt": " SNS 서비스는 페이스북과 트위터 등의 폭발적 성장에 따라 관심의 대상으로 부상했습니다.\n\n 하지만, 소통과 여론 조성의 장이 SNS로 옮겨짐에 따라 온라인을 통해 다른 사람을 비판하는 행위 또한 더욱 활발해지고 있습니다. 특히 연예인이나 유명인들이 큰 피해를 받고 있습니다. 특정 인물의 사진이나 개인정보를 도용하는 일도 있습니다.\n\n 한쪽에서는 SNS의 익명성 때문에 이러한 일이 비일비재하게 벌어지고 있다고 주장합니다. 익명성을 없애고 실명제를 도입해야 근본적인 해결을 할 수 있다고 말합니다.\n\n 근거 없는 주장은 아닙니다. 다만 익명성이 보장되기 때문에 자유롭게 소통할 수 있었던 SNS의 장점도 사라지게 될 것입니다.\n\n 여러분은 SNS상의 문제에 대해 어떻게 생각하시나요?\n\n SNS를 시작하는 것 자체가 다른 사람들의 자유로운 의견을 받아들이는 것에 동의한 것이니 피해에 대해서는 본인이 감수해야 한다고 생각하시나요?\n\n 아니면 실명제가 도입을 해야 한다고 생각하시나요?\n\n 혹은 다른 방법이 있다고 생각하시나요?\n\n SNS상의 문제에 대한 본인의 의견을 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 536,
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성"
+  }
+}

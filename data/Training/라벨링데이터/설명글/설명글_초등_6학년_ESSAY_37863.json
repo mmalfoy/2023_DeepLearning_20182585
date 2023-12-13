@@ -1,0 +1,358 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "재가존경하는 위인분은 안중근 의사와 이봉창의사입니다 #@문장구분#왜냐하면 둘다 훌륭한일을 해서입니다#@문장구분# 첫번째 안중근의사 는 중국 하헐빈 역에서 기차를타고 오고있는 이토희로부비를 권총으로 저격 했습니다#@문장구분# 이토히로부비를 죽이고사형을 집행받았지만 마지막으로 치바도 시치에게 남긴 유명한글입니다#@문장구분# 위국헌신군인본분 이글입니다#@문장구분# 2번째는 이봉창의사 입니다#@문장구분# 이봉창 의사는 일본국왕을 죽이려고 수류탄 2개를 들고 일본 국왕이 지나가는 곳에 수류탄을 힘껏던졌습니다#@문장구분# 하지만 일본국왕은 죽지않았습니다#@문장구분# 수류탄에 폭약이 별로있지않아서 100미터거리에서 던질거면 가벼워야하니 폭약을별로넣지못해서 폭발을 하지못했습니다#@문장구분# 하지만 이렇게라도 시도한2분이저는 정말로멋지고 자랑습니다#@문장구분# 대한독립 만세.#@문장구분#",
+      "paragraph_len": 580,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.9,
+      22.4,
+      26.4
+    ],
+    "essay_scoreT_avg": 25.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 존경하는 위인은 안중근 의사와 이봉창 의사입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>재가존경하는 위인분은 안중근 의사와 이봉창의사입니다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "두 분 다 훌륭한 일을 하셨습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_높임법><문법_기타>왜냐하면 둘다 훌륭한일을 해서입니다</문법_기타></문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안중근 의사는 중국 하얼빈 역에서 이토 히로부미를 권총으로 저격했습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>첫번째 안중근의사 는 중국 하헐빈 역에서 기차를타고 오고있는 이토희로부비를 권총으로 저격 했습니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이토 히로부미를 죽인 죄로 사형 집행을 받고, 마지막으로 지바 도시치에게 남긴 유명한 글입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_기타>이토히로부비를 죽이고사형을 집행받았지만 마지막으로 치바도 시치에게 남긴 유명한글입니다</문법_기타></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '위국헌신군인본분'이라는 글입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>위국헌신군인본분 이글입니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음은 이봉창 의사입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>2번째는 이봉창의사 입니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이봉창 의사는 일본 국왕을 죽이려고 수류탄 2개를 들고 숨어있다가, 일본 국왕이 지나갈 때 수류탄을 힘껏 던졌습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 이봉창 의사는 <문법_맞춤법><문법_기타>일본국왕을 죽이려고 수류탄 2개를 들고 일본 국왕이 지나가는 곳에 수류탄을 힘껏던졌습니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 일본 국왕은 죽지 않았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>일본국왕은 죽지않았습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 100미터 거리에서 던지기 위해서는 가벼워야 하니, 폭약을 많이 넣지 못해서 큰 폭발을 일으키지 못했습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>수류탄에 폭약이 별로있지않아서 100미터거리에서 던질거면 가벼워야하니 폭약을별로넣지못해서 폭발을 하지못했습니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 이렇게라도 시도하신 두 분이 정말로 멋지고 존경스럽습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_높임법>하지만 이렇게라도 시도한2분이저는 정말로멋지고 자랑습니다</문법_높임법></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대한독립만세.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>대한독립 만</문법_맞춤법>세.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37863",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 361,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

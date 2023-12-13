@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 주택에서 살거다.#@문장구분# 왜냐면 마음껏 뛰어도되고, 애완동물을 키워도 되서 이다.#@문장구분#\n 그리고 방은 5개이고 1방은 내방, 1방은 친구방#@문장구분#(같이살기로 했다:)#@문장구분#1방은 손님방, 1방은 화장실, 1방은 게임(닌텐도살꺼임), TV보는방이다.#@문장구분#\n내방과친구방사이엔 벽이 뚤려서 화장실이 사이에 있고 거실에는 책장이2개있는데 그책장사이에는 책상이 있는데 오른쪽엔나, 왼쪽엔친구가 앉을것이다.#@문장구분#\n집안에에 색깔은 연한 파스텔색은 회색으로 할거고 포인트는 없이 심플하게 갈거다.#@문장구분# 벽한쪽에는 액자가 있다.#@문장구분#\n 내방에는 벙커침대가 있고 책장과옷장, 수납장이있다.#@문장구분# 손님방은 침대그리고 작은테이블, 의자가 있다.#@문장구분# (친구방은 친구가 알아서하기로ㅎㅎ)#@문장구분#\n 그리고 집에 모양은 2층인데 1층은 주방, 거실, 화장실, 손님방이고, 2층은 내방, 친구방그리고소파를 놀것이다. #@문장구분#집의 지붕색깔은 회색이다.#@문장구분#",
+      "paragraph_len": 681,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.0476189,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      23.419048,
+      17.019047
+    ],
+    "essay_scoreT_avg": 20.257143,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 주택에서 살 거다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 주택에서 <문법_맞춤법>살거다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 마음껏 뛰어도 되고, 애완동물을 키워도 돼서이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐면 마음껏 <문법_맞춤법>뛰어도되고, 애완동물을 키워도 되서 이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "(같이 살기로 했다:)",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "(<문법_맞춤법>같이살기로</문법_맞춤법> 했다:)",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "1방은 손님방, 1방은 화장실, 1방은 게임(닌텐도 살 거임), TV 보는 방이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "1방은 손님방, 1방은 화장실, 1방은 게임(<문법_맞춤법>닌텐도살꺼임</문법_맞춤법>), TV보는방이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n내방과 친구방 사이엔 벽이 뚫려서 화장실이 사이에 있고 거실에는 책장이 2개 있는데 그 책장 사이에는 책상이 있는데 오른쪽엔 나, 왼쪽엔 친구가 앉을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>내방과친구방사이엔 벽이 뚤려서 화장실이 사이에 있고 거실에는 책장이2개있는데 그책장사이에는 책상이 있는데 오른쪽엔나, 왼쪽엔친구가 앉을것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n집안에 색깔은 연한 파스텔색과 회색으로 할 거고 포인트 없이 심플하게 갈 거다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n집<문법_맞춤법>안에에 색깔은 연한 파스텔색은 회색으로 할거고 포인트는 없이 심플하게 갈거다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 벽 한쪽에는 액자가 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>벽한쪽에는</문법_맞춤법> 액자가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 내방에는 벙커 침대가 있고 책장과 옷장, 수납장이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 내방에는 <문법_맞춤법>벙커침대가 </문법_맞춤법>있고 책장과옷장, 수납장이있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손님방은 침대 그리고 작은 테이블, 의자가 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손님방은 <문법_맞춤법>침대그리고 작은테이블</문법_맞춤법>, 의자가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " (친구방은 친구가 알아서 하기로ㅎㅎ)",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " (친구방은 친구가 <문법_맞춤법>알아서하기로</문법_맞춤법>ㅎㅎ)",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 집에 모양은 2층인데 1층은 주방, 거실, 화장실, 손님방이고, 2층은 내방, 친구방 그리고 소파를 놀 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 집에 모양은 2층인데 1층은 주방, 거실, 화장실, 손님방이고, 2층은 내방, <문법_맞춤법>친구방그리고소파를 놀것이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "집의 지붕 색깔은 회색이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "집의 <문법_맞춤법>지붕색깔은 </문법_맞춤법>회색이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50335",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 422,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

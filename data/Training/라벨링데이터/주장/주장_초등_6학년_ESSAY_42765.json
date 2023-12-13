@@ -1,0 +1,377 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에 생각은 학교록력을 하지말자 입니다. #@문장구분#요즘 학교여서 학교폭력을 예방 을 시도 하고 있습니다 #@문장구분#왜야 하면 학교에서 학교폭력 일 하는 % 트 가 증가하고있습니다#@문장구분#\n첫째학교어 CCTV가있쓰면 누가누구를 때렸는지 알수있습니다#@문장구분# 그러면 학교 폭력이 감소되기 때문입니다. #@문장구분#그러면 CCTV를 방안 으로 하면 됍니다#@문장구분#\n둘째 이 재 학교폭력에 대해서 알려드리겠습니다.#@문장구분# 학교폭력 은 집단으로 한명의 학생을 무자비 하게 폭행하고 한명에 학생을 죽음으로 인도하는 것 입니다 #@문장구분#그러면 한한색에 마음 을 아프제 합니다#@문장구분#그레서이제 예방을 어떻게 하면 좋을지 생각을해보면 재일 좋은방안 은 CCTV 가 재일 좋은것같습니다#@문장구분# 왜 냐하면 피해자가 마음이다쳐서 말을하지못할수있기때문에그렇습니다#@문장구분# CCTV은 돌리고 되돌릴수있기 때문입니다#@문장구분# 그럼오늘에 학교폭력을 어떻게 하면 예방할까?을 고민해봤습니다.#@문장구분# 인재 끝내도록하겠습니다#@문장구분#",
+      "paragraph_len": 714,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.666668,
+      27.61111,
+      30
+    ],
+    "essay_scoreT_avg": 27.75926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 생각은 학교 폭력을 하지 말자입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사>나에 생각은 학교록력을 하지말자 입니다.</문법_조사></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요즘 학교에서 학교폭력 예방을 시도하고 있습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "붙여쓰기, 마침표"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘 <문법_조사>학교여서</문법_조사> 학교폭력을 예방 을 <문법_맞춤법>시도 하고 있습니다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 학교에서 학교폭력이 일어나는 퍼센트가 증가하고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어미>왜야 하면 학교에서 학교폭력 일 하는 % 트 가 증가하고있습니다</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n<스타일링_담화 맥락 오류>첫째학교어 CCTV가있쓰면 누가누구를 때렸는지 알수있습니다</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "\n학교폭력을 예방하는 방법 첫째, 학교에 CCTV가 있으면 누가 누구를 때렸는지 알 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "CCTV를 방안으로 하면 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그러면 CCTV를 방안 으로 하면 됍니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n<스타일링_담화 맥락 오류><스타일링_패러프레이징>둘째 이 재 학교폭력에 대해서 알려드리겠습니다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "\n이제 학교폭력에 대해서 알려드리겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교 폭력은 집단으로 한 명의 학생을 무자비하게 폭행하고 한 명의 학생을 죽음으로 인도하는 것입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사>학교폭력 은 집단으로 한명의 학생을 무자비 하게 폭행하고 한명에 학생을 죽음으로 인도하는 것 입니다</문법_조사></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>그러면 한한색에 마음 을 아프제 합니다</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "한 학생의 마음을 아프게 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 이제 예방을 어떻게 하면 좋을지 생각을 해보면, 제일 좋은 방안은 CCTV인 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그레서이제 예방을 어떻게 하면 좋을지 생각을해보면 재일 좋은방안 은 CCTV 가 재일 좋은것같습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 피해자가 마음이 다쳐서 말을 못할 수 있기 때문에 그렇습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>왜 냐하면 피해자가 마음이다쳐서 말을하지못할수있기때문에그렇습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>CCTV은 돌리고 되돌릴수있기 때문입니다</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " CCTV는 되돌려볼 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그럼오늘에 학교폭력을 어떻게 하면 예방할까?을 고민해봤습니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 오늘은 학교 폭력을 어떻게 하면 예방할 수 있을까 고민해봤습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제 끝내도록 하겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>인재</문법_맞춤법> 끝내도록하겠습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42765",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 435,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

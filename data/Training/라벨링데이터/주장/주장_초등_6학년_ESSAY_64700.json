@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에 다니는 친구들이 학교생활과 교우 관계에 잘 적응하며 지낸다면 좋겠지만, 적응 못하고 따돌림이나 폭력을 당하는 일들이 종종 있고 그런 친그들은 학교생활이 안전한 곳이 되지 못한다. #@문장구분#그러나 학교라는 공간 안에서 일어나는 일이라서 다른 친구들이 알아채지 못하는 경우가 더 많다. #@문장구분#그것이 더 큰 문제인것 같다.#@문장구분# 혹시 이시간에도 친구중 누군가가 피해를 당하고 있는지도 모른다.#@문장구분# 각 가정에서는 자신의 아이를 세심하게 살펴보고 많은 대화를 나눌 필요가 있다고 생각한다.#@문장구분# 혹시 달라진점은 없는지, 성격이 갑자기조용해졌다든지, 가끔 다쳐서 들어오는 경우가 있다면 적극적으로 알아보고 전문가의 도움을 받아야 한다. #@문장구분#그러기 위해 전문가를 가정마다 소개해 준다든지, 전문가가 가끔 주기적으로 가정과 자녀를 중심으로 상담해야한다.#@문장구분# 또, 학교폭력 사건이 발생하면, 어떻게 해야하는지 대응법을 교육시킬 필요가 있다.#@문장구분# 최근에는 사이버 폭력이 증가하고 있다고합니다. #@문장구분#점점 폭력이 심해지고 있는 이때, 학교 주변의 제삼자가 유의 깊게 지켜보고 빠르게 대처해주면 좋을 것입니다.",
+      "paragraph_len": 712,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      26.11111,
+      24.622223
+    ],
+    "essay_scoreT_avg": 26.411112,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.10",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교에 다니는 친구들이 학교생활과 교우 관계에 잘 적응하며 지낸다면 좋겠지만, 적응 못하고 따돌림이나 폭력을 당하는 일들이 종종 있고 그런 친구들은 학교생활이 안전한 곳이 되지 못한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교에 다니는 친구들이 학교생활과 교우 관계에 잘 적응하며 지낸다면 좋겠지만, 적응 못하고 따돌림이나 폭력을 당하는 일들이 종종 있고 그런 <문법_맞춤법>친그들은 </문법_맞춤법>학교생활이 안전한 곳이 되지 못한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그것이 더 큰 문제인 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그것이 더 큰 <문법_맞춤법>문제인것 </문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 혹시 이 시간에도 친구 중 누군가가 피해를 당하고 있는지도 모른다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 혹시 <문법_맞춤법>이시간에도 </문법_맞춤법>친구중 누군가가 피해를 당하고 있는지도 모른다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 혹시 달라진 점은 없는지, 성격이 갑자기 조용해졌다든지, 가끔 다쳐서 들어오는 경우가 있다면 적극적으로 알아보고 전문가의 도움을 받아야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 혹시 <문법_맞춤법>달라진점은 </문법_맞춤법>없는지, 성격이 갑자기조용해졌다든지, 가끔 다쳐서 들어오는 경우가 있다면 적극적으로 알아보고 전문가의 도움을 받아야 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러기 위해 전문가를 가정마다 소개해 준다든지, 전문가가 가끔 주기적으로 가정과 자녀를 중심으로 상담해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러기 위해 전문가를 가정마다 소개해 준다든지, 전문가가 가끔 주기적으로 가정과 자녀를 중심으로 <문법_맞춤법>상담해야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또, 학교폭력 사건이 발생하면, 어떻게 해야 하는지 대응법을 교육할 필요가 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또, 학교폭력 사건이 발생하면, 어떻게 <문법_맞춤법>해야하는지 </문법_맞춤법>대응법을 교육시킬 필요가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 최근에는 사이버 폭력이 증가하고 있다고 한다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 최근에는 사이버 폭력이 증가하고 <문법_맞춤법><문법_높임법>있다고합니다</문법_높임법></문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "점점 폭력이 심해지고 있는 이때, 학교 주변의 제삼자가 유의 깊게 지켜보고 빠르게 대처해 주면 좋을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "점점 폭력이 심해지고 있는 이때, 학교 주변의 제삼자가 유의 깊게 지켜보고 빠르게 <문법_맞춤법><문법_높임법>대처해주면 좋을 것입니다</문법_높임법></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64700",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 533,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 마술 배우는 것을 아주 좋아한다. #@문장구분#마술을 배울때 나는 즐겁고 사람들에게 빨리 마술을 보여주고 싶어서 신이난다.#@문장구분# 사람들이 신기하다는 듯 쳐다보면 내가 훌륭한 사람이 된 것 같은 기분이들고 내 자신이 자랑스럽다.#@문장구분# 나는 꿈도 마술사이다.#@문장구분#그렇지만 마술을 보여주면 사기치지 말라고하고, 반대편손을 피라고하고, 가짜인 것 다 안다고하는 사람들이 많다.#@문장구분# 그럴땐 정말 기분이 나쁘다.#@문장구분# 진짜 마법이라고 믿으라고 하는것이 아니고 신기하고 재미있게 보라고 하는 것인데 그래도 마술을 보여주면 참 재미있다.#@문장구분#\n   \n 나는 마술을 배우려고 유튜브를 너무 오래 볼 때가 있다.#@문장구분# 길면 1시간 30분이나 본다. #@문장구분#한번 보면 푹 빠져버리는 것 같다.#@문장구분# 다음부터는 너무 많이 보지 않도록 알람을 맞춘 후 배워야겠다.#@문장구분#",
+      "paragraph_len": 603,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      26.114285,
+      28.333334
+    ],
+    "essay_scoreT_avg": 25.726984,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "마술을 배울 때 나는 즐겁고 사람들에게 빨리 마술을 보여주고 싶어서 신이 난다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "마술을 <문법_맞춤법>배울때</문법_맞춤법> 나는 즐겁고 사람들에게 빨리 마술을 보여주고 싶어서 신이난다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들이 신기하다는 듯 쳐다보면 내가 훌륭한 사람이 된 것 같은 기분이 들고 나 자신이 자랑스럽다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람들이 신기하다는 듯 쳐다보면 내가 훌륭한 사람이 된 것 같은 <문법_맞춤법>기분이들고</문법_맞춤법> 내 자신이 자랑스럽다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇지만 마술을 보여주면 사기 치지 말라고 하고, 반대편 손을 펴라고 하고, 가짜인 것 다 안다고 하는 사람들이 많다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇지만 마술을 보여주면 <문법_맞춤법>사기치지 말라고하고, 반대편손을 피라고하고, 가짜인 것 다 안다고하는 사람들이 많다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럴 땐 정말 기분이 나쁘다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럴땐</문법_맞춤법> 정말 기분이 나쁘다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진짜 마법이라고 믿으라고 하는 것이 아니고 신기하고 재미있게 보라고 하는 것인데 그래도 마술을 보여주면 참 재미있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 진짜 마법이라고 믿으라고 <문법_맞춤법>하는것이</문법_맞춤법> 아니고 신기하고 재미있게 보라고 하는 것인데 그래도 마술을 보여주면 참 재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45604",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 383,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

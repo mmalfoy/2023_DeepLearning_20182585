@@ -1,0 +1,284 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "친구는 단점을 보완해주고 고쳐줄려고 노력하는 게 친구인 것 같다.#@문장구분# 여러 친구가 있지만, 슬플 때는 위로해주고, 기쁜 일이 있을 때는 축하해주는 것도 친구인 것 같다.#@문장구분# 친구는 단순히 인사만 하고 지나가는 것이 친구가 아니라 연락을 주고받고, 놀며 더 돈독해지는 게 친구가 하는 일이라고 생각한다.#@문장구분# 때로는 놀리고 장난치면서 지낼 정도로 친한 친구도 있지만, 그 친구도 자신의 친구가 슬픈 일이있다면 걱정해주며 위로해줄 것이다.#@문장구분# 기쁜 일이 있을 때도 축하를 제일많이 해줄 것이다.#@문장구분# 쉽게 싸우고, 절교까지 하는 친구는 그만큼 친구가 소중하지 않다는 것이라서 그 친구는 진정한 친구가 아니다.#@문장구분# 그래서 나는 진정한 친구는 대하는 행동과 마음을 보면 알 수 있다고 생각한다.#@문장구분# 완전 친한 친구도 속으론 걱정해주는 것처럼 말이다.#@문장구분#",
+      "paragraph_len": 559,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.65,
+      26.15,
+      21.6
+    ],
+    "essay_scoreT_avg": 24.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "친구는 단점을 보완해 주고 고쳐 주려고 노력하는 게 친구인 것 같다.",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다.",
+        "'친구'가 반복됩니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "친구는 단점을 <문법_맞춤법>보완해주고</문법_맞춤법> 고쳐줄려고 노력하는 게 친구인 것 같다.",
+      "sentence_corr_txt_styling": "친구는 단점을 보완해 주고 고쳐 주려고 노력하는 게 친구인 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러 친구가 있지만, 슬플 때는 위로해 주고, 기쁜 일이 있을 때는 축하해 주는 것도 친구인 것 같다.",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여러 친구가 있지만, 슬플 때는 <문법_맞춤법>위로해주고</문법_맞춤법>, 기쁜 일이 있을 때는 축하해주는 것도 친구인 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 친구는 단순히 인사만 하고 지나가는 것이 친구가 아니라 연락을 주고받고, 놀며 더 돈독해지는 게 친구가 하는 일이라고 생각한다.",
+      "sentence_corr_txt_styling": " 친구는 단순히 인사만 하고 지나가는 것이 친구가 아니라 연락을 주고받고, 놀며 더 돈독해지는 게 친구가 하는 일이라고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 때로는 놀리고 장난치면서 지낼 정도로 친한 친구도 있지만, 그 친구도 자신의 친구에게 슬픈 일이 있다면 걱정해 주며 위로해 줄 것이다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "'에게'가 자연스럽습니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 때로는 놀리고 장난치면서 지낼 정도로 친한 친구도 있지만, 그 친구도 자신의 <문법_조사>친구가</문법_조사> 슬픈 <문법_맞춤법>일이있다면</문법_맞춤법> 걱정해주며 위로해줄 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기쁜 일이 있을 때도 축하를 제일 많이 해 줄 것이다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기쁜 일이 있을 때도 축하를 <문법_맞춤법>제일많이</문법_맞춤법> 해줄 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 쉽게 싸우고, 절교까지 하는 친구는 그만큼 친구가 소중하지 않다는 것이라서 그 친구는 진정한 친구가 아니다.",
+      "sentence_corr_txt_styling": " 쉽게 싸우고, 절교까지 하는 친구는 그만큼 친구가 소중하지 않다는 것이라서 그 친구는 진정한 친구가 아니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 진정한 친구는 나를 대하는 행동과 마음을 보면 알 수 있다고 생각한다.",
+      "sentence_corr_reason": [
+        "목적어가 필요합니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그래서 나는 진정한 친구는 <문법_기타>대하는</문법_기타> 행동과 마음을 보면 알 수 있다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 완전 친한 친구도 속으론 걱정해 주는 것처럼 말이다.",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 완전 친한 친구도 속으론 <문법_맞춤법>걱정해주는</문법_맞춤법> 것처럼 말이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38294",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 400,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

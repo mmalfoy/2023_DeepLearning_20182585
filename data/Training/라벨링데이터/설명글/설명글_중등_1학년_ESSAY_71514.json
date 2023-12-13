@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에게 안 좋은 습관이 하나 있었다.#@문장구분# 그건 바로 오늘 할 일을 내일로 미루는 것이다.#@문장구분# 만약에 오늘 안에 끝내야하는 숙제가 있으면 '내일해도 되겠지.', '오늘 안 해도 할 수 있는 날은 많아.'라고 생각하면서 내일로 미룬다.#@문장구분# 그래서 항상 너무 많이 숙제가 쌓여있어서 그냥 안하고 선생님한테 혼난다.#@문장구분# 매일 저렇게 생각하고 숙제를 미뤄서 게을러지기 시작했다.#@문장구분# 계속 누워있고 싶고 놀고 싶었다.#@문장구분# 이것을 느꼈고 고쳐야겠다고 생각했다.#@문장구분# 하지만 고치는 게 쉽지 않았다.#@문장구분# 고치기위해서 내가 처음 해본 것은 계획표를 짜는 것이다.#@문장구분# 숙제할 시간과 놀 시간을 따로 정해두고 계획표를 세웠고 가장 중요한 일에 별표를 쳐서 꼭 하겠다고 표시했다.#@문장구분# 계획표대로 잘 했으면 스스로 선물을 주었다.#@문장구분# 내가 일을 미루지 않고 지킬 때마다 뿌듯했다.#@문장구분#",
+      "paragraph_len": 640,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      20.55,
+      15.75
+    ],
+    "essay_scoreT_avg": 19.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 만약에 오늘 안에 끝내야 하는 숙제가 있으면 '내일 해도 되겠지.', '오늘 안 해도 할 수 있는 날은 많아.'라고 생각하면서 내일로 미룬다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약에 오늘 안에 <문법_맞춤법>끝내야하는 </문법_맞춤법>숙제가 있으면 '내일해도 되겠지.', '오늘 안 해도 할 수 있는 날은 많아.'라고 생각하면서 내일로 미룬다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고치기 위해서 내가 처음 해본 것은 계획표를 짜는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>고치기위해서</문법_맞춤법> 내가 처음 해본 것은 계획표를 짜는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71514",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 400,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

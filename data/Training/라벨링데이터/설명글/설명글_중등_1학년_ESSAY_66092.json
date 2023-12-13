@@ -1,0 +1,250 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "인터넷 '스승'이란 단어를 검색해 보면 스승은 자기를 가르쳐서 인도하는 사람이라고 나온다.#@문장구분# 내 생각도 이 문장과 같다.#@문장구분# 다만, 참된 스승은 나를 가르쳐서 옳은 길로 인도하는 사람이고 그릇된 스승은 나를 가르쳐서 잘못된 잘못된 길로 인도하거나 갈치되, 잘못된 방식으로 가르치는 사람이라고 생각한다.#@문장구분# 그래서 나는 꼭 학교나 학원에서 일하는 사람이 아닐지라도 나를 옳은 길로 이끌어주는 사람이면 누구든지 누군가의 스승이 될 수 있다고 생각한다.#@문장구분#",
+      "paragraph_len": 325,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 내가 생각하는 참된 스승을 한 줄로 요약하자면 '나를 가르쳐서 옳은 길로 인도하는 사람'이다.#@문장구분# 그리고 참된 스승이 되기 위해 꼭 필요한것은 우선 '학생들을 중요하게 생각하는것'이다.#@문장구분# 만약 스승이 돈이나 권력을 중요하게 생각하고 학생은 뒷전이라면 그 사람은 학생을 잘 가르치지 못할 것이고, 옳은 길로 이끌지 못할 것이다.#@문장구분# 다음으로는 '올바른 행동'이다.#@문장구분# 스승은 학생에게 직접 가르치는것 외에도 평소 행동이나 언행등도 학생에게 간접적인 영향을 끼칠 수 있기 때문에 올바르고 정의롭게 행동 하는것도 학생을 옳은 길로 인도하기 위해 필요한 것중 하나이다.#@문장구분# 이렇게 두 가지가 참된 스승이 되기 위해 꼭 필요한 것들 이라고 생각한다.#@문장구분#",
+      "paragraph_len": 470,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      23.85,
+      25.35,
+      26.5
+    ],
+    "essay_scoreT_avg": 25.233332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 다만, 참된 스승은 나를 가르쳐서 옳은 길로 인도하는 사람이고 그릇된 스승은 나를 가르쳐서 잘못된 잘못된 길로 인도하거나 가르치되, 잘못된 방식으로 가르치는 사람이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다만, 참된 스승은 나를 가르쳐서 옳은 길로 인도하는 사람이고 그릇된 스승은 나를 가르쳐서 잘못된 잘못된 길로 인도하거나 <문법_맞춤법>갈치되</문법_맞춤법>, 잘못된 방식으로 가르치는 사람이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 참된 스승이 되기 위해 꼭 필요한 것은 우선 '학생들을 중요하게 생각하는 것'이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 참된 스승이 되기 위해 꼭 <문법_맞춤법>필요한것은</문법_맞춤법> 우선 '학생들을 중요하게 생각하는것'이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승은 학생에게 직접 가르치는 것 외에도 평소 행동이나 언행 등도 학생에게 간접적인 영향을 끼칠 수 있기 때문에 올바르고 정의롭게 행동하는 것도 학생을 옳은 길로 인도하기 위해 필요한 것 중 하나이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스승은 학생에게 직접 <문법_맞춤법>가르치는것</문법_맞춤법> 외에도 평소 행동이나 언행등도 학생에게 간접적인 영향을 끼칠 수 있기 때문에 올바르고 정의롭게 행동 하는것도 학생을 옳은 길로 인도하기 위해 필요한 것중 하나이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 두 가지가 참된 스승이 되기 위해 꼭 필요한 것들이라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 두 가지가 참된 스승이 되기 위해 꼭 필요한 <문법_맞춤법>것들 이라고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66092",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 598,
+    "essay_main_subject": "참된 스승"
+  }
+}

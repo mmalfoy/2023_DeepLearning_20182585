@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "중국에서는 한류(韓流)를 자신들의 문화로 만드려고 하고 있습니다.#@문장구분# 중국의 인력이 많기 때문에 아무리 한류더라도 쪽수로 우기는 경우도 다반사 입니다.#@문장구분# 이 지문은 이에대해 어떻게 생각하는지에 대해 묻고 있습니다.#@문장구분# 중국은 한국의 문화 뿐만 아니라, 자신들이 보기 좋은 문화를 자신들의 문화라고 생각하는 문화를 강탈 하려고 합니다.#@문장구분# 예시로 일본의 닌자와 같이 세계적인 유행, 관심, 영화물의 제작에 성공한 모든 문화를 훔치려고 합니다.#@문장구분# 한때, 중국은 MAVEL(사)의 아이언맨과 같은 영화부터, 예고편을 디즈니(사)의 CAR 이라는 작품으로부터 표절을 한 경우가 있습니다.#@문장구분#이중 디즈니(사)의 CAR, 이라는 작품의 예고편에 대한제작권의 합의금을 받아냈 습니다.#@문장구분# 하지만, 나머지 경우들 같은 경우에는 그저 일방적으로 우겨서 벌 금을 내지 않고, 스리슬쩍 넘어갔 습니다.#@문장구분# 이러한 경우들을 본 결과, 저는 중의 억지주장을 끊을 좋은 방법을 생각 해 냈습니다.#@문장구분# 첫번째, 국내든 해외든 간에 저작권에 대해 엄격하게 규제하여야할것 같습니다.#@문장구분# 이를 통해 우리는 이제 더이상 우기기만 하는것 을 멈추게 하여야할것 같습니다.#@문장구분# 두번째, 세계적으로 중국의 표절과 문화를 훔치는것을 알려야 합니다.#@문장구분# 중국은 앞에 말한것과 같이 어느나라든 간에, 흥행에 성공하면 중국의 표절의 대상이 될수 있음을 내세워 중국의 문화 억지 주장을 막아야 할 것 같습니다.#@문장구분#",
+      "paragraph_len": 943,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.233334,
+      27.61111,
+      22.52222
+    ],
+    "essay_scoreT_avg": 25.122223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2121.12.13",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "한류를 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "중국에서는 한류(韓流)를 자신들의 문화로 만들려고 하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "중국에서는 한류(韓流)를 자신들의 문화로 <문법_맞춤법>만드려고</문법_맞춤법> 하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 중국의 인력이 많기 때문에 아무리 한류더라도 쪽수로 우기는 경우도 다반사입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 중국의 인력이 많기 때문에 아무리 한류더라도 쪽수로 우기는 경우도 <문법_맞춤법>다반사 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 지문은 이에 대해 어떻게 생각하는지에 대해 묻고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 지문은<문법_맞춤법> 이에대해 </문법_맞춤법>어떻게 생각하는지에 대해 묻고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 중국은 한국의 문화뿐만 아니라, 자신들이 보기 좋은 문화를 자신들의 문화라고 생각하는 문화를 강탈하려고 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 중국은 한국의 <문법_맞춤법>문화 뿐만</문법_맞춤법> 아니라, 자신들이 보기 좋은 문화를 자신들의 문화라고 생각하는 문화를 강탈 하려고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한때, 중국은 MAVEL(사)의 아이언맨과 같은 영화부터, 예고편을 디즈니(사)의 CAR이라는 작품으로부터 표절을 한 경우가 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한때, 중국은 MAVEL(사)의 아이언맨과 같은 영화부터, 예고편을 디즈니(사)의 <문법_맞춤법>CAR 이라는</문법_맞춤법> 작품으로부터 표절을 한 경우가 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이중 디즈니(사)의 CAR,이라는  작품의 예고편에 대한 제작권의 합의금을 받아냈습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이중 디즈니(사)의<문법_맞춤법> CAR, 이라는</문법_맞춤법> 작품의 예고편에 대한제작권의 합의금을 받아냈 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만, 나머지 경우들 같은 경우에는 그저 일방적으로 우겨서 벌 금을 내지 않고, 스리슬쩍 넘어갔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만, 나머지 경우들 같은 경우에는 그저 일방적으로 우겨서 벌 금을 내지 않고, 스리슬쩍 <문법_맞춤법>넘어갔 습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 경우들을 본 결과, 저는 중의 억지 주장을 끊을 좋은 방법을 생각해 냈습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러한 경우들을 본 결과, 저는 중의 <문법_맞춤법>억지주장을</문법_맞춤법> 끊을 좋은 방법을 생각 해 냈습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째, 국내든 해외든 간에 저작권에 대해 엄격하게 규제하여야 할 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫번째</문법_맞춤법>, 국내든 해외든 간에 저작권에 대해 엄격하게 규제하여야할것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이를 통해 우리는 이제 더 이상 우기기만 하는 것 을 멈추게 하여야 할 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이를 통해 우리는 이제 <문법_맞춤법>더이상</문법_맞춤법> 우기기만 하는것 을 멈추게 하여야할것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째, 세계적으로 중국의 표절과 문화를 훔치는 것을 알려야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째</문법_맞춤법>, 세계적으로 중국의 표절과 문화를 훔치는것을 알려야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 중국은 앞에 말한 것과 같이 어느 라든 간에, 흥행에 성공하면 중국의 표절의 대상이 될 수 있음을 내세워 중국의 문화 억지 주장을 막아야 할 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 중국은 앞에 <문법_맞춤법>말한것과 </문법_맞춤법>같이 어느나라든 간에, 흥행에 성공하면 중국의 표절의 대상이 될수 있음을 내세워 중국의 문화 억지 주장을 막아야 할 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66043",
+    "essay_prompt": " 한류(韓流)는 한국의 대중문화, 즉 한국에서 제작된 영화, 방송, 음악, 패션 등이 해외에서 인기리에 소비되는 문화적 현상입니다. 넓은 의미로는 의·식·주 등 한국 문화 전체를 말하기도 합니다.\n\n 하지만, 최근 중국은 한류의 문화적 경제적 파급력에 주목하며 동북공정의 일환으로 한복, 김치, 비빔밥, 쌈 문화 등을 중국 소수민족의 문화로 편입시키려 하고 있습니다.\n\n SNS에 한국 사람이 한국적인 것을 올리면 '중국의 전통을 대신 알려줘서 고맙다.'던가 '중국의 전통을 마음대로 한국의 것이라 하지 말아라.'라는 댓글을 달고 있습니다.\n\n 중국 방송에서까지 이를 주제로 다루며 한국의 문화와 전통을 중국의 문화라고 주장하고 있습니다.\n\n 이러한 억지 주장을 우리가 가만히 있으면 중국이 그만둘까요? 우리는 중국의 행동에 어떻게 대처해야 할까요?\n\n UN이나 국제적인 기관에 중국의 억지 주장에 대해 호소할 수도 있고, 인터넷상에서 중국인들과 끊임없이 논쟁할 수도 있습니다.\n\n 여러분은 이러한 현상에 대해 어떻게 생각하며 한국문화로서 한류 열풍을 지켜내기 위한 방안이 어떤 것이 있다고 생각하시나요? 본인의 생각을 작성해주세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 684,
+    "essay_main_subject": "한류를 지키는 방법"
+  }
+}

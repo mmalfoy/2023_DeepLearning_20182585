@@ -1,0 +1,297 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "스승은 누구나 될수도 있다.#@문장구분# 가르칠줄 알고 배우는자를 바르게 인도 할수있다면 참된스승이다.#@문장구분# 한줄로 요약하면 나에게 바른길을 알려주고 가르치는 사람 그것이 참된스승이다.#@문장구분#",
+      "paragraph_len": 153,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 참된 스승이되기 위한 요소두가지는 잘 가르쳐야하고 인성이 좋아야한다.#@문장구분# 스승은 정확이 무라고 칭하기가 어려운것 같다.#@문장구분# 어머니는 저에게 여러가지를 알려주시니 저에게 스승이고 선생님은 여러지식을 알려주니 스승이고 스승이란건 무엇인가 쉬우면서도 어려운것 같다.#@문장구분# 나에게 스승이란 나에게 무었인가를 가르쳐 주는 사람이라 생각된다.#@문장구분# 스승이 되려면 알려줄지식과 제자를 이끌어 주는 사람이라 생각된다.#@문장구분#",
+      "paragraph_len": 316,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      26.15,
+      26.15,
+      23.6
+    ],
+    "essay_scoreT_avg": 25.300001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "스승은 누구나 될 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "스승은 누구나 <문법_맞춤법>될수도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가르칠 줄 알고 배우는 자를 바르게 인도할 수 있다면 참된 스승이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>가르칠줄 알고 배우는자를 바르게 인도 할수있다면 참된스승이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한 줄로 요약하면 나에게 바른길을 알려주고 가르치는 사람 그것이 참된 스승이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>한줄로 요약하면 나에게 바른길을 알려주고 가르치는 사람 그것이 참된스승이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승은 정확히 뭐라고 칭하기가 어려운 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스승은 <문법_맞춤법>정확이 무라고 칭하기가 어려운것 </문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어머니는 저에게 여러 가지를 알려주시니 저에게 스승이고 선생님은 여러 지식을 알려주니 스승이고 스승이란 건 무엇인가 쉬우면서도 어려운 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 어머니는 저에게 <문법_맞춤법>여러가지를 알려주시니 저에게 스승이고 선생님은 여러지식을 알려주니 스승이고 스승이란건 무엇인가 쉬우면서도 어려운것</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": " 어머니는 저에게 여러 가지를 알려주시니 저에게 스승이고 선생님은 여러 지식을 알려주니 스승이고 스승이란 건 무엇인가 쉬우면서도 어려운 것 같다.",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나에게 스승이란 나에게 무엇인가를 가르쳐 주는 사람이라 생각된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나에게 스승이란 나에게 <문법_맞춤법>무었인가를</문법_맞춤법> 가르쳐 주는 사람이라 생각된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승이 되려면 알려줄 지식과 제자를 이끌어 주는 사람이라 생각된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스승이 되려면 <문법_맞춤법>알려줄지식과</문법_맞춤법> 제자를 이끌어 주는 사람이라 생각된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43932",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 311,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "여자와 남자는 생각하는거 먹는거 입는거 다 틀린거 같습니다. #@문장구분#제 남동생만 봐도 저랑 너무 틀립니다. #@문장구분#한 살차이 나는 남동생인데 집에서 먹는 것을 비교 해본다면 제가 좋아하는 음식이랑 남동생이 좋아 하는 음식이 확연이 다릅니다. #@문장구분#또 한가지는 저와 남동생이 한가지의 주제를 가지고 이야기를 해보면 생각 자체가 많이 틀린 것을 자주 느낄수 있었습니다. #@문장구분#이게 신체적인 차이로 생기는게 아닌가 싶은데요#@문장구분#\n 남자와 여자는 힘의 세기만 봐도 남자가 들수 있는 무게와 여자가 들수 있는 무게가 차이가 있듯이 위에 언급된 제시문에 내용이 저는 동감이 됩니다.#@문장구분#저희 집 아빠 엄마만 봐도 어릴 때부터 부모님과 같이 살면서 아빠가 할수 있는일 엄마가 할수 있는 일이 구분되어 항상 엄마는 아빠에게 이거 해줘 저거 해줘 하시고 아빠는 엄마에게 이거해줘! 저거 해줘! 이렇게 하시는걸 보면 일 자체가 구분되어 있는 것 같습니다. #@문장구분#하지만 나이가 들어 성인이 되어 직장을 다닌다면 생물학적 차이로 인해 차이가 발생하는 것은 아닌거 같습니다.#@문장구분# 나의 능력으로 인해 차이가 발생이 되는거지 않을까요?",
+      "paragraph_len": 699,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.6,
+          1.2,
+          1.2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              2
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              1
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.4,
+      16.1,
+      15.200001
+    ],
+    "essay_scoreT_avg": 15.900001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.17",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 6,
+      "org_coherence": 3,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 3,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 3
+    },
+    "essay_main_subject": "생물학적으로 다른 남/여에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 4,
+      "exp_grammar": 2,
+      "exp_vocab": 4,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "여자와 남자는 생각하는 거 먹는 거 입는 거 다 틀린 거 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여자와 남자는<문법_맞춤법> 생각하는거 먹는거 입는거</문법_맞춤법> 다 틀린거 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "한 살 차이 나는 남동생인데 집에서 먹는 것을 비교해 본다면 제가 좋아하는 음식이랑 남동생이 좋아하는 음식이 확연히 다릅니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "한 <문법_맞춤법>살차이 </문법_맞춤법>나는 남동생인데 집에서 먹는 것을 비교 해본다면 제가 좋아하는 음식이랑 남동생이 좋아 하는 음식이 확연이 다릅니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 한 가지는 저와 남동생이 한 가지의 주제를 가지고 이야기를 해보면 생각 자체가 많이 틀린 것을 자주 느낄 수 있었습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 <문법_맞춤법>한가지는 </문법_맞춤법>저와 남동생이 한가지의 주제를 가지고 이야기를 해보면 생각 자체가 많이 틀린 것을 자주 느낄수 있었습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이게 신체적인 차이로 생기는 게 아닌가 싶은데요",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이게 신체적인 차이로 <문법_맞춤법>생기는게 </문법_맞춤법>아닌가 싶은데요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 남자와 여자는 힘의 세기만 봐도 남자가 들 수 있는 무게와 여자가 들 수 있는 무게가 차이가 있듯이 위에 언급된 제시문에 내용이 저는 동감이 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 남자와 여자는 힘의 세기만 봐도 남자가 <문법_맞춤법>들수 </문법_맞춤법>있는 무게와 여자가 <문법_맞춤법>들수 </문법_맞춤법>있는 무게가 차이가 있듯이 위에 언급된 제시문에 내용이 저는 동감이 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저희 집 아빠 엄마만 봐도 어릴 때부터 부모님과 같이 살면서 아빠가 할 수 있는 일 엄마가 할 수 있는 일이 구분되어 항상 엄마는 아빠에게 이거 해줘 저거 해줘 하시고 아빠는 엄마에게 이거 해줘! 저거 해줘! 이렇게 하시는 걸 보면 일 자체가 구분되어 있는 것 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저희 집 아빠 엄마만 봐도 어릴 때부터 부모님과 같이 살면서 아빠가 <문법_맞춤법>할수 있는일 엄마가 할수 있는 일이</문법_맞춤법> 구분되어 항상 엄마는 아빠에게 이거 해줘 저거 해줘 하시고 아빠는 엄마에게 이거해줘! 저거 해줘! 이렇게 하시는걸 보면 일 자체가 구분되어 있는 것 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 나이가 들어 성인이 되어 직장을 다닌다면 생물학적 차이로 인해 차이가 발생하는 것은 아닌 거 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 나이가 들어 성인이 되어 직장을 다닌다면 생물학적 차이로 인해 차이가 발생하는 것은 <문법_맞춤법>아닌거 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나의 능력으로 인해 차이가 발생이 되는 거지 않을까요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나의 능력으로 인해 차이가 발생이 <문법_맞춤법>되는거지 </문법_맞춤법>않을까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_65122",
+    "essay_prompt": " 미국 필라델피아대학교 의과대 라지니 버마 교수가 이끈 연구팀은 8~22살 사이의 나이를 가진 949명(남 428, 여 521)의 뇌 연결망 구조를 분석해보니 남녀 간에 뚜렷한 차이가 나타났다고 보고했습니다.\n\n 즉, 여러 사람의 뇌 구조를 비교해보니 여성과 남성의 뇌 구조가 확실한 차이를 나타낸다는 연구 결과였습니다. 연구팀은 이런 뇌 연결망 구조의 차이는 남녀의 사고방식과 행동 차이를 다시 확인해주는 것이라고 말했습니다.\n\n 이처럼 여성과 남성은 신체적으로 다른 부분이 분명히 존재합니다. 사회적으로 차별을 두는 것은 매우 안 좋은 현상이지만 신체적으로 각자에게 더 알맞은 일이나 효율성을 극대화 할 수 있는 일이 존재할 것입니다.\n\n 하지만, 요즘처럼 여성과 남성의 사회적 차별에 민감한 시기에 이러한 생물학적 차이에 의해 생긴 일자리의 남/여 비율이나 옷의 스타일, 헤어 스타일 등도 비판하는 단체들이 있습니다. 생물학적 차이 때문에 자연스럽게 남성과 여성의 잘 할 수 있는 분야나 스타일, 미적 기준 같은 것이 생긴 것이 아니라 사회적인 편견이 만들어낸 부산물이라고 주장합니다.\n\n 수많은 사람들의 의견이 다르기 때문에 어떤 것이 옳은 주장이라고 할 수는 없습니다. 사회적 이유일 수도 있고 생물학적 이유일 수도 있지요.\n\n 여러분들은 생물학적인 차이 때문에 남성과 여성이 잘 해낼 수 있는 일이 다르고 미적 관점이 다르다는 것에 대해 어떻게 생각하시나요? 당연하다고 생각하나요? 아니면 사회가 만들어낸 차별이라고 생각하시나요? 본인의 의견을 작성하고 그 이유에 대해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 541,
+    "essay_main_subject": "생물학적으로 다른 남/여에 대한 본인의 생각 작성"
+  }
+}

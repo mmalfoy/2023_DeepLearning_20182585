@@ -1,0 +1,342 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 사회에서 선행을 했던적 이 있습 니다.#@문장구분# 뭐냐면 쓰레기 떨어트린 할머니 도와주기? 이런 것 들을 한적이 있다.#@문장구분# 그런데 요새는 코로나 때문에 나의 선행하는 방법이 없다.#@문장구분# 하지만 어제 놀면서 집에 갈때 엄마 아빠 가게 일을 도와서 같이 청소해 주었다.#@문장구분# 도와줘서 뿌듯 했지만 11시 30분 까지 도와줘서 너무 너무 힘들다.#@문장구분# 또 나의 선행은 있긴 하다.#@문장구분# 하지만 그 선행은 지키지 못하고 있다.#@문장구분# 왜냐하면 공부, 엄마일 도와주기 등 때문에 지키지 못했다.#@문장구분# 엇그저께 1개 지켰다.#@문장구분# 그런데 지킬 때 살짝 난감 했다.#@문장구분# 무슨 선행을 했냐면 조금 진흙?에 리어카?가 껴서 도와줬는데 심하게 껴서 난감 했다.#@문장구분# 도와 주는데 10분 정도 걸려서 힘들 었다.#@문장구분# 또 1개 남아 있다.#@문장구분# 뭐냐면 집을 치웠고 그때 당시 에는 빨래, 청소기 돌리기, 내방 치우기 등등 많은 청소를 했다.#@문장구분# 근데 엄마 아빠가 그때 잘했다고 용돈을 주었다.#@문장구분# 그래서 기분이 너무 너무 좋아서 폴짝 폴짝 뛰었다.#@문장구분# 기분좋다.#@문장구분#",
+      "paragraph_len": 823,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.8,
+      27.2,
+      23.64762
+    ],
+    "essay_scoreT_avg": 24.549208,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 사회에서 선행을 했던 적이 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>나의 사회에서 선행을 했던적 이 있습 니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뭐냐하면 쓰레기 떨어트린 할머니 도와주기? 이런 것들을 한 적이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>뭐냐면 쓰레기 떨어트린 할머니 도와주기? 이런 것 들을 한적이 있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 어제 놀면서 집에 갈 때 엄마 아빠 가게 일을 도와서 같이 청소해 주었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 어제 놀면서 집에 <문법_맞춤법>갈때</문법_맞춤법> 엄마 아빠 가게 일을 도와서 같이 청소해 주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 도와줘서 뿌듯했지만 11시 30분까지 도와줘서 너무너무 힘들다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 도와줘서 <문법_맞춤법>뿌듯 했지만 11시 30분 까지 도와줘서 너무 너무 힘들다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엊그저께 1개 지켰다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>엇그저께</문법_맞춤법> 1개 지켰다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 지킬 때 살짝 난감했다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 지킬 때 살짝<문법_맞춤법> 난감 했다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 무슨 선행을 했냐면 질은 땅에 리어카?가 껴서 도와줬는데 심하게 껴서 난감했다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요",
+        "맥락으로 말미암아 질은땅에란 표현이 더 적합하여 교정",
+        "맥락으로 말미암아 질은땅에란 표현이 더 적합하여 교정"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 무슨 선행을 했냐면 <문법_기타><문법_담화 맥락 오류>조금 진흙?에</문법_담화 맥락 오류></문법_기타> 리어카?가 껴서 도와줬는데 심하게 껴서 <문법_맞춤법>난감 했다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 도와주는데 10분 정도 걸려서 힘들었다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>도와 주는데 10분 정도 걸려서 힘들 었다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뭐냐면 집을 치웠고 그때 당시에는 빨래, 청소기 돌리기, 내방 치우기 등등 많은 청소를 했다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 뭐냐면 집을 치웠고 그때 <문법_맞춤법>당시 에는</문법_맞춤법> 빨래, 청소기 돌리기, 내방 치우기 등등 많은 청소를 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 기분이 너무너무 좋아서 폴짝폴짝 뛰었다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 기분이 <문법_맞춤법>너무 너무 좋아서 폴짝 폴짝</문법_맞춤법> 뛰었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기분 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>기분좋다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33416",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 483,
+    "essay_main_subject": "나의 선행"
+  }
+}

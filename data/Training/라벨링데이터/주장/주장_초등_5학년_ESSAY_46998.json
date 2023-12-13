@@ -1,0 +1,332 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "다문화는 똑같이 봐야하는거 같다#@문장구분# 다문화를가지고 편견과 차별을 하면 안됀다 #@문장구분#왜냐면 다문화는 단지 외국의 DNA가 살짝 들어가 있는거 뿐이다 #@문장구분#예를들어 흑인을 흑인이라고 무시하고 차별하고 편견하는 것 은 나쁜짓인 것 처럼 다문화도 존중하고 이해하고 차별하지 않는게 중요하다 #@문장구분#또 무었보다 중요한건 배려의 눈 즉 사람들의 시선이다 생김새가 다르다고 배려의 눈 이해의눈으로 쳐다보면 오히려 그게더 그사람을 힘들게 하는것이다#@문장구분# 우리는 동정심으로 배려하는 마음으로 봤지만 그사람에게는 \"쟨 우리랑 다르니까 더 배려하고 더주의를 줘야지\" 라고 생각하기 때문이다#@문장구분# 그레서 중요한 포인트는 똑같이 보는거다 #@문장구분#똑같이 대하고 똑같이 생활하는게 그사람을 올바르게 대하는것이다#@문장구분#단지 생김새 목소리 신체등등이 우리와다르다고 동정심울린 눈빛으로 봐라보면 더 안됀다는 것이다.",
+      "paragraph_len": 572,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.9523811,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      27.085712,
+      16.035713
+    ],
+    "essay_scoreT_avg": 21.840475,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "다문화는 똑같이 봐야하는 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "다문화는 똑같이 <문법_맞춤법>봐야하는거</문법_맞춤법> <문법_기타>같다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화를 가지고 편견과 차별을 하면 안 된다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>다문화를가지고</문법_맞춤법> 편견과 차별을 하면 <문법_기타>안됀다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐면 다문화는 단지 외국의 DNA가 살짝 들어가 있는 것 뿐이기 때문이다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "왜냐면 다문화는 단지 외국의 DNA가 살짝 들어가 <문법_맞춤법>있는거</문법_맞춤법> <문법_어미><문법_기타>뿐이다</문법_기타></문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예를들어 흑인을 흑인이라고 무시하고 차별하고 편견하는 것은 나쁜 짓인 것처럼 다문화도 존중하고 이해하고 차별하지 않는 게 중요하다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "예를들어 흑인을 흑인이라고 무시하고 차별하고 편견하는 <문법_맞춤법>것 은</문법_맞춤법> 나쁜짓인 것 처럼 다문화도 존중하고 이해하고 차별하지 않는게 <문법_기타>중요하다</문법_기타> ",
+      "sentence_corr_txt_styling": "예를들어 흑인을 흑인이라고 무시하고 차별하고 편견하는 것은 나쁜 짓인 것처럼 다문화도 존중하고 이해하고 차별하지 않는 게 중요하다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 무엇보다 중요한건 배려의 눈, 즉 사람들의 시선이다. 생김새가 다르다고 배려의 눈, 이해의 눈으로 쳐다보면 오히려 그게 더 그 사람을 힘들게 하는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "또 <문법_맞춤법>무었보다</문법_맞춤법> 중요한건 배려의 <문법_기타>눈</문법_기타> 즉 사람들의 시선이다 생김새가 다르다고 배려의 <문법_기타>눈</문법_기타> 이해의<문법_기타>눈</문법_기타>으로 쳐다보면 오히려 그게더 그사람을 힘들게 하는것이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 동정심으로, 배려하는 마음으로 봤지만 그 사람에게는 '쟨 우리랑 다르니까 더 배려하고 더 주의를 줘야지'라고 생각하기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 우리는 <문법_기타>동정심으로</문법_기타> 배려하는 마음으로 봤지만 <문법_맞춤법>그사람에게는</문법_맞춤법> \"쟨 우리랑 다르니까 더 배려하고 더주의를 줘야지\" 라고 생각하기 때문이다",
+      "sentence_corr_txt_styling": " 우리는 동정심으로, 배려하는 마음으로 봤지만 그 사람에게는 '쟨 우리랑 다르니까 더 배려하고 더 주의를 줘야지'라고 생각하기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 중요한 포인트는 똑같이 보는 것이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>그레서</문법_맞춤법> 중요한 포인트는 똑같이 <문법_기타>보는거다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "똑같이 대하고 똑같이 생활하는 게 그 사람을 올바르게 대하는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "똑같이 대하고 똑같이 <문법_맞춤법>생활하는게</문법_맞춤법> 그사람을 올바르게 <문법_기타>대하는것이다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "단지 생김새, 목소리, 신체가 우리와 다르다고 동정어린 눈빛으로 바라보면 더 안 된다는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "단지 <문법_기타>생김새</문법_기타> 목소리 <문법_조사>신체등등이</문법_조사> <문법_맞춤법>우리와다르다고</문법_맞춤법> 동정심울린 눈빛으로 봐라보면 더 안됀다는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46998",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 413,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

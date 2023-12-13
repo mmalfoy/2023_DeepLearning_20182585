@@ -1,0 +1,368 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘에 모든면에서 학교폭력이 발생을 하고있다.#@문장구분# 폭력을 당한 피해자는 가슴에 화살이 꽂힐것이다.#@문장구분# 항상 우울하고 피가 거꾸로 쏠리고 매우 고통스러울것같다.#@문장구분# 정말 인생을 포기하고 싶고 하루하루가 괴로울것이다.#@문장구분#\n사이버학폭, 집단폭력, 뒷담화, 은따 등등 많은 학교폭력이 발생을 하고 있는데 이 사람의 목숨을 없애려고하는 이 학폭을 예방하기 위해서 어떤행동을 하는지에대한 나의의견은 첫번째로 캠페인 참여하기이다.#@문장구분# 도화지에 학교폭력은 악이라는것이나 또는 학교폭력 예방 펫말을 쓰고 그림을 그리고 복도나 학생들이 많은곳에서 열심히 참여하는것이다. #@문장구분#이 활동을 하면 피해자의 아픔과 학교폭력이 목숨에 대해 얼마나 큰 영향을 주는지 깨달을수 있을것같다. #@문장구분#두번째로 반에서 반규칙을 만드는것이다.#@문장구분# 학교폭력 가해자는 엄격한 벌을 받을수 있지만 반에서 학교폭력을 하지말자는 규칙을 만든다면 학생들이 그나마 학교폭력을 하지않을것같다. #@문장구분#그리고 내가 학교폭력 피해자인 상황이라면 선생님 또는 부모님께 바로 말을 해야하면 더 학교폭력을 예방할수있다.#@문장구분#\n계속 숨기다간 더 속상하고 안좋은 일이 일어날 확률이 매우 높다.#@문장구분#\n앞으로 계속해서 학교폭력은 없어야한다.#@문장구분#",
+      "paragraph_len": 812,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      22.233334,
+      21.5
+    ],
+    "essay_scoreT_avg": 21.244444,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "요즘에 모든 면에서 학교폭력이 발생하고 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "요즘에 <문법_맞춤법>모든면에서</문법_맞춤법> 학교폭력이 <문법_조사>발생을 하고있다.</문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 폭력을 당한 피해자는 가슴에 화살이 꽂힐 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 폭력을 당한 피해자는 가슴에 화살이 <문법_맞춤법>꽂힐것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 항상 우울하고 피가 거꾸로 쏠리고 매우 고통스러울 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 항상 우울하고 피가 거꾸로 쏠리고 매우 <문법_맞춤법>고통스러울것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 인생을 포기하고 싶고 하루하루가 괴로울 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정말 인생을 포기하고 싶고 하루하루가 <문법_맞춤법>괴로울것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n사이버 폭력, 집단 폭력, 뒷담화, 은따 등등 많은 학교폭력이 발생하고 있는데 사람의 목숨을 없애려고 하는 이 학교폭력을 예방하기 위해서 어떤 행동을 해야 할까? 나의 의견은 첫 번째로 캠페인 참여하기이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>사이버학폭</문법_맞춤법>, 집단폭력, 뒷담화, 은따 등등 많은 학교폭력이 <문법_조사>발생을 하고</문법_조사> 있는데 <스타일링_담화 맥락 오류>이 사람의</스타일링_담화 맥락 오류> 목숨을 없애려고하는 이 학폭을 예방하기 위해서 어떤행동을 하는지에대한 나의의견은 첫번째로 캠페인 참여하기이다.",
+      "sentence_corr_txt_styling": "\n사이버 폭력, 집단 폭력, 뒷담화, 은따 등등 많은 학교폭력이 발생하고 있는데 사람의 목숨을 없애려고 하는 이 학교폭력을 예방하기 위해서 어떤 행동을 해야 할까? 나의 의견은 첫 번째로 캠페인 참여하기이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 도화지에 학교폭력은 악이라는 것이나 또는 학교폭력 예방 팻말을 만들거나 그림을 그리는 등 복도나 학생들이 많은 곳에서 열심히 참여하는 것이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 도화지에 학교폭력은 <문법_맞춤법>악이라는것이나</문법_맞춤법> 또는 학교폭력 예방 펫말을 쓰고 <스타일링_담화 맥락 오류>그림을 그리고</스타일링_담화 맥락 오류> 복도나 학생들이 많은곳에서 열심히 참여하는것이다. ",
+      "sentence_corr_txt_styling": " 도화지에 학교폭력은 악이라는 것이나 또는 학교폭력 예방 팻말을 만들거나 그림을 그리는 등 복도나 학생들이 많은 곳에서 열심히 참여하는 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 활동을 하면 피해자의 아픔과 학교폭력이 목숨에 대해 얼마나 큰 영향을 주는지 깨달을수 있을 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이 활동을 하면 피해자의 아픔과 학교폭력이 목숨에 대해 얼마나 큰 영향을 주는지 깨달을수 <문법_맞춤법>있을것같다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "두 번째로 반에서 반 내부의 규칙을 만드는 것이 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사>두번째로</문법_조사></문법_맞춤법> 반에서 반규칙을 <스타일링_담화 맥락 오류>만드는것이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "두 번째로 반에서 반 내부의 규칙을 만드는 것이 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력 가해자는 엄격한 벌을 받을 수 있지만 그것 말고도 반에서 학교폭력을 하지 말자는 규칙을 만든다면 학생들이 그나마 학교폭력을 하지 않을 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 학교폭력 가해자는 엄격한 벌을 <문법_맞춤법>받을수</문법_맞춤법> 있지만<스타일링_담화 맥락 오류> 반에서</스타일링_담화 맥락 오류> 학교폭력을 하지말자는 규칙을 만든다면 학생들이 그나마 학교폭력을 하지않을것같다. ",
+      "sentence_corr_txt_styling": " 학교폭력 가해자는 엄격한 벌을 받을 수 있지만 그것 말고도 반에서 학교폭력을 하지 말자는 규칙을 만든다면 학생들이 그나마 학교폭력을 하지 않을 것 같다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 내가 학교폭력 피해자인 상황이라면 선생님 또는 부모님께 바로 말을 해야 한다. 그러면 더 심각한 학교폭력을 예방할 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그리고 내가 학교폭력 피해자인 상황이라면 선생님 또는 부모님께 바로 말을 <문법_맞춤법><문법_어미>해야하면</문법_어미></문법_맞춤법> <스타일링_담화 맥락 오류>더 학교폭력을 예방할수있다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "그리고 내가 학교폭력 피해자인 상황이라면 선생님 또는 부모님께 바로 말을 해야 한다. 그러면 더 심각한 학교폭력을 예방할 수 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n계속 숨기다간 더 속상하고 안 좋은 일이 일어날 확률이 매우 높다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n계속 숨기다간 더 속상하고 <문법_맞춤법>안좋은</문법_맞춤법> 일이 일어날 확률이 매우 높다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n앞으로 계속해서 학교폭력은 없어져야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n앞으로 계속해서 학교폭력은 <문법_맞춤법>없어야한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35252",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 572,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

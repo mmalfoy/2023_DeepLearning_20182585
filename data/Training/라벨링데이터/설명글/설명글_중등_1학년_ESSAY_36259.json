@@ -1,0 +1,300 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 스승은 나에게 도움을 주는 사람이다.#@문장구분# 내가 스승이라고 생각하는 사람은 공부방 선생님이다.#@문장구분# 왜냐하면 내가 공부방에 다닐때 선생님께서 내가 어려워 하는걸 친절하고 알아듣기 쉽게 설명해주셨다.#@문장구분# 선생님께서 수학대회를 추천해주셔서 공부방 친구들 몇명이랑 같이 갔는데 상을 받았다.#@문장구분# 높은 상은 아니었지만 기분이 좋고 뿌듯했다.#@문장구분# 선생님 덕분에 수학대회도 나가보고 상도 탔기때문이다.#@문장구분# 나는 공부방 선생님을 내 스승이라 생각한다.#@문장구분# 선생님이 내가 모르는것을 친절하고 쉽게 알려주지 않았으면 나는 지금 수학을 아예 몰랐을것이기 때문이다.#@문장구분# 그때부터 수학을 쉽고 천천히 배워왔기 때문에 지금 수학을 할수있는것이 아닐까 라고 생각한다.#@문장구분# 공부방에서 배운것이 도움이 많이 되고 머릿속에도 기억에 남기 때문이다.#@문장구분# 하지만 지금은 이사도오고 학원도 옮겨서 공부방 선생님을 뵐순없지만 만약 그 공부방을 또 간다면 초등학생 때보다 열심히 할것이다.#@문장구분# 내가 생각하는 나의 스승은 선생님이기 때문에 더 열심히 하고 싶은 마음이 많다.#@문장구분# 스승인 공부방 선생님이 알려주신 것을 절대 까먹지않고 기억할것이다.#@문장구분# 마지막으로 내가 생각하는 스승은 나에게 도움을 주는 사람이다.#@문장구분#",
+      "paragraph_len": 859,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      28.15,
+      16.25
+    ],
+    "essay_scoreT_avg": 21.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 내가 공부방에 다닐 때 선생님께서 내가 어려워하는 걸 친절하고 알아듣기 쉽게 설명해주셨다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 내가 공부방에 <문법_맞춤법>다닐때</문법_맞춤법> 선생님께서 내가 어려워 하는걸 친절하고 알아듣기 쉽게 설명해주셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님께서 수학대회를 추천해 주셔서 공부방 친구들 몇 명이랑 같이 나갔는데 상을 받았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선생님께서 수학대회를 <문법_맞춤법>추천해주셔서 </문법_맞춤법>공부방 친구들 몇명이랑 같이 갔는데 상을 받았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님 덕분에 수학대회도 나가보고 상도 탔기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선생님 덕분에 수학대회도 나가보고 상도 <문법_맞춤법>탔기때문이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님이 내가 모르는 것을 친절하고 쉽게 알려주지 않았으면 나는 지금 수학을 아예 몰랐을 것이기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선생님이 내가 <문법_맞춤법>모르는것을</문법_맞춤법> 친절하고 쉽게 알려주지 않았으면 나는 지금 수학을 아예 몰랐을것이기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때부터 수학을 쉽고 천천히 배워왔기 때문에 지금 수학을 할 수 있는 것이 아닐까 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때부터 수학을 쉽고 천천히 배워왔기 때문에 지금 수학을 <문법_맞춤법>할수있는것이 아닐까 라고 생각한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공부방에서 배운 것이 도움이 많이 되고 머릿속에도 기억에 남기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 공부방에서 <문법_맞춤법>배운것이</문법_맞춤법> 도움이 많이 되고 머릿속에도 기억에 남기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 지금은 이사를 오면서  학원도 옮겨서 공부방 선생님을 뵐 순 없지만 만약 그 공부방을 또 간다면 초등학생 때보다 열심히 할 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 지금은 <문법_조사><문법_어미>이사도오고</문법_어미></문법_조사> 학원도 옮겨서 공부방 선생님을 <문법_맞춤법>뵐순없지만 </문법_맞춤법>만약 그 공부방을 또 간다면 초등학생 때보다 열심히 할것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 내가 생각하는 나의 스승은 선생님이기 때문에 더 열심히 하고 싶은 마음이 많다.",
+      "sentence_corr_txt_styling": " 내가 생각하는 나의 스승은 선생님이기 때문에 더 열심히 하고 싶은 마음이 많다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승인 공부방 선생님이 알려주신 것을 절대 까먹지 않고 기억할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스승인 공부방 선생님이 알려주신 것을 절대 <문법_맞춤법>까먹지않고 기억할것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36259",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 579,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 평소에 즐겨하는 취미활동이 4가지가 있습니다.#@문장구분#먼저 저의 첫 번째 취미활동은 춤추기 입니다.#@문장구분# 저는 평소 컴퓨터를 이용해 독학으로 춤을 익힙니다#@문장구분#.열심히 연습해 춤을 다 외울때가 정말로 뿌듯합니다.#@문장구분#그리고 제 주변 친구들도 저처럼 춤을 좋아하는 편이라 같이 만나서 추면 더욱 재밌어서 저는 이 취미활동을 제일 좋아합니다.#@문장구분#저의두 번째 취미활동은 롱보드 타기 입니다.#@문장구분#요즘 저는 롱보드를 자주 탑니다.#@문장구분#롱보드를 타면 너무 재밌고 여러가지의 기술을 하는 것이 너무 재밌습니다#@문장구분#.저는 요즘 팅커벨이라는 보드 기술을 열심히 배우고 있습니다.#@문장구분#노력한 결과 이제는 그 기술을 능숙하게 하니 정말로 뿌듯합니다.#@문장구분#그리고 저의 세 번째 취미활동은 보석십자수 입니다.#@문장구분#저는 집에서 심심할때 이 취미활동을 즐깁니다.#@문장구분#제가 디즈니로 보석십자수를 하는데 완성된 모습을 생각하니 빨리 완성하고 싶은 욕심으로 보석십자수가 재미있습니다.#@문장구분#보석십자수는 기호에 맞게 보석알갱이를 붙이면서 완성하는것이기 때문에 매우 쉽습니다.#@문장구분#이 취미 활동을 추천드려요!!#@문장구분#그리고 저의 마지막 취미활동은 요리 입니다.#@문장구분#요즘 집에 많이 있어서그런지 요리도 많이 해봅니다.#@문장구분#몇일전에는 메로나 떡을 만들어서 먹었는데 너무 맛있었습니다.#@문장구분#메로나 떡을 맛있게 만들어서 그런지 점점 요리에 대한 흥미가 생겼습니다!#@문장구분#지금까지 제 취미활동에 대한 글이었습니다.#@문장구분#감사합니다.#@문장구분#",
+      "paragraph_len": 1079,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      26.4,
+      16.8
+    ],
+    "essay_scoreT_avg": 21.333332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.07",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 평소에 즐겨하는 취미 활동에는 4가지가 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "제가 평소에 즐겨하는 <문법_맞춤법><문법_조사>취미활동이</문법_조사></문법_맞춤법> 4가지가 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "먼저 저의 첫 번째 취미 활동은 춤추기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "먼저 저의 첫 번째 취미활동은 <문법_맞춤법>춤추기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 평소 컴퓨터를 이용해 독학으로 춤을 익힙니다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 저는 평소 컴퓨터를 이용해 독학으로 춤을 <문법_기타>익힙니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ".열심히 연습해 춤을 다 외울 때는 정말로 뿌듯합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": ".열심히 연습해 춤을 다 <문법_조사>외울때가</문법_조사> 정말로 뿌듯합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 제 주변 친구들도 저처럼 춤을 좋아하는 편이라 같이 만나서 추면 더욱 재밌어서 저는 이 취미 활동을 제일 좋아합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 제 주변 친구들도 저처럼 춤을 좋아하는 편이라 같이 만나서 추면 더욱 재밌어서 저는 이 <문법_맞춤법>취미활동</문법_맞춤법>을 제일 좋아합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저의 두 번째 취미 활동은 롱보드 타기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>저의두</문법_맞춤법> 번째 취미활동은 롱보드 타기 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "노력한 결과 이제는 그 기술을 <스타일링_담화 맥락 오류>능숙하게 하니</스타일링_담화 맥락 오류> 정말로 뿌듯합니다.",
+      "sentence_corr_txt_styling": "노력한 결과 이제는 그 기술을 능숙하게 할 수 있어 정말로 뿌듯합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 저의 세 번째 취미활동은 보석십자수입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 저의 세 번째 취미활동은 <문법_맞춤법>보석십자수 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 집에서 심심할 때 이 취미활동을 즐깁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 집에서 <문법_맞춤법>심심할때</문법_맞춤법> 이 취미활동을 즐깁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 디즈니로 보석십자수를 하는데 완성된 모습을 생각하니 빨리 완성하고 싶은 욕심이 더 생겨서 보석십자수가 재미있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_조사>제가 </문법_조사>디즈니로 보석십자수를 하는데 완성된 모습을 생각하니 빨리 완성하고 싶은 <스타일링_담화 맥락 오류>욕심으로</스타일링_담화 맥락 오류> 보석십자수가 재미있습니다.",
+      "sentence_corr_txt_styling": "저는 디즈니로 보석십자수를 하는데 완성된 모습을 생각하니 빨리 완성하고 싶은 욕심이 더 생겨서 보석십자수가 재미있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "보석십자수는 기호에 맞게 보석알갱이를 붙이면서 완성하는 것이기 때문에 매우 쉽습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "보석십자수는 기호에 맞게 보석알갱이를 붙이면서 <문법_맞춤법>완성하는것이기</문법_맞춤법> 때문에 매우 쉽습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>이 취미 활동을 추천드려요!!</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "그래서 이 취미 활동을 추천합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 저의 마지막 취미 활동은 요리입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 저의 마지막 <문법_맞춤법>취미활동은</문법_맞춤법> 요리 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요즘 집에 많이 있어서 그런지 요리도 많이 해봅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘 집에 많이 <문법_맞춤법>있어서그런지</문법_맞춤법> 요리도 많이 해봅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "며칠 전에는 메로나 떡을 만들어서 먹었는데 너무 맛있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>몇일전에는</문법_맞춤법> 메로나 떡을 만들어서 먹었는데 너무 맛있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "메로나 떡을 맛있게 만들어서 그런지 점점 요리에 대한 흥미가 생겼습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "메로나 떡을 맛있게 만들어서 그런지 점점 요리에 대한 흥미가 <문법_기타>생겼습니다!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지금까지 제 취미 활동에 대한 글이었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금까지 제 <문법_맞춤법>취미활동에</문법_맞춤법> 대한 글이었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35232",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 659,
+    "essay_main_subject": "나의 취미"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어떤 과목을 가장 좋아하시나요? 라고 물으신다면 주는 \"수학\"이라고 말할 것입니다.#@문장구분# 왜냐하면 수학은 계산하고, 머리로 생각하는 것이 재미 있기 때문입니다. #@문장구분#음, 다른 과목은 안 좋아하냐고요? 꼭 그렇지는 않지만, 제가 좋아한다고는 생각 해보지는 않았지요. #@문장구분#국어요? 상상만 해도 팔이 아픕니다. #@문장구분#국어는 글을 쓸 일이 많기 때문에 너무 팔이 아파 싫어합니다.#@문장구분# 사회요? 음, 너무 머리가 복잡하기도 하고, 재미있기는 해요. #@문장구분#그 까닭은 역사를 배우면 머리도 지끈지끈 아프고, 또 역사를 배우면 내용이 재미있기 때문에 안 좋아한다고 말하기는 어렵군요.#@문장구분# 과학이요? 음, 너무 말하기 어려운 것 같지만 굳이 말하자면 너무 재미있죠! 하지만 수학만큼은 아니랍니다.#@문장구분# 이렇게 제가 좋아하는 과목을 글로 써 보았습니다. #@문장구분#여러분은 어떠 과목을 가장 좋아하시나요?#@문장구분#",
+      "paragraph_len": 614,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      21.133335,
+      22.552382
+    ],
+    "essay_scoreT_avg": 21.49524,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "누군가가 '어떤 과목을 가장 좋아하시나요?'라고 물으신다면 저는 '수학'이라고 말할 것입니다.",
+      "sentence_corr_reason": [
+        "주어, 문장부호",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>어떤 과목을 가장 좋아하시나요?</문법_기타><문법_맞춤법> 라고</문법_맞춤법> 물으신다면 주는 \"수학\"이라고 말할 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 계산하고, 머리로 생각하는 것이 재미있기 때문입니다. ",
+      "sentence_corr_reason": [
+        "불필요",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <스타일링_기타>수학은 계산하고</스타일링_기타>, 머리로 생각하는 것이 <문법_맞춤법>재미 있기</문법_맞춤법> 때문입니다. ",
+      "sentence_corr_txt_styling": " 왜냐하면 계산하고, 머리로 생각하는 것이 재미있기 때문입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다른 과목은 안 좋아하냐고요? 꼭 그렇지는 않지만, 제가 좋아한다고는 생각해보지 않았습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>음, 다른</문법_기타> 과목은 안 좋아하냐고요? 꼭 그렇지는 않지만, 제가 좋아한다고는 <문법_조사><문법_어미>생각 해보지는 않았지요</문법_어미></문법_조사>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사회요? 너무 머리가 복잡하기는 하지만, 재미있기는 합니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " 사회요? <문법_기타>음, 너무</문법_기타> 머리가 <문법_어미>복잡하기도</문법_어미> 하고, 재미있기는 해요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 까닭은 역사를 배우면 머리도 지끈지끈 아프기 때문입니다. 그런데 또 역사를 배우면 내용이 재미있기 때문에 안 좋아한다고 말하기는 어렵습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": "그 까닭은 역사를 배우면 머리도 지끈지끈 <스타일링_기타>아프고,</스타일링_기타> 또 역사를 배우면 내용이 재미있기 때문에 안 좋아한다고 말하기는 <문법_어미>어렵군요</문법_어미>.",
+      "sentence_corr_txt_styling": "그 까닭은 역사를 배우면 머리도 지끈지끈 아프기 때문입니다. 그런데 또 역사를 배우면 내용이 재미있기 때문에 안 좋아한다고 말하기는 어렵습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과학이요? 굳이 말하자면 너무 재미있습니다. 하지만 수학만큼은 아닙니다.",
+      "sentence_corr_reason": [
+        "",
+        "문장부호"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " 과학이요? <스타일링_기타>음, 너무 말하기 어려운 것 같지만 굳이</스타일링_기타> 말하자면 너무 <문법_어미>재미있죠!</문법_어미> 하지만 수학만큼은 아니랍니다.",
+      "sentence_corr_txt_styling": " 과학이요? 굳이 말하자면 너무 재미있습니다. 하지만 수학만큼은 아닙니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분은 어떤 과목을 가장 좋아하시나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "여러분은 <문법_기타>어떠</문법_기타> 과목을 가장 좋아하시나요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38432",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 416,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

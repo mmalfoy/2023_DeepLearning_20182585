@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세종대왕은 조선의 4대왕으로 백성들을 사랑하는 마음으로 훈민정음등 백성들에게 도움이되는일을 많이하였다. #@문장구분#또한 신분상관없이 인재들을 뽑아 과학발전을 이끌었다. #@문장구분#나는 세종대왕의 다른것보다는 능력을 보는점을 본받고싶다. #@문장구분#가끔가다가 나도 외모, 성별등의 이유로 말로 말하거나 그러지는 않지만 생각으로만'얘 이거 못할꺼같은데?'이런식으로 아무리 그사람이 능력이 있어도 자꾸 그사람은 이거못할꺼같다는 생각이드는데 세종대왕은 신분이 아닌 능력을 보고 장영실등 여러사람들과 과학발전을 이끌어 낸게 신기하다. #@문장구분#신분제도가 있어 신분이 낮다는 이유만으로 능력을 발휘하지못하는 그시대에 능력을 마음껏 뽐낼 수 있도록 해줘 과학발전을 이루어낸것처럼 나도 앞으로 편견가지지 않고 그 사람이 잘해낼수있도록 뒤에서 약간에 디딤판이 되어주고 싶다.",
+      "paragraph_len": 481,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      24.65,
+      16.15
+    ],
+    "essay_scoreT_avg": 21.733332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "세종대왕은 조선의 4대 왕으로 백성들을 사랑하는 마음으로 훈민정음 등 백성들에게 도움이 되는 일을 많이 하였다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "세종대왕은 조선의 <문법_맞춤법>4대왕으로</문법_맞춤법> 백성들을 사랑하는 마음으로 훈민정음등 백성들에게 도움이되는일을 많이하였다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또한 신분 상관없이 인재들을 뽑아 과학발전을 이끌었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또한 <문법_맞춤법>신분상관없이</문법_맞춤법> 인재들을 뽑아 과학발전을 이끌었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 세종대왕의 다른 것보다는 능력을 보는 점을 본받고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 세종대왕의 <문법_맞춤법>다른것보다는 능력을 보는점을 본받고싶다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "가끔가다가 나도 외모, 성별등의 이유로 말로 말하거나 그러지는 않지만 생각으로만'얘 이거 못할꺼같은데?'이런식으로 아무리 그사람이 능력이 있어도 자꾸 그사람은 이거못할꺼같다는 생각이드는데 세종대왕은 신분이 아닌 능력을 보고 장영실등 여러사람들과 과학발전을 이끌어 낸게 신기하다. ",
+      "sentence_corr_txt_styling": "가끔가다가 나도 외모, 성별등의 이유로 말로 말하거나 그러지는 않지만 생각으로만'얘 이거 못할꺼같은데?'이런식으로 아무리 그사람이 능력이 있어도 자꾸 그사람은 이거못할꺼같다는 생각이드는데 세종대왕은 신분이 아닌 능력을 보고 장영실등 여러사람들과 과학발전을 이끌어 낸게 신기하다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "신분제도가 있어 신분이 낮다는 이유만으로 능력을 발휘하지못하는 그시대에 능력을 마음껏 뽐낼 수 있도록 해줘 과학발전을 이루어낸것처럼 나도 앞으로 편견가지지 않고 그 사람이 잘해낼수있도록 뒤에서 약간에 디딤판이 되어주고 싶다.",
+      "sentence_corr_txt_styling": "신분제도가 있어 신분이 낮다는 이유만으로 능력을 발휘하지못하는 그시대에 능력을 마음껏 뽐낼 수 있도록 해줘 과학발전을 이루어낸것처럼 나도 앞으로 편견가지지 않고 그 사람이 잘해낼수있도록 뒤에서 약간에 디딤판이 되어주고 싶다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66367",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 401,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

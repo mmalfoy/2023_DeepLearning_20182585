@@ -1,0 +1,329 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 바라는 선생님은 공부를 잘가르쳐주는 선생님이다.#@문장구분# 시험에 나오는 문제를 콕콕 찝어주는 선생님, 모르는 문제를 이해가 잘되게끔 도와주는 선생님, 복습, 예습 잘 해주시는 선생님 이다.#@문장구분# 내가 동생의 공부를 모르는것 알려주어 봤는데 동생도 공부를 모르는 문제를 이해가 잘되게끔 도와주는걸 원한다.#@문장구분# 그래서 내가 바라는 선생님이다, 날가르쳐주신 선생님중 가장 잘 가르쳐주신다고 생각한 선생님은 지금 학원 영어선생님이다,#@문장구분# 같은 영어반학생이 우리영어선생님은 공부를 잘가르쳐주신다. 라고했다,#@문장구분# 내가 생각한 스승의 모습은 공부를 이해가 잘되게 도와주시는 선생님이다.#@문장구분# 내가 만약 스승이 된다면 좋은 스승이 될것이다.#@문장구분# 어떻게 좋은 스승이 될것 이냐면은 공부를 아주 재미있게 가르칠 것이다.#@문장구분# 재미, 흥미 잃지 않게 재밌게 공부를 어떻게 하냐면은 직접 게임을 만드는 것이다.#@문장구분# 관련있게 배우는 내용하고 그래서 그 게임을 제자들이 공부를 잘하거나, 수업에 집중을 잘하면 해주는 것이다.#@문장구분# 만약 게임이 재미없다고 하고 지겹다하면은?#@문장구분# 지금까지 제 글을 읽어주셔서 감사합니다.#@문장구분#",
+      "paragraph_len": 769,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      23.85,
+      20
+    ],
+    "essay_scoreT_avg": 21.816666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.24",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "033",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 바라는 선생님은 공부를 잘 가르쳐주는 선생님이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 바라는 선생님은 공부를 <문법_맞춤법>잘가르쳐주는</문법_맞춤법> 선생님이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 시험에 나오는 문제를 콕콕 찝어주는 선생님, 모르는 문제를 이해가 잘되게끔 도와주는 선생님, 복습, 예습 잘 해주시는 선생님이다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 시험에 나오는 문제를 콕콕 찝어주는 선생님, 모르는 문제를 이해가 잘되게끔 도와주는 선생님, 복습, 예습 잘 해주시는 <문법_맞춤법>선생님 이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 동생에게 알려주어 봤는데 동생도 공부를 모르는 문제를 이해가 잘되게끔 도와주는 걸 원한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 <스타일링_어미><스타일링_기타>동생의 공부를 모르는것</스타일링_기타></스타일링_어미> 알려주어 봤는데 동생도 공부를 모르는 문제를 이해가 잘되게끔 <문법_맞춤법>도와주는걸</문법_맞춤법> 원한다.",
+      "sentence_corr_txt_styling": " 내가 동생에게 알려주어 봤는데 동생도 공부를 모르는 문제를 이해가 잘되게끔 도와주는 걸 원한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 날 가르쳐주신 선생님 중 가장 잘 가르쳐주신다고 생각한 선생님은 지금 학원 영어선생님이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 불필요",
+        "띄어쓰기, 불필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그래서 내가 바라는 선생님이다, 날가르쳐주신</문법_기타></문법_맞춤법> 선생님중 가장 잘 가르쳐주신다고 생각한 선생님은 지금 학원 영어선생님이다,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 같은 영어반 학생이 우리 영어 선생님은 '공부를 잘 가르쳐 주신다.'라고 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 붙여쓰기, 인용 문장부호"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 같은 <문법_맞춤법>영어반학생이</문법_맞춤법> 우리영어선생님은 <문법_기타>공부를 잘가르쳐주신다. 라고했다,</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 생각한 스승의 모습은 공부를 이해가 잘 되게 도와주시는 선생님이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 생각한 스승의 모습은 공부를 이해가 <문법_맞춤법>잘되게</문법_맞춤법> 도와주시는 선생님이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 만약 스승이 된다면 좋은 스승이 될 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 만약 스승이 된다면 좋은 스승이 <문법_맞춤법>될것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어떻게 좋은 스승이 될 것이나면 공부를 아주 재미있게 가르칠 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 붙여쓰기, 조사",
+        "띄어쓰기, 붙여쓰기, 조사"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 어떻게 좋은 스승이 <문법_맞춤법><문법_조사>될것 이냐면은</문법_조사></문법_맞춤법> 공부를 아주 재미있게 가르칠 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 배우는 내용과 관련있게 게임을 만들어서 제자들이 공부를 잘 하게 하거나, 수업에 집중을 잘 하게 해주는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "조사"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>관련있게 배우는 내용하고 그래서 그 게임을 제자들이 공부를 잘하거나</스타일링_담화 맥락 오류>, 수업에 집중을 <문법_조사>잘하면</문법_조사> 해주는 것이다.",
+      "sentence_corr_txt_styling": " 배우는 내용과 관련있게 게임을 만들어서 제자들이 공부를 잘 하게 하거나, 수업에 집중을 잘 하게 해주는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 게임이 재미없다고 하고 지겹다 하면은?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 게임이 재미없다고 하고 <문법_맞춤법>지겹다하면은</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33797",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 530,
+    "essay_main_subject": "참된 스승"
+  }
+}

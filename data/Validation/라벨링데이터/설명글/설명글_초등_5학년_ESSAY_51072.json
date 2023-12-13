@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리는 살아가는 데 위생은 아주 중요합니다. #@문장구분#우리는 매일 양치, 세수, 샤워를 하며 몸을 깨끗하게 유지합니다.#@문장구분# 하지만 몸을 깨끗하게 하지 않으면 나쁜세균이 몸속으로 들어와 우리의 몸속을 괴롭히기 때문입니다#@문장구분#\n 이제부터 제가 저의 위생을 지키는 방법의 대해 알려드리겠습니다.#@문장구분# 일단 제가 양치를 할 때에는 하루 2~3번 3분 이상 구석구석 꼼꼼히 닦습니다. #@문장구분#그리고 세수를 할 때는 비누로 거품을 많이 낸 다음, 얼굴을 오래 문질러 줍니다. #@문장구분#그리고 물로 깨끗이 씻어 낸 후, 수건으로 얼굴을 살살 문질러 주면 빤짝 빤짝한 피부가 됩니다.#@문장구분# 그리고 샤워는 매일 상쾌하게 합니다.#@문장구분# 운동을 하고 시원하게 샤워를 하면 정말 상쾌합니다.#@문장구분#\n 그리고 제가 위생을 지키는 이유는 상쾌한 것도 있지만, 역시 제 몸에서 냄새가 안 나고, 제 피부가 촉촉 해져서 그런 것 같습니다. #@문장구분#앞으로도 위생을 지키면서 건강한 몸을 가진 건강한 어른으로 성장할 것입니다.",
+      "paragraph_len": 664,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      26.8,
+      24.447618
+    ],
+    "essay_scoreT_avg": 24.660316,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.10",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 하지만 몸을 깨끗하게 하지 않으면 나쁜 세균이 몸속으로 들어와 우리의 몸속을 괴롭히기 때문입니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 몸을 깨끗하게 하지 않으면 <문법_맞춤법>나쁜세균이</문법_맞춤법> 몸속으로 들어와 우리의 몸속을 괴롭히기 때문입니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이제부터 제가 저의 위생을 지키는 방법에 대해 알려드리겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 이제부터 제가 저의 위생을 지키는 <문법_맞춤법>방법의 대해</문법_맞춤법> 알려드리겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 물로 깨끗이 씻어 낸 후, 수건으로 얼굴을 살살 문질러 주면 빤짝빤짝한 피부가 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 물로 깨끗이 씻어 낸 후, 수건으로 얼굴을 살살 문질러 주면<문법_맞춤법> 빤짝 빤짝한 </문법_맞춤법>피부가 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51072",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 465,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

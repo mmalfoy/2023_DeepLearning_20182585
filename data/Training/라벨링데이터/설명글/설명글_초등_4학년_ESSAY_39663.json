@@ -1,0 +1,186 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 엘레베이터에 타시는 아저씨께 몇층에 가세요? 라고 묻고 아저씨가 타시는 층의 버튼을 눌러드렸다.#@문장구분# 그때의 마음은 그냥 엘레베이터 버튼을 눌러 드린것 뿐이었는데 기분이 않좋은 날이 었지만 기분이 좋아지고 다음에 또 엘레베이터 버튼을 눌러 드려야 겠다는 생각이 있었고 한편으로는 선행을 하니 사람과의 관계가 더 좋아지고 덤으로 고맙다는 인사도 들었네 하고 싱글벙글 웃으며 집으로 돌아왔다.#@문장구분#",
+      "paragraph_len": 257,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.4,
+      16.8,
+      24.333334
+    ],
+    "essay_scoreT_avg": 19.177778,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는 엘레베이터에 타시는 아저씨께 <스타일링_패러프레이징>몇층에 가세요?</스타일링_패러프레이징> 라고 묻고 아저씨가 타시는 층의 버튼을 눌러드렸다.",
+      "sentence_corr_txt_styling": "나는 엘레베이터에 타시는 아저씨께 \"몇 층에 가세요?\" 라고 묻고 아저씨가 타시는 층의 버튼을 눌러드렸다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때의 마음은 그냥 엘레베이터 버튼을 눌러 드린 것뿐이었는데 기분이 안 좋은 날이었지만 기분이 좋아졌다. 다음에 또 엘리베이터 버튼을 눌러 드려야겠다는 생각이 들었다. 한편으로는 선행을 하니 사람과의 관계가 더 좋아지고 덤으로 고맙다는 인사도 들었네 하고 싱글벙글 웃으며 집으로 돌아왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그때의 마음은 그냥 엘레베이터 버튼을 눌러 <문법_맞춤법>드린것 뿐이었는데</문법_맞춤법> <스타일링_패러프레이징>기분이 않좋은 날이 었지만 기분이 좋아지고</스타일링_패러프레이징> 다음에 또 엘레베이터 버튼을 눌러 드려야 겠다는 생각이 있었고 한편으로는 선행을 하니 사람과의 관계가 더 좋아지고 덤으로 고맙다는 인사도 들었네 하고 싱글벙글 웃으며 집으로 돌아왔다.",
+      "sentence_corr_txt_styling": " 그때의 마음은 그냥 엘레베이터 버튼을 눌러 드린 것뿐이었는데 기분이 안 좋은 날이었지만 기분이 좋아졌다. 다음에 또 엘리베이터 버튼을 눌러 드려야겠다는 생각이 들었다. 한편으로는 선행을 하니 사람과의 관계가 더 좋아지고 덤으로 고맙다는 인사도 들었네 하고 싱글벙글 웃으며 집으로 돌아왔다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39663",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 218,
+    "essay_main_subject": "나의 선행"
+  }
+}

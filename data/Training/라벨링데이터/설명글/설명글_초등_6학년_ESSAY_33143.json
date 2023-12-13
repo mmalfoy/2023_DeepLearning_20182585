@@ -1,0 +1,299 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에겐 친구란? 나에겐 친구는 2번째로 소중한 존재이고, 힘든것이 있으면 친구에게 말하고 보석같은 존재이다.#@문장구분# 그리고 친구는 친구를 기다려 주고 배려 해주고 누구보다 더 걱정해주고 가장 먼저 떠오르는것이 나에게는 친구인것 같다.#@문장구분# 그리고 친구와 싸울때도 있고 싫어질때도 있지만 다시 친해지는 것이 친구인것같다.#@문장구분# 그리고 친구를 배신을 하지않고, 뒷담화를 하지않고 게임을 같이 하고 놀러갈때도 같이 놀러가고, 등 여라가지를 같이하는것이 친구인것 같다.#@문장구분# 그리고 친구가 경기에 나갔을때 가서 열심히 응원해주고 친구가 입원 했을때 많이 걱정 해주는 것이 친구있것같고, 그리고 무슨일이 있을때 양보를 해주고 하는것이 진정한 친구인것같다고 생각한다.#@문장구분# 그리고 친구라는 존재를 잃어버리면 아주 슬프고, 우울해 질것 같은 생각이 들 정도면은 나에게는 친구라는 존재가 아주아주 소중한것같다.#@문장구분# 또는 친구라는 존재가 아주 가끔씩 짜증날때도 있지만 정말 소중한 존재인것 같다. #@문장구분#그리고 학원숙제, 학교숙제 를 도와주고 공부가 모르는것이 있으면 도와주고, 친구가 누구에게 맞고있을때 바로 달려가 도와주는 것이 나에게는 정말 진정한 친구인것 같다.#@문장구분# 그리고 친구가 돈이 필요한일이 있을때 바로바로 빌려주고 값지않아도된다고 하는 것이 정말 진정한 친구인거같다#@문장구분#",
+      "paragraph_len": 807,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      23.85,
+      30
+    ],
+    "essay_scoreT_avg": 24.883333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나에겐 친구란? 나에겐 친구는 2번째로 소중한 존재이고, 힘든 것이 있으면 친구에게 말하고 보석 같은 존재이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>나에겐 친구란? 나에겐 친구는 2번째로 소중한 존재이고, 힘든것이 있으면 친구에게 말하고 보석같은 존재이다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구는 친구를 기다려 주고 배려해 주고 누구보다 더 걱정해 주고 가장 먼저 떠오르는 것이 나에게는 친구인 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고 친구는 친구를 기다려 주고 배려 해주고 누구보다 더 걱정해주고 가장 먼저 떠오르는것이 나에게는 친구인것 같다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구와 싸울 때도 있고 싫어질 때도 있지만 다시 친해지는 것이 친구인 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고 친구와 싸울때도 있고 싫어질때도 있지만 다시 친해지는 것이 친구인것같다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구를 배신을 하지 않고, 험담을 하지 않고 게임을 같이 하고 놀러 갈 때도 같이 놀러 가고, 등 여러 가지를 같이하는 것이 친구인 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그리고 친구를 배신을 하지않고, 뒷담화를 하지않고 게임을 같이 하고 놀러갈때도 같이 놀러가고, 등 여라가지를 같이하는것이 친구인것 같다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구가 경기에 나갔을 때 가서 열심히 응원해 주고 친구가 입원했을 때 많이 걱정해 주는 것이 친구 인것 같고, 그리고 무슨 일이 있을 때 양보를 해주고 하는 것이 진정한 친구인 것 같다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고 친구가 경기에 나갔을때 가서 열심히 응원해주고 친구가 입원 했을때 많이 걱정 해주는 것이 친구있것같고, 그리고 무슨일이 있을때 양보를 해주고 하는것이 진정한 친구인것같다고 생각한다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구라는 존재를 잃어버리면 아주 슬프고, 우울해질 것 같은 생각이 들 정도면은 나에게는 친구라는 존재가 아주아주 소중한 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고 친구라는 존재를 잃어버리면 아주 슬프고, 우울해 질것 같은 생각이 들 정도면은 나에게는 친구라는 존재가 아주아주 소중한것같다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또는 친구라는 존재가 아주 가끔씩 짜증 날 때도 있지만 정말 소중한 존재인 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>또는 친구라는 존재가 아주 가끔씩 짜증날때도 있지만 정말 소중한 존재인것 같다.</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 학원 숙제, 학교 숙제를 도와주고 공부가 모르는 것이 있으면 도와주고, 친구가 누구에게 맞고 있을 때 바로 달려가 도와주는 것이 나에게는 정말 진정한 친구인 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>그리고 학원숙제, 학교숙제 를 도와주고 공부가 모르는것이 있으면 도와주고, 친구가 누구에게 맞고있을때 바로 달려가 도와주는 것이 나에게는 정말 진정한 친구인것 같다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구가 돈이 필요한 일이 있을 때 바로바로 빌려주고 값지 않아도 된다고 하는 것이 정말 진정한 친구인 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고 친구가 돈이 필요한일이 있을때 바로바로 빌려주고 값지않아도된다고 하는 것이 정말 진정한 친구인거같다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33143",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 627,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

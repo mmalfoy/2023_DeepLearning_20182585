@@ -1,0 +1,476 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요#@문장구분# 요즘 동물들을 학대하고 유기하고 버리고 등등 이런일이 많이 일어났습니다.#@문장구분#저도 강아지를 키워서 이런 일들이 하나의 생명을 죽이는 것 이여서 너무 화가납니다.#@문장구분#안 키우는 사람들도 이렇게 느낄 것 입니다.#@문장구분#저는 사람들이 왜 강아지를 버릴까? 생각해보았습니다.#@문장구분#사람들은 처음에 동물을 귀엽다고 데려오고 울타리,밥통,사료,패드,양치,예방접종 등 돈이 많이 들어서 버리는것같습니다.#@문장구분#그리고 그런 강아지들은 주인을 찾다가 못 찾으면 그 안락사를 당합니다.#@문장구분#저는 그런 동물들이   충분히 이쁘게 클 수 있는 동물들 입니다.#@문장구분#사람처럼요.#@문장구분#\n 그러니 우리 모두 동물들을 데려올때 한명의 사람을 키운다고 생각하고 큰 다짐을 하고 데려옵시다.#@문장구분#그리고 이런 말이 있습니다.#@문장구분#「사지말고 입양하세요」그리고 동물들을 데려오면 내가 책임을 지어야 합니다.#@문장구분#여러분은 동물들을 자신의 「장난감」이라고 생각하시나요?#@문장구분# 아니요,동물들은 사람과 다를게 없이 살아 숨쉬는 생명 입니다.#@문장구분#그러니 우리 모두 소중하게 생각해야합니다.#@문장구분#저도 강아지를 데려올때 이런 것을 다 생각하고 책임지려고 데려왔습니다.#@문장구분#그리고 요즘 인스타나 TV등에서 동물들을 사람들이 유기하고 다른사람이 구하는게 나오는데 그 많은 동물들을 키울수 없어서 주인을 찾다 정해진 시간안에 찾지 못하면 안락사를 당하게 됩니다.#@문장구분#안락사는 억지로 죽이는 것 입니다.#@문장구분#제가 강아지 고양이 등 동물들을 모두 데려오고 싶지만 그건 생각보다 힘든 일 입니다#@문장구분# 그리고 전 안락사 당한 동물들을 많이 봤습니다.#@문장구분#제발 데려갔으면 책임을 지고 키우시길 바래요#@문장구분# 더 이상 버림받은 동물이 없으면 좋겠네요#@문장구분#",
+      "paragraph_len": 1211,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.41111,
+      23.877777,
+      18.5
+    ],
+    "essay_scoreT_avg": 21.929628,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕하세요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "안녕하세<문법_맞춤법>요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 동물들을 학대하고 유기하고 버리는 일이 많이 일어나고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제",
+        "기타"
+      ],
+      "sentence_txt": " 요즘 동물들을 학대하고 유기하고 <문법_맞춤법><문법_시제><문법_기타>버리고 등등 이런일이 많이 일어났습니다.</문법_기타></문법_시제></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  하나의 생명을 죽이는 일들이, 강아지를 키우는 입장으로써 너무 화가 납니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "저도 <문법_맞춤법><문법_어순><문법_기타>강아지를 키워서 이런 일들이 하나의 생명을 죽이는 것 이여서 너무 화가납니다.</문법_기타></문법_어순></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "안 키우는 사람들도 이렇게 느낄 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "안 키우는 사람들도 이렇게 느낄 <문법_맞춤법>것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 사람들이 왜 강아지를 버릴까? 생각해 보았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 사람들이 왜 강아지를 버릴까? 생각<문법_맞춤법>해보</문법_맞춤법>았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들은 처음에 동물을 귀엽다고 데려오고 울타리, 밥통, 사료, 패드, 양치, 예방접종 등 돈이 많이 들어서 버리는 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사람들은 처음에 동물을 귀엽다고 데려오고<문법_맞춤법> 울타리,밥통,사료,패드,양치,예방접종 등 돈이 많이 들어서 버리는것같</문법_맞춤법>습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "유기된 강아지들은 주인을 찾다가 못 찾으면 그 안락사를 당합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그리고 그런 </문법_기타>강아지들은 주인을 찾다가 못 찾으면 그 안락사를 당합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 동물들도 예쁨을 받고 커야 하는 동물입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>저는 그런 동물들이   충분히 이쁘게 클 수 있는 동물들 입니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그러니 우리 모두 반려동물을 입양할 때 한 명의 사람을 키운다는 큰 다짐을 하고 데려옵시다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "\n 그러니 우리 모두 <문법_맞춤법><문법_어순><문법_기타>동물들을 데려올때 한명의 사람을 키운다고 생각하고 큰 다짐</문법_기타></문법_어순></문법_맞춤법>을 하고 데려옵시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "「사지말고 입양하세요」 동물들을 데려오면 내가 책임을 져야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "「사지말고 입양하세요」<문법_기타>그리고 </문법_기타>동물들을 데려오면 내가 책임을 <문법_맞춤법>지어야</문법_맞춤법> 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아니요, 동물들은 사람과 다를 것 없이 살아 숨쉬는 생명 입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 아니요,<문법_맞춤법><문법_기타>동물들은 사람과 다를게 없이</문법_기타></문법_맞춤법> 살아 숨쉬는 생명 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 우리 모두 소중하게 생각해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러니 우리 모두 소중하게 생각<문법_맞춤법>해야합</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저도 강아지를 데려올 때 이런 것을 다 생각하고 책임지려고 데려왔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저도 강아지를 <문법_맞춤법>데려올때 </문법_맞춤법>이런 것을 다 생각하고 책임지려고 데려왔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 요즘 인스타그램이나 TV에서 유기된 동물들을 키울 사람을 구하는데, 그 동물들은 주인을 찾다가 정해진 시간 안에 찾지 못하면 안락사를 당하게 됩니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "그리고 요즘 <문법_맞춤법><문법_어순><문법_기타>인스타나 TV등에서 동물들을 사람들이 유기하고 다른사람이 구하는게 나오는데 그 많은 동물들을 키울수 없어서 주인을 찾다 정해진 시간안에</문법_기타></문법_어순></문법_맞춤법> 찾지 못하면 안락사를 당하게 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "안락사는 억지로 죽이는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "안락사는 억지로 <문법_맞춤법>죽이는 것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 강아지, 고양이 등 그 동물들을 모두 데려오고 싶은 마음입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어순><문법_기타>제가 강아지 고양이 등 동물들을 모두 데려오고 싶지만 그건 생각보다 힘든 일 입니다</문법_기타></문법_어순></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제발 데려갔으면 책임을 지고 키우시길 바랍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>제발 데려갔으면 책임을 지고 키우시길 바래요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 더 이상 버림받는 동물이 없으면 좋겠네요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 더 이상 <문법_맞춤법>버림받은 동물이 없으면 좋겠네요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39858",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 772,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

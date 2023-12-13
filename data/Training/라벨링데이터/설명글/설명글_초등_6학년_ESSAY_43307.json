@@ -1,0 +1,264 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 사실 존경하는 위인이 없습니다.#@문장구분# 그래서 이번에는 제가 생각하는 존경받을만한 행동이나 모습에대해서쓰겠습니다#@문장구분# 제가 생각하는 존경받을만한 행동이나 모습은 다른사람을 배려하고, 존중하며 다른사람을 이해해주고 양보를할줄아는 모습이있는 사람입니다.#@문장구분# 저는 기본적으로 존중, 배려, 이해, 양보등을 할줄아는사람이 존경받을수있다고 생각합니다.#@문장구분# 그리고 다른사람을 도와주며, 다른사람을 괴롭히지않는 행동을 보이는 사람도 같이 존경받을수있다고 생각을합니다.#@문장구분# 왜냐하면 사실 기본적인것이라고 생각을할지라도 그런면을 가진사람들이 별로 없습니다.#@문장구분# 그래서 그런지 그런 기본적인면만 가지고도 존경할수있는 위인이라고 생각합니다.#@문장구분# 그런점에서 조금 추가하자면 신중하고 대의를 위하며 친절하고 강자에게 강하며 약자에겐약한 그런 모습이있는 사람이 제가 생각하는 존경받을만한 사람에게 있는 모습과 행동이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 597,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      28.95,
+      26
+    ],
+    "essay_scoreT_avg": 27.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 이번에는 제가 생각하는 존경받을만한 행동이나 모습에 대해서 쓰겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 이번에는 제가 생각하는 존경받을만한 행동이나 <문법_맞춤법><문법_기타>모습에대해서쓰겠습니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 생각하는 존경받을만한 행동이나 모습은 다른 사람을 배려하고, 존중하며 다른 사람을 이해해 주고 양보를 할 줄 아는 모습이 있는 사람입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 생각하는 존경받을만한 행동이나 모습은 <문법_맞춤법>다른사람을 배려하고, 존중하며 다른사람을 이해해주고 양보를할줄아는 모습이있는</문법_맞춤법> 사람입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 기본적으로 존중, 배려, 이해, 양보 등을 할 줄 아는 사람이 존경 받을 수 있다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 기본적으로 존중, 배려, 이해, <문법_맞춤법>양보등을 할줄아는사람이 존경받을수있다고</문법_맞춤법> 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다른 사람을 도와주며, 다른 사람을 괴롭히지 않는 행동을 보이는 사람도 같이 존경받을 수 있다고 생각을 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>다른사람을 도와주며, 다른사람을 괴롭히지않는 행동을 보이는 사람도 같이 존경받을수있다고 생각을합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 사실 기본적인 것이라고 생각을 할지라도 그런 면을 가진 사람들이 별로 없습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 사실 <문법_맞춤법>기본적인것이라고 생각을할지라도 그런면을 가진사람들이 </문법_맞춤법>별로 없습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 그런지 그런 기본적인 면만 가지고도 존경할 수 있는 위인이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 그런지 그런 <문법_맞춤법>기본적인면만 가지고도 존경할수있는</문법_맞춤법> 위인이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 점에서 조금 추가하자면 신중하고 대의를 위하며 친절하고 강자에게 강하며 약자에겐 약한 그런 모습이 있는 사람이 제가 생각하는 존경받을만한 사람에게 있는 모습과 행동이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그런점에서 조금 추가하자면 신중하고 대의를 위하며 친절하고 강자에게 강하며 약자에겐약한 그런 모습이있는</문법_맞춤법> 사람이 제가 생각하는 존경받을만한 사람에게 있는 모습과 행동이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43307",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 438,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

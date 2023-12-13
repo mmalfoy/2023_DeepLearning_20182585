@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지키기 위해서 나는 아침에 일어나 세수를 한다.#@문장구분# 항상 밖에 다녀오면 먼지 손과 발을 씻는다. #@문장구분#밖에 다녀왔는데 손,발을 씻지 않으면 세균이 남아있어 위생적이지 않기 때문이다. #@문장구분#건강한 몸을 만들기 위해 나는 검도를 다닌다.#@문장구분# 운동을 하면 건강에도 좋아 면역력을 기를 수 있다.#@문장구분# 샤워도 하고, 하루에 양치는 자기 전 한번하고 손은 대략 다섯번 정도 씻는다.#@문장구분# 이렇게 보니 양치를 적게 한다는 생각이 든다.#@문장구분# 위생적이지 않으면 건강에 안좋기 때문에 위생을 지켜야겠다.#@문장구분# 앞으로는 양치를 자주하고 손,발도 물로만 씻지말고 비누로 꼼꼼히 해야겠다.#@문장구분#항상 건강과 청결한것을 중요하게 생각하고 운동도 걷기,뛰기 말고도 많은 운동을 더 열심히 할것이다.#@문장구분#",
+      "paragraph_len": 555,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.019047,
+      22.8,
+      20
+    ],
+    "essay_scoreT_avg": 22.606348,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "밖에 다녀왔는데 손,발을 씻지 않으면 세균이 남아 있어 위생적이지 않기 때문이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "밖에 다녀왔는데 손,발을 씻지 않으면 세균이 <문법_맞춤법>남아있어 </문법_맞춤법>위생적이지 않기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 샤워도 하고, 하루에 양치는 자기 전 한 번 하고 손은 대략 다섯 번 정도 씻는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 샤워도 하고, 하루에 양치는 자기 전 <문법_맞춤법>한번하고 </문법_맞춤법>손은 대략 다섯번 정도 씻는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위생적이지 않으면 건강에 안 좋기 때문에 위생을 지켜야겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 위생적이지 않으면 건강에 <문법_맞춤법>안좋기 </문법_맞춤법>때문에 위생을 지켜야겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로는 양치를 자주하고 손,발도 물로만 씻지 말고 비누로 꼼꼼히 해야겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 앞으로는 양치를 자주하고 손,발도 물로만 <문법_맞춤법>씻지말고</문법_맞춤법> 비누로 꼼꼼히 해야겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "항상 건강과 청결한 것을 중요하게 생각하고 운동도 걷기,뛰기 말고도 많은 운동을 더 열심히 할 것이다.",
+      "sentence_corr_reason": [
+        "지 말다 띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "항상 건강과 <문법_맞춤법>청결한것을 </문법_맞춤법>중요하게 생각하고 운동도 걷기,뛰기 말고도 많은 운동을 더 열심히 할것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63543",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 356,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

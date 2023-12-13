@@ -1,0 +1,308 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "많은 사람들이 외로움을 달래기 위해 반려동물을 기르는 요즘, 버려지는 반려동물 들도 늘어나고 있다.#@문장구분# 주인에게 버려져, 결국 죽음까지 이르는 반려동물들이 참 안타깝다.#@문장구분#\n 이러한 문제를 해결하기 위해서는 많은 유용한 대책들이 필요하다.#@문장구분#\n 우선 반려동물이 버려지는 이유를 생각해 보면, 크게 비용과 병으로 나타낼 수 있다.#@문장구분#\n 반려동물을 키우는데 많은 비용이 드는 것은 사실이다. #@문장구분#사료값, 여러가지 물건들, 그외 목줄, 집, 장난감이나 배변판 같은 용품들로 많은 책임과 비용이 필요하다.#@문장구분# \n 반려동물을 기르다보면 반려동물이 병에 걸리거나 늙어서 버리는 사람들이 있다.#@문장구분# 단순히 귀여운 모습만 보고 입양했다가 더이상 귀엽지 않으니 버린 것이다.#@문장구분# 병에 걸리면 비용이 많이 드니 버린 것도 있고 말이다.#@문장구분#\n 대체적으로 비용이 많이 들어서 반려동물이 버려지는 것이다.#@문장구분#\n 그래서 내가 생각한 방법은 반려동물 용품의 물가를 낮추는 것이다. #@문장구분#물건에 물가가 내려가면 비용때문에 반려동물을 버리는 경우가 줄어들 것이다.#@문장구분# 아무리 기업들의 수요가 중요하다고 해도 반려동물이 버려지는 것 만큼 중요하지 않을까?#@문장구분# 하지만 무엇보다 반려동물을 사랑하는 마음을 가지는 것이 가장 좋은 방법이다.#@문장구분#",
+      "paragraph_len": 870,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      25.97778,
+      18.51111
+    ],
+    "essay_scoreT_avg": 21.496298,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          0,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "많은 사람들이 외로움을 달래기 위해 반려동물을 기르는 요즘, 버려지는 반려동물도 늘어나고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "많은 사람들이 외로움을 달래기 위해 반려동물을 기르는 요즘, 버려지는 <문법_조사>반려동물 들도</문법_조사> 늘어나고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 반려동물을 키우는 데 많은 비용이 드는 것은 사실이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 반려동물을 <문법_맞춤법>키우는데</문법_맞춤법> 많은 비용이 드는 것은 사실이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사료값, 여러가지 물건들, 그 외 목줄, 집, 장난감이나 배변판 같은 용품들로 많은  비용이 필요하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "사료값, 여러가지 물건들, <문법_맞춤법>그외</문법_맞춤법> 목줄, 집, 장난감이나 배변판 같은 용품들로 많은<스타일링_담화 맥락 오류> 책임과</스타일링_담화 맥락 오류> 비용이 필요하다.",
+      "sentence_corr_txt_styling": "사료값, 여러가지 물건들, 그 외 목줄, 집, 장난감이나 배변판 같은 용품들로 많은  비용이 필요하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 그리고 반려동물이 병에 걸리거나 늙으면 버리는 사람들이 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": " \n <스타일링_맞춤법><스타일링_담화 맥락 오류>반려동물을 기르다보면 반려동물이 병에 걸리거나 <문법_어미>늙어서</문법_어미> 버리는 사람들이 있다.</스타일링_담화 맥락 오류></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " \n 그리고 반려동물이 병에 걸리거나 늙으면 버리는 사람들이 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 단순히 귀여운 모습만 보고 입양했다가 더 이상 귀엽지 않으니 버린 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 단순히 귀여운 모습만 보고 입양했다가 <문법_맞춤법>더이상</문법_맞춤법> 귀엽지 않으니 버린 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n <스타일링_담화 맥락 오류>대체적으로</스타일링_담화 맥락 오류> 비용이 많이 들어서 반려동물이 버려지는 것이다.",
+      "sentence_corr_txt_styling": "\n 정리해보면, 결국 비용이 많이 들어서 반려동물이 버려지는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물건의 물가가 내려가면 비용 때문에 반려동물을 버리는 경우가 줄어들 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_조사>물건에</문법_조사> 물가가 내려가면 <문법_맞춤법>비용때문에</문법_맞춤법> 반려동물을 버리는 경우가 줄어들 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 아무리 기업들의 수요가 중요하다고 해도 반려동물이 버려지는 것 만큼 <스타일링_어미><스타일링_담화 맥락 오류>중요하지 않을까?</스타일링_담화 맥락 오류></스타일링_어미>",
+      "sentence_corr_txt_styling": " 아무리 기업들의 수요가 중요하다고 해도 반려동물이 버려지는 것 만큼 중요할까?",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "목적어 없음"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>하지만 무엇보다 반려동물을 사랑하는 마음을 가지는 것이 가장 좋은 방법이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 하지만 무엇보다 반려동물을 사랑하는 마음을 가지는 것이 반려동물 유기를 줄이는 가장 좋은 방법이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35266",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 591,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

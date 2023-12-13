@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승이 되는 기준은 다양하지만 내가 생각하는 참된 스승의 기준은 학생들을 잘 통제하는 선생님인 것 같다.#@문장구분# 이제 초등학교를 막 졸업해서 중학교에 올라와서 우리는 중학교의 생활의 모든것이 새롭고 신기했다.#@문장구분# 중학생이 되었다는 즐거움 때문인지 친구들도 학기 초 들떠보이는 모습을 자주 보였다.#@문장구분# 내가 생각하기에 새로운 환경에서 적응을 하기 위해서는 자신을 적절히 통제하면서 그 환경에 적응해야한다고 생각한다.#@문장구분# 그런데 우리는 자신을 제대로 통제하기에는 어린나이기 때문에 그것이 어려울 수 있다.#@문장구분# 그렇기 때문에 선생님께서 그런 부분을 도와주는게 좋다고 생각했다. #@문장구분#어린아이가 새로운 환경에서 흥미를 가지고 여기저기 돌아다니는 것과 같이 중학교의 신입생인 우리도 그런 모습과 비슷하기 때문에 주변에서 통제할 사람이 필요하다고 생각하는데 그런 역할을 하는 것이 우리를 가장 가까이서 볼 수 있는 선생님이라고 생각한다.#@문장구분#",
+      "paragraph_len": 590,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.5,
+      21.85,
+      19.75
+    ],
+    "essay_scoreT_avg": 20.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.20",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이제 초등학교를 막 졸업해서 중학교에 올라와서 우리는 중학교의 생활의 모든 것이 새롭고 신기했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이제 초등학교를 막 졸업해서 중학교에 올라와서 우리는 중학교의 생활의 <문법_맞춤법>모든것이</문법_맞춤법> 새롭고 신기했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 중학생이 되었다는 즐거움 때문인지 친구들도 학기 초 들떠 보이는 모습을 자주 보였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 중학생이 되었다는 즐거움 때문인지 친구들도 학기 초 <문법_맞춤법>들떠보이는</문법_맞춤법> 모습을 자주 보였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 생각하기에 새로운 환경에서 적응을 하기 위해서는 자신을 적절히 통제하면서 그 환경에 적응해야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 생각하기에 새로운 환경에서 적응을 하기 위해서는 자신을 적절히 통제하면서 그 환경에 <문법_맞춤법>적응해야한다고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 우리는 자신을 제대로 통제하기에는 어린 나이기 때문에 그것이 어려울 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 우리는 자신을 제대로 통제하기에는 <문법_맞춤법>어린나이기</문법_맞춤법> 때문에 그것이 어려울 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 선생님께서 그런 부분을 도와주는 게 좋다고 생각했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 선생님께서 그런 부분을 <문법_맞춤법>도와주는게</문법_맞춤법> 좋다고 생각했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56158",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 451,
+    "essay_main_subject": "참된 스승"
+  }
+}

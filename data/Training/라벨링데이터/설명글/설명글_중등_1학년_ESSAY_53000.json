@@ -1,0 +1,401 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제자를 진심으로 대하여 같이 공감하는 사람이 참된 스승인것 같다.#@문장구분# 참된 스승이 되기 위해서는 제자에 대한 진심어린 마음이 첫번째로 필요하다.#@문장구분# 스승이 제자에게 진심어리게 다가가면 제자도 분명히 느끼고 따라줄것이다.#@문장구분# 진심이 담긴 행동과 맡은 제자에 마음을 움직이게 하기에 충분하고 좋고 올바른 가르침을 하기에 좋을 것이다.#@문장구분# 스승이 진심이지 않으면 제자도 충분히 그것은 느낄 것이다.#@문장구분# 그러면 좋은 가르침을 받을수가 없고 잘못된 길로 빠져들수도 있을 것 이다.#@문장구분# 두번째는 제자에게 단호해야 한다.#@문장구분# 무슨 뜻이냐면 단호하게 하지 않으면 제자들이 너무풀어져 기어오를것이다.#@문장구분# 단호하게 하지 않았을 때 제자들은 더 편하게 할 것이고 이게 커지면 조금의 예의도 지키지 않으며 갈등을 유발 할 수 있다.#@문장구분# 하지만 단호하게 잘못된 것을 봐주거나하지 않고 잘못된 것을 잘못됐다고 말하면 학생들도 잘못은 깨달을 것이다.#@문장구분# 옛말에 이런말이 있다.#@문장구분# 호의가 계속되면 권리인줄 안다.#@문장구분# 마찬가지이다.#@문장구분# 봐주면서 하다 보면 봐주는게 당연하다고 여길것이다.#@문장구분# 단호하게 해서 잘못된 것은 짚어주고 해야한다.#@문장구분# 물론 잘했을땐 좋은말과 칭찬을 칭찬을 잘 해야한다.#@문장구분#",
+      "paragraph_len": 885,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      22.1,
+      22.9
+    ],
+    "essay_scoreT_avg": 23.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제자를 진심으로 대하며 같이 공감하는 사람이 참된 스승인 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "제자를 진심으로 대하여 같이 공감하는 사람이 참된 <문법_맞춤법>스승인것 </문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "제자를 진심으로 대하며 같이 공감하는 사람이 참된 스승인 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 참된 스승이 되기 위해서는 제자에 대한 진심 어린 마음이 첫 번째로 필요하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 참된 스승이 되기 위해서는 제자에 대한 <문법_맞춤법>진심어린 </문법_맞춤법>마음이 첫번째로 필요하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승이 제자에게 진심 어리게 다가가면 제자도 분명히 느끼고 따라줄 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 스승이 제자에게 <문법_맞춤법>진심어리게 </문법_맞춤법>다가가면 제자도 분명히 느끼고 따라줄것이다.",
+      "sentence_corr_txt_styling": " 스승이 제자에게 진심 어리게 다가가면 제자도 분명히 느끼고 따라줄 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진심이 담긴 행동과 말은 제자의 마음을 움직이게 하기에 충분하고 좋고 올바른 가르침을 하기에 좋을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 진심이 담긴 행동과 <문법_맞춤법>맡은</문법_맞춤법> 제자에 마음을 움직이게 하기에 충분하고 좋고 올바른 가르침을 하기에 좋을 것이다.",
+      "sentence_corr_txt_styling": " 진심이 담긴 행동과 말은 제자의 마음을 움직이게 하기에 충분하고 좋고 올바른 가르침을 하기에 좋을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승이 진심이지 않으면 제자도 충분히 그것을 느낄 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 스승이 진심이지 않으면 제자도 충분히 <문법_조사>그것은 </문법_조사>느낄 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 좋은 가르침을 받을 수 없고 잘못된 길로 빠져들 수도 있을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면 좋은 가르침을 <문법_맞춤법>받을수가 </문법_맞춤법>없고 잘못된 길로 빠져들수도 있을 것 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째는 제자에게 단호해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째는 </문법_맞춤법>제자에게 단호해야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 무슨 뜻이냐면 단호하게 하지 않으면 제자들이 너무 풀어져 기어오를 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 무슨 뜻이냐면 단호하게 하지 않으면 제자들이 <문법_맞춤법>너무풀어져 </문법_맞춤법>기어오를것이다.",
+      "sentence_corr_txt_styling": " 무슨 뜻이냐면 단호하게 하지 않으면 제자들이 너무 풀어져 기어오를 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 단호하게 하지 않았을 때 제자들은 더 편하게 할 것이고 이게 커지면 조금의 예의도 지키지 않으며 갈등을 유발 할 수 있다.",
+      "sentence_corr_txt_styling": " 단호하게 하지 않았을 때 제자들은 더 편하게 할 것이고 이게 커지면 조금의 예의도 지키지 않으며 갈등을 유발 할 수 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 단호하게 잘못된 것을 봐주거나 하지 않고 잘못된 것을 잘못됐다고 말하면 학생들도 잘못은 깨달을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 하지만 단호하게 잘못된 것을 <문법_맞춤법>봐주거나하지 </문법_맞춤법>않고 잘못된 것을 잘못됐다고 말하면 학생들도 잘못은 깨달을 것이다.",
+      "sentence_corr_txt_styling": " 하지만 단호하게 잘못된 것을 봐주거나 하지 않고 잘못된 것을 잘못됐다고 말하면 학생들도 잘못은 깨달을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 옛말에 이런 말이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 옛말에 <문법_맞춤법>이런말이 </문법_맞춤법>있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 호의가 계속되면 권리인 줄 안다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 호의가 계속되면 <문법_맞춤법>권리인줄 </문법_맞춤법>안다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 봐주면서 하다 보면 봐주는 게 당연하다고 여길 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 봐주면서 하다 보면 <문법_맞춤법>봐주는게 </문법_맞춤법>당연하다고 여길것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 잘했을 땐 좋은 말과 칭찬을 칭찬을 잘 해야 한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 물론 <문법_맞춤법>잘했을땐 </문법_맞춤법>좋은말과 칭찬을 칭찬을 잘 해야한다.",
+      "sentence_corr_txt_styling": " 물론 잘했을 땐 좋은 말과 칭찬을 칭찬을 잘 해야 한다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53000",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 566,
+    "essay_main_subject": "참된 스승"
+  }
+}

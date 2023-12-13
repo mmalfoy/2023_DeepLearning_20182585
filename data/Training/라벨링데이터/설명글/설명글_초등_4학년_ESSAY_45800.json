@@ -1,0 +1,271 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 착한일은 엄마와 함께 분리수거를 할때 분리수거도 하고 바람때문에 떨어진 쓰레기도 주서 분리수거를 했습니다.#@문장구분# 길에 떨어진 쓰레기를 분리수거하니 마음이 뿌듯했습니다.#@문장구분#공원에 떨어진 쓰레기를 좋으니 지구를 지킨다는 생각이 들었습니다.#@문장구분# 그리고 엄마를 도와 빨레를 보고 개니 엄마가 하는 집안일에 대해 안거같고 엄마가 힘들게 일한다는 느낌이 들었습니다.#@문장구분# 설거지도 몇번 해보고 엄마를 안마해드렸습니다.#@문장구분#엄마는 살살해도 아프다고 해서 지금은 잘 안하지만 엄마를 도와주어 조았습니다.#@문장구분# 그리고 인사를 하는것도 착한 일이라 생각이 들어 인사도 많이 해요.#@문장구분# 내가 한 일들 중 착한일이라고 생각하는 건 또 엄마의 심부름을 파고 안쓰는 기계들의 코드를 뽑는 것입니다.#@문장구분# 그리고 집안에서도 주스 등 같은 것도 행궈 분리수거를 하고 캔을 찌그려 틀어서 버리는것도 착한일 이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 606,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.114285,
+      26.114285,
+      24.4
+    ],
+    "essay_scoreT_avg": 25.542856,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 착한 일은 엄마와 함께 분리수거를 할 때 분리수거도 하고 바람 때문에 떨어진 쓰레기도 주서 분리수거를 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 <문법_맞춤법>착한일은</문법_맞춤법> 엄마와 함께 분리수거를 할때 분리수거도 하고 바람때문에 떨어진 쓰레기도 주서 분리수거를 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 엄마를 도와 빨래를 개니 엄마가 하는 집안일에 대해 안 거 같고 엄마가 힘들게 일한다는 느낌이 들었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그리고 엄마를 도와<문법_맞춤법> 빨레</문법_맞춤법>를 <문법_어미>보고 개니</문법_어미> 엄마가 하는 집안일에 대해 안거같고 엄마가 힘들게 일한다는 느낌이 들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 설거지도 몇 번 해보고 엄마를 안마해 드렸습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 설거지도 <문법_맞춤법>몇번</문법_맞춤법> 해보고 엄마를 안마해드렸습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "엄마는 살살해도 아프다고 해서 지금은 잘 안 하지만 엄마를 도와주어 좋았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "엄마는 살살해도 아프다고 해서 지금은 잘 <문법_맞춤법>안하지만</문법_맞춤법> 엄마를 도와주어 조았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 인사를 하는 것도 착한 일이라 생각이 들어 인사도 많이 해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 인사를 <문법_맞춤법>하는것</문법_맞춤법>도 착한 일이라 생각이 들어 인사도 많이 해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 한 일들 중 착한 일이라고 생각하는 건 또 엄마의 심부름을 팔고 안 쓰는 기계들의 코드를 뽑는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 한 일들 중 <문법_맞춤법>착한일</문법_맞춤법>이라고 생각하는 건 또 엄마의 심부름을 파고 안쓰는 기계들의 코드를 뽑는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 집안에서도 주스 등 같은 것도 헹궈 분리수거를 하고 캔을 찌그려 틀어서 버리는 것도 착한 일이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 집안에서도 주스 등 같은 것도 <문법_맞춤법>행궈</문법_맞춤법> 분리수거를 하고 캔을 찌그려 틀어서 버리는것도 착한일 이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45800",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 428,
+    "essay_main_subject": "나의 선행"
+  }
+}

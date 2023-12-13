@@ -1,0 +1,222 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "모양과 구조가 다양한 집 들중 저는 전원주택 에서 살고 싶습니다.#@문장구분# 왜냐하면 아파트에서 살아보니 층간소음이 심하고 높은층은 항상 엘리베이터를 기다렸다 타기 때문입니다.#@문장구분# 그리고 거실은 넓고 2층이 있었으면 좋겠습니다.#@문장구분# 나중에 애완동물을 꼭 키울것이기 때문에 애완동물을 위한가구와 공간이 많이 필요할 것이기 때문입니다.#@문장구분# 깔끔하게 색깔은 화이트로 꾸밀것 같습니다.#@문장구분# 저는 이렇게 앞서 설명한 조건을 갖춘 집에서 살고 싶습니다.#@문장구분#",
+      "paragraph_len": 353,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.047619,
+      17.533333,
+      21.266666
+    ],
+    "essay_scoreT_avg": 20.28254,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "모양과 구조가 다양한 집들 중 저는 전원주택 에서 살고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "모양과 구조가 다양한 <문법_맞춤법>집 들중</문법_맞춤법> 저는 전원주택 에서 살고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 아파트에서 살아보니 층간소음이 심하고 높은 층은 항상 엘리베이터를 기다렸다 타야 하기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 왜냐하면 아파트에서 살아보니 층간소음이 심하고 <문법_맞춤법>높은층은</문법_맞춤법> 항상 엘리베이터를 기다렸다 <문법_조사><문법_어미>타기</문법_어미></문법_조사> 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나중에 애완동물을 꼭 키울 것이기 때문에 애완동물을 위한 가구와 공간이 많이 필요할 것이기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나중에 애완동물을 꼭 <문법_맞춤법>키울것이기</문법_맞춤법> 때문에 애완동물을 위한가구와 공간이 많이 필요할 것이기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 깔끔하게 색깔은 흰색으로 꾸밀 것 같습니다.",
+      "sentence_corr_reason": [
+        "순화",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 깔끔하게 색깔은 <문법_기타>화이트로</문법_기타> <문법_맞춤법>꾸밀것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40086",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 234,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

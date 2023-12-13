@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는남북 통일에찬성 합니다.#@문장구분# 왜냐하면 전쟁을하다가 죽은사람이 얼마나 만은데 그래서저는 남북이 통일이돼면좋겠습니다.#@문장구분# 그리고 통일이안돼면 군대도가야하고 통일이돼면는좋은점은 물부족도안돼고 북한친구들과 놀수도있고 전쟁도없고 땅도커지고 북한음식도먹어보고 북한으로여행도가보고 이산가족도 보고 북한과통일돼면 좋은게얼마나만은대 북한친구들 전통놀이도 갖이해볼수도있고 북한에기념품도사보고 여행도더만히만히 가고 북한어도 배울수도있고 북한새친구도 사귀고 북한학교도 가보고 북한친구집도 놀러가보고 북한전통 집도알아보고싶다.#@문장구분# 북한 악기도 연주해보고 싶고 북한 어너배워서 북한친구와 대화도해보고 북한친구와 같히 게임도 해보고 싶고 궁금한것도 북한어너로 물어보고 싶다.#@문장구분# 나는 하고싶은게너무너무나도만다.#@문장구분# 그리고 북한친구에게한국 친구도알려주고 놀고 신나게놀고싶고 북한친구도 만히만히 사귀고싶다.#@문장구분# 그리고도 북한친구를 나의집에대려오고도 싶고 나는 북한친구들과 하고 싶은 게 너무너무 만히 있다.#@문장구분# 안좋은점 은 딱히없다.#@문장구분# 그럼나는 갈게 안녕~~.#@문장구분#",
+      "paragraph_len": 687,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6190476,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.285713,
+      23.285713,
+      24.6
+    ],
+    "essay_scoreT_avg": 23.723808,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 남북 통일에 찬성합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>나는남북 </문법_맞춤법>통일에찬성 합니다.",
+      "sentence_corr_txt_styling": "나는 남북 통일에 찬성합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 전쟁을 하다가 죽은 사람이 얼마나 많은데 그래서 저는 남북이 통일이 되면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>전쟁을하다가 </문법_맞춤법>죽은사람이 얼마나 만은데 그래서저는 남북이 통일이돼면좋겠습니다.",
+      "sentence_corr_txt_styling": " 왜냐하면 전쟁을 하다가 죽은 사람이 얼마나 많은데 그래서 저는 남북이 통일이 되면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 통일이 안 되면 군대도 가야 하고 통일이 되면 좋은 점은 물 부족도 안 되고 북한 친구들과 놀 수도 있고 전쟁도 없고 땅도 커지고 북한 음식도 먹어보고 북한으로 여행도 가보고 이산가족도 보고 북한과 통일되면 좋은 게 얼마나 많은데 북한 친구들 전통 놀이도 같이 해볼 수도 있고 북한의 기념품도 사보고 여행도 더 많이  많이가고 북한어도 배울 수도 있고 북한 새 친구도 사귀고 북한 학교도 가보고 북한 친구 집도 놀러가보고 북한 전통 집도 알아보고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>통일이안돼면 </문법_맞춤법>군대도가야하고 <문법_조사>통일이돼면는</문법_조사>좋은점은 물부족도안돼고 북한친구들과 놀수도있고 전쟁도없고 땅도커지고 북한음식도먹어보고 북한으로여행도가보고 이산가족도 보고 북한과통일돼면 <문법_어미>좋은게얼마나만은대 </문법_어미>북한친구들 전통놀이도 갖이해볼수도있고 북한에기념품도사보고 여행도더만히만히 가고 북한어도 배울수도있고 북한새친구도 사귀고 북한학교도 가보고 북한친구집도 놀러가보고 북한전통 집도알아보고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 북한 악기도 연주해보고 싶고 북한 언어 배워서 북한 친구와 대화도 해보고 북한 친구와 같이 게임도 해보고 싶고 궁금한 것도 북한 언어로 물어보고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 북한 악기도 연주해보고 싶고 북한 <문법_맞춤법>어너배워서 </문법_맞춤법>북한친구와 대화도해보고 북한친구와 같히 게임도 해보고 싶고 궁금한것도 북한어너로 물어보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 하고 싶은 게 너무 너무나도 많다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>하고싶은게너무너무나도만다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 나는 하고 싶은 게 너무 너무나도 많다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 북한 친구에게 한국 친구도 알려주고 놀고 신나게 놀고 싶고 북한 친구도 많이 많이 사귀고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>북한친구에게한국 </문법_맞춤법>친구도알려주고 놀고 신나게놀고싶고 북한친구도 만히만히 사귀고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고도 북한 친구를 나의 집에 데려오고도 싶고 나는 북한 친구들과 하고 싶은 게 너무너무 많이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고도 <문법_맞춤법>북한친구를 </문법_맞춤법>나의집에대려오고도 싶고 나는 북한친구들과 하고 싶은 게 너무너무 만히 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안 좋은 점은 딱히 없다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>안좋은점 은</문법_맞춤법> 딱히없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 나는 갈게 안녕~~.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럼나는 </문법_맞춤법>갈게 안녕~~.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47456",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 508,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

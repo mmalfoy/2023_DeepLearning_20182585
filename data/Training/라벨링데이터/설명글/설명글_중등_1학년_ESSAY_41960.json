@@ -1,0 +1,296 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승이란 내가하고 싶은대로 따라 주는것이 아니라 꼭 해야하는 것을 제 시간에 시키는 것이다.#@문장구분# 나도 옛날엔 내가 공부를 무척 하기 싫어서 공부를 안시키는 스승이 참된 스승인것 같았다.#@문장구분# 하지만 중학생이 되고나니 참된 스승은 내가 하고싶은것만 시키는것이 아니란걸 알았다.#@문장구분#나는 가끔 옜날에 지금보다 공부를 열심히 했다면 무었인가 달라진게 있을까? 라고 생각한다.#@문장구분# 미래에도 이 생각을 할것같다.#@문장구분# 나는 옜날에 무었이 가장 중요한지 생각했다.#@문장구분# 하지만 나는 재미있는것 이라고 했다.#@문장구분# 지금은 공부도 열심히 하지 않으면 위로 오르기가 애매한 상황에 처한다.#@문장구분# 하지만 이것도 습관이 들면 이 습관은 고치기 무척 어려울것같다.#@문장구분# 역시 참된 스승은 제자를 똑바로 가르치는 사람인것 같다.#@문장구분#",
+      "paragraph_len": 572,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.1,
+      20,
+      26.4
+    ],
+    "essay_scoreT_avg": 22.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "참된 스승이란 내가 하고 싶은 대로 따라 주는 것이 아니라 꼭 해야 하는 것을 제시간에 시키는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "참된 스승이란 <문법_맞춤법>내가하고</문법_맞춤법> 싶은대로 따라 주는것이 아니라 꼭 해야하는 것을 제 시간에 시키는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 옛날엔 내가 공부를 무척 하기 싫어서 공부를 안 시키는 스승이 참된 스승인 것 같았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 옛날엔 내가 공부를 무척 하기 싫어서 공부를<문법_맞춤법> 안시키는</문법_맞춤법> 스승이 참된 스승인것 같았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 중학생이 되고 나니 참된 스승은 내가 하고 싶은 것만 시키는 것이 아니란 걸 알았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 중학생이 <문법_맞춤법>되고나니</문법_맞춤법> 참된 스승은 내가 하고싶은것만 시키는것이 아니란걸 알았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 가끔 옛날에 지금보다 공부를 열심히 했다면 무엇이 달라 졌을까?라고생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 가끔 <문법_맞춤법>옜날에</문법_맞춤법> 지금보다 공부를 열심히 했다면 무었인가 달라진게 있을까? 라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에도 이 생각을 할 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래에도 이 생각을 <문법_맞춤법>할것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 옛날에 무엇이 가장 중요할까 생각했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>옜날에 무었이 가장 중요한지 생각했다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 나는 재미있는 것이라고 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 나는 <문법_맞춤법>재미있는것 이라고</문법_맞춤법> 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 이것도 습관이 들면 이 습관은 고치기 무척 어려울 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 하지만 이것도 습관이 들면 이 습관은 고치기 무척<문법_맞춤법> 어려울것</문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": " 하지만 이것도 습관이 들면 이 습관은 고치기 무척 어려울 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 역시 참된 스승은 제자를 똑바로 가르치는 사람인 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 역시 참된 스승은 제자를 똑바로 가르치는 <문법_맞춤법>사람인것 </문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_41960",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 373,
+    "essay_main_subject": "참된 스승"
+  }
+}

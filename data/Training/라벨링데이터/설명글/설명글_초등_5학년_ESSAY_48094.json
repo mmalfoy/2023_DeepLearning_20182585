@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에선 여러 과목들을 배우고 있습니다.#@문장구분# 사회, 수학, 국어 따위가 있고 그중 미술도 있습니다.#@문장구분# 그림그리기, 만들기를 할 수 있고 친구들과 같이 사합도 하며 좋은 시간을 보낼수 있습니다 .#@문장구분#그림그리기는 자신만의 특성을 나타낼 수 있고 만들기는 자르기, 붙이기, 색칠을 하며 활동을 할수 있습니다.#@문장구분# 미술을 해서 좋은 점은그린그림이나 만든 작품을 보았을 때 뿌듯하고 가족들에게 자랑도 할 수 있습니다.#@문장구분# 하지만 미술활동을 하면 미술를한 자리가 더러워지고 생각대로 안되게 되면 종이쓰레기가 많이 생길 수도있고 색칠도구를 막 쓰게 되면 도구가부러지거나 엉망이 될 수 있습니다.#@문장구분#\n 또한 자신의 성격에 따라 그라데이션을 나타낼 수 있습니다.#@문장구분#",
+      "paragraph_len": 490,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18,
+      22.733334,
+      24.447618
+    ],
+    "essay_scoreT_avg": 21.726984,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그림그리기, 만들기를 할 수 있고 친구들과 같이 사합도 하며 좋은 시간을 보낼수 있습니다 .",
+      "sentence_corr_txt_styling": " 그림그리기, 만들기를 할 수 있고 친구들과 같이 사합도 하며 좋은 시간을 보낼수 있습니다 .",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그림 그리기는 자신만의 특성을 나타낼 수 있고 만들기는 자르기, 붙이기, 색칠을 하며 활동을 할 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그림그리기는</문법_맞춤법> 자신만의 특성을 나타낼 수 있고 만들기는 자르기, 붙이기, 색칠을 하며 활동을 할수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술을 해서 좋은 점은 그린 그림이나 만든 작품을 보았을 때 뿌듯하고 가족들에게 자랑도 할 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미술을 해서 좋은 <문법_맞춤법>점은그린그림이나</문법_맞춤법> 만든 작품을 보았을 때 뿌듯하고 가족들에게 자랑도 할 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 미술 활동을 하면 미술을 한 자리가 더러워지고 생각대로 안되게 되면 종이 쓰레기가 많이 생길 수도 있고 색칠 도구를 막 쓰게 되면 도구가 부러지거나 엉망이 될 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>하지만 미술활동을 하면 미술를한 자리가 더러워지고 생각대로 안되게 되면 종이쓰레기가 많이 생길 수도있고 색칠도구를 막 쓰게 되면 도구가부러지거나 엉망이 될 수 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48094",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 351,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

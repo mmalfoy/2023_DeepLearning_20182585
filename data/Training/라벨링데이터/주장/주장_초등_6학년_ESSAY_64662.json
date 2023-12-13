@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교 폭력을 줄일 수 있는 방법에는 여러가지가 있습니다.#@문장구분# 학교 폭력은 약한 장난이 재미있어지면서 계속 친구나 다른 학생들 한태 심한 장난을 하는 것 입니다.#@문장구분# 학교 폭력을 예방 할수 있는거에는 방어자가 되는 겁니다.#@문장구분# 누가 학교 폭력을 당하고 있는데 주변인들은 그저 못본 척 자기할일만 합니다. #@문장구분#하지만 우리가 \"하지마, 멈춰\"라고 말하면 우리는 방어자가 됩니다. #@문장구분#두번째로 다른분들에게 도움을 요청하는 것 입니다. #@문장구분#내가 학교 폭력을 봤으면 선생님, 근처어른분들,117에 도움을 요청합니다.#@문장구분# 세번쩨로 지금 여러의견이 있습니다.#@문장구분# 가해자에 대한 처벌을 강화하자. #@문장구분#아니다 가해자의 부모님에 대한 처벌을 강화하자는 예기가 있습니다. #@문장구분#제가 이런 생각을 한 이유는 학교 폭력으로 자살한 아이들과 전학을가는 아이들이 많아지고 학부모의 걱정이 많아 집니다. #@문장구분#지금도 어딘가에서 학교폭력이 일어날수 있으니, 모두들 다함께 방어자가 됩시다.",
+      "paragraph_len": 675,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.5,
+      23.266666,
+      18.52222
+    ],
+    "essay_scoreT_avg": 22.429628,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교 폭력을 줄일 수 있는 방법에는 여러 가지가 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교 폭력을 줄일 수 있는 방법에는 <문법_맞춤법>여러가지가 </문법_맞춤법>있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교 폭력은 약한 장난이 재미있어지면서 계속 친구나 다른 학생들한테 심한 장난을 하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교 폭력은 약한 장난이 재미있어지면서 계속 친구나 다른 학<문법_맞춤법>생들 한태</문법_맞춤법> 심한 장난을 하는 것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교 폭력을 예방할 수 있는 거에는 방어자가 되는 겁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교 폭력을 <문법_맞춤법>예방 할수 있는거에</문법_맞춤법>는 방어자가 되는 겁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 누가 학교 폭력을 당하고 있는데 주변인들은 그저 못 본 척 자기 할 일만 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 누가 학교 폭력을 당하고 있는데 주변인들은 그저 <문법_맞춤법>못본 척 자기할일만</문법_맞춤법> 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 우리가 \"하지 마, 멈춰\"라고 말하면 우리는 방어자가 됩니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 우리가 \"<문법_맞춤법>하지마</문법_맞춤법>, 멈춰\"라고 말하면 우리는 방어자가 됩니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "두 번째로 다른 분들에게 도움을 요청하는 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>두번째로</문법_맞춤법> 다른분들에게 도움을 요청하는 것 입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 학교 폭력을 봤으면 선생님, 근처 어른분들, 117에 도움을 요청합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 학교 폭력을 봤으면 선생님, <문법_맞춤법>근처어른분들</문법_맞춤법>,117에 도움을 요청합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째로 지금 여러 의견이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번쩨로 </문법_맞춤법>지금 여러의견이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아니다 가해자의 부모님에 대한 처벌을 강화하자는 얘기가 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아니다 가해자의 부모님에 대한 처벌을 강화하자는 <문법_맞춤법>예기가</문법_맞춤법> 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 이런 생각을 한 이유는 학교 폭력으로 자살한 아이들과 전학을 가는 아이들이 많아지고 학부모의 걱정이 많아집니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 이런 생각을 한 이유는 학교 폭력으로 자살한 아이들과 <문법_맞춤법>전학을가는 </문법_맞춤법>아이들이 많아지고 학부모의 걱정이 많아 집니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지금도 어딘가에서 학교폭력이 일어날 수 있으니, 모두들 다 함께 방어자가 됩시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금도 어딘가에서 학교폭력이 <문법_맞춤법>일어날수 </문법_맞춤법>있으니, 모두들 다함께 방어자가 됩시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64662",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 456,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

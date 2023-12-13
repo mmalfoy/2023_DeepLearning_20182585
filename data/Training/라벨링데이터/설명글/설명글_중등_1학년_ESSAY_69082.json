@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "초등학생 때의 나에게는 손톱을 물어 뜯는 좋지 못한 버릇이 있었다.#@문장구분# 하지만 우리 엄마덕분에 고치게 되었다. #@문장구분#버릇을 가지게 된 계기는 따로 없었다.#@문장구분# 그저 불안해서 무의식적으로 손톱을 입에 갖다 되었고, 어느날 엄마가 내가 손톱을 물어 뜯는 것을 보고 잔소리를 했었다.#@문장구분# 내 손을 보면서 손톱 물어 뜯으면 손톱이 이상해 질 것이라고 하셨다.#@문장구분# 하지만 나는 잔소리를 듣고 며칠 동안만 손톱을 물어 뜯지 않았다.#@문장구분# 보다 못한 우리 엄마는 나에게 잔소리를 하면서 무독성 메니큐어를 발라주셨다. #@문장구분#효과는 강력했었다.#@문장구분# 무의식적으로 손톱을 입에 가져갈 때 마다 메니큐어 특유의 냄새와 입에 닿을 때 마다 느껴지는 쓴 맛 때문에 밥을 먹을 때 외에는 손을 입에 가져다 대는 일도 많이 없게 되었다.#@문장구분# 엄마가 해준 메니큐어 칠 덕분에 나는 손톱을 물어뜯는 버릇을 완전히 고치게 되었다.#@문장구분#",
+      "paragraph_len": 624,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      23.35,
+      16.55
+    ],
+    "essay_scoreT_avg": 23.299997,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 하지만 우리 엄마 덕분에 고치게 되었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 우리 <문법_맞춤법>엄마덕분에</문법_맞춤법> 고치게 되었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그저 불안해서 무의식적으로 손톱을 입에 갖다 대었고, 어느 날 엄마가 내가 손톱을 물어뜯는 것을 보고 잔소리를 했었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그저 불안해서 무의식적으로 손톱을 입에 갖다 <문법_맞춤법>되었고</문법_맞춤법>, 어느날 엄마가 내가 손톱을 물어 뜯는 것을 보고 잔소리를 했었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 손을 보면서 손톱 물어뜯으면 손톱이 이상해질 것이라고 하셨다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내 손을 보면서 손톱 <문법_맞춤법>물어 뜯으면</문법_맞춤법> 손톱이 이상해 질 것이라고 하셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 나는 잔소리를 듣고 며칠 동안만 손톱을 물어뜯지 않았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 나는 잔소리를 듣고 며칠 동안만 손톱을 <문법_맞춤법>물어 뜯지</문법_맞춤법> 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "효과는 강력했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": "효과는 <문법_시제>강력했었다</문법_시제>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 무의식적으로 손톱을 입에 가져갈 때마다 메니큐어 특유의 냄새와 입에 닿을 때마다 느껴지는 쓴 맛 때문에 밥을 먹을 때 외에는 손을 입에 가져다 대는 일도 많이 없게 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 무의식적으로 손톱을 입에 가져갈 <문법_맞춤법>때 마다</문법_맞춤법> 메니큐어 특유의 냄새와 입에 닿을 <문법_맞춤법>때 마다</문법_맞춤법> 느껴지는 쓴 맛 때문에 밥을 먹을 때 외에는 손을 입에 가져다 대는 일도 많이 없게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69082",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 424,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

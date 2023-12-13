@@ -1,0 +1,240 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 하루에 5시간씩 학습을 하고, 3시간씩  여가활동을 합니다.#@문장구분# 여가활동으로는 친구들과 만나 게임을 하거나 친구들과 공원에서 축구를 하거나 집에서 책을 읽거나 레고를 만듭니다.#@문장구분# 그리고 학습활동으로는 영어와 수학학원과 집에서다영한 학습지와 문제집 학습을합니다.#@문장구분# 저는 학습 활동으로 고쳐야 할 점은 학습할때 좀더 집중을 해서 빠른 시간안에 정확하게 학습하여야겠습니다.#@문장구분# 그리고 여가활동에서 고쳐야 할 점은 게임시간을 줄여야 겠습니다.#@문장구분#",
+      "paragraph_len": 340,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.314285,
+      13.885714,
+      15.5523815
+    ],
+    "essay_scoreT_avg": 18.250793,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 여가활동으로 친구들과 만나 게임을 하거나 친구들과 공원에서 축구를 하거나 집에서 책을 읽거나 레고를 만듭니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_조사>여가활동으로는</문법_조사> 친구들과 만나 게임을 하거나 친구들과 공원에서 축구를 하거나 집에서 책을 읽거나 레고를 만듭니다.",
+      "sentence_corr_txt_styling": " 여가활동으로 친구들과 만나 게임을 하거나 친구들과 공원에서 축구를 하거나 집에서 책을 읽거나 레고를 만듭니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 학습활동으로는 영어와 수학학원을 다니며 집에서도 다양한 학습지와 문제집을 통해 학습을 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 학습활동으로는 영어와 <문법_조사><문법_기타>수학학원과</문법_기타></문법_조사> <문법_맞춤법>집에서다영한</문법_맞춤법> 학습지와 문제집 학습을합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저의 학습활동에서 고쳐야 할 점은 학습할 때 좀 더 집중을 해서 빠른 시간안에 정확하게 학습하여야겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_조사>저는</문법_조사> <문법_기타>학습 활동으로</문법_기타> 고쳐야 할 점은 학습할때 <문법_맞춤법>좀더</문법_맞춤법> 집중을 해서 빠른 시간안에 정확하게 학습하여야겠습니다.",
+      "sentence_corr_txt_styling": " 저의 학습활동에서 고쳐야 할 점은 학습할 때 좀 더 집중을 해서 빠른 시간안에 정확하게 학습하여야겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 여가활동에서 고쳐야 할 점은 게임하는 시간을 줄여야겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 여가활동에서 고쳐야 할 점은 <문법_조사><문법_어미>게임시간을</문법_어미></문법_조사> <문법_맞춤법>줄여야 겠습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": " 그리고 여가활동에서 고쳐야 할 점은 게임하는 시간을 줄여야겠습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40068",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 241,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

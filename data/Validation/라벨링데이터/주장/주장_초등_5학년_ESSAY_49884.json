@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "다문화 가정을 우리 나라에서는 차별을 많이한다.#@문장구분# 어려운 일을 시키고 인권존중을 잘않해준다.#@문장구분# 다문화는 엄마께서 외국분아니면 아빠께서 외국분인 가족을 말한다.#@문장구분# 딸아니면 아들이 한국에서 태어나도 생김새때매 친구들이 신기하게 보고 커서는 차별까지 봤는다.#@문장구분#\n 다문화 가족은 좋은 점이 많다.#@문장구분# 2국어을 할수있고 남들과 다르니까 자신만에 장점이니까 장점을 놀리 일은 슬퍼하지 않고 무시을 할것이다.#@문장구분# 나중에 커서 자신이 하고싶은 것을 다 알고 살것이다.#@문장구분# 다문화 가족도 차별을 받지 않고 행복하게 사는 것을 보고싶다.#@문장구분# \n 다문화 가족이 피해을 많이 본다.#@문장구분# 위험한 일을 다 한다.#@문장구분# 직장을 구하지 못해서 하지만 다문화 가족을 도와주는 센터가 있다.#@문장구분# 센터가 있어도 다문화 가족은 많이 피해을 보지만 다문화센터가 많이 도와준다.#@문장구분#\n 다문화 가족에게 내가 내가 도아좋야라는 생각이 들었다.#@문장구분# 다문화 가족이 우리 반에 있으면 내가 먼저 다가 가서 우리 반에 적응을 빨리 하게 하고 같이도 놀고 힘든일 있으면 고민도 들어주고 조원도 해주고 놀림을 봤고 있으면 도와주고 다문화 가족을 차별을 않봤게 했으면 좋겠다.#@문장구분# \n 다문화 가족도 우리 나라 국민이다.",
+      "paragraph_len": 850,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.664286,
+      27.085712,
+      25.8
+    ],
+    "essay_scoreT_avg": 25.516668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "다문화 가정을 우리나라에서는 차별을 많이 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다문화 가정을 우<문법_맞춤법>리 나라에</문법_맞춤법>서는 차별을 많이한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어려운 일을 시키고 인권 존중을 잘 안 해준다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어려운 일을 시키고 인권존중을 잘않해준다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화는 엄마께서 외국 분 아니면 아빠께서 외국 분인 가족을 말한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다문화는 엄마께서 외국분아니면 아빠께서 외국분인 가족을 말한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 딸 아니면 아들이 한국에서 태어나도 생김새 때문에 친구들이 신기하게 보고 커서는 차별까지 받는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>딸아니면 아들이 한국에서 태어나도 생김새때매 친구들이 신기하게 보고 커서는 차별까지 봤는다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2개 국어를 할 수 있고 남들과 다르니까 자신만에 장점이니까 장점을 놀리 일은 슬퍼하지 않고 무시를 할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>2국어을 할수있고 남들과 다르니까 자신만에 장점이니까 장점을 놀리 일은 슬퍼하지 않고 무시을 할것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나중에 커서 자신이 하고 싶은 것을 다 알고 살 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>나중에 커서 자신이 하고싶은 것을 다 알고 살것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 가족도 차별을 받지 않고 행복하게 사는 것을 보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다문화 가족도 차별을 받지 않고 행복하게 사는 것을 <문법_맞춤법>보고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 다문화 가족이 피해를 많이 본다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 다문화 가족이 <문법_맞춤법>피해을 </문법_맞춤법>많이 본다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 센터가 있어도 다문화 가족은 많이 피해를 보지만 다문화 센터가 많이 도와준다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 센터가 있어도 다문화 가족은 많이 <문법_맞춤법>피해을 </문법_맞춤법>보지만 다문화센터가 많이 도와준다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 다문화 가족에게 내가  도움을 주어서 좋다는 생각이 들었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 다문화 가족에게 내가 내가 <문법_맞춤법>도아좋야라는</문법_맞춤법> 생각이 들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 가족이 우리 반에 있으면 내가 먼저 다가가서 우리 반에 적응을 빨리하게 하고 같이도 놀고 힘든 일 있으면 고민도 들어주고 조언도 해주고 놀림을 받고 있으면 도와주고 다문화 가족을 차별을 안 받게 했으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다문화 가족이 우리 반에 있으면 내가 먼저 다<문법_맞춤법>가 가서</문법_맞춤법> 우리 반에 적응을 빨리 하게 하고 같이도 놀고 힘든일 있으면 고민도 들어주고 조원도 해주고 놀림을 봤고 있으면 도와주고 다문화 가족을 차별을 않봤게 했으면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 다문화 가족도 우리나라 국민이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 다문화 가족도 <문법_맞춤법>우리 나라</문법_맞춤법> 국민이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49884",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 573,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

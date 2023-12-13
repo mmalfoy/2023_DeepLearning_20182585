@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지키기 위해선 여러가지 방법 있습니다.#@문장구분#\n 먼저 손 씻기인데요. #@문장구분#밖에 외출을 하고 오면 손에 세균이 많아 손 씻기는 필수인데요. #@문장구분#요즘에는 코로나시대이기 때문에 손 씻기는 더욱더 필수입니다.#@문장구분#\n 두번째 방법은 양치하기 입니다.#@문장구분# 음식을 먹고 양치를 안 하게되면 이에 세균이 잔뜩 있어서 이가 썩을 수도 있습니다. #@문장구분#그러니 양치도 꼬박꼬박 해주셔야합니다!#@문장구분#\n 세번째는 샤워하기 입니다. #@문장구분#학교나회사를 갔다오거나 놀고 왔을 때도 샤워를 해줘야 하는데요 #@문장구분#바깥활동을 하다보면 땀이나기 때문에 몸을 깨끗이 닦아 주어야합니다.#@문장구분#\n 제가 오늘은 위생을 지키기 위한방법을 소개해 보았는데요. #@문장구분#그럼 여러분께 도움이 됬기를 바랍니다.",
+      "paragraph_len": 560,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      26.114285,
+      24.4
+    ],
+    "essay_scoreT_avg": 24.038095,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.13",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "위생을 지키기 위해선 여러 가지 방법 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위생을 지키기 위해선 <문법_맞춤법>여러가</문법_맞춤법>지 방법 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요즘에는 코로나 시대이기 때문에 손 씻기는 더욱더 필수입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘에는 <문법_맞춤법>코로나시대이기</문법_맞춤법> 때문에 손 씻기는 더욱더 필수입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 두 번째 방법은 양치하기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>두번째 방법은 양치하기 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 음식을 먹고 양치를 안 하게 되면 이에 세균이 잔뜩 있어서 이가 썩을 수도 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 음식을 먹고 양치를 안 <문법_맞춤법>하게되면</문법_맞춤법> 이에 세균이 잔뜩 있어서 이가 썩을 수도 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 양치도 꼬박꼬박 해주셔야 합니다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러니 양치도 꼬박꼬박 <문법_맞춤법>해주셔야합</문법_맞춤법>니다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 세 번째는 샤워하기입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>세번째는 샤워하기 입니</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학교나 회사를 갔다 오거나 놀고 왔을 때도 샤워를 해줘야 하는데요 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>학교나회사를 갔다오거나</문법_맞춤법> 놀고 왔을 때도 샤워를 해줘야 하는데요 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바깥활동을 하다 보면 땀이 나 기 때문에 몸을 깨끗이 닦아 주어야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바깥활동을 <문법_맞춤법>하다보면 땀이나기 </문법_맞춤법>때문에 몸을 깨끗이 닦아 주어야합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 제가 오늘은 위생을 지키기 위한 방법을 소개해 보았는데요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 제가 오늘은 위생을 지키기 <문법_맞춤법>위한방법</문법_맞춤법>을 소개해 보았는데요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그럼 여러분께 도움이 됐기를 바랍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그럼 여러분께 도움이 <문법_맞춤법>됬기를 </문법_맞춤법>바랍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51093",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 341,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

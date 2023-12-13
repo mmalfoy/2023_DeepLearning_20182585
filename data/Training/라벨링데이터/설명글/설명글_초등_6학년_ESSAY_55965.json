@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 진정한 친구란 서로 스스름 없이 대하고 비밀을 터 놓을 수 있는 친구라고 생각 합니다.#@문장구분# 하지만 서로 스스럼 없는 것이지 그게 서로 막 대해도 되는 것이라고 생각 하면 안됩니다. #@문장구분#서로 조심하고, 진지하게 충고도 해 주고, 존중한다는 것이 바탕에 있어야지 진정한 친구라고 생각 합니다.#@문장구분# 나를 믿어주고 응원해 주고 잘못된 길로 간다면 충고도 해 줄 수 있는 그런 친구가 진정한 친구라고 생각 합니다. #@문장구분#몇몇 사람들은 내가 잘 되었을 때 축하해 주는 친구가 진정한 친구라고 이야기 합니다. #@문장구분#하지만 저는 저도 잘 되고 있을 때 친구가 잘 되는 것이라면 축하해 줄 수 있지만 만약 제가 힘든 중인데 친구가 잘 되었다면 진짜 기쁘게 축하해 줄 수 있을까?#@문장구분# 라고 묻는다면 솔직히 잘 모르겠습니다. #@문장구분#그래서 저는 제가 잘 되었을 때 같이 기뻐해 주지는 못해도 정말 힘들 때 저한테 말 할 수 있다면 그것이 진정한 친구라고 생각 합니다.",
+      "paragraph_len": 599,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      24.95,
+      21.85
+    ],
+    "essay_scoreT_avg": 24.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.27",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 진정한 친구란 서로 스스럼없이 대하고 비밀을 터 놓을 수 있는 친구라고 생각 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 진정한 친구란 서로 <문법_맞춤법>스스름 없이</문법_맞춤법> 대하고 비밀을 터 놓을 수 있는 친구라고 생각 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 서로 스스럼없는 것이지 그게 서로 막 대해도 되는 것이라고 생각하면 안 됩니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 서로 <문법_맞춤법>스스럼 없는</문법_맞춤법> 것이지 그게 서로 막 대해도 되는 것이라고 생각 하면 안됩니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "서로 조심하고, 진지하게 충고도 해 주고, 존중한다는 것이 바탕에 있어야지 진정한 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "서로 조심하고, 진지하게 충고도 해 주고, 존중한다는 것이 바탕에 있어야지 진정한 친구라고 <문법_맞춤법>생각 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나를 믿어주고 응원해 주고 잘못된 길로 간다면 충고도 해 줄 수 있는 그런 친구가 진정한 친구라고 생각합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나를 믿어주고 응원해 주고 잘못된 길로 간다면 충고도 해 줄 수 있는 그런 친구가 진정한 친구라고 <문법_맞춤법>생각 합니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "몇몇 사람들은 내가 잘 되었을 때 축하해 주는 친구가 진정한 친구라고 이야기합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "몇몇 사람들은 내가 잘 되었을 때 축하해 주는 친구가 진정한 친구라고 <문법_맞춤법>이야기 합니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저는 제가 잘 되었을 때 같이 기뻐해 주지는 못해도 정말 힘들 때 저한테 말 할 수 있다면 그것이 진정한 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 저는 제가 잘 되었을 때 같이 기뻐해 주지는 못해도 정말 힘들 때 저한테 말 할 수 있다면 그것이 진정한 친구라고 <문법_맞춤법>생각 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55965",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 461,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

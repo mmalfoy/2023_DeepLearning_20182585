@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 가해 학생에 대한 처벌을 강화했으면 좋겠습니다.#@문장구분# 학교 폭력을 가해 한 학생은 단순한처벌만으로는 문제가 해결 되지 않습니다.#@문장구분#그래서 세 단계로 만들어 보았습니다.#@문장구분#일단, 처음 폭력을 했다면 교육과전학을 해야합니다.#@문장구분#처음은 하나의 실수로 일이 커진 것 일수 있으므로 가볍게 처벌할 수 있습니다.#@문장구분#가해 학생에게학교 폭력의 심각성에 대해 알려주고,피해 학생의 기분은 어떨지 느낄 수 있도록 반성의 시간을 주는 것 입니다.#@문장구분# 두번째는 벌금을 내게 하는 것 입니다.#@문장구분#한번은 실수 일 수 있지만, 두번째는 실수가 아닙니다.#@문장구분#처벌을 조금 더 강하게하는 것 입니다.#@문장구분#자신이 저지른 잘못에 대한 값을 지불하는 것 입니다.#@문장구분# 세번째는 학교를 졸업 할때까지보호시설로 보내는 것 입니다.#@문장구분#세번이나 학교폭력을 저지르는 것은 정말 나쁜 것 입니다.#@문장구분# 그러면 처벌을 더욱 강하게 할수 밖에 없습니다.#@문장구분#보호시설에서 수 많은 교육과 긴 시간 자신을 돌아보는 신간을 갖게되면 반드시 좋은 변화가 일어 날 것 입니다.#@문장구분# 제가 원하는 학교생활은 우리들이 폭력 없는 세상에서 즐겁게,마음 편히 학교를 다니는 것 입니다.#@문장구분# 제가 생각한 3단계를 시행해서라도 학교 폭력 없는 세상이 되기를 간절히 바랍니다.#@문장구분#",
+      "paragraph_len": 904,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.61111,
+      26.4,
+      27.9
+    ],
+    "essay_scoreT_avg": 27.303703,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 학교 폭력을 가해 한 학생은 단순한 처벌만으로는 문제가 해결되지 않습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교 폭력을 가해 한 학생은<문법_맞춤법> 단순한처벌만으로는 문제가 해결 되지 </문법_맞춤법>않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단, 처음 폭력을 했다면 교육과 전학을 해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단, 처음 폭력을 했다면 <문법_맞춤법>교육과전학을 해야합니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "가해 학생에게 학교 폭력의 심각성에 대해 알려주고,피해 학생의 기분은 어떨지 느낄 수 있도록 반성의 시간을 주는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "가해 <문법_맞춤법>학생에게학교 폭력의 심각성에 대해 알려주고,피해 학생의 기분은 어떨지 느낄 수 있도록 반성의 시간을 주는 것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째는 벌금을 내게 하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째는 벌금을 내게 하는 것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "한 번은 실수 일 수 있지만, 두 번째는 실수가 아닙니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>한번은 실수 일 수 있지만, 두번째</문법_맞춤법>는 실수가 아닙니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "처벌을 조금 더 강하게 하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "처벌을 조금 더 <문법_맞춤법>강하게하는 것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "자신이 저지른 잘못에 대한 값을 지불하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "자신이 저지른 잘못에 대한 값을 지불하는<문법_맞춤법> 것 입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째는 학교를 졸업할 때까지 보호 시설로 보내는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째는 학교를 졸업 할때까지보호시설로 보내는 것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세 번이나 학교폭력을 저지르는 것은 정말 나쁜 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>세번이나 학교폭력을 저지르는 것은 정말 나쁜 것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 처벌을 더욱 강하게 할 수밖에 없습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면 처벌을 더욱 강하게 <문법_맞춤법>할수 밖</문법_맞춤법>에 없습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "보호시설에서 수많은 교육과 긴 시간 자신을 돌아보는 시간을 갖게 되면 반드시 좋은 변화가 일어날 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "보호시설에서<문법_맞춤법> 수 많은 교육과 긴 시간 자신을 돌아보는 신간을 갖게되면 반드시 좋은 변화가 일어 날 것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 원하는 학교생활은 우리들이 폭력 없는 세상에서 즐겁게,마음 편히 학교를 다니는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 원하는 학교생활은 우리들이 폭력 없는 세상에서 즐겁게,마음 편히 학교를 다니는 <문법_맞춤법>것 입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51390",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 584,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

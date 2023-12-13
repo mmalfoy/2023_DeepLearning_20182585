@@ -1,0 +1,267 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주제:예절에 대한 기준.#@문장구분#",
+      "paragraph_len": 33,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 많은 사람들의 예절의 기준은 다르다.#@문장구분# 이것을 봐도 알 수 있다.#@문장구분# : 어떤 가족은 엄마가 아빠한테, 아빠가 엄마한테, 아이가 어른한테, 어른이 아이한테 존댄말을 하는 집도 있고, 서로 서로 반말을 쓰는 집도 있다.#@문장구분# 난 어른이 아이에게 존댓말을 사용하지 않아도 된다고 생각했다.#@문장구분# 어른이 아이에게 계속 존댓말을 하다 보면 어쩌면 어떤 아이들은 어른을 무시하는 행동을 보일 수 있습니다.#@문장구분# 그렇다고 아이들에게 어른들이 거친말이나 무시하진 말면 좋겠다.#@문장구분# 버스에서도, 키가 크거나 노약자, 어린이가 아닌 어른들은 아이나 노약자를 위해 자리를 비켜 주면 좋겠다. #@문장구분#특히 어린이는 지하철 탈 때 위에 손잡이를 잡지 못 해서 서있지도 않지도 못하는 경우가 많다.#@문장구분# 그래서 좀 더 양보해줬습니다.#@문장구분#",
+      "paragraph_len": 557,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5714285,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8571427,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      20.333334,
+      23.314285
+    ],
+    "essay_scoreT_avg": 24.015875,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.13",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "주제: 예절에 대한 기준.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>주제:예절에 대한 기준.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " : 어떤 가족은 엄마가 아빠한테, 아빠가 엄마한테, 아이가 어른한테, 어른이 아이한테 존댓말을 하는 집도 있고, 서로 서로 반말을 쓰는 집도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " : 어떤 가족은 엄마가 아빠한테, 아빠가 엄마한테, 아이가 어른한테, 어른이 아이한테 <문법_맞춤법>존댄말</문법_맞춤법>을 하는 집도 있고, 서로 서로 반말을 쓰는 집도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어른이 아이에게 계속 존댓말을 하다 보면 어쩌면 어떤 아이들은 어른을 무시하는 행동을 보일 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 어른이 아이에게 계속 존댓말을 하다 보면 어쩌면 어떤 아이들은 어른을 무시하는 행동을 보일 수 <문법_높임법>있습니다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇다고 아이들에게 어른들이 거친 말이나 무시하진 않으면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇다고 아이들에게 어른들이 <문법_맞춤법>거친말</문법_맞춤법>이나 무시하진 말면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 좀 더 양보해줬다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 그래서 좀 더 <문법_높임법>양보해줬습니다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48737",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 392,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

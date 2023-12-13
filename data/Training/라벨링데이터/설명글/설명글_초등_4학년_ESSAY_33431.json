@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래의 살고 싶은 집을 생각해 본적이 있지만 자새히 생각해 본적은 없다.#@문장구분# 내가 살고 싶은 집은 아늑하고 넓고 또 인테리어가 좋고 깨끗한 집에 살고 싶다.#@문장구분# 그리고 가족들과 같이 집안에 문재 없이 살고 싶다.#@문장구분# 대부분 이와 같이 살고 싶아하는데 사람에 성격은 모두 다르며 좋고 나쁜것에 기준도 달라서 사람마다 살고싶어하는 집이 비슷하더라도 조금씩 다릅니다.#@문장구분# 그리고 나는 높으층에 살고 싶고 주변 환경이 좋고 사는 사람이 적고 아이들이 많았스면 좋겠다.#@문장구분# 또 엘래배이터 속도가 빠르고 담배를 피우는 사람이 적고 분리수거가 잘되고 기본옵션이 많았스면 좋겠다. #@문장구분#그 환경문재를 없이 할려면 건물에 옥상대신 전자판을 깔고 전지판에서 전기만 쓰고 물은 바닷물을 정화하여 소금하고 물을 둘다 얻을 수 있고 온실가스 배출이 되지 않도록 하고 옷은 버리지 않도록 낡은 옷을 기계에다가 너어서 다시 새옷으로 만드는 기계도 만들고 뭐 이러게하면 사람들에 불만없이 잘 살 것 같다.#@문장구분# 나는 좋고 편리한 집에 살고 싶지만 환경을 위한 집에서도 살고 싶다.#@문장구분#",
+      "paragraph_len": 679,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      23.2,
+      21.714287
+    ],
+    "essay_scoreT_avg": 24.97143,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 미래에 살고 싶은 집을 생각해 본 적이 있지만 자세히 생각해 본 적은 없다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>미래의 살고 싶은 집을 생각해 본적이 있지만 자새히 생각해 본적은 없다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 가족들과 같이 집안에 문제 없이 살고 싶다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 가족들과 같이 집안에 <문법_맞춤법>문재 </문법_맞춤법>없이 살고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대부분 이와 같이 살고 싶어 하는데 사람에 성격은 모두 다르며 좋고 나쁜것에 기준도 달라서 사람마다 살고 싶어하는 집이 비슷하더라도 조금씩 다릅니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대부분 이와 같이 살고 <문법_맞춤법>싶아하는데 </문법_맞춤법>사람에 성격은 모두 다르며 좋고 나쁜것에 기준도 달라서 사람마다 살고싶어하는 집이 비슷하더라도 조금씩 다릅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나는 높은 층에 살고 싶고 주변 환경이 좋고 사는 사람이 적고 아이들이 많았으면 좋겠다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 나는 <문법_맞춤법>높으층에 살고 싶고 주변 환경이 좋고 사는 사람이 적고 아이들이 많았스면 좋겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 엘리베이터 속도가 빠르고 담배를 피우는 사람이 적고 분리 수거가 잘 되고 기본 옵션이 많았으면 좋겠다. ",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또<문법_맞춤법> 엘래배이터 속도가 빠르고 담배를 피우는 사람이 적고 분리수거가 잘되고 기본옵션이 많았스면 좋겠다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 환경문재를 없이 하려면 건물에 옥상대신 전자판을 깔고 전지판에서 전기만 쓰고 물은 바닷물을 정화하여 소금하고 물을 둘 다 얻을 수 있고 온실가스 배출이 되지 않도록 하고 옷은 버리지 않도록 낡은 옷을 기계에다가 넣어서 다시 새 옷으로 만드는 기계도 만들고 뭐 이렇게 하면 사람들이 불만 없이 잘 살 것 같다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 환경문재를 없이<문법_맞춤법> 할려면 </문법_맞춤법>건물에 옥상대신 전자판을 깔고 전지판에서 전기만 쓰고 물은 바닷물을 정화하여 소금하고 물을 둘다 얻을 수 있고 온실가스 배출이 되지 않도록 하고 옷은 버리지 않도록 낡은 옷을 기계에다가 너어서 다시 새옷으로 만드는 기계도 만들고 뭐 이러게하면 사람들에 불만없이 잘 살 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33431",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 519,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

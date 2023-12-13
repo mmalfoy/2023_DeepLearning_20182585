@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 들인 좋은 습관 중 하나는 꼼꼼하게 바뀐 성격입니다.#@문장구분# 이 습관을 들인 이유는 나쁜 습관을 고치기 위해 좋은 습관을 들인 것 입니다.#@문장구분# 평소 제 성격은 잘 덤벙대고 대충대충 생각하고 넘어가는 성격이었습니다.#@문장구분# 그러다 보니 하나 둘 빠트리는 일들이 많았고, 제가 잘 못 생각하고 있는 경우도 생겼습니다.#@문장구분# 그러다 한 번 크게 중요한 일에도 덤벙대는 일이 발생하여 민폐를 끼치는 일이 발생했습니다.#@문장구분# 그 이후 안 좋은 습관을 고치고자 좋은 습관을 들이려고 계속 노력했습니다.#@문장구분# 확인 한 일이더라도 또 확인하고, 색이 있는 펜으로 체크해가며 확인 하는 등의 노력을 계속하여 했습니다. #@문장구분#그 결과 현재는 실수를 한 번도 안 하는 건 불가능 하지만 이 습관을 들이기 전 보다는 훨씬 줄어들었고, 앞으로도 실수를 줄이기 위해 계속 확인하는 습관을 들이려고 계속하여 노력하고 있습니다.#@문장구분#",
+      "paragraph_len": 588,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.05,
+      20.8,
+      16.8
+    ],
+    "essay_scoreT_avg": 20.216665,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이 습관을 들인 이유는 나쁜 습관을 고치기 위해 좋은 습관을 들인 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 습관을 들인 이유는 나쁜 습관을 고치기 위해 좋은 습관을 들인 <문법_맞춤법>것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 확인 한 일이더라도 또 확인하고, 색이 있는 펜으로 체크해가며 확인하는 등의 노력을 계속하여 했습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 확인 한 일이더라도 또 확인하고, 색이 있는 펜으로 체크해가며 <문법_맞춤법>확인 하는 </문법_맞춤법>등의 노력을 계속하여 했습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69026",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 428,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

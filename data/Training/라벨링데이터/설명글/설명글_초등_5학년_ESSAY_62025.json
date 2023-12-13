@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에는 많은 과목이 있다.#@문장구분#수학, 과학, 영어, 체육등 많은 과목을배우고 있습니다. #@문장구분#저는 가장 좋아하는 과목이여러개 있습니다. #@문장구분#어떤과목이냐면 미술, 음악을 가장 좋아하고 국어, 수학은 그냥 좋아한다.#@문장구분#음악, 미술이 좋은이유는 미술은 그림이나 만들기 같은걸좋아해서 미술이 좋다.#@문장구분# 그리고 음악은 나는 꿈이 바이올린 리스트이다. #@문장구분#그레서 음악을 좋아한다.#@문장구분# 그리고 그냥 좋아하는 과목은 아까도 말했듯 국어와수학을 좋아한다.#@문장구분# 왜냐면 국어는 나는책을 읽는것을 좋아하기 때문이다.#@문장구분# 그리고 수학을 좋아한다. #@문장구분#왜냐면 국어는 나는책을 읽는것을 좋아하기 때문이다. #@문장구분#그리고 수학은 나는 문제를 풀어나가는 것을 좋아한다.#@문장구분#",
+      "paragraph_len": 572,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.333334,
+      27.6,
+      28.066666
+    ],
+    "essay_scoreT_avg": 28,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_62025",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 332,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

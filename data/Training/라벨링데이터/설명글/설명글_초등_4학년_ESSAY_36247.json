@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 엄마아빠 와 행복 하게 지내며 살집은 마당이 없고 학교도안가고 요리학원이 있고 말티즈 강아지를 키우고 학원은 요리 학원 빼고 학원 없이 신나게 놀고 십습니다.#@문장구분# 집은 10000평 이고 놀이 터도 아주아주 많이 있고 방도 엄청 넓고 영화관과 PC 방도 있고 나만의 전용 편이점 도 있으면 좋겠 습니다.#@문장구분# 그래도 영어도 잘하고 수학도 잘하고 코로나도 없고 해외 여행도 만이 다니고 놀이공원도 있고 그런 좋은 집이 있었으면 좋겠 습니다.#@문장구분# 그리고 매일 건강하고 맜있는 밥을먹고 온라인 수업도 없고 수영장도 있는 집이었으면 좋겠 습니다.#@문장구분# 그리고 아빠는 술집을 차려 줘서 아빠마음대로 거기서 게임하고 엄마는 예쁜 가방들과 재미있는 것이 많은 엄마 만의 백화점에서 언니는 올리브영과 못된 고양이 펜트리문구점 나는 버튼만 누르면 내머리 속에 하고 십은 것이 나오는 버튼이 있었으면 좋겠 습니다.#@문장구분# 그리고 엄마는 회사를 안나가고 집에서 일도 안하고 놀고 아빠는 일주일에 한번만 오고 숨쉴때마다 돈이 10000원씩 통장에 들어오면 정말 꿈 에그리고 있던 행복한집일것 같습니다.#@문장구분# -끝-#@문장구분#",
+      "paragraph_len": 680,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      30,
+      21.933334
+    ],
+    "essay_scoreT_avg": 24.51111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.02",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는<문법_맞춤법> 엄마아빠 와</문법_맞춤법> 행복 하게 지내며 살집은 마당이 없고 학교도안가고 요리학원이 있고 말티즈 강아지를 키우고 학원은 요리 학원 빼고 학원 없이 신나게 놀고 십습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "붙여쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집은 10000평 이고 <문법_맞춤법>놀이 터도</문법_맞춤법> 아주아주 많이 있고 방도 엄청 넓고 영화관과 PC 방도 있고 나만의 전용 편이점 도 있으면 좋겠 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래도 영어도 잘하고 수학도 잘하고 코로나도 없고 <문법_맞춤법>해외 여행도 만이 다니고</문법_맞춤법> 놀이공원도 있고 그런 좋은 집이 있었으면 좋겠 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요, 맞춤법 정정"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 매일 건강하고 <문법_맞춤법>맜있는 밥을먹고</문법_맞춤법> 온라인 수업도 없고 수영장도 있는 집이었으면 좋겠 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 아빠는 술집을 차려 줘서 <문법_맞춤법>아빠마음대로 </문법_맞춤법>거기서 게임하고 엄마는 예쁜 가방들과 재미있는 것이 많은 엄마 만의 백화점에서 언니는 올리브영과 못된 고양이 펜트리문구점 나는 버튼만 누르면 내머리 속에 하고 십은 것이 나오는 버튼이 있었으면 좋겠 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 엄마는 회사를 <문법_맞춤법>안나가고 </문법_맞춤법>집에서 일도 안하고 놀고 아빠는 일주일에 한번만 오고 숨쉴때마다 돈이 10000원씩 통장에 들어오면 정말 꿈 에그리고 있던 행복한집일것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36247",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 540,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

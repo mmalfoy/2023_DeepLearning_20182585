@@ -1,0 +1,285 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕? 나는 돌고래. #@문장구분#이름은 워니라고해. #@문장구분#음 일단 나에 관해 소개하자면 나는 고래목 이빨고래아목에 속하는 종류고 고래류 중에서 주둥이가 좀 튀어나왔다는 특징이 있어.#@문장구분# 인간인 너희가보기에 우리 돌고래들이 마치 웃는 모습을 하고 있어서 우리가 항상 즐거울거라고 생각하는 건 아니겠지?#@문장구분# 난 방금 전만해도 내가 며칠동안 꽁꽁 숨겨놓은 오징어 2마리를 내 친구 지니가 먹어버려서 얼마나 화가 났었다구!!#@문장구분# 외관상 주둥이가 요렇게 생깅거지 화 날 때도 있으니까 주의해 줘... #@문장구분#오늘 나는 어제 늦게 일어났음에도 아침일찍 일어나야했어.#@문장구분# 에세이라고 학교 숙제가 있는데 까먹다가 어제 저녁에 생각났거든..#@문장구분# 아 몰랐나? 우리 해양동물들도 학교가 있어.#@문장구분# 담임선생님은 우리보다 큰 돌고래, 교장선생님은 고래, 체육선생님은 상어, 학생들은 어리다면 모두 될 수 있어! #@문장구분#이야기를 하나 들려줄게.#@문장구분# 아침 등교길에 지니랑 학교로 가고 있었는데 작은 물고기들이 바다 속 소용돌이 쪽으로 가고 있는거야.#@문장구분# 그래서 이 워니님이 멋지게 구해냈지. #@문장구분#아직 어려서들 그런지 잘 몰랐다며 고맙다고 작은 전복을 하나 줬어. #@문장구분#작아도 어찌나 맛있던지~! 어 엄마가 부르시네. #@문장구분#친구들, 그럼 다음에 또 봐. #@문장구분#안녕!#@문장구분# 저는 방금 돌고래가 되어 오늘 있었던 일을 이야기 했는데요. #@문장구분#어쩌면 바다에 사는 해양동물이 되보는 것도 아주 즐거운 일인듯 합니다!#@문장구분#",
+      "paragraph_len": 1046,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      28,
+      26.5
+    ],
+    "essay_scoreT_avg": 26.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "이름은 워니라고 해. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이름은 <문법_맞춤법>워니라고해</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인간인 너희가 보기에 우리 돌고래들이 마치 웃는 모습을 하고 있어서 우리가 항상 즐거울 거라고 생각하는 건 아니겠지?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인간인 <문법_맞춤법>너희가보기에</문법_맞춤법> 우리 돌고래들이 마치 웃는 모습을 하고 있어서 우리가 항상 즐거울거라고 생각하는 건 아니겠지?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 방금 전만 해도 내가 며칠 동안 꽁꽁 숨겨 놓은 오징어 2마리를 내 친구 지니가 먹어버려서 얼마나 화가 났었다구!!",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 난 방금 <문법_맞춤법>전만해도 내가 며칠동안 꽁꽁 숨겨놓은</문법_맞춤법> 오징어 2마리를 내 친구 지니가 먹어버려서 얼마나 화가 났었다구!!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 외관상 주둥이가 요렇게 생긴 거지 화날 때도 있으니까 주의해 줘... ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 외관상 주둥이가 요렇게 <문법_맞춤법>생깅거지</문법_맞춤법> 화 날 때도 있으니까 주의해 줘... ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "오늘 나는 어제 늦게 일어났음에도 아침 일찍 일어나야했어.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "오늘 나는 어제 늦게 일어났음에도 <문법_맞춤법>아침일찍</문법_맞춤법> 일어나야했어.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침 등교길에 지니랑 학교로 가고 있었는데 작은 물고기들이 바닷속 소용돌이 쪽으로 가고 있는거야.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아침 등교길에 지니랑 학교로 가고 있었는데 작은 물고기들이 <문법_맞춤법>바다 속</문법_맞춤법> 소용돌이 쪽으로 가고 있는거야.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 방금 돌고래가 되어 오늘 있었던 일을 이야기했는데요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 방금 돌고래가 되어 오늘 있었던 일을 <문법_맞춤법>이야기 했는데요.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어쩌면 바다에 사는 해양동물이 돼 보는 것도 아주 즐거운 일인 듯합니다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어쩌면 바다에 사는 해양동물이 <문법_맞춤법>되보는</문법_맞춤법> 것도 아주 즐거운 일인듯 합니다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63598",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 666,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

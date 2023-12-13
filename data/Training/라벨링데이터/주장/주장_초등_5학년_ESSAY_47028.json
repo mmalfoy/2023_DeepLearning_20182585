@@ -1,0 +1,435 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "이대한민국은 점점 다문화가족으로이 늘어나고있습니다.#@문장구분# 하지만 수없는차별로 다문화가족들이 상처를입고 있습니다.#@문장구분# 단지 피부색이다르다고 차별을 하는사람들이 대부분이죠#@문장구분# 이차별을없애기위해 글을 써봅니다.#@문장구분# 우선 첫째!#@문장구분# 우리는 하나!#@문장구분# 미국, 중국, 일본, 호주, 등등 다른나라여도 우리는하나입니다.#@문장구분# 물론 우리나라 사람들은 아니지만 한국에살고있으니 우리의 친구들이겠죠?#@문장구분# 둘째!#@문장구분# 비난 절대로 비난은하지말아요!#@문장구분# \"너는 다른나라인 사람인데 국어를 왜이렇게못해?\" 이런식으로 다문화 친구에게 큰상처를 준다면 안되겠지요?#@문장구분# 그리고 마지막 셋째!#@문장구분# 입장바꾸기#@문장구분# 만약 자신이 외국으로 갓는데 외국친구가 \"너어디에서왓냐? 그리고 뭐이리 공부를 못하냐? 에휴 한국인들은 공부를엄청못하나보네 쯧쯧.\" 이런다면 어떨것 같나요?#@문장구분# 엄청기분이나쁘죠?#@문장구분# 그러니차별하지 맙시다!",
+      "paragraph_len": 706,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.15,
+      13.964286,
+      19.55
+    ],
+    "essay_scoreT_avg": 17.221428,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "이대한민국은 점점 다문화가족이 늘어나고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "이대한민국은 점점 <문법_조사>다문화가족으로이</문법_조사> <문법_맞춤법>늘어나고있습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "이대한민국은 점점 다문화가족이 늘어나고 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 수없는 차별로 다문화 가족들이 상처를 입고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>수없는차별로</문법_맞춤법> 다문화가족들이 상처를입고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 단지 피부색이 다르다고 차별을 하는 사람들이 대부분입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 단지 <문법_맞춤법>피부색이다르다고</문법_맞춤법> 차별을 하는사람들이 <문법_어미><문법_기타>대부분이죠</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 차별을 없애기 위해 글을 써 봅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이차별을없애기위해</문법_맞춤법> 글을 써봅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫째,",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>우선 첫째!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미국, 중국, 일본, 호주, 등등 다른 나라여도 우리는 하나입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미국, 중국, 일본, 호주, 등등 <문법_맞춤법>다른나라여도</문법_맞춤법> 우리는하나입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 우리나라 사람들은 아니지만 한국에살고 있으니 우리의 친구들입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 물론 우리나라 사람들은 아니지만 한국에<문법_맞춤법>살고있으니</문법_맞춤법> 우리의 <문법_어미><문법_기타>친구들이겠죠?</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째,",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>둘째!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 비난 절대로 비난을 하지 말아야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 비난 절대로 <문법_조사><문법_어미><문법_기타>비난은하지말아요!</문법_기타></문법_어미></문법_조사>",
+      "sentence_corr_txt_styling": " 비난 절대로 비난을 하지 말아야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"너는 다른나라인 사람인데 국어를 왜 이렇게 못해?\" 이런 식으로 다문화 친구에게 큰 상처를 준다면 안됩니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " \"너는 다른나라인 사람인데 국어를 <문법_맞춤법>왜이렇게못해?</문법_맞춤법>\" 이런식으로 다문화 친구에게 큰상처를 준다면 <문법_어미><문법_기타>안되겠지요?</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": " \"너는 다른나라인 사람인데 국어를 왜 이렇게 못해?\" 이런 식으로 다문화 친구에게 큰 상처를 준다면 안됩니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 마지막 셋째,",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 마지막 <문법_기타>셋째!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 입장바꾸기",
+      "sentence_corr_txt_styling": " 입장바꾸기",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 자신이 외국으로 갔는데 외국 친구가 \"너 어디에서 왔냐? 그리고 뭐 이리 공부를 못하냐? 에휴, 한국인들은 공부를 엄청 못하나 보네. 쯧쯧.\" 이런다면 어떨 것 같나요?",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 만약 자신이 외국으로 <문법_맞춤법>갓는데</문법_맞춤법> 외국친구가 \"너어디에서왓냐? 그리고 뭐이리 공부를 못하냐? <문법_기타>에휴</문법_기타> 한국인들은 공부를엄청못하나보네 쯧쯧.\" 이런다면 어떨것 같나요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기분이 엄청 나쁘죠?",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어순>엄청기분이나쁘죠</문법_어순></문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니 차별하지 맙시다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>그러니차별하지</문법_맞춤법> <문법_기타>맙시다!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47028",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 407,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

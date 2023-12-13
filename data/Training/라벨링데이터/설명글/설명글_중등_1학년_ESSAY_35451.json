@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 평소에 옛날에 안 좋았던 습관을 좋은 습관으로 바꾸기 위해서 많은 노력을 하고 있다.#@문장구분# 나한테 있었던 안 좋은 습관 하나는 쓰레기를 길가에 버리는 것이다.#@문장구분# 2학년~3학년까지는 쓰레기가 있다면 주변에 쓰레기통이 있든 없든 아무 때나 쓰레기를 버렸다.#@문장구분# 하지만 어느 순간부터 난 쓰레기를 아무때나 버리지 않기로 다짐하였다!#@문장구분# 이 다짐을 하고 나서 나는 주변에 쓰레기통이 없다면 집에 들고 가는 습관을 길들였다.#@문장구분# 그런 나의 모습을 되 돌아보면 나는 정말 뿌듯하다.#@문장구분# 두 번째는 무단횡단을 하는 것이었다.#@문장구분# 이것도 2학년~3학년때까지 했던 것인데, 이런 유형의 무단횡단을 많이 했다.#@문장구분# 이런 유형이 무엇이냐면 차가 다니는 차도에 신호들이 빨간 불이 되면 3초 뒤에 인도에 있는 신호등이 파란 불이 되었는데 그 3초를 못 기다리고 차도의 신호등이 빨간 불이 되면 인도의 신호등은 아직 빨간 불 인데도 바로 건넜다.#@문장구분# 하지만 그러다가 어떤 아주머니한테 혼나서 그 뒤로 그런 짓을 하는 것을 줄였다.#@문장구분# 그리고 5학년때부터 무단횡단은 절대 하지 않는다.#@문장구분# 이것은 습관을 위해서 노력한 결과인데 나는 노력하는 것은 결과가 없다고 생각한다.#@문장구분# 왜냐하면 노력은 언제나 바뀔 수 있기 때문입니다.#@문장구분#",
+      "paragraph_len": 854,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.55,
+      14.65,
+      13.55
+    ],
+    "essay_scoreT_avg": 14.916667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "잘못된 단어 사용"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 하지만 어느 순간부터 난 쓰레기를 <스타일링_담화 맥락 오류>아무때나</스타일링_담화 맥락 오류> 버리지 않기로 다짐하였다!",
+      "sentence_corr_txt_styling": " 하지만 어느 순간부터 난 쓰레기를 아무데나 버리지 않기로 다짐하였다!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 나의 모습을 되돌아보면 나는 정말 뿌듯하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 나의 모습을 <문법_맞춤법>되 돌아보면</문법_맞춤법> 나는 정말 뿌듯하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 유형이 무엇이냐면 차가 다니는 차도에 신호들이 빨간 불이 되면 3초 뒤에 인도에 있는 신호등이 파란 불이 되었는데 그 3초를 못 기다리고 차도의 신호등이 빨간 불이 되면 인도의 신호등은 아직 빨간 불인데도 바로 건넜다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 유형이 무엇이냐면 차가 다니는 차도에 신호들이 빨간 불이 되면 3초 뒤에 인도에 있는 신호등이 파란 불이 되었는데 그 3초를 못 기다리고 차도의 신호등이 빨간 불이 되면 인도의 신호등은 아직 빨간 <문법_맞춤법>불 인데도</문법_맞춤법> 바로 건넜다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 5학년 때부터 무단횡단은 절대 하지 않는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>5학년때부터</문법_맞춤법> 무단횡단은 절대 하지 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 노력은 언제나 바뀔 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 왜냐하면 노력은 언제나 바뀔 수 있기 <문법_어미>때문입니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35451",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 594,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

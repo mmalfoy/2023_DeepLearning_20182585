@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 요즘 시험기간이라서 공부를 엄청 열심히 하고 있습니다.#@문장구분# 학원에서도 요즘 숙제가 너무 많아서 하루종일 공부를 해도 다 끝내기가 쉽지 않아서 요즘은 여가 생활을 잘 할 수 있지 못하고 있습니다.#@문장구분# 그래서 조금 속상합니다.#@문장구분# 하루 종일 공부만 한다고 해서 집중이 잘 되는 것도 아닌데, 공부만 해야하는 저의 상황이 억울하고 속상합니다.#@문장구분# 저도 스트레스를 풀고싶고, 재미있게 친구들과 놀고싶기도 한데 못해서 속상합니다.#@문장구분# 저도 빨리 시험이 끝나서 재미있게 뛰어놀고 싶은 마음이 너무 큽니다.#@문장구분#",
+      "paragraph_len": 389,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          3,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.0476189,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.219048,
+      29.666666,
+      17.485714
+    ],
+    "essay_scoreT_avg": 21.123808,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.05.07",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 학원에서도 요즘 숙제가 너무 많아서 하루종일 공부를 해도 다 끝내기가 쉽지 않아서 요즘은 여가 생활을 잘 하지 못하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순"
+      ],
+      "sentence_txt": " 학원에서도 요즘 숙제가 너무 많아서 하루종일 공부를 해도 다 끝내기가 쉽지 않아서 요즘은 여가 생활을 <문법_어순>잘 할 수 있지</문법_어순> 못하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하루 종일 공부만 한다고 해서 집중이 잘 되는 것도 아닌데, 공부만 해야 하는 저의 상황이 억울하고 속상합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하루 종일 공부만 한다고 해서 집중이 잘 되는 것도 아닌데, 공부만 <문법_맞춤법>해야하는</문법_맞춤법> 저의 상황이 억울하고 속상합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 스트레스를 풀고 싶고, 재미있게 친구들과 놀고 싶기도 한데 못해서 속상합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저도 스트레스를 <문법_맞춤법>풀고싶고</문법_맞춤법>, 재미있게 친구들과 놀고싶기도 한데 못해서 속상합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_57208",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 270,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

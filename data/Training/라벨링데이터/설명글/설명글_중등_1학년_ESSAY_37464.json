@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 편식을 하는 나쁜 습관이 있다.#@문장구분# 그래서 이런 편식 때문에 뇨 단백에 걸리게 되었다.#@문장구분# 결정적인 원인은 야채를 싫어해 먹지 않고 내가 좋아하는 고기나 인스턴트 음식을 많이 먹었기 때문이다.#@문장구분# 내가 대표적으로 싫어하는 것은 버섯, 파프리카, 피망, 가지, 포도, 수박 등으로 야채가 매우 많다.#@문장구분# 반면에 내가 좋아하는 음식은 육회, 갈비, 소고기, 돼지고기, 닭고기, 피자, 떡볶이 등이다.#@문장구분# 그래서 나는 뇨 단백의 심각성을 느껴 편식하는 습관을 고치기로 했다.#@문장구분# 그래서 요즘에는 고기는 거의 안 먹고 야채인 샐러드나 양파 등을 매우 많이 먹고 있다.#@문장구분# 처음에는 무슨 맛인가 싶었지만 시간이 지나자 야채도 맛있게 먹게 되었다.#@문장구분# 그런데 다른 부작용도 생겼다.#@문장구분# 버섯, 파프리카, 피망, 가지 등이 더 싫어진 것이다.#@문장구분# 의사선생님께서는 야채를 먹지 않게 되면 뇨 단백이 재발할 수다고 하셨다.#@문장구분# 그래서 나는 다시 한 번 야채를 많이 먹을 수 있도록 노력하기로 했다.#@문장구분# 그래서 오늘 아침은 양파김치로 식사를 했다.#@문장구분# 그리고 나는 더 노력할 것이다.#@문장구분#",
+      "paragraph_len": 797,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      22.5,
+      22.65
+    ],
+    "essay_scoreT_avg": 21.716667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.21",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 이런 편식 때문에 '뇨단백'에 걸리게 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 이런 편식 때문에 <문법_맞춤법>뇨 단백</문법_맞춤법>에 걸리게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 결정적인 원인은 야채를 싫어해 먹지 않고 내가 좋아하는 고기나 인스턴트 음식을 많이 먹은 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 결정적인 원인은 야채를 싫어해 먹지 않고 내가 좋아하는 고기나 인스턴트 음식을 많이 먹<문법_맞춤법>었기 때문이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 싫어하는 것은 버섯, 파프리카, 피망, 가지, 포도, 수박 등으로 매우 많다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 내가 <문법_기타>대표적으로 싫</문법_기타>어하는 것은 버섯, 파프리카, 피망, 가지, 포도, 수박 등으로 야채가 매우 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 뇨단백으로 인한 심각성을 느껴 편식하는 습관을 고치기로 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그래서 나는 <문법_기타>뇨 단백의 심</문법_기타>각성을 느껴 편식하는 습관을 고치기로 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 의사선생님께서는 야채를 먹지 않게 되면 뇨 단백이 재발할 수 있다고 하셨다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 의사선생님께서는 야채를 먹지 않게 되면 뇨 단백이 재발할 <문법_맞춤법>수다고 </문법_맞춤법>하셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 다시 한번 야채를 많이 먹을 수 있도록 노력하기로 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 다시 <문법_맞춤법>한 번</문법_맞춤법> 야채를 많이 먹을 수 있도록 노력하기로 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로 나는 더 노력할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고</문법_기타> 나는 더 노력할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37464",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 517,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

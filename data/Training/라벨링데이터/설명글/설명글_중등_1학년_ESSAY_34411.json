@@ -1,0 +1,315 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 참된 스승이랑 닮으셨던 분들은 내가 초등학교에서 거의 다 만나본 것 같다.#@문장구분# 일단 그 선생님들끼리 공통점들이 있다. #@문장구분#1. 먼저 제일 기본적인 인사를 잘 받아주신다. #@문장구분#이제까지 선생님을 만나면서 모두 인사를 잘 받아주셨다.#@문장구분# 난 선생님께서 인사를 받아주시면 기분이 좋다.#@문장구분# 2. 학생들 위해 이벤트 같은 걸 해주신다.#@문장구분# 선생님들 중에서 많으신 분들이 학생들을 위해서 이벤트를 자주 해주셨다.#@문장구분# 예를 들어서 주로, 과자 파티, 또는 단체로 영화보는 것 등등 이벤트를 많이 해주셨다.#@문장구분# 3. 우리 인생에서 중요할 조언을 정말 많이 해주셨다. #@문장구분#예를 들어서, 공부할 때 팁, 또는 중학교와 고등학교때 팁, 취직할 때 팁, 어른 되서 어떻게 살아야 할지 등등 이런 조언들을 많이 해주셨다.#@문장구분# 4. 공부에서 어려우신걸 정말 많이 도와주신다. #@문장구분#만약 내가 수학 공부가 어렵다고 하면 선생님께서는 날 위해서 수업 시간에 내가 어려워 하는걸 강조해 주었다.#@문장구분# 하지만 그래도 어려워하고, 몰라 한다면 선생님께서 직접 나에게 와 주셔서 1대1 수업을 해주신다.#@문장구분# 내가 생각하는 참된 스승은 이것이다.#@문장구분#",
+      "paragraph_len": 819,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      29.75,
+      28.75,
+      18
+    ],
+    "essay_scoreT_avg": 25.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>나는</스타일링_담화 맥락 오류> 참된 스승이랑 닮으셨던 분들은 내가 초등학교에서 거의 다 만나본 것 같다.",
+      "sentence_corr_txt_styling": "내가 생각하는 참된 스승이랑 닮으셨던 분들은 대부분 초등학교에서 만나본 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "첫째, 먼저 제일 기본적인 인사를 잘 받아주신다. ",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>1. 먼저 제일 기본적인 인사를 잘 받아주신다.</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "이제까지 <스타일링_담화 맥락 오류>선생님을 만나면서</스타일링_담화 맥락 오류> 모두 인사를 잘 받아주셨다.",
+      "sentence_corr_txt_styling": "이제까지 만난 선생님들께서는 모두 인사를 잘 받아주셨다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째, 학생들을 위해 이벤트 같은 걸 해주신다.",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>2. 학생들 위해 이벤트 같은 걸 해주신다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님들 중에서 많은 분들이 학생들을 위해서 이벤트를 자주 해주셨다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 선생님들 중에서 <문법_높임법>많으신 </문법_높임법>분들이 학생들을 위해서 이벤트를 자주 해주셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>예를 들어서 주로,</스타일링_담화 맥락 오류> 과자 파티, 또는 단체로 영화보는 것 등등 이벤트를 많이 해주셨다.",
+      "sentence_corr_txt_styling": " 예를 들어서  과자 파티, 또는 단체로 영화보는 것 등등 이벤트를 많이 해주셨다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 셋째, 우리 인생에서 중요할 조언을 정말 많이 해주셨다. ",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>3. 우리 인생에서</문법_기타> 중요할 조언을 정말 많이 해주셨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 넷째, 공부에서 어려우신걸 정말 많이 도와주신다. ",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>4. 공부에서</문법_기타> 어려우신걸 정말 많이 도와주신다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 내가 수학 공부가 어렵다고 하면 선생님께서는 날 위해서 수업 시간에 내가 어려워 하는 걸 강조해주셨다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": "만약 내가 수학 공부가 어렵다고 하면 선생님께서는 날 위해서 수업 시간에 내가 어려워 <문법_맞춤법>하는걸</문법_맞춤법> <문법_어미><문법_높임법>강조해 주었다.</문법_높임법></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 그래도 어려워하고, 몰라한다면 선생님께서 직접 나에게 와 주셔서 1대1 수업을 해주신다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 그래도 어려워하고, <문법_맞춤법>몰라 한다면</문법_맞춤법> 선생님께서 직접 나에게 와 주셔서 1대1 수업을 해주신다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_34411",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 540,
+    "essay_main_subject": "참된 스승"
+  }
+}

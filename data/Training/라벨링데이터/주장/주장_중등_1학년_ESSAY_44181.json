@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단 SNS상의 문제를 나열해보자면 익명성,지우기,언제어디서든 온라인등등이있지만 제일큰문제는 익명성이라고 생각합니다.#@문장구분# 그렇다고 실명제를 도입하기에는 개인정보보호들도있고 만약 동명이인이있다면 OO시에사는OOO 이구속됬는데 동명이인인OO씨가 피해를 받을수도있다.#@문장구분# 그래서 내가 생각한 방법은 SNS운영자에게신고가들어갔을 때 관계자가 실명제로바꾸는 선택실명제가 좋다고 생각한다.#@문장구분# 운영자나관리자는 힘들겠지만 그래도 하면 안한것보다는 나은것같다는게 저의 생각입니다.#@문장구분# 그리고 온라인왕따가 생긴것도 익명성 때문입니다.#@문장구분# 그리고 N번방같은 경우가 대표적인 예입니다.#@문장구분# SNS의 익명성도 보장대고 트위터메세지특성상작성후 몇 달뒤면 메시지가 지워져있기 때문에 이런일이 일어난것입니다.#@문장구분# 그렇기 때문에 저의 생각은 SNS의 문제도있지만 익명성에숨어 욕을 하는 사람들도 문제라고 생각합니다.#@문장구분#그렇기 때문에 어릴때부터 SNS교육이 필요하다고 생각합니다.#@문장구분#",
+      "paragraph_len": 639,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20,
+      22.08889
+    ],
+    "essay_scoreT_avg": 24.02963,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "일단 SNS 상의 문제를 나열해 보자면 익명성, 지우기, 언제 어디서든 온라인 등등이 있지만 제일 큰 문제는 익명성이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 <문법_맞춤법>SNS상의 문제를 나열해보자면 익명성,지우기,언제어디서든 온라인등등이있지만 제일큰문제는</문법_맞춤법> 익명성이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇다고 실명제를 도입하기에는 개인 정보보호들도 있고 만약 동명이인이 있다면 OO시에 사는 OOO 이 구속됐는데 동명이인인 OO 씨가 피해를 받을 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇다고 실명제를 도입하기에는 <문법_맞춤법>개인정보보호들도있고 만약 동명이인이있다면 OO시에사는OOO 이구속됬는데 동명이인인OO씨가 피해를 받을수도있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 내가 생각한 방법은 SNS 운영자에게 신고가 들어갔을 때 관계자가 실명제로 바꾸는 선택 실명제가 좋다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 내가 생각한 방법은 <문법_맞춤법>SNS운영자에게신고가들어갔을 때 관계자가 실명제로바꾸는 선택실명제가</문법_맞춤법> 좋다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 운영자나 관리자는 힘들겠지만 그래도 하면 안 한 것보다는 나은 것 같다는 게 저의 생각입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>운영자나관리자는 힘들겠지만 그래도 하면 안한것보다는 나은것같다는게</문법_맞춤법> 저의 생각입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 온라인 왕따가 생긴 것도 익명성 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>온라인왕따가 생긴것도</문법_맞춤법> 익명성 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 N번방 같은 경우가 대표적인 예입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>N번방같은</문법_맞춤법> 경우가 대표적인 예입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " SNS의 익명성도 보장 되고 트위터 메시지 특성상 작성 후 몇 달 뒤면 메시지가 지워져있기 때문에 이런 일이 일어난 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " SNS의 익명성도 <문법_맞춤법>보장대고 트위터메세지특성상작성후 몇 달뒤면 메시지가 지워져있기 때문에 이런일이 일어난것입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 저의 생각은 SNS의 문제도 있지만 익명성에 숨어 욕을 하는 사람들도 문제라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 저의 생각은 SNS의 <문법_맞춤법>문제도있지만 익명성에숨어</문법_맞춤법> 욕을 하는 사람들도 문제라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇기 때문에 어릴 때부터 SNS 교육이 필요하다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇기 때문에 <문법_맞춤법>어릴때부터 SNS교육이</문법_맞춤법> 필요하다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44181",
+    "essay_prompt": " SNS 서비스는 페이스북과 트위터 등의 폭발적 성장에 따라 관심의 대상으로 부상했습니다.\n\n 하지만, 소통과 여론 조성의 장이 SNS로 옮겨짐에 따라 온라인을 통해 다른 사람을 비판하는 행위 또한 더욱 활발해지고 있습니다. 특히 연예인이나 유명인들이 큰 피해를 받고 있습니다. 특정 인물의 사진이나 개인정보를 도용하는 일도 있습니다.\n\n 한쪽에서는 SNS의 익명성 때문에 이러한 일이 비일비재하게 벌어지고 있다고 주장합니다. 익명성을 없애고 실명제를 도입해야 근본적인 해결을 할 수 있다고 말합니다.\n\n 근거 없는 주장은 아닙니다. 다만 익명성이 보장되기 때문에 자유롭게 소통할 수 있었던 SNS의 장점도 사라지게 될 것입니다.\n\n 여러분은 SNS상의 문제에 대해 어떻게 생각하시나요?\n\n SNS를 시작하는 것 자체가 다른 사람들의 자유로운 의견을 받아들이는 것에 동의한 것이니 피해에 대해서는 본인이 감수해야 한다고 생각하시나요?\n\n 아니면 실명제가 도입을 해야 한다고 생각하시나요?\n\n 혹은 다른 방법이 있다고 생각하시나요?\n\n SNS상의 문제에 대한 본인의 의견을 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 460,
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성"
+  }
+}

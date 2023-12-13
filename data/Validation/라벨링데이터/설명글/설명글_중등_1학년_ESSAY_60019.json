@@ -1,0 +1,282 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어떤 선생님은 자신이 최고의 선생님이며 자신의 제자라도 자신의 밑이라고 생각한다.#@문장구분# 그렇지만 어떤 선생님은 자신보다 더나은 학생이 나오길 바란다.#@문장구분# 내가 다니던 학원선생님은 나한테 늘그랬다.#@문장구분# 자신보다 낳은 사람이 되라고 자신을 뛰어넘으라고 참된스승은 자신이 최고라고 말하면 학생을 무시하는 것보다 너는 나보다 더 많이 잘할수 있다고 말해주는 사람이다.#@문장구분# 인격적으로도 자신 보다 낳은 사람이 되라고 가르쳐준다.#@문장구분# 요즘세상에는 자신이 최고라고 말하는 사람이 너무 많다.#@문장구분# 누구도 자신보다 못한 사람이 될수는 없다는 사실을 알고 내가 가르키는게 아니라 내가 제자를 통해서도 무언가 배울수 있다는 마음을 가지고 있다면 그스승에게 배운제자도 담에 스승이되었을 때 그렇게 가르킬수도 있고 다음다음에는 더훌륭한사람이 나올것이다.#@문장구분#",
+      "paragraph_len": 535,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      19.8,
+      17.75
+    ],
+    "essay_scoreT_avg": 20.816666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "어떤 선생님은 자신이 최고의 선생님이며 자신의 제자가 자신의 밑이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "어떤 선생님은 자신이 최고의 선생님이며 자신의 <문법_조사>제자라도</문법_조사> 자신의 밑이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 어떤 선생님은 자신보다 더 나은 학생이 나오길 바란다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇지만 어떤 선생님은 자신보다 <문법_맞춤법>더나은</문법_맞춤법> 학생이 나오길 바란다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 다니던 학원선생님은 나한테 늘 그랬다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 다니던 학원선생님은 나한테 <문법_맞춤법>늘그랬다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자신보다 나은 사람이 되라고, 자신을 뛰어넘으라고, 참된 스승은 자신이 최고라고 말하면 학생을 무시하는 것보다 너는 나보다 더 많이 잘할 수 있다고 말해주는 사람이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 자신보다 <문법_맞춤법>낳은</문법_맞춤법> 사람이 <문법_기타>되라고</문법_기타> 자신을 뛰어넘으라고 참된스승은 자신이 최고라고 말하면 학생을 무시하는 것보다 너는 나보다 더 많이 잘할수 있다고 말해주는 사람이다.",
+      "sentence_corr_txt_styling": " 자신보다 나은 사람이 되라고, 자신을 뛰어넘으라고, 참된 스승은 자신이 최고라고 말하면 학생을 무시하는 것보다 너는 나보다 더 많이 잘할 수 있다고 말해주는 사람이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인격적으로도 자신보다 나은 사람이 되라고 가르쳐줘야 한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 인격적으로도 <문법_맞춤법>자신 보다</문법_맞춤법> 낳은 사람이 되라고 <문법_조사><문법_어미>가르쳐준다</문법_어미></문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 세상에는 자신이 최고라고 말하는 사람이 너무 많다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>요즘세상에는</문법_맞춤법> 자신이 최고라고 말하는 사람이 너무 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 누구도 자신보다 못한 사람이 될 수는 없다는 사실을 알고 내가 가르치는 게 아니라 내가 제자를 통해서도 무언가 배울 수 있다는 마음을 가지고 있다면 그 스승에게 배운 제자도 다음에 스승이 되었을 때 그렇게 가르칠 수도 있고 다음에는 더 훌륭한 사람이 나올 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 누구도 자신보다 못한 사람이 <문법_맞춤법>될수는</문법_맞춤법> 없다는 사실을 알고 내가 가르키는게 아니라 내가 제자를 통해서도 무언가 배울수 있다는 마음을 가지고 있다면 그스승에게 배운제자도 담에 스승이되었을 때 그렇게 가르킬수도 있고 <문법_기타>다음다음에는</문법_기타> 더훌륭한사람이 나올것이다.",
+      "sentence_corr_txt_styling": " 누구도 자신보다 못한 사람이 될 수는 없다는 사실을 알고 내가 가르치는 게 아니라 내가 제자를 통해서도 무언가 배울 수 있다는 마음을 가지고 있다면 그 스승에게 배운 제자도 다음에 스승이 되었을 때 그렇게 가르칠 수도 있고 다음에는 더 훌륭한 사람이 나올 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60019",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 396,
+    "essay_main_subject": "참된 스승"
+  }
+}

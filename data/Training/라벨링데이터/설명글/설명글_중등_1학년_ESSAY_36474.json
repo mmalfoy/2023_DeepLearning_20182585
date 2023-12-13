@@ -1,0 +1,427 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 선생님의 모습은 학생이 무엇을 잘못하는지 파악하고 그것을 고쳐줄려고 노력하는게 선생님의 모습 이라고 생각한다.#@문장구분# 그리고 수업을할때 학생이 잘따라오나 체크해야되고, 학생이 이해를 할수있도록 쉽게 설명할수 있게 해야된다.#@문장구분# 내가 중학생때 동아리에서 농구반을 들어갔다.#@문장구분# 그 농구부에 내 친구가 있어서 엄청 어색하진 않았다.#@문장구분# 나는 농구학원을다니진 않았지만 아버지에게 농구를 배웠다.#@문장구분# 그래서 농구를 잘하게 되었다.#@문장구분# 근데 내 친구는 농구를 처음 해봐서 잘하진 못했다.#@문장구분# 난 같은 팀으로써 친구에게 슛쏘는 자세를 알려줬고 같이 연습했다.#@문장구분# 그후 농구경기를 할때 우리팀은 이겼고 난 뿌듯했다.#@문장구분# 초6 겨울방학때 사촌동생이 우리집에 놀러왔다.#@문장구분# 난 공부를 가르쳤다.#@문장구분# 처음에는 어느정도 따라오다가 점점 갈수록 태도가 나빠지고 있다.#@문장구분# 공부할 의지가 없어보여 충고를 좀 해줬다.#@문장구분# 형이라 그런지 말을잘안듣고 하루에 해야되는것을 다 안하고 시간만 끌었다.#@문장구분# 결국 1달정도 지내고 학교 계학 때문에 집으로 돌아갔다.#@문장구분# 지금은 학원을 다니고 있다.#@문장구분# 하지만 내가했던 말을 기억하는지 모르겠다.#@문장구분# 내 생각으로는 스승이라는것은 힘든 것이라고 생각한다.#@문장구분#",
+      "paragraph_len": 928,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.65,
+      26.1,
+      20.25
+    ],
+    "essay_scoreT_avg": 23.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.16",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 선생님의 모습은 학생이 무엇을 잘못하는지 파악하고 그것을 고쳐주기 위해 노력하는 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": "내가 생각하는 선생님의 모습은 학생이 무엇을 잘못하는지 파악하고 그것을 <문법_어미>고쳐줄려고</문법_어미> 노력하는<스타일링_패러프레이징>게 선생님의 모습 이라고</스타일링_패러프레이징> 생각한다.",
+      "sentence_corr_txt_styling": "내가 생각하는 선생님의 모습은 학생이 무엇을 잘못하는지 파악하고 그것을 고쳐주기 위해 노력하는 것이라고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 수업을 할 때 학생이 잘 따라오는지 점검하고, 학생이 이해를 할 수 있도록 쉽게 설명할 수 있어야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>수업을할때</문법_맞춤법> 학생이 잘따라오나 체크해야되고, 학생이 이해를 할수있도록 쉽게 설명할수 있게 해야된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 중학생 때 동아리를 농구반으로 들어갔었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "시제"
+      ],
+      "sentence_txt": " 내가<문법_맞춤법> 중학생때</문법_맞춤법> <문법_조사>동아리에서 농구반을</문법_조사> <문법_시제>들어갔다.</문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 농구 학원을 다니진 않았지만 아버지에게 농구를 배웠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는<문법_맞춤법> 농구학원을다니진</문법_맞춤법> 않았지만 아버지에게 농구를 배웠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 같은 팀으로써 친구에게 슛을 넣는 자세를 알려줬고 같이 연습했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 난 같은 팀으로써 친구에게 <문법_맞춤법>슛쏘는</문법_맞춤법> 자세를 알려줬고 같이 연습했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 후 농구 경기를 할 때 우리 팀은 이겼고, 난 뿌듯했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그후 농구경기를 할때 우리팀은 이겼고 난 뿌듯했다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 초등학교 6학년 겨울방학 때 사촌 동생이 우리 집에 놀러왔었다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " <문법_맞춤법>초6 겨울방학때</문법_맞춤법> <문법_시제>사촌동생이 우리집에 놀러왔다.</문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>난 공부를</스타일링_담화 맥락 오류> 가르쳤다.",
+      "sentence_corr_txt_styling": " 난 사촌동생에게 공부를 가르쳤다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음에는 어느 정도 잘 따라왔지만 점점 시간이 갈수록 태도가 나빠졌다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "시제",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 처음에는 <문법_맞춤법>어느정도</문법_맞춤법> <문법_어미>따라오다가</문법_어미> 점점 <스타일링_시제><스타일링_담화 맥락 오류>갈수록 태도가 나빠지고 있다.</스타일링_담화 맥락 오류></스타일링_시제>",
+      "sentence_corr_txt_styling": " 처음에는 어느 정도 잘 따라왔지만 점점 시간이 갈수록 태도가 나빠졌다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>공부할 의지가 없어보여 충고를 좀 해줬다.</스타일링_담화 맥락 오류></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 그래서 나는 공부할 의지가 없어 보이는 사촌 동생에게 충고를 해줬다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 형이라 그런지 말을 잘 듣지 않았고 하루에 해야 되는 것을 다 하지 않은 채 시간만 끌었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 형이라 그런지 <문법_맞춤법>말을잘안듣고 하루에 해야되는것을 </문법_맞춤법><문법_어미>다 안하고</문법_어미> 시간만 끌었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 결국 1달 정도 지나고 학교 개학 때문에 집으로 돌아왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " 결국<문법_맞춤법> 1달정도</문법_맞춤법> <문법_시제>지내고 학교 계학 </문법_시제>때문에 집으로 돌아갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금은 학원에 다니고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 지금은 <문법_조사>학원을 다니고 있다.</문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>하지만 내가했던 말을 기억하는지 모르겠다.</스타일링_담화 맥락 오류></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 사촌 동생이 내가 했던 말을 기억하는지 모르겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 생각에 스승이라는 것은 힘든 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 내<문법_조사> 생각으로는</문법_조사> <문법_맞춤법>스승이라는것은 힘든 것이라고 생각한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36474",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 568,
+    "essay_main_subject": "참된 스승"
+  }
+}

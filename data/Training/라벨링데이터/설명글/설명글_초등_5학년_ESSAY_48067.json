@@ -1,0 +1,356 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 가장 좋아하는 과목보단 순위를매겨 말씀 드리겠습니다.(1~2위)#@문장구분#\n 1.<과학> 과학이 1순위인 이유를 설명 드리겠습니다.#@문장구분# 저는 어릴 때부터만들기나 로봇을 좋아했습니다.#@문장구분# 그래서인지 요즘엔 집에 있는 레고로 총을 만들고, 찰흙으로 모형도 만들고 하네요.#@문장구분# 근데 이것은 유전 때문에 어쩔수가 없네요.#@문장구분# 그럼 이제부터는 저의 유전의 대해 말씀드리죠. #@문장구분#저는 생김새에서 보면 왼쪽은 아빠, 오른쪽은 엄마 였는데, 요즘엔 둘다 아빠를 닮아가고 있네요!#@문장구분# 근데 내면은 어릴때부터아빠에 많이 가까웠네요.#@문장구분# 저는 아빠의성격과 손재주가 비슷해서;; 실험하는것도 좋아하시는데 전 또 그점을 닮았네요.#@문장구분#\n 2. <음악> 음. 음악은 한 초2~3때부터 좋아헀던거 같네요.#@문장구분# 그리고 이 것도 역시 아빠의 유전자를 물려받았네요; #@문장구분#아빠는 클레식을 좋아하시지만 저는 발라드를 좋아하네요.#@문장구분#\n(그 중 고음) 근데 요즘엔 목이 안좋아져서 고음을 예저너럼 높이지 못하네요.#@문장구분#\n 하지만 노래의 키를 낮추면 그래도 어느정도 부를 수 있죠.",
+      "paragraph_len": 769,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      17.019047,
+      15.466667
+    ],
+    "essay_scoreT_avg": 17.873016,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 가장 좋아하는 과목보단 순위를 매겨 말씀드리겠습니다. (1~2위)",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 가장 좋아하는 과목보단 <문법_맞춤법>순위를매겨 말씀 드리겠습니다.(1~2위)</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 1.<과학> 과학이 1순위인 이유를 설명 드리겠습니다.",
+      "sentence_corr_txt_styling": "\n 1.<과학> 과학이 1순위인 이유를 설명 드리겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 이것은 유전 때문에 어쩔 수가 없네요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 이것은 유전 때문에 <문법_맞춤법>어쩔수가</문법_맞춤법> 없네요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 이제부터는 저의 유전에 대해 말씀드리죠. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그럼 이제부터는 저의 <문법_조사>유전의</문법_조사> 대해 말씀드리죠. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 생김새에서 보면 왼쪽은 아빠, 오른쪽은 엄마였는데, 요즘엔 둘 다 아빠를 닮아가고 있네요!",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 생김새에서 보면 왼쪽은 아빠, 오른쪽은 <문법_맞춤법>엄마 였는데, 요즘엔 둘다</문법_맞춤법> 아빠를 닮아가고 있네요!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 내면은 어릴 때부터 아빠에 많이 가까웠네요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 내면은 <문법_맞춤법>어릴때부터아빠에</문법_맞춤법> 많이 가까웠네요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 저는 아빠의성격과 손재주가 비슷해서;; 실험하는것도 좋아하시는데 전 또 그점을 닮았네요.",
+      "sentence_corr_txt_styling": " 저는 아빠의성격과 손재주가 비슷해서;; 실험하는것도 좋아하시는데 전 또 그점을 닮았네요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 2. <음악> 음. 음악은 한 초2~3때부터 좋아헀던거 같네요.",
+      "sentence_corr_txt_styling": "\n 2. <음악> 음. 음악은 한 초2~3때부터 좋아헀던거 같네요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 이 것도 역시 아빠의 유전자를 물려받았네요; ",
+      "sentence_corr_txt_styling": " 그리고 이 것도 역시 아빠의 유전자를 물려받았네요; ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "아빠는 클레식을 좋아하시지만 저는 발라드를 좋아하네요.",
+      "sentence_corr_txt_styling": "아빠는 클레식을 좋아하시지만 저는 발라드를 좋아하네요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n(그 중 고음) 근데 요즘엔 목이 안 좋아져서 고음을 예전처럼 높이지 못하네요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n(그 중 고음) 근데 요즘엔 목이 <문법_맞춤법>안좋아져서</문법_맞춤법> 고음을 예저너럼 높이지 못하네요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 하지만 노래의 키를 낮추면 그래도 어느 정도 부를 수 있죠.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 하지만 노래의 키를 낮추면 그래도 <문법_맞춤법>어느정도</문법_맞춤법> 부를 수 있죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48067",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 498,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

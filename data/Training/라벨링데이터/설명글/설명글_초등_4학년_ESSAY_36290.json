@@ -1,0 +1,359 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금까지 제가한 선행은 첫번째, 아랫집을 생각해주었다.#@문장구분# 어느날 동생이 TV를 보고있는데 리모컨이 떨어지려고 해서 내가 얼른 잡아서 층간소음을 하나 줄였다.#@문장구분# (흐뭇흐뭇)#@문장구분#그리고,두번째, 동생 에게 배려,어느날 친구,동생,나,친구의 동생,이랑 같이 찰흙놀이를 하고있었다.#@문장구분# 그런데,동생들이 찰흙이 부족해서 동생들 에게 찰흙을 빌려주었던적이 있습니다.#@문장구분# 그리고,세번째,엄마의 일거리,즉,분리수거와 부탁을 들어 주었다.#@문장구분# 저번에,엄마랑 같이 나간적이 있었다.#@문장구분# 그런데 엄마가 나에게 분리수거를 도와 달라고 해서,도와주었고,엄마의 짐도 같이 들어 주었다.#@문장구분# 네번째,동생 에게 선물을 주었다.#@문장구분# 저번년도에 크리스마스에 동생에게 선물을 포장지에 싸서 주었더니동생이 너무 기뻐하며,나를 꼭~껴안아주었다.#@문장구분# (왠지 흐뭇 했다)#@문장구분# 다섯번째, 지우개의 주인을 찾아주었다.#@문장구분# 이사오기전에 학교에서 지우개가 바닥에 굴러다녀서,\"이거,지우개 주인!\"이라고 했는데 아무도 대답이 없길래 선생님한테 \"선생님,이거,지우개,바닥에서 주었어요\"라고 해서 결국 주인을 선생님이 찾아 주셨 습니다.#@문장구분# (내가 찾아 준건지...선생님이 찾아준 건지)#@문장구분#",
+      "paragraph_len": 833,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      30,
+      18.733334
+    ],
+    "essay_scoreT_avg": 22.911112,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금까지 <문법_맞춤법>제가한</문법_맞춤법> 선행은 첫번째, 아랫집을 생각해주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어느날 동생이 TV를 <문법_맞춤법>보고있는데</문법_맞춤법> 리모컨이 떨어지려고 해서 내가 얼른 잡아서 층간소음을 하나 줄였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요, 문장부호 활용"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그리고,두번째, 동생 에게 배려,어느날 친구,동생,나,친구의 동생,이랑 같이 찰흙놀이를 하고있었다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그런데,동생들이 찰흙이 부족해서 동생들 에게 찰흙을 빌려주었던적이 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요",
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>그리고,세번째,엄마의 일거리,즉,분리수거와</스타일링_담화 맥락 오류></스타일링_맞춤법> 부탁을 들어 주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저번에,엄마랑 같이 나간적이 있었다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요, 쉼표필요없음"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 엄마가 나에게 분리수거를 도와 달라고 <문법_맞춤법>해서,도와주었고,엄마의 </문법_맞춤법>짐도 같이 들어 주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>네번째</문법_맞춤법>,동생 에게 선물을 주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기필요, 맞춤법 오류"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저번년도에 </문법_맞춤법>크리스마스에 동생에게 선물을 포장지에 싸서 주었더니동생이 너무 기뻐하며,나를 꼭~껴안아주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다섯번째</문법_맞춤법>, 지우개의 주인을 찾아주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요",
+        "높임말사용"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이사오기전에 </문법_맞춤법>학교에서 지우개가 바닥에 굴러다녀서,\"이거,지우개 주인!\"이라고 했는데 아무도 대답이 없길래 <문법_높임법>선생님한테</문법_높임법> \"선생님,이거,지우개,바닥에서 주었어요\"라고 해서 결국 주인을 선생님이 찾아 주셨 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요",
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>(내가 찾아 준건지...선생님이 찾아준 건지)</스타일링_담화 맥락 오류></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36290",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 553,
+    "essay_main_subject": "나의 선행"
+  }
+}

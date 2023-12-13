@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 참된 스승은, 그릇된 길을 참된 길로 이끌어주기도하고, 제자를 소중하게 여기며, 어떨때는 친구처럼 친근한 사람이 되주기도하는 그런 스승이다.#@문장구분#\n   \n 비록 스승은 제자를 가르쳐야하지만, 막상 근엄하게 가르친다면 금새 잊혀질지도 몰라도 재미있게 가르친다면 더 쉽게 귀에 들어오게된다.#@문장구분# 또한 제자를 친자식처럼 가끔은 엄하게, 가끔은 농담도 하며 가르친다면, 학생과 스승의 관계는 더욱 더 깊어지게 될 것이다.#@문장구분# 참된 스승이 되려면 가장 필요한 것은 믿음과 재미인 것같다고 생각한다.#@문장구분# 왜냐하면 믿음이 있어야 학생들을 신뢰하고, 학생들도 스승이란 존재에 안심하고 의존하게 되며, 재미가 있어야 학생들의 웃음기를 되살리며 핵심내용이 잘 들어오도록 해주기 때문이다.#@문장구분#",
+      "paragraph_len": 473,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      22.1,
+      26
+    ],
+    "essay_scoreT_avg": 24.033333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 참된 스승은, 그릇된 길을 참된 길로이끌어주기도 하고, 제자를 소중하게 여기며, 어떨 때는 친구처럼 친근한 사람이 돼주기도 하는 그런 스승이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 참된 스승은, 그릇된 길을 참된 길로<문법_맞춤법> 이끌어주기도하고</문법_맞춤법>, 제자를 소중하게 여기며, 어떨때는 친구처럼 친근한 사람이 되주기도하는 그런 스승이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n   \n 비록 스승은 제자를 가르쳐야 하지만, 막상 근엄하게 가르친다면금세 잊힐지도 몰라도 재미있게 가르친다면 더 쉽게 귀에 들어오게 된다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "\n   \n 비록 스승은 제자를 <문법_맞춤법>가르쳐야하지만</문법_맞춤법>, 막상 근엄하게 가르친다면<문법_조사> 금새 잊혀질지도</문법_조사> 몰라도 재미있게 가르친다면 더 쉽게 귀에 들어오게된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 제자를 친자식처럼 가끔은 엄하게, 가끔은 농담도 하며 가르친다면, 학생과 스승의 관계는 더욱더 깊어지게 될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 제자를 친자식처럼 가끔은 엄하게, 가끔은 농담도 하며 가르친다면, 학생과 스승의 관계는<문법_맞춤법> 더욱 더 </문법_맞춤법>깊어지게 될 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 참된 스승이 되려면 가장 필요한 것은 믿음과 재미인 것 같다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 참된 스승이 되려면 가장 필요한 것은 믿음과<문법_맞춤법> 재미인 것같다고 </문법_맞춤법>생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 믿음이 있어야 학생들을 신뢰하고, 학생들도 스승이란 존재에 안심하고 의존하게 되며, 재미가 있어야 학생들의 웃음기를 되살리며 핵심 내용이 잘 들어오도록 해주기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 믿음이 있어야 학생들을 신뢰하고, 학생들도 스승이란 존재에 안심하고 의존하게 되며, 재미가 있어야 학생들의 웃음기를 되살리며 <문법_맞춤법>핵심내용이 </문법_맞춤법>잘 들어오도록 해주기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66059",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 374,
+    "essay_main_subject": "참된 스승"
+  }
+}

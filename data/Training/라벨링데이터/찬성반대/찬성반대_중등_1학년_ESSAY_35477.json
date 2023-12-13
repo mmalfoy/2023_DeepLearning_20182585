@@ -1,0 +1,343 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "난 부모의 능력과 경제력에 따른 불평등에 찬성한다.#@문장구분# 왜냐하면 먼저, 어쩔 수 없는 현실이다.#@문장구분# 요즘에는 유명한 대학을 잘 나와도 취직 하기가 너무 어렵다.#@문장구분# 그런데 만약에 능력과 경제력의 차이가 나지 않는다면, 공부 잘 해도 취직할 자리는 없고, 오히려 공부 못 했던 애들이 취직이 더 잘 될수도 있다.#@문장구분# 그렇게 된다면 학창시절때 공부한 것은 모두 물거품이 되서 억울할 것이다.#@문장구분# ",
+      "paragraph_len": 309,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "\n2. 남들이 부러워할 삶을 살 수 있다.#@문장구분# 대부분 사람들은 로망이 있을 것이다.#@문장구분# 예를 들어 화려하고 우아한 집에서 와인 한잔 등등의 로망이 있을 것이다.#@문장구분# 만일 부모의 능력과 경제력이 좋다면 남들이 부러워 하는 삶을 누릴수 있다.#@문장구분# ",
+      "paragraph_len": 208,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": "\n3. 열심히 노력한 결과가 나온다.#@문장구분# 부몬의 능력과 경제력은 학창시절때 공부를 열심히 했느냐와 안 했느냐의 차이다.#@문장구분# 학생 때부터 공부를 포기하고 나중에 어떻게든 되겠지 라는 생각을 가지고 있다면 어른이 되서 취직도 잘 못하고, 돈도 많이 못 벌고 남들과 능력과 경제력이 차이가 날 것이다.#@문장구분# 반대로 학창시절 때부터 미래의 나를 위해, 내 꿈을 위해서 열심히 공부한 사람은 취직도 그나마 괜찮고, 돈도 많이 벌고, 능력과 경제력이 남들보다 뛰어나서 매우 행복한 삶을 누릴 수 있는 결과가 나올 수 있다.#@문장구분# 능력과 경제력의 차이는 포기하지 않고 끈기있는 사람이 대부분 능력과 경제력이 뛰어난 것 같다.#@문장구분#",
+      "paragraph_len": 432,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      19.98889,
+      19.41111
+    ],
+    "essay_scoreT_avg": 19.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 요즘에는 유명한 대학을 잘 나와도 취직하기가 너무 어렵다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘에는 유명한 대학을 잘 나와도 <문법_맞춤법>취직 하기가</문법_맞춤법> 너무 어렵다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 만약에 능력과 경제력의 차이가 나지 않는다면, 공부 잘해도 취직할 자리는 없고, 오히려 공부 못했던 애들이 취직이 더 잘 될수도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 만약에 능력과 경제력의 차이가 나지 않는다면, <문법_맞춤법>공부 잘 해도</문법_맞춤법> 취직할 자리는 없고, 오히려 공부 못 했던 애들이 취직이 더 잘 될수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 된다면 학창 시절 때 공부한 것은 모두 물거품이 돼서 억울할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 된다면 <문법_맞춤법>학창시절때</문법_맞춤법> 공부한 것은 모두 물거품이 되서 억울할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 예를 들어 화려하고 우아한 집에서 와인 <스타일링_담화 맥락 오류>한잔 등등의 로망이 있을 것이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 예를 들어 화려하고 우아한 집에서 와인 한 잔 등의 로망이다.",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만일 부모의 능력과 경제력이 좋다면 남들이 부러워하는 삶을 누릴 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만일 부모의 능력과 경제력이 좋다면 남들이 <문법_맞춤법>부러워 하는</문법_맞춤법> 삶을 누릴수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모의 능력과 경제력은 학창 시절 때 공부를 열심히 했느냐와 안 했느냐의 차이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>부몬의</문법_맞춤법> 능력과 경제력은 학창시절때 공부를 열심히 했느냐와 안 했느냐의 차이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반대로 학창 시절 때부터 미래의 나를 위해, 내 꿈을 위해서 열심히 공부한 사람은 취직도 그나마 괜찮고, 돈도 많이 벌고, 능력과 경제력이 남들보다 뛰어나서 매우 행복한 삶을 누릴 수 있는 결과가 나올 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 반대로 <문법_맞춤법>학창시절</문법_맞춤법> 때부터 미래의 나를 위해, 내 꿈을 위해서 열심히 공부한 사람은 취직도 그나마 괜찮고, 돈도 많이 벌고, 능력과 경제력이 남들보다 뛰어나서 매우 행복한 삶을 누릴 수 있는 결과가 나올 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 능력과 경제력의 차이는 포기하지 않고 끈기 있는 사람이 대부분 능력과 경제력이 뛰어난 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 능력과 경제력의 차이는 포기하지 않고 <문법_맞춤법>끈기있는</문법_맞춤법> 사람이 대부분 능력과 경제력이 뛰어난 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35477",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 673,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

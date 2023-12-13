@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리는 학교 라는 곳에서 많은 걸 배웁니다.#@문장구분# 우리는 공부 라는 것이 필요합니다.#@문장구분# 또 휴식 이라는 것도 필요합니다.#@문장구분# 우리는 할수 있는게 많습니다.#@문장구분# 취미 생활,놀이터(놀기),음악 듣기 여행 가기 등등 많은 여가 활동이 있습니다.#@문장구분# 우리는 이러한 생활을 합니다.#@문장구분# 아침 준비 수업 학원 집 이러한 일상을 반복 합니다.#@문장구분# 취미 생활은 만들기,바느질, 등등 많습니다.#@문장구분# 우리에게 여가가 없다면 어떡할까?#@문장구분# 우리에게 과목은 국어 수학 음악 영어 사회 과학 역사 등등 많습니다.#@문장구분# 베이킹?#@문장구분# 여가?#@문장구분# 취미?#@문장구분# 학습?#@문장구분# 베이킹은 직업이 아닌데 즐거우면 여가O#@문장구분# 취미 생활이 즐거우면 여가O#@문장구분# 학습?#@문장구분# 학습은 공부 여가X#@문장구분# 우리 생활에 여가 활동은 있어야 할 존재다.#@문장구분# 자기가 즐거우면 여가가 맡다.#@문장구분# 하지만 누군가를 놀리면 그거 여가가 아니라 놀리는 거다.#@문장구분# 놀림을 당하는 친구는 행복하지 않기 때문이다.#@문장구분# 같이 노는데 누군가는 행복 누군가는 슬픔 이런거는 여가 활동이 아니다.#@문장구분# 나는 취미 생활을 한다면 베이킹을 하고 싶다.#@문장구분#",
+      "paragraph_len": 971,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      17.866667,
+      15.419047
+    ],
+    "essay_scoreT_avg": 17.873016,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리는 학교라는 곳에서 많은 걸 배웁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리는 <문법_맞춤법>학교 라는</문법_맞춤법> 곳에서 많은 걸 배웁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 공부라는 것이 필요합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 <문법_맞춤법>공부 라는 것이</문법_맞춤법> 필요합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 휴식이라는 것도 필요합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>또 휴식 이라는 것도</문법_맞춤법> 필요합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 할 수 있는 게 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>우리는 할수 있는게 많습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 취미 생활, 놀이터(놀기), 음악 듣기 여행 가기 등등 많은 여가 활동이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>취미 생활,놀이터(놀기),음악 듣기</문법_맞춤법> 여행 가기 등등 많은 여가 활동이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침 준비 수업 학원 집 이러한 일상을 반복합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아침 준비 수업 학원 집 이러한 일상을 <문법_맞춤법>반복 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 취미 생활은 만들기, 바느질, 등등 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 취미 생활은 <문법_맞춤법>만들기,바느질, 등등 많습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 같이 노는데 누군가는 행복 누군가는 슬픔 이런 거는 여가 활동이 아니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 같이 노는데 누군가는 행복 누군가는 슬픔 <문법_맞춤법>이런거는 여가 활동이</문법_맞춤법> 아니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46108",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 491,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

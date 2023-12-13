@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 친구들과 같이 놀면서 얘기도 하는게 좋습니다. #@문장구분#한때는 같은학년 친구들 대부분과 어울려 지낸적이 있었습니다.#@문장구분# 그런데 문제가 있었습니다.#@문장구분# 그건 친구가 너무 많아서 이친구 저친구 다 신경을 써야했습니다. #@문장구분#자주 얘기하던 친구들과 피시방에 가거나 폰으로 같이 게임하면 주로 자주하던 친구들과 놀다보니 다른 친구들은 저에대해서 서먹해지기 마련입니다. #@문장구분#많이있다보니 일일이 다 놀아주고 신경쓰는게 힘들어져서 4학년부터는 친구를 5명정도로만 만들어서 놀러 약속잡거나 할떄는 더욱 쉬워졌고 친구들과 사이를 다지는데는 더 수월해진거 같습니다.#@문장구분# 뭐든지 많이있다고 다 좋은건 아닌거 같습니다.",
+      "paragraph_len": 441,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.5,
+      20,
+      16.35
+    ],
+    "essay_scoreT_avg": 19.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 친구들과 같이 놀면서 얘기도 하는 게 좋습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 친구들과 같이 놀면서 얘기도 <문법_맞춤법>하는게</문법_맞춤법> 좋습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "한때는 같은 학년 친구들 대부분과 어울려 지낸 적이 있었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "한때는 <문법_맞춤법>같은학년 친구들 대부분과 어울려 지낸적이</문법_맞춤법> 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그건 친구가 너무 많아서 이 친구 저 친구 다 신경을 써야했습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그건 친구가 너무 많아서 <문법_맞춤법>이친구 저친구</문법_맞춤법> 다 신경을 써야했습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "자주 얘기하던 친구들과 피시방에 가거나 폰으로 같이 게임하면 주로 자주 하던 친구들과 놀다 보니 다른 친구들은 저에 대해서 서먹해지기 마련입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "자주 얘기하던 친구들과 피시방에 가거나 폰으로 같이 게임하면 주로 <문법_맞춤법>자주하던</문법_맞춤법> 친구들과 놀다보니 다른 친구들은 저에대해서 서먹해지기 마련입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "많이 있다 보니 일일이 다 놀아주고 신경 쓰는 게 힘들어져서 4학년부터는 친구를 5명정도로만 만들어서 놀러 약속 잡거나 할떄는 더욱 쉬워졌고 친구들과 사이를 다지는데는 더 수월해진 거 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>많이있다보니</문법_맞춤법> 일일이 다 놀아주고 신경쓰는게 힘들어져서 4학년부터는 친구를 5명정도로만 만들어서 놀러 약속잡거나 할떄는 더욱 쉬워졌고 친구들과 사이를 다지는데는 더 수월해진거 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뭐든지 많이 있다고 다 좋은 건 아닌 거 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 뭐든지 <문법_맞춤법>많이있다고 다 좋은건 아닌거</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55926",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 322,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

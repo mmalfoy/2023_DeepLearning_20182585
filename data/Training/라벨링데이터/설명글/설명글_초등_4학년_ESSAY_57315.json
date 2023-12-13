@@ -1,0 +1,339 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요.#@문장구분# 저는 살고싶은 집이 여러가지 입니다.#@문장구분# 저는지붕있는 집에서살고싶고 조그만한 마당이있었으면 좋겠습니다.#@문장구분# 지붕있는집은 귀엽고 아기자기 해서이고 마당이있으면 마당에서 놀수있고 야채나 과일등을 만들수있고 길고양이들에게 밥을주며 머리를 쓰담아주기 좋은장소이여서입니다.#@문장구분# 그리고 방이여러게있는집이었으면 더욱더 좋겠습니다.#@문장구분# 손님이놀러왔을때 대접하는 손님용방, 또 내방 엄마방 오빠방 또는 강아지를 데려오는친구를 위한 동물들방 또 주방화장실, 같이쓰는방 그리고 복도가 길으면좋겠고 화장실은 5개있었으면 좋겠습니다.#@문장구분# 마지막으로 3번째는 익숙한집!#@문장구분# 낮이익으면 사용하기편하고 낮이익어서 누구누구 방이렇게 않써나도 돼서입니다.#@문장구분# 지금까지 저의 말을 들어주셔서 정말감사합니다.#@문장구분# #@이름#올림.#@문장구분# 저는 사실 제가알던집보다 저의집이더좋습니다.#@문장구분#",
+      "paragraph_len": 636,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.714287,
+      30,
+      22.733334
+    ],
+    "essay_scoreT_avg": 26.815872,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 살고 싶은 집이 여러가지 입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>살고싶은</문법_맞춤법> 집이 여러가지 입니다.",
+      "sentence_corr_txt_styling": " 저는 살고 싶은 집이 여러가지 입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 지붕 있는 집에서 살고 싶고 조그만한 마당이 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " <문법_맞춤법>저는지붕있는</문법_맞춤법> 집에서살고싶고 조그만한<문법_시제> 마당이있었으면</문법_시제> 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지붕 있는 집은 귀엽고 아기자기하기 때문이고, 마당이 있으면 마당에서 놀 수 있고 야채나 과일등을 만들 수 있고있고 길고양이들에게 밥을주며 머리를 쓰담아주기 좋은 장소여서입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>지붕있는집은</문법_맞춤법> 귀엽고 <문법_어미><문법_기타>아기자기 해서이고</문법_기타></문법_어미> 마당이있으면 마당에서 놀수있고 야채나 과일등을 만들수있고 길고양이들에게 밥을주며 머리를 쓰담아주기 좋은장소이여서입니다.",
+      "sentence_corr_txt_styling": " 지붕 있는 집은 귀엽고 아기자기하기 때문이고, 마당이 있으면 마당에서 놀 수 있고 야채나 과일등을 만들 수 있고있고 길고양이들에게 밥을주며 머리를 쓰담아주기 좋은 장소여서입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 방이 여러 개 있는 집이면 더욱더 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법><문법_시제>방이여러게있는집이었으면</문법_시제></문법_맞춤법> 더욱더 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손님이 놀러왔을 때 대접하는 손님용 방, 또 내 방, 엄마 방, 오빠 방 또는 강아지를 데려오는 친구를 위한 동물들 방 또 주방 화장실, 같이 쓰는 방 그리고 복도가 길면 좋겠고 화장실은 5개 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "시제",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>손님이놀러왔을때</문법_맞춤법> 대접하는 손님용방, 또 <문법_기타>내방 엄마방 오빠방</문법_기타> 또는 강아지를 데려오는친구를 위한 동물들방 또 주방화장실, 같이쓰는방 그리고 복도가 길으면좋겠고 화장실은 <문법_시제>5개있었으면</문법_시제> 좋겠습니다.",
+      "sentence_corr_txt_styling": " 손님이 놀러왔을 때 대접하는 손님용 방, 또 내 방, 엄마 방, 오빠 방 또는 강아지를 데려오는 친구를 위한 동물들 방 또 주방 화장실, 같이 쓰는 방 그리고 복도가 길면 좋겠고 화장실은 5개 있으면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 3번째는 익숙한 집이면 좋겠습니다",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 마지막으로 3번째는 <문법_맞춤법><문법_어미><문법_기타>익숙한집!</문법_기타></문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": " 마지막으로 3번째는 익숙한 집이면 좋겠습니다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 낮이 익으면 사용하기 편하고 낮이 익어서 누구누구 방 이렇게 안 써놔도 되기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>낮이익으면</문법_맞춤법> 사용하기편하고 낮이익어서 누구누구 방이렇게 않써나도 <문법_어미><문법_기타>돼서입니다</문법_기타></문법_어미>.",
+      "sentence_corr_txt_styling": " 낮이 익으면 사용하기 편하고 낮이 익어서 누구누구 방 이렇게 안 써놔도 되기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금까지 저의 말을 들어주셔서 정말 감사합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금까지 저의 말을 들어주셔서 <문법_맞춤법>정말감사합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 사실 제가 알던 집보다 저의 집이 더 좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 사실 <문법_맞춤법>제가알던집보다</문법_맞춤법> 저의집이더좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_57315",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 402,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

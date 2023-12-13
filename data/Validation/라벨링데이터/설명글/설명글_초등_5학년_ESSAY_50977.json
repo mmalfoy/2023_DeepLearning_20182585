@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 개인위생은 코로나가 생기며 누구에게나 너무 당연 하지만 꼭 필요한것입니다.#@문장구분# 학교, 산책, 학원 등등 밖에 나갔다 오면 손씻기, 세수하기, 목욕하기 이다. #@문장구분#손닦고세수하는 위생은 지금 시국에 너무나 당연한것이 되었다.#@문장구분# 하지만 당연하다고 해서 실천을 하지 않는 사람들도 있지만 당연한 만큼 꼭 지켜야 하는 개인위생이다. #@문장구분#일상속에서 밥을 먹을때 볼일을 본후 우리는 상상 손을 닦는다.#@문장구분# 손을 비누로 깨끗하게 닦는다면 손을 닦지 않는것 보다는 엄청난 세균을 줄일수 있다는 연구결과도 있었다. #@문장구분#손을닦는 당연한 위생말고도 다른위생도 있다.#@문장구분# 아침, 점심, 저녁, 간식, 자고일어난후 우리는 양치를 해야한다.#@문장구분# 아침, 점심, 저녁은 닦아도 자고일어난 후에는 이를 닦지 않는 사람들도 있다. #@문장구분#하지만 세균의 번식은 항상 우리가 자고 일어나면 가장 많이 번식한다.#@문장구분# 목욕은 하루에 1~2번 청결을 위해서 씻으면 된다.#@문장구분# 청결을 계속 유지한다면 우리모두 깨끗한 청결과몸을 가지게 될것이다.",
+      "paragraph_len": 703,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.019047,
+      27.714287,
+      26
+    ],
+    "essay_scoreT_avg": 24.911112,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 개인위생은 코로나가 생기며 누구에게나 너무 당연하지만 꼭 필요한 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 개인위생은 코로나가 생기며 누구에게나 너무 <문법_맞춤법>당연 하지만 꼭 필요한것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교, 산책, 학원 등등 밖에 나갔다 오면 손 씻기, 세수하기, 목욕하기이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교, 산책, 학원 등등 밖에 나갔다 오면 <문법_맞춤법>손씻기, 세수하기, 목욕하기 이</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "손 닦고 세수하는 위생은 지금 시국에 너무나 당연한 것이 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>손닦고세수하는 위생은 지금 시국에 너무나 당연한것이 되</문법_맞춤법>었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일상 속에서 밥을 먹을 때 볼일을 본 후 우리는 상상 손을 닦는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>일상속에서 밥을 먹을때 볼일을 본후 우리는 상상 손을 </문법_맞춤법>닦는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손을 비누로 깨끗하게 닦는다면 손을 닦지 않는 것보다는 엄청난 세균을 줄일 수 있다는 연구결과도 있었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손을 비누로 깨끗하게 닦는다면 손을 닦지<문법_맞춤법> 않는것 보다는 엄청난 세균을 줄일수 있</문법_맞춤법>다는 연구결과도 있었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침, 점심, 저녁, 간식, 자고 일어난 후 우리는 양치를 해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아침, 점심, 저녁, 간식, <문법_맞춤법>자고일어난후 우리는 양치를 해야한</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침, 점심, 저녁은 닦아도 자고 일어난 후에는 이를 닦지 않는 사람들도 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 아침, 점심, 저녁은 닦아도 <문법_조사>자고일어</문법_조사>난 후에는 이를 닦지 않는 사람들도 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 청결을 계속 유지한다면 우리 모두 깨끗한 청결과 몸을 가지게 될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 청결을 계속 유지한다면 <문법_맞춤법>우리모두 깨끗한 청결과몸을 가지게 될것</문법_맞춤법>이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50977",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 486,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

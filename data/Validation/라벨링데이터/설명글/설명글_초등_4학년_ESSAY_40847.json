@@ -1,0 +1,448 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 여가활동은 가족들과 캠핑을다니는 것입니다.#@문장구분# 캠핑은 하루동안 탠트를 짓고 그곳에서 자는것 입니다.#@문장구분# 저는 캠핑을 5살때 부터다녔으므로 즉 6년 동안 캠핑을 갔습니다.#@문장구분# 캠핑은 참 재밌고, 가족들과 화목한 시간을 보낼수 있습니다.#@문장구분# 캠핑은 할로윈, 생일, 시간나는 데로 갑니다.#@문장구분# 저희아빠는 캠핑도구를 직접만든거도 있고 캠핑용품점 에서 사기도 합니다.#@문장구분# 저희 텐트는 2 층으로 되어있어서 침대에서 자요.#@문장구분# 1층은 부엌, 야자침대, 우리에 짐이 있습니다.#@문장구분# 그런데 탠트가 공중에 떠있냐고요?#@문장구분# 네 아닙니다.#@문장구분# 탠트아래는 트레일러가 있는데요.#@문장구분# 그것은 많이 비싸서 저희아빠는 돈쓰시는걸 좋아하지 않아서 직접 삼촌과 트레일러를 만들어서 사용하고있어요.#@문장구분# 그런데 그트레일러는 붕붕이 입니다.#@문장구분# 왜냐구요?#@문장구분# 동생과 저와 붕붕이라고 지엇기때문 입니다.#@문장구분# 그런데 트레일러를 어떻게 끌고 캠핑장으로 가냐고요?#@문장구분# 네 붕붕이에 앞에는 동그란 것이 있어요.#@문장구분# 그걸 차에 뒤부분에 달면끌고 가집니다.#@문장구분# 저희가족은 저희가족끼리 가는 것도 있고 아는 언니들과 가는 것도 있다.#@문장구분# 저는 2021.10.31일날 아는 이모네와 캠핑을 갑니다.#@문장구분# 부럽죠?#@문장구분#",
+      "paragraph_len": 974,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.666666,
+      28.285713,
+      30
+    ],
+    "essay_scoreT_avg": 26.650793,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 여가활동은 가족들과 캠핑을 다니는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 여가활동은 가족들과 <문법_맞춤법>캠핑을다니는 </문법_맞춤법>것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 캠핑은 하루 동안 텐트를 짓고 그곳에서 자는 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 캠핑은 <문법_맞춤법>하루동안 탠트를 </문법_맞춤법>짓고 그곳에서 자는것 입니다.",
+      "sentence_corr_txt_styling": " 캠핑은 하루 동안 텐트를 짓고 그곳에서 자는 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 캠핑을 5살 때 부터 다녔으므로 즉 6년 동안 캠핑을 갔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 캠핑을 <문법_맞춤법>5살때 부터다녔으므로 </문법_맞춤법>즉 6년 동안 캠핑을 갔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 캠핑은 참 재밌고, 가족들과 화목한 시간을 보낼 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 캠핑은 참 재밌고, 가족들과 화목한 시간을 <문법_맞춤법>보낼수</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 캠핑은 할로윈, 생일, 시간 나는 대로 갑니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 캠핑은 <문법_맞춤법>할로윈, 생일, 시간나는 데로 갑니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 캠핑은 할로윈, 생일, 시간 나는 대로 갑니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저희 아빠는 캠핑 도구를 직접 만들기도 하고  캠핑용품점에서 사기도 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>저희아빠는 캠핑도구를 직접만든거도 있고</문법_기타></문법_맞춤법> 캠핑용품점 에서 사기도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1층은 부엌, 야자 침대, 우리에 짐이 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 1층은 부엌,<문법_맞춤법> 야자침대,</문법_맞춤법> 우리에 짐이 있습니다.",
+      "sentence_corr_txt_styling": " 1층은 부엌, 야자 침대, 우리에 짐이 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 텐트가 공중에 떠있냐고요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 <문법_맞춤법>탠트가 </문법_맞춤법>공중에 떠있냐고요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 탠트 아래는 트레일러가 있는데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>탠트아래는</문법_맞춤법> 트레일러가 있는데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그것은 많이 비싸서 저희 아빠는 돈 쓰시는 걸 좋아하지 않아서 직접 삼촌과 트레일러를 만들어서 사용하고 있어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그것은 많이 비싸서 <문법_맞춤법>저희아빠는 돈쓰시는걸 좋아하지 않아서</문법_맞춤법> 직접 삼촌과 트레일러를 만들어서 사용하고있어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 그 트레일러는 붕붕이 입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그런데 <문법_맞춤법>그트레일러는 </문법_맞춤법>붕붕이 입니다.",
+      "sentence_corr_txt_styling": " 그런데 그 트레일러는 붕붕이 입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐고요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>왜냐구요?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 동생과 제가 붕붕이 라고 지었기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "맞춤법"
+      ],
+      "sentence_txt": " 동생과 <문법_높임법>저와</문법_높임법> 붕붕이라고 <문법_맞춤법>지엇기때문 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 네 붕붕이의앞에는 동그란 것이 있어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 네 <문법_시제>붕붕이에 </문법_시제>앞에는 동그란 것이 있어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그걸 차의 뒷부분에 달면 끌고 가집니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그걸 <문법_맞춤법><문법_시제>차에 뒤부분에 달면끌고 가집니다.</문법_시제></문법_맞춤법>",
+      "sentence_corr_txt_styling": " 그걸 차의 뒷부분에 달면 끌고 가집니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저희 가족은 저희 가족끼리 가는 것도 있고 아는 언니들과 가는 것도 있어요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저희가족은 저희가족끼리 </문법_맞춤법>가는 것도 있고 아는 언니들과 가는 것도 <문법_높임법>있다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 2021.10.31일 날 아는 이모네와 캠핑을 갑니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>2021.10.31일날</문법_맞춤법> 아는 이모네와 캠핑을 갑니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40847",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 554,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

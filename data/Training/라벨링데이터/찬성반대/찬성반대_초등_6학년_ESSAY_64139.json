@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사소한 것부터 시작이라고 생각합니다.#@문장구분#냉장고 문여닫는 횟수를 줄인다.#@문장구분#가급적 선풍기를 사용한다.#@문장구분#에너지가 많이든 온수물 사용을 줄인다.#@문장구분#돗물을 아껴쓰고 재사용한다.텔레비전을 필요한시간만 시청한다.#@문장구분# 압력밥솥을 사용한다.#@문장구분#양변기에 벽돌을 넣는다.#@문장구분#다림질을 모아서 한다.#@문장구분#텔레비전을 필요한 프로그램만 본다.#@문장구분#컴퓨터를 쓰지 않을때는 컴퓨터를 끈다.#@문장구분#사용하지 않은 조명은 반드시 소등한다..#@문장구분#한번산 물건은 아껴쓰고 재활용한다.#@문장구분#쓰지않은 가전기는 플러그를 빼어 전력손실을 방지한다..#@문장구분#쌀뜨물로 꽃에게 준다쌀뜨물로 얼굴을 씻는다.#@문장구분#물을 받아놓고 사용.#@문장구분#선풍기는 가능하면 전력소비가 적은 미풍으로 사용한다.#@문장구분#선풍기는 2시간 이상 사용하지 않는다.#@문장구분#안쓰는 수도꼭지는 잠근다.#@문장구분#양치할때 적당량을 받아서 사21.#@문장구분#샤워할때는 물을 받아서 사용한다.#@문장구분#세수한 물로 발도씻는다.#@문장구분#에너지 절약 박물관을 견학한다..#@문장구분#가까운 거리는 자전거로 간다.#@문장구분#",
+      "paragraph_len": 895,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.98889,
+      23.288889
+    ],
+    "essay_scoreT_avg": 25.425926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          2
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "냉장고 문 여닫는 횟수를 줄인다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "냉장고 <문법_맞춤법>문여닫는 </문법_맞춤법>횟수를 줄인다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "에너지가 많이 든 온수 물 사용을 줄인다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "에너지가 <문법_맞춤법>많이든 온수물</문법_맞춤법> 사용을 줄인다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "수돗물을 아껴 쓰고 재사용한다. 텔레비전을 필요한 시간만 시청한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>돗물을 </문법_맞춤법>아껴쓰고 재사용한다.텔레비전을 필요한시간만 시청한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "컴퓨터를 쓰지 않을 때는 컴퓨터를 끈다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "컴퓨터를 쓰지 <문법_맞춤법>않을때는 </문법_맞춤법>컴퓨터를 끈다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "한 번 산 물건은 아껴 쓰고 재활용한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>한번산 </문법_맞춤법>물건은 아껴쓰고 재활용한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "쓰지 않은 가전기는 플러그를 빼어 전력손실을 방지한다..",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>쓰지않은 </문법_맞춤법>가전기는 플러그를 빼어 전력손실을 방지한다..",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "쌀뜨물을 꽃에게 준다 . 쌀뜨물로 얼굴을 씻는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "쌀뜨물로 꽃에게 <문법_맞춤법>준다쌀뜨물로 </문법_맞춤법>얼굴을 씻는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "안 쓰는 수도꼭지는 잠근다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>안쓰는 </문법_맞춤법>수도꼭지는 잠근다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "양치 할때 적당량을 받아서 사용한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>양치할때 </문법_맞춤법>적당량을 받아서 사21.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "샤워할 때는 물을 받아서 사용한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>샤워할때는 </문법_맞춤법>물을 받아서 사용한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세수한 물로 발도 씻는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "세수한 물로 <문법_맞춤법>발도씻는다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64139",
+    "essay_prompt": " 과학 발전을 통해 다양한 에너지들이 만들어지고 일상생활에 사용되고 있습니다. 대표적인 예가 원자력입니다.\n\n 원자력 발전소에서 생산되는 엄청난 양의 에너지를 통해 여러분이 핸드폰을 하고 TV를 보고 전등을 켤 수 있습니다.\n\n 하지만 원자력 발전소를 통해 에너지를 생산하는 과정에서 폭발위험과 핵폐기물로 인한 심각한 환경문제가 발생하고 있습니다.\n\n 우리가 에너지를 사용하면 사용할수록 원자력 발전소 같은 에너지를 생산할 수 있는 시설이 더욱 많이 필요할 것입니다. 이는 더 많은 환경문제를 일으키겠죠?\n\n 그렇기 때문에 더 에너지 사용을 늘리지 말자는 의견이 많이 나오고 있습니다. 생활의 편리함을 뒤로하고 에너지 절약을 먼저 하자는 의견입니다.\n\n 여러분은 편리한 생활을 줄이고 에너지를 절약하여 환경을 살리는 데 찬성하시나요? 아니면 환경보다는 지금의 편리함이 더 중요하다고 생각하시나요?  본인의 생각을 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 436,
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 어렸을때 부터 1학년때 핸드폰을 가지고 있었다.#@문장구분# 게임 하는것을 너무 많이 하지 않게 노력을 했다.#@문장구분# 그런데 쉽게 되진 않았고 어느덧 4학년애 되었다.#@문장구분# 원래는 폴더폰 이였지만 4학년때는 아이폰으로 바꿨다.#@문장구분# 스마트폰은 처음이라서 그런지 너무 신기했다.#@문장구분# 그치만 또 문제였다.#@문장구분# 그치만 또 문제였다.#@문장구분# 스마트폰은 신기한것들이 더 많아 푹 빠져든 것이였다.#@문장구분# 그래서 함부로 앱을 다운 받을수 없었고, 시간제한도 있었다.#@문장구분# 그래서 게임을 많이 하지 않기 위해서 노력하고있다.#@문장구분# 나는 어렸을때 부터 아토피가 있었다.#@문장구분# 그래서 치킨이나 피자등등 인스턴트 음식은 거의 잘 못먹었다.#@문장구분# 몸이 간지러워도 참았고 매일 약을 바르고 했다.#@문장구분# 1학년때 난 아토피가 거의 다 나아졌고 이제 인스턴트 음식들을 먹을수 있게 되었다.#@문장구분# 그런데 인스턴트 음식, 몸에 않좋은 음식들을 많이 먹어서 다시 아토피가 올라왔다.#@문장구분# 매일 로션을 바르고 있고 아토피가 다 나을때 까지 계속 노력 할것이다.#@문장구분# 그래서 지금은 좀 나아졌고 운동을 많이하고 많이 씻어서 건강에 좋고 잠도 많이 잘려고 노력한다.#@문장구분#",
+      "paragraph_len": 866,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      23.85,
+      20.25
+    ],
+    "essay_scoreT_avg": 22.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는<스타일링_맞춤법><스타일링_패러프레이징> 어렸을때 부터 1학년때</스타일링_패러프레이징></스타일링_맞춤법> 핸드폰을 가지고 있었다.",
+      "sentence_corr_txt_styling": "나는 어렸을 때부터 핸드폰을 가지고 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>게임 </스타일링_담화 맥락 오류>하는것을 너무 많이 하지 않게 노력을 했다.",
+      "sentence_corr_txt_styling": " 그래서 게임을 많이 하지 않도록 노력을 했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 노력만큼 쉽게 되지 않았고 어느덧 4학년이 되었다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그런데 </스타일링_담화 맥락 오류>쉽게 <문법_시제>되진</문법_시제> 않았고 어느덧 <문법_맞춤법>4학년애</문법_맞춤법> 되었다.",
+      "sentence_corr_txt_styling": " 그런데 노력만큼 쉽게 되지 않았고 어느덧 4학년이 되었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 원래는 폴더폰을 사용했지만, 4학년 때는 아이폰으로 바꿨다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 원래는 <스타일링_담화 맥락 오류>폴더폰 이였지만</스타일링_담화 맥락 오류> <문법_맞춤법>4학년때는 </문법_맞춤법>아이폰으로 바꿨다.",
+      "sentence_corr_txt_styling": " 원래는 폴더폰을 사용했지만, 4학년 때는 아이폰으로 바꿨다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그치만 또 문제였다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 하지만 그것이 또 문제가 되었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그치만 또 문제였다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "  ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스마트폰에는 신기한 것들이 더 많아 푹 빠져들게 된 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " <문법_조사>스마트폰은 </문법_조사><문법_맞춤법>신기한것들이</문법_맞춤법> 더 많아 푹 <문법_어미>빠져든 것이였다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 마음대로 앱을 다운받을 수 없었고, 시간 제한도 생겼다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " 그래서 <스타일링_담화 맥락 오류>함부로</스타일링_담화 맥락 오류> 앱을 <문법_맞춤법><문법_시제>다운 받을수 없었고, 시간제한도 있었다.</문법_시제></문법_맞춤법>",
+      "sentence_corr_txt_styling": " 그래서 마음대로 앱을 다운받을 수 없었고, 시간 제한도 생겼다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>그래서 게임을 많이 하지 않기 위해서 노력하고있다.</스타일링_담화 맥락 오류></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 이러한 제한이 생기면서, 지금은 게임을 많이 하지 않기 위해 노력하고 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나는 어렸을 때부터 아토피가 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>나는</스타일링_담화 맥락 오류> <문법_맞춤법>어렸을때 부터 </문법_맞춤법>아토피가 있었다.",
+      "sentence_corr_txt_styling": " 그리고 나는 어렸을 때부터 아토피가 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 치킨이나 피자 등의 인스턴트 음식은 거의 먹지 못했다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 그래서 치킨이나<문법_맞춤법><문법_조사> 피자등등</문법_조사></문법_맞춤법> 인스턴트 음식은 거의<문법_어미> 잘 못먹었다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 몸이 간지러워도 참았고 매일 약을 발랐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 몸이 간지러워도 참았고 매일 약을 <문법_어미>바르고 했다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 결국, 1학년 때 난 아토피가 거의 완치되었고 이제 인스턴트 음식을 먹을 수 있게 되었다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "조사"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>1학년때 </스타일링_담화 맥락 오류></스타일링_맞춤법>난 아토피가 거의 다 나아졌고 이제 인스턴트 <문법_조사>음식들을 </문법_조사>먹을수 있게 되었다.",
+      "sentence_corr_txt_styling": " 결국, 1학년 때 난 아토피가 거의 완치되었고 이제 인스턴트 음식을 먹을 수 있게 되었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 인스턴트 음식과 몸에 좋지 않은 음식들을 많이 먹어서 아토피가 재발했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 인스턴트 <문법_맞춤법>음식, 몸에 않좋은</문법_맞춤법> 음식들을 많이 먹어서 다시 아토피가 올라왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 다시 나아지기 위해 매일 로션을 바르고 있고 아토피가 다 나을 때까지 계속 노력할 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "붙여쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>매일</스타일링_담화 맥락 오류> 로션을 바르고 있고 아토피가 다 <문법_맞춤법>나을때 까지 계속 노력 할것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 그래서 다시 나아지기 위해 매일 로션을 바르고 있고 아토피가 다 나을 때까지 계속 노력할 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  지금은 좀 나아졌고 운동을 많이 하고 많이 씻으면서 건강에 좋은 일을 하고 있다. 또, 잠도 많이 자기 위해 노력하고 있다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그래서 </스타일링_담화 맥락 오류>지금은 좀 나아졌고 운동을 <문법_맞춤법>많이하고</문법_맞춤법> 많이 씻어서 건강에 좋고 <문법_시제>잠도 많이 잘려고 노력한다.</문법_시제>",
+      "sentence_corr_txt_styling": "  지금은 좀 나아졌고 운동을 많이 하고 많이 씻으면서 건강에 좋은 일을 하고 있다. 또, 잠도 많이 자기 위해 노력하고 있다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36473",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 526,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

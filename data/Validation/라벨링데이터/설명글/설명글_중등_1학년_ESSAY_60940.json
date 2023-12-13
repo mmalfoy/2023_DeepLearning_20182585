@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "난 예전부터 코딱지를 파는 습관이 있었다.#@문장구분# 처음에는 단지 집에서만 그랬지만 점차 습관이 되어버려서 학교에서도 자주 코딱지를 팠다.#@문장구분# 처음에는 친구들이 그냥 장난으로 넘어가주었지만 점점 더러워하는 친구들을 보면서 \"아, 꼭 이 나쁜 습관을 고쳐야겠다.\"라는 마음을 가진 것이 내가 나쁜 습관을 고칠 수 있었던 시발점이다.#@문장구분# 나는 친구들에게 코ᄄᆞᆨ지를 팔 때마다 주의를 줄 것을 요구하였고 나 역시 스스로 노력하면서 습관을 점차 없애갔다.#@문장구분# 처음에는 단지 별 생각없이 하던 것이 어느새 습관이 되고, 남들 앞에서 좋지 않게 보여지는 나의 모습을 발견하게 되면서 더 이상 그 행동을 하지 말아야지 하고 생각하게 된 것 같다.#@문장구분# 인간은 나약하고 어찌보면 의지가 매우 약한 동물일 것이다.#@문장구분# 그렇지만 남들에 의해 비난받을 때 자신의 단점을 발견할 수 있고 이를 해결하고자 하는 의지는 더욱 강해지는 것이 보편타당한 인간의 모습이라고 생각한다.#@문장구분#",
+      "paragraph_len": 602,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.75,
+      22.3,
+      22.3
+    ],
+    "essay_scoreT_avg": 24.449999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 나는 친구들에게 코딱지를 팔 때마다 주의를 줄 것을 요구하였고 나 역시 스스로 노력하면서 습관을 점차 없애갔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 친구들에게 <문법_맞춤법>코ᄄᆞᆨ지</문법_맞춤법>를 팔 때마다 주의를 줄 것을 요구하였고 나 역시 스스로 노력하면서 습관을 점차 없애갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음에는 단지 별 생각 없이 하던 것이 어느새 습관이 되고, 남들 앞에서 좋지 않게 보여지는 나의 모습을 발견하게 되면서 더 이상 그 행동을 하지 말아야지 하고 생각하게 된 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 처음에는 단지 별 <문법_맞춤법>생각없이</문법_맞춤법> 하던 것이 어느새 습관이 되고, 남들 앞에서 좋지 않게 보여지는 나의 모습을 발견하게 되면서 더 이상 그 행동을 하지 말아야지 하고 생각하게 된 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60940",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 463,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

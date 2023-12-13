@@ -1,0 +1,278 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 다이소에 가서 많은 물건을 사는 것입니다. #@문장구분#왜냐하면 저는 특별한 날이나 용돈 받는말에 자주 가서 입니다. #@문장구분#물론 돈이 좀 많이듭니다.#@문장구분# 하지만 전 제가 꼭 필요한것을 삽니다.#@문장구분# 필요한 물건은 생각해 옷고 사러갑니다. #@문장구분#저는 바세린 테이프, 스티커, 담을 상자 등을 많이 삽니다. #@문장구분#뭐 물론 인형을 살 때도 있습니다.#@문장구분# 스티커나, 바세린 테이프는 다이어리 꾸미기를 할때 주로 사용됩니다.#@문장구분# 다이소에 가서 제가 가지고 싶었던 것을 사면 기분이 좋고 신이 납니다.#@문장구분# 물론 집에가서 막상 터보고 몇이 뒤면 관심이 사라지지만요.#@문장구분# 저는 이상한게 새로운 물건만 보면 전에쓰던 물건은 눈에 띄지도 않습니다.#@문장구분# 인형의 주로 푹신한 인형을 사서 잘때 가지고 잡니다. #@문장구분#여러분들은 어떤가요?#@문장구분# 여러분들은 다이소에서 무슨 물건들을 사나요?#@문장구분#",
+      "paragraph_len": 677,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      20,
+      15.314285
+    ],
+    "essay_scoreT_avg": 18.549208,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 저는 특별한 날이나 용돈 받는 날에 자주 가서입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 저는 특별한 날이나 용돈 <문법_맞춤법>받는말에</문법_맞춤법> 자주 가서 입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물론 돈이 좀 많이 듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "물론 돈이 좀 <문법_맞춤법>많이듭니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 전 제가 꼭 필요한 것을 삽니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 전 제가 꼭<문법_맞춤법> 필요한것을</문법_맞춤법> 삽니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 필요한 물건은 생각해 놓고 사러 갑니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 필요한 물건은 생각해 <문법_맞춤법>옷고 사러갑니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스티커나, 바세린 테이프는 다이어리 꾸미기를 할 때 주로 사용됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스티커나, 바세린 테이프는 다이어리 꾸미기를 <문법_맞춤법>할때</문법_맞춤법> 주로 사용됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 집에 가서 막상 터보고 몇이 뒤면 관심이 사라지지만요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 <문법_맞춤법>집에가서</문법_맞춤법> 막상 터보고 몇이 뒤면 관심이 사라지지만요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이상한 게 새로운 물건만 보면 전에 쓰던 물건은 눈에 띄지도 않습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>이상한게</문법_맞춤법> 새로운 물건만 보면 전에쓰던 물건은 눈에 띄지도 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인형의 주로 푹신한 인형을 사서 잘 때 가지고 잡니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인형의 주로 푹신한 인형을 사서<문법_맞춤법> 잘때 </문법_맞춤법>가지고 잡니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36005",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 397,
+    "essay_main_subject": "나의 취미"
+  }
+}

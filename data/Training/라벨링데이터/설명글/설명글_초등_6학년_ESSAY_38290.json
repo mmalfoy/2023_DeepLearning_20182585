@@ -1,0 +1,328 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 가장 존경하는 인물은 에디슨이라는 과학자 입니다.#@문장구분#에디슨은 어려서부터 호기심이 많고 엉뚱해서 모두에게 구박을 받았을때 이때 에디슨을 받아준한 사람이 있었는데 바로 에디슨의 어머니셨다.#@문장구분#덕분에 에디슨의 기본지식은 거의 어머니께 배웠고 그렇게 계속있다가 돈을 벌기위해 떠난다.#@문장구분#돈을 벌기위해 떠난 에디슨은 신문배달부터 다양한 일을 했는데 기차에서 물건을 나르는 일을 하게되었을때 주인이 기치 뒷자리를 실험하는데 사용해도 좋다 하셨다.#@문장구분#그렇게 실험을 하다가 화재가 일어나 버렸다.#@문장구분#이 화재 대문에 에디슨은 주인에게 귀쪽을 맞았고 그 뒤로 청력이 약화되기 시작한다.#@문장구분#에디슨은 그 뒤 많은 발명품을 만들고 꿈을 이루기 위해서 과학자의 길에 들어선다.#@문장구분#하지만 사람이 많고 어두운 이곳에서는 아무일도 할 수없을것 같다며 한적한 시골동네로 이사를 간다.#@문장구분#그 뒤로 계속 실패를 해오다가 마침내 자신이 만들고 싶었던 전구를 완성하고 얼마지나 세상을 떠났다. #@문장구분#                 에디슨은 전구 이외에 많은 발명품들을 만들어 냈는데 모두 한번의 도전으로 이루어진것이 아닌 노력으로 만들어진 것이다.#@문장구분#이렇게 에디슨은 노력을 아주 중요시 여겼다.#@문장구분#그러니 나도 무슨 일을할 때에는 좌절하지 않고 계속도전하고 노력하여 좋은 성과를 이루도록 헐것이다.#@문장구분#이상이다.#@문장구분#",
+      "paragraph_len": 891,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.6,
+      26.15,
+      22.65
+    ],
+    "essay_scoreT_avg": 23.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 가장 존경하는 인물은 에디슨이라는 과학자이다.",
+      "sentence_corr_reason": [
+        "평칭이 자연스럽습니다.",
+        "종결 어미를 통일하는 것이 좋을 것 같습니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "어미"
+      ],
+      "sentence_txt": "<문법_높임법>제가</문법_높임법> 가장 존경하는 인물은 에디슨이라는 <문법_어미>과학자 입니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "에디슨은 어려서부터 호기심이 많고 엉뚱해서 모두에게 구박을 받았을 때 이때 에디슨을 받아 준 한 사람이 있었는데 바로 에디슨의 어머니셨다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "에디슨은 어려서부터 호기심이 많고 엉뚱해서 모두에게 구박을 <문법_맞춤법>받았을때</문법_맞춤법> 이때 에디슨을 받아준한 사람이 있었는데 바로 에디슨의 어머니셨다.",
+      "sentence_corr_txt_styling": "에디슨은 어려서부터 호기심이 많고 엉뚱해서 모두에게 구박을 받았을 때 이때 에디슨을 받아 준 한 사람이 있었는데 바로 에디슨의 어머니셨다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "덕분에 에디슨의 기본 지식은 거의 어머니께 배웠고 그렇게 계속 있다가 돈을 벌기 위해 떠난다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "덕분에 에디슨의 <문법_맞춤법>기본지식은</문법_맞춤법> 거의 어머니께 배웠고 그렇게 계속있다가 돈을 벌기위해 떠난다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "돈을 벌기 위해 떠난 에디슨은 신문 배달부터 다양한 일을 했는데, 기차에서 물건을 나르는 일을 하게 되었을 때 주인이 기차 뒷자리를 실험하는 데 사용해도 좋다 하셨다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "쉼표가 필요합니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "돈을 <문법_맞춤법>벌기위해</문법_맞춤법> 떠난 에디슨은 신문배달부터 다양한 일을 <문법_기타>했는데</문법_기타> 기차에서 물건을 나르는 일을 하게되었을때 주인이 기치 뒷자리를 실험하는데 사용해도 좋다 하셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 화재 때문에 에디슨은 주인에게 귀쪽을 맞았고 그 뒤로 청력이 약화되기 시작한다.",
+      "sentence_corr_reason": [
+        "'때문에'가 옳은 표현입니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이 화재 <문법_맞춤법>대문에</문법_맞춤법> 에디슨은 주인에게 귀쪽을 맞았고 그 뒤로 청력이 약화되기 시작한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "에디슨은 그 뒤 많은 발명품을 만들었고 꿈을 이루기 위해서 과학자의 길에 들어선다.",
+      "sentence_corr_reason": [
+        "과거 시제가 자연스럽습니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": "에디슨은 그 뒤 많은 발명품을 <문법_시제>만들고</문법_시제> 꿈을 이루기 위해서 과학자의 길에 들어선다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 사람이 많고 어두운 이 곳에서는 아무 일도 할 수 없을 것 같다며 한적한 시골 동네로 이사를 간다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "하지만 사람이 많고 어두운 <문법_맞춤법>이곳에서는</문법_맞춤법> 아무일도 할 수없을것 같다며 한적한 시골동네로 이사를 간다.",
+      "sentence_corr_txt_styling": "하지만 사람이 많고 어두운 이 곳에서는 아무 일도 할 수 없을 것 같다며 한적한 시골 동네로 이사를 간다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 뒤로 계속 실패를 해 오다가 마침내 자신이 만들고 싶었던 전구를 완성하고 얼마 지나 세상을 떠났다. ",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그 뒤로 계속 실패를 <문법_맞춤법>해오다가</문법_맞춤법> 마침내 자신이 만들고 싶었던 전구를 완성하고 얼마지나 세상을 떠났다. ",
+      "sentence_corr_txt_styling": "그 뒤로 계속 실패를 해 오다가 마침내 자신이 만들고 싶었던 전구를 완성하고 얼마 지나 세상을 떠났다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "                 에디슨은 전구 이외에 많은 발명품들을 만들어 냈는데 모두 한 번의 도전으로 이루어진 것이 아닌 노력으로 만들어진 것이다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "                 에디슨은 전구 이외에 많은 발명품들을 만들어 냈는데 모두 <문법_맞춤법>한번의</문법_맞춤법> 도전으로 이루어진것이 아닌 노력으로 만들어진 것이다.",
+      "sentence_corr_txt_styling": "                 에디슨은 전구 이외에 많은 발명품들을 만들어 냈는데 모두 한 번의 도전으로 이루어진 것이 아닌 노력으로 만들어진 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 나도 무슨 일을 할 때에는 좌절하지 않고 계속 도전하고 노력하여 좋은 성과를 이루도록 할 것이다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러니 나도 무슨 <문법_맞춤법>일을할</문법_맞춤법> 때에는 좌절하지 않고 계속도전하고 노력하여 좋은 성과를 이루도록 헐것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38290",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 632,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

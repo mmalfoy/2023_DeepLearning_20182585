@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 제가 존경하는위인은 없지만 제가 생각하는 존경받아야하는 행동과 모습이있습니다#@문장구분# 첫번째는 노숙자분들에게 도움을 주는 행동입니다#@문장구분# 목도리녀라고 한 여성이 노숙자에게 자신의 목도리를 건네주는 기사를 봤는데 그런모습이 멋지고 자신감이 있어보여서 존경받을 행동이라고 생각합니다.#@문장구분# 두번째 이분은 장기려박사이시고 이분은 6.25전쟁때 북한에 가족을남겨두고온 이산가족인데 집이없어옥상에서 환자가 찾아오면 치료비를 받지않고 치료해주셨다는분입니다.#@문장구분# 남을위해 봉사하는모습이 본받고싶습니다#@문장구분# 세번째 기부를 하는것 사랑의빵같은작은 기부주은것도 본받고싶은행동입니다. #@문장구분#방송인 유재석도 연탄은행에 약 8년간 77만장이엄는연탄을 기부했고 일본마을에 5000인원이상을 전달했다고합니다.#@문장구분# 저는 이렇게 큰돈이아니어도 작은 기부라도 해보고싶습니다.#@문장구분# 네번째 쓰레기를 줍는분 가끔 귀찮다고 쓰레기를 아무곳에서나 버리는사람이많은데 환경미화원이나 봉사활동을 하는분들 다 존경받아야한다고생각합니다.#@문장구분# 또 다른 존경받아야할 행동과 모습이있지만 제가 가장 본받고싶거나 존경받아야할 행동이라고 생각합니다",
+      "paragraph_len": 711,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      28,
+      28
+    ],
+    "essay_scoreT_avg": 27.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 제가 존경하는 위인은 없지만 제가 생각하는 존경받아야 하는 행동과 모습이 있습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 제가 <문법_맞춤법>존경하는위인은 </문법_맞춤법>없지만 제가 생각하는 존경받아야하는 행동과 모습이있습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째는 노숙자분들에게 도움을 주는 행동입니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫번째는 </문법_맞춤법>노숙자분들에게 도움을 주는 행동입니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 목도리녀라고 한 여성이 노숙자에게 자신의 목도리를 건네주는 기사를 봤는데 그런 모습이 멋지고 자신감이 있어 보여서 존경받을 행동이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 목도리녀라고 한 여성이 노숙자에게 자신의 목도리를 건네주는 기사를 봤는데 <문법_맞춤법>그런모습이 </문법_맞춤법>멋지고 자신감이 있어보여서 존경받을 행동이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째 이분은 장기려 박사이시고 이분은 6.25전쟁 때 북한에 가족을 남겨두고 온 이산가족인데 집이 없어 옥상에서 환자가 찾아오면 치료비를 받지 않고 치료해 주셨다는 분입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째 </문법_맞춤법>이분은 장기려박사이시고 이분은 6.25전쟁때 북한에 가족을남겨두고온 이산가족인데 집이없어옥상에서 환자가 찾아오면 치료비를 받지않고 치료해주셨다는분입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 남을 위해 봉사하는 모습이 본받고 싶습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>남을위해 봉사하는모습이 본받고싶습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째 기부를 하는 것 사랑의 빵 같은 작은 기부하는 것도 본받고 싶은 행동입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째 </문법_맞춤법>기부를 하는것 사랑의빵같은작은 기부주은것도 본받고싶은행동입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "방송인 유재석도 연탄은행에 약 8년간 77만 장이 넘는 연탄을 기부했고 일본마을에 5000만원 이상을 전달했다고 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "방송인 유재석도 <문법_맞춤법>연탄은행에 약 8년간 77만장이엄는연탄을 기부했고 일본마을에 5000인원이상을 전달했다고합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이렇게 큰돈이 아니어도 작은 기부라도 해보고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 이렇게 <문법_맞춤법>큰돈이아니어도 작은 기부라도 해보고싶습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 네 번째 쓰레기를 줍는 분 가끔 귀찮다고 쓰레기를 아무 곳에나 버리는 사람이 많은데 환경미화원이나 봉사활동을 하는 분들 다 존경받아야 한다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>네번째 </문법_맞춤법>쓰레기를 줍는분 가끔 귀찮다고 쓰레기를 아무곳에서나 버리는사람이많은데 환경미화원이나 봉사활동을 하는분들 다 존경받아야한다고생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 다른 존경받아야 할 행동과 모습이 있지만 제가 가장 본받고 싶거나 존경받아야 할 행동이라고 생각합니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 다른 <문법_맞춤법>존경받아야할 행동과 모습이있지만 제가 가장 본받고싶거나 존경받아야할 행동이라고</문법_맞춤법> 생각합니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51778",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 533,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리가 위생을 지키며 건강함을 유지하기 위해서는 청결해야한다.#@문장구분# 청결을 오래 유지할려면 잘 씻어야한다.#@문장구분# 우리는 코로나라는 질병때문에 청결을 더 중요하게 여겨야 한다.#@문장구분# 외출 후에는 바로 흐르는 물에 30초 이상 비누로 손을 씻어야하고 일과가 끝난 후에는 몸을 구석구석 깨끗이 씻어야 한다.#@문장구분# 그리고 손을 한번 씻어도 세균은 계속 남아있기 때문에 한번 한번씩 꼼꼼히, 자주 씻어야한다. #@문장구분#고여져 있는 물에 씻으면 안되고, 흐르는 물의 비누로 손가락 사이사이 잘 씻어야 효과가 있다.#@문장구분# 그리고 야외 활동 후 목욕을 하지 못하게 된다면 세안비누로 얼굴을 세안해야 한다.#@문장구분# 음식을 먹을 땐 상한 음식인지 곰팡이가 있는지 꼼꼼히 살펴봐야 식중독같은 병에 걸리지 않을 수 있다.#@문장구분# 요즘같은 코로나에는 꼭 필요한 손씻기와 마스크를 잘 착용하고 호흡기관에 세균이 들어가지 않도록 해야한다.#@문장구분# 우리가 다양한 위생을 지키면 건강하고 행복한 생활을 할 수 있다.#@문장구분#",
+      "paragraph_len": 663,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.933334,
+      25.666666,
+      18.4
+    ],
+    "essay_scoreT_avg": 22,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리가 위생을 지키며 건강함을 유지하기 위해서는 청결해야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리가 위생을 지키며 건강함을 유지하기 위해서는<문법_맞춤법> 청결해야한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 청결을 오래 유지할려면 잘 씻어야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 청결을 오래 유지할려면 잘 <문법_맞춤법>씻어야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 코로나라는 질병 때문에 청결을 더 중요하게 여겨야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 코로나라는 <문법_맞춤법>질병때문에</문법_맞춤법> 청결을 더 중요하게 여겨야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 손을 한번 씻어도 세균은 계속 남아 있기 때문에 하나씩 꼼꼼히, 자주 씻어야한다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 손을 한번 씻어도 세균은 계속 <문법_맞춤법>남아있기</문법_맞춤법> 때문에 <스타일링_패러프레이징>한번 한번씩 </스타일링_패러프레이징>꼼꼼히, 자주 씻어야한다. ",
+      "sentence_corr_txt_styling": " 그리고 손을 한번 씻어도 세균은 계속 남아 있기 때문에 하나씩 꼼꼼히, 자주 씻어야한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "고여 있는 물에 씻으면 안 되고, 흐르는 물에 비누로 손가락 사이사이 잘 씻어야 효과가 있다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "<문법_어미>고여져</문법_어미> 있는 물에 씻으면 <문법_맞춤법>안되고</문법_맞춤법>, 흐르는 <문법_조사>물의</문법_조사> 비누로 손가락 사이사이 잘 씻어야 효과가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 음식을 먹을 땐 상한 음식인지, 곰팡이가 있는지 꼼꼼히 살펴봐야 식중독 같은 병에 걸리지 않을 수 있다.",
+      "sentence_corr_reason": [
+        "쉼표",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 음식을 먹을 땐 상한 <문법_기타>음식인지</문법_기타> 곰팡이가 있는지 꼼꼼히 살펴봐야 <문법_맞춤법>식중독같은</문법_맞춤법> 병에 걸리지 않을 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 같은 코로나에는 꼭 필요한 손씻기와 마스크를 잘 착용하고 호흡기관에 세균이 들어가지 않도록 해야한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>요즘같은</문법_맞춤법> 코로나에는 꼭 필요한 손씻기와 마스크를 잘 착용하고 호흡기관에 세균이 들어가지 않도록 해야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36069",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 464,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

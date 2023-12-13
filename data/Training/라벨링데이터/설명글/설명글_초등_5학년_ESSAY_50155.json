@@ -1,0 +1,424 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서 배우는 교과서 는정말 다양하죠 #@문장구분#국어, 수학, 사회, 과학, 영어, 이렇게 있죠 #@문장구분#여기중에서 내가가장 좋아하는 과목 5개을 순위로 정하겠다.#@문장구분# 5위는국어다. #@문장구분#국어도좋긴하지만 직접쓰고 또 서술 을하기 때문에 국어는많이싫다.#@문장구분# 4위는 과학 과학은 어려운단어 가있고 실험도 해야 하니까 그실험결과을 길게~ 써야 하니까 조금 싫다.#@문장구분# 3위는 수학이다.#@문장구분# 수학은좋긴 한데 그리는게 힘들 어도 그문제을 풀었을때 그짜릿함 때문에 3위는 수학이다. #@문장구분#2위는 영어다.#@문장구분# 영어수업을 재밌게가르치 고 또 새로운단어을 배우면내머릿속 에 저장 을하는저처럼 좋다.#@문장구분# 내가배운 단어랑 동사을 붙이면 나오는 문장을또 읽으면 재밌고 외국인들은 이렇게 공부하 고 말하구나을 생각하고 나의영어목표는 해외여행을갈때 외국인이랑영어로 대화하는게 나의목표다.#@문장구분# 그래서 영어는그래서2위다. #@문장구분#1위는 두구두구~ 사회다!#@문장구분# 왜냐하면 내가 10살 부터 설민석이 나오거나역사을 듣는것이아주재밌다.#@문장구분# 그걸영상으로 간단히정리하니더재미있게 쉽게 사회을 좋아하는 까닭이다. #@문장구분#그리고 이순신이 임진왜란 정묘호란 병자호란 전쟁을 배우는게 더재밌다.#@문장구분# 왜냐하면 우리나라는 이런외적 을 어떻게 극복했을까? 그런게궁금해서 역사 중에서도 전쟁하는부분이좋다.#@문장구분# 사회는 모두다재밌다. #@문장구분#과학발전이나 전쟁 을 어떻게 극복하는지랑 그런우리나라에 옛날이야기가 좋아서내가 좋아하는 과목은 사회다.",
+      "paragraph_len": 1029,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      21.133335,
+      21.133335
+    ],
+    "essay_scoreT_avg": 21.133335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교에서 배우는 교과서는 정말 다양하다.  ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "학교에서 배우는 <문법_맞춤법>교과서 는정말</문법_맞춤법> <문법_높임법>다양하죠</문법_높임법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "국어, 수학, 사회, 과학, 영어, 이렇게 있다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": "국어, 수학, 사회, 과학, 영어, 이렇게 <문법_높임법>있죠</문법_높임법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여기 중에서 내가 가장 좋아하는 과목 5개을 순위로 정하겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여기중에서 <문법_맞춤법>내가가장 </문법_맞춤법>좋아하는 과목 5개을 순위로 정하겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 5위는 국어다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 5<문법_맞춤법>위는국어다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "국어도 좋긴 하지만 직접 쓰고 또 서술을 하기 때문에 국어는 많이 싫다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>국어도좋긴하지만 직접쓰고 또 서술 을하기 때문에 국어는많이싫다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 4위는 과학 과학은 어려운 단어가 있고 실험도 해야 하니까 그 실험 결과을 길게~ 써야 하니까 조금 싫다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 4위는 과학 과학은 <문법_맞춤법>어려운단어 가있고 실험도 해야 하니까 그실험결과을 길게~ 써야 하니까</문법_맞춤법> 조금 싫다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수학은 좋긴 한데 그리는 게 힘들어도 그 문제을 풀었을 때 그 짜릿함 때문에 3위는 수학이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>수학은좋긴 한데 그리는게 힘들 어도 그문제을 풀었을때 그짜릿함 때문에 3위는</문법_맞춤법> 수학이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 영어 수업을 재밌게 가르치고 또 새로운 단어를 배우면 내 머릿속에 저장을 하는 것처럼 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>영어수업을 재밌게가르치 고 또 새로운단어을 배우면내머릿속 에 저장 을하는저처럼</문법_맞춤법> 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 배운 단어랑 동사를 붙이면 나오는 문장을 또 읽으면 재밌고 외국인들은 이렇게 공부하고 말하는구나를 생각하고 나의 영어목표는 해외여행을 갈 때 외국인이랑 영어로 대화하는 게 나의 목표다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>내가배운 단어랑 동사을 붙이면 나오는 문장을또 읽으면 재밌고 외국인들은 이렇게 공부하 고 말하구나을 생각하고 나의영어목표는 해외여행을갈때 외국인이랑영어로 대화하는게 나의목표다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 영어는 그래서 2위다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서<문법_맞춤법> 영어는그래서2위다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "1위는 두구 두구~ 사회다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "1위는 <문법_맞춤법>두구두구</문법_맞춤법>~ 사회다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 나는 10살부터 설민석이 나오는 역사를 듣는 것이 아주 재밌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 내가 1<문법_맞춤법>0살 부터 설민석이 나오거나역사을 듣는것이아주재밌다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그걸 영상으로 간단히 정리해서 더 재미있고 쉽게 알려주니 사회를 좋아하는 까닭이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그걸영상으로 간단히정리하니더재미있게 쉽게 사회을 좋아하는 까닭이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 이순신이 임진왜란 정묘호란 병자호란 전쟁을 배우는 게 더 재밌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 이순신이 임진왜란 정묘호란 병자호란 전쟁을 배우는게 <문법_맞춤법>더재밌다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 우리나라는 이런 외적을 어떻게 극복했을까? 그런 게 궁금해서 역사 중에서도 전쟁하는 부분이 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 우리나라는 <문법_맞춤법>이런외적 을</문법_맞춤법> 어떻게 극복했을까? 그런게궁금해서 역사 중에서도 전쟁하는부분이좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사회는 모두 다 재밌다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사회는 <문법_맞춤법>모두다재밌다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과학발전이나 전쟁을 어떻게 극복하는지랑 그런 우리나라에 옛날이야기가 좋아서 내가 좋아하는 과목은 사회다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>과학발전이나 전쟁 을 어떻게 극복하는지랑 그런우리나라에 옛날이야기가 좋아서내가</문법_맞춤법> 좋아하는 과목은 사회다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50155",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 670,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

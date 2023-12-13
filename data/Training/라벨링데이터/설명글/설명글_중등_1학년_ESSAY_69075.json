@@ -1,0 +1,222 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 가지고 있었던 나쁜 습관은 뒷정리가 되지 않는다는 것이다. #@문장구분#무언가를 쓰고 나서 다시 원래 자리에 가져다 놓지 않고 내가 썼던 그 자리를 놔둔다거나 혹은 밖에 다녀와서 손을 씻고 밥을 먹고 난 뒤에도 내가 썼던 식기 도구나 반찬통을 싱크대에 갖다 놓지 않아 부모님께 잔소리 듣는 경우도 많아졌다.#@문장구분# 이러한 나쁜 습관을 해결하기 위해 나는 한 가지 방법을 생각해 내었다.#@문장구분# 바로 주변 사람들을 이용하는 것이다.#@문장구분# 물론 다른 사람에게 치워 달라는 것이 아니라 혹시나 뒷정리를 하지않고 자리를 뜨려고 할 때 치우고 가라 말을 해달라는 것이다.#@문장구분# 하지만 나의 모든 일에 부탁할 수는 없는 것이다.#@문장구분# 물론 처음에는 짜증이 났다.#@문장구분# 주변에서 알려주어도 내가 늘 해왔던 방식인 뒷정리를 하지 않고 움직이려고 하는게 안되었기 때문이다.#@문장구분# 그렇지만 생각을 고쳐먹고 남들이 말하는 것에 늘 고맙다고 대답을 하였다. #@문장구분#이렇게 하다보니 점점 뒷정리를 하는 것이 습관이 되었다.#@문장구분#",
+      "paragraph_len": 672,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      22.3,
+      15.05
+    ],
+    "essay_scoreT_avg": 20.749998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 물론 다른 사람에게 치워 달라는 것이 아니라 혹시나 뒷정리를 하지 않고 자리를 뜨려고 할 때 치우고 가라고 말을 해 달라는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 물론 다른 사람에게 치워 달라는 것이 아니라 혹시나 뒷정리를 <문법_맞춤법>하지않고</문법_맞춤법> 자리를 뜨려고 할 때 치우고 <문법_어미>가라</문법_어미> 말을 해달라는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 나의 모든 일을 부탁할 수는 없는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 하지만 나의 모든 <문법_조사>일에</문법_조사> 부탁할 수는 없는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 주변에서 알려주어도 내가 늘 했던 방식인 뒷정리를 하지 않고 움직이려고 하는 게 안 되었기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 주변에서 알려주어도 내가 늘 <문법_시제>해왔던</문법_시제> 방식인 뒷정리를 하지 않고 움직이려고 <문법_맞춤법>하는게</문법_맞춤법> 안되었기 때문이다.",
+      "sentence_corr_txt_styling": " 주변에서 알려주어도 내가 늘 했던 방식인 뒷정리를 하지 않고 움직이려고 하는 게 안 되었기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이렇게 하다 보니 점점 뒷정리를 하는 것이 습관이 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이렇게 <문법_맞춤법>하다보니</문법_맞춤법> 점점 뒷정리를 하는 것이 습관이 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69075",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 472,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

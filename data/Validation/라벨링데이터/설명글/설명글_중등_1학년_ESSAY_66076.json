@@ -1,0 +1,214 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "습관이란 일상적으로 반복되는 행위를 말한다.#@문장구분# 습관도 좋은 습관이 있고 나쁜 습관이 있다.#@문장구분# 계획표 세우기는 좋은 습관 손톱 물어뜯기는 나쁜 습관이다.#@문장구분# 습관은 만들기도 고치기도 어렵다.#@문장구분#",
+      "paragraph_len": 181,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 나는 손톱물어 뜯는 습관과 숙제를 미뤄서 하는 습관이 있었다.#@문장구분# 이들은 나쁜 습관에 속한다.#@문장구분# 난 이런 습관들을 고치기 위해 노력을 많이했다.#@문장구분# 일단 손톱 물어뜯는 습관은 주변에서도 흔히 볼 수 있다.#@문장구분# 나는 초반에 습관을 고치기 위해서 손톱을 최대한 보지 않으려고 노력했다.#@문장구분# 하지만 나도 모르게 손톱을 뜯고 있었다.#@문장구분# 그래서 난 이방법은 아니다 하고 다른 방법을 찾아보았다.#@문장구분# 손톱물어뜯기를 예방하는 것에는 메니큐어 바르기가 있었다.#@문장구분# 메니큐어는 손톱에 바르면 무의식적으로 손톱을 깨물때 써서 다시는 안깨문다 하길래 시도해보았다.#@문장구분# 처음 방법보다 효과가 훨씬 좋았다.#@문장구분# 위와 같은 방법으로 난 손톱물어 뜯기 습관을 고치게 되었다.#@문장구분#",
+      "paragraph_len": 565,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 숙제 미루는 습관은 학원 끝나고 그날 당일 집에 오자마자 바로 끝내는 식으로 해서 밀릴 틈을 주지 않았다.#@문장구분#",
+      "paragraph_len": 80,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      24.1,
+      24.1,
+      29.75
+    ],
+    "essay_scoreT_avg": 25.983332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_66076",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 511,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 지켜나가는 위생의 방법은 좀 다르다.#@문장구분# 나는 설거지가 재미있고 청소하는것이 즐겁다.#@문장구분# 그렇다보니 나는 집에서 내가 설거이를 한다.#@문장구분# 주방세제를 만이 쓰지 않고 씻고 씻고나서는 깨끗하게 행군다. #@문장구분#깨끗한 그릇들을 보면 마음도 깨끗해지고 아주 위생적인 느낌이 든다.#@문장구분# 냉장고에 오래된 음식은 어른들께 안 여쭈어보고 빨리 버린다.#@문장구분# 냉장고도 깨끗해야 하니까 자주 정리한다.#@문장구분# 음식물 쓰레기도 바로바로 버린다.#@문장구분# 그리고 집안에 먼지가 없도록 청소하고 먼지를 자주 닦는다.#@문장구분# 나는 내 몸만 깨끗하게 하는것만이 위생이라고 생각하지 않는다.#@문장구분# 내주위의 환경도 깨끗하게 하는것도 위생의 중요한 부분이라 생각한다#@문장구분#",
+      "paragraph_len": 546,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.5714285,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.514286,
+      23.419048,
+      17.714287
+    ],
+    "essay_scoreT_avg": 21.88254,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.10",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 나는 설거지가 재미있고 청소하는 것이 즐겁다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 설거지가 재미있고 <문법_맞춤법>청소하는것이 </문법_맞춤법>즐겁다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇다보니 나는 집에서 내가 설거지를 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇다보니 나는 집에서 내가 <문법_맞춤법>설거이를</문법_맞춤법> 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 주방 세제를 많이 쓰지 않고 씻고 씻고 나서는 깨끗하게 헹군다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 주방세제를 <문법_맞춤법>만이 </문법_맞춤법>쓰지 않고 씻고 씻고나서는 깨끗하게 행군다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 내 몸만 깨끗하게 하는 것만이 위생이라고 생각하지 않는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 내 몸만 깨끗하게 <문법_맞춤법>하는것만이 </문법_맞춤법>위생이라고 생각하지 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 주위의 환경도 깨끗하게 하는 것도 위생의 중요한 부분이라 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>내주위의 </문법_맞춤법>환경도 깨끗하게 하는것도 위생의 중요한 부분이라 <문법_기타>생각한다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63539",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 327,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

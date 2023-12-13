@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "상담을하는것 #@문장구분#왜냐하면 상담을하면서 학교폭력을당한 학생에게 조금이나마 마음의 상처를당한 학생에게 치료를해줄수있을것같아서#@문장구분# 선생님이 쉬는시간이나 하교하는 학생들을 번갈아 보며 유심이 관찰을 하면서 학교 폭력을한 학생을 전학을 보내는게 좋을것같다. #@문장구분#왜냐하면 아무리 혼내도 지독한 놈들은 계속할수도 있으니 전학을 보내는게 더 좋을 것같다.#@문장구분# 그리고 청소년 보호법 을 없에야될것같습니다.#@문장구분# 왜냐하면 청소년 보호법을 한다면 가해자가 청소년 보호법 때문에 감옥에 안간다는것 때문에 더 심하게 괴롭힐것 같습니다.#@문장구분# 그리고 청소년 보호법을 없에는것도 좋지만 학교 폭력을하다가 걸린다면 감옥말고 사형아니면고문 그리고 무기징역 이런 잔인한걸 해야 학교폭력을 예방이 아니라 아예 없앨수 일쓸것 같습니다.#@문장구분# 학교 폭력 을 당한다면 첫째멈춰라고 소리칩니다 #@문장구분#이상입니다.",
+      "paragraph_len": 570,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.966665,
+      23.711111,
+      17.311111
+    ],
+    "essay_scoreT_avg": 18.996296,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          2
+        ],
+        [
+          1,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          3,
+          1
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "상담을 하는 것 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>상담을하는것</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 상담을 하면서 학교폭력을 당한 학생에게 조금이나마 마음의 상처를 당한 학생에게 치료를 해줄 수 있을 것 같아서",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 <문법_맞춤법>상담을하면서 </문법_맞춤법>학교폭력을당한 학생에게 조금이나마 마음의 상처를당한 학생에게 치료를해줄수있을것같아서",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님이 쉬는 시간이나 하교하는 학생들을 번갈아 보며 유심이 관찰을 하면서 학교 폭력을 한 학생을 전학을 보내는 게  좋을 것 같습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 선생님이<문법_맞춤법><문법_높임법> 쉬는시간이나 하교하는 학생들을 번갈아 보며 유심이 관찰을 하면서 학교 폭력을한 학생을 전학을 보내는게 좋을것같다</문법_높임법></문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 아무리 혼내도 지독한 놈들은 계속할 수도 있으니 전학을 보내는 게 더 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "왜냐하면 아무리 혼내도 지독한 놈들은<문법_맞춤법><문법_높임법> 계속할수도 있으니 전학을 보내는게 더 좋을 것같</문법_높임법></문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 청소년 보호법을 없애야 될 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 청소년 <문법_맞춤법>보호법 을 없에야될것같습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 청소년 보호법을 한다면 가해자가 청소년 보호법 때문에 감옥에 안 간다는 것 때문에 더 심하게 괴롭힐 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 청소년 보호법을 한다면 가해자가 청소년 보호법 때문에 감옥에 <문법_맞춤법>안간다는것</문법_맞춤법> 때문에 더 심하게 괴롭힐것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 청소년 보호법을 없애는 것도 좋지만 학교 폭력을 하다가 걸린다면 감옥 말고 사형 아니면 고문 그리고 무기징역 이런 잔인한 걸 해야 학교폭력을 예방이 아니라 아예 없앨 수 있을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 청소년 보호법을<문법_맞춤법> 없에는것도 </문법_맞춤법>좋지만 학교 폭력을하다가 걸린다면 감옥말고 사형아니면고문 그리고 무기징역 이런 잔인한걸 해야 학교폭력을 예방이 아니라 아예 없앨수 일쓸것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교 폭력을 당한다면 첫째 멈춰라고 소리칩니다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교 폭<문법_맞춤법>력 을 당한다면 첫째멈춰라고</문법_맞춤법> 소리칩니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64686",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 410,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 이상형은 운동을 잘하는 사람입니다.#@문장구분# 내가 운동에 소질이 없다 보니까 운동을 잘 하고 몸이 건강한 사람이 좋아진 것 같습니다.#@문장구분# 나는 어릴 때 활발한 성격이어서 몸을 움직이는 활동을 좋아했습니다.#@문장구분# 학교에서 가장 좋아하는 시간도 체육 수업 시간이었습니다.#@문장구분# 체육 시간에는 실컷 뛰어놀 수도 있었고 친구들과 같이 운동할 수 있어서 더 즐거웠습니다.#@문장구분# 그런데 학년이 올라가고 중학교에 입학하면서부터는 공부에 집중하면서 운동할 수 있는 시간이 적어졌습니다.#@문장구분# 그래서 나는 같이 활동적인 시간을 보낼 수 있고 운동을 함께할 수 있는 사람이 좋습니다.#@문장구분# ",
+      "paragraph_len": 440,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 이런 내 이상형과 가까워지기 위해, 나는 같이 운동할 수 있는 사람이 될 것입니다.#@문장구분# 그동안 계속 얌전히 앉아있거나 누워있기만 해서 빈약해진 몸을 단련하기 위해 매일 걷기 운동을 하는 것도 좋은 방법일 것입니다.#@문장구분# 또, 몸에 좋은 음식도 많이 먹어야겠다고 다짐했습니다.#@문장구분# 체력을 키우고 건강한 식습관을 가지는 것은 이상형과 가까워지기 위한 노력이 아니더라도 나를 더 아껴주는 것이기 때문에 좋은 습관을 형성할 수 있습니다.#@문장구분# 그리고 꾸준히 운동을 하려면 끈기와 성실함을 가지는 것은 필수입니다.",
+      "paragraph_len": 353,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.3333333,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              3,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4444444,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.3333333,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              3,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4444444,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      25.38889,
+      27.555555
+    ],
+    "essay_scoreT_avg": 26.981482,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "이상형과 나의 노력",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_77975",
+    "essay_prompt": " 현대사회에서는 연예인이 또 다른 우상으로서 이상형이 되는 경우가 많습니다. 많은 사람이 이상형에 걸맞은 사람이 되기 위해 노력하고 자신을 가꿉니다.\n\n 여러분은 이상형이 있으신가요? 이상형에게 잘 보이기 위해 본인을 가꾸고 노력하고 계신가요? 본인의 이상형을 작성하고 더 나은 내가 되기 위해 한 노력을 작성해보세요.\n\n 아직 없다면 내가 좋아하는 사람의 특징을 작성해보고 이상형에게 잘 보이기 위해 어떤 것들을 해야 할지 작성해보세요.\n\n 누군가에게 잘 보이고 싶어 하는 성격이 아니라면 굳이 이상형이 없다고 작성하고 본인 자체적으로 만족하기 위해 하는 노력을 작성해도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 576,
+    "essay_main_subject": "이상형과 나의 노력"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시에 대한 저의 생각은 다음과 같습니다.#@문장구분# 제가 생각하는 미래도시는 사람들이 행복하게 사는 도시입니다#@문장구분# 그런 도시라면 사람들간의 갈등도 또 싸움도 도둑질도 없을 것 같기 때문입니다.#@문장구분# 그런 도시에서 살아보는게 제 꿈입니다.#@문장구분# 영주만 하더라도 사건사고가 많이 일어나는데 서울을 생각하면 정말 끔찍합니다.#@문장구분# 그래서 저는 사람들이 행복한 도시를 만들고 또 그런 도시에서 살고 싶습니다.#@문장구분# 평화롭게 행복한도시의 삶을 생각할 때면 저 역시 행복해지기 때문입니다.#@문장구분# 행복한 도시 즐거운 도시 화목한 도시 이것이 제가 꿈꾸는 미래의 도시입니다.#@문장구분# 딱히 특별한 것은 없습니다만 다만 그 구성원이 항상 행복하고 즐거운 분위기 속에서 살아간다는 것이 평범하지 않고 어려운것이고 그것이 실행된다면 그것은제가 꿈꾸는 미래의 도시일 것 같다라는 생각이 듭니다.#@문장구분#",
+      "paragraph_len": 588,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.1,
+      22.3,
+      20.25
+    ],
+    "essay_scoreT_avg": 22.216667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그런 도시에서 살아보는 게 제 꿈입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 도시에서 <문법_맞춤법>살아보는게</문법_맞춤법> 제 꿈입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 영주만 하더라도 사건 사고가 많이 일어나는데 서울을 생각하면 정말 끔찍합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 영주만 하더라도 <문법_맞춤법>사건사고</문법_맞춤법>가 많이 일어나는데 서울을 생각하면 정말 끔찍합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 사람들과 행복한 도시를 만들고 또 그런 도시에서 살고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그래서 저는 <문법_조사>사람들이</문법_조사> 행복한 도시를 만들고 또 그런 도시에서 살고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 평화롭게 행복한 도시의 삶을 생각할 때면 저 역시 행복해지기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 평화롭게 <문법_맞춤법>행복한도시</문법_맞춤법>의 삶을 생각할 때면 저 역시 행복해지기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 행복한 도시, 즐거운 도시, 화목한 도시 이것이 제가 꿈꾸는 미래의 도시입니다.",
+      "sentence_corr_reason": [
+        "쉼표"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>행복한 도시 즐거운 도시 화목한 도시</문법_맞춤법> 이것이 제가 꿈꾸는 미래의 도시입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 딱히 특별한 것은 없습니다만 다만 그 구성원이 항상 행복하고 즐거운 분위기 속에서 살아간다는 것이 평범하지 않고 어려운것이고 그것이 실행된다면 그것은제가 꿈꾸는 미래의 도시일 것 같다라는 생각이 듭니다.",
+      "sentence_corr_txt_styling": " 딱히 특별한 것은 없습니다만 다만 그 구성원이 항상 행복하고 즐거운 분위기 속에서 살아간다는 것이 평범하지 않고 어려운것이고 그것이 실행된다면 그것은제가 꿈꾸는 미래의 도시일 것 같다라는 생각이 듭니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60956",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 409,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

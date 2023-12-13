@@ -1,0 +1,571 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "여러분은 참된 스승에 대해 생각해보신적 있으신가요?#@문장구분# 스승이란?#@문장구분# 자기를 가르쳐 주시고 이끌어 주시는 사람을 스승이라고 한다.#@문장구분# 스승님들은 우리 사회에서 다양한 곳에서 있습니다.#@문장구분# 그리고 스승의 역할은 정말 다양아답니다.#@문장구분# \n 스승님들의 우리와 가까이 같이 생활하고 있다.#@문장구분# 부모님, 선생님, 학원선생님들이 스승님이 될 수 있다.#@문장구분# 나에게도 스승님이 있다.#@문장구분# 초등학교 4학년 때 담임선생님이 나에게는 스승님이 었다.#@문장구분# 스승님은 나에게 다양한 스포츠를 알려 주었다.#@문장구분# 그 중에 플라인디스크를 알려 주었다.#@문장구분# 플라인디스크를 사용하는 방식 게임을 알려 주었다.#@문장구분# 플라인 디스크 아주 흥미로운 재미있었다.#@문장구분# 그리고 내가 이사를 와서 선생님과의 인연은 끝났다.#@문장구분#\n 스승은 우리 사회에서 한명씩있다.#@문장구분# 그래서 스승의 날이 있다.#@문장구분# 스승의 날은 5월 15일이고 스승의 은덕에 감사하고 교권 존중에 대한 인식을 높이기 위한 날이다.#@문장구분# 스승의 날이 되면 학생들이 선생님들에게 감사를 표현하기 위해 카네이션이나 감사의 편지를 쓰는 학생들이 있다.#@문장구분# 스승의 날 노래도 있다.#@문장구분# 스승의 은혜라는 노래가 있다.#@문장구분# \n 스승이란 유래시작은 옛날 부터 시작해서 현재에도 스승의 날을 챙긴다.#@문장구분# 그리고 현재에서 미래까지 스승의 날을 챙길 것이다.#@문장구분#",
+      "paragraph_len": 1043,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      20.25,
+      28.4
+    ],
+    "essay_scoreT_avg": 22.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "여러분은 참된 스승에 대해 생각해본 적 있으신가요?",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "여러분은 참된 스승에 대해 <문법_맞춤법><문법_높임법>생각해보신적</문법_높임법></문법_맞춤법> 있으신가요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승이란,",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>스승이란?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류><스타일링_패러프레이징>자기를 가르쳐 주시고 이끌어 주시는 사람을 스승이라고 한다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 나를 가르쳐 주고 이끌어 주는 사람을 말합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승은 우리 사회에서 다양한 곳에 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "조사"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>스승님들</스타일링_패러프레이징>은 우리 사회에서 다양한 <문법_조사>곳에서 </문법_조사>있습니다.",
+      "sentence_corr_txt_styling": " 스승은 우리 사회에서 다양한 곳에 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 스승의 역할은 정말 다양합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 스승의 역할은 정말 <문법_맞춤법>다양아답니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 스승은 우리 가까이에서 같이 생활하고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": " \n <문법_조사>스승님들의</문법_조사> 우리와 가까이 같이 생활하고 <문법_높임법>있다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님, 선생님, 학원 선생님이 스승이 될 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": " 부모님, 선생님, <문법_맞춤법><문법_조사><문법_높임법>학원선생님들이 스승님이 될 수 있다.</문법_높임법></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저에게도 스승이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " <문법_높임법>나에게도 스승님이 있다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 초등학교 4학년 때 담임선생님이 저에게는 스승이었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 초등학교 4학년 때 담임선생님이 <문법_높임법>나에게는 스승님이 었다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저에게 다양한 스포츠를 알려 주신 분입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " <문법_높임법>스승님은 나에게 다양한 스포츠를 알려 주었다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중에 플라잉디스크를 알려 주신 것이 인상깊습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_높임법>그 중에 플라인디스크를 알려 주었다.</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 플라잉디스크를 사용하는 방식을 알려 주셨습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법>플라인디스크를 </문법_맞춤법>사용하는 <스타일링_패러프레이징>방식 게임을</스타일링_패러프레이징> <문법_높임법>알려 주었다.</문법_높임법>",
+      "sentence_corr_txt_styling": " 플라잉디스크를 사용하는 방식을 알려 주셨습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 플라잉디스크는  아주 흥미롭고 재미있었습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사>플라인 디스크</문법_조사></문법_맞춤법> 아주 <문법_높임법>흥미로운 재미있었다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 이사를 오면서 선생님과의 인연은 끝이 났습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_높임법>그리고 내가 이사를 와서 선생님과의 인연은 끝났다.</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 스승은 우리 사회에 한 명씩 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법",
+        "조사"
+      ],
+      "sentence_txt": "\n 스승은 우리 <문법_조사>사회에서</문법_조사> <문법_맞춤법><문법_높임법>한명씩있다.</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 스승의 날이 있는 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": " 그래서 스승의 날이 <문법_어미><문법_높임법>있다.</문법_높임법></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승의 날은 5월 15일이고 스승의 은덕에 감사하고 교권 존중에 대한 인식을 높이기 위한 날입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 스승의 날은 5월 15일이고 스승의 은덕에 감사하고 교권 존중에 대한 인식을 높이기 위한 <문법_높임법>날이다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 스승의 날이 되면 학생들이 선생님들에게 감사를 표현하기 위해 카네이션이나 감사의 편지를 <스타일링_담화 맥락 오류><스타일링_패러프레이징>쓰는 학생들이 있다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 스승의 날이 되면 학생들이 선생님들에게 감사를 표현하기 위해 카네이션이나 감사의 편지를 씁니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승의 날 노래도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 스승의 날 노래도 <문법_높임법>있다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승의 은혜라는 노래입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": " 스승의 은혜라는 <문법_어미><문법_높임법>노래가 있다.</문법_높임법></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 스승의 유래의 시작은 옛날부터 시작해서 현재에도 스승의 날을 챙기는 것에 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법><문법_조사>스승이란 유래시작은</문법_조사></문법_맞춤법> 옛날 부터 시작해서<문법_어미><문법_높임법> 현재에도 스승의 날을 챙긴다.</문법_높임법></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 미래에도 스승의 날은 챙길 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_높임법>그리고 현재에서 미래까지 스승의 날을 챙길 것이다.</문법_높임법></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36243",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 604,
+    "essay_main_subject": "참된 스승"
+  }
+}

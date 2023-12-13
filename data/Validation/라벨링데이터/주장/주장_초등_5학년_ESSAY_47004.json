@@ -1,0 +1,242 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서 저는 다른 나라의 문화 음식등을 체험하는 것이 좋다고 생각 합니다.#@문장구분# 첫째 다른 나라의 문화 음식 등을 계속 체험을 하면 어느새 익숙하게 느겨질것 입니다.#@문장구분# 둘째, 위 방법과 같이 실천을 하면 다문화 가족의 아이들이랑 더 친해져 차별 혹은 편견을 잊어버릴것 입니다. #@문장구분#그리고 제가 생각하기엔 제가 방금 말한 방법을 사용하면 좋을것 같습니다.#@문장구분# 왜냐하면 제가 유치원에 다녔을때도 그런 체험을해 다른나라의 옷, 인사말, 음식, 문화등을 배운걸 계속하다 보니 익숙해졌습니다.",
+      "paragraph_len": 402,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.45,
+      22.885715,
+      26.25
+    ],
+    "essay_scoreT_avg": 22.528572,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "다문화 가족의 아이들이 차별 혹은 편견을 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서 저는 다른 나라의 문화나 음식 등을 체험하는 것이 좋다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "다문화 가족의 아이들이 차별 혹은 <문법_조사>편견</문법_조사> 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서 저는 다른 나라의 문화 <문법_맞춤법>음식등을</문법_맞춤법> 체험하는 것이 좋다고 생각 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫째 다른 나라의 문화나 음식 등을 계속 체험하면 어느새 익숙하게 느껴질 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 첫째 다른 나라의 <문법_조사>문화</문법_조사> 음식 등을 계속 체험을 하면 어느새 익숙하게 <문법_맞춤법>느겨질것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": " 첫째 다른 나라의 문화나 음식 등을 계속 체험하면 어느새 익숙하게 느껴질 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째, 위 방법과 같이 실천을 하면 다문화 가족의 아이들이랑 더 친해져 차별 혹은 편견을 잊어버릴 것입니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 둘째, 위 방법과 같이 실천을 하면 다문화 가족의 아이들이랑 더 친해져 차별 혹은 편견을 <문법_맞춤법>잊어버릴것 입니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": " 둘째, 위 방법과 같이 실천을 하면 다문화 가족의 아이들이랑 더 친해져 차별 혹은 편견을 잊어버릴 것입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 제가 생각하기엔 제가 방금 말한 방법을 사용하면 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 제가 생각하기엔 제가 방금 말한 방법을 사용하면 <문법_맞춤법>좋을것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 제가 유치원에 다녔을 때도 그런 체험을 해 다른 나라의 옷, 인사말, 음식, 문화 등을 배운 걸 계속하다 보니 익숙해졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 제가 유치원에 <문법_맞춤법>다녔을때도</문법_맞춤법> 그런 체험을해 다른나라의 옷, 인사말, 음식, 문화등을 배운걸 계속하다 보니 익숙해졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47004",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 324,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

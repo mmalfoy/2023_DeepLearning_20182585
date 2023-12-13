@@ -1,0 +1,320 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에는 훌륭하신 일을 하시고 가신 위인분들이 많이 있습니다.#@문장구분# 우리나라를 위해 열심히 싸우시다가 돌아가신 분들도 계시고 그렇지 않은 분들도 계실겁니다. #@문장구분#저는 다 존경하지만 그중에 1분을 뽑자면 세종대왕님이 전 그중에 가장 존경하시는 분 입니다. #@문장구분#왜냐하면 세종대왕님이 한글을 만드셔서 지금의 우리가 편리한 한글을 쓰고 있다고 생각합니다.#@문장구분# 세종대왕님은 백성들을 사랑하는 마음이 넓으십니다. #@문장구분#왜냐하면 세종대왕님은 눈도 안좋으신데 백성들이 편하게 쓰라고 한글을 만드셨습니다. #@문장구분#지금의 세종대왕님이 없었더라면 우리는 아마 지금 정말 정말 어려운 한자를 쓰고있을겁니다.#@문장구분# 그래서 세종대왕님을 존경합니다.#@문장구분# 그리고 또 이순신 장군님을 존경합니다.#@문장구분# 왜냐하면 이순신장군님이 없었더라면 우리는 조선시대때 일본에게 지배 당했을수도 있습니다. #@문장구분#이순신 장군님은 여러개의 배가 있는데도  겁을 하나도 먹지않고 소수척의배로 이기신 위대한 분이십니다.#@문장구분# 하지만 이순신 장군님은 배에서 화살을 맞고 돌아가셨지만 이순신 장군님은 나의 죽음을 알리지말라라고 돌아가셨 습니다.#@문장구분# 왜 나의 죽음을 알리지 말라했냐면 자신이 죽은걸을 상대가 알면 이제 이순신장군님이 돌아가신걸알고 들어왔을거여서 입니다.#@문장구분# 그래서 이순신 장군님도 존경합니다.",
+      "paragraph_len": 869,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.75,
+      21.55,
+      28.4
+    ],
+    "essay_scoreT_avg": 25.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "세상에는 훌륭한 일을 하시고 가신 위인분들이 많이 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "세상에는<문법_맞춤법> 훌륭하신 일을</문법_맞춤법> 하시고 가신 위인분들이 많이 있습니다.",
+      "sentence_corr_txt_styling": "세상에는 훌륭한 일을 하시고 가신 위인분들이 많이 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라를 위해 열심히 싸우시다가 돌아가신 분들도 계시고 그렇지 않은 분들도 계실 겁니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리나라를 위해 열심히 싸우시다가 돌아가신 분들도 계시고 그렇지 않은 분들도 <문법_맞춤법>계실겁니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 다 존경하지만 그중에 한 분을 뽑자면 세종대왕님이 전 그중에 가장 존경하시는 분입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 다 존경하지만 그중에 1분을 뽑자면 세종대왕님이 전 그중에 가장 존경하시는<문법_맞춤법> 분 입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "왜냐하면 세종대왕님은 눈도 안좋으신데 백성들이 편하게 쓰라고 한글을 만드셨습니다. ",
+      "sentence_corr_txt_styling": "왜냐하면 세종대왕님은 눈도 안좋으신데 백성들이 편하게 쓰라고 한글을 만드셨습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지금의 세종대왕님이 없었더라면 우리는 아마 지금 정말 정말 어려운 한자를 쓰고 있을 겁니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "지금의 세종대왕님이 없었더라면 우리는 아마 지금 정말 정말 어려운 <문법_맞춤법>한자를 쓰고있을겁니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "지금의 세종대왕님이 없었더라면 우리는 아마 지금 정말 정말 어려운 한자를 쓰고 있을 겁니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 이순신 장군님이 없었더라면 우리는 조선시대 때 일본에게 지배 당했을 수도 있습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면<문법_맞춤법> 이순신장군님이</문법_맞춤법> 없었더라면 우리는 조선시대때 일본에게 지배 당했을수도 있습니다. ",
+      "sentence_corr_txt_styling": " 왜냐하면 이순신 장군님이 없었더라면 우리는 조선시대 때 일본에게 지배 당했을 수도 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이순신 장군님은 여러 개의  배가 있는데도  겁을 하나도 먹지 않고 소 수척의 배로  이기신 위대한 분이십니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "이순신 장군님은 <문법_맞춤법>여러개의</문법_맞춤법> 배가 있는데도  겁을 하나도 먹지않고 소수척의배로 이기신 위대한 분이십니다.",
+      "sentence_corr_txt_styling": "이순신 장군님은 여러 개의  배가 있는데도  겁을 하나도 먹지 않고 소 수척의 배로  이기신 위대한 분이십니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 이순신 장군님은 배에서 화살을 맞고 돌아가셨지만 이순신 장군님은 나의 죽음을 알리지 말라라고 돌아가셨습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 하지만 이순신 장군님은 배에서 화살을 맞고 돌아가셨지만 이순신 장군님은 나의 죽음을 <문법_맞춤법>알리지말라라고 돌아가셨 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 하지만 이순신 장군님은 배에서 화살을 맞고 돌아가셨지만 이순신 장군님은 나의 죽음을 알리지 말라라고 돌아가셨습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜 나의 죽음을 알리지 말라 했냐면 자신이 죽은 걸을  상대가 알면 이제 이순신 장군님이 돌아가신 걸 알고 들어왔을 거여서입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜 나의 죽음을 알리지 <문법_맞춤법>말라했냐면</문법_맞춤법> 자신이 죽은걸을 상대가 알면 이제 이순신장군님이 돌아가신걸알고 들어왔을거여서 입니다.",
+      "sentence_corr_txt_styling": " 왜 나의 죽음을 알리지 말라 했냐면 자신이 죽은 걸을  상대가 알면 이제 이순신 장군님이 돌아가신 걸 알고 들어왔을 거여서입니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_41448",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 610,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

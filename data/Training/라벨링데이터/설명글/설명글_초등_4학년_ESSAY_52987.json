@@ -1,0 +1,210 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 하루에 학습시간은 보통 8시간정도 학습을 하고 있는 것 같다.#@문장구분# 주로 학교에서 공부를 하고 학원 숙제를 하고 있다.#@문장구분# 그리고 나의 여가활동은 낮잠 자기인데 예전에는 1시간씩만 낮잠을 잘 자고 일어났는데 요즘 들어서 정말 피곤한지 낮잠을 4시에 자서 10시에 일어나는 일이 많아지고 있다.#@문장구분# 그래서 학습활동을 따로 더 못하고 있다.#@문장구분# \n 내가 여가활동에서 고쳐야 할 점은 낮잠을 잘 때 1시간 알람을 맞춰놓고 일어나야 하고 앞으로는 낮잠을 조금 줄이고 학습 활동을 더 많이 해야 할 것 같습니다.#@문장구분#",
+      "paragraph_len": 375,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.885714,
+      20.8,
+      18.066668
+    ],
+    "essay_scoreT_avg": 18.250793,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 하루에 학습시간은 보통 8시간 정도 학습을 하고 있는 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는 하루에 학습시간은 보통 8<문법_맞춤법>시간정도 </문법_맞춤법>학습을 하고 있는 것 같다.",
+      "sentence_corr_txt_styling": "나는 하루에 학습시간은 보통 8시간 정도 학습을 하고 있는 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 나의 여가활동은 낮잠 자기인데 예전에는 1시간씩만 낮잠을 잘 자고 일어났는데 요즘 들어서 정말 피곤한지 낮잠을 4시에 자서 10시에 일어나는 일이 많아지고 있다.",
+      "sentence_corr_txt_styling": " 그리고 나의 여가활동은 낮잠 자기인데 예전에는 1시간씩만 낮잠을 잘 자고 일어났는데 요즘 들어서 정말 피곤한지 낮잠을 4시에 자서 10시에 일어나는 일이 많아지고 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " \n 내가 여가활동에서 고쳐야 할 점은 낮잠을 잘 때 1시간 알람을 맞춰놓고 일어나야 하고 앞으로는 낮잠을 조금 줄이고 학습 활동을 더 많이 해야 할 것 같습니다.",
+      "sentence_corr_txt_styling": " \n 내가 여가활동에서 고쳐야 할 점은 낮잠을 잘 때 1시간 알람을 맞춰놓고 일어나야 하고 앞으로는 낮잠을 조금 줄이고 학습 활동을 더 많이 해야 할 것 같습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52987",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 276,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

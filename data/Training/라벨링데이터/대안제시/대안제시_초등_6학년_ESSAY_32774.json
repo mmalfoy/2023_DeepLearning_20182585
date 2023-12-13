@@ -1,0 +1,328 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단 강아지나 고양이 등 다양한 반려동물을 키우는데 20%이상 증가 하고 버림받는 반려동물이 활력을 주기 때문에 하루를 기분 좋게 보낼수 있다#@문장구분# 하지만 왜버림을 받을까?#@문장구분# 반려동물 보호센터에 보내면 되는데 왜 박스에 동물을 넣고 길에 둘까?#@문장구분# 생각을 해봤는데 도무지 모르겠더군요#@문장구분# 반려동물로 인해 사람의 기분과 성격이 좋아지는 경우가 있는데 그런 일이 있음에도 불과 하고 버림을 받는 안타까운 반려동물의 상황을 해결하는 방법은 끝까지 키우지 않을거면 입양하지도 마라#@문장구분# 왜냐면 끝까지 키울것을 확실치 않고 키우면 보호센터에 라도 보내야 하는데 보호센터도 아니고 박스에 넣은 다음 길에 버린다?#@문장구분# 그냥 처음에 입양하지도 말아야 합니다#@문장구분# 그리고 다음은 보호센터에 라도 보내라 입니다#@문장구분# 끝까지 안키우고 길에 박스에 두고 버리지 말고 반려동물 보호센터에 보내면 그 버림 받는 반려동물도 좋은거 아닙니까#@문장구분# 근데 다시 생각해보니깐 왜 보호센터에 안보낼까 생각을 했는데 미안해서? 두려워서? 인것같더라구요#@문장구분# 두눈뜨고 반려동물 보호센터에 키워주세요 라고 하면 반려동물한테 미안하고 말하고 다른 사람의 눈빛이 두려워서 인것같습니다#@문장구분# 버림 받는 반려동물의 입장으로 생각해 보겠습니다#@문장구분# 주인한테 버림받는 거니깐 슬플것이고 서운할것입니다#@문장구분# 슬픈건 당연한 거지만 서운한건 왜 서운 한것이나면 \"나는 주인의 반려동물로서 최선을 다했는데 왜 버림받지?\" 이런식으로 서운할것입니다#@문장구분#.",
+      "paragraph_len": 967,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.3,
+      20,
+      23.277779
+    ],
+    "essay_scoreT_avg": 21.192593,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.28",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "일단 강아지나 고양이 등 다양한 반려동물을 키우는데 20% 이상 증가하고 버림받는 반려동물이 활력을 주기 때문에 하루를 기분 좋게 보낼 수 있다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "일단 강아지나 고양이 등 다양한 반려동물을 키우는데 <문법_기타>20%이상</문법_기타> 증가 하고 버림받는 반려동물이 활력을 주기 때문에 하루를 기분 좋게 보낼수 있다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 왜 버림을 받을까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 하지만 <문법_기타>왜버림을</문법_기타> 받을까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반려동물로 인해 사람의 기분과 성격이 좋아지는 경우가 있는데 그런 일이 있음에도 불과하고 버림을 받는 안타까운 반려동물의 상황을 해결하는 방법은 끝까지 키우지 않을 거면 입양하지도 마라",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 반려동물로 인해 사람의 기분과 성격이 좋아지는 경우가 있는데 그런 일이 있음에도 <문법_기타>불과 하고</문법_기타> 버림을 받는 안타까운 반려동물의 상황을 해결하는 방법은 끝까지 키우지 않을거면 입양하지도 마라",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 끝까지 키울 것을 확실치 않고 키우면 보호 센터에라도 보내야 하는데 보호 센터도 아니고 박스에 넣은 다음 길에 버린다?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 왜냐면 끝까지 <문법_기타>키울것을 </문법_기타>확실치 않고 키우면 보호센터에 라도 보내야 하는데 보호센터도 아니고 박스에 넣은 다음 길에 버린다?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다음은 보호 센터에라도 보내라입니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 다음은 <문법_기타>보호센터에 라도 보내라 입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 끝까지 안 키우고 길에 박스에 두고 버리지 말고 반려동물 보호 센터에 보내면 그 버림받는 반려동물도 좋은 거 아닙니까",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 끝까지 <문법_기타>안키우고 </문법_기타>길에 박스에 두고 버리지 말고 반려동물 보호센터에 보내면 그 버림 받는 반려동물도 좋은거 아닙니까",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 다시 생각해 보니깐 왜 보호 센터에 안 보낼까 생각을 했는데 미안해서? 두려워서? 인 것 같더라고요",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>근데 다시 생각해보니깐 왜 보호센터에 안보낼까 생각을 했는데 미안해서? 두려워서? 인것같더라구요</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 눈 뜨고 반려동물 보호 센터에 키워주세요라고 하면 반려동물한테 미안하고 말하고 다른 사람의 눈빛이 두려워서 인 것 같습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>두눈뜨고 반려동물 보호센터에 키워주세요 라고 하면 반려동물한테 미안하고 말하고 다른 사람의 눈빛이 두려워서 인것같습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 버림받는 반려동물의 입장으로 생각해 보겠습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>버림 받는 반려동물의 입장으로 생각해 보겠습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 주인한테 버림받는 거니깐 슬플 것이고 서운할 것입니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>주인한테 버림받는 거니깐 슬플것이고 서운할것입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 슬픈 건 당연한 거지만 서운한 건 왜 서운한 것이 나면 \"나는 주인의 반려동물로서 최선을 다했는데 왜 버림받지?\" 이런 식으로 서운할 것입니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>슬픈건 당연한 거지만 서운한건 왜 서운 한것이나면 \"나는 주인의 반려동물로서 최선을 다했는데 왜 버림받지?\" 이런식으로 서운할것입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32774",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 687,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

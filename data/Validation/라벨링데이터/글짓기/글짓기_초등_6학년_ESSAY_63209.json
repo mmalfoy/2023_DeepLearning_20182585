@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 바다에서 자유롭게 다니는 돌고래야. #@문장구분#바다 속은 물론 바다 위를 볼수 있어. #@문장구분#나는 돌고래가 되어서 다른바다 속 친구들과 함께 보물을 찾을거야.#@문장구분# 보물은 어디 있을까? #@문장구분#산호초 속에 있을까?#@문장구분# 반짝거리는 산호초 사이에는 없네?#@문장구분# 그러면 물고기를 사이에 있는지도 볼 거다.#@문장구분# 떼지어 다니는 물고기를 구경하고 싶다. #@문장구분#마치 거대한 물고기 같을 것 같다. #@문장구분#그리고 상어를 피해 도망다니기도 하고 다른 돌고래들과 바다 위로 뛰어오르기도 하였다.#@문장구분# 다른 물고기들도 주위에서 뛰어 올라 기분이 좋아질 것 같다. #@문장구분#바다 속에서보물이라는 건 금은보화가 아닌 다른 바다 속 생물들과 함께 놀고 주변을 보는 것이다.#@문장구분# 나는 바다에서 자유롭게 다니는 돌고래야.#@문장구분# 바다 속은 물론 바다 위를 볼수 있어. #@문장구분#나는 돌고래가 되어서 다른바다 속 친구들과 함께 보물을 찾을거야. #@문장구분#보물은 어디 있을까? #@문장구분#산호초 속에 있을까?#@문장구분# 반짝거리는 산호초 사이에는 없네?#@문장구분# 그러면 물고기를 사이에 있는지도 볼 거다. #@문장구분#떼지어 다니는 물고기를 구경하고 싶다. #@문장구분#마치 거대한 물고기 같을 것 같다. #@문장구분#그리고 상어를 피해 도망다니기도 하고 다른 돌고래들과 바다 위로 뛰어오르기도 하였다. #@문장구분#다른 물고기들도 주위에서 뛰어 올라 기분이 좋아질 것 같다. #@문장구분#바다 속에서보물이라는 건 금은보화가 아닌 다른 바다 속 생물들과 함께 놀고 주변을 보는 것이다.",
+      "paragraph_len": 1113,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.5,
+      23.7,
+      24.15
+    ],
+    "essay_scoreT_avg": 23.449999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바다 속은 물론 바다 위를 볼 수 있어. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다 속은 물론 바다 위를 <문법_맞춤법>볼수 </문법_맞춤법>있어. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 돌고래가 되어서 다른 바닷속 친구들과 함께 보물을 찾을 거야.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 돌고래가 되어서 <문법_맞춤법>다른바다 속</문법_맞춤법> 친구들과 함께 보물을 찾을거야.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다 속에서 보물이라는 건 금은보화가 아닌 다른 바다 속 생물들과 함께 놀고 주변을 보는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다 <문법_맞춤법>속에서보물이라는 </문법_맞춤법>건 금은보화가 아닌 다른 바다 속 생물들과 함께 놀고 주변을 보는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다 속은 물론 바다 위를 볼 수 있어. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바다 속은 물론 바다 위를 <문법_맞춤법>볼수 </문법_맞춤법>있어. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 돌고래가 되어서 다른 바닷속 친구들과 함께 보물을 찾을 거야. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 돌고래가 되어서 <문법_맞춤법>다른바다 속 </문법_맞춤법>친구들과 함께 보물을 찾을거야. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다 속에서 보물이라는 건 금은보화가 아닌 다른 바다 속 생물들과 함께 놀고 주변을 보는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0024",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다 <문법_맞춤법>속에서보물이라는 </문법_맞춤법>건 금은보화가 아닌 다른 바다 속 생물들과 함께 놀고 주변을 보는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63209",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 654,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "건강하고 깨끗한 몸을 만들기 위해서 우리는 깨끗이 씻고있죠?#@문장구분# 우선 건강한 나의 몸을 만들려면 올바른 식습관과,운동을 해야해요.#@문장구분# 또 깨끗한 몸을 만들기 위해 깨끗하게 씻는게 중요해요.#@문장구분# 그런데 요즘에는 코로나19라는 바이러스가 생겨서 손을깨끗하게 씻어야해요.#@문장구분# 만약 않씻은손에 바이러스가 있는데 손을 씻지않고 눈, 코, 입등을 만지면 감영될가능성이 높아져요.#@문장구분# 눈, 코, 취 등에 바이러스가 들어가면 바이러스가 나갈수있지만 입으로들어가면 감염이 될수있어요.#@문장구분# 양치하는것도 중요하겠죠?#@문장구분# 또한 음식을먹고 양치를하지 않은면 이빨에서 충치가 생기수있어요.#@문장구분# 또 씻지않으면 몸에서 냄새가 나요.#@문장구분#씻지 않은 몸으로 나가면 주변 사람들이 싫어하거나 피하겠죠?#@문장구분# 머리를 씻지않으면 머리가 떡지거나 벌레 이가 생길수있죠?#@문장구분# 깨끗한 우리몸을 많들려면 위생을 중요하게 생각을 해야 겠죠?#@문장구분#",
+      "paragraph_len": 660,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      20.333334,
+      18.4
+    ],
+    "essay_scoreT_avg": 20.48889,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "건강하고 깨끗한 몸을 만들기 위해서 우리는 깨끗이 씻고 있죠?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "건강하고 깨끗한 몸을 만들기 위해서 우리는 깨끗이 <문법_맞춤법>씻고있죠</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우선 건강한 나의 몸을 만들려면 올바른 식습관과, 운동을 해야 해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우선 건강한 나의 몸을 만들려면 올바른 식습관<문법_맞춤법>과,운동</문법_맞춤법>을 해야해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 깨끗한 몸을 만들기 위해 깨끗하게 씻는 게 중요해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 깨끗한 몸을 만들기 위해 깨끗하게 <문법_맞춤법>씻는게 </문법_맞춤법>중요해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 요즘에는 코로나19라는 바이러스가 생겨서 손을 깨끗하게 씻어야 해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 요즘에는 코로나19라는 바이러스가 생겨서 <문법_맞춤법>손을깨끗하게</문법_맞춤법> 씻어야해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 안 씻은 손에 바이러스가 있는데 손을 씻지 않고 눈, 코, 입 등을 만지면 감염 될 가능성이 높아져요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 <문법_맞춤법>않씻은손에 </문법_맞춤법>바이러스가 있는데 손을 씻지않고 눈, 코, 입등을 만지면 감영될가능성이 높아져요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 눈, 코, 취 등에 바이러스가 들어가면 바이러스가 나갈 수 있지만 입으로 들어가면 감염이 될 수 있어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 눈, 코, 취 등에 바이러스가 들어가면 바이러스가 <문법_맞춤법>나갈수있지만 </문법_맞춤법>입으로들어가면 감염이 될수있어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 양치하는 것도 중요하겠죠?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>양치하는것도 </문법_맞춤법>중요하겠죠?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 음식을 먹고 양치를 하지 않으면 이빨에 충치가 생길 수 있어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 <문법_맞춤법>음식을먹고 </문법_맞춤법>양치를하지 않은면 이빨에서 충치가 생기수있어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 씻지 않으면 몸에서 냄새가 나요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 <문법_맞춤법>씻지않으면 </문법_맞춤법>몸에서 냄새가 나요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 머리를 씻지 않으면 머리가 떡지거나 벌레 이가 생길 수 있죠?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 머리를 <문법_맞춤법>씻지않으면</문법_맞춤법> 머리가 떡지거나 벌레 이가 생길수있죠?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 깨끗한 우리 몸을 만들려면 위생을 중요하게 생각을 해야겠죠?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 깨끗한 <문법_맞춤법>우리몸을 </문법_맞춤법>많들려면 위생을 중요하게 생각을 해야 겠죠?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42375",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 421,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

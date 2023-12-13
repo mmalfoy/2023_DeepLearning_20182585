@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미는 음악감상, 그림그리기, 대화하기 이렇게 3개이다.#@문장구분#\n 음악감상은 주로 피곤하거나 심심할 때 자주한다.#@문장구분# 음악감상을 하고 나면 기분이 좋아진다.#@문장구분# 그림그리기도 음악감상처럼 심심할 때 주로 한다.#@문장구분# 그림그리는 것을 성공하면 뿌듯해지고 행복해진다.#@문장구분# 마지막으로 대화는 언제든지 한다.#@문장구분# 대화를 하고나면 즐거워지고, 마음 좋아지는 기분이다. 아마도 내가 말하는 것을 좋아해서 그런 것 같다.#@문장구분# \n 나의 취미 중 1개, 음악에 대해 알아볼 것이다.#@문장구분# 음악은 언제부터 어떻게 발생되었는지는 모른다고 한다.#@문장구분# 그리고 음악의 종류는 정말 많다.#@문장구분# 또 음악은 심리적으로 안정을 주고, 치료도 해준다고 한다. #@문장구분#그래서 음악을 듣고 나면 기분이 좋아지는 것은 이 장점 덕분인 것 같다.#@문장구분#\n 그리고 나는 무언가를 만드는 취미를 가지고 싶다.#@문장구분# 왠지 그런거를 보면 멋있기도 하고, 재미있어 보이기도 하기 때문이다.#@문장구분# 이 취미를 가지기 위해 여러가지들을 만들어볼 것이다!",
+      "paragraph_len": 746,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.685713,
+      24.333334,
+      26
+    ],
+    "essay_scoreT_avg": 25.673014,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 취미는 음악 감상, 그림 그리기, 대화하기 이렇게 3개이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 취미는 <문법_맞춤법>음악감상, 그림그리</문법_맞춤법>기, 대화하기 이렇게 3개이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 음악 감상은 주로 피곤하거나 심심할 때 자주 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>음악감상은 주로 피곤하거나 심심할 때 자주한</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그림 그리기도 음악 감상처럼 심심할 때 주로 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그림그리기도 음악감상처럼</문법_맞춤법> 심심할 때 주로 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대화를 하고 나면 즐거워지고, 마음 좋아지는 기분이다. 아마도 내가 말하는 것을 좋아해서 그런 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대화를 <문법_맞춤법>하고나면</문법_맞춤법> 즐거워지고, 마음 좋아지는 기분이다. 아마도 내가 말하는 것을 좋아해서 그런 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왠지 그런 거를 보면 멋있기도 하고, 재미있어 보이기도 하기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왠지 그<문법_맞춤법>런거를</문법_맞춤법> 보면 멋있기도 하고, 재미있어 보이기도 하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 취미를 가지기 위해 여러 가지들을 만들어볼 것이다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 취미를 가지기 위해 <문법_맞춤법>여러가지들</문법_맞춤법>을 만들어볼 것이다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50856",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 467,
+    "essay_main_subject": "나의 취미"
+  }
+}

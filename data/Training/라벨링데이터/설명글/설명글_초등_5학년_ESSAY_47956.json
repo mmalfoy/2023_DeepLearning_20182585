@@ -1,0 +1,296 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 사회가 가장좋습니다.#@문장구분# 이유는 역사의사건을 알수있거나 사회의경제, 직업등 사회와 관련된 모든것들을 다배울수있어서입니다.#@문장구분# 생각해보십시오.#@문장구분# 사회를 배워서 성인이되면 사회에서 배웠던것을 이용해 경제활동을해서 돈을벌거나 5학년에배우는 사회역사를 더 확실히 공부해 역사학과를 간다거나 국토와 관련된 예기나 인권존중예기나 사회변화, 문화의다양성, 필요한것의생산교환, 촌락도서의생활모습:지역위치의특성, 우리의역사, 지역공공기관을 배우는것을 전그스타일을 배우는거에 꽂혔습니다.#@문장구분# 사람에게는 취양이 있습니다.#@문장구분# 그걸수정하려면 매우힘듭니다.#@문장구분# 공부도 마찬가지입니다.#@문장구분# 잘하던 국어쓰기에서 수학으로 바꾸자 해보십시오.#@문장구분# 잘하겠습니까?#@문장구분# 아니죠.#@문장구분# 그것도 다 연습해서 잘하는것이죠.#@문장구분# 이처럼 취양을 짓밝으면 받은사람은 힘만들어집니다.#@문장구분#",
+      "paragraph_len": 632,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      24.447618,
+      18.285713
+    ],
+    "essay_scoreT_avg": 22.377777,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.02",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 사회가 가장 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 사회가 <문법_맞춤법>가장좋습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 역사의 사건을 알 수 있거나 사회의 경제, 직업 등 사회와 관련된 모든 것들을 다 배울 수 있어서입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이유는 <문법_맞춤법>역사의사건을 알수있거나 사회의경제, 직업등 사회와 관련된 모든것들을 다배울수있어서입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생각해 보십시오.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>생각해보십시오.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 사회를 배워서 성인이되면 사회에서 배웠던것을 이용해 경제활동을해서 돈을벌거나 5학년에배우는 사회역사를 더 확실히 공부해 역사학과를 간다거나 국토와 관련된 예기나 인권존중예기나 사회변화, 문화의다양성, 필요한것의생산교환, 촌락도서의생활모습:지역위치의특성, 우리의역사, 지역공공기관을 배우는것을 전그스타일을 배우는거에 꽂혔습니다.",
+      "sentence_corr_txt_styling": " 사회를 배워서 성인이되면 사회에서 배웠던것을 이용해 경제활동을해서 돈을벌거나 5학년에배우는 사회역사를 더 확실히 공부해 역사학과를 간다거나 국토와 관련된 예기나 인권존중예기나 사회변화, 문화의다양성, 필요한것의생산교환, 촌락도서의생활모습:지역위치의특성, 우리의역사, 지역공공기관을 배우는것을 전그스타일을 배우는거에 꽂혔습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람에게는 취향이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람에게는 <문법_맞춤법>취양이</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그걸 수정하려면 매우 힘듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그걸수정하려면 매우힘듭니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 잘하던 국어에서 수학으로 바꾸자 해보십시오.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 잘하던 <문법_맞춤법>국어쓰기에서</문법_맞춤법> 수학으로 바꾸자 해보십시오.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그것도 다 연습해서 잘 하는 것이죠.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그것도 다 연습해서 <문법_조사>잘하는것이죠.</문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 이처럼 취양을 짓밝으면 받은사람은 힘만들어집니다.",
+      "sentence_corr_txt_styling": " 이처럼 취양을 짓밝으면 받은사람은 힘만들어집니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47956",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 392,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

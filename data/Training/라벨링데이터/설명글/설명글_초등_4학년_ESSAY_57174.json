@@ -1,0 +1,225 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 유치원에 다녔을 때 큰 아파트에서 부모님과 함께 생활했습니다.#@문장구분# 그러다가 초등학교 2학년이 될 때 주택으로 이사를 갔습니다.#@문장구분# 아파트에 있을때와는 전혀 다른 주거생활이지만 만족했습니다.#@문장구분# 일단 아파트에선 놀이터 아니면 놀기가 쉽지않았고 이전에 한번 아파트 엘리베이터가 고장나서 12층 아파트를 걸어서 내려간적이 있었는데 정말 힘들었습니다.#@문장구분# 하지만 주택은 1층이여서 노는데 큰 지장이 없고, 현관문만 열면 바로 밖이니 후련한 느낌이 절로 생깁니다.#@문장구분# 또한 집에 넓은 마당이 있어서 엄마가 꽃과 여러 식물을 심으시고 저도 토마토가 먹고싶어서 엄마와 함께 토마토를 심었는데 직접 심어서 따먹는 토마토의 맛이 너무 좋았습니다.#@문장구분# 아파트에선 경험하기 힘들었는데 주택에선 이렇게 큰 경험을 하니 더욱 좋았고 아랫집 아주머니가 씨끄럽다고 올라와서 혼내는 일이 없으니 좋고 앞으로 여유가 있으면 마당에 닭을 키워서 달걀도 채집하고 싶습니다.#@문장구분#",
+      "paragraph_len": 600,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.0476189,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22,
+      25.019047,
+      19.419048
+    ],
+    "essay_scoreT_avg": 22.146032,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.09",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 일단 아파트에선 놀이터 아니면 놀기가 쉽지 않았고, 이전에 한 번 아파트 엘리베이터가 고장나서 12층 아파트를 걸어서 내려간 적이 있었는데 정말 힘들었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 일단 아파트에선 놀이터 아니면 놀기가 <문법_맞춤법><문법_기타>쉽지않았고</문법_기타></문법_맞춤법> 이전에 한번 아파트 엘리베이터가 고장나서 12층 아파트를 걸어서 내려간적이 있었는데 정말 힘들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 주택은 1층이어서 노는데 큰 지장이 없고, 현관문만 열면 바로 밖이니 후련한 느낌이 절로 생깁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 하지만 주택은 <문법_어미>1층이여서</문법_어미> 노는데 큰 지장이 없고, 현관문만 열면 바로 밖이니 후련한 느낌이 절로 생깁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 집에 넓은 마당이 있어서 엄마가 꽃과 여러 식물을 심으십니다. 저도 토마토가 먹고 싶어서 엄마와 함께 토마토를 심었는데 직접 심어서 따먹는 토마토의 맛이 너무 좋았습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 집에 넓은 마당이 있어서 엄마가 꽃과 여러 식물을 <문법_어미><문법_기타>심으시고</문법_기타></문법_어미> 저도 토마토가 <문법_맞춤법>먹고싶어서</문법_맞춤법> 엄마와 함께 토마토를 심었는데 직접 심어서 따먹는 토마토의 맛이 너무 좋았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아파트에선 경험하기 힘들었는데 주택에선 이렇게 큰 경험을 하니 더욱 좋았고 아랫집 아주머니가 시끄럽다고 올라와서 혼내는 일이 없으니 좋고 앞으로 여유가 있으면 마당에 닭을 키워서 달걀도 채집하고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 아파트에선 경험하기 힘들었는데 주택에선 이렇게 큰 경험을 하니 더욱 좋았고 아랫집 아주머니가 <문법_맞춤법>씨끄럽다고</문법_맞춤법> 올라와서 혼내는 일이 없으니 좋고 앞으로 여유가 있으면 마당에 닭을 키워서 달걀도 채집하고 싶습니다.",
+      "sentence_corr_txt_styling": " 아파트에선 경험하기 힘들었는데 주택에선 이렇게 큰 경험을 하니 더욱 좋았고 아랫집 아주머니가 시끄럽다고 올라와서 혼내는 일이 없으니 좋고 앞으로 여유가 있으면 마당에 닭을 키워서 달걀도 채집하고 싶습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_57174",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 461,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

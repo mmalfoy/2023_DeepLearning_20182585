@@ -1,0 +1,203 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승은 좋은 길로 제자를 인도하는 사람이라고 생각한다.#@문장구분# 지금 담임선생님도 내가 항상 나쁜 길로 가려고 할 때마다 가끔은 따뜻하게, 가끔은 따끔하게 항상 앞서서 나의 길을 잘 인도해주셨다.#@문장구분# 우선, 먼저 가장 기억에 남는 일은 나쁜 친구들이랑 같이 어울리게 되면서 친구들 사이 관계로 많은 스트레스가 있었지만 그 때 선생님이 진정성으로 많은 도움을 주셨다.#@문장구분# 그래서 선생님과 함께 얘기하면서 어떻게 해결해야할지 생각하게 되었고 결론적으로는 그 때 친구들과는 자연스레 멀어지고 새로운 친구들을 나와 맞게 친해질 수 있었다.#@문장구분# 나도 나중에 선생님같은 사람이 되고 싶다.#@문장구분# 사람들에게 도움을 줄 수 있는 그런 멋진 사람이 되고 싶다.#@문장구분# 나 또한 선생님처럼 참된 스승이 되어 고민을 가지고, 나를 필요로하는 사람들에게 도움을 주는 참된 사람이 되기 위해 노력할 것이다.#@문장구분#",
+      "paragraph_len": 563,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.35,
+      23.3,
+      21.25
+    ],
+    "essay_scoreT_avg": 22.633333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 우선, 먼저 가장 기억에 남는 일은 나쁜 친구들이랑 같이 어울리게 되면서 친구들 사이 관계로 많은 스트레스가 있었지만 그 때 선생님이 진정성을 가지고 많은 도움을 주셨다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 우선, 먼저 가장 기억에 남는 일은 나쁜 친구들이랑 같이 어울리게 되면서 친구들 사이 관계로 많은 스트레스가 있었지만 그 때 선생님이 <문법_조사><문법_기타>진정성으로</문법_기타></문법_조사> 많은 도움을 주셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 선생님과 함께 얘기하면서 어떻게 해결해야 할지 생각하게 되었고 결론적으로는 그때 친구들과는 자연스레 멀어지고 새로운 친구들을 나와 맞게 친해질 수 있었다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그래서 선생님과 함께 얘기하면서 어떻게 <문법_맞춤법>해결해야할지</문법_맞춤법> 생각하게 되었고 결론적으로는 그 때 친구들과는 자연스레 멀어지고 새로운 친구들을 나와 맞게 친해질 수 있었다.",
+      "sentence_corr_txt_styling": " 그래서 선생님과 함께 얘기하면서 어떻게 해결해야 할지 생각하게 되었고 결론적으로는 그때 친구들과는 자연스레 멀어지고 새로운 친구들을 나와 맞게 친해질 수 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나 또한 선생님처럼 참된 스승이 되어 고민을 가지고 있고, 나를 필요로하는 사람들에게 도움을 주는 참된 사람이 되기 위해 노력할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 나 또한 선생님처럼 참된 스승이 되어 고민을 <문법_조사>가지고</문법_조사>, 나를 필요로하는 사람들에게 도움을 주는 참된 사람이 되기 위해 노력할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60107",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 424,
+    "essay_main_subject": "참된 스승"
+  }
+}

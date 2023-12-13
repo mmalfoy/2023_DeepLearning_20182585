@@ -1,0 +1,322 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘 학교폭력 피해가 늘어나고 있습니다. #@문장구분#학교폭력은 친구에게 지울수 없는 마음의 상처를 주고, 심할 경우는 목숨을 읽는 사람도 있습니다.#@문장구분# 이렇게 문제가 되는 학교폭력 예방방법과 대처방법을 알려드리겠습니다.#@문장구분#\n 먼저 예방방법 첫째, 선 넘는 장난을 하지 않습니다. #@문장구분#나에게는 그냥 장난 일지라도 상대방이 티내지 않아도 상처를 입기 때문입니다.#@문장구분# 그리고 이게 계속된다면 학교폭력으로 이어질수 있기 때문입니다.#@문장구분#\n 둘째, 자신의 감정을 솔직하게 표현합니다.#@문장구분# 가해자는 피해자가 아무말도 하지 않고 혼자만 생각하고 있다면 더만만하게 볼것입니다. #@문장구분#그러므로 기분이 나쁘다면 나쁘다고 표현을 해야합니다.#@문장구분#\n 셋째, 단체 채팅방을 만드는 건 자제합시다.#@문장구분# 학교폭력 중에는 사이버 폭력도 있습니다.#@문장구분# 특히 채팅으로 대화하면 의견 전달이 제대로 되지 않아 서로 오해가 생기고, 그 친구에 대해 안좋게 말하거나 이상한 소문을 퍼뜨릴 수도 있습니다. #@문장구분#그로인해 친구는 정신적 피해를 입게됩니다.#@문장구분#\n 그리고 학교폭력을 보았을 때 대처하는 방법도 알려드리겠습니다.#@문장구분# 먼저 바로 선생님께 알리는것 입니다.#@문장구분# 학교폭력을 보고 계속 방관하고 있으면 2차가해가 될수 있습니다.#@문장구분# 꼭 선생님이 아니더라도 경찰관, 주변어른 등 에게 알려도 좋습니다.#@문장구분# (도움을 줄수 있는분들) 여기까지 학교폭력 예방과 대처방법에 대해 말했습니다.#@문장구분# 감사합니다.#@문장구분#",
+      "paragraph_len": 1041,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23,
+      21.188889,
+      20.3
+    ],
+    "essay_scoreT_avg": 21.496298,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교폭력은 친구에게 지울 수 없는 마음의 상처를 주고, 심할 경우는 목숨을 잃는 사람도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "비판의 근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교폭력은 친구에게 <문법_맞춤법>지울수 없는</문법_맞춤법> 마음의 상처를 주고, 심할 경우는 목숨을 읽는 사람도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나에게는 그냥 장난일지라도 상대방이 티내지 않지만 상처를 입었을 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나에게는 그냥 <문법_맞춤법>장난 일지라도</문법_맞춤법> 상대방이 티내지 않아도 <스타일링_패러프레이징>상처를 입기</스타일링_패러프레이징> 때문입니다.",
+      "sentence_corr_txt_styling": "나에게는 그냥 장난일지라도 상대방이 티내지 않지만 상처를 입었을 수 있기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 이게 계속된다면 학교폭력으로 이어질 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 이게 계속된다면 학교폭력으로 <문법_맞춤법>이어질수</문법_맞춤법> 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가해자는 피해자가 아무 말도 하지 않고 혼자만 생각하고 있다면 더 만만하게 볼 것입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가해자는 피해자가<문법_맞춤법> 아무말도</문법_맞춤법> 하지 않고 혼자만 생각하고 있다면 더만만하게 볼것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 채팅으로 대화하면 의견 전달이 제대로 되지 않아 서로 오해가 생기고, 그 친구에 대해 안 좋게 말하거나 이상한 소문을 퍼뜨릴 수도 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 특히 채팅으로 대화하면 의견 전달이 제대로 되지 않아 서로 오해가 생기고, 그 친구에 대해 <문법_맞춤법>안좋게</문법_맞춤법> 말하거나 이상한 소문을 퍼뜨릴 수도 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그로 인해 친구는 정신적 피해를 입게 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그로인해 친구는 정신적 피해를 입게됩니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 바로 선생님께 알리는 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 바로 선생님께 <문법_맞춤법>알리는것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력을 보고 계속 방관하고 있으면 2차 가해가 될 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력을 보고 계속 방관하고 있으면 <문법_맞춤법>2차가해가 될수 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 꼭 선생님이 아니더라도 경찰관, <스타일링_패러프레이징>주변어른 등 에게</스타일링_패러프레이징> 알려도 좋습니다.",
+      "sentence_corr_txt_styling": " 꼭 선생님이 아니더라도 경찰관, 주변 어른분들에게 알려도 좋습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " (도움을 줄 수 있는 분들) 여기까지 학교폭력 예방과 대처방법에 대해 말했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>(도움을 줄수 있는분들)</문법_맞춤법> 여기까지 학교폭력 예방과 대처방법에 대해 말했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39725",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 663,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

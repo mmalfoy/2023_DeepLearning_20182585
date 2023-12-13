@@ -1,0 +1,317 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에는 훌륭한 위인들이 엄청 많지만 저는 그 중에 세종대왕님을 골랐습니다.#@문장구분# 왜냐하면 세종대왕님께서 한글과 훈민정음을 만드셨기 때문입니다. #@문장구분#밤낮으로 열심히 작업하시고, 밤에는 촛불켜고 쓰고 그 열정적인 모습이 정말 훌륭해보였습니다.#@문장구분# 그리고 너무 오랜시간동안 그 삶을 유지하셔서 눈이 너무 나빠서 아예 안보일수도 있는 상황이었음에도 불구하고 한글과 훈민정음을 만들어서 국민들이 어려운 한자를 배우지않아도 됐습니다.#@문장구분#물론 양반들은 한자도써도 된다면서 안된다고 반대했지만 세종대왕께서는 나라와 백성을 위해서 한글을 더 발전시켜서 우리는 지금 완벽한 한글을 쓰고 어려운 한자를 안배워도 됩니다. #@문장구분#그러나 너무 열심히 한글을 만드는 바람에 결국 돌아갔습니다.#@문장구분# 우리가 지금 이렇게 편히 한글을 쓸수있는 이유는 세종대왕께서 우리를 위해 한글을 밤낮으로 지극정성으로 만드셨기 때문입니다.#@문장구분# 우리는 세종대왕님께 정말로 감사해야합니다.#@문장구분# 우리를 위해서 열심히 만들어주신 한글 우리가 열심히 잘 사용하도록 하겠습니다. #@문장구분#세종대왕님이 없었더라면 지금도 어려운 한자를 사용해야 했습니다. #@문장구분#세종대왕님!! 우리를 위해 한글에 힘써 주셔서감사합니다.#@문장구분#",
+      "paragraph_len": 786,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      26.4,
+      21.85
+    ],
+    "essay_scoreT_avg": 23.099998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          1,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "밤낮으로 열심히 작업하시고, 밤에는 촛불 켜고 쓰고 그 열정적인 모습이 정말 훌륭해 보였습니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "밤낮으로 열심히 작업하시고, 밤에는 <문법_맞춤법>촛불켜고</문법_맞춤법> 쓰고 그 열정적인 모습이 정말 훌륭해보였습니다.",
+      "sentence_corr_txt_styling": "밤낮으로 열심히 작업하시고, 밤에는 촛불 켜고 쓰고 그 열정적인 모습이 정말 훌륭해 보였습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 너무 오랜 시간 동안 그 삶을 유지하셔서 눈이 너무 나빠서 아예 안 보일 수도 있는 상황이었음에도 불구하고 한글과 훈민정음을 만들어서 국민들이 어려운 한자를 배우지 않아도 됐습니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 너무 <문법_맞춤법>오랜시간동안</문법_맞춤법> 그 삶을 유지하셔서 눈이 너무 나빠서 아예 안보일수도 있는 상황이었음에도 불구하고 한글과 훈민정음을 만들어서 국민들이 어려운 한자를 배우지않아도 됐습니다.",
+      "sentence_corr_txt_styling": " 그리고 너무 오랜 시간 동안 그 삶을 유지하셔서 눈이 너무 나빠서 아예 안 보일 수도 있는 상황이었음에도 불구하고 한글과 훈민정음을 만들어서 국민들이 어려운 한자를 배우지 않아도 됐습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물론 양반들은 한자도 써도 된다면서 안 된다고 반대했지만 세종대왕께서는 나라와 백성을 위해서 한글을 더 발전시켜서 우리는 지금 완벽한 한글을 쓰고 어려운 한자를 안 배워도 됩니다. ",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "물론 양반들은 <문법_맞춤법>한자도써도</문법_맞춤법> 된다면서 안된다고 반대했지만 세종대왕께서는 나라와 백성을 위해서 한글을 더 발전시켜서 우리는 지금 완벽한 한글을 쓰고 어려운 한자를 안배워도 됩니다. ",
+      "sentence_corr_txt_styling": "물론 양반들은 한자도 써도 된다면서 안 된다고 반대했지만 세종대왕께서는 나라와 백성을 위해서 한글을 더 발전시켜서 우리는 지금 완벽한 한글을 쓰고 어려운 한자를 안 배워도 됩니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러나 너무 열심히 한글을 만든 바람에 결국 돌아가셨습니다.",
+      "sentence_corr_reason": [
+        "과거 시제가 자연스럽습니다.",
+        "존칭이 자연스럽습니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "높임법",
+        "기타"
+      ],
+      "sentence_txt": "그러나 너무 열심히 한글을 <문법_시제>만드는</문법_시제> 바람에 결국 <문법_높임법>돌아갔습니다</문법_높임법>.",
+      "sentence_corr_txt_styling": "그러나 너무 열심히 한글을 만든 바람에 결국 돌아가셨습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리가 지금 이렇게 편히 한글을 쓸 수 있는 이유는 세종대왕께서 우리를 위해 한글을 밤낮으로 지극정성으로 만드셨기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 우리가 지금 이렇게 편히 한글을 <문법_맞춤법>쓸수있는</문법_맞춤법> 이유는 세종대왕께서 우리를 위해 한글을 밤낮으로 지극정성으로 만드셨기 때문입니다.",
+      "sentence_corr_txt_styling": " 우리가 지금 이렇게 편히 한글을 쓸 수 있는 이유는 세종대왕께서 우리를 위해 한글을 밤낮으로 지극정성으로 만드셨기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 세종대왕님께 정말로 감사해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 세종대왕님께 정말로 <문법_맞춤법>감사해야합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리를 위해서 열심히 만들어 주신 한글, 우리가 열심히 잘 사용하도록 하겠습니다. ",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다.",
+        "쉼표가 필요합니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 우리를 위해서 열심히 <문법_맞춤법>만들어주신</문법_맞춤법> <문법_기타>한글</문법_기타> 우리가 열심히 잘 사용하도록 하겠습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "세종대왕님이 없었더라면 지금도 어려운 한자를 사용해야 했습니다. ",
+      "sentence_corr_txt_styling": "세종대왕님이 없었더라면 지금도 어려운 한자를 사용해야 했습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세종대왕님! 우리를 위해 한글에 힘써 주셔서 감사합니다.",
+      "sentence_corr_reason": [
+        "느낌표 하나를 빼는 것이 좋을 것 같습니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>세종대왕님!!</문법_기타> 우리를 위해 한글에 힘써 <문법_맞춤법>주셔서감사합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38268",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 567,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요. #@문장구분#저는 #@이름#라고 합니다.#@문장구분# 제가 생각하는 소수의 대한 저의 생각은 바로 반대입니다. #@문장구분#왜냐하면 소수의 의견을 들어주면 좋은 생각이 아닌 경우가 많습니다. #@문장구분#왜먀하면 대통령 선거를 할때 1번 사람, 2번 사람, 3번 사람, 4번 사람이 있는데 1번 사람은 가장 높은 표를 받았고 4번 사람이 가장 낮은 표를 받았는데 대통령이 4번 사람이 되면 1번 사람은 이런 생각을 할 것 입니다. #@문장구분#바로 그게 무슨 생각이냐면 내가 더 많은 표를 받고, 더욱 좋은 공약을 냈는데 라는 생각을 할 것 입니다.#@문장구분# 그리고 1번 사람을 뽑은 사람들은 이런 생각을 할 것입니다. #@문장구분#공약이 더욱 좋고 표도 훨씬 맣은 사람을 뽑았는데 왜 대체 표가 훨씬 적은 사람이 대통령이 되었지?#@문장구분# 너무 억울해 이런 생각을 할 것 입니다.#@문장구분# 회의 같은걸 할때도 소수의 의견을 따르면 원래 회의 보다 더더욱 힘들어 질 것입니다.#@문장구분# 이렇게 소수의 의견에 저의 생각은 왜 반대 인지 설멸을 드렸습니다. #@문장구분#지금까지 소수의 의견에 대한 저의 생각을 발표해 봤습니다.#@문장구분#",
+      "paragraph_len": 764,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.733334,
+      22.4,
+      21.6
+    ],
+    "essay_scoreT_avg": 20.244444,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.01",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 제가 생각하는 <스타일링_담화 맥락 오류>소수의</스타일링_담화 맥락 오류> 대한 저의 생각은 바로 반대입니다. ",
+      "sentence_corr_txt_styling": " 제가 생각하는 소수의 의견에  대한 저의 생각은 바로 반대입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예를 들어 대통령 선거를 할때 1번 사람, 2번 사람, 3번 사람, 4번 사람이 있는데 1번 사람은 가장 높은 표를 받았고 4번 사람이 가장 낮은 표를 받았는데 대통령이 4번 사람이 되면 1번 사람은 이런 생각을 할 것입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "붙여쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류><스타일링_패러프레이징>왜먀하면</스타일링_패러프레이징></스타일링_담화 맥락 오류> 대통령 선거를 할때 1번 사람, 2번 사람, 3번 사람, 4번 사람이 있는데 1번 사람은 가장 높은 표를 받았고 4번 사람이 가장 낮은 표를 받았는데 대통령이 4번 사람이 되면 1번 사람은 이런 생각을 할 <문법_맞춤법>것 입니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "예를 들어 대통령 선거를 할때 1번 사람, 2번 사람, 3번 사람, 4번 사람이 있는데 1번 사람은 가장 높은 표를 받았고 4번 사람이 가장 낮은 표를 받았는데 대통령이 4번 사람이 되면 1번 사람은 이런 생각을 할 것입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바로 그게 무슨 생각이냐면 내가 더 많은 표를 받고, 더욱더 좋은 공약을 냈는데 라는 생각을 할 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "바로 그게 무슨 생각이냐면 내가 더 많은 표를 받고, <스타일링_기타>더욱</스타일링_기타> 좋은 공약을 냈는데 라는 생각을 <문법_맞춤법>할 것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "바로 그게 무슨 생각이냐면 내가 더 많은 표를 받고, 더욱더 좋은 공약을 냈는데 라는 생각을 할 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>너무 억울해 </스타일링_담화 맥락 오류>이런 생각을 할 것 입니다.",
+      "sentence_corr_txt_styling": " 너무 억울하다고 생각을 할 것 입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 회의 같은걸 할 때도 소수의 의견을 따르면 원래 회의 보다 더더욱 힘들어질 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 회의 같은걸 <문법_맞춤법>할때도</문법_맞춤법> 소수의 의견을 따르면 원래 회의 보다 더더욱 힘들어 질 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 소수의 의견에 대해 저의 생각은 왜 반대 인지 설명을 드렸습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 <스타일링_담화 맥락 오류>소수의 의견에</스타일링_담화 맥락 오류> 저의 생각은 왜 반대 인지 <문법_맞춤법>설멸을</문법_맞춤법> 드렸습니다. ",
+      "sentence_corr_txt_styling": " 이렇게 소수의 의견에 대해 저의 생각은 왜 반대 인지 설명을 드렸습니다. ",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35954",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 509,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

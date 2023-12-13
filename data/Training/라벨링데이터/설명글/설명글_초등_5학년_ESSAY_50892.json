@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아침에 일어나서 세수를하고 이를닦고 시간을보면 8시 이다.#@문장구분# 그럴때는 시간이 없어 간식을먹는데 먹고나면 동생은 그냥 가버리지만 난손을씻고간다.#@문장구분# 급식을먹을때도 손에 뭐가묻으면 바로닦아버린다#@문장구분# 어른들은 너무 과하다고 하지만 그렇게 닦지 않으면 금방 더러워진다.#@문장구분# 요즘은 코로나가 심해져서 집에오자마자 바로 손을 씻는다.#@문장구분# 난 원래학교에서 청소를 꾸준히하는데 1학기 여름방학때 가져간이후로 보이지 않는다.#@문장구분# 아무튼 난 원래 청소를 꼼꼼히 하는 편인데 학교에서는 없어서 못하고 집에서는 내가 할라고그러면 엄마가 짜증을낸다.#@문장구분# 정확히는 왜 짜증내는지는 모르겠지만 내가 뭐만하면 엄마는 짜증을낸다.#@문장구분# 하지만요즘들어 첫온라인수업을할때부터 살이 찌더니 25kg에서 37kg이 돼버렸다.#@문장구분# 엄마는 나보고 돼지라고놀린다.#@문장구분# 난 그게짜증난다.#@문장구분# 근데 몸에 살이쪄서그런지 몸이 둔한느낌이있다.#@문장구분# 살을빼고 청소를 잘 해야겠다.",
+      "paragraph_len": 678,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.933334,
+      20.333334
+    ],
+    "essay_scoreT_avg": 24.08889,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "아침에 일어나서 세수를 하고 이를 닦고 시간을 보면  8시이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아침에 일어나서 <문법_맞춤법>세수를하고 이를닦고 시간을보면 8시 이</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럴 때는 시간이 없어 간식을 먹는데  먹고 나면 동생은 그냥 가버리지만 난 손을 씻고 간다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그<문법_맞춤법>럴때는 시간이 없어 간식을먹는데 먹고나면 동생은 그냥 가버리지만 난손을씻고간다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 급식을 먹을 때도 손에 뭐가 묻으면  바로 닦아버린다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>급식을먹을때도 손에 뭐가묻으면 바로닦아버린</문법_맞춤법>다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘은 코로나가 심해져서 집에 오자마자 바로 손을 씻는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘은 코로나가 심해져서 <문법_맞춤법>집에오자마자 바로 손을 씻는</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 원래 학교에서 청소를 꾸준히 하는데 1학기 여름방학 때  가져간 이후로 보이지 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 난<문법_맞춤법> 원래학교에서 청소를 꾸준히하는데 1학기 여름방학때 가져간이후로 보이지 않는</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무튼 난 원래 청소를 꼼꼼히 하는 편인데 학교에서는 없어서 못하고 집에서는 내가 하려고 그러면 엄마가 짜증을 낸다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무튼 난 원래 청소를 꼼꼼히 하는 편인데 학교에서는 없어서 못하고 집에서는 <문법_맞춤법>내가 할라고그러면 엄마가 짜증을낸다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 요즘 들어 첫 온라인 수업을 할때부터 살이 찌더니 25kg에서 37kg이 돼버렸다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>하지만요즘들어 첫온라인수업을할때부터</문법_맞춤법> 살이 찌더니 25kg에서 37kg이 돼버렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마는 나보고 돼지라고 놀린다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마는 나보고 돼<문법_맞춤법>지라고놀린</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 그게 짜증 난다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 난 <문법_맞춤법>그게짜증난</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 몸에 살이 쪄서 그런지 몸이  둔한 느낌이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 몸에 <문법_맞춤법>살이쪄서그런지 몸이 둔한느낌이있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 살을 빼고 청소를 잘 해야겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>살을빼고</문법_맞춤법> 청소를 잘 해야겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50892",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 438,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

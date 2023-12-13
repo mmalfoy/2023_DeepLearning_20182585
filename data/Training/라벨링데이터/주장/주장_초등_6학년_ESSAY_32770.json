@@ -1,0 +1,334 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘 우리 주변에는 여러가지 폭력들이 많이 일어나고 있습니다.#@문장구분# 이러한 폭력들 중에서는 신체적인 폭력뿐만 아니라 정신적 폭력도 있습니다.#@문장구분# 미디어의 발달로 인해 정신적폭력도 많이 일어나고  있습니다.#@문장구분# 이러한 폭력들로 인해 폭력을 당한 피해자들의 생각은 가해자는 모를 두려움과 무서움에 떨고있을 수도 있습니다.#@문장구분# 첫번째로 신체적인폭력에 해당되는 학교폭력은 피해자들은 반드시 부모님이나 선생님에게 말씀 드려야합니다.#@문장구분# 만약 가해자들의 협박에도 두려워하지않고 말할 수 있어야 합니다.#@문장구분# 두번째로는 117에 전화하는 방법도 있습니다.#@문장구분# 두번째로 정신적폭력에 관한 사이버폭력은 신체적폭력과 같이 부모님께 꼭 말씀 드리고 해결방법을 최대한 빨리 찾아야 합니다.#@문장구분# 그리고나면 경찰이나 도움을 줄 수 있는 사람들에게 쉼게 다가갈 수 있습니다.#@문장구분# 이 두가지 폭력들을 통해 다른 비슷한 상황에서도 침착하게 해결해 나갈 수 있습니다.#@문장구분# 하지만 해결 방안이 있더라도 피해자들에게는 잊지못할 두려움일 수도 있습니다.#@문장구분# 우리는 모두 사람으로써 이러한 폭력들은 하지 말아야 합니다.#@문장구분# 모두 폭력을 잘 대처하세요.#@문장구분#",
+      "paragraph_len": 800,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.233334,
+      20,
+      22.077778
+    ],
+    "essay_scoreT_avg": 21.437037,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "요즘 우리 주변에는 여러 가지 폭력들이 많이 일어나고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘 우리 주변에는 <문법_맞춤법>여러가지</문법_맞춤법> 폭력들이 많이 일어나고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미디어의 발달로 인해 정신적 폭력도 많이 일어나고  있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미디어의 발달로 인해 <문법_맞춤법>정신적폭력도</문법_맞춤법> 많이 일어나고  있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 폭력들로 인해 폭력을 당한 피해자들의 생각은 가해자는 모를 두려움과 무서움에 떨고 있을 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러한 폭력들로 인해 폭력을 당한 피해자들의 생각은 가해자는 모를 두려움과 무서움에 <문법_맞춤법>떨고있을</문법_맞춤법> 수도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째로 신체적인 폭력에 해당하는 학교폭력을 당하는 피해자들은 반드시 부모님이나 선생님에게 말씀 드려야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫번째로</문법_맞춤법> 신체적인폭력에 <문법_어미>해당되는</문법_어미> <스타일링_담화 맥락 오류>학교폭력은</스타일링_담화 맥락 오류> 피해자들은 반드시 부모님이나 선생님에게 말씀 드려야합니다.",
+      "sentence_corr_txt_styling": " 첫 번째로 신체적인 폭력에 해당하는 학교폭력을 당하는 피해자들은 반드시 부모님이나 선생님에게 말씀 드려야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 가해자들의 협박해도 두려워하지 않고 말할 수 있어야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 가해자들의 <스타일링_담화 맥락 오류>협박에도</스타일링_담화 맥락 오류> <문법_맞춤법>두려워하지않고</문법_맞춤법> 말할 수 있어야 합니다.",
+      "sentence_corr_txt_styling": " 만약 가해자들의 협박해도 두려워하지 않고 말할 수 있어야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째로 정신적 폭력에 관한 사이버폭력은 신체적 폭력과 같이 부모님께 꼭 말씀드리고 해결 방법을 최대한 빨리 찾아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째로</문법_맞춤법> 정신적폭력에 관한 사이버폭력은 신체적폭력과 같이 부모님께 꼭 말씀 드리고 해결방법을 최대한 빨리 찾아야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나면 경찰이나 도움을 줄 수 있는 사람들에게 쉽게 다가갈 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고나면</문법_맞춤법> 경찰이나 도움을 줄 수 있는 사람들에게 쉼게 다가갈 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 두 가지 폭력들을 통해 다른 비슷한 상황에서도 침착하게 해결해 나갈 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 <문법_맞춤법>두가지</문법_맞춤법> 폭력들을 통해 다른 비슷한 상황에서도 침착하게 해결해 나갈 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 해결 방안이 있더라도 피해자들에게는 잊지 못할 두려움일 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 해결 방안이 있더라도 피해자들에게는 <문법_맞춤법>잊지못할</문법_맞춤법> 두려움일 수도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 모두 사람으로서 이러한 폭력들은 하지 말아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 모두 <문법_맞춤법>사람으로써</문법_맞춤법> 이러한 폭력들은 하지 말아야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 모두 폭력을 잘 <스타일링_담화 맥락 오류>대처하세요.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 모두 폭력을 잘 대처하길 바랍니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32770",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 541,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어른들은 우리가 어렸을 때 나쁜 습관을 가지고 있으면 혼을 내곤 하신다.#@문장구분#",
+      "paragraph_len": 60,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 우리가 손톱을 물어뜯으면 물어뜯지 말라고 빨간 약을 발라주시거나, 손톱에 매니큐어를 발라주시는 등 우리의 나쁜 습관을 고쳐주시기 위해 노력하신다.#@문장구분# 그런데 좋은 습관과 나쁜 습관의 기준은 무엇일까?#@문장구분# 내가 생각하는 좋은 습관과 나쁜 습관을 구별하는 기준은 삶에 미치는 영향이다.#@문장구분# 좋은 습관의 예로는 아침에 일찍 일어나기가 있는데 아침에 일찍 일어남으로써 우리는 하루를 더 길게 보낼 수 있다.#@문장구분# 반면에 손톱을 물어뜯으면 손톱에 있는 세균 때문에 우리의 건강을 해칠 수도 있다.#@문장구분#",
+      "paragraph_len": 364,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 따라서 우리는 좋은 습관을 들이기 위해 노력해야 한다.#@문장구분# 우선 습관이라는 것을 들이기 위해서는 어떠한 행동을 반복적으로 해내야 하는데, 정말이지 쉽지가 않다.#@문장구분# 그럼에도 불구하고 우리는 앞으로의 우리의 삶을 위해 꾸준히 노력하여 좋은습관을 들이도록 노력해야한다.#@문장구분#",
+      "paragraph_len": 205,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      20.5,
+      29.2
+    ],
+    "essay_scoreT_avg": 26.033335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_61316",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 454,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

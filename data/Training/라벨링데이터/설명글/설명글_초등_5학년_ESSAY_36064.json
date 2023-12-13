@@ -1,0 +1,327 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리의 건강을 위협하는 코로나 확진자수가 점점 늘어나고 있습니다.#@문장구분# 이럴 때 일수록 건강과 위생을 더 중요하게 생각한다#@문장구분#. 위생을 지킬수 있는 방법은 많다고 생각한다.#@문장구분# 먼저 주방에서 할 수 있는 위생은 음식을 요리하거나 밥을 먹기 전에 손을 깨끗이 씻는다. #@문장구분#손을 자주 씻으면 손에 있는 세균들이 많이 사라져서 건강과 위생을 모두 지킬수 있는 방법이다. #@문장구분#그리고 주방에서 지킬수 있는 방법이다. 그리고 주방에서 지킬수 있는 두번째 위생은 먹고 난 접시들을 깨끗이 소독해야 한다.#@문장구분# 접시에 물은 세균들을 없애고 청결을 유지하기 위해 접시를 소독해야 한다. #@문장구분#그 다음은 외출을 하고 집에 왔을때 할수있는 일이다.#@문장구분# 먼저 아까와 같이 손을 깨끗이 씻는다. #@문장구분#세균을 없애기 위해 손을 씻는다.#@문장구분# 두번째는 핸드폰을 소독티슈로 닦아주는 것이다.#@문장구분#\n핸드폰은 지문, 손에 있는 세균, 다른사람의 세균까지 묻어있을수 있어서 핸드폰을 외출하고 나서 닦으면 위생을 지킬수 있다.#@문장구분# 이처럼 코로나 시국에 위생을 잘 지켜서 생활해야 한다.#@문장구분#",
+      "paragraph_len": 761,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.933334,
+      24.866665,
+      18.333332
+    ],
+    "essay_scoreT_avg": 21.711111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리의 건강을 위협하는 코로나 확진자 수가 점점 늘어나고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "우리의 건강을 위협하는 코로나 <문법_맞춤법>확진자수</문법_맞춤법>가 점점 늘어나고 <스타일링_패러프레이징>있습니다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": "우리의 건강을 위협하는 코로나 확진자 수가 점점 늘어나고 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이럴 때일수록 건강과 위생을 더 중요하게 생각해야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>이럴 때 일수록</문법_맞춤법> 건강과 위생을 더 중요하게 <스타일링_패러프레이징>생각한다</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 이럴 때일수록 건강과 위생을 더 중요하게 생각해야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "위생을 지킬 수 있는 방법은 많다고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>. 위생을 지킬수</문법_맞춤법> 있는 방법은 많다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 먼저 주방에서 할 수 있는 <스타일링_담화 맥락 오류><스타일링_패러프레이징>위생은</스타일링_패러프레이징></스타일링_담화 맥락 오류> 음식을 요리하거나 밥을 먹기 전에 손을 깨끗이 씻는다. ",
+      "sentence_corr_txt_styling": " 먼저 주방에서 할 수 있는 방법은 음식을 요리하거나 밥을 먹기 전에 손을 깨끗이 씻는 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "손을 자주 씻으면 손에 있는 세균들이 많이 사라져서 건강과 위생을 모두 지킬 수 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "손을 자주 씻으면 손에 있는 세균들이 많이 사라져서 건강과 위생을 모두 <문법_맞춤법>지킬수</문법_맞춤법> <스타일링_패러프레이징>있는 방법이다</스타일링_패러프레이징>. ",
+      "sentence_corr_txt_styling": "손을 자주 씻으면 손에 있는 세균들이 많이 사라져서 건강과 위생을 모두 지킬 수 있다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>그리고 주방에서 지킬수 있는 방법이다. 그리고 주방에서 지킬수 있는 두번째 위생은</스타일링_패러프레이징> 먹고 난 접시들을 깨끗이 소독해야 한다.",
+      "sentence_corr_txt_styling": "그리고 주방에서 지킬 수 있는 두 번째 방법은 먹고 난 접시들을 깨끗이 소독하는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 접시에 묻은 세균들을 없애고 청결을 유지하기 위해 접시를 소독해야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 접시에 <문법_맞춤법>물은</문법_맞춤법> 세균들을 없애고 청결을 유지하기 위해 접시를 소독해야 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 다음은 외출을 하고 집에 왔을 때 할 수 있는 일이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 다음은 외출을 하고 집에 <문법_맞춤법>왔을때 할수있는</문법_맞춤법> 일이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째는 핸드폰을 소독티슈로 닦아주는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째는</문법_맞춤법> 핸드폰을 소독티슈로 닦아주는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n핸드폰은 지문, 손에 있는 세균, 다른 사람의 세균까지 묻어 있을 수 있어서 외출하고 나서 핸드폰을 닦으면 위생을 지킬 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": "\n핸드폰은 지문, 손에 있는 세균, <문법_맞춤법>다른사람의</문법_맞춤법> 세균까지 묻어있을수 있어서 <문법_어순>핸드폰을 외출하고 나서 닦으면</문법_어순> 위생을 지킬수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36064",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 502,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

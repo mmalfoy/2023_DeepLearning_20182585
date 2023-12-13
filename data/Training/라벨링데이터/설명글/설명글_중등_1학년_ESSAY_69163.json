@@ -1,0 +1,233 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 정말정말 들이고 싶은 좋은 습관이 있었다.#@문장구분# 그 습관은 바로 '아침 일찍 일어나는 것'이었다.#@문장구분# 평일은 학교에 가야 해서 일찍 일어나는 편이다.#@문장구분# 하지만 평일에는 학교에서 많은 시간들을 보낸다.#@문장구분# 그런데 주말에는 그 이틀동안은 정말 내 마음대로 보낼 수 있는 시간들이다.#@문장구분# 그런데 나는 주말에는 항상 늦게 일어나서 하루가 너무 짧게 느껴진다.#@문장구분# 그래서 주말이 다 가고 한 일요일 밤쯤되면 '아, 아무것도 못하고 그렇게 일주일이 지나갔네...'라는 생각에 씁쓸해진다.#@문장구분# 그래서 나도 아침 일찍 일어나서 주말을 아주 알차게 보내고 싶어졌다.#@문장구분# 그래서 내가 아침 일찍 일어나는 것을 습관으로 들이기 위해서 알람도 정말 여러개 맞췄다.#@문장구분# 왜냐하면 알람을 여러개 설정해야 내가 잠결에 알람을 꺼도 나중에 또 알람이 울리기 때문이다.#@문장구분# 그런 식으로 아침일찍 일어나는 것을 일주일정도 반복하다 보니 이젠 습관이 되었다.#@문장구분# 이제는 뭐 알람 없이도 일찍 잘 일어난다.#@문장구분#",
+      "paragraph_len": 708,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      27.6,
+      21.05
+    ],
+    "essay_scoreT_avg": 24.516668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "나는 정말정말 들이고 싶은 좋은 습관이 있었다.",
+      "sentence_corr_txt_styling": "나는 정말정말 들이고 싶은 좋은 습관이 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 주말이 다 가고 한 일요일 밤쯤 되면 '아, 아무것도 못하고 그렇게 일주일이 지나갔네.'라는 생각에 씁쓸해진다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 주말이 다 가고 한 일요일 <문법_맞춤법>밤쯤되면</문법_맞춤법> <문법_기타>'아, 아무것도 못하고 그렇게 일주일이 지나갔네...'</문법_기타>라는 생각에 씁쓸해진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 내가 아침 일찍 일어나는 것을 습관으로 들이기 위해서 알람도 정말 여러 개 맞췄다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 내가 아침 일찍 일어나는 것을 습관으로 들이기 위해서 알람도 정말 <문법_맞춤법>여러개</문법_맞춤법> 맞췄다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 알람을 여러 개 설정해야 내가 잠결에 알람을 꺼도 나중에 또 알람이 울리기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 알람을 <문법_맞춤법>여러개</문법_맞춤법> 설정해야 내가 잠결에 알람을 꺼도 나중에 또 알람이 울리기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 식으로 아침 일찍 일어나는 것을 일주일정도 반복하다 보니 이젠 습관이 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 식으로 <문법_맞춤법>아침일찍</문법_맞춤법> 일어나는 것을 일주일정도 반복하다 보니 이젠 습관이 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69163",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 468,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

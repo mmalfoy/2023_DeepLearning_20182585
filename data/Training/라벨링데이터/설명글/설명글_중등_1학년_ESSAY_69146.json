@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각해보았을 때 명확한 습관은 없지만 이런 특징이 있는 것 같습니다.#@문장구분# 바로 우울감에 한 번 빠지면 쉽게 빠져나오지 않는다는 것입니다.#@문장구분# 대부분의 경우 우울함에서 벗어나려고 여러 가지 행동을 하지만 저 같은 경우에는 우울감에 더욱 심하게 빠지기 위해 그저 더 우울한 생각을 할 뿐입니다.#@문장구분# 물론 그럴 필요는 없다는 것은 잘 알지만 저는 우울하면 무언가 내가 제일 세상에서 우울한 사람이 되어야 할 것같은 기분이 들곤 합니다.#@문장구분# 저는 그래서 이러한 부정적인 측면을 고쳐보고자 했습니다.#@문장구분# 바로 활발해지기입니다.#@문장구분# 사람이 활동하면 우울감에서 자동으로 빠져나오는 것을 경험할 수 있었습니다.#@문장구분# 실제로 많은 경우에 스트레스를 받게 되는 경우는 많습니다.#@문장구분# 하지만 활동적으로 움직여 본다면 그 우울감에 벗어날 수 있을 것입니다.#@문장구분# 이건 앞에서 말했던 여러 가지 행동을 하는 양상과는 조금 다르지만 거의 비슷한 맥락이라고 볼 수 있습니다.#@문장구분#",
+      "paragraph_len": 657,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.05,
+      21.85,
+      18.25
+    ],
+    "essay_scoreT_avg": 21.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각해 보았을 때 명확한 습관은 없지만 이런 특징이 있는 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "제가 <문법_맞춤법>생각해보았을</문법_맞춤법> 때 명확한 습관은 없지만 이런 특징이 있는 것 같습니다.",
+      "sentence_corr_txt_styling": "제가 생각해 보았을 때 명확한 습관은 없지만 이런 특징이 있는 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 대부분의 경우 우울함에서 벗어나려고 여러 가지 행동을 하지만 저 같은 경우에는 우울감에 더욱 심하게 빠지기 위해 그저 더 우울한 생각을 할 뿐입니다.",
+      "sentence_corr_txt_styling": " 대부분의 경우 우울함에서 벗어나려고 여러 가지 행동을 하지만 저 같은 경우에는 우울감에 더욱 심하게 빠지기 위해 그저 더 우울한 생각을 할 뿐입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 그럴 필요는 없다는 것은 잘 알지만 저는 우울하면 무언가 내가 제일 세상에서 우울한 사람이 되어야 할 것 같은 기분이 들곤 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 그럴 필요는 없다는 것은 잘 알지만 저는 우울하면 무언가 내가 제일 세상에서 우울한 사람이 되어야 할 <문법_맞춤법>것같은</문법_맞춤법> 기분이 들곤 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바로 '활발해지기'입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 바로 <문법_기타>활발해지기입니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 사람이 활동하면 우울감에서 자동으로 빠져나오는 것을 경험할 수 있었습니다.",
+      "sentence_corr_txt_styling": " 사람이 활동하면 우울감에서 자동으로 빠져나오는 것을 경험할 수 있었습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 실제로 많은 경우에 스트레스를 받게 되는 경우는 많습니다.",
+      "sentence_corr_txt_styling": " 실제로 많은 경우에 스트레스를 받게 되는 경우는 많습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69146",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 457,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

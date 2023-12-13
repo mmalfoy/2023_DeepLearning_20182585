@@ -1,0 +1,356 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "초등학교에서 배우는 과목중 무슨 과목을 좋아합니까?#@문장구분# 과목은 수학, 과학, 체육, 미술, 사회, 음악, 영어, 국어, 한자, 실과, 논술, 역사등등 더욱 만갰죠#@문장구분# 그중에서 저는 과학을 좋아합니다#@문장구분# 그중 여러분은 무슨 과목을 좋아하십니까?#@문장구분# 과목은 성격도 다르고 좋아하는게 다르겠죠 #@문장구분#그런데 모두좋아하는게 만을수도 있겠죠 #@문장구분#그런데 아무것도안좋아 하실수도 있습니다.#@문장구분#그나마좋은 것을 선택 하십시요#@문장구분# 여러분은 무슨 과목이 재미있고 무엇을 잘한다 생각 하십니까 #@문장구분#과목을 좋아하고 안좋아할수 있습니다.#@문장구분# 좋아하면 좋아하는 이유 를 적어주시고 이유는 무엇 입니까.#@문장구분#과목은 알면 알수록 재미있는게 과목이죠 #@문장구분#그래서 과목은 신기 할수도 있습니다.",
+      "paragraph_len": 581,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      10,
+      10,
+      6
+    ],
+    "essay_scoreT_avg": 8.666667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "초등학교에서 배우는 과목 중 무슨 과목을 좋아합니까?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "초등학교에서 배우는 <문법_맞춤법>과목중</문법_맞춤법> 무슨 과목을 좋아합니까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과목은 수학, 과학, 체육, 미술, 사회, 음악, 영어, 국어, 한자, 실과, 논술, 역사 등등 더욱 많겠죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 과목은 수학, 과학, 체육, 미술, 사회, 음악, 영어, 국어, 한자, 실과, 논술, <문법_맞춤법>역사등등 더욱 만갰죠</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중에서 저는 과학을 좋아합니다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그중에서 저는 과학을 <문법_맞춤법>좋아합니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과목은 성격도 다르고 좋아하는 게 다르겠죠. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 과목은 성격도 다르고 <문법_맞춤법>좋아하는게 다르겠죠</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그런데 모두좋아하는게 만을수도 있겠죠 ",
+      "sentence_corr_txt_styling": "그런데 모두좋아하는게 만을수도 있겠죠 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그런데 아무것도안좋아 하실수도 있습니다.",
+      "sentence_corr_txt_styling": "그런데 아무것도안좋아 하실수도 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그나마 좋은 것을 선택하십시오.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그나마좋은 것을 선택 하십시요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분은 무슨 과목이 재미있고 무엇을 잘한다 생각하십니까. ",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여러분은 무슨 과목이 재미있고 무엇을 잘한다 <문법_맞춤법>생각 하십니까</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과목을 좋아하고 안 좋아할 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "과목을 좋아하고 <문법_맞춤법>안좋아할수</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 좋아하면 좋아하는 이유 를 적어주시고 이유는 무엇 입니까.",
+      "sentence_corr_txt_styling": " 좋아하면 좋아하는 이유 를 적어주시고 이유는 무엇 입니까.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과목은 알면 알수록 재미있는 게 과목이죠. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "과목은 알면 알수록 <문법_맞춤법>재미있는게 과목이죠</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 과목은 신기할 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 과목은 <문법_맞춤법>신기 할수도</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48057",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 342,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

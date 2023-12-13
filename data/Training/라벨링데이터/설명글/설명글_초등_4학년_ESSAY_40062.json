@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 하루에 7시간 3０분 학습하고 4시간 쯤 여가활동을 한다.#@문장구분# 여가활동을 할 때에는 주로 친구들과 게임을 하거나 보드게임, TV를 보거나 그림을 그린다.#@문장구분# 요즘엔 게임을 많이 하는 것 같아서 조금조금 씩 게임시간을 줄이려고 한다.#@문장구분# 게임,TV같은 미디어말고  책읽기,운동하기,그림그리기,글쓰기 같은 나에게 정말 필요한 여가활동하려고 노력할 것 이다.#@문장구분# 그렇다고 게임을 안할수는 없어서 하루에 1０분 씩 줄여나갈예정이다.#@문장구분# 그렇게 해서 하루에 게임은 1시간 3０분을 하면 됄 것 같다.#@문장구분# 앞으론 부족한 점을 개선해 나갈껏이다.#@문장구분#",
+      "paragraph_len": 429,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1.5714285,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.64762,
+      12.285714,
+      14.114286
+    ],
+    "essay_scoreT_avg": 15.349208,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 하루에 7시간 3０분 학습하고 4시간쯤 여가활동을 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 하루에 7시간 3０분 학습하고 <문법_맞춤법>4시간 쯤</문법_맞춤법> 여가활동을 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동을 할 때에는 주로 친구들과 게임을 하거나 보드게임을 하고, TV를 보거나 그림을 그린다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 여가활동을 할 때에는 주로 친구들과 게임을 하거나 <문법_조사><문법_어미>보드게임</문법_어미></문법_조사>, TV를 보거나 그림을 그린다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임, TV같은 미디어말고  책읽기, 운동하기, 그림그리기, 글쓰기같이 나에게 정말 필요한 여가활동을 하려고 노력할 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법>게임,TV같은</문법_맞춤법> 미디어말고  <문법_조사>책읽기,운동하기,그림그리기,글쓰기 같은</문법_조사> 나에게 정말 필요한 여가활동하려고 노력할 것 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇다고 게임을 안 할 수는 없어서 하루에 10분씩 줄여나갈 예정이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇다고 게임을 <문법_맞춤법>안할수는</문법_맞춤법> 없어서 하루에 1０분 씩 줄여나갈예정이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 해서 하루에 게임은 1시간 3０분을 하면 될 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 해서 하루에 게임은 1시간 3０분을 하면 <문법_맞춤법>됄</문법_맞춤법> 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으론 부족한 점을 개선해 나갈 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 앞으론 부족한 점을 개선해 <문법_맞춤법>나갈껏이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40062",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 290,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

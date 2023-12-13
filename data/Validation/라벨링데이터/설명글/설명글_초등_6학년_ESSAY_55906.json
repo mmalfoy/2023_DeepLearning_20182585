@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각했을 때 진정한 친구란?#@문장구분# 누군가 나에게 '진정한 친구가 있니?'라고 물어본다면 떠오르는 친구가 있다. #@문장구분#바로 같이 밥을 먹는 친구이다.#@문장구분# 식구는 '밥을 같이 먹는 사람들'이라는 뜻이라고 한다.#@문장구분# 이것을 생각했을 때 함께 밥을 같이 먹고 싶고 맛있는 음식을 나누어 먹고 싶은 친구는 식구나 마찬가지라고 생각합니다.#@문장구분# 식사를 함께하고 맛있는 음식이 있을 때 생각나는 친구는 서로 마음이 통하고 아끼는 친구이기 때문에 진정한 친구라고 생각합니다.#@문장구분# 그저 인사만하고 같은 반인 친구들도 물론 친구라고는 할 수 있지만 모두가 진정한 친구하고는 할 수 없을 것 같습니다. #@문장구분#함께 놀아보면 의견이 맞지 않는 부분을 발견할 수도 있고, 그리고 생각이 다를 수도 있기 때문입니다.#@문장구분# 서로 공감하고 마음을 나눌 수 있는 친구, 함께 밥을 먹고 싶은 친구가 저는 진정한 친구라고 생각합니다.",
+      "paragraph_len": 589,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.3,
+      20.05,
+      16.15
+    ],
+    "essay_scoreT_avg": 19.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 누군가 나에게 '진정한 친구가 있니?'라고 물어본다면 떠오르는 친구가 있습니다. ",
+      "sentence_corr_reason": [
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 누군가 나에게 '진정한 친구가 있니?'라고 물어본다면 떠오르는 친구가 <문법_어미>있다.</문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바로 같이 밥을 먹는 친구입니다.",
+      "sentence_corr_reason": [
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "바로 같이 밥을 먹는 <문법_어미>친구이다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 식구는 '밥을 같이 먹는 사람들'이라는 뜻이라고 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 식구는 '밥을 같이 먹는 사람들'이라는 뜻이라고 <문법_어미>한다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55906",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 430,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

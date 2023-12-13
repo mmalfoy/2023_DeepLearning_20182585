@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 친구는 비밀을 잘지켜주고 서로를 배려해주고 같이 놀고 게임하고등등 이다.#@문장구분# 친구에 대한 생각은 대충 줄여서 배려하고 놀는게 친구라 생각한다.#@문장구분# 비밀도 안지키고 배려도 않아고 그냥 인사만 하고 알기만 하고 거의 논적도 없는 친구는 딱히 친구라 생각안한다. #@문장구분#친구는 같이 놀고 위고하고 받고 사이가 좋지만 어떨땐 싸우지도 한다.#@문장구분# 싸우면 화나더라도 먼저 말을 걸면 아닌경우도 있지만 다시 친해지는 경우도 있다.#@문장구분# 기본적으로 다른친구들은 친한척 해도 친하기 않는 경우가 있다.#@문장구분# 친구들에게 나는 어떤 친구가 되고싶냐면 서로 돕고 위로하는 친구? #@문장구분#그런 친구가 되고 싶다.#@문장구분# 친구는 서로 싸우고 놀고 공유하고 위로하는게 내가 생각한 친구이다.",
+      "paragraph_len": 515,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.15,
+      22.65,
+      26.25
+    ],
+    "essay_scoreT_avg": 25.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 친구는 비밀을 잘 지켜주고 서로를 배려해 주고 같이 놀고 게임하고 등등이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 친구는 비밀을<문법_맞춤법> 잘지켜주고</문법_맞춤법> 서로를 배려해주고 같이 놀고 게임하고등등 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구에 대한 생각은 대충 줄여서 배려하고노는게 친구라 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구에 대한 생각은 대충 줄여서 배려하고<문법_맞춤법> 놀는게</문법_맞춤법> 친구라 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 비밀도 안 지키고 배려도 않아고 그냥 인사만 하고 알기만 하고 거의 논적도 없는 친구는 딱히 친구라 생각 안 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 비밀도 <문법_맞춤법>안지키고</문법_맞춤법> 배려도 않아고 그냥 인사만 하고 알기만 하고 거의 논적도 없는 친구는 딱히 친구라 생각안한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 싸우면 화나더라도 먼저 말을 걸면 아닌 경우도 있지만 다시 친해지는 경우도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 싸우면 화나더라도 먼저 말을 걸면<문법_맞춤법> 아닌경우도 </문법_맞춤법>있지만 다시 친해지는 경우도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기본적으로  다른 친구들은 친한척해도  친하기 않는 경우가 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기본적으로 <문법_맞춤법>다른친구들은 친한척 해도</문법_맞춤법> 친하기 않는 경우가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들에게 나는 어떤 친구가 되고 싶냐면  서로 돕고 위로하는 친구? ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구들에게 나는 <문법_맞춤법>어떤 친구가 되고싶냐면</문법_맞춤법> 서로 돕고 위로하는 친구? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구는 서로 싸우고 놀고 공유하고 위로하는 게 내가 생각한 친구이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구는 서로 싸우고 놀고 공유하고<문법_맞춤법> 위로하는게</문법_맞춤법> 내가 생각한 친구이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52641",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 355,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

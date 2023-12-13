@@ -1,0 +1,267 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 통일에대한 나의생각을 무족건 통일이 되어야한다고 생각합니다.#@문장구분# 솔직히 전쟁도 나쁜거고 갈라지면 가족을 만나지도 못하고 정말가보고싶은여행지도가고 그러니까 제발 통일이되어야한다고 생각합니다.#@문장구분# 이슈가여러가지있습니다.#@문장구분# 아까 말했듯이 다른사람들의부모를 만나지 못하니까 물론우리는그렇지않지만 다른사람들은 얼마나 외롭고 슬프고 얼마나 미안한 생각이 들 까요. #@문장구분#사실은 우리도 그럴까봐무섭고 또 언제 전쟁이날지 누가 어떻게압니까?#@문장구분# 게다가 우리가 살곳이 넓어지기까지하니 제발 통일좀 해주세요.#@문장구분#",
+      "paragraph_len": 387,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      22.75,
+      13.635714
+    ],
+    "essay_scoreT_avg": 19.595238,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 무조건 통일이 되어야 한다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        "맥락 오류 포함"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_높임법>나는</문법_높임법> <문법_맞춤법>통일에대한 나의생각을 무족건</문법_맞춤법> 통일이 되어야한다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 솔직히 전쟁도 나쁜거고 갈라지면 가족을 만나지도 못하고 정말 가 보고 싶은 여행지도 못가니 통일이 되어야 한다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 솔직히 전쟁도 나쁜거고 갈라지면 가족을 만나지도 못하고 <문법_맞춤법><문법_기타>정말가보고싶은여행지도가고 그러니까</문법_기타></문법_맞춤법><스타일링_담화 맥락 오류> 제발 </스타일링_담화 맥락 오류>통일이되어야한다고 생각합니다.",
+      "sentence_corr_txt_styling": " 솔직히 전쟁도 나쁜거고 갈라지면 가족을 만나지도 못하고 정말 가 보고 싶은 여행지도 못가니 통일이 되어야 한다고 생각합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 통일에 대한 이슈가 여러가지 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 어떤 이슈인지 필요",
+        "띄어쓰기, 어떤 이슈인지 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>이슈가여러가지있습니다</문법_기타></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아까 말했듯이 부모를 만나지 못하는 사람들은 얼마나 외롭고 슬프고 얼마나 미안할까요. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 아까 말했듯이 <스타일링_담화 맥락 오류>다른사람들의부모를 만나지 못하니까 물론우리는그렇지않지만 다른사람들은</스타일링_담화 맥락 오류> 얼마나 외롭고 슬프고 얼마나 <문법_맞춤법><문법_어미>미안한 생각이 들 까요</문법_어미></문법_맞춤법>. ",
+      "sentence_corr_txt_styling": " 아까 말했듯이 부모를 만나지 못하는 사람들은 얼마나 외롭고 슬프고 얼마나 미안할까요. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사실은 우리도 그럴까봐 무섭고 또 언제 전쟁이 날지 누가 어떻게 압니까?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사실은 우리도 <문법_맞춤법>그럴까봐무섭고</문법_맞춤법> 또 언제 전쟁이날지 누가 어떻게압니까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게다가 우리가 살 곳이 넓어지기까지 하니 제발 통일을 했으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 게다가 우리가 <문법_맞춤법>살곳이</문법_맞춤법> 넓어지기까지하니 제발 <스타일링_기타>통일좀 해주세요</스타일링_기타>.",
+      "sentence_corr_txt_styling": " 게다가 우리가 살 곳이 넓어지기까지 하니 제발 통일을 했으면 좋겠습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39543",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 268,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 참된 스승이란 우리의 생각을 인정해주려고 노력하고,자기 생각을 강요하지 않는 사람이라고 생각한다.#@문장구분# 또 무조건적으로 칭찬만 해주는 선생님도 좋지만,나는 오히려 내가 잘못된 길로 가지 않도록 단호하게 이야기해주는 선생님도 좋다.#@문장구분# 그래서 나는 참된 스승의 두가지 요소를 이렇게 이야기 할 수 있을 것 같다.#@문장구분# 첫째,내 생각을 인정하고 자기 생각을 강요하지 않는 선생님.#@문장구분# 둘째,내가 잘못된 길로 가려할 때 단호하게 붙잡아줄 수 있는 선생님.#@문장구분# 이렇게 생각하니까 참된 스승이 된다는 건 참 어려운 것 같다.#@문장구분# 그래도 그런 참된 스승을 만난 제자는 얼마나 좋을까.#@문장구분# 되게 부럽다.#@문장구분# 나도 그런 선생님을 중학교에 다니면서 꼭 만나고 싶다.#@문장구분# 또 내가 꼭 학교에서 일하는 사람이 커서 되지 않더라도 누군가한테 좋은 스승이 될 기회가 있다면 꼭 그렇게 해주고 싶다고 생각하게 되었다.#@문장구분#",
+      "paragraph_len": 631,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.15,
+      19.8,
+      17.75
+    ],
+    "essay_scoreT_avg": 20.233332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 참된 스승이란 우리의 생각을 인정해주려고 노력하고, 자기 생각을 강요하지 않는 사람이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 참된 스승이란 우리의 생각을 인정해주려고 <문법_맞춤법>노력하고,자기</문법_맞춤법> 생각을 강요하지 않는 사람이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 무조건적으로 칭찬을 해 주는 선생님도 좋지만, 나는 오히려 내가 잘못된 길로 가지 않도록 단호하게 이야기해주는 선생님도 좋다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 무조건적으로 <문법_조사>칭찬만</문법_조사> <문법_맞춤법>해주는</문법_맞춤법> 선생님도 좋지만,나는 오히려 내가 잘못된 길로 가지 않도록 단호하게 이야기<문법_맞춤법>해주는</문법_맞춤법> 선생님도 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 참된 스승의 두 가지 요소를 이렇게 이야기 할 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 참된 스승의 <문법_맞춤법>두가지</문법_맞춤법> 요소를 이렇게 이야기 할 수 있을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫째, 내 생각을 인정하고 자기 생각을 강요하지 않는 선생님이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫째,내</문법_맞춤법> 생각을 인정하고 자기 생각을 강요하지 않는 <문법_조사>선생님</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째, 내가 잘못된 길로 가려할 때 단호하게 붙잡아줄 수 있는 선생님이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법>둘째,내가</문법_맞춤법> 잘못된 길로 가려할 때 단호하게 붙잡아줄 수 있는 <문법_조사>선생님</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 내가 커서 꼭 학교에서 일하는 사람이 되지 않더라도 누군가한테 좋은 스승이 될 기회가 있다면 꼭 그렇게 해주고 싶다고 생각하게 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순"
+      ],
+      "sentence_txt": " 또 내가 <문법_어순>꼭 학교에서 일하는 사람이 커서</문법_어순> 되지 않더라도 누군가한테 좋은 스승이 될 기회가 있다면 꼭 그렇게 해주고 싶다고 생각하게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60035",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 432,
+    "essay_main_subject": "참된 스승"
+  }
+}

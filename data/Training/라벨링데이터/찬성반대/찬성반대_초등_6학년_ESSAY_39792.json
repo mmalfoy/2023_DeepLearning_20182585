@@ -1,0 +1,264 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "에너지를 절약하는것은 찬성한다.#@문장구분# 하지만 습관은 어쩔수 없는것인가 잘때마다 무서움에 전등을 키고자는것이 나의 습관이다. #@문장구분#나는 어두운것을 극도로 싫어한다. #@문장구분#하지만 엄마는 새벽마다 일어나는 습관이 있어서 내가 잠들었을때 꺼주신다. #@문장구분#그래서 몰폰을 못한다. #@문장구분#누나는 불을 다끄고 휴대폰을 하지만 눈이 나빠지고 전등을 켜서 그래도 눈을 좀 지키는것이 좋은지 모르겠다. #@문장구분#나갈때는 전등을 다 끄고 TV도 끄고 잘 때 전등을 키지말고 쓰지않을땐 전선을 빼도록 노력해야겠다. #@문장구분#전등을 절약하는 것 말고도 휴대폰도 조절해야겠다.#@문장구분# 하지만 정작 집에 있으면 귀찮아 진다.#@문장구분#   그치만 이 글을 보고 기억해서 절약을 해봐야 겠다.#@문장구분# 이 글을 친구에게도 알려주고 이 글을 보여주고 부모님께도 보여줘서 모두 다 같이 절약을 해봐야겠다.#@문장구분# 컴퓨터 전선도 뽑아두고 TV전선도 뽑아주고 충전기도 빼놓고 해야겠다.#@문장구분# 전에 누나가 화장실에둔 고데기가 전선에 꽂아져있어 큰 사고가 날뻔했던 적이 있었다.#@문장구분# 전기를 조심히 하고 에너지도 절약해서 쓰자.",
+      "paragraph_len": 762,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.633331,
+      23.877777,
+      20
+    ],
+    "essay_scoreT_avg": 20.837036,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          1,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "에너지를 절약하는 것에는 찬성한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "에너지를 절약하는<문법_기타>것은</문법_기타> 찬성한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 어쩔 수 없는 습관이 있습니다. 제가 잘 때 무서움에 전등을 켜고 자는 것이 나의 습관이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법><문법_기타>습관은 어쩔수 없는것인가 잘때마다 무서움에 전등을 키고자는</문법_기타></문법_맞춤법>것이 나의 습관이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 어두운 것을 극도로 싫어한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 어두운<문법_맞춤법>것을 </문법_맞춤법>극도로 싫어한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 엄마는 새벽마다 일어나는 습관이 있어서 내가 잠들었을 때 꺼주신다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 엄마는 새벽마다 일어나는 습관이 있어서 내가 잠들었을<문법_맞춤법>때</문법_맞춤법> 꺼주신다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나갈 때는 전등과 TV도 끄고 잘 때도 전등을 켜지 말고, 또한  쓰지 않는 전선을 빼도록 노력해야겠다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나갈<문법_맞춤법>때는 전등을 다 끄고 TV도 끄고 잘 때 전등을 키지말고 쓰지않을땐</문법_맞춤법> 전선을 빼도록 노력해야겠다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 글을 친구와 부모님께  보여줘서 모두 다 같이 절약을 해봐야겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 이 글을 <문법_기타>친구에게도 알려주고 이 글을 보여주고 부모님께도</문법_기타> 보여줘서 모두 다 같이 절약을 해봐야겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로 환경을 위해 전기를 안전하게 쓰고, 에너지도 절약해서 쓰자.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>전기를 조심히 하고</문법_기타> 에너지도 절약해서 쓰자.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39792",
+    "essay_prompt": " 과학 발전을 통해 다양한 에너지들이 만들어지고 일상생활에 사용되고 있습니다. 대표적인 예가 원자력입니다.\n\n 원자력 발전소에서 생산되는 엄청난 양의 에너지를 통해 여러분이 핸드폰을 하고 TV를 보고 전등을 켤 수 있습니다.\n\n 하지만 원자력 발전소를 통해 에너지를 생산하는 과정에서 폭발위험과 핵폐기물로 인한 심각한 환경문제가 발생하고 있습니다.\n\n 우리가 에너지를 사용하면 사용할수록 원자력 발전소 같은 에너지를 생산할 수 있는 시설이 더욱 많이 필요할 것입니다. 이는 더 많은 환경문제를 일으키겠죠?\n\n 그렇기 때문에 더 에너지 사용을 늘리지 말자는 의견이 많이 나오고 있습니다. 생활의 편리함을 뒤로하고 에너지 절약을 먼저 하자는 의견입니다.\n\n 여러분은 편리한 생활을 줄이고 에너지를 절약하여 환경을 살리는 데 찬성하시나요? 아니면 환경보다는 지금의 편리함이 더 중요하다고 생각하시나요?  본인의 생각을 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 504,
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각"
+  }
+}

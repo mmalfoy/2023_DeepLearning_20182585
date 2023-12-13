@@ -1,0 +1,230 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "인생에서 선생님은 정말 중요한 존재라고 생각한다.#@문장구분# 아무리 자기 자신이 잘나고 유능하더라도 제대로 되고 참된 스승을 만나지 못한다면 그러한 자신의 능력을 온전히 발휘하지 못 할 것이다.#@문장구분# 그래서 이런 제자를 옳은 길로 잘 지도해주는 참된 스승은 똑똑하고 문제 상황을 잘 대처해야 한다.#@문장구분# 왜냐햐면 똑똑하고 잘난 제자를 가르치기 위해서는 그 제자의 스승 또한 잘나고 똑똑해야 잘 가르칠 수 있기 때문이다.#@문장구분# 만약 스승이 제자보다 잘나지 못한다면 스승으로서 제대로 된 역할을 하지 못할 것이다.#@문장구분# 그리고 제자를 가르치다 보면 선생님도 예상하지 못했던 문제들이 생길 수 있다.#@문장구분# 그래서 이런 갑자기 일어난 예상치 못한 문제도 잘 대처할 수 있는 스승이 참된 스승이라고 생각한다.#@문장구분# 이런 스승이 많아야지 많은 좋은 제자들이 생기고 또 그런 제자들이 더욱 더 좋은 길을 향해 갈 것이다.#@문장구분#",
+      "paragraph_len": 588,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.75,
+      20.8,
+      18.95
+    ],
+    "essay_scoreT_avg": 20.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 아무리 자기 자신이 잘나고 유능하더라도 제대로 되고 참된 스승을 만나지 못한다면 그러한 자신의 능력을 온전히 발휘하지 못할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무리 자기 자신이 잘나고 유능하더라도 제대로 되고 참된 스승을 만나지 못한다면 그러한 자신의 능력을 온전히 발휘하지 <문법_맞춤법>못 할</문법_맞춤법> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 이런 제자를 옳은 길로 잘 지도해주는 참된 스승은 똑똑하고 문제 상황에 잘 대처해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그래서 이런 제자를 옳은 길로 잘 지도해주는 참된 스승은 똑똑하고 문제 <문법_조사>상황을</문법_조사> 잘 대처해야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐햐면 똑똑하고 잘난 제자를 가르치기 위해서는 그 제자의 스승 또한 잘나고 똑똑해야 잘 가르칠 수 있기 때문이다.",
+      "sentence_corr_txt_styling": " 왜냐햐면 똑똑하고 잘난 제자를 가르치기 위해서는 그 제자의 스승 또한 잘나고 똑똑해야 잘 가르칠 수 있기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 스승이 제자보다 잘나지 못한다면 스승으로서 제대로 된 역할을 하지 못한 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 만약 스승이 제자보다 잘나지 못한다면 스승으로서 제대로 된 역할을 하지 <문법_어미>못할</문법_어미> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 이런 갑자기 일어난 예상치 못한 문제도 잘 대처할 수 있는 스승이 참된 스승이라고 생각한다.",
+      "sentence_corr_txt_styling": " 그래서 이런 갑자기 일어난 예상치 못한 문제도 잘 대처할 수 있는 스승이 참된 스승이라고 생각한다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60062",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 429,
+    "essay_main_subject": "참된 스승"
+  }
+}

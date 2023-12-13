@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "예를 들어 코로나를 예방하는 방법을 설명하자면 나갔다가 들어오면 손을 30초 이상 깨끗이 씻고 손소독제가 보이면 자주 하고 엘리베이터 손잡이는 만지지 않도록 하고 마트에 가서 카트나 바구니를 사용 할 때는 손잡이에 손소독제를 뿌려서 소독을 해줍니다.#@문장구분# 그리고 사람들이 많은 곳에 가면 kf94 마스크를 착용하고 더욱더 손을 자주 씻어야 합니다. #@문장구분#그치만 사람들이 많은 곳 뿐만 아니라 밖에 외출을 하게 된다면 모든 상황에서다 다 조심해야 합니다.#@문장구분# 그리고 밖에 나갔다 오면 옷을 갈아입고 샤워를 해야지 더 코로나에 안걸릴 수 있습니다. #@문장구분#그리고 밖에서 마스크를 벗고 말하지 말고 사람이 없다하더라도 마스크는 꼭 착용해야 합니다. #@문장구분#이런 것들을 잘지킨다면 코로나로 부터 멀어 질 수 있을 것 입니다.#@문장구분# 이런 것들을 지켜 봅시다.#@문장구분#",
+      "paragraph_len": 540,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      23.266666,
+      19.666668
+    ],
+    "essay_scoreT_avg": 21.777777,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "예를 들어 코로나를 예방하는 방법을 설명하자면 나갔다가 들어오면 손을 30초 이상 깨끗이 씻고 손소독제가 보이면 자주 하고 엘리베이터 손잡이는 만지지 않도록 하고 마트에 가서 카트나 바구니를 사용할 때는 손잡이에 손소독제를 뿌려서 소독을 해줍니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "예를 들어 코로나를 예방하는 방법을 설명하자면 나갔다가 들어오면 손을 30초 이상 깨끗이 씻고 손소독제가 보이면 자주 하고 엘리베이터 손잡이는 만지지 않도록 하고 마트에 가서 카트나 바구니를 <문법_맞춤법>사용 할</문법_맞춤법> 때는 손잡이에 손소독제를 뿌려서 소독을 해줍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그치만 사람들이 많은 곳뿐만 아니라 밖에 외출을 하게 된다면 모든 상황에서다 다 조심해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그치만 사람들이 많은 <문법_맞춤법>곳 뿐만</문법_맞춤법> 아니라 밖에 외출을 하게 된다면 모든 상황에서다 다 조심해야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 밖에 나갔다 오면 옷을 갈아입고 샤워를 해야지 더 코로나에 안 걸릴 수 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 밖에 나갔다 오면 옷을 갈아입고 샤워를 해야지 더 코로나에 <문법_맞춤법>안걸릴</문법_맞춤법> 수 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 밖에서 마스크를 벗고 말하지 말고 사람이 없다 하더라도 마스크는 꼭 착용해야 합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 밖에서 마스크를 벗고 말하지 말고 사람이 <문법_맞춤법>없다하더라도</문법_맞춤법> 마스크는 꼭 착용해야 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이런 것들을 잘 지킨다면 코로나로부터 멀어질 수 있을 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이런 것들을 <문법_맞춤법>잘지킨다면</문법_맞춤법> 코로나로 부터 멀어 질 수 있을 것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36063",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 400,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 취미는 영화보기와영어책 읽기 입니다.#@문장구분#\n 영화보기는 평소에 영화보기를 좋아해서 생긴 취미입니다.#@문장구분#가끔 심심할 때 보는데 요즘 코로나 때문에 영화관에 가지 못해서 집에서 한번 봤는데 너무재미 있어서 생긴 취미입니다.#@문장구분#\n 영어책 읽기는 처음에는 재미없었는테해리포터,마틸다,찰리와 초콜릿공장 같은 배스트 셀러 책들을 읽다 보니 흥미가 생겨 생긴 취미 입니다.#@문장구분#영어책을읽다보면 그 주인공의 처지에 몰입할 때가 있는데 몰입했을 때 내가 진짜 그 처지에 있는 것 같아 더 재미있는것 같습니다.#@문장구분#\n 물론 한글책도 재미있지만 영어책은 내가 모르는 단어들이 많아 그것을 짐작하며 읽을때 더 재미있습니다.#@문장구분# 앞으로도 더 많은 책과 영화를 감상하고 싶습니다.#@문장구분#",
+      "paragraph_len": 493,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      27.714287,
+      27.714287
+    ],
+    "essay_scoreT_avg": 25.520636,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제 취미는 영화 보기와 영어책 읽기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제 취미는 <문법_맞춤법>영화보기와영어책 읽기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 영화 보기는 평소에 영화 보기를 좋아해서 생긴 취미입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>영화보기는 평소에 영화보기를 좋아해서 생긴 취미입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "가끔 심심할 때 보는데 요즘 코로나 때문에 영화관에 가지 못해서 집에서 한번 봤는데 너무재미 있어서 생긴 취미입니다.",
+      "sentence_corr_txt_styling": "가끔 심심할 때 보는데 요즘 코로나 때문에 영화관에 가지 못해서 집에서 한번 봤는데 너무재미 있어서 생긴 취미입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 영어책 읽기는 처음에는 재미없었는데 해리포터, 마틸다, 찰리와 초콜릿 공장 같은 베스트셀러 책들을 읽다 보니 흥미가 생겨 생긴 취미입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 영어책 읽기는 처음에는 <문법_맞춤법>재미없었는테</문법_맞춤법>해리포터,마틸다,찰리와 초콜릿공장 같은 배스트 셀러 책들을 읽다 보니 흥미가 생겨 생긴 취미 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "영어책을 읽다 보면 그 주인공의 처지에 몰입할 때가 있는데 몰입했을 때 내가 진짜 그 처지에 있는 것 같아 더 재미있는 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>영어책을읽다보면</문법_맞춤법> 그 주인공의 처지에 몰입할 때가 있는데 몰입했을 때 내가 진짜 그 처지에 있는 것 같아 더 재미있는것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 물론 한글책도 재미있지만 영어책은 제가 모르는 단어들이 많아 그것을 짐작하며 읽을 때 더 재미있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 물론 한글책도 재미있지만 영어책은 <문법_높임법>내가</문법_높임법> 모르는 단어들이 많아 그것을 짐작하며 <문법_맞춤법>읽을때</문법_맞춤법> 더 재미있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48111",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 354,
+    "essay_main_subject": "나의 취미"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교 과목 체육, 미술, 국어등 다양한 과목들중 저는 그중에세 수학이 제일 좋습니다.#@문장구분#\n 왜냐하면 수학은 영어나 사회, 과학처럼 외울 것 도 많지 않고 국어, 도덕, 미술과 다르게 답이 정해져 있어서 좋습니다.#@문장구분#\n 또 푸는 방식이 다양해서 생각할 수 있는 범위가 넓고 정확한 계산을 할 수 있어서 정말 좋습니다.#@문장구분#\n 예를 들면 국어시간 이나 미술시간 에는 답이 정해져 있지 않아서 힘들지만 수학시간에는 답이 정해져 있어서 편합니다.#@문장구분#\n 그래서 저는 수학 과목이 다른 과목들 중 에서 제일 좋습니다.#@문장구분#\n 수학 과목을 다른 친구들은 어떻게 생각하는지 궁금 하네요.",
+      "paragraph_len": 408,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      29.666666,
+      21.266666,
+      21.6
+    ],
+    "essay_scoreT_avg": 24.177778,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교 과목 체육, 미술, 국어 등 다양한 과목들 중 저는 그중에서 수학이 제일 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교 과목 체육, 미술, <문법_맞춤법>국어등</문법_맞춤법> 다양한 과목들중 저는 그중에세 수학이 제일 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 왜냐하면 수학은 영어나 사회, 과학처럼 외울 것도 많지 않고 국어, 도덕, 미술과 다르게 답이 정해져 있어서 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 왜냐하면 수학은 영어나 사회, 과학처럼 <문법_맞춤법>외울 것 도</문법_맞춤법> 많지 않고 국어, 도덕, 미술과 다르게 답이 정해져 있어서 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 예를 들면 국어시간이나 미술시간에는 답이 정해져 있지 않아서 힘들지만 수학시간에는 답이 정해져 있어서 편합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 예를 들면 <문법_맞춤법>국어시간 이나 미술시간 에는</문법_맞춤법> 답이 정해져 있지 않아서 힘들지만 수학시간에는 답이 정해져 있어서 편합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 수학 과목을 다른 친구들은 어떻게 생각하는지 궁금하네요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 수학 과목을 다른 친구들은 어떻게 생각하는지 <문법_맞춤법>궁금 하네요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48043",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 309,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

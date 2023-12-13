@@ -1,0 +1,460 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저가 생각하는 참 된 스승의 모습은 제자를 아껴주고 존중해주고 사랑해주는 그런 선생님이 참된 선생님이 아닐까요?#@문장구분# 물론 저한테도 참된 스승이 많았습니다.#@문장구분# 저 3학년 선생님은 혼낼땐 혼내시고 칭찬할땐 칭찬해주시는 분이었습니다.#@문장구분# 지금부터 참된 스승의 조건을 말하 겠습니다.#@문장구분# 1번째 제자의 말의 귀 기울여주고 제자의 말을 믿는다.#@문장구분# 2번째 선생님들은 거짓말을 하면 안된다.#@문장구분# 3번째 공부를 잘해야 된다.#@문장구분# 선생님이 공부를 못하면 학생을 못 가르친다.#@문장구분# 4번째 학생들을 비교하면 안된다.#@문장구분# 5번째 학생의 몸을 함부로 하면 안된다.#@문장구분# 이 다섯가지 규칙만 지키면 좋은 선생님이 될수 있다.#@문장구분# 근데 이 다섯가지를 안지키면 안좋은 선생님이 된다.#@문장구분# 참된스승의 모습은 아주 다양합니다.#@문장구분# 그치만 더욱 참된스승은 자기보다 학생이나 제자를 먼저 생각해야지 참된스승이 될수있다.#@문장구분# 예로세월호 사건때 자기 제자들을 버리고 자기 혼자 살겠다고 바다에 뛰어 들었다.#@문장구분# 그 선생은 살았지만 그 배 안에있던 학생들은 어케 됬을까요?#@문장구분# 네#@문장구분# 죽었습니다.#@문장구분# 스승은 자기보다 제자를 먼저 생각해야한다고 생각합니다.#@문장구분#",
+      "paragraph_len": 912,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.3,
+      16.4,
+      16.35
+    ],
+    "essay_scoreT_avg": 16.349998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 참된 스승의 모습은 제자를 아껴주고 존중해 주고 사랑해주는 그런 선생님이라고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_높임법>저가</문법_높임법> 생각하는 <문법_맞춤법>참 된 스승의</문법_맞춤법> 모습은 제자를 아껴주고 존중해주고 사랑해주는 그런 <스타일링_담화 맥락 오류>선생님이 참된 선생님이 아닐까요?</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "제가 생각하는 참된 스승의 모습은 제자를 아껴주고 존중해 주고 사랑해주는 그런 선생님이라고 생각합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 3학년 선생님은 혼낼 땐 혼내시고 칭찬할 땐 칭찬해 주시는 분이었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저</문법_맞춤법> 3학년 선생님은 혼낼땐 혼내시고 칭찬할땐 칭찬해주시는 분이었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금부터 참된 스승의 조건을 말하겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금부터 참된 스승의 조건을 <문법_맞춤법>말하 겠습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째, 제자의 말의 귀 기울여주고 제자의 말을 믿어야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>1번째</문법_맞춤법> 제자의 말의 귀 기울여주고 제자의 말을 <문법_어미>믿는다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째 선생님들은 거짓말을 하면 안 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 종결 어미 통일"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>2번째</문법_맞춤법> 선생님들은 거짓말을 하면 <문법_기타>안된다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째 공부를 잘해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>3번째</문법_맞춤법> 공부를 잘해야 <문법_어미>된다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님이 공부를 못하면 학생을 못 가르치기 때문입니다. ",
+      "sentence_corr_reason": [
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 선생님이 공부를 못하면 학생을 못 <문법_어미>가르친다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 네 번쨰 학생들을 비교하면 안 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 종결 어미 통일"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>4번째</문법_맞춤법> 학생들을 비교하면 <문법_어미>안된다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 5번째 학생의 몸을 함부로 하면 안 됩니다.",
+      "sentence_corr_reason": [
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 5번째 학생의 몸을 함부로 하면 <문법_어미>안된다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 다섯 가지 규칙만 지키면 좋은 선생님이 될수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 이 <문법_맞춤법>다섯가지</문법_맞춤법> 규칙만 지키면 좋은 선생님이 될수 <문법_어미>있다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 이 다섯 가지를 안 지키면 안 좋은 선생님이 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 근데 이 <문법_맞춤법>다섯가지를 안지키면 안좋은</문법_맞춤법> 선생님이 <문법_어미>된다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 참된 스승의 모습은 아주 다양합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>참된스승의</문법_맞춤법> 모습은 아주 다양합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그치만 더욱 참된 스승은 자기보다 학생이나 제자를 먼저 생각하는 사람입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "종결 어미 통일",
+        "종결 어미 통일",
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그치만 더욱 <문법_맞춤법>참된스승은</문법_맞춤법> 자기보다 학생이나 제자를 먼저 생각<스타일링_어미><스타일링_담화 맥락 오류><스타일링_패러프레이징>해야지 참된스승이 될수있다.</스타일링_패러프레이징></스타일링_담화 맥락 오류></스타일링_어미>",
+      "sentence_corr_txt_styling": " 그치만 더욱 참된 스승은 자기보다 학생이나 제자를 먼저 생각하는 사람입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예로 세월호 사건 때 자기 제자들을 버리고 자기 혼자 살겠다고 바다에 뛰어들었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>예로세월호</문법_맞춤법> 사건때 자기 제자들을 버리고 자기 혼자 살겠다고 바다에 <문법_어미>뛰어 들었다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 선생은 살았지만 그 배 안에 있던 학생들은 어떻게 되었을까요?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 선생은 살았지만 그 배 <문법_맞춤법>안에있던</문법_맞춤법> 학생들은 어케 됬을까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 네.",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>네</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 스승은 자기보다 제자를 먼저 생각해야 한다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>스승은</스타일링_담화 맥락 오류> 자기보다 제자를 먼저 <문법_맞춤법>생각해야한다고</문법_맞춤법> 생각합니다.",
+      "sentence_corr_txt_styling": " 그렇기 때문에 스승은 자기보다 제자를 먼저 생각해야 한다고 생각합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35478",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 532,
+    "essay_main_subject": "참된 스승"
+  }
+}

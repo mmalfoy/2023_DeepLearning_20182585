@@ -1,0 +1,165 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 참된 스승은 역시 잘 가르치는 선생님이라고 생각합니다.#@문장구분# 잘 가르치는 것에는 자기가 정해진 과목도 있지만, 인생 사는 방법이나 예의 등도 잘 가르쳐야 그것이 진짜 스승이라고 생각합니다.#@문장구분# 과목을 잘 가르치는 사람은 선생님이 아니라도 많습니다.#@문장구분# 그래서 학생들은 과외를 받고 학원에 다니고 하는데, 학교에 가면 그보다 더 많은 것을 배웁니다.#@문장구분# 친구와의 관계나 어른들을 대하는 방법 등을 학원과 달리 배울 수 있는데, 그것을 대표적으로 이끌어가주는 어른 중 하나가 바로 학교 선생님입니다.#@문장구분# 학생들은 학교에 있는 동안 선생님께 많이 의지하게 되는데 그 선생님들이 자라나는 학생들을 잘 가르쳐서 좋은 어른이 되게 만들어야 합니다.#@문장구분# 만약에 선생님이 꿈이 학생이 있는데 학교를 다니면서 이상한 선생님을 만나서 안 좋은 어른으로 자라나 그 선생님이 하는 것을 그대로 배우는 경우도 있어서 선생님은 잘 가르치는게 가장 먼저라고 생각합니다.#@문장구분#",
+      "paragraph_len": 601,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      19.8,
+      19.05
+    ],
+    "essay_scoreT_avg": 22.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 만약에 선생님이 꿈이 학생이 있는데 학교를 다니면서 이상한 선생님을 만나서 안 좋은 어른으로 자라나 그 선생님이 하는 것을 그대로 배우는 경우도 있어서 선생님은 잘 가르치는 게 가장 먼저라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약에 선생님이 꿈이 학생이 있는데 학교를 다니면서 이상한 선생님을 만나서 안 좋은 어른으로 자라나 그 선생님이 하는 것을 그대로 배우는 경우도 있어서 선생님은 잘 <문법_맞춤법>가르치는게</문법_맞춤법> 가장 먼저라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60149",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 462,
+    "essay_main_subject": "참된 스승"
+  }
+}

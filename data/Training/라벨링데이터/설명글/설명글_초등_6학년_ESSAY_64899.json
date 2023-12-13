@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 세종대왕을 존경하고 알고 싶습니다. #@문장구분#우리나라 사람이라면 세종대왕을 모르는 사람은 없다고 생각합니다. #@문장구분#글을 모르는 백성들을 위해 쉬운 우리글을 만드신 자랑스러운 분이라고 생각합니다.#@문장구분# 조선시대에 백성들은 한자를 어려워 하고 잘 몰라해서 편지 쓰는 것 도 힘들어하였다 #@문장구분#그런데 백성들의 그 모습을 지켜보던 세종대왕은 더 쉬운 글인 한글을 만들어 백성들에게 편리함을 주셧다. #@문장구분#그래서 오늘날에 BTS란 그룹이 세계적으로 유명해 졌는데 그래서인지 우리나라 KPOP뿐만 아니라 한글을 배우고 싶은 나라와 외국인들이 많아졌다 #@문장구분#학글을 배우고 싶은 외국인들은 책이나 유튜브로 한글 공부를 해서 유튜브에 동영상을 올리기도 하고 한글을 배우고 싶어서 한국에 방문하기도 한다#@문장구분# 그래서 나는 옛 조상들과 세종대왕이 이모습을 지켜보고 계시면 너무 뿌듯해 하실 것 같다#@문장구분# 그래서 나는 세종대왕님처럼 훌륭한 분이 되고 남은 위해 배려하는 그런 사람이 되고 싶다",
+      "paragraph_len": 624,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.2,
+      23.1,
+      25.75
+    ],
+    "essay_scoreT_avg": 22.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 조선시대에 백성들은 한자를 어려워하고 잘 몰라 해서 편지 쓰는 것도 힘들어하였다 ",
+      "sentence_corr_reason": [
+        "",
+        "여기부터 높임말 바뀜"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 조선시대에 백성들은 한자를 <문법_맞춤법>어려워 하고 잘 몰라해서</문법_맞춤법> 편지 쓰는 것 도 힘들어하였다 ",
+      "sentence_corr_txt_styling": " 조선시대에 백성들은 한자를 어려워하고 잘 몰라 해서 편지 쓰는 것도 힘들어하였다 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 백성들의 그 모습을 지켜보던 세종대왕은 더 쉬운 글인 한글을 만들어 백성들에게 편리함을 주셨다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 백성들의 그 모습을 지켜보던 세종대왕은 더 쉬운 글인 한글을 만들어 백성들에게 편리함을 <문법_맞춤법>주셧다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 오늘날에 BTS란 그룹이 세계적으로 유명해졌는데 그래서인지 우리나라 K-POP뿐만 아니라 한글을 배우고 싶은 나라와 외국인들이 많아졌다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 오늘날에 BTS란 그룹이 세계적으로 유<문법_맞춤법>명해 졌는</문법_맞춤법>데 그래서인지 우리나라 KPOP뿐만 아니라 한글을 배우고 싶은 나라와 외국인들이 많아졌다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "한글을 배우고 싶은 외국인들은 책이나 유튜브로 한글 공부를 해서 유튜브에 동영상을 올리기도 하고 한글을 배우고 싶어서 한국에 방문하기도 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>학글을</문법_맞춤법> 배우고 싶은 외국인들은 책이나 유튜브로 한글 공부를 해서 유튜브에 동영상을 올리기도 하고 한글을 배우고 싶어서 한국에 방문하기도 한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 옛 조상들과 세종대왕이 이모습을 지켜보고 계시면 너무 뿌듯해하실 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 옛 조상들과 세종대왕이 이모습을 지켜보고 계시면 너무 뿌<문법_맞춤법>듯해 하실</문법_맞춤법> 것 같다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 세종대왕님처럼 훌륭한 분이 되고 남은 위해 배려하는 그런 사람이 되고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 세종대왕님처럼 훌륭한 분이 되고 남은 위해 배려하는 그런 사람이 되고 <문법_맞춤법>싶다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64899",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 465,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

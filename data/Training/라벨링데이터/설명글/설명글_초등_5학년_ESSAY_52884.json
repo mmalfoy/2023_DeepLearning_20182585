@@ -1,0 +1,295 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 제일 좋아하는 운동은 배드민턴#@문장구분#\n 내가 하고싶은 취미는 배드민턴이다 어릴때는 배드민턴을 많이했지만 그면서 많이하질 못하였다 #@문장구분#그래서 취미로 배드민턴을 치고싶다#@문장구분#\n 첫째 배드민턴 경기의 종류 배드민턴경기의 종류는 남여단식 남여복식 혼합복식이 있다#@문장구분# 3판 2선승재고 승점은 21점이다#@문장구분# \n 둘째 배드민턴의 역사 배드민턴은 1820년 경 안도의 봄베이 지방에서 성행했던 민속 경기인 푸나에서 그 기원을 찾을수있다#@문장구분# 당시 영국에서는 그루스타두의 영국뷔포오드경을 중심으로 보급되기 시작하였으며 오늘날의 배드민턴이 된것이다#@문장구분# \n셋째 배드민턴의 장점 배드민턴에 장점은 누구나 쉽게 접할 수 있는 운동이고 남녀노소 거부감이 적다 작은 공간에서 2~4명만 있어도 충분히 즐길수 있는 운동이므로 접하기도 쉽다",
+      "paragraph_len": 522,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.447618,
+      20,
+      20.333334
+    ],
+    "essay_scoreT_avg": 18.926985,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.17",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "내가 제일 좋아하는 운동은 배드민턴",
+      "sentence_corr_txt_styling": "내가 제일 좋아하는 운동은 배드민턴",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 내가 하고 싶은 취미는 배드민턴이다. 어릴 때는 배드민턴을 많이 했지만 크면서 많이 하지 못하였다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 내가 <문법_맞춤법>하고싶은 취미는 배드민턴이다</문법_맞춤법> 어릴때는 배드민턴을 많이했지만 그면서 많이하질 못하였다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 취미로 배드민턴을 치고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 취미로 배드민턴을<문법_맞춤법> 치고싶다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫째, 배드민턴 경기의 종류. 배드민턴 경기의 종류는 남녀단식, 남녀복식, 혼합복식이 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>첫째 배드민턴 경기의 종류</문법_맞춤법> 배드민턴경기의 종류는 남여단식 남여복식 혼합복식이 있다",
+      "sentence_corr_txt_styling": "\n 첫째, 배드민턴 경기의 종류. 배드민턴 경기의 종류는 남녀단식, 남녀복식, 혼합복식이 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3판 2선승제이고, 승점은 21점이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어미>3판 2선승재고 승점은 21점이다</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 둘째, 배드민턴의 역사는 배드민턴은 1820년 경 인도의 봄베이 지방에서 성행했던 민속 경기인 푸나에서 그 기원을 찾을 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " \n <문법_맞춤법><문법_조사>둘째 배드민턴의 역사</문법_조사></문법_맞춤법> 배드민턴은 1820년 경 안도의 봄베이 지방에서 성행했던 민속 경기인 푸나에서 그 기원을 찾을수있다",
+      "sentence_corr_txt_styling": " \n 둘째, 배드민턴의 역사는 배드민턴은 1820년 경 인도의 봄베이 지방에서 성행했던 민속 경기인 푸나에서 그 기원을 찾을 수 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 당시 영국에서는 그루스타주의 영국 뷔포오드경을 중심으로 보급되기 시작하였으며 오늘날의 배드민턴이 된 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 당시 영국에서는 <문법_맞춤법>그루스타두의</문법_맞춤법> 영국뷔포오드경을 중심으로 보급되기 시작하였으며 오늘날의 배드민턴이 된것이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n셋째, 배드민턴의 장점. 배드민턴의 장점은 누구나 쉽게 접할 수 있는 운동이고 남녀노소 거부감이 적다. 작은 공간에서 2~4명만 있어도 충분히 즐길 수 있는 운동이므로 접하기도 쉽다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " \n<문법_맞춤법>셋째 배드민턴의 장점</문법_맞춤법> <문법_조사>배드민턴에</문법_조사> 장점은 누구나 쉽게 접할 수 있는 운동이고 남녀노소 거부감이 적다 작은 공간에서 2~4명만 있어도 충분히 즐길수 있는 운동이므로 접하기도 쉽다",
+      "sentence_corr_txt_styling": " \n셋째, 배드민턴의 장점. 배드민턴의 장점은 누구나 쉽게 접할 수 있는 운동이고 남녀노소 거부감이 적다. 작은 공간에서 2~4명만 있어도 충분히 즐길 수 있는 운동이므로 접하기도 쉽다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52884",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 385,
+    "essay_main_subject": "나의 취미"
+  }
+}

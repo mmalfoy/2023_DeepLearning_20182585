@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "다수결만이 옳은 것인가?#@문장구분#\n 학교에서, 나라에서 우리 민주주의 사회는 다수결은 원칙으로 정합니다.#@문장구분# 그런데 그것이 꼭 옳다는 것은 없습니다.#@문장구분# 왜냐하면 학교에서 반장을 뽑았는데 공약은 안지키거나 대통령, 국회의원들을뽑을때도 나쁘거나, 이상한사람을 뽑을 수도 있기때문입니다.#@문장구분#\n 저는 소수결의 의견도 어느정도 반영을 해줘야된다고 생각합니다.#@문장구분# 왜냐하면 다수결이 옳을 수도 있지만 소수결이 옳을 수도 있기 때문입니다.#@문장구분# 어느정도 반영을하냐?#@문장구분# 예를들어 다수결로 뽑인 대통령이 나쁜일을해서 대통령의 자리를 내려가면 원래는 부통령이 올라서지만 소수결인 사람을 대통령을 올라가게 해주는 것입니다.#@문장구분# 그렇게 단1년만 임기를 해주어 다음선거에도 나가게해주는것입니다.#@문장구분# 이렇게하면 다음선거에는 이사람이 대통령을 잘했다며 소수결이던 사람이 다수결인 사람으로 될 수있습니다.#@문장구분# 그러면 소수결인 사람도 희망을 얻을 수 있습니다.#@문장구분#\n 제생각에는 앞으로는 다수결만을 따르기 보다는 소수결도 어느정도 반영을 해주어 모든사람이 희망을 보면 좋겠습니다.",
+      "paragraph_len": 726,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.733334,
+      27.714287
+    ],
+    "essay_scoreT_avg": 26.815872,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 학교에서 반장을 뽑았는데 공약은 안 지키거나 대통령, 국회의원들을 뽑을 때도 나쁘거나, 이상한 사람을 뽑을 수도 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 학교에서 반장을 뽑았는데 공약은 <문법_맞춤법>안지키거나</문법_맞춤법> 대통령, 국회의원들을뽑을때도 나쁘거나, 이상한사람을 뽑을 수도 있기때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 저는 소수결의 의견도 어느 정도 반영을 해줘야 된다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 저는 소수결의 의견도 <문법_맞춤법>어느정도</문법_맞춤법> 반영을 해줘야된다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 정도 반영을 하냐?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어느정도 반영을하냐?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 다수결로 뽑힌 대통령이 나쁜 일을 해서 대통령의 자리를 내려가면 원래는 부통령이 올라서지만 소수결인 사람을 대통령을 올라가게 해주는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>예를들어</문법_맞춤법> 다수결로 뽑인 대통령이 나쁜일을해서 대통령의 자리를 내려가면 원래는 부통령이 올라서지만 소수결인 사람을 대통령을 올라가게 해주는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 단 1년만 임기를 해주어 다음 선거에도 나가게 해주는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 <문법_맞춤법>단1년만</문법_맞춤법> 임기를 해주어 다음선거에도 나가게해주는것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 하면 다음 선거에는 이 사람이 대통령을 잘했다며 소수결이던 사람이 다수결인 사람으로 될 수있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이렇게하면 다음선거에는 이사람이</문법_맞춤법> 대통령을 잘했다며 소수결이던 사람이 다수결인 사람으로 될 수있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 제생각에는 앞으로는 다수결만을  따르기보다는 소수결도 어느 정도 반영을 해주어 모든 사람이 희망을 보면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 제생각에는 앞으로는 다수결만을 따르기 보다는 소수결도 어느정도 반영을 해주어 <문법_맞춤법>모든사람이</문법_맞춤법> 희망을 보면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49594",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 507,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

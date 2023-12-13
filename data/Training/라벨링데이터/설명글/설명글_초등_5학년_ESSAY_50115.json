@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 좋하는 과목은 체육 미술 과학 영어 입니다.#@문장구분# 제가 좋아하는 이유는 체육은 운동장 에서 재밌는 활동을 하고 재밌는 티볼 게임을 하고 재밌는 게임등을 해서 재밌습니다#@문장구분# 또한 재밌는 활동도 해서 재밌습니다.#@문장구분# 미술은 그림그리는게 재밌고 재밌는 활동을 많이해서입니다.#@문장구분# 그리고 과학은 생물 탐구 등등이 재밌습니다. #@문장구분#과학은 일단 생물이 재밌 습니다. #@문장구분#제가 생물 도 좋아하고 탐구하는것도 좋아 합니다.#@문장구분# 영어는 제가 도마뱀 영어 이름 외우기를 좋아해서이고 영어는 말하는것도 좋고 재밌어서 입니다.#@문장구분# 또 다른 과목이 많지만 그중 에서는 체육 미술 과학 영어 과목을 좋아합니다 #@문장구분#과목은 재밌는 과목도있고 재미없는과목도 있습니다.",
+      "paragraph_len": 520,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.5523815,
+      19.133333,
+      17.952381
+    ],
+    "essay_scoreT_avg": 17.212698,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 좋아하는 과목은 체육 미술 과학 영어입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 <문법_맞춤법>좋하는 </문법_맞춤법>과목은 체육 미술 과학 영어 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 좋아하는 이유는 체육은 운동장에서 재밌는 활동을 하고 재밌는 티볼 게임을 하고 재밌는 게임 등을 해서 재밌습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 좋아하는 이유는 체육은 운<문법_맞춤법>동장 에서</문법_맞춤법> 재밌는 활동을 하고 재밌는 티볼 게임을 하고 재밌는 게임등을 해서 재밌습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술은 그림 그리는 게 재밌고 재밌는 활동을 많이 해서입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미술은 <문법_맞춤법>그림그리는게 </문법_맞춤법>재밌고 재밌는 활동을 많이해서입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과학은 일단 생물이 재밌습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "과학은 일단 생물이 <문법_맞춤법>재밌 습니</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 생물도 좋아하고 탐구하는 것도 좋아합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 <문법_맞춤법>생물 도 좋아하고 탐구하는것도 좋아 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 영어는 제가 도마뱀 영어 이름 외우기를 좋아해서이고 영어는 말하는 것도 좋고 재밌어서입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 영어는 제가 도마뱀 영어 이름 외우기를 좋아해서이고 영어는 <문법_맞춤법>말하는것도</문법_맞춤법> 좋고 재밌어서 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 다른 과목이 많지만 그중에서는 체육 미술 과학 영어 과목을 좋아합니다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 다른 과목이 많지만 <문법_맞춤법>그중 에서는</문법_맞춤법> 체육 미술 과학 영어 과목을 좋아합니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과목은 재밌는 과목도 있고 재미없는 과목도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "과목은 재밌는 <문법_맞춤법>과목도있고 재미없는과목도</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50115",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 340,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

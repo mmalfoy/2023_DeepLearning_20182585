@@ -1,0 +1,406 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "인간은 늘 생각하지는 않는다.#@문장구분# 생각은 필요할때, 공부할때, 그리고 또 계획이나 작전을 짤때이다.#@문장구분# 이렇게만 인간은 생각한다.#@문장구분# 나머지는 화나서 생각을 하지 않을때나, 울때, 그리고 또 놀때말고도 등등 많을때 생각을 안한다.#@문장구분# 생각을 하는 사람은 늘 생각하는것은 아니다.#@문장구분# 생각할때도 있고 생각은 안할때도 있다.#@문장구분# 그러나 생각을 안하는 사람도 생각을 할때가 있고 생각을 안할때가 있다.#@문장구분# 이름만 생각을 하는 사람과 안하는 사람으로 나뉘지만 사실은 특징이나 하는 것은 같다고 나는 생각한다.#@문장구분# 또 가능한 적게 힘을 들이고 적게 생각하는 방법은 나는 이렇게 추천한다.#@문장구분# 공부할때는 예습을 미리 하여 먼저 배운다음, 그다음 또 복습을 하여 예습을 했는데 또 까먹을 수 있으니깐 복습은 아주아주 중요하다.#@문장구분# 그렇지만 예습도 중요하다.#@문장구분# 그리고 또 한가지 예는 전날이나 그 전날에 미리 일을 해놓은 다음, 그것을 평가받거나, 검사를 받을때, 당일치기 혹은 벼락치기를 할 빠에는 미리하는것도 좋은 방법이다.#@문장구분# 이렇게 추천한다.#@문장구분# 근데 정작 이 글을 쓰는 나는 이것을 안 지킨다.#@문장구분# 그래서 함 지켜볼 수는 있지만 몇일 후에는 또 달라질것같다.#@문장구분#",
+      "paragraph_len": 862,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      20.25,
+      22.5
+    ],
+    "essay_scoreT_avg": 20.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.23",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "인간은 늘 생각하지 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "인간은 늘<문법_조사> 생각하지는</문법_조사> 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생각은 필요할 때, 공부할 때, 그리고 계획이나 작전을 짤 때 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징",
+        "어미"
+      ],
+      "sentence_txt": " 생각은 <문법_맞춤법>필요할때, 공부할때</문법_맞춤법>, <스타일링_패러프레이징>그리고 또</스타일링_패러프레이징> 계획이나 작전을 <문법_어미>짤때이다.</문법_어미>",
+      "sentence_corr_txt_styling": " 생각은 필요할 때, 공부할 때, 그리고 계획이나 작전을 짤 때 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인간을 이럴 때만 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어순>이렇게만 인간은</문법_어순></문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  화나서 아무 생각이 나지 않을 때나, 울 때, 놀 때는 생각을 안 한다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>나머지는 </스타일링_담화 맥락 오류>화나서 생각을 하지 않을때나, 울때, 그리고 또 놀때말고도 등등 많을때 생각을 <문법_맞춤법>안한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "  화나서 아무 생각이 나지 않을 때나, 울 때, 놀 때는 생각을 안 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생각을 하는 사람은 늘 생각하는 것이 아니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 생각을 하는 사람은 늘 <문법_맞춤법><문법_조사>생각하는것은</문법_조사></문법_맞춤법> 아니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생각할 때도 있고 생각을 안 할 때도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사>생각할때도 있고 생각은 안할때도</문법_조사></문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나 생각을 안 하는 사람도 생각을 할 때가 있고 생각을 안 할 때가 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러나 생각을 <문법_맞춤법>안하는</문법_맞춤법> 사람도 생각을 할때가 있고 생각을 안할때가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이름만 생각을 하는 사람과 안하는 사람으로 나뉘지만 사실은 <스타일링_패러프레이징>특징이나 하는 것은 같다고 나는 생각한다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 이름만 생각을 하는 사람과 안하는 사람으로 나뉘지만 사실은 특징이 같다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 가능한 적게 힘을 들이고 적게 생각하는 방법을 나는 이렇게 추천한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 또 가능한 적게 힘을 들이고 적게 생각하는 <문법_조사>방법은</문법_조사> 나는 이렇게 추천한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공부할 때는 예습을 미리 하여 먼저 공부한 다음,   복습을 하여 예습을 했는데 까먹은 부분을 공부하는 것이다. 이것이 나는 아주 중요하다고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>공부할때는</문법_맞춤법> 예습을 미리 하여 먼저 <문법_기타>배운다음</문법_기타>, <스타일링_패러프레이징>그다음 또</스타일링_패러프레이징> 복습을 하여 예습을 했는데 <스타일링_담화 맥락 오류>또 까먹을 수 있으니깐 복습은 아주아주 중요하다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 공부할 때는 예습을 미리 하여 먼저 공부한 다음,   복습을 하여 예습을 했는데 까먹은 부분을 공부하는 것이다. 이것이 나는 아주 중요하다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그렇지만 <스타일링_담화 맥락 오류>예습도</스타일링_담화 맥락 오류> 중요하다.",
+      "sentence_corr_txt_styling": " 그렇지만 물론 예습도 중요하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 한가지 예는 전날이나 그 전날에 미리 일을 해놓은 다음, 그것을 평가받거나, 검사를 받을 때, 벼락치기가 아니라 미리하는 것도 좋은 방법이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 또 한가지 예는 전날이나 그 전날에 미리 일을 해놓은 다음, 그것을 평가받거나, 검사를<문법_맞춤법> 받을때,</문법_맞춤법> <스타일링_패러프레이징>당일치기 혹은 벼락치기를 할 빠에는 미리하는것도</스타일링_패러프레이징> 좋은 방법이다.",
+      "sentence_corr_txt_styling": " 그리고 또 한가지 예는 전날이나 그 전날에 미리 일을 해놓은 다음, 그것을 평가받거나, 검사를 받을 때, 벼락치기가 아니라 미리하는 것도 좋은 방법이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>이렇게 추천한다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 이러한 것들을 추천한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 한번 지켜볼 수는 있지만 몇일 후에는 또 달라질 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>함</문법_맞춤법> 지켜볼 수는 있지만 몇일 후에는 또 달라질것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36228",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 562,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

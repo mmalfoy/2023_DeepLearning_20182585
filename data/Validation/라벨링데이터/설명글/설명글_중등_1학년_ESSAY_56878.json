@@ -1,0 +1,289 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "시험기간에는 공부를 해야되는데 난 자꾸 공부가 하기 싫어서 책상 앞에 앉아있는 것도 너무 힘들다.#@문장구분# 난 자꾸 공부를 하다 말고 자꾸 침대에 눕거나 거실로 놀러를 나간다.#@문장구분# 이게 나쁜습관인 건 잘 알고 있지만 고치는 게 너무 어려워 보여서 계속 안 고치고 있었다.#@문장구분# 그러다가 공부가 너무나도 안 되는 것 같아서 이 습관을 고치도록 마음을 먹었다.#@문장구분# 집중이 안 된다고 자리에서 자꾸 일어나는 습관부터 고쳐야됬다.#@문장구분# 이건 친구한테 부탁해서 잡아달라고 하니까 금방 고쳐졌다.#@문장구분# 그 다음 문제는 의자에 오리 앉아있기가 어렵다는 문제였다.#@문장구분# 나는 한시간이라도 앉아있으려고 꾹 참았다.#@문장구분# 참다가 보니, 한시간 앉아있는 것은 정말 쉬운 일이었다.#@문장구분# 열심히 노력한 덕분에 나는 이제 가만히 앉아서 한시간 이상동안 집중을 하고 공부를 할 수 있게 되었다.#@문장구분#",
+      "paragraph_len": 603,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      22.35,
+      18.65
+    ],
+    "essay_scoreT_avg": 20.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "시험기간에는 공부를 해야 되는데 난 자꾸 공부가 하기 싫어서 책상 앞에 앉아있는 것도 너무 힘들다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "시험기간에는 공부를 <문법_맞춤법>해야되는데 </문법_맞춤법>난 자꾸 공부가 하기 싫어서 책상 앞에 앉아있는 것도 너무 힘들다.",
+      "sentence_corr_txt_styling": "시험기간에는 공부를 해야 되는데 난 자꾸 공부가 하기 싫어서 책상 앞에 앉아있는 것도 너무 힘들다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 자꾸 공부를 하다 말고 자꾸 침대에 눕거나 거실로 놀러 나간다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 난 자꾸 공부를 하다 말고 자꾸 침대에 눕거나 거실로 <문법_조사>놀러를 </문법_조사>나간다.",
+      "sentence_corr_txt_styling": " 난 자꾸 공부를 하다 말고 자꾸 침대에 눕거나 거실로 놀러 나간다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이게 나쁜 습관인 건 잘 알고 있지만 고치는 게 너무 어려워 보여서 계속 안 고치고 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이게 <문법_맞춤법>나쁜습관인 </문법_맞춤법>건 잘 알고 있지만 고치는 게 너무 어려워 보여서 계속 안 고치고 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집중이 안 된다고 자리에서 자꾸 일어나는 습관부터 고쳐야 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 집중이 안 된다고 자리에서 자꾸 일어나는 습관부터 <문법_맞춤법><문법_어미>고쳐야됬다.</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 다음 문제는 의자에 오래 앉아있기가 어렵다는 문제였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 다음 문제는 의자에 <문법_맞춤법>오리 </문법_맞춤법>앉아있기가 어렵다는 문제였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 한 시간이라도 앉아있으려고 꾹 참았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>한시간이라도 </문법_맞춤법>앉아있으려고 꾹 참았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 참다가 보니, 한 시간 앉아있는 것은 정말 쉬운 일이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 참다가 보니, <문법_맞춤법>한시간 </문법_맞춤법>앉아있는 것은 정말 쉬운 일이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 열심히 노력한 덕분에 나는 이제 가만히 앉아서 한 시간 이상 동안 집중을 하고 공부를 할 수 있게 되었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 열심히 노력한 덕분에 나는 이제 가만히 앉아서 <문법_맞춤법>한시간 </문법_맞춤법>이상동안 집중을 하고 공부를 할 수 있게 되었다.",
+      "sentence_corr_txt_styling": " 열심히 노력한 덕분에 나는 이제 가만히 앉아서 한 시간 이상 동안 집중을 하고 공부를 할 수 있게 되었다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56878",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 403,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

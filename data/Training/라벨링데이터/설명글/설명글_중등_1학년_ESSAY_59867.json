@@ -1,0 +1,219 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승이라고 하면 가장 먼저 내 초등학교 6학년 때 선생님이 떠오른다.#@문장구분# 선생님은 항상 친구들 한명 한명의 마음을 보살펴 주시면서 친구들끼리 싸웠을 때도 친구들 모두의 의견을 경청해주시기 때문이다. #@문장구분#나는 선생님의 그런 모습이 정말 감사했다.#@문장구분# 내가 친한 친구랑 싸웠을 때도 다른 선생님들이랑은 다르게 나랑 친구 모두의 말을 들어주셨다.#@문장구분# 그리고 또, 선생님은 항상 한줄 일기를 아침마다 쓰시게 하셨다.#@문장구분# 매일 한줄씩 일기를 써서 선생님과 소통했다.#@문장구분# 한줄 일기로 선생님과 매일 속마음을 얘기할 수 있어서 그것도 너무 좋았다. #@문장구분#선생님은 한줄 일기로 내가 엄마랑 싸웠을 때도 속상함을 달래주셨다. #@문장구분#선생님과 몰래 비밀일기를 쓰는 느낌이었어서 아직도 많이 기억에 남는다.#@문장구분# 내 마음을 알아주려고 하시는 선생님은 정말 멋진 스승님이다.#@문장구분#",
+      "paragraph_len": 602,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.95,
+      20.5,
+      22
+    ],
+    "essay_scoreT_avg": 22.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 선생님은 항상 친구들 한 명 한 명의 마음을 보살펴 주시면서 친구들끼리 싸웠을 때도 친구들 모두의 의견을 경청해 주셨기 때문이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " 선생님은 항상 친구들 <문법_맞춤법>한명 한명의</문법_맞춤법> 마음을 보살펴 주시면서 친구들끼리 싸웠을 때도 친구들 모두의 의견을 <문법_시제>경청해주시기</문법_시제> 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또, 선생님은 항상 한 줄 일기를 아침마다 쓰게 하셨다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 또, 선생님은 항상 <문법_맞춤법>한줄</문법_맞춤법> 일기를 아침마다 <문법_높임법>쓰시게</문법_높임법> 하셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 매일 한 줄씩 일기를 써서 선생님과 소통했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 매일 <문법_맞춤법>한줄씩</문법_맞춤법> 일기를 써서 선생님과 소통했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "선생님은 한 줄 일기로 내가 엄마랑 싸웠을 때도 속상함을 달래주셨다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "선생님은 <문법_맞춤법>한줄</문법_맞춤법> 일기로 내가 엄마랑 싸웠을 때도 속상함을 달래주셨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_59867",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 403,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 남들 앞에서는 말을 잘 못하고,처음 본 사람들 앞에서는 원하는 것,기본적인 것 조차도 해결을 못하는 경우가 많다.#@문장구분#그런 이유로 남들 앞엣거  말을 잘 하고, 사람들을 이끌어가는 국민 MC 유재석이 내가 가장 닮고 싶고, 되고 싶은 사람이다.#@문장구분#\n 유재석은 mbti가 나와 똑같이 'I'이지만 방송에서는 말을 너무 잘하고,사람들을 잘 이끌어서 나는 유재석이 외향성'E'인 줄 알았다.#@문장구분#나는 유재석의 자기관리 능력도 닮고 싶다.#@문장구분#유재석은 50살인 지금도 운동할 때 2시간 30분 정도 한다고 한다.#@문장구분#자신의 근육량에 놀라 운동을 시작했다고 하는데,나였으면 그러지 못했을것 같다.#@문장구분#또 유재석은 흡연자 였는데 체력관리의 중요성을 절감하면서 담배를 끊기로 마음 먹었다고 한다#@문장구분#.지금은 비흡연자이다.#@문장구분#그렇게 마음먹은 일을 성공할 수 있다니,난 그런적이 적다.#@문장구분#\n 언제나 이렇게 소심하게 생활하고 싶지 않기 때문에 내가 좋아하는 유재석을 보면서 배우고,나만의 방법을 찾아야 할 것이다.#@문장구분#",
+      "paragraph_len": 680,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      21.85,
+      22.65
+    ],
+    "essay_scoreT_avg": 23.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.17",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "051",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 남들 앞에서는 말을 잘 못하고,처음 본 사람들 앞에서는 원하는 것, 기본적인 것 조차도 해결을 못하는 경우가 많다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 남들 앞에서는 말을 잘 못하고,처음 본 사람들 앞에서는 원하는 <문법_맞춤법>것,기본적인</문법_맞춤법> 것 조차도 해결을 못하는 경우가 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런 이유로 남들 앞에서  말을 잘 하고, 사람들을 이끌어가는 국민 MC 유재석이 내가 가장 닮고 싶고, 되고 싶은 사람이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런 이유로 남들 <문법_맞춤법>앞엣거</문법_맞춤법>  말을 잘 하고, 사람들을 이끌어가는 국민 MC 유재석이 내가 가장 닮고 싶고, 되고 싶은 사람이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇게 마음먹은 일을 성공할 수 있다니, 난 그런 적이 적다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇게 마음먹은 일을 성공할 수 <문법_맞춤법>있다니,난 그런적이 적다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_54961",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 482,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

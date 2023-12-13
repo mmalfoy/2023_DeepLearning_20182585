@@ -1,0 +1,216 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승은 개개인의 재능을 이끌어내줄 수 있는 사람이라고 생각한다.#@문장구분# 수많은 학생들이 각자의 재능을 가지고 있지만 보통 일반적인 선생님은 학생들을 모두 똑같은 수업 방식으로 가르치기 때문에 학생들 개개인에게 관심을 다 완벽하게 가질수는 없는 것이 현실이다.#@문장구분# 그럼에도 불구하고 그 속에서 학생들의 잠재적인 재능을 이끌어줄 수 있는 선생님이 참된 스승이라고 생한다.#@문장구분# 그렇게 되기 위해서는 기본적으로 학생들 한명 한명에 대한 관찰과 탐구는 필수적일 것이며 학생들과 원만하게 관계를 유지해나가면서 선생님이 관찰했을 때 학생에게 이런 강점이 있겠다를 이끌어내주고 알려주는 그런 사람이 마땅히 참된 스승으로서 자격을 가질 수 있다고 생각한다.#@문장구분# 그렇게 된다면 보다 많은 사람들이 사회에 자신의 재능을 찾아서 직업으로 삼는 현상이 많아질 것이고 그 것의 시작에는 선생님이 있을 것이다.#@문장구분#",
+      "paragraph_len": 531,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      23.3,
+      23.05
+    ],
+    "essay_scoreT_avg": 24.283333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "참된 스승은 개개인의 재능을 이끌어낼 수 있는 사람이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "참된 스승은 개개인의 재능을 <문법_기타>이끌어내줄</문법_기타> 수 있는 사람이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 되기 위해서는 기본적으로 학생들 한 명 한 명에 대한 관찰과 탐구는 필수적일 것이다. 학생들과 원만하게 관계를 유지하면서 선생님이 관찰했을 때 학생에게 이런 강점이 있겠다를 이끌어내주고 알려주는 그런 사람이 마땅히 참된 스승의 자격을 가질 수 있다고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그렇게 되기 위해서는 기본적으로 학생들 <문법_맞춤법>한명 한명에</문법_맞춤법> 대한 관찰과 탐구는 필수적일 <문법_어미><문법_기타>것이며</문법_기타></문법_어미> 학생들과 원만하게 관계를 유지해나가면서 선생님이 관찰했을 때 학생에게 이런 강점이 있겠다를 이끌어내주고 알려주는 그런 사람이 마땅히 참된 <문법_조사>스승으로서</문법_조사> 자격을 가질 수 있다고 생각한다.",
+      "sentence_corr_txt_styling": " 그렇게 되기 위해서는 기본적으로 학생들 한 명 한 명에 대한 관찰과 탐구는 필수적일 것이다. 학생들과 원만하게 관계를 유지하면서 선생님이 관찰했을 때 학생에게 이런 강점이 있겠다를 이끌어내주고 알려주는 그런 사람이 마땅히 참된 스승의 자격을 가질 수 있다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 된다면 보다 많은 사람들이 사회에서 자신의 재능을 찾아서 직업으로 삼는 현상이 많아질 것이고 그것의 시작에는 선생님이 있을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그렇게 된다면 보다 많은 사람들이 <문법_조사>사회에</문법_조사> 자신의 재능을 찾아서 직업으로 삼는 현상이 많아질 것이고 <문법_맞춤법>그 것의</문법_맞춤법> 시작에는 선생님이 있을 것이다.",
+      "sentence_corr_txt_styling": " 그렇게 된다면 보다 많은 사람들이 사회에서 자신의 재능을 찾아서 직업으로 삼는 현상이 많아질 것이고 그것의 시작에는 선생님이 있을 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_59766",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 432,
+    "essay_main_subject": "참된 스승"
+  }
+}

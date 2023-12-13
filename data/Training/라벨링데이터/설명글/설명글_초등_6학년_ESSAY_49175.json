@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 제일 존경하는 위인은 세종대왕이십니다.#@문장구분# 그 이유는 첫째, 훈민정음을 창조하셨기 때문입니다. #@문장구분#지금 제가쓰고 있는것도 훈민정음입니다. #@문장구분#한글이라고도 불리는 훈민정음은 매우 과학적인 문자 입니다. #@문장구분#ㄱ, ㄴ, ㅁ, ㅅ, ㅇ은자음의 기본으로 발성 기관이나 모습을보고 만들어졌습니다.#@문장구분# 나머지는 몇개의힘이 더해졌습니다.#@문장구분# 둘째, 백성에게 태평성대를 열어주었습니다. #@문장구분#세종대왕님은훈민정음을 창조하기도 하셨지만 또 다른 일들도 하셨습니다.#@문장구분# 에를 들어서 새로운 세금제도를 실시하여 농민들의 부담을 덜어준다던지, 또는 임산부와 그남편에게 휴식을 주어 건강한 상태로출산을 하도록 도와주는 제도를 실시하는등의 일들을 남겼습니다. #@문장구분#저는 이렇게 자신을 생각하지 않고 백성들을 더먼저 생각하신 세종대왕님이 자랑스럽고존경스럽습니다.#@문장구분#",
+      "paragraph_len": 592,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.15,
+      24.3,
+      25.5
+    ],
+    "essay_scoreT_avg": 25.983332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "지금 제가 쓰고 있는 것도 훈민정음입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금 <문법_맞춤법>제가쓰고</문법_맞춤법> 있는것도 훈민정음입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "한글이라고도 불리는 훈민정음은 매우 과학적인 문자입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "한글이라고도 불리는 훈민정음은 매우 과학적인 문<문법_맞춤법>자 입</문법_맞춤법>니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "ㄱ, ㄴ, ㅁ, ㅅ, ㅇ은 자음의 기본으로 발성 기관이나 모습을 보고 만들어졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "ㄱ, ㄴ, ㅁ, ㅅ, ㅇ은<문법_맞춤법>자음의</문법_맞춤법> 기본으로 발성 기관이나 모습을보고 만들어졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나머지는 몇개의 힘이 더해졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나머지는 <문법_맞춤법>몇개의힘이 </문법_맞춤법>더해졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세종대왕님은 훈민정음을 창조하기도 하셨지만 또 다른 일들도 하셨습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>세종대왕님은훈민정음을 </문법_맞춤법>창조하기도 하셨지만 또 다른 일들도 하셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 에를 들어서 새로운 세금제도를 실시하여 농민들의 부담을 덜어준다든지, 또는 임산부와 그 남편에게 휴식을 주어 건강한 상태로 출산을 하도록 도와주는 제도를 실시하는 등의 일들을 남겼습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 에를 들어서 새로운 세금제도를 실시하여 농민들의 부담을 <문법_맞춤법>덜어준다던지</문법_맞춤법>, 또는 임산부와 그남편에게 휴식을 주어 건강한 상태로출산을 하도록 도와주는 제도를 실시하는등의 일들을 남겼습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 이렇게 자신을 생각하지 않고 백성들을 더 먼저 생각 하신 세종대왕님이 자랑스럽고 존경스럽습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 이렇게 자신을 생각하지 않고 백성들을 <문법_맞춤법>더먼저 </문법_맞춤법>생각하신 세종대왕님이 자랑스럽고존경스럽습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49175",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 393,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

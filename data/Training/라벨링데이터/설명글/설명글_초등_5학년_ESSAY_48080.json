@@ -1,0 +1,320 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 사회,체육을 좋아합니다.#@문장구분# 제가회를좋아하는 이유는 저는 약4살때부터옛날이야기를 좋아했습니다.#@문장구분# 그러면서 한국사를 좋아하고 책을 읽기 시작 했습니다.#@문장구분# 그런데 5학년 2학기 사회에역사로 나오니 물만난 물고기 이었군.#@문장구분#원래부터 사회성적이 좋아서 사회할때 좋았는데 한국사를하니 더기분이 좋아졌습니다.#@문장구분# 그런데 기분탓 인지 우리역사를 많이 배우고 좋아하게 되니까 영어를 싫어하게되었습니다.#@문장구분# 그래서 전 영어를 싫어합니다.#@문장구분# 그리고 제가 체육을 좋아하는 이유는 저는 운동신경이 그리뛰어나지는 않았지만 주말에 자전거를 타니까 운동에 몸이 베었는데 학교에서일주일에 세번씩 체육을 하니 체육을 더 좋아하게 되었습니다.#@문장구분#체육은 티볼,야구,대구,축구,등처럼 체육은 움직이고 뛰는것 이기때문에 반면 앉아서하는미술을 조금 싫어하게 되었습니다.#@문장구분# 저는 이처럼 이야기 했드시 저는 체육과사회를 굉장히,취미처럼 즐기면서 좋아합니다.#@문장구분#",
+      "paragraph_len": 644,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.666668,
+      23.64762,
+      22.733334
+    ],
+    "essay_scoreT_avg": 21.68254,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 사회, 체육을 좋아합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>사회,체육을</문법_맞춤법> 좋아합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 제가회를좋아하는 이유는 저는 약4살때부터옛날이야기를 좋아했습니다.",
+      "sentence_corr_txt_styling": " 제가회를좋아하는 이유는 저는 약4살때부터옛날이야기를 좋아했습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면서 한국사를 좋아하고 책을 읽기 시작했습니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면서 한국사를 좋아하고 책을 읽기 <문법_맞춤법>시작 했습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 5학년 2학기 사회에 역사가 나오니 물 만난 물고기와 같았습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 그런데 5학년 2학기 <문법_조사>사회에역사로</문법_조사> 나오니 <문법_맞춤법><문법_높임법>물만난 물고기 이었군.</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "원래부터 사회 성적이 좋아서 사회가 좋았는데 한국사를 하니 더 기분이 좋아졌습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "원래부터 <문법_맞춤법><문법_조사>사회성적이 좋아서 사회할때 좋았는데 한국사를하니 더기분이 좋아졌습니다.</문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 기분 탓인지 우리 역사를 많이 배우고 좋아하게 되니까 영어를 싫어하게 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그런데 기분탓 인지 우리역사를 많이 배우고 좋아하게 되니까 영어를 싫어하게되었습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 제가 체육을 좋아하는 이유는 저는 운동신경이 그리 뛰어나지는 않았지만 주말에 자전거를 타니까 운동에 몸이 배었는데 학교에서 일주일에 세 번씩 체육을 하니 체육을 더 좋아하게 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 제가 체육을 좋아하는 이유는 저는 운동신경이 <문법_맞춤법>그리뛰어나지는</문법_맞춤법> 않았지만 주말에 자전거를 타니까 운동에 몸이 베었는데 학교에서일주일에 세번씩 체육을 하니 체육을 더 좋아하게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "체육은 티볼, 야구, 대구, 축구 등처럼 움직이고 뛰는 것인 반면 앉아서 하는 미술을 조금 싫어하게 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어미>체육은 티볼,야구,대구,축구,등처럼 체육은 움직이고 뛰는것 이기때문에 반면 앉아서하는미술을 조금 싫어하게 되었습니다.</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 저는 이처럼 이야기 했드시 저는 체육과사회를 굉장히,취미처럼 즐기면서 좋아합니다.",
+      "sentence_corr_txt_styling": " 저는 이처럼 이야기 했드시 저는 체육과사회를 굉장히,취미처럼 즐기면서 좋아합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48080",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 445,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

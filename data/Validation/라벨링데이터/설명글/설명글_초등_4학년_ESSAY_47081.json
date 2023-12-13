@@ -1,0 +1,281 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가좋아하는 것:게임 만화 피구#@문장구분# \n 내가 좋아하는사람:동생 엄마 우리학교 선생님#@문장구분#\n 나랑제일친한친구:인재 시후 동생#@문장구분#\n 내가싫어하는것:공부 파프리카 호박#@문장구분#\n 보통:학교 집 태권#@문장구분#\n 이공시지않는곳:학원#@문장구분#\n 좋아하는음식:계란찜 어묵볶음 김치복음밥 고구마끝입니다.#@문장구분# 않니고 내가좋아하는 장난감 로봇 팽이 딱지 찌개찌개놀ㄹ이 그리고 내가좋아하는과자 포카칩 내가좋아하는음료수 사과주스 오랜지주스 환타오렌지 환탄 사이다 콜라 끝#@문장구분#",
+      "paragraph_len": 387,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          0.85714287
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 0.95238096,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      10.666667,
+      10.333333,
+      9.761905
+    ],
+    "essay_scoreT_avg": 10.253968,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 좋아하는 것은 게임, 만화, 피구이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>내가좋아하는</문법_맞춤법> <문법_조사><문법_기타>것:게임</문법_기타></문법_조사> 만화 피구",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 내가 좋아하는 사람은 동생, 엄마, 우리 학교 선생님이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " \n 내가 <문법_맞춤법><문법_조사><문법_기타>좋아하는사람:동생</문법_기타></문법_조사></문법_맞춤법> 엄마 우리학교 선생님",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 내가 싫어하는 것은 공부, 파프리카, 호박이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": "\n <문법_맞춤법><문법_기타>내가싫어하는것:공부</문법_기타></문법_맞춤법> 파프리카 <문법_조사>호박</문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 보통인 것은 학교, 집, 태권도이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "\n <문법_조사><문법_기타>보통:학교</문법_기타></문법_조사> 집 태권",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 좋아하는 음식은 계란찜, 어묵볶음, 김치복음밥, 고구마입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "\n <문법_맞춤법><문법_조사>좋아하는음식:</문법_조사></문법_맞춤법><문법_기타>계란찜 어묵볶음 김치복음밥 고구마끝입니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 않니고 내가 좋아하는 장난감은 로봇, 팽이, 딱지, 찌개찌개 놀이 그리고 내가좋아하는과자 포카칩 내가 좋아하는 음료수, 사과주스, 오랜지주스, 환타 오렌지, 사이다, 콜라입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " 않니고 <문법_맞춤법>내가좋아하는</문법_맞춤법> <문법_조사>장난감</문법_조사> <문법_기타>로봇 팽이 딱지 찌개찌개놀ㄹ이</문법_기타> 그리고 <문법_맞춤법>내가좋아하는</문법_맞춤법>과자 포카칩 <문법_맞춤법>내가좋아하는</문법_맞춤법>음료수 <문법_어미>사과주스 오랜지주스 환타오렌지 환탄 사이다 콜라 끝</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47081",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 227,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

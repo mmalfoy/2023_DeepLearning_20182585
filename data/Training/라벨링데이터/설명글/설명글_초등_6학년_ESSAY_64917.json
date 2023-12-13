@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 세종대왕님을 존경을 합니다.#@문장구분# 세종대왕님은 국민이 한자를 공부하는 것은 어려우니 더 쉬운글자인 한글을 만들어 국민들에게 알렸습니다.#@문장구분# 그리고 천민인 장영실의 능력을 보고 장영실이 유명한 해시계 앙부일구를 발명했습니다.#@문장구분# 저는 이런 세종대왕님을 존경하지만 이순신을 존경하기도 해요.#@문장구분# 유명한 전쟁들 명량해전으로 불가능한 전쟁이었지만 작전으로 그불가능한 전쟁을 이겼습니다.#@문장구분# 저는 존경하는사람 2명을 말했는데 저는 그래도 어머니를 가장 존경해요.#@문장구분# 항상 힘든 설거지도 하시고 빨래도 하시고 반찬도 하고 저희를 사랑을 해주시고 저희 어머니는 일도가시는데 어머니 는 슈퍼맨 인가 봅니다.#@문장구분# 사실은 힘드시면서 힘든척안하고 저흴 사랑해주시는 어머니가 저는 가장 존경하는 사람인거 같습니다.#@문장구분# 전국에있는 어머니분들 화이팅!#@문장구분# 저는 가장존경하는 사람 3명  세종대왕, 이순신, 어머니를 소개해 봤어요.#@문장구분# 여러분의 생각은 어떠신가요? #@문장구분#저는 세종대왕, 이순신도 큰업적을 해내 존경하지만, 저는 어머님을 더 존경하는거 같습니다.#@문장구분# 여러분은 누굴가장 존경하나요?#@문장구분#",
+      "paragraph_len": 778,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.9,
+      22,
+      20.9
+    ],
+    "essay_scoreT_avg": 21.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님은 국민이 한자를 공부하는 것은 어려우니 더 쉬운 글자인 한글을 만들어 국민들에게 알렸습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕님은 국민이 한자를 공부하는 것은 어려우니 더 <문법_맞춤법>쉬운글자인 </문법_맞춤법>한글을 만들어 국민들에게 알렸습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유명한 전쟁들 명량해전으로 불가능한 전쟁이었지만 작전으로 그 불가능한 전쟁을 이겼습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 유명한 전쟁들 명량해전으로 불가능한 전쟁이었지만 작전으로 <문법_맞춤법>그불가능한 </문법_맞춤법>전쟁을 이겼습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 존경하는 사람 2명을 말했는데 저는 그래도 어머니를 가장 존경해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>존경하는사람 </문법_맞춤법>2명을 말했는데 저는 그래도 어머니를 가장 존경해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 항상 힘든 설거지도 하시고 빨래도 하시고 반찬도 하고 저희를 사랑을 해주시고 저희 어머니는 일도 가시는데 어머니 는 슈퍼맨 인가 봅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 항상 힘든 설거지도 하시고 빨래도 하시고 반찬도 하고 저희를 사랑을 해주시고 저희 어머니는 <문법_맞춤법>일도가시는데 </문법_맞춤법>어머니 는 슈퍼맨 인가 봅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사실은 힘드시면서 힘든 척 안 하고 저희를 사랑해 주시는 어머니가 저는 가장 존경하는 사람인 거 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사실은 힘드시면서 <문법_맞춤법>힘든척안하고 저흴 사랑해주시는 어머니가 저는 가장 존경하는 사람인거</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전국에 있는 어머니분들 파이팅!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>전국에있는 </문법_맞춤법>어머니분들 화이팅!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 가장 존경하는 사람 3명  세종대왕, 이순신, 어머니를 소개해 봤어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>가장존경하는 </문법_맞춤법>사람 3명  세종대왕, 이순신, 어머니를 소개해 봤어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 세종대왕, 이순신도 큰 업적을 해내 존경하지만, 저는 어머님을 더 존경하는 거 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 세종대왕, 이순신도 <문법_맞춤법>큰업적을 </문법_맞춤법>해내 존경하지만, 저는 어머님을 더 존경하는거 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분은 누굴 가장 존경하나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여러분은 <문법_맞춤법>누굴가장 </문법_맞춤법>존경하나요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64917",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 519,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "EH 지금 학교를 다니고 있습니다. #@문장구분#그래서 더 공감이 되네요. #@문장구분#반에서 친구들이 같이 놀 때도 있고 가끔씩 심하게 놀릴 때도 있지요. #@문장구분#그래도 나는 친해지려고 노력합니다. #@문장구분#친구들이 같이 놀아줄 때 의욕이 없긴 하지만 같이 놀아줍니다.#@문장구분# 친구들끼리 놀다 장난을 쳐도 친구가 잘 받아줘도 진짜 친구일까요? #@문장구분#진짜 친구가 될까요? #@문장구분#중학교에서도 고등학교에서도 친구가 인사만 해주면 친구인가요? #@문장구분#당신의 친구가 무엇을 시키거나 놀렸을 땐 그때부턴 친구보다 노예에 가깝습니다. #@문장구분#그럴 땐 가만히 받아주지 말고 당당히 말하세요.#@문장구분# \"그만해\" 그러면 그 친구도 다신 그러지 않을 겁니다. #@문장구분#그 친구가 당신에게 하는 태도 행동 그걸 보고 당신이 진정한 친구인지 아닌지 구분하세요.",
+      "paragraph_len": 583,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.6,
+      12.25,
+      10.5
+    ],
+    "essay_scoreT_avg": 12.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.11",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 지금 학교를 다니고 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>EH</문법_맞춤법> 지금 학교를 다니고 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53684",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 364,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

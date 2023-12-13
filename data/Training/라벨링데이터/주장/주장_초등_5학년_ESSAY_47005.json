@@ -1,0 +1,376 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "피부색이 달라도 다같은 한국인이다.#@문장구분# 그러니 똑같이 대한다#@문장구분# 더 잘해줄려고 배려해주는걸 차별이라고 느낀다#@문장구분# 그러니 배려하지 않고 똑같이대한다.#@문장구분# 그리고 피부색 전통 등이 다르다고 따돌림을 하는데 다다르지 않은 피부색만 다른 한국인이다 #@문장구분#그러니 잘대해주고 똑같이대하고 따돌림하지않고 친구와 사이좋게 지내자 #@문장구분#사람들은 편견으로 냄새가 난다 드럽다 이상하다 이런편견을 가지고있다.#@문장구분# 하지만 드러운걸본적도없고 냄새도맛지않고 하지만 냄새가 날수도 있다#@문장구분# 근데 다른에들은 냄새가 않나는 것도 아니다#@문장구분# 샴푸가 다르고 향수를 뿌리고 왔을수도있다 #@문장구분#그러니 똑같이 받아드리자",
+      "paragraph_len": 501,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.2,
+      16.285713,
+      21.2
+    ],
+    "essay_scoreT_avg": 17.22857,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "피부색이 달라도 다 같은 한국인이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "피부색이 달라도 <문법_맞춤법>다같은</문법_맞춤법> 한국인이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니 똑같이 대해야 한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 그러니 똑같이 <문법_조사><문법_어미><문법_기타>대한다</문법_기타></문법_어미></문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 더 잘해주려고 하고 배려해주는 게 차별이라고 느낀다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 더 <문법_맞춤법><문법_조사>잘해줄려고</문법_조사></문법_맞춤법> <문법_기타>배려해주는걸</문법_기타> 차별이라고 느낀다",
+      "sentence_corr_txt_styling": " 더 잘해주려고 하고 배려해주는 게 차별이라고 느낀다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니 배려하지 않고 똑같이 대한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그러니 배려하지 않고 <문법_맞춤법>똑같이대한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": " 그러니 배려하지 않고 똑같이 대한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 피부색, 전통 등이 다르다고 따돌림을 하는데 다 다르지 않은 피부색만 다른 한국인이다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 <문법_기타>피부색</문법_기타> 전통 등이 다르다고 따돌림을 하는데 <문법_맞춤법>다다르지</문법_맞춤법> 않은 <문법_기타>피부색</문법_기타>만 다른 한국인이다 ",
+      "sentence_corr_txt_styling": " 그리고 피부색, 전통 등이 다르다고 따돌림을 하는데 다 다르지 않은 피부색만 다른 한국인이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 잘 대해주고, 똑같이 대하고, 따돌림하지 않고 친구와 사이좋게 지내자. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그러니 <문법_맞춤법><문법_기타>잘대해주고</문법_기타></문법_맞춤법> 똑같이대하고 따돌림하지않고 친구와 사이좋게 지내자 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들은 편견으로 냄새가 난다고, 더럽다고, 이상하다고 이런편견을 가지고 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "사람들은 편견으로 냄새가 <문법_어미><문법_기타>난다</문법_기타></문법_어미> <문법_맞춤법>드럽다</문법_맞춤법> 이상하다 이런편견을 가지고있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 더러운 걸 본 적도 없고, 냄새도 맡지 않지만 냄새가 날 수도 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법><문법_기타>드러운걸본적도없고</문법_기타></문법_맞춤법> 냄새도맛지않고 하지만 냄새가 날수도 있다",
+      "sentence_corr_txt_styling": " 하지만 더러운 걸 본 적도 없고, 냄새도 맡지 않지만 냄새가 날 수도 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 다른 애들도 냄새가 안 나는 것도 아니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 근데 <문법_맞춤법><문법_어미>다른에들은</문법_어미></문법_맞춤법> 냄새가 않나는 것도 <문법_기타>아니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 샴푸가 다르고 향수를 뿌리고 왔을 수도 있다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 샴푸가 다르고 향수를 뿌리고 <문법_맞춤법><문법_기타>왔을수도있다</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 똑같이 받아들이자.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그러니 똑같이 <문법_맞춤법><문법_기타>받아드리자</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47005",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 302,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

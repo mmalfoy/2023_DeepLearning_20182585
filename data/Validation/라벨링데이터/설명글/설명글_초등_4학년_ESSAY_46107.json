@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 학습활동은 하루에 5~6 시간 정도하고,여가활동은 2~3 시간 정도 합니다.#@문장구분# 그리고 저는 여가활동을 주로 게임(친구들과 게임), 밖에서 놀기 (친구들과 함께놀기),영상보기,친구랑 집에서 놀기(게임,영상보기 등등),간식먹으면서놀기(치킨,피자,과자,햄버거,아이스크림 등등),그리고 제가 고쳐야할 여가활동은 과자,아이스크림,치킨,피자,햄버거 등등 많이먹지않기 그리고 제가 좋아하는 여가활동은 게임,영상보기,간식먹기를 좋아합니다.#@문장구분# 그리고 앞으로 제가 하고싶은 여가 할동은 없습니다.#@문장구분# 왜냐하면 이미 하고싶은 여가활동은 하고싶은데로 하고있기 때문입니다.#@문장구분# 그리고 저는 여가활동이 없으면 힘을써서 아무것도 못할정도로 텐션이 내려갈정도로요.#@문장구분# 비슷한게 학생이 주말을 뼈빠지게 기다리는 것처럼요.#@문장구분# 그리고 여가활동이 없다면 학습할동을 하는 것이 재미가 있지도 않을 것 같습니다.#@문장구분#",
+      "paragraph_len": 566,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          2.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.047619,
+      23.419048,
+      15.085714
+    ],
+    "essay_scoreT_avg": 18.184128,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.29",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 학습활동은 하루에 5~6 시간 정도 하고, 여가활동은 2~3 시간 정도 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 학습활동은 하루에 5~6 시간 <문법_맞춤법>정도하고,여가활동은</문법_맞춤법> 2~3 시간 정도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 저는 여가활동을 주로 게임(친구들과 게임), 밖에서 놀기 (친구들과 함께 놀기), 영상 보기, 친구랑 집에서 놀기(게임, 영상 보기 등등), 간식 먹으면서 놀기(치킨, 피자, 과자, 햄버거, 아이스크림 등등), 그리고 제가 고쳐야 할 여가 활동은 과자, 아이스크림, 치킨, 피자, 햄버거 등등 많이 먹지 않기 그리고 제가 좋아하는 여가활동은 게임, 영상 보기, 간식 먹기를 좋아합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 저는 여가활동을 주로 게임(친구들과 게임), 밖에서 놀기 (친구들과 <문법_맞춤법>함께놀기),영상보기,친구랑 집에서 놀기(게임,영상보기 등등),간식먹으면서놀기(치킨,피자,과자,햄버거,아이스크림 등등),그리고</문법_맞춤법> 제가 고쳐야할 여가활동은 과자,아이스크림,치킨,피자,햄버거 등등 많이먹지않기 그리고 제가 좋아하는 여가활동은 게임,영상보기,간식먹기를 좋아합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 앞으로 제가 하고 싶은 여가 활동은 없습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 앞으로 제가 <문법_맞춤법>하고싶은 여가 할동은 없습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 이미 하고 싶은 여가 활동은 하고 싶은 데로 하고 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 이미 <문법_맞춤법>하고싶은 여가활동은 하고싶은데로 하고있기</문법_맞춤법> 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 저는 여가활동이 없으면 힘을 써서 아무것도 못 할 정도로 텐션이 내려갈 정도로요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 저는 여가활동이 없으면<문법_맞춤법> 힘을써서 아무것도 못할정도로 텐션이 내려갈정도로요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 비슷한 게 학생이 주말을 뼈 빠지게 기다리는 것처럼요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>비슷한게 학생이 주말을 뼈빠지게 기다리는 것처럼요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 여가활동이 없다면 학습활동을 하는 것이 재미가 있지도 않을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 여가활동이 없다면 <문법_맞춤법>학습할동을</문법_맞춤법> 하는 것이 재미가 있지도 않을 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46107",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 426,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

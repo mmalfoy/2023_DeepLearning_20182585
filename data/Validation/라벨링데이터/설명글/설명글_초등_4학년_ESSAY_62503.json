@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘은 화장이 자기만족인 시대입니다.#@문장구분# 화장이 대중화 되었고 저희 초등학교 친구들 사이에서도 쉽개 찾아볼 수 있습니다.#@문장구분# 또 유튜브에도 흔히 메이크업 영상이라고 해서 인기를 얻는 영상들도 많습니다.#@문장구분# 저는 학교가 끝난 후 각각의 색다른 메이크업을 공부하고 관찰하여 직접 해봅니다.#@문장구분# 메이크업을 하면서 스스로의 변한 모습에 반하기도 하고 멋지다고 생각하면서 뽕이 차오릅니다.#@문장구분# 그래서 더 더 흥미가 생기고 다양한 방법으로 해보고 싶습니다.#@문장구분# 다만 화장품비용이 쉽지 않고 몸에도 어릴 때부터 닿으면 좋지 않다는 소리도 많이 들었습니다.#@문장구분# 그래서 저는 이런 여가활동을 통해서 나중에 몸에 해롭지 않은 화장품 브랜드를 만들것이라 다짐하였습니다.#@문장구분#",
+      "paragraph_len": 509,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.8,
+      24.4,
+      19.419048
+    ],
+    "essay_scoreT_avg": 23.539682,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 화장이 대중화되었고 저희 초등학교 친구들 사이에서도 쉽게 찾아볼 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 화장이 <문법_맞춤법>대중화 되었고 저희 초등학교 친구들 사이에서도 쉽개</문법_맞춤법> 찾아볼 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 이런 여가활동을 통해서 나중에 몸에 해롭지 않은 화장품 브랜드를 만들 것이라 다짐하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 이런 여가활동을 통해서 나중에 몸에 해롭지 않은 화장품 브랜드를 <문법_맞춤법>만들것이라</문법_맞춤법> 다짐하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62503",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 349,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

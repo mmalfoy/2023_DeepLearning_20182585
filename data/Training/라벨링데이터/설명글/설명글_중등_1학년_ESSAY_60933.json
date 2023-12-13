@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 휴대폰을 너무 많이 한다.#@문장구분#휴대폰을 한번 하기 시작하면 멈출 수가 없다.#@문장구분# 그래서 나는 휴대폰 중독인 것 같다.#@문장구분# 아침에 눈을 떠서 밤에 눈을 감을 때까지 나는 휴대폰을 손에서 놓지 못한다.#@문장구분# 친구들과 연락을 하기도 하고,sns를 하기도 하고,유튜브로 재미있는 영상을 찾아보기도 한다.#@문장구분# 친구들과 연락을 하다가 중간에 끊기면 내가 말실수를 했나?내가 무슨 잘못을 했나?라는 불안함이 생기기도 한다.#@문장구분# 또 sns를 너무 많이 봐서 더 이상 볼게 없는데도 계속해서 핸드폰을 잡고 있다.#@문장구분# 또 유튜브로 영상을 알고리즘에 따라서 계속 보다보면 시간이 너무 많이 가있어서 놀라기도 한다.#@문장구분# 그렇게 핸드폰만 보면서 시간을 보내다 보면,그러나가 저녁늦게까지 핸드폰을 하다가 정신을 차리면,하루종일 아무것도 안했나는 생각에 우울해지기도 한다.#@문장구분# 그래서 나는 내 핸드폰 중독을 고치고 싶다는 생각을 많이 한다.#@문장구분# 그래서 나는 지금부터라도 핸드폰을 사용하는 시간을 줄이기 위해서 핸드폰 앱을 깔아서 하루에 4시간 이상을 하지 않도록 노력하려고 한다.#@문장구분#",
+      "paragraph_len": 734,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      20.8,
+      22.55
+    ],
+    "essay_scoreT_avg": 23.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 친구들과 연락을 하다가 중간에 끊기면 내가 말실수를 했나?내가 무슨 잘못을 했나?라는 불안함이 생기기도 한다.",
+      "sentence_corr_txt_styling": " 친구들과 연락을 하다가 중간에 끊기면 내가 말실수를 했나?내가 무슨 잘못을 했나?라는 불안함이 생기기도 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 sns를 너무 많이 봐서 더 이상 볼 게 없는데도 계속해서 핸드폰을 잡고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 sns를 너무 많이 봐서 더 이상 <문법_맞춤법>볼게</문법_맞춤법> 없는데도 계속해서 핸드폰을 잡고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 유튜브로 영상을 알고리즘에 따라서 계속 보다 보면 시간이 너무 많이 가 있어서 놀라기도 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 유튜브로 영상을 알고리즘에 따라서 계속 <문법_맞춤법>보다보면</문법_맞춤법> 시간이 너무 많이 가있어서 놀라기도 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그렇게 핸드폰만 보면서 시간을 보내다 보면,그러나가 저녁늦게까지 핸드폰을 하다가 정신을 차리면,하루종일 아무것도 안했나는 생각에 우울해지기도 한다.",
+      "sentence_corr_txt_styling": " 그렇게 핸드폰만 보면서 시간을 보내다 보면,그러나가 저녁늦게까지 핸드폰을 하다가 정신을 차리면,하루종일 아무것도 안했나는 생각에 우울해지기도 한다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60933",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 515,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

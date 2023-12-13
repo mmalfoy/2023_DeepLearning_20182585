@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "건강한 몸을 만들기 위해서는 위생을 잘 갖추어야 합니다.#@문장구분# 여기서 위생이란 건강에 유익하도록 조건을 갖추는 것입니다.#@문장구분# 건강한 몸을 만들기 위해서는 운동과 식습관도 중요하지만 그중에서도 위생이 가장 중요합니다.#@문장구분#\n 위생을 지키는 방법은 아주 쉽습니다.#@문장구분# 하기는 쉬운데, 사람들이 안하는 이유는 귀찮기 때문입니다.#@문장구분# 먼저 외출을 하고 와서, 밥을 먹기 전에 손을 씻기입니다.#@문장구분# 요즘은 코로나 시대이니까 자주 씻습니다.#@문장구분# 비누를 뭇여서 30초 이상 흐르는 물에 씩기입니다.#@문장구분# 다음은 샤워입니다.#@문장구분# 샤워는 몸을 씻는 것입니다.#@문장구분# 샤워를 하면 몸이 깨끗해집니다.#@문장구분# 또 양치도 있습니다.#@문장구분# 칫솔로 이빨, 혀를 닦는 것입니다.#@문장구분# 양치는 하루에 2번만 하면 깨끗한 것입니다.#@문장구분# \n 저는 위생을 잘 지킵니다.#@문장구분# 외출을 하고 돌아오면 본능적으로 손을 씻습니다.#@문장구분# 학교에서도 급식을 먹기 전에 손을 씻습니다.#@문장구분# 또 저는 양치를 하루에 2번 합니다.#@문장구분# 외출하기 전, 자기 전에 합니다.#@문장구분# 샤워도 일주일에 3번 이상 합니다.#@문장구분# 머리는 매일 아침에 깜습니다.#@문장구분# 따라서 저는 위생을 잘 지킵니다.#@문장구분#\n 위생은 우리 모두에게 중요합니다.#@문장구분# 처음에는 귀찮아도 결국 잘했다는 생각이 들것입니다.#@문장구분# 그러니 지금부터라도 위생을 지키기 시작하세요!#@문장구분#",
+      "paragraph_len": 1097,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.8,
+      26.114285,
+      22.733334
+    ],
+    "essay_scoreT_avg": 23.882538,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 하기는 쉬운데, 사람들이 안 하는 이유는 귀찮기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하기는 쉬운데, 사람들이 <문법_맞춤법>안하는</문법_맞춤법> 이유는 귀찮기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 비누를 뭍혀서 30초 이상 흐르는 물에 씻기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 비누를 <문법_맞춤법>뭇여서 30초 이상 흐르는 물에 씩기입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51109",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 598,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

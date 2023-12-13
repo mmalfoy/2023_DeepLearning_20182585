@@ -1,0 +1,340 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서는 정말 많은 과목이 있습니다.#@문장구분# 제가 가장 좋아하는 과목은 사회입니다. (역사)#@문장구분#사회를 좋아하는 이유는 2학기때 사회에서 역사를 배우기때문 입니다.#@문장구분# 그리고 2학기에 배우는과목중 제일 재미있기 때문이다.#@문장구분# 사회는 역사중의 중요한것만 배운다.#@문장구분# 그래서 조금 아쉽지만 그래도 재미있습니다#@문장구분#사회에서배운것 중에 임진왜란이 좋았습니다.#@문장구분# 임진년에 왜가 처들어 와서 난리피운게 임진왜란입니다.#@문장구분# 세종대왕의업적은 농민들한테 중요한 농사적설 장영실과 집현전 학자들과 함께만드 해시계, 물시계, 혼천의 등 (앙부일구,자격루) 우리나라의 달려 칠정산을 만들었다.#@문장구분# 한자를 모르는 백성을 위해 훈민정음을 만들었다.#@문장구분# 측우기를 개발해농민들이 언제 농사를 시작해야 하는지 알게되었다.#@문장구분# 이렇게 사회에 대한 글을 쓰는것이 나쁘지 않다.#@문장구분#",
+      "paragraph_len": 631,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.733334,
+      24.447618,
+      22.619047
+    ],
+    "essay_scoreT_avg": 21.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교에는 정말 많은 과목이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "<문법_조사>학교에서는</문법_조사> 정말 많은 과목이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사회를 좋아하는 이유는 2학기 때 사회에서 역사를 배우기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사회를 좋아하는 이유는 <문법_맞춤법>2학기때 사회에서 역사를 배우기때문 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 2학기에 배우는 과목 중 제일 재미있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 2학기에 <문법_맞춤법>배우는과목중</문법_맞춤법> 제일 재미있기 <문법_높임법>때문이다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사회는 역사 중에서 중요한 것만 배웁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": " 사회는 <문법_맞춤법><문법_조사>역사중의 중요한것만</문법_조사></문법_맞춤법> <문법_높임법>배운다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 조금 아쉽지만 그래도 재미있습니다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 조금 아쉽지만 그래도 <문법_맞춤법>재미있습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사회에서 배운 것 중에 임진왜란이 좋았습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>사회에서배운것 중에 임진왜란이 좋았습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 임진년에 왜가 쳐들어와서 난리를 피운 게 임진왜란입니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 임진년에 왜가 <문법_맞춤법>처들어 와서</문법_맞춤법> <문법_조사>난리피운게</문법_조사> 임진왜란입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 세종대왕의업적은 농민들한테 중요한 농사적설 장영실과 집현전 학자들과 함께만드 해시계, 물시계, 혼천의 등 (앙부일구,자격루) 우리나라의 달려 칠정산을 만들었다.",
+      "sentence_corr_txt_styling": " 세종대왕의업적은 농민들한테 중요한 농사적설 장영실과 집현전 학자들과 함께만드 해시계, 물시계, 혼천의 등 (앙부일구,자격루) 우리나라의 달려 칠정산을 만들었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 측우기를 개발해 농민들이 언제 농사를 시작해야 하는지 알게 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 측우기를 <문법_맞춤법>개발해농민들이</문법_맞춤법> 언제 농사를 시작해야 하는지 <문법_높임법>알게되었다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 사회에 대한 글을 쓰는 것이 나쁘지 않습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 이렇게 사회에 대한 글을 <문법_맞춤법>쓰는것이</문법_맞춤법> 나쁘지 <문법_높임법>않다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48091",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 392,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

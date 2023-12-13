@@ -1,0 +1,315 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 위인은 바로 영국에 극작가였던 \"윌리엄 셰익스피어\"이다.#@문장구분#\n 윌리엄 셰익스피어는 1564년 영국 스트랩피드에서 태어나셨다.#@문장구분# 윌리엄 셰익스피어는 생전에 「햄릿」을 포함한 4대 비극을 작성을 하였고 「핸리 5세 」를 집필하였다.#@문장구분# 그리고 1616년에 세상을 떠났습니다.#@문장구분# 그의 기일은 생일과 같습니다.#@문장구분#\n 그는 그당시 영국의 여왕이던 엘리자베스 1세와도 밀접한 관계가 있습니다.#@문장구분#\n 셰익스피어와 관련된 음모론이 있습니다.#@문장구분# 바로 윌리엄 셰익스피어 가공인물설입니다.#@문장구분# 그 음모론은 프랜시스 베이컨이나 벤 존슨, 크리스토퍼 말로 등 그 시대의 작가들과 옥스퍼드 백작이 진짜 셰익스피어로 거론됩니다.#@문장구분# 그 중 옥스퍼드 백작은 1593년부터 '윌리엄 셰익-스피어'라는 필명을 사용했습니다.#@문장구분#",
+      "paragraph_len": 579,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.2,
+      17.9,
+      17.45
+    ],
+    "essay_scoreT_avg": 19.516666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 위인은 바로 영국의 극작가였던 \"윌리엄 셰익스피어\"이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "내가 생각하는 위인은 바로 <문법_조사>영국에 </문법_조사>극작가였던 \"윌리엄 셰익스피어\"이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 윌리엄 셰익스피어는 1564년 영국 스트랩피드에서 태어났다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": "\n 윌리엄 셰익스피어는 1564년 영국 스트랩피드에서 <문법_높임법>태어나셨다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 윌리엄 셰익스피어는 생전에 「햄릿」을 포함한 4대 비극을 작성을 하였고 「헨리 5세 」를 집필하였다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 윌리엄 셰익스피어는 생전에 「햄릿」을 포함한 4대 비극을 작성을 하였고 <문법_맞춤법>「핸리 5세 」</문법_맞춤법>를 집필하였다.",
+      "sentence_corr_txt_styling": " 윌리엄 셰익스피어는 생전에 「햄릿」을 포함한 4대 비극을 작성을 하였고 「헨리 5세 」를 집필하였다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 1616년에 세상을 떠났다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그리고 1616년에 세상을 <문법_어미>떠났습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그의 기일은 생일과 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그의 기일은 생일과 <문법_어미>같습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그는 그 당시 영국의 여왕이던 엘리자베스 1세와도 밀접한 관계가 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "\n 그는 <문법_맞춤법>그당시 </문법_맞춤법>영국의 여왕이던 엘리자베스 1세와도 밀접한 관계가 <문법_어미>있습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 셰익스피어와 관련된 음모론이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "\n 셰익스피어와 관련된 음모론이 <문법_어미>있습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바로 윌리엄 셰익스피어 가공인물설이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 바로 윌리엄 셰익스피어 <문법_어미>가공인물설입니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그 음모론은 프랜시스 베이컨이나 벤 존슨, 크리스토퍼 말로 등 그 시대의 작가들과 옥스퍼드 백작이 진짜 셰익스피어로 거론됩니다.",
+      "sentence_corr_txt_styling": " 그 음모론은 프랜시스 베이컨이나 벤 존슨, 크리스토퍼 말로 등 그 시대의 작가들과 옥스퍼드 백작이 진짜 셰익스피어로 거론됩니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 중 옥스퍼드 백작은 1593년부터 '윌리엄 셰익-스피어'라는 필명을 사용했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그 중 옥스퍼드 백작은 1593년부터 '윌리엄 셰익-스피어'라는 필명을 <문법_어미>사용했습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39906",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 380,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

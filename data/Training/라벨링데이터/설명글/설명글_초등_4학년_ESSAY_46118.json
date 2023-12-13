@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 살고싶은 집은요.#@문장구분#\n 주택에 마당이 있으면 좋을거 같아요.#@문장구분# 마당에 수영장과 파티장이 있으면 좋고 창고도 있으면 엄청 좋을거 같기도해요.#@문장구분# 왜냐면 수영장과 파티장은 놀수도 즐길수도 있고 창고도 있으면 잡동사니들을 넣어놓을수 있을거 같아요.#@문장구분#\n 화장실도 나름 깨끗하고 넓고 욕조도 크고 세면대도 크면 편할거 같아요.#@문장구분# 드라이기랑 등등 그런거 넣어놓을 곳이 있으면 좋아요.#@문장구분#\n 안방에는 커다란 침대와 작은 조명?이 있으면 편할거 같기도 하고?#@문장구분#\n안방엔 옥장같은게 있으면 돼고. #@문장구분#왜냐면 옷도 넣을수있고 침대는 잘때 편해서에요.#@문장구분#\n 주방에는 수납공간?이 많았음 좋을거 같아요.#@문장구분# 주방에서 쓰는 집게 같은걸 넣어놓을수도 있어서 좋을거 같아서요.#@문장구분# 신발장엔 신발넣어 놓을수 있는 공간이 컷으면 좋을거 같아요.#@문장구분# 신발을 많이 넣어놓으면 어지럽지도 않고 깨끗해지고 더럽지도 않으니까요.#@문장구분# 상상 집을 마쳐요.#@문장구분#",
+      "paragraph_len": 714,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      21.133335,
+      16.685715
+    ],
+    "essay_scoreT_avg": 20.073015,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 살고 싶은 집은요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 <문법_맞춤법>살고싶은 집은요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 주택에 마당이 있으면 좋을 거 같아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 주택에 마당이 있으면 <문법_맞춤법>좋을거 같아요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마당에 수영장과 파티장이 있으면 좋고 창고도 있으면 엄청 좋을 거 같기도 해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마당에 수영장과 파티장이 있으면 좋고 창고도 있으면 엄청 <문법_맞춤법>좋을거 같기도해요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 수영장과 파티장은 놀 수도 즐길 수도 있고 창고도 있으면 잡동사니들을 넣어놓을 수 있을 거 같아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐면 수영장과 파티장은 <문법_맞춤법>놀수도 즐길수도</문법_맞춤법> 있고 창고도 있으면 잡동사니들을 넣어놓을수 있을거 같아요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 화장실도 나름 깨끗하고 넓고 욕조도 크고 세면대도 크면 편할 거 같아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 화장실도 나름 깨끗하고 넓고 욕조도 크고 세면대도 크면 <문법_맞춤법>편할거 같아요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 드라이기랑 등등 그런 거 넣어놓을 곳이 있으면 좋아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 드라이기랑 등등<문법_맞춤법> 그런거 넣어놓을 곳이 있으면 좋아요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 안방에는 커다란 침대와 작은 조명? 이 있으면 편할 거 같기도 하고?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 안방에는 커다란 침대와 작은 <문법_맞춤법>조명?이 있으면 편할거 같기도</문법_맞춤법> 하고?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n안방엔 옷장 같은 게 있으면 되고. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n안방엔 <문법_맞춤법>옥장같은게 있으면 돼고.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐면 옷도 넣을 수 있고 침대는 잘 때 편해서예요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐면 옷도 <문법_맞춤법>넣을수있고 침대는 잘때 편해서에요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 주방에는 수납공간? 이 많았으면 좋을 거 같아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 주방에는 <문법_맞춤법>수납공간?이 많았음 좋을거 같아요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 주방에서 쓰는 집게 같은 걸 넣어놓을 수도 있어서 좋을 거 같아서요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 주방에서 쓰는 집게 <문법_맞춤법>같은걸 넣어놓을수도 있어서 좋을거 같아서요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 신발장엔 신발 넣어 놓을 수 있는 공간이 컸으면 좋을 거 같아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 신발장엔 <문법_맞춤법>신발넣어 놓을수 있는 공간이 컷으면 좋을거 같아요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46118",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 435,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

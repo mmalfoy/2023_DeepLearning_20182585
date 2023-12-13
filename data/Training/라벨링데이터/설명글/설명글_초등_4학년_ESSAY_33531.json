@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위의 제시문에 있는 말처럼 우리에게 학습과 여가활동의 시간 비율은 무척 중요합니다.#@문장구분# 여가활동을 하긴 해도 적당히, 정해져 있는(사전에 정해 놓을 경우) 시간 동안 하는 것이 좋습니다.#@문장구분# 예를 들어 TV(텔레비전)을 보는 시간을 정해 놓는다고 할 때, 최소 1시간부터 최대 2시간까지가 제 생각에는 적당할 것 같습니다.#@문장구분# (물론 다르게 생각할 수도 있지만) 그리고 학습활동을 할 때 시간을 짧게 정해서 자신이 숙제 공부 등을 충분히 할 수 없게 정해놓으면 안됩니다.#@문장구분# 학습활동을 하는 시간을 적당히, 자신이 충분히 공부할 수 있게 정해 놓아야 합니다.#@문장구분# 물론 학생이 해야 하는 것은 공부이기도 하지만 그렇다고 무조건 공부만 한다면 자신의 생활이 재미가 없고 흥미를 느끼지 못할 것입니다.#@문장구분# 그래서 제 생각에는 여가활동을 하는 시간에 책을 읽는다고 하면 만화책 같은 책만 보지 말고 역사책, 과학책 같은 책들을 읽으면 책을 좋아하는 아이들도 재미있고 부모님들도 좋아할 것 같습니다.#@문장구분# 그래도 여가활동 중에 게임을 가장 좋아하는 아이들도 있을 것 입니다.#@문장구분# 그래서 여가활동 시간을(게임) 잘 정해놓아야 합니다.#@문장구분# 자신이 만족하는 시간이고 부모님도 만족할 수 있어야 합니다.#@문장구분# 그래서 저는 여가활동을 하는 시간에 게임만 하지 말고 책도 좀 읽고 운동도 하는게 좋다고 생각합니다.#@문장구분#",
+      "paragraph_len": 866,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.133335,
+      22,
+      21.133335
+    ],
+    "essay_scoreT_avg": 22.755556,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " (물론 다르게 생각할 수도 있지만) 그리고 학습활동을 할 때 시간을 짧게 정해서 자신이 숙제 공부 등을 충분히 할 수 없게 정해놓으면 안 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " (물론 다르게 생각할 수도 있지만) 그리고 학습활동을 할 때 시간을 짧게 정해서 자신이 숙제 공부 등을 충분히 할 수 없게 정해놓으면<문법_맞춤법> 안됩니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 제 생각에는 여가활동을 하는 시간에 책을 읽는다고 하면 만화책 같은 책만 보지 말고 역사 책, 과학 책 같은 책들을 읽으면 책을 좋아하는 아이들도 재미있고 부모님들도 좋아할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 제 생각에는 여가활동을 하는 시간에 책을 읽는다고 하면 만화책 같은 책만 보지 말고<문법_맞춤법> 역사책, 과학책</문법_맞춤법> 같은 책들을 읽으면 책을 좋아하는 아이들도 재미있고 부모님들도 좋아할 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33531",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 646,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

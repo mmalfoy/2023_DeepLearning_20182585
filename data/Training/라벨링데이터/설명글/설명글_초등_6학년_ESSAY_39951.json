@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저에겐 친구란 저의모습 그대로 사랑해주고, 힘들 때나 슬플 때 곁에서 위로해주고 저의 곁을 지켜주는 사람입니다.#@문장구분# 앞에서는 잘해주고 친절하게 대해주지만 뒤에서는 나의 험담을 하거나 허위사실을 유포한다면 친구가 아니라고 생각합니다.#@문장구분# 나를 정말 사랑하고 좋아한다면 그런 행동을 하지 않았겠죠.#@문장구분# 그리고 또 친구에는 순위가 없다고 생각합니다.#@문장구분# 친구 사이에 순위가 어디 있나요?#@문장구분# 이 친구는 좋고 저 친구는 싫고 이런 게 어디 있어요.#@문장구분#  그리고 또 친구이니까 이거 사주고, 저거 사주고, 뭐든지 들어줘야 하나요 ? #@문장구분#진정한 친구라면 어떤 것이든 바라지 않겠죠. #@문장구분#왜나하면 자신의 소중한 친구로 남고 싶지 않나요?#@문장구분#저는 친구에게 자신에게 힘이 되어주고, 든든한 친구로 남고 싶습니다.#@문장구분# 정말 자신이 친구에게 좋은 친구로 남고 싶으시다면 앞뒤가 다르지 않고 친구의 지금 모습을 좋아 해주세요. #@문장구분#지금까지 친구에 대한 저의 생각이었습니다.#@문장구분#",
+      "paragraph_len": 694,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      22.85,
+      21.6
+    ],
+    "essay_scoreT_avg": 23.616667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저에겐 친구란 저의 모습 그대로 사랑해주고, 힘들 때나 슬플 때 곁에서 위로해주고 저의 곁을 지켜주는 사람입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저에겐 친구란 <문법_맞춤법>저의모습 </문법_맞춤법>그대로 사랑해주고, 힘들 때나 슬플 때 곁에서 위로해주고 저의 곁을 지켜주는 사람입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 앞에서는 잘해주고 친절하게 대해주지만 뒤에서는 <스타일링_패러프레이징>나의 </스타일링_패러프레이징>험담을 하거나 허위사실을 유포한다면 친구가 아니라고 생각합니다.",
+      "sentence_corr_txt_styling": " 앞에서는 잘해주고 친절하게 대해주지만 뒤에서는 저에 대한 험담을 하거나 허위사실을 유포한다면 친구가 아니라고 생각합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저를 정말 사랑하고 좋아한다면 그런 행동을 하지 않았겠죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " <문법_높임법>나를 </문법_높임법>정말 사랑하고 좋아한다면 그런 행동을 하지 않았겠죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>왜나하면 자신의 소중한 친구로 남고 싶지 않나요?</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "소중한 친구로 남고 싶을테니까요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "저는 <스타일링_패러프레이징>친구에게 자신에게 힘이 되어주고,</스타일링_패러프레이징> 든든한 친구로 남고 싶습니다.",
+      "sentence_corr_txt_styling": "저는 친구에게 힘이 되어주고, 든든한 친구로 남고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 자신이 친구에게 좋은 친구로 남고 싶으시다면 앞뒤 다르게 행동하지 말고 친구의 지금 모습을 좋아해주세요. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " 정말 자신이 친구에게 좋은 친구로 남고 싶으시다면 <스타일링_패러프레이징>앞뒤가 다르지 않고</스타일링_패러프레이징> 친구의 지금 모습을 <문법_맞춤법>좋아 해주세요.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": " 정말 자신이 친구에게 좋은 친구로 남고 싶으시다면 앞뒤 다르게 행동하지 말고 친구의 지금 모습을 좋아해주세요. ",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39951",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 455,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우선 한강이 보이는 3층 전원주택에서 살고싶은데 모던,펜트하우스가 합쳐져 있는 집에살고싶고 구조와 모양은 상관없고 방은 7개 화장실은 4개고 안방도 4개였으면 좋겠다.#@문장구분# 그 이유는 우리가족이 4명이고 각1명씩 안방과 화장실만 쓰고 앨리베이터는 필수고 벽은 흰색과 회색을 하고싶고 방이 3개가 있으면 1는 게임방 또1는 스크린 골프장 또1는 요리방으로 만들고 싶다.#@문장구분# 그리고 1곳에는 유리가있는 365일 불이꺼지지 않는 불이 있으면 좋겠다.#@문장구분# 그리고 마당 100평 집 층당 50평정도고 경비원들이 많은집,차고가 멋있는 집에 살고싶다.#@문장구분#",
+      "paragraph_len": 374,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      15.133333,
+      24.333334
+    ],
+    "essay_scoreT_avg": 21.155556,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우선 한강이 보이는 3층 전원주택에서 살고 싶은데 모던,펜트하우스가 합쳐져 있는 집에 살고 싶고  구조와 모양은 상관없고 방은 7개 화장실은 4개고 안방도 4개였으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>우선 한강이 보이는 3층 전원주택에서 살고싶은데 모던,펜트하우스가 합쳐져 있는 집에살고싶고 구조와 모양은 상관없고 방은 7개 화장실은 4개고 안방도 4개였으면 좋겠다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 우리 가족이 4명이고 각 1명씩 안방과 화장실만 쓰고 엘리베이터는  필수고 벽은 흰색과 회색을 하고 싶고 방이 3개가 있으면 1은 게임방 또 1은 스크린 골프장 또 1은 요리방으로 만들고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그 이유는 우리가족이 4명이고 각1명씩 안방과 화장실만 쓰고 앨리베이터는 필수고 벽은 흰색과 회색을 하고싶고 방이 3개가 있으면 1는 게임방 또1는 스크린 골프장 또1는 요리방으로 만들고 싶다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 1곳에는 유리 가 있는 365일 불이 꺼지지 않는 불이 있으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 1곳에는<문법_맞춤법> 유리가있는 365일 불이꺼지지 않는 불이 있으면 좋겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 마당 100평 집 층당 50평 정도 고 경비원들이 많은 집 ,차고 가 멋있는 집에 살고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 마당 100평 집 층당 <문법_맞춤법>50평정도고 경비원들이 많은집,차고가 멋있는 집에 살고싶다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45186",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 294,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

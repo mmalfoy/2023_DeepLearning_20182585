@@ -1,0 +1,370 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어른을 공경하는것은 예절을 지키는것이라서 친구, 어른, 어르신에게 꼭 지켜야하는 예절입니다.#@문장구분# 예절은 중요한것이라서 인사하기 예의있게 생활을 해야 합니다.#@문장구분# 예절은 식사예절, 인사예절등등 많은예절 지키기가 있습니다.#@문장구분# 예절이란 웃어른을 공경하는것 이므로 예절을 꼭 지켜야 합니다.#@문장구분# 센스를 지켜야 하므로 시끄럽게 하는것도 피해가갈수 있습니다.#@문장구분# 옆집에도 피해가는 행동을 하지 않을려면 예절으 지켜야 하는것이 맞습니다.#@문장구분# 아파트에서 층간소음 발생이 많이 일어 납니다.#@문장구분# 그것 또한 예절을 지키지않는 것입니다.#@문장구분# 또한 예절을 지키지 않으면 그사람과 말을 듣는 어른이 기분이 나빠집니다.#@문장구분# 이렇게 예절을 지키지 않는다면 기분이 상해 화가 날수 있습니다.#@문장구분# 지하철에서는 예절을 가장 잘 지켜야 하는 곳입니다.#@문장구분# 임산부나 어르신 장애인께는 좌석을 꼭 비켜줘야 합니다.#@문장구분# 이므로 버스나 지하철 같은 곳에서는 예절을 중요히 여겨야 합니다.#@문장구분# 웃어른을 공경하기 위해서는 지켜야 할게 많습니다#@문장구분# 자기 자신에 자존심을 지키기 위해선 해야할것중에선 예절이 가장중요하다고 생각 합니다.#@문장구분# 부모님께도 예절을 지켜야 하고 어르신은 물론 친구에게도 예절을 지켜야 합니다#@문장구분# 자기 자신을 예의좋게 만들기 위해선 예절에 기준을 기켜야 한다고 생각 합니다.#@문장구분# 이렇게 예절에 기준은 이렇다고 생각합니다.#@문장구분# 감사합니다.#@문장구분#",
+      "paragraph_len": 1023,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      22.4,
+      26
+    ],
+    "essay_scoreT_avg": 22.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.21",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "어른을 공경하는 것은 예절을 지키는 것이라서 친구, 어른, 어르신에게 꼭 지켜야 하는 예절입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어른을 <문법_맞춤법>공경하는것은 예절을 지키는것이라서 친구, 어른, 어르신에게 꼭 지켜야하는 예절입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예절은 중요한 것이라서 인사하기 예의 있게 생활을 해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예절은 <문법_맞춤법>중요한것이라서 인사하기 예의있게 생활을 해야 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예절은 식사예절, 인사예절 등등 많은 예절 지키기가 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예절은 식사예절, <문법_맞춤법>인사예절등등 많은예절 지키기가 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예절이란 웃어른을 공경하는 것이므로 예절을 꼭 지켜야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기와 붙여쓰기가 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예절이란 웃어른을 <문법_맞춤법>공경하는것 이므로 예절을 꼭 지켜야 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 센스를 지켜야 하므로 시끄럽게 하는 것도 피해가 갈 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 센스를 지켜야 하므로 시끄럽게 <문법_맞춤법>하는것도 피해가갈수 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 옆집에도 피해 가는 행동을 하지 않으려면 예절을 지켜야 하는 것이 맞습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 옆집에도 <문법_맞춤법>피해가는 행동을 하지 않을려면 예절으 지켜야 하는것이 맞습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아파트에서 층간 소음 발생이 많이 일어납니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기와 붙여쓰기가 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아파트에서 <문법_맞춤법>층간소음 발생이 많이 일어 납니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그것 또한 예절을 지키지 않는 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그것 또한 예절을 <문법_맞춤법>지키지않는 </문법_맞춤법>것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 예절을 지키지 않으면 그 사람과 말을 듣는 어른이 기분이 나빠집니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 예절을 지키지 않으면 <문법_맞춤법>그사람과</문법_맞춤법> 말을 듣는 어른이 기분이 나빠집니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 버스나 지하철 같은 곳에서는 예절을 중요히 여겨야 합니다.",
+      "sentence_corr_reason": [
+        "이어주는 말이 문맥의 흐름상 자연스럽지 않아 교정"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>이므로</문법_기타> 버스나 지하철 같은 곳에서는 예절을 중요히 여겨야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자기 자신에 자존심을 지키기 위해선 해야할 것 중에선 예절이 가장 중요하다고 생각 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자기 자신에 자존심을 지키기 위해선<문법_맞춤법> 해야할것중에선 예절이 가장중요하다고 생각 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자기 자신을 예의 좋게 만들기 위해선 예절에 기준을 기켜야 한다고 생각 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자기 자신을<문법_맞춤법> 예의좋게 </문법_맞춤법>만들기 위해선 예절에 기준을 기켜야 한다고 생각 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 예절의 기준은 이렇다고 생각합니다.",
+      "sentence_corr_reason": [
+        "문맥이 자연스럽게 교정"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 이렇게<문법_기타> 예절에 </문법_기타>기준은 이렇다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33475",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 643,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

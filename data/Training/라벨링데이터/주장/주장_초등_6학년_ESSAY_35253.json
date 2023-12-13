@@ -1,0 +1,423 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요. 오늘은 폭력의 대해 알아보겠습니다.#@문장구분# 우선 폭력이란 남 에게 해를 입히는 것이 폭력 입니다. #@문장구분#그럼 일단 폭력의 종류 부터 알아 보겠습니다. #@문장구분#첫 번째는 모두들 알고 있는 학교폭력입니다.#@문장구분# 학교폭력은 학교내에서 일어나는 폭력뿐만 아니라 학교 밖에서 일어나는 폭력도 학교폭력입니다.#@문장구분# 학교폭력은 학생이 친구등에게 받는 피해를 학교폭력이라 합니다.#@문장구분# 다음은 사이버 폭력입니다.#@문장구분# 사이버 폭력이란 카톡이나문자등 인터넷을 이용한 폭력 입니다. #@문장구분#채팅 방을 만들어놓고 한 친구만 따돌리는 행동이나 친구가 채팅 방에 들어가고 싶지 않는데 계속 초대하는 행동들이 사이버 폭력 입니다.#@문장구분# 이처럼 문자같은 경우에는 상대방에 얼굴을 볼 수 없어 말을 조심해서 해야합니다.#@문장구분# 다음은 가정 폭력 입니다.#@문장구분# 가정 폭력은 자신에 가족을 이유 없이 때리는 것입니다. #@문장구분#이러한 이유로 많은 사람들이 가정폭력 때문에 목숨을 읽습니다. #@문장구분#주변에 친구들과 어울리지 않거나 멍이 난 친구가 있스면 선생님께 알립니다.#@문장구분# 그럼 이제 이나 같은 폭력을 어떻게 예방하는지 알아보겠습니다.#@문장구분# 학교폭력 같은 경우에는 선생님과부모님께 알리고 국번없이117에 신고합니다.#@문장구분# 사이버 폭력과 가정폭력도 선생님 같은 주변어른에게 알립니다.#@문장구분#\n제가 준비한건 여기까지 입니다.#@문장구분#\n감사합니다.#@문장구분#",
+      "paragraph_len": 1002,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.11111,
+      28.2,
+      18.222221
+    ],
+    "essay_scoreT_avg": 21.844444,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.01",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕하세요. 오늘은 폭력에 대해 알아보겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "안녕하세요. 오늘은 <문법_조사>폭력의</문법_조사> 대해 알아보겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우선 폭력이란 남에게 해를 입히는 것이 폭력입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우선 폭력이란 <문법_맞춤법>남 에게</문법_맞춤법> 해를 입히는 것이 폭력 입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그럼 일단 폭력의 종류부터 알아보겠습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그럼 일단 폭력의 <문법_맞춤법>종류 부터</문법_맞춤법> 알아 보겠습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력은 학교 내에서 일어나는 폭력뿐만 아니라 학교 밖에서 일어나는 폭력도 학교폭력입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력은 <문법_맞춤법>학교내에서</문법_맞춤법> 일어나는 폭력뿐만 아니라 학교 밖에서 일어나는 폭력도 학교폭력입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력은 학생이 친구나 선생님 등에게 받는 피해를 말합니다.",
+      "sentence_corr_reason": [
+        "등을 사용할 때는 2개 이상의 대상을 언급해야 함.",
+        "등을 사용할 때는 2개 이상의 대상을 언급해야 함.",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 학교폭력은 학생이 <스타일링_맞춤법><스타일링_담화 맥락 오류>친구등에게</스타일링_담화 맥락 오류></스타일링_맞춤법> 받는 피해를 <문법_조사>학교폭력이라</문법_조사> 합니다.",
+      "sentence_corr_txt_styling": " 학교폭력은 학생이 친구나 선생님 등에게 받는 피해를 말합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>다음은</스타일링_담화 맥락 오류> 사이버 폭력입니다.",
+      "sentence_corr_txt_styling": " 두 번째는 사이버 폭력입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사이버 폭력이란 카카오톡이나 문자 등 인터넷을 이용한 폭력입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사이버 폭력이란 <문법_맞춤법>카톡이나문자등</문법_맞춤법> 인터넷을 이용한 폭력 입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "채팅방을 만들어놓고 한 친구만 따돌리는 행동이나 친구가 채팅방에 들어가고 싶지 않은데 계속 초대하는 행동들이 사이버 폭력입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>채팅 방을</문법_맞춤법> 만들어놓고 한 친구만 따돌리는 행동이나 친구가 채팅 방에 들어가고 싶지 않는데 계속 초대하는 행동들이 사이버 폭력 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이처럼 문자 같은 경우에는 상대방에 얼굴을 볼 수 없어 말을 조심히 해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 이처럼 <문법_맞춤법>문자같은</문법_맞춤법> 경우에는 상대방에 얼굴을 볼 수 없어 말을 <문법_조사>조심해서 해야합니다.</문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째는 가정 폭력입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>다음은</스타일링_담화 맥락 오류> 가정 <문법_맞춤법>폭력 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 세 번째는 가정 폭력입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가정 폭력은 자신의 가족을 이유 없이 때리는 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 가정 폭력은 <문법_조사>자신에</문법_조사> 가족을 이유 없이 때리는 것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이러한 이유로 많은 사람들이 가정 폭력 때문에 목숨을 잃습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이러한 이유로 많은 사람들이 <문법_맞춤법>가정폭력</문법_맞춤법> 때문에 목숨을 읽습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "주변에 친구들과 어울리지 않거나 멍이 든 친구가 있으면 선생님께 알립니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "주변에 친구들과 어울리지 않거나 <스타일링_담화 맥락 오류>멍이 난 친구가</스타일링_담화 맥락 오류> <문법_맞춤법>있스면</문법_맞춤법> 선생님께 알립니다.",
+      "sentence_corr_txt_styling": "주변에 친구들과 어울리지 않거나 멍이 든 친구가 있으면 선생님께 알립니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 이제 이와 같은 폭력을 어떻게 예방하는지 알아보겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그럼 이제 <문법_맞춤법>이나</문법_맞춤법> 같은 폭력을 어떻게 예방하는지 알아보겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력 같은 경우에는 선생님과 부모님께 알리고 국번없이 117에 신고합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력 같은 경우에는 <문법_맞춤법>선생님과부모님께</문법_맞춤법> 알리고 국번없이117에 신고합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n제가 준비한 건 여기까지입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n제가 준비한건 <문법_맞춤법>여기까지 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35253",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 622,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

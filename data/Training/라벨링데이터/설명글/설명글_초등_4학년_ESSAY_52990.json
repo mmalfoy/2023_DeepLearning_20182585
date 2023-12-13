@@ -1,0 +1,274 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 주로 여가활동을 더 많이 하고 있는데요.#@문장구분# 주로 하는 것 중에 저는 친구들이랑 게임을 주로 하고 있습니다.#@문장구분# 왜냐하면 친구들이랑 게임을 하면 같이 할 때 너무 재미있고 게임을 같이 하면서 친구들과 더 가까워지는 것 같습니다.#@문장구분# 그리고 운동을 하고 있는데요.#@문장구분# 운동은 복싱과 유도를 2가지하고 있습니다.#@문장구분# 운동을 하면서 복싱을 하면 체력을 기르면서 샌드백을 칠 때 마음이 뻥 뚫린 것처럼 시원합니다.#@문장구분# 그리고 유도를 할 때는 같이 체력도 단련하면서 스파링을 하면서 상대방을 넘겼을 때 정말 스트레스가 풀리는 것 같아서 운동이 너무 재미있습니다.#@문장구분# 그리고 집에서도 2시간씩 연습을 하고 있습니다.#@문장구분# 제가 고쳐야 할 점은 게임을 너무 많이 하는 것 같아서 게임을 줄이는게 좋을 것 같습니다.#@문장구분#",
+      "paragraph_len": 558,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.5523815,
+      20.8,
+      20.8
+    ],
+    "essay_scoreT_avg": 18.717459,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "저는 주로 여가활동을 더 많이 하고 있는데요.",
+      "sentence_corr_txt_styling": "저는 주로 여가활동을 더 많이 하고 있는데요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 주로 하는 것 중에 저는 친구들이랑 게임을 주로 하고 있습니다.",
+      "sentence_corr_txt_styling": " 주로 하는 것 중에 저는 친구들이랑 게임을 주로 하고 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 친구들이랑 게임을 하면 같이 할 때 너무 재미있고 게임을 같이 하면서 친구들과 더 가까워지는 것 같습니다.",
+      "sentence_corr_txt_styling": " 왜냐하면 친구들이랑 게임을 하면 같이 할 때 너무 재미있고 게임을 같이 하면서 친구들과 더 가까워지는 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 운동은 복싱과 유도 2가지를 하고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 운동은 복싱과 유도를 <문법_맞춤법><문법_조사>2가지하</문법_조사></문법_맞춤법>고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 운동을 하면서 복싱을 하면 체력을 기르면서 샌드백을 칠 때 마음이 뻥 뚫린 것처럼 시원합니다.",
+      "sentence_corr_txt_styling": " 운동을 하면서 복싱을 하면 체력을 기르면서 샌드백을 칠 때 마음이 뻥 뚫린 것처럼 시원합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 유도를 할 때는 같이 체력도 단련하면서 스파링을 하면서 상대방을 넘겼을 때 정말 스트레스가 풀리는 것 같아서 운동이 너무 재미있습니다.",
+      "sentence_corr_txt_styling": " 그리고 유도를 할 때는 같이 체력도 단련하면서 스파링을 하면서 상대방을 넘겼을 때 정말 스트레스가 풀리는 것 같아서 운동이 너무 재미있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 고쳐야 할 점은 게임을 너무 많이 하는 것 같아서 게임을 줄이는 게 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 제가 고쳐야 할 점은 게임을 너무 많이 하는 것 같아서 게임을 <문법_맞춤법>줄이는게 </문법_맞춤법>좋을 것 같습니다.",
+      "sentence_corr_txt_styling": " 제가 고쳐야 할 점은 게임을 너무 많이 하는 것 같아서 게임을 줄이는 게 좋을 것 같습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52990",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 379,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금부터 존경하는 위인에 대한 생각을 적어 보겠습니다.#@문장구분# 세종대왕님이 제가 존경하는 위인입니다.#@문장구분# 왜냐하면 옛날에 백성들이 힘들 때 글자를 모르고 있을 대 백성들을 위해 한글을 만드신게 멋지다. #@문장구분#백성들을 위하는 마음이 느껴져서 나도 세종대왕님 처럼 열심히 책도 읽고 누군가를 위해 열심히 노력하는걸 본받고싶다#@문장구분# 이 위인을 위해 할수있는 간단한 일은 한글날을 기념해 세종대왕님께 편지를 쓰거나 영어같은걸 안 쓰고 한글말만 쓰기 같은 걸 하면 좋을것 같다. #@문장구분#그리고 또 본받을 점은 신하를 막대하지 않고 친절하게 대해줘서 대단한일 을 했으면서도 겸손한게 멋지다.#@문장구분# 또 그런걸 만들기엔 엄청난 노력과 생각이 필요했을텐데 한글을 만드는게 멋있다.#@문장구분# 또 이위인을 위해 하루만 축제 같은 걸열자.#@문장구분# 한글의 유래, 한글의 특징, 한글중 사라진글자등을 알수있는 축제를 열면 이 위인에게 더 도움이 될것같고 사람들이 위인을 본받게 할수있다. #@문장구분#지금까지 제가 존경하는 위인을 알아봤습니다. #@문장구분#이 위인을 잊지말고 본받읍시다.#@문장구분#",
+      "paragraph_len": 717,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.8,
+      24,
+      21.9
+    ],
+    "essay_scoreT_avg": 22.9,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 옛날에 백성들이 힘들 때 글자를 모르고 있을 대 백성들을 위해 한글을 만드신 게 멋지다. ",
+      "sentence_corr_reason": [
+        "",
+        "여기부터 높임말 바뀜"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 옛날에 백성들이 힘들 때 글자를 모르고 있을 대 백성들을 위해 한글을 <문법_맞춤법>만드신게 </문법_맞춤법>멋지다. ",
+      "sentence_corr_txt_styling": " 왜냐하면 옛날에 백성들이 힘들 때 글자를 모르고 있을 대 백성들을 위해 한글을 만드신 게 멋지다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "백성들을 위하는 마음이 느껴져서 나도 세종대왕님처럼 열심히 책도 읽고 누군가를 위해 열심히 노력하는 걸 본받고 싶다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "백성들을 위하는 마음이 느껴져서 나도 세종대<문법_맞춤법>왕님 처</문법_맞춤법>럼 열심히 책도 읽고 누군가를 위해 열심히 노력하는걸 본받고싶다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 위인을 위해 할 수 있는 간단한 일은 한글날을 기념해 세종대왕님께 편지를 쓰거나 영어 같은 걸 안 쓰고 한글 말만 쓰기 같은 걸 하면 좋을 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 위인을 위해 <문법_맞춤법>할수있는 간단한 일은 한글날을 기념해 세종대왕님께 편지를 쓰거나 영어같은걸 안 쓰고 한글말만 쓰기 같은 걸 하면 좋을것 </문법_맞춤법>같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 또 본받을 점은 신하를 막대하지 않고 친절하게 대해줘서 대단한 일을 했으면서도 겸손한 게 멋지다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 또 본받을 점은 신하를 막대하지 않고 친절하게 대해줘서 대단한일 을 했으면서도 <문법_맞춤법>겸손한게 </문법_맞춤법>멋지다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 그런 걸 만들기엔 엄청난 노력과 생각이 필요했을 텐데 한글을 만드는 게 멋있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 <문법_맞춤법>그런걸 </문법_맞춤법>만들기엔 엄청난 노력과 생각이 필요했을텐데 한글을 만드는게 멋있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 이 위인을 위해 하루만 축제 같은 걸 열자.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 이위인을 위해 하루만 축제 같은 <문법_맞춤법>걸열자</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한글의 유래, 한글의 특징, 한글 중 사라진 글자 등을 알 수 있는 축제를 열면 이 위인에게 더 도움이 될 것 같고 사람들이 위인을 본받게 할 수 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한글의 유래, 한글의 특징, <문법_맞춤법>한글중 사라진글자등을 알수있는 축제를 열면 이 위인에게 더 도움이 될것같고 사람들이 위인을 본받게 할수있다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 위인을 잊지 말고 본받읍시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이 위인을 <문법_맞춤법>잊지말고 </문법_맞춤법>본받읍시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64915",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 498,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

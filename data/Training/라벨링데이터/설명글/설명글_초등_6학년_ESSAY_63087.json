@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "여러분은 존경하는 위인이 있으신가요?#@문장구분# 참 많은 분이 계시죠? #@문장구분#저는 그분들 중에서 세종대왕님이 기억에 남습니다.#@문장구분# 여러분도 아시겠지만 세종대왕님께서는 많은 업적을 남기셨습니다. #@문장구분#그럼 그 업적과 세종대왕님의 행동, 본받을 점에는 무엇이 있을까요?#@문장구분#\n 1. 세종대왕님의 업적. #@문장구분#세종대왕님께서는 정말 많은 업적을 남기셨습니다. #@문장구분#그중 훈민정음 창제, 과학 발전등의 업적이 대표적인데요.#@문장구분# 먼저 훈민정음은 우리나라의 고유언어로, 거의 모든언어중에서 유일하게 창시자가 있을 정도로 그 가치를 인정받고 있습니다.#@문장구분# 또 과학 발전에서는 똑똑한 인재들을 신분에 상관없이 뽑아 장영실과 같은 인재들을 양성 하였고요.#@문장구분#\n 2. 세종대왕님의 행동. #@문장구분#위에 나온 훈민정음을 창제 할 당시 많은 관리들이 이를 반대했다고 하는데요,#@문장구분# 그 이유는 중국의 문자를 쓰지 않는건 문제가 있고, 양반들 만이 쓸수 있는 한자를 버리고 누구나 쓸수 있는 한글을 사용하면 안됀다는 것입니다. #@문장구분#하지만 그럼에도 불구하고 세종대왕님은 밤낮없이 백성들을 위해 훈민정음을 만드셨습니다.#@문장구분# 그 결과 지금의 한글이 탄생한것 이지요.#@문장구분#\n 3. 본받을점.#@문장구분# 세종대왕님은 백성들을 위해 여러가지 책, 훈민정음등을 집필하셨습니다.#@문장구분# 오로지 백성들을 위한 노력, 저는 이 노력과 열정을 본받고 싶습니다. #@문장구분#또한 백성들을 위해주는 넓은 마음도 본받고 싶습니다.#@문장구분#\n 위와같이 세종대왕님의 업적, 행동, 본받을 점에 대해 얘기해 보았는데요,#@문장구분# 제가 존경하는 세종대왕님처럼 훌륭한 사람이 될수 있으면 좋겠네요.",
+      "paragraph_len": 1135,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      23.9,
+      24.15
+    ],
+    "essay_scoreT_avg": 24.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그중 훈민정음 창제, 과학 발전 등의 업적이 대표적인데요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그중 훈민정음 창제, 과학 <문법_맞춤법>발전등의 </문법_맞춤법>업적이 대표적인데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 훈민정음은 우리나라의 고유 언어로, 거의 모든 언어 중에서 유일하게 창시자가 있을 정도로 그 가치를 인정받고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 훈민정음은 우리나라의 <문법_맞춤법>고유언어로</문법_맞춤법>, 거의 모든언어중에서 유일하게 창시자가 있을 정도로 그 가치를 인정받고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 과학 발전에서는 똑똑한 인재들을 신분에 상관없이 뽑아 장영실과 같은 인재들을 양성하였고요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 과학 발전에서는 똑똑한 인재들을 신분에 상관없이 뽑아 장영실과 같은 인재들을 <문법_맞춤법>양성 하였고요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "위에 나온 훈민정음을 창제할 당시 많은 관리들이 이를 반대했다고 하는데요,",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위에 나온 훈민정음을 <문법_맞춤법>창제 할</문법_맞춤법> 당시 많은 관리들이 이를 반대했다고 하는데요,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 중국의 문자를 쓰지 않는건 문제가 있고, 양반들만이 쓸수 있는 한자를 버리고 누구나 쓸 수 있는 한글을 사용하면 안 된다는 것입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 이유는 중국의 문자를 쓰지 않는건 문제가 있고, <문법_맞춤법>양반들 만이</문법_맞춤법> 쓸수 있는 한자를 버리고 누구나 쓸수 있는 한글을 사용하면 안됀다는 것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 결과 지금의 한글이 탄생한 것이지요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 결과 지금의 한글이 <문법_맞춤법>탄생한것 이지요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님은 백성들을 위해 여러가지 책, 훈민정음 등을 집필하셨습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕님은 백성들을 위해 여러가지 책, <문법_맞춤법>훈민정음등을 </문법_맞춤법>집필하셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 위와 같이 세종대왕님의 업적, 행동, 본받을 점에 대해 얘기해 보았는데요,",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>위와같이 </문법_맞춤법>세종대왕님의 업적, 행동, 본받을 점에 대해 얘기해 보았는데요,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 존경하는 세종대왕님처럼 훌륭한 사람이 될 수 있으면 좋겠네요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 존경하는 세종대왕님처럼 훌륭한 사람이 <문법_맞춤법>될수 </문법_맞춤법>있으면 좋겠네요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63087",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 736,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 여가활동은 그림그리기,, 자전거, 책 읽는 것 등등 참 많다.#@문장구분# 나의 학습은 영어, 공부방, 독서논술, 미술을 다닌다.#@문장구분# 많이 안 다니기는 한데, 나름대로 진도를 잘 따라오고 있다.#@문장구분# 영어는 2시간에서 길면 2시간반정도 한다.#@문장구분# 엄청난건 거의 3시간 조금 안되게 영어에 갇혀 있었던 좋지는 않은 기억이...^^#@문장구분#\n 그다음 공부방에서는 국,수,사,과 이렇게 있는데 화요일은 국어 수요일 수학 목요일 사회,과학 금요일 수학이다.#@문장구분# 여기서 따로 해주는 선행? 같은게 있는데 그것은 6-1 학기를 한다.#@문장구분# 4학년 초중반 정도에 시작했다.#@문장구분# 4-2, 5-1, 5-2, 지금 6-1학기다.#@문장구분# 뭐 내가 아는 애에 비하면 아무것도 아니다.#@문장구분# 공부방은 기본적으로는 1시간15분이 정상 수업이다.#@문장구분#하지만 더 시켜 주시는 착한 우리 선생님♡ 그다음은 독서논술이다.#@문장구분# 말그대로 책읽고, 독서록쓰고, 학습지? 같은걸한다.#@문장구분# 뭐 재미 없거나 그렇지는 않다.#@문장구분# 1시간 한다.#@문장구분# 그다음은 미술!#@문장구분# 내가 가장 나름대로 괜찮은 학원이다.#@문장구분# 그림을 그리는데 재밌는 아이디어를 낼때도 있지만 요즘은 펜드로잉, 일러스트를한다.#@문장구분# 재밌다. #@문장구분#그다음은 여가생활이다. #@문장구분#그림그리기는 뭐 낙서를 자주한다.#@문장구분# 뭐 오늘 읽은 책이 만약 해리포터다면 해리포터에 관한 낙서를 하기도 한다. #@문장구분#다른 것도 다 똑 같은 것 같다.#@문장구분#",
+      "paragraph_len": 1097,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      22.733334,
+      22.733334
+    ],
+    "essay_scoreT_avg": 22.200003,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.29",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 여가활동은 그림 그리기,, 자전거, 책 읽는 것 등등 참 많다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 여가활동은 <문법_맞춤법>그림그리기</문법_맞춤법>,, 자전거, 책 읽는 것 등등 참 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 영어는 2시간에서 길면 2시간 반 정도 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 영어는 2시간에서 길면 <문법_맞춤법>2시간반정도</문법_맞춤법> 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄청난 건 거의 3시간 조금 안되게 영어에 갇혀 있었던 좋지는 않은 기억이...^^",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>엄청난건</문법_맞춤법> 거의 3시간 조금 안되게 영어에 갇혀 있었던 좋지는 않은 기억이...^^",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여기서 따로 해주는 선행? 같은 게 있는데 그것은 6-1 학기를 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여기서 따로 해주는 선행? <문법_맞춤법>같은게</문법_맞춤법> 있는데 그것은 6-1 학기를 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공부방은 기본적으로는 1시간 15분이 정상 수업이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 공부방은 기본적으로는 <문법_맞춤법>1시간15분</문법_맞춤법>이 정상 수업이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 말 그대로 책 읽고, 독서록 쓰고, 학습지? 같은 걸 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>말그대로 책읽고, 독서록쓰고, 학습지? 같은걸한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뭐 재미없거나 그렇지는 않다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 뭐 <문법_맞춤법>재미 없거나</문법_맞춤법> 그렇지는 않다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그림을 그리는데 재밌는 아이디어를 낼 때도 있지만 요즘은 펜 드로잉, 일러스트를 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그림을 그리는데 재밌는 아이디어를 <문법_맞춤법>낼때도 있지만 요즘은 펜드로잉, 일러스트를한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그림  그리기는 뭐 낙서를 자주 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그림그리기는 뭐 낙서를 자주한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뭐 오늘 읽은 책이 만약 해리 포터다 면 해리 포터에 관한 낙서를 하기도 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 뭐 오늘 읽은 책이 <문법_맞춤법>만약 해리포터다면 해리포터에 </문법_맞춤법>관한 낙서를 하기도 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다른 것도 다 똑같은 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다른 것도 다 <문법_맞춤법>똑 같은 </문법_맞춤법>것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44973",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 638,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

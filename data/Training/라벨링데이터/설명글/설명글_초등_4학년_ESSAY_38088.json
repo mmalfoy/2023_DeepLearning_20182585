@@ -1,0 +1,347 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 24시간중10시간은 취침 10시간 정도는 공부 나머지는 여가생활 이었으면 좋겠다.#@문장구분# 왜냐하면 적당한 취침시간과 하루에 필요한 공부의 양을 계산하면 이건 하루에공부하는 양에 조금 못 미치는 영양이다.#@문장구분# 그래서 좋다.#@문장구분# 그리고 게임 TV보기 잠자기 등을 하고 싶다.#@문장구분# 그이유는 게임, TV, 잠이 공부에 관한 많은 스트레스를 단번애 해결 해 주기 때문이고 덤으로 친구와 노는것도 포함이다.#@문장구분# 그리고 고쳐야 할 점이 있다.#@문장구분# 우서 여가 생활이 나머지4시간 이라는건 너무 길고 게임이나 TV를 계속 보면 눈이 나빠진다.#@문장구분# 그레서2시간 정도를 줄였으면 한다.#@문장구분# 계다가 내가 생각해도 10시간은 정신적 스트레스가 많아지므로 너무 힘들것 같다.#@문장구분# 그러니 한 8시간으로 줄이면 하루 공부에 3시간을 줄인 것으로 난 만족 한다.#@문장구분#",
+      "paragraph_len": 592,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.6,
+      24.980953,
+      26
+    ],
+    "essay_scoreT_avg": 25.526985,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 24시간 중 10시간은 취침 시간, 10시간 정도는 공부를 하고, 나머지는 여가생활을 즐길 수 있는 시간이었으면 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법><문법_조사><문법_어미><문법_어순><문법_기타>24시간중10시간은 취침 10시간 정도는 공부 나머지는 여가생활 이었으면 좋겠다.</문법_기타></문법_어순></문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 적당한 취침 시간과 하루에 필요한 공부의 양을 계산하면, 이 시간은 하루에 공부하는 양에 약간 못 미치는 양이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법><문법_조사><문법_기타>적당한 취침시간과 하루에 필요한 공부의 양을 계산하면 이건 하루에공부하는 양에 조금 못 미치는 영양이다.</문법_기타></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 여가 생활로는 게임, TV 보기, 잠자기 등을 하고 싶다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법><문법_어미><문법_기타>게임 TV보기 잠자기</문법_기타></문법_어미></문법_맞춤법> 등을 하고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 게임, TV, 잠이 공부로 인한 많은 스트레스를 단번에 해결을 해 주기 때문이고, 또 친구와 노는 것도 스트레스를 풀어준다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그이유는 게임, TV, 잠이 공부에 관한 많은 스트레스를 단번애 해결 해 주기 때문이고 덤으로 친구와 노는것도 포함이다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 고쳐야 할 점이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고 </문법_기타>고쳐야 할 점이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우선 여가 생활을 나머지 4시간 동안 가지기에는 너무 길고, 게임이나 TV를 계속 보면 눈이 나빠지기 때문에",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_어미><문법_기타>우서 여가 생활이 나머지4시간 이라는건 너무 길고 게임이나 TV를 계속 보면 눈이 나빠진다.</문법_기타></문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2시간 정도만 줄였으면 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그레서2시간 정도를 줄였으면 한다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게다가 생각했을 때 10시간은 정신적 스트레스가 많아지므로 너무 힘들 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>계다가 내가 생각해도 10시간은 정신적 스트레스가 많아지므로 너무 힘들것 같다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 공부해야 할 8시간 중 3시간을 줄이면 나는 만족할 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_어미><문법_어순><문법_기타>그러니 한 8시간으로 줄이면 하루 공부에 3시간을 줄인 것으로 난 만족 한다.</문법_기타></문법_어순></문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38088",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 393,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

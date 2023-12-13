@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 충동적으로 소비하는 안좋은 습관을 가지고 있었다. #@문장구분#인터넷으로 쇼핑을 하다가 마음에 드는 물건들을 장바구니에 담아두고 기분이 좋지 않거나 과하게 좋을 때 갑작스럽게 물건들을 주문하고는 했다.#@문장구분# 가끔은 제대로 확인하지도 않고 막무가내로 물건을 주문하고 후회하는 일들이 많았다.#@문장구분# 계속 충동적으로 주문을 하다보니 점점 용돈도 부족해지고 버리는 물건들도 많아졌다.#@문장구분#결국 부모님과 상의해 이 좋지 않는 습관을 고치기로 하였다. #@문장구분#처음에는 장바구니에 물건을 담아두지 않기 위해 노력했다. #@문장구분#가지고 싶은 물건이 있더라고 기억만 해놓고 장바구니에 넣어놓지 않았다.#@문장구분# 정말 필요한 물건이라면 부모님께 말씀드린 후 장바구니에 넣었다.#@문장구분# 그렇게 하다보니 기분의 변화가 클 때 장바구니에 들어가도 크게 돈을 쓰지 않게 되었다.#@문장구분# 애초에 기분이 안좋거나 할 때 물건을 주문하는 습관을 버리기 위해 다른 일을 하기로 했다.#@문장구분# 일기를 쓰거나 그림을 그려서 감정을 조절하거나 내가 좋아하는 다른 활동을 하기 시작했다.#@문장구분# 시간이 지나 점점 충동적으로 물건을 주문하는 안 좋은 습관을 버리고 돈을 절약할 수 있게 되었다.#@문장구분#",
+      "paragraph_len": 786,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      22.9,
+      18.65
+    ],
+    "essay_scoreT_avg": 22.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 계속 충동적으로 주문을 하다 보니 점점 용돈도 부족해지고 버리는 물건들도 많아졌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 계속 충동적으로 주문을 <문법_맞춤법>하다보니</문법_맞춤법> 점점 용돈도 부족해지고 버리는 물건들도 많아졌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "가지고 싶은 물건이 있더라도 기억만 해놓고 장바구니에 넣어놓지 않았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "가지고 싶은 물건이 <문법_어미>있더라고</문법_어미> 기억만 해놓고 장바구니에 넣어놓지 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 하다 보니 기분의 변화가 클 때 장바구니에 들어가도 크게 돈을 쓰지 않게 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 <문법_맞춤법>하다보니</문법_맞춤법> 기분의 변화가 클 때 장바구니에 들어가도 크게 돈을 쓰지 않게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69098",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 547,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

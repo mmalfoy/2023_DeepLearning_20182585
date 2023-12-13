@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 안 좋은 습관으로 게임을 하는 것을 들 수 있습니다.#@문장구분#제가 하는 게임은 리그 오브 레전드와 배틀 그라운드가 있습니다.#@문장구분#원래 서든 어택을 하다가 접고 저 게임들을 했는데 정말 중독이 심해서 하루에 9시간 넘게도 하고 밥도 안 먹고 하기도 했습니다.#@문장구분#그런데 정말 이러다가는 몸이 남아나지 않겠다는 생각이 들어서 습관을 고쳐보자고 다짐했습니다.#@문장구분#아예 게임을 하지 않는 것은 불가능하고 시간을 정해서 조금만 정해진 시간만큼만 하는 걸로 결심했습니다.#@문장구분#그래서 열심히 노력한 결과 예전처럼 한 번에 8시간 이상 게임하는 일은 일어나지 않게 되었고 아무리 길어도 4시간 내로 하려고 노력했습니다.#@문장구분#게임을 최대한 안하고 시간을 줄일려면 아무래도 사람들이 옆에서 도와줘야 되는 것 같습니다.#@문장구분#왜냐면 혼자 참으려고 하니깐 그건 힘들었기 때문입니다.#@문장구분#그래서 습관을 고치려면 친구들한테 말해놓는 것도 괜찮을 것 같습니다.#@문장구분#",
+      "paragraph_len": 622,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      20.55,
+      21.3
+    ],
+    "essay_scoreT_avg": 21.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그래서 열심히 노력한 결과 예전처럼 한 번에 8시간 이상 게임하는 일은 일어나지 않게 되었고 아무리 길어도 4시간내로 하려고 노력했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 열심히 노력한 결과 예전처럼 한 번에 8시간 이상 게임하는 일은 일어나지 않게 되었고 아무리 길어도<문법_맞춤법> 4시간 내로</문법_맞춤법> 하려고 노력했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "게임을 최대한 안 하고 시간을 줄이려면 아무래도 사람들이 옆에서 도와줘야 되는 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "게임을 최대한 <문법_맞춤법>안하고 </문법_맞춤법>시간을 줄일려면 아무래도 사람들이 옆에서 도와줘야 되는 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71519",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 442,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

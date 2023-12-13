@@ -1,0 +1,198 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 살고 싶은 집은 정원과 좋은 뷰가 있는 큰 주택입니다.#@문장구분# 그 주택에는 사랑하는 가족들과 행복하고 함께 살고 싶습니다.#@문장구분#",
+      "paragraph_len": 107,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 구조는 3층으로 되어 있어 주택에는 욕실이 층마다 1개씩 있어 총 3개가 있습니다.#@문장구분# 1층에는 가족들이 식사와 여가를 보낼 수 있는 부엌과 거실이 있습니다.#@문장구분# 그리고 2층에는 나와 동생의 방이 있고 서재가 있습니다.#@문장구분#또한 동생과 같이 놀 수 있는 놀이방도 있고, 밖의 풍경을 볼 수 있는 테라스가 있습니다.#@문장구분# 3층에는 엄마, 아빠가 편안 하게 쉴 수 있는 방이 있고, 엄마와 아빠가 커피를 마시며 얘기를 나눌 수 있는 테라스가 있습니다.#@문장구분# 또한 야외에는 여름에 더울 때 물놀이를 할 수 있는 수영장이 있고, 가족과 함께 축구와 배드민턴을 할 수 있는 축구장, 배드민턴장이 잔디밭에 있습니다.#@문장구분# 또한 집의 모양은 '디귿'자 모양으로 되어 있고, 부모님 방의 색은 전체적으로 화이트 톤으로 되어 있습니다.#@문장구분# 내 방의 색은 전체적으로 연한 파랑으로 되어 있습니다.#@문장구분# 동생의 방은 전체적으로 연한 핑크로 되어 있습니다.#@문장구분# 이렇듯 아름다운 꽃과 나무로 둘러쌓인 집이고, 편안함과 행복이 함께 하는 집이 바로 내가 살고 싶은 집입니다.#@문장구분#",
+      "paragraph_len": 709,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.5714285,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.5714285,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      24.514286,
+      28.285713,
+      26.619047
+    ],
+    "essay_scoreT_avg": 26.473015,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이렇듯 아름다운 꽃과 나무로 둘러싸인 집이고, 편안함과 행복이 함께 하는 집이 바로 내가 살고 싶은 집입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇듯 아름다운 꽃과 나무로 <문법_맞춤법>둘러쌓인</문법_맞춤법> 집이고, 편안함과 행복이 함께 하는 집이 바로 내가 살고 싶은 집입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40170",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 580,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

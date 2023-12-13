@@ -1,0 +1,246 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 일찍자고 일찍 일어나는 습관을 들였다.#@문장구분# 자는 시간을 정해놓고 그때 잔 뒤 알람을 정해 매일 같은 시간에 자는 것을 반복했다.#@문장구분# 반복을 했더니 알람이 울리지 않아도 그 시간대만 되면 눈이 감겨지고 저절로 눈이 떠진다.#@문장구분# 일찍 자고 일찍 일어나니 몸이 개운하고 등교시간이 넉넉해진다.#@문장구분# 하지만 단점이 있다면 늦게 자고 싶어도 잠이 와 그럴 수 없고, 너무 일찍 일어나도록 알람을 설정하여 더 자고 싶은 날이 있어도 잠이 안와 그럴 수 없다.#@문장구분# 또 넉넉한 수면시간으로 정해놓지 않아서 피곤할 때가 \n 종종 있어 학교에서 졸기도 한다. 습관이 되어 어쩔 수 없다.#@문장구분# 인간의 습관이란 고쳐지기 어렵고 무서운 신기한 것 같다.#@문장구분#",
+      "paragraph_len": 482,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "나는 어릴 때 부터 손톱을 뜯는 습관이 몇년동안 계속 있었는데 코로나를 계기로 고쳤다.#@문장구분# 하루종일 손톱을 만지며, 뜯게되면 얼마나 더러운지 생각해보고 고쳐보니 지금은 너무 좋다.#@문장구분# 손톱에 억메이지 않게 되니 뿌듯하기도 한다.#@문장구분#",
+      "paragraph_len": 183,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      19.75,
+      15.9,
+      19.5
+    ],
+    "essay_scoreT_avg": 18.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "033",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 일찍 자고 일찍 일어나는 습관을 들였다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>일찍자고</문법_맞춤법> 일찍 일어나는 습관을 들였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 하지만 단점이 있다면 늦게 자고 싶어도 잠이 와 그럴 수 없고, 너무 일찍 일어나도록 알람을 설정하여 더 자고 싶은 날이 있어도 잠이 <스타일링_담화 맥락 오류>안와</스타일링_담화 맥락 오류> 그럴 수 없다.",
+      "sentence_corr_txt_styling": " 하지만 단점이 있다면 늦게 자고 싶어도 잠이 와 그럴 수 없고, 너무 일찍 일어나도록 알람을 설정하여 더 자고 싶은 날이 있어도 잠이 오지 않아 그럴 수 없다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하루 종일 손톱을 만지며, 뜯게 되면 얼마나 더러운지 생각해 보고 고치니 지금은 너무 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하루종일 손톱을 만지며, <문법_맞춤법>뜯게되면</문법_맞춤법> 얼마나 더러운지 생각해보고 고쳐보니 지금은 너무 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 손톱에 <스타일링_담화 맥락 오류>억메이지 않게 되니 뿌듯하기도 한다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 손톱에 얽매이지 않게 되어 뿌듯하기도 하다.",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35418",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 467,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

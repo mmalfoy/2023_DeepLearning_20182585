@@ -1,0 +1,264 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 체육, 음악, 과학, 국어, 미술, 등등 여러개의 과목중에 가장 좋아하는 과목이 체육 입니다.#@문장구분# 왜냐하면 체육 에서는 피구, 야구, 달리기등등 하는데 친구들과 같이 뛰어 놀고항상 웃는 것이 즐겁습니다.#@문장구분# 그리고 피구, 달리기 등 하다보면 힘이들기도하죠#@문장구분# 그래서 하기 싫을때도 가끔 있습니다. #@문장구분#그래도 멋진 모습으로 열심희 가르쳐 주시는 체육 선생님 덕분에체육 수업을 재미있게 참여 할수 있습니다. #@문장구분#그래서 언제나 체육 수업이 재미있고 즐겁습니다. #@문장구분#특희 피구를 할때 공을 주고받고 서로 배려하는 모습이 보기좋고 응원해주는 모습이 좋고 즐겁습니다.#@문장구분# 야구를 할때 던지고 받는게 재미있습니다.#@문장구분# 그리하여 체육이 좋습니다.",
+      "paragraph_len": 500,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      19.666668,
+      22.733334
+    ],
+    "essay_scoreT_avg": 22.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 체육, 음악, 과학, 국어, 미술, 등등 여러 개의 과목 중에 가장 좋아하는 것은 체육입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 체육, 음악, 과학, 국어, 미술, 등등 <문법_맞춤법>여러개의 과목중에 가장 좋아하는 과목이 체육 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 체육에서는 피구, 야구, 달리기 등등 하는데 친구들과 같이 뛰어놀고 항상 웃는 것이 즐겁습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>체육 에서는</문법_맞춤법> 피구, 야구, 달리기등등 하는데 친구들과 같이 뛰어 놀고항상 웃는 것이 즐겁습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 피구, 달리기 등 하다 보면 힘이 들기도 하죠.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 피구, 달리기 등 <문법_맞춤법>하다보면 힘이들기도하죠</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 하기 싫을 때도 가끔 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 하기 <문법_맞춤법>싫을때도</문법_맞춤법> 가끔 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래도 멋진 모습으로 열심히 가르쳐 주시는 체육 선생님 덕분에 체육 수업에 재미있게 참여할 수 있습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "그래도 멋진 모습으로 <문법_맞춤법>열심희</문법_맞춤법> 가르쳐 주시는 체육 선생님 <문법_조사>덕분에체육 수업을 재미있게 참여 할수 있습니다.</문법_조사> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "특히 피구를 할 때 공을 주고받고 서로 배려하는 모습이 보기 좋고 응원해 주는 모습이 좋고 즐겁습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>특희 피구를 할때</문법_맞춤법> 공을 주고받고 서로 배려하는 모습이 보기좋고 응원해주는 모습이 좋고 즐겁습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 야구를 할 때 던지고 받는 게 재미있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 야구를 <문법_맞춤법>할때 던지고 받는게</문법_맞춤법> 재미있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48035",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 341,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

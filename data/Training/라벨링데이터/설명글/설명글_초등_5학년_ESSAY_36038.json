@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 취미는 그림그리기입니다.#@문장구분# 원래 그림을 잘 그리지 못해 그림에 딱히 취미는 없었지만, 최근에 부보님께서 생일 선물로 아이패드라는 전자기기를 받으며 그림그리기에 취미를 가지게 되었습니다.#@문장구분# 처음에 아이패드를 받았을땐 기쁘긴 했지만 뭘 어떻게 해야 하는지 의문투성이였습니다.#@문장구분# 그러다 어느분이 아이패드로 그림그리는 것을 보게 되었습니다. #@문장구분#직접 색칠도구로 그림을 그리는게 아닌 1,000개가 넘는 색깔로 그림을 그리시는게 멋지기도 하고 신기하기도 해서 접하게 되었습니다.#@문장구분# 그래서 유튜브도 찾아보고 여러가지를 찾은 결과 직접 제 돈을 주고 그림 그리는 앱을 샀고, 맘에 드는 그림들을 신나게 그리게 되었습니다.#@문장구분# 색칠부터 스케치, 그리고 명암까지 여러가지 그릴께 많아서 힘들고 팔이 아프기도 했지만 제가 좋아서 하는 것이다 보니 정말 재밌게 그림을 그릴 수 있게 되었습니다.#@문장구분# 요즘은 핀터레스트라는 앱을 통해 여러가지 옷들을 그릴 때 필요한 디자인을 얻고 있습니다.#@문장구분# 제 방 모습, 귀여운 캐릭터, 음식 그림까지 2시간에 걸쳐 많은 시간을 투자했지만 그 시간동안은 정말 즐겁습니다.#@문장구분# 이제는 동생까지 아이패드를 탐네고 있습니다.#@문장구분# 부모님께서도 이렇게 잘 활용하는 모습을 보니 뿌듯하시다고 해서 기분이 많이 좋습니다.#@문장구분# 아직까지는 미숙한 그림 실력이지만 더 노력해 더 많고, 좋은 그림을 그려보고 싶습니다.#@문장구분#",
+      "paragraph_len": 903,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.447618,
+      27.714287,
+      20.8
+    ],
+    "essay_scoreT_avg": 24.320633,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 원래 그림을 잘 그리지 못해 그림에 딱히 취미는 없었지만, 최근에 부모님께서 생일 선물로 아이패드라는 전자기기를 주셔서 그림 그리기에 취미를 가지게 되었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 원래 그림을 잘 그리지 못해 그림에 딱히 취미는 없었지만, 최근에 <문법_맞춤법>부보님</문법_맞춤법>께서 생일 선물로 아이패드라는 전자기기를 <스타일링_담화 맥락 오류>받으며</스타일링_담화 맥락 오류> 그림그리기에 취미를 가지게 되었습니다.",
+      "sentence_corr_txt_styling": " 원래 그림을 잘 그리지 못해 그림에 딱히 취미는 없었지만, 최근에 부모님께서 생일 선물로 아이패드라는 전자기기를 주셔서 그림 그리기에 취미를 가지게 되었습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음에 아이패드를 받았을 땐 기쁘긴 했지만 뭘 어떻게 해야 하는지 의문투성이였습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 처음에 아이패드를 <문법_맞춤법>받았을땐</문법_맞춤법> 기쁘긴 했지만 뭘 어떻게 해야 하는지 의문투성이였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러다 어떤 분이 아이패드로 그림 그리는 것을 보게 되었습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그러다 <문법_맞춤법><문법_패러프레이징>어느분이 아이패드로 그림그리는</문법_패러프레이징></문법_맞춤법> 것을 보게 되었습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "직접 색칠도구로 그림을 그리는게 아닌 1,000개가 넘는 색깔로 그림을 그리시는 게 멋지기도 하고 신기하기도 해서 접하게 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "직접 색칠도구로 그림을 그리는게 아닌 1,000개가 넘는 색깔로 그림을 <문법_맞춤법>그리시는게</문법_맞춤법> 멋지기도 하고 신기하기도 해서 접하게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 색칠부터 스케치, 그리고 명암까지 여러가지 그릴 게 많아서 힘들고 팔이 아프기도 했지만 제가 좋아서 하는 것이다 보니 정말 재밌게 그림을 그릴 수 있게 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 색칠부터 스케치, 그리고 명암까지 여러가지 <문법_맞춤법>그릴께</문법_맞춤법> 많아서 힘들고 팔이 아프기도 했지만 제가 좋아서 하는 것이다 보니 정말 재밌게 그림을 그릴 수 있게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제 방 모습, 귀여운 캐릭터, 음식 그림까지 2시간에 걸쳐 많은 시간을 투자했지만 그 시간 동안은 정말 즐겁습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제 방 모습, 귀여운 캐릭터, 음식 그림까지 2시간에 걸쳐 많은 시간을 투자했지만 그 <문법_맞춤법>시간동안은</문법_맞춤법> 정말 즐겁습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제는 동생까지 아이패드를 탐내고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이제는 동생까지 아이패드를 <문법_맞춤법>탐네고</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36038",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 664,
+    "essay_main_subject": "나의 취미"
+  }
+}

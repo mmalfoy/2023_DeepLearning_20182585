@@ -1,0 +1,288 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 가장 좋아하는 과목은 과학입니다.#@문장구분# 왜냐하면 수업시간에 어떤 실험을하고 실험관찰에 옮겨적기 때문입니다.#@문장구분#과학을 할 때 오늘은 무엇을 대상으로실험 할까? 라고 궁금증이 생기고 과학 실험을 할 때 나와 친구들이 매우기대합니다.#@문장구분# 하지만 실험이 없을 때는조금 우울하긴 하지만 실험 관찰에 옮겨 적는게 재미있어서 우울한 기분이 다 없어집니다.#@문장구분# 그리고 직접 체험 같이 눈으로 보기도 하고, 만져보고, 체험하는게 재미있습니다.#@문장구분# 그런데 제가가장 좋아하는 과힉이 목요일에 두시간있어서 목요일이 제일 좋습니다.#@문장구분# 목요일에는 실험을 안 하는 날보다 하는날이 더 많아서 너무 좋습니다.#@문장구분# 이렇게과학을 하면서 친구들과 실험을 하는게너무너무 좋고 행복합니다.#@문장구분# 앞으로 계속 과학을 하며 지식도 쌓아가고 싶습니다.#@문장구분# 제가 제일 좋아하는 과목은 과학 입니다.#@문장구분#",
+      "paragraph_len": 605,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      26.047619,
+      26.114285
+    ],
+    "essay_scoreT_avg": 24.853968,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 수업시간에 어떤 실험을 하고 실험 관찰에 옮겨 적기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 수업시간에 어떤 <문법_맞춤법>실험을하고 실험관찰에 옮겨적기 때문입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "과학을 할 때 오늘은 무엇을 대상으로실험 할까? 라고 궁금증이 생기고 과학 실험을 할 때 나와 친구들이 매우기대합니다.",
+      "sentence_corr_txt_styling": "과학을 할 때 오늘은 무엇을 대상으로실험 할까? 라고 궁금증이 생기고 과학 실험을 할 때 나와 친구들이 매우기대합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 하지만 실험이 없을 때는조금 우울하긴 하지만 실험 관찰에 옮겨 적는게 재미있어서 우울한 기분이 다 없어집니다.",
+      "sentence_corr_txt_styling": " 하지만 실험이 없을 때는조금 우울하긴 하지만 실험 관찰에 옮겨 적는게 재미있어서 우울한 기분이 다 없어집니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 직접 체험같이 눈으로 보기도 하고, 만져 보고, 체험하는 게 재미있습니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 직접 <문법_맞춤법>체험 같이</문법_맞춤법> 눈으로 보기도 하고, 만져보고, 체험하는게 재미있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그런데 제가가장 좋아하는 과힉이 목요일에 두시간있어서 목요일이 제일 좋습니다.",
+      "sentence_corr_txt_styling": " 그런데 제가가장 좋아하는 과힉이 목요일에 두시간있어서 목요일이 제일 좋습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 목요일에는 실험을 안 하는 날보다 하는 날이 더 많아서 너무 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 목요일에는 실험을 안 하는 날보다 <문법_맞춤법>하는날이</문법_맞춤법> 더 많아서 너무 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 과학을 하면서 친구들과 실험을 하는 게 너무너무 좋고 행복합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이렇게과학을 하면서 친구들과 실험을 하는게너무너무 좋고 행복합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 제일 좋아하는 과목은 과학입니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 제일 좋아하는 과목은 <문법_맞춤법>과학 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48095",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 406,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

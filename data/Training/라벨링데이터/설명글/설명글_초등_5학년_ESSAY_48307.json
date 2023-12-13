@@ -1,0 +1,288 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미는 배드민턴입니다#@문장구분# 하는 방법은 1한명씩 치면 단식이라고 불르고 2명식하면 복식으로 불릅니다 #@문장구분#단식과 복식의 공통점과 차이점은 우선공통점은 콧을 던져 방향을 가르치는 쪽이 서브를 는다 #@문장구분#그리고 이긴쪽이 서브를 는 다 공통점이 많아 여기서 차이점으로 넘어간다 #@문장구분#복식은 2:2로 게임을 하지만 단식은 1:1로 한다#@문장구분# 그리고 복식은 홀수면 왼쪽서브면 오른쪽이 서브를 한다 #@문장구분#또한 2점연속으로 점수를 딴쪽은 왼쪽과 오른쪽은 자리로 바꾸고 또점수를 득점을 하면 또체인지를 한다 #@문장구분#배드민턴은 태극민턴이라는 종목도 있다한다",
+      "paragraph_len": 423,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.666668,
+      28.066666,
+      26.114285
+    ],
+    "essay_scoreT_avg": 24.615873,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 취미는 배드민턴입니다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 취미는 <문법_맞춤법>배드민턴입니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 하는 방법은 1한명씩 치면 단식이라고 불르고 2명식하면 복식으로 불릅니다 ",
+      "sentence_corr_txt_styling": " 하는 방법은 1한명씩 치면 단식이라고 불르고 2명식하면 복식으로 불릅니다 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "단식과 복식의 공통점과 차이점은 우선공통점은 콧을 던져 방향을 가르치는 쪽이 서브를 는다 ",
+      "sentence_corr_txt_styling": "단식과 복식의 공통점과 차이점은 우선공통점은 콧을 던져 방향을 가르치는 쪽이 서브를 는다 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 이긴쪽이 서브를 는 다 공통점이 많아 여기서 차이점으로 넘어간다 ",
+      "sentence_corr_txt_styling": "그리고 이긴쪽이 서브를 는 다 공통점이 많아 여기서 차이점으로 넘어간다 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "복식은 2:2로 게임을 하지만 단식은 1:1로 한다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "복식은 2:2로 게임을 하지만 단식은 1:1로 <문법_맞춤법>한다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 복식은 홀수면 왼쪽서브면 오른쪽이 서브를 한다 ",
+      "sentence_corr_txt_styling": " 그리고 복식은 홀수면 왼쪽서브면 오른쪽이 서브를 한다 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또한 2점 연속으로 점수를 딴 쪽은 왼쪽과 오른쪽이 자리를 바꾸고 또 점수를 득점하면 체인지를 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>또한 2점연속으로 점수를 딴쪽은 왼쪽과 오른쪽은 자리로 바꾸고 또점수를 득점을 하면 또체인지를 한다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "배드민턴은 태극민턴이라는 종목도 있다고 한다.",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "배드민턴은 태극민턴이라는 종목도 <문법_맞춤법><문법_어미>있다한다</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48307",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 283,
+    "essay_main_subject": "나의 취미"
+  }
+}

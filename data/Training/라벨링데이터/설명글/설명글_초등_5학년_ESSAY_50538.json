@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요!#@문장구분# 제가오늘은 내가 좋아하는 과목을 소개를 할까합니다#@문장구분# 제가 가장 좋아하는 과목은 수확입니다#@문장구분# 왜냐하면 수학은 어떤 문제를 해결하는 과정이 있는데 그 해결하는는 과정을 모르면 재미없고 하기 싫지만 해결하는 과정을 알면 더 더욱 수학에 흥미를 느끼게 된다#@문장구분# 그리고 수학은 시험을 볼고 난훈 기분이 좋을 때랑 안좋을 때가 있다 #@문장구분#왜냐하면 시험에서 높은 점수를 맞았을때는 좋지만 시험 점수가 낮을 때는 기분이 안좋다#@문장구분# 하지만 내가 어디에 실력이 안좋은지 알고 그 부분을 다시 배우면 된다#@문장구분# 또 수학에는 여러가지의 문제가 있어 모두가 수학을 즐길수 있다#@문장구분#",
+      "paragraph_len": 464,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2.4285715,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.685713,
+      26.047619,
+      28.285713
+    ],
+    "essay_scoreT_avg": 27.006348,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 제가 오늘은 내가 좋아하는 과목을 소개를 할까 합니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>제가오늘은 내가 좋아하는 과목을 소개를 할까합니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 수학은 어떤 문제를 해결하는 과정이 있는데 그 해결하는 거는 과정을 모르면 재미없고 하기 싫지만 해결하는 과정을 알면 더더욱 수학에 흥미를 느끼게 된다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 수학은 어떤 문제를 해결하는 과정이 있는데 <문법_맞춤법>그 해결하는는 과정을 모르면 재미없고 하기 싫지만 해결하는 과정을 알면 더 더욱 </문법_맞춤법>수학에 흥미를 느끼게 된다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 수학은 시험을 보고 난 후 기분이 좋을 때랑 안 좋을  때가 있다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 수학은 시험을 <문법_맞춤법>볼고 난훈 기분이 좋을 때랑 안좋을 때가</문법_맞춤법> 있다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 시험에서 높은 점수를 맞았을 때는 좋지만 시험 점수가 낮을 때는 기분이 안 좋다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 시험에서 높은 점수를 <문법_맞춤법>맞았을때는 좋지만 시험 점수가 낮을 때는 기분이 안좋다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 내가 어디에 실력이 안 좋은지 알고 그 부분을 다시 배우면 된다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 내가 어디에 실력이 <문법_맞춤법>안좋은</문법_맞춤법>지 알고 그 부분을 다시 배우면 된다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 수학에는 여러 가지의 문제가 있어 모두가 수학을 즐길 수  있다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 수학에는<문법_맞춤법> 여러가지의 문제가 있어 모두가 수학을 즐길수</문법_맞춤법> 있다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50538",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 305,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

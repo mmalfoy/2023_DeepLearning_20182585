@@ -1,0 +1,308 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 취미는 대자로 누워있기와 안방 몰래 들어가기, 노래듣기 입니다.#@문장구분# 대자로 누워있기는 심심하고 할거없을때 하면 좋은자세 입니다.#@문장구분# 시간 때우기도 좋고, 피도 잘 통한다고 해서 자주 하는 자세입니다.#@문장구분# 안방 몰래 들어가기는 부모님이 자고 계실때 몰래 들어가거나 아침에 학교 줌수업이 끝나면 들어가서 침대에 같이 눕기입니다#@문장구분#. 은근 재밌고 편해서 자주 하는 짓 입니다. #@문장구분#노래듣기는 할거 없을때 그냥 아무노래나 틀어서 듣는것입니다. #@문장구분#가끔씩 심심할때나 강아지 산책할때 밤에 잠깐 나갔을때 자주 듣는데 저는 한 노래에 꽂히면 맨날 그노래만 듣기 때문에 한 노래만 듣고 있습니다.#@문장구분# 다른 취미들은 강아지랑 같이 하는것들인데 강아지랑 숨바꼭질 하기, 침대에서 뒹굴대기, 술래잡기입니다. 숨바꼭질은 강아지에게 장난감을 주고 어딘가에 숨어서 강가지가 찾는 놀이입니다. #@문장구분#침대에서 뒹굴대기는 강아지랑 침대에 올라가서 그냥 뒹굴 대는 것 입니다#@문장구분#. 술래잡기는 강아지가 나를 쫒아오다가 잡히면 지는 놀이입니다.#@문장구분#",
+      "paragraph_len": 691,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      15.780952,
+      20
+    ],
+    "essay_scoreT_avg": 18.704763,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.15",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제 취미는 대자로 누워있기와 안방 몰래 들어가기, 노래 듣기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제 취미는 대자로 누워있기와 안방 몰래 들어가기, <문법_맞춤법>노래듣기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대자로 누워있기는 심심하고 할 거 없을 때 하면 좋은 자세입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대자로 누워있기는 심심하고 <문법_맞춤법>할거없을때 하면 좋은자세 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안방 몰래 들어가기는 부모님이 자고 계실 때 몰래 들어가거나 아침에 학교 줌수업이 끝나면 들어가서 침대에 같이 눕기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 안방 몰래 들어가기는 부모님이 자고 <문법_맞춤법>계실때</문법_맞춤법> 몰래 들어가거나 아침에 학교 줌수업이 끝나면 들어가서 침대에 같이 <문법_기타>눕기입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "은근 재밌고 편해서 자주 하는 짓입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>. 은근 재밌고 편해서 자주 하는 짓 입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "노래 듣기는 할 거 없을 때 그냥 아무 노래나 틀어서 듣는 것입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>노래듣기는 할거 없을때 그냥 아무노래나 틀어서 듣는것입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "가끔씩 심심할 때나 강아지 산책할 때, 밤에 잠깐 나갔을 때 자주 듣는데 저는 한 노래에 꽂히면 맨날 그 노래만 듣기 때문에 한 노래만 듣고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "가끔씩 <문법_맞춤법>심심할때나 강아지 산책할때 밤에 잠깐 나갔을때 자주 듣는데 저는 한 노래에 꽂히면 맨날 그노래만 듣기 때문에 한 노래만 듣고 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 취미들은 강아지랑 같이 하는 것들인데 강아지랑 숨바꼭질 하기, 침대에서 뒹굴기, 술래잡기입니다. 숨바꼭질은 강아지에게 장난감을 주고 어딘가에 숨어서 강가지가 찾는 놀이입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 다른 취미들은 강아지랑 같이 <문법_맞춤법>하는것들인데</문법_맞춤법> 강아지랑 숨바꼭질 하기, 침대에서 <문법_어미>뒹굴대기</문법_어미>, 술래잡기입니다. 숨바꼭질은 강아지에게 장난감을 주고 어딘가에 숨어서 강가지가 찾는 놀이입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "침대에서 뒹굴기는 강아지랑 침대에 올라가서 그냥 뒹구는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "침대에서 <문법_어미>뒹굴대기는 강아지랑 침대에 올라가서 그냥 뒹굴 대는 것 입니다</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "술래잡기는 강아지가 저를 쫓아오다가 잡히면 지는 놀이입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": "<문법_높임법>. 술래잡기는 강아지가 나를 쫒아오다가 잡히면 지는 놀이입니다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36036",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 491,
+    "essay_main_subject": "나의 취미"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 딱히 나쁜 습관을 가지고 있지않습니다.#@문장구분# 그런데 친구가 매일 아침에 일어나 운동하는 모습을 보고 좋은 습관이라고 생각하였습니다.#@문장구분# 친구에게 아침에 일어나 운동하는 것의 장점이 무엇이냐고 물어보았고, 친구는 아침에 운동을 하면 뿌듯하고 건강해지는 기분이 든다고 하였습니다.#@문장구분# 그래서 저도 아침에 운동을 하는 좋은 습관을 만들기 위해, 친구와 같이 아침에 운동을 하기로 약속하였습니다.#@문장구분# 처음에는 아침에 일찍 일어나기 어려웠고, 눈을 떠도 몸이 무거워서 운동을 하러 가기 어려웠습니다. #@문장구분#그러나 한번 운동을 해보니까 친구말대로 뿌듯함과 몸이 건강해지는 기분을 받았습니다.#@문장구분# 그 뒤로 그 기분을 또 느끼고 싶어 아침 운동을 계속해서 나가게 되었습니다.#@문장구분# 저는 이번 습관 만들기를 통해 처음에는 어려웠지만, 막상 해보니 별거아니라는 것을 느꼈습니다. #@문장구분#좋은 습관을 들이기위해서는 겁먹지말고 일단 한번 해보자라는 마음을 가지고 해보는 것이 중요하다고 생각하였습니다.#@문장구분#",
+      "paragraph_len": 654,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.65,
+      25.6,
+      20.5
+    ],
+    "essay_scoreT_avg": 22.25,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 딱히 나쁜 습관을 가지고 있지 않습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 딱히 나쁜 습관을 가지고 <문법_맞춤법>있지않습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러나 한번 운동을 해 보니까 친구 말대로 뿌듯함과 몸이 건강해지는 기분을 받았습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그러나 한번 운동을 <문법_맞춤법>해보니까</문법_맞춤법> 친구말대로 뿌듯함과 몸이 건강해지는 기분을 받았습니다.",
+      "sentence_corr_txt_styling": "그러나 한번 운동을 해 보니까 친구 말대로 뿌듯함과 몸이 건강해지는 기분을 받았습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "좋은 습관을 들이기 위해서 겁먹지 말고 일단 한 번 해 보자는 마음을 가지고 해 보는 것이 중요하다고 생각하였습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "좋은 습관을 <문법_맞춤법><문법_조사>들이기위해서는</문법_조사></문법_맞춤법> 겁먹지말고 일단 한번 해보자라는 마음을 가지고 해보는 것이 중요하다고 생각하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75842",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 475,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

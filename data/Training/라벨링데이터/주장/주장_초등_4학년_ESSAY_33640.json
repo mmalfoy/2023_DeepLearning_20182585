@@ -1,0 +1,446 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 여기서 그만해야한다고 생각을 합니다. #@문장구분#그 이유는 첫째로는 지구가 점점 안좋아질거같고 두 째로는 과학이 계속 발전이 된다면 전기가 많이 없어질수도 있다고 생각합니다. #@문장구분#세번째로는 이미 많이 발전을했는데 또 발전을 해야한다고 생각하지 않습니다.#@문장구분# 네번째로는 그 글처럼 환경문제가 생기는것 같습니다.#@문장구분# 과학 때문에 환경을 파괴하고싶지 않습니다.#@문장구분# 이미 저는 지구가 이제 완벽한데 계속 과학을 발전한다면 우리도 힘들수 있을거 같습니다. #@문장구분#과학 때문에 힘들게 살고싶지 않습니다. #@문장구분#예전에는 과학의 발전을 아직도했으면 좋겠다는생각을 할 수있을거같지만 이제 발전을 안해도 된다고 생각합니다.#@문장구분# 이제좋게 행복하게살거같은데 과학 때문에 아니 과학을발전을 계속 하게 된다면 언젠간 지구도 멸망할수있습니다. #@문장구분#예전엔 차도 없었는데 과학의 발전 때문에 차에서 나오는 뭐였지?#@문장구분# 기억이 않나지만 공기가 더러운 공기가 될수있습니다. #@문장구분#이제 그만 발전을 하는게 좋을거 같습니다. #@문장구분#과학의 발전 때문에 힘들게 살고싶지않습니다. #@문장구분#그만 과학의 발전을 멈췃으면좋겠습니다. #@문장구분#과학의 발전 멈쳐! #@문장구분#저는 이제 발전을 많이했다고 생각 합니다.#@문장구분# 이제 그만 발전을 했으면 좋겠습니다.#@문장구분# 발전을하면 좋지만 이제 그만 해줬으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 960,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      27,
+      23
+    ],
+    "essay_scoreT_avg": 23.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.23",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 여기서 그만해야 한다고 생각을 합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 여기서 <문법_맞춤법>그만해야한다고 </문법_맞춤법>생각을 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 이유는 첫째로는 지구가 점점 안 좋아질 거 같고 두 째로는 과학이 계속 발전이 된다면 전기가 많이 없어질 수도 있다고 생각합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 이유는 첫째로는 지구가 점점 <문법_맞춤법>안좋아질거같고</문법_맞춤법> 두 째로는 과학이 계속 발전이 된다면 전기가 많이 없어질수도 있다고 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세 번째로는 이미 많이 발전을 했는데 또 발전을 해야 한다고 생각하지 않습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>세번째로는 </문법_맞춤법>이미 많이 발전을했는데 또 발전을 해야한다고 생각하지 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 네 번째로는 그 글처럼 환경문제가 생기는 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>네번째로는 </문법_맞춤법>그 글처럼 환경문제가 생기는것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과학 때문에 환경을 파괴하고 싶지 않습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 과학 때문에 환경을 <문법_맞춤법>파괴하고싶지 </문법_맞춤법>않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이미 지구가 이제 완벽한데 계속 과학을 발전한다면 우리도 힘들 수 있을 거 같습니다. ",
+      "sentence_corr_reason": [
+        "어순 변경",
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_어순>이미 저는</문법_어순> 지구가 이제 완벽한데 계속 과학을 발전한다면 우리도 <문법_맞춤법>힘들수 </문법_맞춤법>있을거 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과학 때문에 힘들게 살고 싶지 않습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "과학 때문에 힘들게 <문법_맞춤법>살고싶지 </문법_맞춤법>않습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예전에는 과학의 발전을 아직도 했으면 좋겠다는 생각을 할 수 있을 거 같지만 이제 발전을 안 해도 된다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "예전에는 과학의 발전을 <문법_맞춤법>아직도했으면 좋겠다는생각을 </문법_맞춤법>할 수있을거같지만 이제 발전을 안해도 된다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제 좋게 행복하게 살 거 같은데 과학 때문에 아니 과학의 발전을 계속하게 된다면 언젠간 지구도 멸망할 수 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요",
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사>이제좋게 행복하게살거같은데 과학 때문에 아니 과학을발전을 계속 하게 된다면 언젠간 지구도 멸망할수있습니다.</문법_조사></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "문맥상 부자연스러움"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "예전엔 차도 없었는데 과학의 발전 때문에 차에서 나오는 <스타일링_패러프레이징>뭐였지?</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "예전엔 차도 없었는데 과학의 발전 때문에 차에서 나오는 연기가 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기억이 안 나지만 공기가 더러워 질 수 있습니다. ",
+      "sentence_corr_reason": [
+        "맞춤법 정정",
+        "단어 중복사용"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 기억이 <문법_맞춤법>않나지만 </문법_맞춤법><스타일링_패러프레이징>공기가 더러운 공기가 될수있습니다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": " 기억이 안 나지만 공기가 더러워 질 수 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이제 그만 발전을 하는 게 좋을 거 같습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이제 그만 발전을 <문법_맞춤법>하는게 좋을거 </문법_맞춤법>같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과학의 발전 때문에 힘들게 살고 싶지 않습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "과학의 발전 때문에 힘들게 <문법_맞춤법>살고싶지않습니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그만 과학의 발전을 멈췄으면 좋겠습니다. ",
+      "sentence_corr_reason": [
+        "맞춤법 정정, 띄어쓰기 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그만 과학의 발전을 <문법_맞춤법>멈췃으면좋겠습니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과학의 발전 멈춰! ",
+      "sentence_corr_reason": [
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "과학의 발전 <문법_맞춤법>멈쳐</문법_맞춤법>! ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 이제 발전을 많이 했다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 이제 발전을 <문법_맞춤법>많이했다고 </문법_맞춤법>생각 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 발전을 하면 좋지만 이제 그만 해줬으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>발전을하면 </문법_맞춤법>좋지만 이제 그만 해줬으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33640",
+    "essay_prompt": " 현대 과학은 나날이 발전해 나아가고 있습니다. 여기서 '현대 과학'이란 지금 여러분들이 사용하고 있는 핸드폰이나 먹는 알약 등을 만들 수 있게 해주는 기술의 기반입니다.\n\n 많은 과학자들이 과학 기술을 연구해서 현대 과학의 수준이 많이 성장했습니다. 여러분이 주변에서 많이 보는 자동차나 일상생활에서 사용하는 생활용품도 대부분 과학기술의 발전으로 탄생했습니다.\n\n 하지만 이러한 과학기술의 발전은 심각한 환경문제를 만들어 지구환경에 심각한 경고를 주고 있습니다. 과학실험을 하기 위해서는 여러 화학적 실험과 쓰레기들이 생겨 환경에 안 좋은 물질들이 생기기 때문입니다.\n\n 과학이 발전하면 편리하고 사회의 많은 문제가 해결되지만 한편으로는 우리가 살고 있는 지구의 환경을 파괴하기도 한 거죠.\n\n 여러분은 과학의 발전이 지금처럼 빠르게 이루어져야 한다고 생각하나요? 아니면 환경을 위협하는 발전은 멈춰야 한다고 생각하나요?\n\n 과학의 발전을 위한 환경 파괴는 어쩔 수 없다고 생각하는지 아니면 환경을 위해 과학의 발전을 멈추어야 한다고 생각하는지 본인의 의견을 작성해주세요. 그리고 그 이유에 대해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 602,
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각"
+  }
+}

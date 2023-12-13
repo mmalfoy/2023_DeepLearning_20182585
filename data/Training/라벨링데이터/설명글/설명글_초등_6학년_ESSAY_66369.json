@@ -1,0 +1,322 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 가장 존경하는 위인은 전태일 열사 입니다 #@문장구분#전태일열사는 우리나라의 1970 년대의 고독한 노동 현실을 바꾼 엄청난 위인입니다. #@문장구분#전태일 열사는 평화시장의 가난하지만 행복한 꿈을꾸는 착한 재단사였습니다#@문장구분# 하지만 그꿈은 정말 한순간에 무너졌습니다 #@문장구분#하루 16시간 노동. 그러면서 수입은 조금. #@문장구분#그러한 노동 현실을 국가, 공무원 모두가 모른체 했습니다 #@문장구분#그러던 어느날 서점에서 근로기준법을 담은 책을 보고 평화시장 재단사들과 시다들 과 함께 데모를 하였지만 실패 #@문장구분#결국 근로기준법 책과 함께 자신을 불태워 분신해 우리나라의 비참한 노동현실을 알린 위인입니다 #@문장구분#전태일 열사를 기억하지 못하는 아니 아직도 모르고 지낸어린이들이 많습니다 #@문장구분#이글을 통해 알릴 수 있으면 좋겠습니다 #@문장구분#전태일 열사를 통해 본받을점은 잘못된것을 알리고 자신을 희생하면서까지 잘못된 현실을 알리려고 한 정신을 본받을수있었습니다 #@문장구분#전태일 열사를 기억합시다",
+      "paragraph_len": 670,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.3,
+      29.75,
+      20
+    ],
+    "essay_scoreT_avg": 23.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 가장 존경하는 위인은 전태일 열사입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 가장 존경하는 위인은 전태일 <문법_맞춤법>열사 입니다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "전태일 열사는 평화시장의 가난하지만 행복한 꿈을 꾸는 착한 재단사였습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "전태일 열사는 평화시장의 가난하지만 행복한 <문법_맞춤법>꿈을꾸는 착한 재단사였습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 그 꿈은 정말 한순간에 무너졌습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>하지만 그꿈은 정말 한순간에 무너졌습니다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러한 노동 현실을 국가, 공무원 모두가 모른 체했습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러한 노동 현실을 국가, 공무원 모두가 <문법_맞춤법>모른체 했습니다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그러던 어느날 서점에서 근로기준법을 담은 책을 보고 평화시장 재단사들과 시다들 과 함께 데모를 하였지만 실패 ",
+      "sentence_corr_txt_styling": "그러던 어느날 서점에서 근로기준법을 담은 책을 보고 평화시장 재단사들과 시다들 과 함께 데모를 하였지만 실패 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "결국 근로기준법 책과 함께 자신을 불태워 분신해 우리나라의 비참한 노동현실을 알린 위인입니다. ",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "결국 근로기준법 책과 함께 자신을 불태워 분신해 우리나라의 비참한 노동현실을 알린 <문법_맞춤법>위인입니다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "전태일 열사를 기억하지 못하는 아니 아직도 모르고 지낸어린이들이 많습니다 ",
+      "sentence_corr_txt_styling": "전태일 열사를 기억하지 못하는 아니 아직도 모르고 지낸어린이들이 많습니다 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 글을 통해 알릴 수 있으면 좋겠습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이글</문법_맞춤법>을 통해 알릴 수 있으면 좋겠습니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "전태일 열사를 통해 본받을 점은 잘못된 것을 알리고 자신을 희생하면서까지 잘못된 현실을 알리려고 한 정신을 본받을 수 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "전태일 열사를 통해 <문법_맞춤법><문법_어미>본받을점은 잘못된것을 알리고 자신을 희생하면서까지 잘못된 현실을 알리려고 한 정신을 본받을수있었습니다</문법_어미></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "전태일 열사를 기억합시다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "전태일 열사를 <문법_맞춤법>기억합시다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66369",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 450,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

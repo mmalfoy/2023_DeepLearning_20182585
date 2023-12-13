@@ -1,0 +1,423 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 친구들 에게 어떤 친구가 돼고싶냐면 친구들을 잘 챙겨주고 친구가 힘들어 할땐 외로해주는 친구 함께 가치 소외 시키지 않은 친구가 돼고 싶습니다.#@문장구분# 친구들이 저한테 했던 것을 저는 반대로 잘챙기는 친구가 돼고싶 음니다.#@문장구분# 그리고 진정한 친구 가 돼고싶습니다.#@문장구분#너무 친구들이 나는 장난만 치는 친구 인것 같지만 속으로는 찰한마음이 었습니다.#@문장구분# 소심한것 빼고는 완벽하 사람인것 같습니다#@문장구분# 때론 용감 하고 친구와 소통을 많이 하는 친구가 됐으면 좋겠습니다.#@문장구분# 친구들은 나를 어떤 친구로 생각하고 었을 까요?#@문장구분# 궁금합니다.#@문장구분# 저를 할말을 다하는 친구?#@문장구분# 이런친구로 삼았으면 좋겠습니다#@문장구분# 친구들에게 재미있는 친구로 남고 싶은데 매일 장난만 치는 친구로 남아있을것 같습니다#@문장구분# 저를 마음이 여리고 때로는 용감 한 친구 가돼고 싶습니다.#@문장구분# 친구와 잘지내고 싶어도 잘못지내 는 성격 인것 같습 니다.#@문장구분# 다른 친구랑 놀면 잘못 놀고 친한애들이랑 놀면 잘놀고 친하렬이 없는 사람 인것 같습니다#@문장구분# 때론  마음이 여린 사람인것 같습니다#@문장구분# 때론  마음이 여린 사람인것 같은 생각도 듬니다...#@문장구분# 진짜 저는 착한 친구로 남았스면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 893,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      20.25,
+      24.65
+    ],
+    "essay_scoreT_avg": 21.716667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.05",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 친구들에게 어떤 친구가 되고 싶냐면 친구들을 잘 챙겨주고 친구가 힘들어할 땐 위로해 주는 친구 함께 가치 소외 시키지 않은 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>친구들 에게</문법_맞춤법> 어떤 친구가 돼고싶냐면 친구들을 잘 챙겨주고 친구가 힘들어 할땐 외로해주는 친구 함께 가치 소외 시키지 않은 친구가 돼고 싶습니다.",
+      "sentence_corr_txt_styling": "나는 친구들에게 어떤 친구가 되고 싶냐면 친구들을 잘 챙겨주고 친구가 힘들어할 땐 위로해 주는 친구 함께 가치 소외 시키지 않은 친구가 되고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들이 저한테 했던 것을 저는 반대로 잘 챙기는 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구들이 저한테 했던 것을 저는 반대로 <문법_맞춤법>잘챙기는</문법_맞춤법> 친구가 돼고싶 음니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 진정한 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 진정한 <문법_맞춤법>친구 가 돼고싶습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "너무 친구들이 나는 장난만 치는 친구인 것 같지만 속으로는 착한 마음이었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "너무 친구들이 나는 장난만 치는 <문법_맞춤법>친구 인것 </문법_맞춤법>같지만 속으로는 찰한마음이 었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 소심한 것 빼고는 완벽한 사람인 것 같습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>소심한것 </문법_맞춤법>빼고는 완벽하 사람인것 같습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 때론 용감하고 친구와 소통을 많이 하는 친구가 됐으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 때론 <문법_맞춤법>용감 하고</문법_맞춤법> 친구와 소통을 많이 하는 친구가 됐으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들은 나를 어떤 친구로 생각하고 있을 까요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구들은 나를 어떤 친구로<문법_맞춤법> 생각하고 었을</문법_맞춤법> 까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저를 할 말을 다하는 친구?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저를 <문법_맞춤법>할말을 </문법_맞춤법>다하는 친구?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 친구로 삼았으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>이런친구로</문법_맞춤법> 삼았으면 <문법_기타>좋겠습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들에게 재미있는 친구로 남고 싶은데 매일 장난만 치는 친구로 남아있을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구들에게 재미있는 친구로 남고 싶은데 매일 장난만 치는 친구로<문법_맞춤법> 남아있을것 같습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 마음이 여리고 때로는 용감한 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저를</문법_맞춤법> 마음이 여리고 때로는 용감 한 친구 가돼고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구와 잘 지내고 싶어도  잘못 지내는 성격인 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구와 <문법_맞춤법>잘지내고 </문법_맞춤법>싶어도 잘못지내 는 성격 인것 같습 니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 친구랑 놀면 잘못 놀고 친한 애들이랑 놀면 잘 놀고 친화력이 없는 사람인 것 같습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 다른 친구랑 놀면 잘못 놀고 <문법_맞춤법>친한애들이랑</문법_맞춤법> 놀면 <문법_기타>잘놀고 친하렬이 없는 사람 인것 같습니다</문법_기타>",
+      "sentence_corr_txt_styling": " 다른 친구랑 놀면 잘못 놀고 친한 애들이랑 놀면 잘 놀고 친화력이 없는 사람인 것 같습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 때론  마음이 여린 사람인 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 때론  마음이 여린<문법_맞춤법><문법_기타> 사람인것 같습니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 때론  마음이 여린 사람인 것 같은 생각도 듭니다...",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 때론  마음이 여린 <문법_맞춤법>사람인것</문법_맞춤법> 같은 생각도 듬니다...",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진짜 저는 착한 친구로 남았으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 진짜 저는 착한 친구로 <문법_맞춤법>남았스면</문법_맞춤법> 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52491",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 553,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

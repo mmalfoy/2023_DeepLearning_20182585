@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 나에게 좋은 습관이 들 수 있도록 노력을 해왔던 것 같다.#@문장구분# 그중 어떤 습관을 들이기 위해서 노력을 했냐면... 바로 정리하는 습관이었다.#@문장구분# 나는 한 번 사용해놓으면 그 물건들을 제자리에 놓지 않았다.#@문장구분# 그래서 내 방은 쉽게 더러워져 있었다.#@문장구분# 양말도 아무 곳이나 벗어 두고, 펜을 사용해도 다시 펜이 있던 연필 꽂이에 꽂아두지도 않고, 그냥 아무데나 냅두어버렸다.#@문장구분# 그래서 내 방은 정말 어지러웠다.#@문장구분# 그래가지고 내가 물건을 한 번 사용하면 바로바로 정리하는 습관을 들이기 위해서 노력을 했다.#@문장구분# 그래서 그전에는 물건을 한 번 사용하면 정말 아무 생각없이 아무데나 냅두었었는데 이제는 물건을 한 번 사용하면 의식을 해서 귀찮더라도 다시 원래 자리에 냅두었다.#@문장구분# 그렇기 때문에 이제는 아예 이렇게 정리 하는 것이 습관이 되어버려서 지금은 내 방이 아주 깔끔하고, 필요한 물건을 찾는 것도 아주 쉬워졌다.#@문장구분#",
+      "paragraph_len": 624,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.9,
+      22.55,
+      14.4
+    ],
+    "essay_scoreT_avg": 19.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 나에게 좋은 습관이 들 수 있도록 노력을 했던 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": "나는 나에게 좋은 습관이 들 수 있도록 노력을 <문법_시제>해왔던</문법_시제> 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중 어떤 습관을 들이기 위해서 노력을 했냐면, 바로 정리하는 습관이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그중 어떤 습관을 들이기 위해서 노력을 <문법_기타>했냐면...</문법_기타> 바로 정리하는 습관이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 한 번 사용하면 그 물건들을 제자리에 놓지 않았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 나는 한 번 <문법_어미>사용해놓으면</문법_어미> 그 물건들을 제자리에 놓지 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 양말도 아무 곳이나 벗어 두고, 펜을 사용해도 다시 펜이 있던 연필 꽂이에 꽂아두지도 않고 그냥 아무데나 냅뒀다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " 양말도 아무 곳이나 벗어 두고, 펜을 사용해도 다시 펜이 있던 연필 꽂이에 꽂아두지도 <문법_기타>않고,</문법_기타> 그냥 아무데나 <문법_어미>냅두어버렸다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래가지고 내가 물건을 한 번 사용하면 바로바로 정리하는 습관을 들이기 위해서 노력했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그래가지고 내가 물건을 한 번 사용하면 바로바로 정리하는 습관을 들이기 위해서 <문법_조사>노력을 했다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 그 전에는 물건을 한 번 사용하면 정말 아무 생각 없이 아무데나 냅두었는데 이제는 물건을 한 번 사용하면 의식을 해서 귀찮더라도 다시 원래 자리에 냅두었다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>그전에는</문법_맞춤법> 물건을 한 번 사용하면 정말 아무 생각없이 아무데나 <문법_시제>냅두었었는데</문법_시제> 이제는 물건을 한 번 사용하면 의식을 해서 귀찮더라도 다시 원래 자리에 냅두었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69168",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 444,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

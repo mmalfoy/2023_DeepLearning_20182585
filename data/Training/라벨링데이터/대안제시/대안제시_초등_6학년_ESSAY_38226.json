@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물을 유기하는 일은 정말 있어선 안 된다고 생각한다. #@문장구분#단순히 귀엽고 이쁘다고 데려가는 사람들이 자꾸 짖어서 시끄럽고 키우면서 쓰는 비용이 많다고 버린다.#@문장구분# 반려동물은 할 수 있는 게 없다.#@문장구분# 사람은 본인의 취미를 즐길 수도 있고 다른 사람들과 웃고 떠들면서 놀 수도 있지만 반려동물은 그저 주인을 사랑하는 일밖에 없다. #@문장구분#그런 애들을 매정하게 버리는 사람들을 보면 정말 화나고 버려진 애가 너무 불쌍하다.#@문장구분#키우고 싶으면 잘 생각해봐야한다. #@문장구분#내가 키울 수 있는 환경인지 금전적으로 여유가 있는지 등등 고민해봐야한다.#@문장구분# 내가 초3때는 부모님은 일 나가시고 언니는 학원가서 집이 항상 비었다.#@문장구분# 근데 강아지를 너무 키우고 싶었다. #@문장구분#맨날 고민을 하다가 내가 강아지를 행복하게 해줄 자신이 없어서 안 키웠다.#@문장구분# 만약 키웠다면 항상 집에 혼자 있어 좋은 삶을 살고 있다고 생각하진 않을 것 같다. #@문장구분#유기를 방지하는 방법에는 벌금을 내는 것이다. #@문장구분#아무도 버리지 않도록 1000만원으로 하면 좋을 것 같다. #@문장구분#돈이 많은 사람들은 껌값이라고 당당하게 법을 어기고 벌금을 내기 때문이다.#@문장구분#",
+      "paragraph_len": 816,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.622223,
+      24.47778,
+      23.11111
+    ],
+    "essay_scoreT_avg": 23.070372,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "단순히 귀엽고 이쁘다고 <스타일링_담화 맥락 오류>데려가는 사람들이</스타일링_담화 맥락 오류> 자꾸 짖어서 시끄럽고 키우면서 쓰는 <스타일링_패러프레이징>비용이 많다고</스타일링_패러프레이징> 버린다.",
+      "sentence_corr_txt_styling": "단순히 귀엽고 이쁘다고 개를 데려가는 사람들은 자꾸 짖어서 시끄럽고 키우면서 쓰는 비용이 많다는 이유로 버린다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 사람은 본인의 취미를 즐길 수도 있고 다른 사람들과 웃고 떠들면서 놀 수도 있지만 반려동물은 그저 주인을 사랑하는 <스타일링_담화 맥락 오류>일밖에 없다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 사람은 본인의 취미를 즐길 수도 있고 다른 사람들과 웃고 떠들면서 놀 수도 있지만 반려동물은 그저 주인을 사랑하는 일밖에 할 수 없다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "키우고 싶으면 잘 생각해 봐야 한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "키우고 싶으면 잘 <문법_기타>생각해봐야한다.</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 키울 수 있는 환경인지 금전적으로 여유가 있는지 등등 고민해 봐야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "내가 키울 수 있는 환경인지 금전적으로 여유가 있는지 등등 <문법_기타>고민해봐야한다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 초3 때는 부모님은 일 나가시고 언니는 학원 가서 집이 항상 비었었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 내가 <문법_기타>초3때는</문법_기타> 부모님은 일 나가시고 언니는 학원가서 집이 항상 <스타일링_패러프레이징>비었다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": " 내가 초3 때는 부모님은 일 나가시고 언니는 학원 가서 집이 항상 비었었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "유기를 방지하는 방법은 벌금을 내는 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "유기를 방지하는 <문법_조사>방법에는</문법_조사> 벌금을 내는 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아무도 버리지 않도록 1000만 원으로 하면 좋을 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "아무도 버리지 않도록 <문법_기타>1000만원</문법_기타>으로 하면 좋을 것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38226",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 538,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 거의 티비3０분,폰1시간3０분,운동4０분,책3권등으로 약3시간을 여가시간으로 즐기고 있고 티비,폰,운동(자전거,런닝머신등),책(만화책,역사책,과학책등)등 여러가지 여가생활을 하고있고 또 고쳐야할점은 책을 좀 더 많이 읽어야 될꺼같고 폰 하는 시간을 줄이고 공부실력이 늘게 공부를 조금 많이 했으면 좋다.#@문장구분# 그리고 책도 3권에서 1권만더 읽으면 매우 좋을것같다  .#@문장구분#",
+      "paragraph_len": 245,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6190476,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      12.514286,
+      12.4,
+      20
+    ],
+    "essay_scoreT_avg": 14.971428,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>저는 거의 티비3０분,폰1시간3０분,운동4０분,책3권등으로 약3시간을 여가시간으로 즐기고 있고 티비,폰,운동(자전거,런닝머신등),책(만화책,역사책,과학책등)등 여러가지 여가생활을 하고있고 또 고쳐야할점은 책을 좀 더 많이 읽어야 될꺼같고 폰 하는 시간을 줄이고 공부실력이 늘게 공부를 조금 많이 했으면 좋다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "나는 TV 30분, 핸드폰 1시간 30분, 운동 40분, 책 3권 읽기 등으로 약 3시간을 여가시간으로 즐기고 있다. TV, 핸드폰, 운동(자전거, 런닝머신 등), 책(만화책, 역사책, 과학책 등) 등 여러가지 여가생활을 하고 있다. 내가 여기서 고쳐야 할 점은 책을 좀 더 많이 읽어야 될 것 같고, 핸드폰 하는 시간을 줄이고 공부실력이 늘게 공부를 많이 해야겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 책도 3권에서 <스타일링_패러프레이징>1권만더 읽으면 매우 좋을것같다  .</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 그리고 책도 3권에서 1권 더 읽으면 정말 좋을 것 같다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39655",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 206,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

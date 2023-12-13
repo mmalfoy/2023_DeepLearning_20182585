@@ -1,0 +1,305 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "폭력 예방! 요즈음 학교 에서 피해자 학교 폭력이 많이 일어나고 있다. #@문장구분#학교 폭력을 당한 피해자 들이 심하면 자살을 하기도 한다.#@문장구분# 정신 적 충격 이나, 트라우마로 인 해 우울증을 겪는 학교 폭력 피해자 들도 있다. #@문장구분#일단, 우리는 학교 에서 많은 시간을 보내며 생활 하고 있다.#@문장구분# 이러한 곳에서 교실, 또는 교실 외 교내 장소 에서 발생 하는 공격적 행동을 말 한다.#@문장구분# 학교 폭력은 신체 적 공격, 정서 적 공격,언어 적 공격의 세 가지 유형 으로 나뉜다. #@문장구분#신체 적 공격은 신체적 물리적 폭력을 가하 거나, 흉기 등으로 위협하거나, 금 품 또는 다른 물건들을 갈취 하는 것이다. #@문장구분#언어 적 공격은 별명을 부르거나, 협박을 하거나, 모욕적인 말을 하거나, 전화 또는 직접적으로 위협 적인 일을 하는 것 이다.#@문장구분# 정서적 공격은 나쁜 소문을 퍼트리거나, 많은 사람 앞에서 망신을 주거나, 지속적으로 귀찮게 하면서 괴롭히거나, 따돌리는 것이다. #@문장구분#학교 폭력 예방 방안에는 일단 112에 신고 하는 것이 최선이다.#@문장구분#학교 폭력을 당하는데 혼자 숨기거나 외면하지 말고, 112에 신고하자.#@문장구분#그리고 학교폭력은하지맙시다.#@문장구분#",
+      "paragraph_len": 794,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.788889,
+      23.877777,
+      17.777779
+    ],
+    "essay_scoreT_avg": 22.148148,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "폭력 예방! 요즈음 <스타일링_패러프레이징>학교 에서 피해자 학교 폭력이</스타일링_패러프레이징> 많이 일어나고 있다. ",
+      "sentence_corr_txt_styling": "폭력 예방! 요즈음 학교에서 학교 폭력이 많이 일어나고 있다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학교 폭력을 당한 피해자들이 심하면 자살을 하기도 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교 폭력을 당한 <문법_맞춤법>피해자 들이</문법_맞춤법> 심하면 자살을 하기도 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정신적 충격이나, 트라우마로 인해 우울증을 겪는 학교 폭력 피해자들도 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>정신 적 충격 이나, 트라우마로 인 해</문법_맞춤법> 우울증을 겪는 학교 폭력 피해자 들도 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단, 우리는 학교에서 많은 시간을 보내며 생활하고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단, 우리는 <문법_맞춤법>학교 에서</문법_맞춤법> 많은 시간을 보내며 생활 하고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교 폭력은 신체적 공격, 정서적 공격, 언어적 공격 세 가지 유형으로 나뉜다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교 폭력은<문법_맞춤법> 신체 적 공격, 정서 적 공격,언어 적 공격의 세 가지 유형 으로</문법_맞춤법> 나뉜다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "신체적 공격은 신체적, 물리적 폭력을 가하거나, 흉기 등으로 위협하거나, 금품 또는 다른 물건들을 갈취하는 것이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 쉼표"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>신체 적 공격은 신체적 물리적 폭력을 가하 거나</문법_맞춤법>, 흉기 등으로 위협하거나, 금 품 또는 다른 물건들을 갈취 하는 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "언어적 공격은 별명을 부르거나, 협박을 하거나, 모욕적인 말을 하거나, 전화 또는 직접적으로 위협적인 일을 하는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>언어 적 공격</문법_맞춤법>은 별명을 부르거나, 협박을 하거나, 모욕적인 말을 하거나, 전화 또는 직접적으로 위협 적인 일을 하는 것 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "학교 폭력 예방 <스타일링_패러프레이징>방안에는</스타일링_패러프레이징> 일단 112에 신고 하는 것이 최선이다.",
+      "sentence_corr_txt_styling": "학교 폭력 예방 방안으로는 일단 112에 신고 하는 것이 최선이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 <스타일링_맞춤법><스타일링_패러프레이징>학교폭력은하지맙시다</스타일링_패러프레이징></스타일링_맞춤법>.",
+      "sentence_corr_txt_styling": "그리고 학교폭력은 하지 말자.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36078",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 555,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

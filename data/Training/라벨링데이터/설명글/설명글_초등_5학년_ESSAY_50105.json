@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 가장 좋아하는 과목은 체육과음악이다.#@문장구분#체육은 힘이 들지만 몸이운동하며 기분이 좋고 우리팀이 져도 조금더 하면 다른팀에게서 이길 히망이 보여서 좋다.#@문장구분# 그리고 체육을 하려면 팀워크가 필요하기때문에 반친구들이 더많이 알수있어서좋다.#@문장구분# 모르면 가르쳐주고 잘알면 더잘할 수 있게 가르쳐주어서 실력이 더많이 늘어서 자신감있게 하니까 기분이 좋아진다.#@문장구분# 음악은 우리의 몸을 편안하게 해주고 마음이 안정되서 몸도 마음도 차분해지는 느낌이 들어서좋다.#@문장구분# 그리고 음악을 열심히 해서 통과하면 신나는 기분이 들어서 더열심히 하게된다.#@문장구분# 음악을 들으면서 춤을 추면 신나고 기쁘고 행복해진다.#@문장구분# 그리고 노래를 부르면 스트레스가 다풀리는 느낌이 든다. #@문장구분#그래서 나는 음악과 체육이 가장 좋다.",
+      "paragraph_len": 529,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.066668,
+      21.133335,
+      19.085714
+    ],
+    "essay_scoreT_avg": 17.761908,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 가장 좋아하는 과목은 체육과 음악이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 가장 좋아하는 과목은 <문법_맞춤법>체육과음악이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "체육은 힘이 들지만 몸이 운동하면 기분이 좋고 우리 팀이 져도 조금 더 하면 다른 팀에게서 이길 희망이 보여서 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "체육은 힘이 들지만 <문법_맞춤법>몸이운동하며 </문법_맞춤법>기분이 좋고 우리팀이 져도 조금더 하면 다른팀에게서 이길 히망이 보여서 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 체육을 하려면 팀워크가 필요하기 때문에 반 친구들이 더 많이 알 수 있어서 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 체육을 하려면 팀워크가 <문법_맞춤법>필요하기때문에 </문법_맞춤법>반친구들이 더많이 알수있어서좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모르면 가르쳐주고 잘 알면 더 잘할 수 있게 가르쳐주어서 실력이 더 많이 늘어서 자신감 있게 하니까 기분이 좋아진다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모르면 <문법_맞춤법>가르쳐주고 잘알면 더잘할 수 있게 가르쳐주어서 실력이 더많이</문법_맞춤법> 늘어서 자신감있게 하니까 기분이 좋아진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 음악은 우리의 몸을 편안하게 해주고 마음이 안정돼서 몸도 마음도 차분해지는 느낌이 들어서좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 음악은 우리의 몸을 편안하게 해주고 마음이 <문법_맞춤법>안정되서 </문법_맞춤법>몸도 마음도 차분해지는 느낌이 들어서좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 음악을 열심히 해서 통과하면 신나는 기분이 들어서 더 열심히 하게 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 음악을 열심히 해서 통과하면 신나는 기분이 들어서 <문법_맞춤법>더열심히 하게된다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 노래를 부르면 스트레스가 다 풀리는 느낌이 든다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 노래를 부르면 스트레스가 <문법_맞춤법>다풀리는 </문법_맞춤법>느낌이 든다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50105",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 369,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

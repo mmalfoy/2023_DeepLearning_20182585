@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 늦잠을 자는 나쁜 습관이 있었다.#@문장구분# 매일 아침 알람 소리를 듣고도 일어나지 못하고 엄마가 소리쳐야만 겨우 일어나고는 했다.#@문장구분# 그러다보니 학교에 지각도 많이 하고 벌청소도 제일 많이 했다.#@문장구분# 계속 이렇게 늦게 일어나다가는 약속도 못 지키고 해야할 일도 다 못하게 될 거 같아서 이 습관을 고치기로 엄마와 약속했다.#@문장구분# 늦잠자는 습관을 바꾸기 위해 일찍 일어나는 날에는 보상을 주기로 하였다. #@문장구분#컴퓨터를 한 시간 더 하거나 치킨을 시켜 먹는 것 같은 보상을 걸었다.#@문장구분# 처음에는 아침에 눈을 뜨기 매우 힘들었다.#@문장구분# 그러나 한 두 번 일찍 일어나고 좋은 보상을 받으니 더 해보자는 마음이 생겼다.#@문장구분# 숙제를 미리 해놓고 밤에는 휴대폰을 보지 않고 일찍 자다보니 점점 아침에 일어나는 것이 힘들지 않게 되었다.#@문장구분# 보상도 계속 받으니 동기 부여가 되어서 더 잘 일어날 수 있게 되었다.#@문장구분# 지금은 보상이 없어도 아침에 눈을 잘 뜨는 좋은 습관이 생겼다.#@문장구분# 처음이 어렵지만 계속 노력하다보니 좋은 습관이 생기게 되어서 매우 뿌듯했다.#@문장구분#",
+      "paragraph_len": 744,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.15,
+      26.4,
+      17.05
+    ],
+    "essay_scoreT_avg": 22.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그러다 보니 학교에 지각도 많이 하고 벌청소도 제일 많이 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그러다보니</문법_맞춤법> 학교에 지각도 많이 하고 벌청소도 제일 많이 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 계속 이렇게 늦게 일어나다가는 약속도 못 지키고 해야할 일도 다 못하게 될 것 같아서 이 습관을 고치기로 엄마와 약속했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 계속 이렇게 늦게 일어나다가는 약속도 못 지키고 해야할 일도 다 못하게 될 <문법_맞춤법>거</문법_맞춤법> 같아서 이 습관을 고치기로 엄마와 약속했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 늦잠 자는 습관을 바꾸기 위해 일찍 일어나는 날에는 보상을 주기로 하였다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>늦잠자는</문법_맞춤법> 습관을 바꾸기 위해 일찍 일어나는 날에는 보상을 주기로 하였다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나 한두 번 일찍 일어나고 좋은 보상을 받으니 더 해 보자는 마음이 생겼다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러나 <문법_맞춤법>한 두 번</문법_맞춤법> 일찍 일어나고 좋은 보상을 받으니 더 해보자는 마음이 생겼다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 숙제를 미리 해 놓고 밤에는 휴대폰을 보지 않고 일찍 자다 보니 점점 아침에 일어나는 것이 힘들지 않게 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 숙제를 미리 <문법_맞춤법>해놓고</문법_맞춤법> 밤에는 휴대폰을 보지 않고 일찍 자다보니 점점 아침에 일어나는 것이 힘들지 않게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음이 어렵지만 계속 노력하다 보니 좋은 습관이 생기게 되어서 매우 뿌듯했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 처음이 어렵지만 계속 <문법_맞춤법>노력하다보니</문법_맞춤법> 좋은 습관이 생기게 되어서 매우 뿌듯했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69100",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 504,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 음악을 제일좋아한다#@문장구분# 나는 노래 부르는것을 좋아하고 또 좀 잘부르는것같다.#@문장구분# 그래서 음악을 가장좋아한다.#@문장구분# 또 노래를 듣는것도 좋아한다.#@문장구분# 그리고 내가 가장힘이들때 하는행동이 음악이고 또 음악을들으면 신이난다.#@문장구분# 그래서 나는 학교에서 배우는 과목중에는 음악이 참좋다 #@문장구분#왜냐하면 솔직히 집에서 듣는 음악은 맨날 발라드 밖에 안듣는데 근데 학교에서는 여러가지를 배워서 참좋다#@문장구분# 나는 학교에서 배운 노래들을 집에가서 엄마하고 나하고 듣는다 #@문장구분#그럼 그 시간이 힐링이되고 좋다.#@문장구분# 나는 학교에서 배우는음악을 여러군데 써먹는다 #@문장구분#예를들어서 운동할때 힐링할때 아주 잘 써먹는다#@문장구분# 그런데 학교에서는 음악을 1주일에 1번 할까 말까이다#@문장구분# 그러니 음악시간을 늘려줬음 좋겠다.#@문장구분#",
+      "paragraph_len": 618,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      26,
+      26.685713
+    ],
+    "essay_scoreT_avg": 24.606348,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 음악을 제일 좋아한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "나는 음악을 <문법_맞춤법><문법_기타>제일좋아한다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 노래 부르는 것을 좋아하고 또 좀 잘 부르는 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 노래 <문법_맞춤법>부르는것을 </문법_맞춤법>좋아하고 또 좀 잘부르는것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 음악을 가장 좋아한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 음악을<문법_맞춤법> 가장좋아한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 노래를 듣는 것도 좋아한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 노래를 <문법_맞춤법>듣는것도 </문법_맞춤법>좋아한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 내가 가장 힘이 들 때 하는 행동이 음악이고 또 음악을 들으면 신이 난다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 내가 <문법_맞춤법>가장힘이들때 </문법_맞춤법>하는행동이 음악이고 또 음악을들으면 신이난다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 학교에서 배우는 과목 중에는 음악이 참 좋다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 나는 학교에서 배우는 <문법_맞춤법>과목중에는 </문법_맞춤법>음악이 <문법_기타>참좋다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 솔직히 집에서 듣는 음악은 맨날 발라드밖에 안 듣는데 근데 학교에서는 여러 가지를 배워서 참 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 마침표",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "왜냐하면 솔직히 집에서 듣는 음악은 맨날 <문법_맞춤법>발라드 밖에 </문법_맞춤법>안듣는데 근데 학교에서는 여러가지를 배워서 <문법_기타>참좋다</문법_기타>",
+      "sentence_corr_txt_styling": "왜냐하면 솔직히 집에서 듣는 음악은 맨날 발라드밖에 안 듣는데 근데 학교에서는 여러 가지를 배워서 참 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 학교에서 배운 노래들을 집에 가서 엄마하고 나하고 듣는다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 나는 학교에서 배운 노래들을 <문법_맞춤법>집에가서 </문법_맞춤법>엄마하고 나하고 <문법_기타>듣는다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그럼 그 시간이 힐링이 되고 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그럼 그 시간이 <문법_맞춤법>힐링이되고 </문법_맞춤법>좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 학교에서 배우는 음악을 여러 군데 써먹는다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 나는 학교에서 <문법_맞춤법>배우는음악을 </문법_맞춤법>여러군데 <문법_기타>써먹는다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예를 들어서 운동할 때나 힐링할 때 아주 잘 써먹는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>예를들어서 </문법_맞춤법><문법_조사>운동할때</문법_조사> 힐링할때 아주 잘 <문법_기타>써먹는다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 학교에서는 음악을 일주일에 1번 할까 말까이다.",
+      "sentence_corr_reason": [
+        "",
+        "마침표"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그런데 학교에서는 음악을 <문법_맞춤법>1주일에</문법_맞춤법> 1번 할까 <문법_기타>말까이다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니 음악시간을 늘려줬으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그러니 음악시간을 <문법_어미>늘려줬음</문법_어미> 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63410",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 359,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

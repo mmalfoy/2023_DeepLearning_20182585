@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단 나의 안 좋은 습관은 너무나도 많았다.#@문장구분# 그리고 지금도 못 고친 습관도 많다.#@문장구분# 일단 고친 습관들은 콘센트 뽑고 자기 였는데 이거를 고치기 위해 내가 한 노력은 자기전에 뭘 해야 됐는지 계속 생각 하는 것이다.#@문장구분# 그러다 보면 생각이 나서 뽑고 자게 된다.#@문장구분# 그리고 코를 파는 습관이 있었는데 손가락에 테이프를 붙혀서 못 파게 했다.#@문장구분# 그리고 못 고친 습관들로는 손톱 물어 뜯기가 가장 큰데 한 7년 정도 이러고 있다.#@문장구분# 손가락에 테이프도 붙혀보고, 계속 생각 하고 있기도 있었다.#@문장구분# 그러나 자꾸 실패한다.#@문장구분# 그래도 성인이 되기 전에는 꼭 고칠 것이다.#@문장구분# 그리고 나의 노하우는 까먹지 않을려고 계속 생각하거나 포스트잇을 붙히는거 이다.#@문장구분# 그러다 보면 안 까먹고, 실천에 옮길 수 있다.#@문장구분#",
+      "paragraph_len": 595,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.5,
+      20,
+      29.5
+    ],
+    "essay_scoreT_avg": 24,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 일단 고친 습관들은 콘센트 뽑고 자기였는데 이거를 고치기 위해 내가 한 노력은 자기 전에 뭘 해야 하는지 계속 생각하는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단 고친 습관들은 콘센트 뽑고 <문법_맞춤법>자기 였는데</문법_맞춤법> 이거를 고치기 위해 내가 한 노력은 자기전에 뭘 해야 됐는지 계속 생각 하는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 코를 파는 습관이 있었는데 손가락에 테이프를 붙여서 못 파게 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 코를 파는 습관이 있었는데 손가락에 테이프를<문법_맞춤법> 붙혀서</문법_맞춤법> 못 파게 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 못 고친 습관들로는 손톱 물어뜯기가 가장 큰데 한 7년 정도 이러고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 못 고친 습관들로는 손톱 <문법_맞춤법>물어 뜯기가</문법_맞춤법> 가장 큰데 한 7년 정도 이러고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손가락에 테이프도 붙여보고, 계속 생각하고 있기도 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손가락에 테이프도<문법_맞춤법> 붙혀보고</문법_맞춤법>, 계속 생각 하고 있기도 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나의 노하우는 까먹지 않으려고 계속 생각하거나 포스트잇을 붙이는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 나의 노하우는 까먹지 <문법_맞춤법>않을려고</문법_맞춤법> 계속 생각하거나 포스트잇을 붙히는거 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_41930",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 376,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

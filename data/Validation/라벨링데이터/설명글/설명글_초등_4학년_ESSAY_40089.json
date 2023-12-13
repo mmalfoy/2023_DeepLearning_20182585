@@ -1,0 +1,366 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 나중에 살 집 구조는?#@문장구분#     ",
+      "paragraph_len": 40,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "일단 거실은 은은하고,잠잠하것입니다.#@문장구분# 왜냐하면 은은하고, 잠잠하것을 좋아하고, 노는 것 보다 집에서 음악을 틀고,숙제, 독서등을 좋아하기 때문입니다.#@문장구분#그리고  방은 총 5개가 되는 집으로 가고 싶습니다.#@문장구분#        ",
+      "paragraph_len": 180,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 왜냐하면 편집실, 침실, 팬션의 방, 본인방, 독서이렇게 따로따로 되있는 곳이 저 한테는 그게 편할것 같습니다.#@문장구분# 또, 화장실은 조금 연한 파란색 이면서 아닌것같은 색깔 벽은 미끄러지지 않는바닥이고, 용실이 있는 화장실이었으면 좋겠습니다.#@문장구분# 편집은 잘 편집이 잘 될것같은 색이면 좋겠습니다.#@문장구분# 침실방은 수면이 잘 되는 방이고, 푹신한 이불 침대 였으면 좋겠습니다.#@문장구분# 팬션의 방은 쫌...... 시크한 정도되고, 거울과 화장품이있으면 좋겠습니다.#@문장구분# 본인의 방은 컴퓨터, 애워컨 등등 있었으면 좋겠고 독서 방은 책이 원학 많고, 필기도구가 많았으면 좋게습니다.#@문장구분#",
+      "paragraph_len": 427,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3809521,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      22.733334,
+      18.666668
+    ],
+    "essay_scoreT_avg": 20.844446,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "뒷 문장과 연결이 안됨",
+        "뒷 문장과 연결이 안됨"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": "제가 나중에 살 <스타일링_담화 맥락 오류><스타일링_기타>집 구조는?</스타일링_기타></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "제가 나중에 살 집은",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 저는 은은하고, 잔잔한 것을 좋아하고, 노는 것보다 집에서 음악을 듣거나 숙제하고 독서하는 것을 좋아하기 때문입니다.",
+      "sentence_corr_reason": [
+        "주어 필요",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_기타>왜냐하면</문법_기타> 은은하고, <문법_맞춤법><문법_어미>잠잠하것을</문법_어미></문법_맞춤법> 좋아하고, 노는 것 보다 집에서 <스타일링_담화 맥락 오류>음악을 틀고,숙제, 독서등을</스타일링_담화 맥락 오류> 좋아하기 때문입니다.",
+      "sentence_corr_txt_styling": " 왜냐하면 저는 은은하고, 잔잔한 것을 좋아하고, 노는 것보다 집에서 음악을 듣거나 숙제하고 독서하는 것을 좋아하기 때문입니다.",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고  방이 총 5개인 집으로 가고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "그리고  <문법_조사>방은</문법_조사> 총 <문법_어미>5개가 되는</문법_어미> 집으로 가고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또, 화장실은 조금 연한 파란색인듯 아닌듯한 색이고 벽은 미끄러지지 않으며, 욕실이 있는 화장실이었으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 또, 화장실은 조금 연한 <스타일링_패러프레이징>파란색 이면서 아닌것같은 색깔</스타일링_패러프레이징> 벽은 미끄러지지 <문법_어미><문법_기타>않는바닥이고</문법_기타></문법_어미>, 용실이 있는 화장실이었으면 좋겠습니다.",
+      "sentence_corr_txt_styling": " 또, 화장실은 조금 연한 파란색인듯 아닌듯한 색이고 벽은 미끄러지지 않으며, 욕실이 있는 화장실이었으면 좋겠습니다.",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 침실방은 수면이 잘 되는 방이고, 푹신한 이불 침대가 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 침실방은 수면이 잘 되는 방이고, 푹신한 이불 <문법_조사>침대</문법_조사> <스타일링_기타>였으면</스타일링_기타> 좋겠습니다.",
+      "sentence_corr_txt_styling": " 침실방은 수면이 잘 되는 방이고, 푹신한 이불 침대가 있으면 좋겠습니다.",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 펜션의 방은 조금 시크하고, 거울과 화장품이 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>팬션의</문법_맞춤법> 방은 <문법_기타>쫌......</문법_기타> <스타일링_담화 맥락 오류>시크한 정도되고</스타일링_담화 맥락 오류>, 거울과 화장품이있으면 좋겠습니다.",
+      "sentence_corr_txt_styling": " 펜션의 방은 조금 시크하고, 거울과 화장품이 있으면 좋겠습니다.",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제 방은 컴퓨터, 에어컨이 있으면 좋겠고 독서 방은 책과 필기도구가 많았으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "조사",
+        "시제"
+      ],
+      "sentence_txt": " <문법_기타>본인의</문법_기타> 방은 컴퓨터, <문법_맞춤법><문법_조사>애워컨</문법_조사></문법_맞춤법> <문법_시제>등등 있었으면</문법_시제> 좋겠고 독서 방은 책이 원학 많고, 필기도구가 많았으면 좋게습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40089",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 452,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

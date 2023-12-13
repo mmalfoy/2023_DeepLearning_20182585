@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 기억을 잘 못하고 자주 까먹는 스타일이어서 해야하는 일을 까먹기도 하고 챙겨야하는 물건을 잘 챙기지 못하는 경우가 많았다.#@문장구분# 그래서 이런 습관을 고치고 해야할 일을 재때 할 수 있도록 습관을 들이기 위해 메모하는 습관을 들이기 시작했다.#@문장구분# 손바닥 만한 수첩을 하나 사서 가방에 넣고 다니면서 챙겨야 할 물건이나 해야할 일이 생겼을 때마다 수첩에 메모를 했다.#@문장구분# 그렇게 메모한 내용을 바탕으로 집에 가기 전 수첩을 확인하고 사야할 물건이 있었는지 확인을 한다.#@문장구분# 그리고 집에 도착해서 해야할 일을 차례 차례 한 뒤 메모한 내용을 하나씩 지우고 잠을 자기 전에 챙겨야 할 물건이 무엇이었는지 확인을 한 뒤 물건을 가방에 미리 챙겨놓거나 책상 위와 같이 잘 보이는 곳에 두고 다음날에 챙겨가는 방법을 사용해서 잘 까먹는 내 습관을 조금이나마 고칠 수 있었다.#@문장구분#",
+      "paragraph_len": 520,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.95,
+      26.4,
+      24.25
+    ],
+    "essay_scoreT_avg": 25.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.20",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 기억을 잘 못하고 자주 까먹는 스타일이어서 해야 하는 일을 까먹기도 하고 챙겨야 하는 물건을 잘 챙기지 못하는 경우가 많았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 기억을 잘 못하고 자주 까먹는 스타일이어서 <문법_맞춤법>해야하는 </문법_맞춤법>일을 까먹기도 하고 챙겨야하는 물건을 잘 챙기지 못하는 경우가 많았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 이런 습관을 고치고 해야 할 일을 제때 할 수 있도록 습관을 들이기 위해 메모하는 습관을 들이기 시작했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 이런 습관을 고치고 <문법_맞춤법>해야할 </문법_맞춤법>일을 재때 할 수 있도록 습관을 들이기 위해 메모하는 습관을 들이기 시작했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손바닥 만한 수첩을 하나 사서 가방에 넣고 다니면서 챙겨야 할 물건이나 해야 할 일이 생겼을 때마다 수첩에 메모를 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손바닥 만한 수첩을 하나 사서 가방에 넣고 다니면서 챙겨야 할 물건이나 <문법_맞춤법>해야할 </문법_맞춤법>일이 생겼을 때마다 수첩에 메모를 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 메모한 내용을 바탕으로 집에 가기 전 수첩을 확인하고 사야 할 물건이 있었는지 확인을 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 메모한 내용을 바탕으로 집에 가기 전 수첩을 확인하고 <문법_맞춤법>사야할 </문법_맞춤법>물건이 있었는지 확인을 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 집에 도착해서 해야 할 일을 차례차례 한 뒤 메모한 내용을 하나씩 지우고 잠을 자기 전에 챙겨야 할 물건이 무엇이었는지 확인을 한 뒤 물건을 가방에 미리 챙겨놓거나 책상 위와 같이 잘 보이는 곳에 두고 다음날에 챙겨가는 방법을 사용해서 잘 까먹는 내 습관을 조금이나마 고칠 수 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " 그리고 집에 도착해서 <문법_맞춤법>해야할 </문법_맞춤법>일을 차례 차례 한 뒤 메모한 내용을 하나씩 지우고 잠을 자기 전에 챙겨야 할 물건이 무엇이었는지 확인을 한 뒤 물건을 가방에 미리 챙겨놓거나 책상 위와 같이 잘 보이는 곳에 두고 다음날에 챙겨가는 방법을 사용해서 잘 까먹는 내 습관을 조금이나마 고칠 수 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56872",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 420,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

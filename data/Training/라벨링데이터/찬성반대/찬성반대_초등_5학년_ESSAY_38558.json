@@ -1,0 +1,316 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리 사회에서는 의사결정을 다수결의 원칙으로 정합니다. #@문장구분#우리한테도 자주 쓰이는 것 이죠.#@문장구분# 예를들어 선거를 할때등 우리가 자주 쓸것입니다.#@문장구분#선거를 할때 과반수로 뽑힌 사람도 있고, 소수로뽑힌 사람도 있지요.#@문장구분#저는 소수에 대해 이렇게 생각합니다.#@문장구분#\n \"왜 이 사람은 소수로 뽑혔을까?\"등의 생각을 합니다.#@문장구분# 그리고 여러분들은소수인 사람을 뽑았을때 이렇게 생각 할것 입니다.#@문장구분#\"아잇...아깝네\",\"아 좋았는데\",\"아...안타깝다..\"등의 비슷한 생각을 할 것입니다.#@문장구분#물론 저도 마찬가지이지만요.#@문장구분#그리고 소수로 뽑힌사람은 생각합니다.#@문장구분#\"아 될수있었는데\",\"아 짜증나\",\"과반수로 뽑힌 사람분 축하드려요^^\"등 다양한 반응 중 이 얘기를 자주 할것 입니다.#@문장구분#이것도 물론 저도 마찬가지이구요.#@문장구분# 소수의 사람들 말도 옳았지만 꼭 과반수쪽인 방향으로 갑니다.#@문장구분# 저는 생각합니다#@문장구분#\"아니 왜 소수의 말은 안 들어주는 것이지?\"라고 생각합니다. #@문장구분#솔직히 여러분들도 한번쯤은 생각하신 생각 아닌가요?",
+      "paragraph_len": 778,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.733334,
+      23.64762,
+      26.047619
+    ],
+    "essay_scoreT_avg": 22.809525,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리한테도 자주 쓰이는 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 과한 구어체",
+        "띄어쓰기, 과한 구어체"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "우리한테도 자주 쓰이는 <문법_맞춤법><문법_조사>것 이죠</문법_조사></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를들어 선거를 할 때 등에서 우리가 자주 씁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 예를들어 선거를 <문법_맞춤법><문법_조사>할때등</문법_조사></문법_맞춤법> 우리가 자주 <문법_어미>쓸것입니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "선거를 할 때 과반수로 뽑힌 사람도 있고, 소수로 뽑힌 사람도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "선거를 <문법_맞춤법>할때</문법_맞춤법> 과반수로 뽑힌 사람도 있고, 소수로뽑힌 사람도 <문법_어미>있지요</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n \"왜 이 사람은 소수로 뽑혔을까?\"라고 말입니다,",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "\n \"왜 이 사람은 소수로 뽑혔을까?\"<문법_조사><문법_어미>등의 생각을 합니다.</문법_어미></문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 여러분들은 소수인 사람을 뽑았을때 이렇게 생각할 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>여러분들은소수인</문법_맞춤법> 사람을 뽑았을때 이렇게 생각 할것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"아잇, 아깝네\", \"아 좋았는데\", \"아., 안타깝다.\" 등의 비슷한 생각을 할 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호",
+        "띄어쓰기, 문장부호"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>\"아잇...아깝네\",\"아 좋았는데\",\"아...안타깝다..\"등의</문법_기타></문법_맞춤법> 비슷한 생각을 할 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이것도 물론 저도 마찬가지입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "이것도 물론 저도 <문법_조사><문법_어미>마찬가지이구요</문법_어미></문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 소수의 사람들 말도 옳았지만 꼭 <스타일링_패러프레이징>과반수쪽인 방향으로 갑니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 소수의 사람들 말도 옳았지만 꼭 과반수 쪽으로 갑니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 생각합니다.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 저는 <문법_기타>생각합니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38558",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 480,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

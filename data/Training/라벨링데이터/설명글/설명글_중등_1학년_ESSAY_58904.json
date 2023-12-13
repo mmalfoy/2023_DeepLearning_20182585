@@ -1,0 +1,233 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각했을 때 참된 선생님은 학생들이 힘들어할 때 무시하지 않고 들어주시고 해결책을 알려주는 능력을 가지고 학생의 잘못을 알려주시는 선생님이라고 생각한다.#@문장구분# 종종 학교폭력에 시달리는 학생들이 선생님들 찾아와서 힘들다고 말할 때 학생의 말을 무시하고 학생의 탓이라고 말하는 선생님이 계신다.#@문장구분# 그래서 학생들은 믿었던 선생님께 외면받았다는 생각 때문에 그 전보다 더 힘들어한다.#@문장구분# 그래서 나는 이런 일이 있을 때 외면하지않고 제대로 설명할 수 있는 선생님이 참된 선생님이라고 생각한다.#@문장구분# 또 학생이 큰 잘못을 저질렀을 때 바로 알려주시는 선생님이 참된 선생님이라고 생각한다.#@문장구분# 어릴 때 배운 나쁜 짓을 외면하게 된다면 그 학생은 미래에 더 큰 잘못을 저지르며 살지도 모른다.#@문장구분# 선생님이 그전에 무엇을 잘못했는지 알려주고 다시는 그런 행동을 하지 않도록 하는 선생님이 참된 선생님인거 같다.#@문장구분# 선생님이 가져야하 요소가 굉장히 많지만 내가 생각했는 때는 이 두가지가 가장 중요한거 같다.#@문장구분#",
+      "paragraph_len": 647,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      22,
+      21.05
+    ],
+    "essay_scoreT_avg": 23.183334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "내가 생각했을 때 참된 선생님은 학생들이 힘들어할 때 무시하지 않고 들어주시고 해결책을 알려주는 능력을 가지고 학생의 잘못을 알려주시는 선생님이라고 생각한다.",
+      "sentence_corr_txt_styling": "내가 생각했을 때 참된 선생님은 학생들이 힘들어할 때 무시하지 않고 들어주시고 해결책을 알려주는 능력을 가지고 학생의 잘못을 알려주시는 선생님이라고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 종종 학교폭력에 시달리는 학생들이 선생님을 찾아와서 힘들다고 말할 때 학생의 말을 무시하고 학생의 탓이라고 말하는 선생님이 계신다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 종종 학교폭력에 시달리는 학생들이 <문법_조사>선생님들</문법_조사> 찾아와서 힘들다고 말할 때 학생의 말을 무시하고 학생의 탓이라고 말하는 선생님이 계신다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 이런 일이 있을 때 외면하지 않고 제대로 설명할 수 있는 선생님이 참된 선생님이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 이런 일이 있을 때 <문법_맞춤법>외면하지않고</문법_맞춤법> 제대로 설명할 수 있는 선생님이 참된 선생님이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님이 그 전에 무엇을 잘못했는지 알려주고 다시는 그런 행동을 하지 않도록 하는 선생님이 참된 선생님인 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선생님이 <문법_맞춤법>그전에</문법_맞춤법> 무엇을 잘못했는지 알려주고 다시는 그런 행동을 하지 않도록 하는 선생님이 참된 선생님인거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님이 가져야 하는 요소가 굉장히 많지만 내가 생각했는 때는 이 두가지가 가장 중요한 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 선생님이 <문법_맞춤법><문법_어미>가져야하</문법_어미></문법_맞춤법> 요소가 굉장히 많지만 내가 생각했는 때는 이 두가지가 가장 중요한거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_58904",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 488,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 친구란, 진심으로 걱정해주고, 함께 맛있는 음식을 먹고, 서로 깊은 유대감을 공유하면서 친구에게 충고를 할 수 있는 사이가 되어야한다고 생각합니다. #@문장구분#학교 생활을 하고, 학원에 다니면, 집에서 가족과 함께하는 시간보다 친구들과 함께 있는 시간이 더 많습니다. #@문장구분#그렇기 때문에 나 자신을 가장 가까이서 보는 사람은 나의 단짝 친구라고 할 수 있습니다.#@문장구분# 가장 가까이서 사람을 살피면, 그 사람의 장점은 물론이고, 단점까지도 파악할 수 있습니다. #@문장구분#그렇기 때문에 친구로써 친구의 단점을 고칠 수 있도록 충고를 해주는 것이 진정한 우정이라고 생각합니다.#@문장구분# 그 충고를 듣고 나의 단점을 고쳐나가면서 서로 함께 성장하는 사이, 이런 사이가 진정한 친구 사이라고 생각합니다. #@문장구분#충고도 기분 나쁘게 하는 것이 아닌, 친구의 기분을 생각하면서, 배려하면서 하는 것이 중요하다고 생각합니다.",
+      "paragraph_len": 555,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      23.45,
+      23.9
+    ],
+    "essay_scoreT_avg": 25.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.06",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 친구란, 진심으로 걱정해주고, 함께 맛있는 음식을 먹고, 서로 깊은 유대감을 공유하면서 친구에게 충고를 할 수 있는 사이가 되어야 한다고 생각합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 생각하는 친구란, 진심으로 걱정해주고, 함께 맛있는 음식을 먹고, 서로 깊은 유대감을 공유하면서 친구에게 충고를 할 수 있는 사이가 <문법_맞춤법>되어야한다고</문법_맞춤법> 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55942",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 436,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "민주주의 사회여도 다수결의 원칙으로 모든걸을 해결하면 소수의 사람들을 의견을 무시가 돼니까 소수의 사람들을 의견을 들어조야 한다.#@문장구분#\n 인권 갔은 것은 다수결로 결정할수 없다.#@문장구분# 결정 다수결로 할수없는 의견을 다수결로 다 하면 일이 생긴다.#@문장구분#\n 다수결로 할수있는 것이 많이는 하지만 다수결로 모든 일들을 다수결로 할수 없다.#@문장구분#\n 모든 일이 다수결로 된다면 게임 셧다운제 갔은 경우는 우리들 청소년들과 어린이들은 게임셧다운제를 원하지 않는데 어른들이과 국해위원이 정한것이다.#@문장구분# 어린이들은 범을 관련 튜표을 못해서 게임셧다운제가 만들어 지다가 어린이들을 위해 없어졌다.#@문장구분#\n 튜표을 못하는 사람들도 있으니까 다수결은 모든 튜표에 사용하지는 못한다.#@문장구분#\n 소수의 의견도 들어 좀야 하고 다수 결의하면 소수의 의견을 무시하는 것 이다.#@문장구분# 그러니까 소수의 의견을 조금 이라도 들어주는 것도 좋은 방법이라고 생각한다.#@문장구분#\n 다수결로 할수있는 거는 많지만 할수 없는 것도 있다.#@문장구분# 나는 다수결로 모든 걸을 해결하수 없다고 생각을 한것이다.",
+      "paragraph_len": 704,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          0.42857143,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.0952381,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.847618,
+      15.647619,
+      16.380953
+    ],
+    "essay_scoreT_avg": 16.95873,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "민주주의 사회여도 다수결의 원칙으로 모든 것을 해결하면 소수의 사람들을 의견을 무시가 되니까 소수의 사람들을 의견을 들어줘야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "민주주의 사회여도 다수결의 원칙으로 <문법_맞춤법>모든걸을</문법_맞춤법> 해결하면 소수의 사람들을 의견을 무시가 돼니까 소수의 사람들을 의견을 들어조야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 인권 같은 것은 다수결로 결정할 수 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 인권 <문법_맞춤법>갔은</문법_맞춤법> 것은 다수결로 결정할수 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 결정 다수결로 할수 없는 의견을 다수결로 다 하면 일이 생긴다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 결정 다수결로 <문법_맞춤법>할수없는</문법_맞춤법> 의견을 다수결로 다 하면 일이 생긴다.",
+      "sentence_corr_txt_styling": " 결정 다수결로 할수 없는 의견을 다수결로 다 하면 일이 생긴다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 다수결로 할 수 있는 것이 많기는 하지만 다수결로 모든 일들을 다수결로 할 수 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 다수결로 <문법_맞춤법>할수있는</문법_맞춤법> 것이 많이는 하지만 다수결로 모든 일들을 다수결로 할수 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 모든 일이 다수결로 된다면 게임 셧다운제 같은 경우는 우리들 청소년들과 어린이들은 게임 셧다운제를 원하지 않는데 어른들이 과 국회위원이 정한 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 모든 일이 다수결로 된다면 게임 셧다운제 <문법_맞춤법>갔은</문법_맞춤법> 경우는 우리들 청소년들과 어린이들은 게임셧다운제를 원하지 않는데 어른들이과 국해위원이 정한것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어린이들은 범을 관련 투표을 못해서 게임 셧다운제가 만들어지다가 어린이들을 위해 없어졌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어린이들은 범을 관련<문법_맞춤법> 튜표을 </문법_맞춤법>못해서 게임셧다운제가 만들어 지다가 어린이들을 위해 없어졌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 투표를 못하는 사람들도 있으니까 다수결은 모든 투표에 사용하지는 못한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>튜표을 </문법_맞춤법>못하는 사람들도 있으니까 다수결은 모든 튜표에 사용하지는 못한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 소수의 의견도 들어야 하고 다수 결의하면 소수의 의견을 무시하는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 소수의 의견도 들어 좀야 하고 다수 결의하면 소수의 의견을 무시하는 <문법_맞춤법>것 이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "\n 소수의 의견도 들어야 하고 다수 결의하면 소수의 의견을 무시하는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니까 소수의 의견을 조금이라도 들어주는 것도 좋은 방법이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니까 소수의 의견을 <문법_맞춤법>조금 이라도</문법_맞춤법> 들어주는 것도 좋은 방법이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 다수결로 할 수 있는 거는 많지만 할 수 없는 것도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 다수결로 <문법_맞춤법>할수있는 </문법_맞춤법>거는 많지만 할수 없는 것도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 다수결로 모든 걸을 해결할 수 없다고 생각을 한 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 다수결로 모든 걸을 <문법_맞춤법>해결하수 </문법_맞춤법>없다고 생각을 한것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49628",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 505,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

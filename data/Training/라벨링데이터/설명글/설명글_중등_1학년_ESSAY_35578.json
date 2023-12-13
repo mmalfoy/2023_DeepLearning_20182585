@@ -1,0 +1,342 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "평소에 나는, 늦게자기, 미루기, 독서 안하기, 스마트폰 많이 사용하기, 늦게 일어나기, 밥거르기 등의 습관이 있었습니다.#@문장구분# 지금보면 정말 많은습관이 있었는데, 마음을 먹고 노력을 해보니 거의다 고치게 되었습니다.#@문장구분# 늦게 자는 습관은 계속 그렇게 늦게자다가 하루아침에 일찍 일어날수 있는것이 아니었습니다.#@문장구분# 그습관을 고치기 위해서, 하루에 에너지소비를 많이하고 잠자기전에 숙제를 하였습니다.#@문장구분# 그리고는 책을 조금씩 읽으면서 하니 책을 안 읽는 습관도, 잠을 늦게 자는 습관도 한번에 고칠수있었다.#@문장구분# 그리고 미루는 습관은 방학에 많이 미뤘는데, 그래도 방학이니 어느정도는 놀다가, 학원가기 2시간30분 전부터 스마트폰의 소리를 끄고 공부를 집중해서 하니 고쳐짐.#@문장구분# 스마트폰을 많이 사용한다고 느껴진나는 스마트폰과 거리두기를 하기로 하였다.#@문장구분# 방법은 취미를 찾는것이다.#@문장구분# 취미를 찾으면 스마트폰을 할때 취미를 하면 되는것이고, 늦게일어나는 습관은 전날에 일찍자서, 스마트폰 알람을 맞추고 일어나면 일어나도 그렇게 피곤하지 않았다.#@문장구분# 마지막으로 밥을 거르는 습관이 있었는데, 아침에 조금이라도 일어나서 간단하게먹고 저녁에는 먹기싫을수 있으니 낮에 활동을 많이해서 배고프게 만들어서 저녁에 먹는것이다.#@문장구분# 이렇게 엄청난 노력으로 습관을 고치니 뿌듯하다.#@문장구분#",
+      "paragraph_len": 850,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.85,
+      20.25,
+      20.25
+    ],
+    "essay_scoreT_avg": 21.449999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "평소에 나는, 늦게 자기, 미루기, 독서 안 하기, 스마트폰 많이 사용하기, 늦게 일어나기, 밥 거르기 등의 습관이 있었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "평소에 나는, <문법_맞춤법>늦게자기,</문법_맞춤법> 미루기, 독서 안하기, 스마트폰 많이 사용하기, 늦게 일어나기, 밥거르기 등의 습관이 <문법_어미>있었습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금보면 정말 많은 습관이 있었는데, 마음을 먹고 노력을 해 보니 거의 다 고치게 되었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 지금보면 정말 <문법_맞춤법>많은습관이</문법_맞춤법> 있었는데, 마음을 먹고 노력을 해보니 거의다 고치게 <문법_어미>되었습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 늦게 자는 습관은 계속 그렇게 늦게 자다가 하루아침에 일찍 일어날 수 있는 것이 아니었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 늦게 자는 습관은 계속 그렇게 <문법_맞춤법>늦게자다가</문법_맞춤법> 하루아침에 일찍 일어날수 있는것이 <문법_어미>아니었습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 습관을 고치기 위해서, 하루에 에너지 소비를 많이 하고 잠자기 전에 숙제를 했다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>그습관을</문법_맞춤법> 고치기 위해서, 하루에 에너지소비를 많이하고 잠자기전에 숙제를 <문법_어미>하였습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고는 책도 조금씩 읽으니 책을 안 읽는 습관도, 잠을 늦게 자는 습관도 한 번에 고칠 수 있었다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고는 <문법_조사>책을</문법_조사> 조금씩 <스타일링_담화 맥락 오류>읽으면서 하니</스타일링_담화 맥락 오류> <문법_조사>책을</문법_조사> 안 읽는 습관도, 잠을 늦게 자는 습관도 <문법_맞춤법>한번에</문법_맞춤법> 고칠수있었다.",
+      "sentence_corr_txt_styling": " 그리고는 책도 조금씩 읽으니 책을 안 읽는 습관도, 잠을 늦게 자는 습관도 한 번에 고칠 수 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 미루는 습관은 방학에 많이 생겼는데,  그래도 방학이니 어느 정도는 놀다가, 학원 가기 2시간 30분 전부터 스마트폰의 소리를 끄고 공부를 집중해서 하니 고쳐졌다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 ",
+        "종결 어미 통일. "
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그리고 미루는 습관은 방학에 많이 <스타일링_패러프레이징>미뤘는데,</스타일링_패러프레이징> 그래도 방학이니 <문법_맞춤법>어느정도는</문법_맞춤법> 놀다가, 학원가기 2시간30분 전부터 스마트폰의 소리를 끄고 공부를 집중해서 하니 <문법_어미>고쳐짐.</문법_어미>",
+      "sentence_corr_txt_styling": " 그리고 미루는 습관은 방학에 많이 생겼는데,  그래도 방학이니 어느 정도는 놀다가, 학원 가기 2시간 30분 전부터 스마트폰의 소리를 끄고 공부를 집중해서 하니 고쳐졌다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스마트폰을 많이 사용한다고 느껴진 나는 스마트폰과 거리두기를 하기로 하였다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스마트폰을 많이 사용한다고 <문법_맞춤법>느껴진나는</문법_맞춤법> 스마트폰과 거리두기를 하기로 하였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 방법은 취미를 찾는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 방법은 취미를 <문법_맞춤법>찾는것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 취미를 찾으면 스마트폰을 할때 그걸 하면 되는 것이고, 늦게 일어나는 습관은 전날에 일찍 자서, 스마트폰 알람을 맞추고 일어나면 일어나도 그렇게 피곤하지 않았다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>취미를</스타일링_패러프레이징> 찾으면 스마트폰을 할때 <스타일링_패러프레이징>취미를</스타일링_패러프레이징> 하면 <문법_맞춤법>되는것이고,</문법_맞춤법> 늦게일어나는 습관은 전날에 일찍자서, 스마트폰 알람을 맞추고 일어나면 일어나도 그렇게 피곤하지 않았다.",
+      "sentence_corr_txt_styling": " 취미를 찾으면 스마트폰을 할때 그걸 하면 되는 것이고, 늦게 일어나는 습관은 전날에 일찍 자서, 스마트폰 알람을 맞추고 일어나면 일어나도 그렇게 피곤하지 않았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 밥을 거르는 습관이 있었는데, 아침에 일어나서 조금이라도  간단하게 먹고 저녁에는 먹기 싫을 수 있으니 낮에 활동을 많이 해  배고프게 만들어서 밥을 먹는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 ",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 마지막으로 밥을 거르는 습관이 있었는데, 아침에 <문법_어순>조금이라도 일어나서</문법_어순> <문법_맞춤법>간단하게먹고</문법_맞춤법> 저녁에는 먹기싫을수 있으니 낮에 활동을 많이해서 배고프게 만들어서 <스타일링_담화 맥락 오류>저녁에 먹는것이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 마지막으로 밥을 거르는 습관이 있었는데, 아침에 일어나서 조금이라도  간단하게 먹고 저녁에는 먹기 싫을 수 있으니 낮에 활동을 많이 해  배고프게 만들어서 밥을 먹는 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35578",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 630,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

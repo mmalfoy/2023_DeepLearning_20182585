@@ -1,0 +1,346 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 여러가지 취미중에서 난 커피를 내리는 것이 나의 취미임을 알았다#@문장구분# \n 내가 취미를 커피내리는 것으로 간 까닭은 처음에 집에서 커피를 내릴때의 이야기 때문이다.#@문장구분# 내가 그때 커피를 내렸을떼 부모님께서 커피가 맛있다고 하여 지금까지도 커피를 종종 내린다. #@문장구분#그래서 난 꿈을 바리스타로 정한적이 있었다.#@문장구분# \n 다음으로 나는 커피를 맛있게 내릴수 있는 방법에 대하여 설명한 것이다. #@문장구분#사람의 따라서 좋아하는 커피맛이 다르다는 걸 안다.#@문장구분# 그래서 난 나의 이모, 부모님께서 맛있다고 말해주신 방법에 대해 설명할 것이다.#@문장구분# \n 첫번째로 하는것은 뜨거운물 준비하기 이다. #@문장구분#왜냐하면 커피를 갈고 내릴때 바로 내려야 맛있기 때문이다.#@문장구분#\n두번째 커피콩을 준비하고 약 숟가락 한번 정도 품 양은 커피콩 가는 곳에다가 넣고 돌린다.#@문장구분# 다음으로 커피 가루가 컵으로 들어가지 안게하는 것은 쒸운 뒤 커피콩을 넣고 뜨거운물을 부운다.#@문장구분# 그 다음으로 커피가 내려가는 동안 커피가루 내려가지 안게 해주는 것을 담은 용기로 찾아서 앞에다가 논뒤 커피가 다 내려가면 커피가루 내려가지 안게 하는 것은 봉지에 담고 버린다. #@문장구분#그러면 맛있는 커피가 나온다.",
+      "paragraph_len": 802,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      24.333334,
+      22.733334
+    ],
+    "essay_scoreT_avg": 23.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 여러 가지 취미 중에서 난 커피를 내리는 것이 나의 취미임을 알았다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>여러가지 취미중에서</문법_맞춤법> 난 커피를 내리는 것이 나의 취미임을 알았다",
+      "sentence_corr_txt_styling": "나는 여러 가지 취미 중에서 난 커피를 내리는 것이 나의 취미임을 알았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 내가 취미를 커피 내리는 것으로 한 까닭은 처음에 집에서 커피를 내릴 때의 이야기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 내가 취미를 <문법_맞춤법>커피내리는</문법_맞춤법> 것으로 간 까닭은 처음에 집에서 커피를 내릴때의 이야기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 그때 커피를 내렸을 때 부모님께서 커피가 맛있다고 하여 지금까지도 커피를 종종 내린다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 그때 커피를<문법_맞춤법> 내렸을떼</문법_맞춤법> 부모님께서 커피가 맛있다고 하여 지금까지도 커피를 종종 내린다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 난 꿈을 바리스타로 정한 적이 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 난 꿈을 바리스타로 <문법_맞춤법>정한적이</문법_맞춤법> 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 다음으로 나는 커피를 맛있게 내릴 수 있는 방법에 대하여 설명할 것이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " \n 다음으로 나는 커피를 맛있게 <문법_맞춤법>내릴수 </문법_맞춤법>있는 방법에 대하여 <문법_시제>설명한</문법_시제> 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람에 따라서 좋아하는 커피 맛이 다르다는 걸 안다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_조사>사람의</문법_조사> 따라서 좋아하는 <문법_맞춤법>커피맛이 </문법_맞춤법>다르다는 걸 안다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 첫 번째로 하는 것은 뜨거운물 준비하기이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>첫번째로 하는것은 뜨거운물 준비하기 이다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 커피를 갈고 내릴 때 바로 내려야 맛있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 커피를 갈고 <문법_맞춤법>내릴때</문법_맞춤법> 바로 내려야 맛있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n두 번째, 커피콩을 준비하고 약 숟가락 한번 정도 푼 양은 커피콩 가는 곳에다가 넣고 돌린다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>두번째</문법_맞춤법> 커피콩을 준비하고 약 숟가락 <문법_어미>한번 정도 품 </문법_어미>양은 커피콩 가는 곳에다가 넣고 돌린다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음으로 커피 가루가 컵으로 들어가지 않게 하는 것을 씌운 뒤 커피콩을 넣고 뜨거운 물을 붓는다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 다음으로 커피 가루가 컵으로 들어가지 <문법_맞춤법><문법_조사>안게하는 것은</문법_조사></문법_맞춤법> 쒸운 뒤 커피콩을 넣고 뜨거운물을 부운다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 다음으로 커피가 내려가는 동안 커피 가루가 내려가지 않게 해주는 것을 담는 용기를 찾아서 앞에다가 놓은 뒤 커피가 다 내려가면 커피 가루가 내려가지 않게 하는 것은 봉지에 담고 버린다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 그 다음으로 커피가 내려가는 동안 <문법_맞춤법><문법_조사>커피가루 내려가지 안게</문법_조사></문법_맞춤법> 해주는 것을 <문법_어미>담은 용기로 찾아서</문법_어미> 앞에다가 논뒤 커피가 다 내려가면 <문법_맞춤법><문법_조사>커피가루 내려가지 안게</문법_조사></문법_맞춤법> 하는 것은 봉지에 담고 버린다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52869",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 566,
+    "essay_main_subject": "나의 취미"
+  }
+}

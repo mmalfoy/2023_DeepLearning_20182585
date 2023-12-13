@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 '진정한 친구'란 바로 '같이 있을 때 행복해지는 친구'라고 생각합니다.#@문장구분# 함께 있는데 마음에 안들고, 불편하고, 눈치보이는 친구는 진정한 친구가 아니라고 생각합니다.#@문장구분# 별로 특별한 것을 하지 않아도, 그저 일상적인 대화를 나누고, 함께 책을 읽거나, 간단한 산책을 하는 것 만드로도 함께 한다는 이유만으로도 행복해지는 친구가 진정한 친구하고 할 수 있는 친구가 된다고 생각합니다.#@문장구분# 진정한 친구가 되는 것은 별로 어렵지 않다고 생각합니다.#@문장구분# 조금씩 배려하고, 조금씩 남을 생각하고, 아플 때 걱정해주고, 슬픈 일이 있을 때 위로해주면 누구나 다 진정한 친구를 만들 수 있다고 생각합니다.#@문장구분# 저는 함께 있을 때 행복한 친구, 행복함을 느끼게 하는 친구가 진정한 친구라고 생각합니다.#@문장구분# \n 저도 이런 진정한 친구가 있었으면 좋겠습니다.",
+      "paragraph_len": 532,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      24.7,
+      17.45
+    ],
+    "essay_scoreT_avg": 22.716667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 함께 있는데 마음에 안들고, 불편하고, 눈치 보이는 친구는 진정한 친구가 아니라고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 함께 있는데 마음에 안들고, 불편하고, <문법_맞춤법>눈치보이는</문법_맞춤법> 친구는 진정한 친구가 아니라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 별로 특별한 것을 하지 않아도, 그저 일상적인 대화를 나누고, 함께 책을 읽거나, 간단한 산책을 하는 것만으로도 함께 한다는 이유만으로도 행복해지는 친구가 진정한 친구라고 할 수 있는 친구가 된다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 별로 특별한 것을 하지 않아도, 그저 일상적인 대화를 나누고, 함께 책을 읽거나, 간단한 산책을 하는 <문법_맞춤법>것 만드로도</문법_맞춤법> 함께 한다는 이유만으로도 행복해지는 친구가 진정한 친구하고 할 수 있는 친구가 된다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 조금씩 배려하고, 조금씩 남을 생각하고, 아플 때 걱정해 주고, 슬픈 일이 있을 때 위로해주면 누구나 다 진정한 친구를 만들 수 있다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 조금씩 배려하고, 조금씩 남을 생각하고, 아플 때 <문법_맞춤법>걱정해주고,</문법_맞춤법> 슬픈 일이 있을 때 위로해주면 누구나 다 진정한 친구를 만들 수 있다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55935",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 413,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 저녁을 먹은 후 야식을 먹는 것을 좋아한다.#@문장구분# 그래서 나는 이 습관을 매우 오랫동안 가지고 있었다.#@문장구분# 하지만 이 습관은 나의 건강에 매우 해롭기 때문에 고치게 되었다.#@문장구분# 이 습관을 고치기 위해서 먼저 가족에게 한가지의 당부를 했다.#@문장구분# 만약 내가 늦은 저녁 시간에 뭘 먹으려 한다면 꼭 말려달라고. 그리고 또 만약 야식으로 무언가를 먹고싶다면 나에게 물어보지 말고 나 몰래 먹어달라는 부탁도 했다.#@문장구분# 아렇게 부탁을 하고 나니 야식이 먹고 싶다는 생각이 들어도 어차피 가족들이 아는 말릴거라는 생각에 그만두기도 하고 어쩌다가 먹으려고 거실로 나가도 가족들이 말려주어서 결국 야식을 먹는 습관을 없앨 수 있었다.#@문장구분# 그리고 야식 생각이 덜 나도록 저녁을 원래보다 조금 늦게 먹은 것도 나에게 좋은 역할을 해 준 것 같다.#@문장구분# 이 습관을 고치도록 도와준 가족들에게 정말 고맙다.#@문장구분#",
+      "paragraph_len": 585,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.9,
+      24.4
+    ],
+    "essay_scoreT_avg": 26.433334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 만약 내가 늦은 저녁 시간에 뭘 먹으려 한다면 꼭 말려달라고. 그리고 또 만약 야식으로 무언가를 먹고 싶다면 나에게 물어보지 말고 나 몰래 먹어달라는 부탁도 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 내가 늦은 저녁 시간에 뭘 먹으려 한다면 꼭 말려달라고. 그리고 또 만약 야식으로 무언가를 <문법_맞춤법>먹고싶다면</문법_맞춤법> 나에게 물어보지 말고 나 몰래 먹어달라는 부탁도 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아렇게 부탁을 하고 나니 야식이 먹고 싶다는 생각이 들어도 어차피 가족들이 아는 말릴 거라는 생각에 그만두기도 하고 어쩌다가 먹으려고 거실로 나가도 가족들이 말려주어서 결국 야식을 먹는 습관을 없앨 수 있었다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 아렇게 부탁을 하고 나니 야식이 먹고 싶다는 생각이 들어도 어차피 가족들이 아는 <문법_맞춤법>말릴거라는</문법_맞춤법> 생각에 그만두기도 하고 어쩌다가 먹으려고 거실로 나가도 가족들이 말려주어서 결국 야식을 먹는 습관을 없앨 수 있었다.",
+      "sentence_corr_txt_styling": " 아렇게 부탁을 하고 나니 야식이 먹고 싶다는 생각이 들어도 어차피 가족들이 아는 말릴 거라는 생각에 그만두기도 하고 어쩌다가 먹으려고 거실로 나가도 가족들이 말려주어서 결국 야식을 먹는 습관을 없앨 수 있었다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_59865",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 426,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

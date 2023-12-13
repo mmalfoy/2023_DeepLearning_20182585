@@ -1,0 +1,315 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미디어는 문자로도 보내는 기능 또한 있지만 그거를 나쁜 걸로 이용할 수 있습니다.#@문장구분# SNS로 연앤인이거나 유명한 사람들한테 질투가 나서 이상한 사진을 올린거나 악성 댓끌을 달아서 그거 때문애 유면한 사람들과 연앤인이 잘살을 하는경우가 있습니다. #@문장구분#그러니까 그렇말을 하지 말고 좋은 말만 보내지다. #@문장구분#그다음 약글을 쓰는 사람들을 비난하지나 약글을 쓰는 사람들한테 욕을하지말자 욕을하면 싸움이 일어 날 수 도있고 저금어 둘자 가해자가 될 수 있기 때문입니다.#@문장구분# 약글을 쓰는 사람도 나브지만 자기도 가해자가 될 수도 있기때문입니다. #@문장구분#그러니까 될 수 록 약글을 쓰지 않고 좋은 말만 보내자 그렇다고 좋은말이 야깐 나쁜말은 아니지만 그 것을 보는 사람은 야깐 나쁜말 처럼 들리기도 할 수 있기 때문입니다. #@문장구분#그리까 보는 사람이 기쁜이 좋은 말만 쓰시다. #@문장구분#그리고 미디어는 나븐뜻으로하라고 만든게 아니라 편하게 하라고 만들어 준거이니까요 #@문장구분#나쁜뜻이아니라 좋은 뜻 으로만 적으씨다. #@문장구분#끝",
+      "paragraph_len": 661,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.4,
+      10,
+      10
+    ],
+    "essay_scoreT_avg": 11.8,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.04",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "미디어 발전과 사용방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미디어는 문자를 보내는 기능 또한 있지만, 그것을 나쁘게 이용할 수도 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "미디어는 <문법_조사>문자로도</문법_조사> 보내는 기능 또한 <문법_맞춤법>있지만 그거를</문법_맞춤법> 나쁜 걸로 이용할 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " SNS로 연예인이나 유명한 사람들한테 질투가 나서 이상한 사진을 올린다거나 악성 댓글을 달아서   유명한 사람들과 연예인이 자살을 하는 경우가 있습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "불필요",
+        "불필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " SNS로 <문법_조사>연앤인이거나</문법_조사> 유명한 사람들한테 질투가 나서 이상한 사진을 올린거나 악성 <문법_맞춤법>댓끌</문법_맞춤법>을 달아서 <스타일링_담화 맥락 오류><스타일링_패러프레이징>그거 때문애</스타일링_패러프레이징></스타일링_담화 맥락 오류> 유면한 사람들과 연앤인이 잘살을 하는경우가 있습니다. ",
+      "sentence_corr_txt_styling": " SNS로 연예인이나 유명한 사람들한테 질투가 나서 이상한 사진을 올린다거나 악성 댓글을 달아서   유명한 사람들과 연예인이 자살을 하는 경우가 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니까 그런말을 하지 말고 좋은 말만 보냅시다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러니까 <문법_맞춤법>그렇말을</문법_맞춤법> 하지 말고 좋은 말만 보내지다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그다음 악플을 쓰는 사람들을 비난하거나 악플을 쓰는 사람들한테 욕을 하지 말자 욕을 하면 싸움이 일어날 수 도있고 둘다 가해자가 될 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그다음 <문법_맞춤법>약글을</문법_맞춤법> 쓰는 사람들을 비난하지나 <문법_맞춤법>약글을</문법_맞춤법> 쓰는 사람들한테 욕을하지말자 욕을하면 싸움이 일어 날 수 도있고 저금어 둘자 가해자가 될 수 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 악플을 쓰는 사람도 나쁘지만 자기도 가해자가 될 수도 있기 때문입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>약글을 쓰는 사람도 나브지만</문법_맞춤법> 자기도 가해자가 될 수도 있기때문입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니까 되도록 악플을 쓰지 않고 좋은 말만 보내야 합니다. 그렇다고 좋은말이 약간 나쁜 말은 아니지만 그것을 보는 사람은 약간 나쁜 말처럼 들리기도 할 수 있기 때문입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "높임법",
+        "맞춤법"
+      ],
+      "sentence_txt": "그러니까 <스타일링_기타>될 수 록</스타일링_기타><문법_높임법> 약글을 쓰지 않고 좋은 말만 보내자</문법_높임법> 그렇다고 좋은말이 <문법_맞춤법>야깐 나쁜말</문법_맞춤법>은 아니지만 그 것을 보는 사람은 <문법_맞춤법>야깐 나쁜말</문법_맞춤법> 처럼 들리기도 할 수 있기 때문입니다. ",
+      "sentence_corr_txt_styling": "그러니까 되도록 악플을 쓰지 않고 좋은 말만 보내야 합니다. 그렇다고 좋은말이 약간 나쁜 말은 아니지만 그것을 보는 사람은 약간 나쁜 말처럼 들리기도 할 수 있기 때문입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니까 보는 사람이 기분이 좋은 말만 씁시다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그리까</문법_맞춤법> 보는 사람이 기쁜이 좋은 말만 쓰시다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 미디어는 나쁜 뜻으로 하라고 만든 게 아니라 편하게 하라고 만들어 준거이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "그리고 미디어는 <문법_맞춤법>나븐뜻으로하라고</문법_맞춤법> 만든게 아니라 편하게 하라고 <문법_조사>만들어 준거이니까요</문법_조사> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나쁜뜻이 아니라 좋은 뜻으로만 적읍시다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>나쁜뜻이아니라</문법_맞춤법> 좋은 뜻 으로만 적으씨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35950",
+    "essay_prompt": " 미디어는 우리 주변에서 쉽게 찾아볼 수 있습니다. 그중 텔레비전과 라디오, 컴퓨터, 스마트폰 등이 대표적인 미디어라고 할 수 있지요. 사람들은 이 미디어를 이용해 자신의 의사나 감정, 또는 정보를 주고받습니다.\n\n 과거에는 생각이나 뜻을 전하기 위해 말을 이용해 전달해야 했지만, 지금은 SNS(페이스북, 카카오톡 등)를 통해 실시간으로 대화하며 화상 채팅을 무료로 즐기는 시대가 되었습니다. 여러분도 가족/친구들과 SNS를 통해 많은 소통을 하고 계시지요?\n\n 이러한 미디어는 매우 빠른 속도로 진화를 거듭하고 있어요. 앞으로도 더욱 우리 생활 깊숙이 파고들 것입니다.\n\n 다만, 미디어의 발전은 수많은 문제의 원인이 되기도 해요. 다른 사람의 얼굴을 SNS에 올리거나 악플로 남에게 상처 되는 말을 하기도 하지요. 또한, 틀린 정보가 빠르게 퍼져 나가 사람들에게 해를 끼치기도 한답니다.\n\n 이렇게 빠르게 변화하는 미디어의 발 전속에서 우리는 어떻게 미디어를 사용해야 할까요?\n\n 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 할까요? 아니면 새로운 시대에 맞게 모든 자유를 보장해야 할까요? 그 사이에 적절한 사용 방법이 있을까요? 여러분의 의견과 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 481,
+    "essay_main_subject": "미디어 발전과 사용방법"
+  }
+}

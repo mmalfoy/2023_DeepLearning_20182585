@@ -1,0 +1,366 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지키는 방법에는 여러가지가 있다. #@문장구분#예를들어 깨끗하게 몸을 유지하기, 양치하기 등이있다.#@문장구분# \n 우선 위생을 지키는 방법은 여러가지가 있지만 나는 깨끗이 몸을 유지하는 방법이 무엇인지 설명할것이다. #@문장구분#깨끗하게 몸을 유지시키기 첫번째는 밖에 나갔다오면 손과발 그리고 세수를 하는것 이다. #@문장구분#다음으로 두번째로는 방금 이야기 했듯이 밖에 나갔다 오면 샤워를 하고 나오는 것이다.#@문장구분# 이렇게 위생을 지키는 방법 첫번째를 이야기 하였다.#@문장구분# \n두번째로 위생을 지키는 방법 여러가지중에서 두번째로 고른것은 식습관 이다.#@문장구분# \n 식습관을 좋게 만들기위한 첫번째 방법은 학교에서 급식을 받을때, 집에서 밥을 먹을때 음식을 너무많이 먹지 안는 것 이다. #@문장구분#왜냐하면 음식을 많이 먹으면 비만 등이 생길수 있기 때문이다.#@문장구분# \n 식습관을 좋게 만들기 위한 두번째 방법은 음식을 골고루 먹고 인스턴트음식을 많이 먹지 안고 마지막으로 음식을 너무 짜게 먹지 안으면 된다.#@문장구분# \n 이렇게 위생을 지키는 방법은 여러가지가 있다.#@문장구분# 그래서 나도 위생을 지키고 있는데 가끔식 잘 안될대도 있다.#@문장구분# 그러니 나는 지금보다 조금더 위생에 신경을 써서 다 자신의 위생을 잘 지킬것이다.",
+      "paragraph_len": 812,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      26,
+      17.933334
+    ],
+    "essay_scoreT_avg": 22.222223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.11",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "위생을 지키는 방법에는 여러 가지가 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위생을 지키는 방법에는 <문법_맞춤법>여러가지가</문법_맞춤법> 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예를 들어 깨끗하게 몸을 유지하기, 양치하기 등이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>예를들어 </문법_맞춤법>깨끗하게 몸을 유지하기, 양치하기 등이있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 우선 위생을 지키는 방법은 여러 가지가 있지만 나는 깨끗이 몸을 유지하는 방법이 무엇인지 설명할 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 우선 위생을 지키는 방법은 <문법_맞춤법>여러가지가</문법_맞춤법> 있지만 나는 깨끗이 몸을 유지하는 방법이 무엇인지 설명할것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "깨끗하게 몸을 유지시키기 첫 번째는 밖에 나갔다 오면 손과 발 그리고 세수를 하는 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "깨끗하게 몸을 유지시키기 <문법_맞춤법>첫번째는</문법_맞춤법> 밖에 나갔다오면 손과발 그리고 세수를 하는것 이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다음으로 두 번째는 방금 이야기했듯이 밖에 나갔다 오면 샤워를 하고 나오는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "다음으로 <문법_맞춤법><문법_조사>두번째로는 </문법_조사></문법_맞춤법>방금 이야기 했듯이 밖에 나갔다 오면 샤워를 하고 나오는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 위생을 지키는 방법 첫 번째를 이야기하였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 위생을 지키는 방법 <문법_맞춤법>첫번째를 이야기 하였다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n두 번째로 위생을 지키는 방법 여러 가지 중에서 두 번째로 고른 것은 식습관이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " \n<문법_맞춤법>두번째로</문법_맞춤법> 위생을 지키는 방법 여러가지중에서 <문법_맞춤법>두번째로</문법_맞춤법> 고른것은 식습관 이다.",
+      "sentence_corr_txt_styling": " \n두 번째로 위생을 지키는 방법 여러 가지 중에서 두 번째로 고른 것은 식습관이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 식습관을 좋게 만들기 위한 첫 번째 방법은 학교에서 급식을 받을 때, 집에서 밥을 먹을 때 음식을 너무 많이 먹지 않는 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 식습관을 좋게 <문법_맞춤법>만들기위한 첫번째 </문법_맞춤법>방법은 학교에서 급식을 받을때, 집에서 밥을 먹을때 음식을 너무많이 먹지 안는 것 이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 음식을 많이 먹으면 비만 등이 생길 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 음식을 많이 먹으면 비만 등이 <문법_맞춤법>생길수</문법_맞춤법> 있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 식습관을 좋게 만들기 위한 두 번째 방법은 음식을 골고루 먹고 인스턴트 음식을 많이 먹지 않고 마지막으로 음식을 너무 짜게 먹지 않으면 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 식습관을 좋게 만들기 위한 <문법_맞춤법>두번째 </문법_맞춤법>방법은 음식을 골고루 먹고 인스턴트음식을 많이 먹지 안고 마지막으로 음식을 너무 짜게 먹지 안으면 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 이렇게 위생을 지키는 방법은 여러 가지가 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 이렇게 위생을 지키는 방법은 <문법_맞춤법>여러가지가</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나도 위생을 지키고 있는데 가끔식 잘 안될 때도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나도 위생을 지키고 있는데 가끔식 잘 <문법_맞춤법>안될대도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니 나는 지금보다 조금 더 위생에 신경을 써서 나 자신의 위생을 잘 지킬 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니 나는 지금보다 <문법_맞춤법>조금더</문법_맞춤법> 위생에 신경을 써서 다 자신의 위생을 잘 지킬것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52887",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 575,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

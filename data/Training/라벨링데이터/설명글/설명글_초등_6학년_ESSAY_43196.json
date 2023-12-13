@@ -1,0 +1,296 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리들은 사회와 역사 시간에 위인을 알아본다. #@문장구분#우리나라는 이순신장군님 유관순님 우리는 한번쯤은 생각한 위인이 있다.#@문장구분# 나는 내가 존경하는 위인은 빌 게이츠이다. #@문장구분#이 위인은 우리가 사용 하고 있는 WINDOW를 만든 사람이다.#@문장구분# 나는 이보의 자신감과 용감함을 존경한다. #@문장구분#보통의 사람들은 돌아가신 분들이 위인이라고 생각 하지만 나는 지금도 살아 업적을 새기고 계시는 분들도 위인이라 생각한다.#@문장구분# 여들지든 빌 게이츠는 친구들과 같이 사업을 했지만 누구나 그렇듯 처음은 순탄하지 않다. #@문장구분#몇번의 실패도 있었지만 실패라는 단어를 생각하지 않고 오직 도전 해 결국 거대한 기업을 만드는데 일으렀다.#@문장구분# 나는 이 끈기 때문에 성공 했다고 생각한다.#@문장구분# 나는 이 점을 본 받아 기업을 만들고 끝에 서 보고 싶다. #@문장구분#끝에는 우리한테 포기라는 단어를 생각 못 하게 만든다.#@문장구분# 모두 이런 분들을 본 받아 자신도 위인이 되고 싶은 생각을 한적이 있다고 나는 생각한다. #@문장구분#나는 이런 분들을 본 받아 빌 게이츠보다 더 뛰어난 위인이 되고 싶다.",
+      "paragraph_len": 743,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      28.4,
+      19.45
+    ],
+    "essay_scoreT_avg": 25.283335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리나라는 이순신 장군님 유관순 님 우리는 한 번쯤은 생각한 위인이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리나라는 <문법_맞춤법>이순신장군님 유관순님 우리는 한번쯤은</문법_맞춤법> 생각한 위인이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 위인은 우리가 사용하고 있는 WINDOW를 만든 사람이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이 위인은 우리가 <문법_맞춤법>사용 하고</문법_맞춤법> 있는 WINDOW를 만든 사람이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 나는 이보의 자신감과 용감함을 존경한다. ",
+      "sentence_corr_txt_styling": " 나는 이보의 자신감과 용감함을 존경한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 여들지든 빌 게이츠는 친구들과 같이 사업을 했지만 누구나 그렇듯 처음은 순탄하지 않다. ",
+      "sentence_corr_txt_styling": " 여들지든 빌 게이츠는 친구들과 같이 사업을 했지만 누구나 그렇듯 처음은 순탄하지 않다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "몇 번의 실패도 있었지만 실패라는 단어를 생각하지 않고 오직 도전해 결국 거대한 기업을 만드는데 이르렀다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>몇번의 실패도 있었지만 실패라는 단어를 생각하지 않고 오직 도전 해 결국 거대한 기업을 만드는데 일으렀다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 이 끈기 때문에 성공했다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 이 끈기 때문에 <문법_맞춤법>성공 했다고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 이 점을 본받아 기업을 만들고 끝에 서 보고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 이 점을 <문법_맞춤법>본 받아</문법_맞춤법> 기업을 만들고 끝에 서 보고 싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모두 이런 분들을 본받아 자신도 위인이 되고 싶은 생각을 한 적이 있다고 나는 생각한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모두 이런 분들을 <문법_맞춤법>본 받아 자신도 위인이 되고 싶은 생각을 한적이</문법_맞춤법> 있다고 나는 생각한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 이런 분들을 본받아 빌 게이츠보다 더 뛰어난 위인이 되고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 이런 분들을 <문법_맞춤법>본 받아</문법_맞춤법> 빌 게이츠보다 더 뛰어난 위인이 되고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43196",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 503,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

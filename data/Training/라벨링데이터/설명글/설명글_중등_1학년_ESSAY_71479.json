@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 가지고 있는 나쁜 습관은 수업시간에 집중을 잘하지 못한다는 것입니다.#@문장구분# 그래서 저는 수업시간에 집중을 하지 못하는 습관을 고치기 위해서 선생님이 수업하실 때는 최대한 귀를 기울여서 경청할려는 자세를 가질려고 노력하였고 또 선생님이 하시는 말씀은 최대한 모두 필기할려고 노력하였습니다.#@문장구분# 또한 수업시간에는 무조건 집중해야한다. 라는 생각을 가지고 쉬는시간에는 친구들과 이야기하기 보다는 잠을 자거나 휴식을 취하는 행동을 하는등의 노력을 하였습니다.#@문장구분# 그리고 저는 아침에 일찍 일어나는 좋은 습관을 들이고싶어서 알람을 평소 일어나는 시간보다 30분 일찍 맞춰 일어날려고 노력하였습니다.#@문장구분# 이렇게 노력을 한 결과 저는 예전보다 아침에 일찍 일어나게 되었고 덕분에 상쾌한 하루를 시작할 수 있게 되었습니다.#@문장구분#",
+      "paragraph_len": 490,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.5,
+      21.05,
+      19.75
+    ],
+    "essay_scoreT_avg": 20.433332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 가지고 있는 나쁜 습관은 수업 시간에 집중을 잘하지 못한다는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 가지고 있는 나쁜 습관은 <문법_맞춤법>수업시간에 </문법_맞춤법>집중을 잘하지 못한다는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 수업 시간에 집중을 하지 못하는 습관을 고치기 위해서 선생님이 수업하실 때는 최대한 귀를 기울여서 경청하려는 자세를 가지려고 노력하였고 또 선생님이 하시는 말씀은 최대한 모두 필기하려고 노력하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 <문법_맞춤법>수업시간에</문법_맞춤법> 집중을 하지 못하는 습관을 고치기 위해서 선생님이 수업하실 때는 최대한 귀를 기울여서 경청할려는 자세를 가질려고 노력하였고 또 선생님이 하시는 말씀은 최대한 모두 필기할려고 노력하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 수업 시간에는 무조건 집중해야 한다.라는 생각을 가지고 쉬는 시간에는 친구들과 이야기하기보다는 잠을 자거나 휴식을 취하는 행동을 하는 등의 노력을 하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 <문법_맞춤법>수업시간에는 무조건 집중해야한다. 라는 생각을 가지고 쉬는시간에는 친구들과 이야기하기 보다는 잠을 자거나 휴식을 취하는 행동을 하는등의 노력을 하였습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 저는 아침에 일찍 일어나는 좋은 습관을 들이고 싶어서 알람을 평소 일어나는 시간보다 30분 일찍 맞춰 일어나려고 노력하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 저는 아침에 일찍 일어나는 좋은 습관을 <문법_맞춤법>들이고싶어서 </문법_맞춤법>알람을 평소 일어나는 시간보다 30분 일찍 맞춰 일어날려고 노력하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71479",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 390,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

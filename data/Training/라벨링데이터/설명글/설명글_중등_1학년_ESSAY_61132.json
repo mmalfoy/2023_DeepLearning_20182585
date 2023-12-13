@@ -1,0 +1,288 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 습관을 들이기 위해 노력한 노하우는 뭐든지 부딪혀보고 열심히 하는 것입니다.#@문장구분# 사람은 항상 열정을 가지고 살아야한다고 생각합니다.#@문장구분# 하고자 하는 의지와 열정이 있다면 못해낼 것이 없다고 생각합니다.#@문장구분# 저는 쉽게 실증을 내고 쉽게 지치는 스타일인데요.#@문장구분# 하지만 지금의 저는 쉽게 지치지 않습니다.#@문장구분# 그 비결은 제 마음속으로 별거 아니라고 주문을 거는 것입니다.#@문장구분# 저는 무언갈 도전하기전부터 걱정과 의심이 많은 편이었는데요.#@문장구분# 그래서 항상 시작도 하기 전에 나는 못할거야라는 생각과 겁을 먹었습니다.#@문장구분# 하지만 마음 속으로 별것 아닌거라고 마음먹은 순간 저는 다양한 일들을 해보고 경험할 수 있었습니다.#@문장구분# 한 번 사는 인생인데 하고 싶은 건 다하고 죽어야겠다는 생각이들었습니다.#@문장구분# 옛말에 잘먹고 죽은 귀신이 때갈도 곱다는 얘기가 있지 않습니다.#@문장구분# 먹고 싶은거 다 먹고 하고 싶은거 다하면서 살려면 돈이 있어야겠죠?#@문장구분# 돈을 모으기 위해서 직장을 가져야하고 직장을 가지려면 공부를 열심히하고 성실히 살아야합니다.#@문장구분# 그리고 요즘엔 취업이 잘 안되니까 정말 열심히 해야합니다.#@문장구분# 그러기 위해선 많은 열정과 의지가 필요합니다.#@문장구분#",
+      "paragraph_len": 855,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.75,
+      19.8,
+      19.05
+    ],
+    "essay_scoreT_avg": 21.199999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 쉽게 싫증을 내고 쉽게 지치는 스타일인데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 쉽게 <문법_맞춤법>실증</문법_맞춤법>을 내고 쉽게 지치는 스타일인데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 무언갈 도전하기 전부터 걱정과 의심이 많은 편이었는데요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 무언갈 <문법_맞춤법>도전하기전부터</문법_맞춤법> 걱정과 의심이 많은 편이었는데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 항상 시작도 하기 전에 나는 못할거라는 생각과 겁을 먹었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 항상 시작도 하기 전에 나는 <문법_맞춤법>못할거야라는</문법_맞춤법> 생각과 겁을 먹었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 마음속으로 별것 아닌 거라고 마음먹은 순간 저는 다양한 일들을 해보고 경험할 수 있었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>마음 속으로 별것 아닌거라고</문법_맞춤법> 마음먹은 순간 저는 다양한 일들을 해보고 경험할 수 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한 번 사는 인생인데 하고 싶은 건 다 하고 죽어야겠다는 생각이 들었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한 번 사는 인생인데 하고 싶은 건 <문법_맞춤법>다하고 죽어야겠다는 생각이들었습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 옛말에 잘 먹고 죽은 귀신이 때깔도 곱다는 얘기가 있지 않습니까?",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 옛말에 <문법_맞춤법>잘먹고</문법_맞춤법> 죽은 귀신이 때갈도 곱다는 얘기가 있지 <문법_어미>않습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먹고 싶은 거 다 먹고 하고 싶은 거 다 하면서 살려면 돈이 있어야겠죠?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>먹고 싶은거 다 먹고 하고 싶은거 다하면서</문법_맞춤법> 살려면 돈이 있어야겠죠?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 돈을 모으기 위해서 직장을 가져야하고 직장을 가지려면 공부를 열심히 하고 성실히 살아야합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 돈을 모으기 위해서 직장을 가져야하고 직장을 가지려면 공부를 <문법_맞춤법>열심히하고</문법_맞춤법> 성실히 살아야합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61132",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 556,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

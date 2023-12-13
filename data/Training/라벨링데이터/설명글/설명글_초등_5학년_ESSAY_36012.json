@@ -1,0 +1,459 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요#@문장구분# 이번엔 제 취미생활을 알아 볼거에요#@문장구분# 저의 취미생활은 좀많아요#@문장구분# 1. 캐치볼하기 에요. #@문장구분#캐치볼은 야구공으로 주고 받고 하는 거에요. #@문장구분#요즘은시간이 없어서 가끔해요 #@문장구분#2. 탁구에요 #@문장구분#탁구는 탁자위에 탁구 체로 공을 주고 받는 운동이에요.#@문장구분# 이건 집에서 해서 자주 해요#@문장구분# 3. 드럼 밴드. 거의 모든음악에 쓰이는 악이에요. #@문장구분#이것도 집에 있어서 드럼도 자주쳐요#@문장구분# 3개다 손으로 격렬하는거요서 손목힘줄이 부었어요...#@문장구분# 4. '요리하기'에요. #@문장구분#요리는 그냥한번 따라했다가 재밌어서 계속하고 있어요, #@문장구분#그래서 세계요리도 하는 중이고 국내요리도 자주 해요#@문장구분# 4. 베이킹 이에요.#@문장구분# 이것도 요리랑 비슷한거에요. #@문장구분#하지만 빵을 굽는 것 이에요.#@문장구분# 6. 스케이트 보드에요. #@문장구분#보드 는 친구따라 했는데 재밌어서 계속하고있어요.#@문장구분# 요즘은 실력이좀늘었어요.#@문장구분# 지금까지 저의 취미를 알아보았는데 취미는 좋은 것이니 많이 가지면 좋아요.#@문장구분#",
+      "paragraph_len": 882,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.066668,
+      18.4,
+      16.047619
+    ],
+    "essay_scoreT_avg": 17.171429,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.01",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕하세요.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>안녕하세요</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이번엔 제 취미생활을 알아볼 거에요.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이번엔 제 취미생활을 <문법_맞춤법>알아 볼거에요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저의 취미생활은 좀 많아요.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저의 취미생활은 좀많아요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1. 캐치볼 하기입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1.<문법_맞춤법> 캐치볼하기 에요.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "캐치볼은 야구공을 주고 받고 하는 거에요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "캐치볼은 <문법_조사>야구공으로</문법_조사> 주고 받고 하는 거에요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요즘은 시간이 없어서 가끔 해요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>요즘은시간이 없어서 가끔해요</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "2. 탁구에요 ",
+      "sentence_corr_txt_styling": "2. 탁구에요 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "탁구는 탁자 위에 탁구채로 공을 주고받는 운동이에요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "탁구는 <문법_맞춤법>탁자위</문법_맞춤법>에 탁구 체로 공을 주고 받는 운동이에요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기, 맞춤법"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 3. 드럼 밴드. 거의 모든음악에 쓰이는 악이에요. ",
+      "sentence_corr_txt_styling": " 3. 드럼 밴드. 거의 모든음악에 쓰이는 악이에요. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "이것도 집에 있어서 드럼도 자주쳐요",
+      "sentence_corr_txt_styling": "이것도 집에 있어서 드럼도 자주쳐요",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " 3개다 손으로 격렬하는거요서 손목힘줄이 부었어요...",
+      "sentence_corr_txt_styling": " 3개다 손으로 격렬하는거요서 손목힘줄이 부었어요...",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 4. '요리하기'에요. ",
+      "sentence_corr_txt_styling": " 4. '요리하기'에요. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요리는 그냥 한번 따라 했다가 재밌어서 계속하고 있어요, ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요리는 <문법_맞춤법>그냥한번</문법_맞춤법> 따라했다가 재밌어서 계속하고 있어요, ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 4. 베이킹하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 4. <문법_맞춤법>베이킹 이에요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것도 요리랑 비슷한 거에요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이것도 요리랑 <문법_맞춤법>비슷한거에요.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 빵을 굽는 것이에요.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 빵을 굽는<문법_맞춤법> 것 이에요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 6. 스케이트보드에요. ",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 6.<문법_맞춤법> 스케이트 보드</문법_맞춤법>에요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "보드 는 친구따라 했는데 재밌어서 계속하고있어요.",
+      "sentence_corr_txt_styling": "보드 는 친구따라 했는데 재밌어서 계속하고있어요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘은 실력이 좀 늘었어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘은 <문법_맞춤법>실력이좀늘었어요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36012",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 443,
+    "essay_main_subject": "나의 취미"
+  }
+}

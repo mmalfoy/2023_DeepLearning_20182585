@@ -1,0 +1,223 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 의견은 남한과 북한을 통일해야 된다 생각합니다.#@문장구분# 왜냐면 통일을 하지 못하면 멀리 떨어져있는 이산가족끼리 거의 만날 수 없습니다.#@문장구분# 만나려면 40년 정도를 기다려야 합니다.#@문장구분# 만나면 할머니, 할아버지가 돼서 만납니다.#@문장구분# 근데 이것도 슬픈데 태어나서 죽을 때까지 부모님을 거의 못 만난다고 생각해 보세요.#@문장구분# 그러는 일이 있습니다.#@문장구분# 제가 학교에서 도덕 시간에 배웠지만 사람들은 통일을 이루어지도록 원해합니다. #@문장구분#그래서 저는 하루 빨리 통일해야 된다고 생각합니다. #@문장구분#그리고 현재도 북한과 전쟁을 멈추고 잠시 휴전하고 있습니다.#@문장구분# 그래서 우리는 언제 죽을지 모르는 상황입니다.#@문장구분# 저는 통일이 이루어져야 된다고 생각합니다.#@문장구분#",
+      "paragraph_len": 556,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.55,
+      22.25,
+      13.714286
+    ],
+    "essay_scoreT_avg": 18.504763,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.11",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 통일을 하지 못하면 멀리 떨어져 있는 이산가족끼리 거의 만날 수 없습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐면 통일을 하지 못하면 멀리 <문법_맞춤법>떨어져있는</문법_맞춤법> 이산가족끼리 거의 만날 수 없습니다.",
+      "sentence_corr_txt_styling": " 왜냐면 통일을 하지 못하면 멀리 떨어져 있는 이산가족끼리 거의 만날 수 없습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 근데 이것도 슬픈데 태어나서 죽을 때까지 부모님을 거의 못 만난다고 생각해 보세요.",
+      "sentence_corr_txt_styling": " 근데 이것도 슬픈데 태어나서 죽을 때까지 부모님을 거의 못 만난다고 생각해 보세요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 학교에서 도덕 시간에 배웠는데 사람들은 통일을 이루어지도록 원합니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 제가 학교에서 도덕 시간에 <문법_어미>배웠지만</문법_어미> 사람들은 통일을 이루어지도록 <문법_맞춤법>원해합니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": " 제가 학교에서 도덕 시간에 배웠는데 사람들은 통일을 이루어지도록 원합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저는 하루빨리 통일해야 된다고 생각합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 저는 <문법_맞춤법>하루 빨리</문법_맞춤법> 통일해야 된다고 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53428",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 336,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

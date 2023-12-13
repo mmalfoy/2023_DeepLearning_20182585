@@ -1,0 +1,305 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 고치고 싶어하는 습관은 컴퓨터를 많이 하는 습관입니다.#@문장구분# 평소에 컴퓨터를 너무 많이해서 수업시간에도 컴퓨터 게임이 생각나는 수준입니다.#@문장구분# 그래서 심각성을 느끼고 컴퓨터를 줄이려고 노력하였습니다.#@문장구분# 우선 컴퓨터 본체를 테이프로 꽁꽁 묶어놓기도 하고 본체를 완전 뽑아서 부모님에게 맡긴 적 도 있습니다.#@문장구분# 이런식으로 엄청나게 노력했습니다.#@문장구분# 이렇게 살다보니 점점 컴퓨터 생각이 덜 나는듯한 느낌도 들고 정신도 조금씩 건강해지는 것 같았습니다.#@문장구분# 일주일동안 꾹 참다가 보상으로 한번씩 게임도 하는 것입니다.#@문장구분# 그런식으로 보상심리로 이용하는 것도 좋다고 생각합니다.#@문장구분# 너무 억압적으로 하다보면 빠르게 지칠테니 조금씩 허용해가며 억제를 하면 더욱 더 효과가 좋을 것입니다.#@문장구분# 앞으로 친구들이 이런식으로 습관을 고쳤으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 597,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.9,
+      20.55,
+      17.35
+    ],
+    "essay_scoreT_avg": 21.599998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 고치고 싶어 하는 습관은 컴퓨터를 많이 하는 습관입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 고치고 <문법_맞춤법>싶어하는 </문법_맞춤법>습관은 컴퓨터를 많이 하는 습관입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 평소에 컴퓨터를 너무 많이 해서 수업 시간에도 컴퓨터 게임이 생각나는 수준입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 평소에 컴퓨터를 너무 <문법_맞춤법>많이해서 </문법_맞춤법>수업시간에도 컴퓨터 게임이 생각나는 수준입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우선 컴퓨터 본체를 테이프로 꽁꽁 묶어놓기도 하고 본체를  뽑아서 부모님에게 맡긴 적도 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 우선 컴퓨터 본체를 테이프로 꽁꽁 묶어놓기도 하고 본체를 <문법_기타>완전 뽑아서</문법_기타> 부모님에게 <문법_맞춤법>맡긴 적 도</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 식으로 엄청나게 노력했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이런식으로 </문법_맞춤법>엄청나게 노력했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 살다 보니 점점 컴퓨터 생각이 덜 나는듯한 느낌도 들고 정신도 조금씩 건강해지는 것 같았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 <문법_맞춤법>살다보니 </문법_맞춤법>점점 컴퓨터 생각이 덜 나는듯한 느낌도 들고 정신도 조금씩 건강해지는 것 같았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일주일 동안 꾹 참다가 보상으로 한 번씩 게임도 하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>일주일동안 </문법_맞춤법>꾹 참다가 보상으로 한번씩 게임도 하는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 식으로 보상심리로 이용하는 것도 좋다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그런식으로 </문법_맞춤법>보상심리로 이용하는 것도 좋다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 너무 억압적으로 하다 보면 빠르게 지칠 테니 조금씩 허용해가며 억제를 하면 더욱더 효과가 좋을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 너무 억압적으로 <문법_맞춤법>하다보면 </문법_맞춤법>빠르게 지칠테니 조금씩 허용해가며 억제를 하면 더욱 더 효과가 좋을 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로 친구들이 이런 식으로 습관을 고쳤으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 앞으로 친구들이 <문법_맞춤법>이런식으로</문법_맞춤법> 습관을 고쳤으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71503",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 397,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

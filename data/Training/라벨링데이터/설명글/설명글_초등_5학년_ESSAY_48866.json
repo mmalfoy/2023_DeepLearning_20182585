@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 손을딱고양치하고 세수 해서 가는데 이렇게하면 위생을지킬지는모르겠다그리고 태권도 갔다와서 목욕을한다. #@문장구분#그리고 학원 갔다와서는 세수한다.#@문장구분# 지금 생각해보니깐 이렇게하면 위생을 못지키므로 이렇게해야겠다.#@문장구분# 되는데로. 일단 일어나서 목욕하고 양치하고 로션 꼬박꼬박 발르고 학교같다와서 양치하고 목욕하고 로션바르고 학원갔다와서 세수하고 발닥고 양치하고 태권도가서 운동하고 갔다와서 목욕하고로션바르고 자기전에 꼭해야하는 양치하고 치실로도 이빨딱고 세수하고 로션바르고 자면 위생이 지켜질것같다.#@문장구분# 근데로션이많이든다는단점이있다 #@문장구분#샴프도 그렇다.#@문장구분# 그래도 꼭좋아지지 않는법 단점이 있긴 하지만 그래도 되는데로 위에서말한것처럼 할것이다.#@문장구분#",
+      "paragraph_len": 484,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.685715,
+      25.666666,
+      26
+    ],
+    "essay_scoreT_avg": 25.450792,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.29",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 손을 닦고 양치하고 세수해서 가는데 이렇게 하면 위생을 지킬지는 모르겠다. 그리고 태권도 갔다와서 목욕을 한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>나는 손을딱고양치하고 세수 해서 가는데 이렇게하면 위생을지킬지는모르겠다그리고 태권도 갔다와서 목욕을한다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 지금 생각해보니깐 이렇게하면 위생을 못지키므로 이렇게해야겠다.",
+      "sentence_corr_txt_styling": " 지금 생각해보니깐 이렇게하면 위생을 못지키므로 이렇게해야겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 되는데로. 일단 일어나서 목욕하고 양치하고 로션 꼬박꼬박 발르고 학교같다와서 양치하고 목욕하고 로션바르고 학원갔다와서 세수하고 발닥고 양치하고 태권도가서 운동하고 갔다와서 목욕하고로션바르고 자기전에 꼭해야하는 양치하고 치실로도 이빨딱고 세수하고 로션바르고 자면 위생이 지켜질것같다.",
+      "sentence_corr_txt_styling": " 되는데로. 일단 일어나서 목욕하고 양치하고 로션 꼬박꼬박 발르고 학교같다와서 양치하고 목욕하고 로션바르고 학원갔다와서 세수하고 발닥고 양치하고 태권도가서 운동하고 갔다와서 목욕하고로션바르고 자기전에 꼭해야하는 양치하고 치실로도 이빨딱고 세수하고 로션바르고 자면 위생이 지켜질것같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 로션이 많이 든다는 단점이 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>근데로션이많이든다는단점이있다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "샴푸도 그렇다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>샴프</문법_맞춤법>도 그렇다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래도 꼭좋아지지 않는법 단점이 있긴 하지만 그래도 되는데로 위에서말한것처럼 할것이다.",
+      "sentence_corr_txt_styling": " 그래도 꼭좋아지지 않는법 단점이 있긴 하지만 그래도 되는데로 위에서말한것처럼 할것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48866",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 344,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

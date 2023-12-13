@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 가장 재미있어하고 좋아하는 과목은 체육입니다.#@문장구분# 왜냐하면 체육은 재미있는 것을 많이 하기 때문 입니다.#@문장구분# 나는 피구, 농구, 배드민턴 등이 재미있다.#@문장구분# 농구는 애들끼리 하면 싸움이 날때가 있는데 나는 다른 애들이랑 농구할때 싸우지 않아서 농구를 하는 것이 재미있다.#@문장구분# 또 배드민턴은 제운관에서하기때문에 바람도 불지 않아서 좋다.#@문장구분# 또 어렸을 때부터 해서 그런지 더 재미있게 느껴진다.#@문장구분# 피구는 내가 맞을 때도 있지만 공을 던지고 피하는게 재미있어서 좋다.#@문장구분# 그래서 내가 좋아하는 과목은 체육이다.#@문장구분# 앞으로도 재미있는 체육을 많이 하고 싶다.#@문장구분#",
+      "paragraph_len": 477,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          2,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.952381,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.714287,
+      24.4,
+      23.64762
+    ],
+    "essay_scoreT_avg": 21.920637,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 가장 재미있어 하고 좋아하는 과목은 체육입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "내가 가장 <문법_맞춤법>재미있어하고 </문법_맞춤법>좋아하는 과목은 체육입니다.",
+      "sentence_corr_txt_styling": "내가 가장 재미있어 하고 좋아하는 과목은 체육입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 체육은 재미있는 것을 많이 하기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 체육은 재미있는 것을 많이 하기 <문법_맞춤법>때문 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 왜냐하면 체육은 재미있는 것을 많이 하기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 농구는 애들끼리 하면 싸움이 날 때가 있는데 나는 다른 애들이랑 농구할 때 싸우지 않아서 농구를 하는 것이 재미있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 농구는 애들끼리 하면 싸움이 <문법_맞춤법>날때가 </문법_맞춤법>있는데 나는 다른 애들이랑 농구할때 싸우지 않아서 농구를 하는 것이 재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 배드민턴은 체육관에서 하기 때문에 바람도 불지 않아서 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 배드민턴은 <문법_맞춤법>제운관에서하기때문에 </문법_맞춤법>바람도 불지 않아서 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 피구는 내가 맞을 때도 있지만 공을 던지고 피하는 게 재미있어서 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 피구는 내가 맞을 때도 있지만 공을 던지고 <문법_맞춤법>피하는게 </문법_맞춤법>재미있어서 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63445",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 297,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

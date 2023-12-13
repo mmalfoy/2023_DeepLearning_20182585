@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 몸을 깨끗하게 하기 위해 하루에 한번 씻는다.#@문장구분# 태권도 끝나고, 밖에 나갔다 왔을 때는 꼭 씻는다.#@문장구분# 왜냐하면 밖에 코로나가 있을 수도 있고, 운동을 하고 나면 땀이 나기 때문이다.#@문장구분# 그리고 손은 나갔다 오면 씻고 하루에 거이 3번 이상 씻는다. #@문장구분#밥 먹기 전에도 닦고, 밥 먹은 후에도 닦는다.#@문장구분# 왜나하면 손에 세균이 있는 채로 밥을 먹으면 그 손에 있던 세균이 몸속에 들어 올 수도 있기 때문이다.#@문장구분#\n 양치는 아침 밥 먹고 한번, 저녁 밥 먹을 때 한번, 자기 전에 한 번 닦는다.#@문장구분# 점심 밥은 양치를 못한다.#@문장구분#\n 왜냐하면 학교에서 점심을 먹으면 거이 1시 15분쯤 되는데 2시에 태권도 학원 시작시간 이라서 그전에 옷 갈아 입고 하는 시간이 많아서이기 때문이다.#@문장구분# 위생을 잘 지켜야 자신의 삶을 더 나아갈 수 있게끔 중요한 것 같다.",
+      "paragraph_len": 587,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.533333,
+      20.333334,
+      20.333334
+    ],
+    "essay_scoreT_avg": 20.066668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 몸을 깨끗하게 하기 위해 하루에 한 번 씻는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 몸을 깨끗하게 하기 위해<문법_맞춤법> 하루에 한번 씻는</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 손은 나갔다 오면 씻고 하루에 거의 3번 이상 씻는다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 손은 나갔다 오면 씻고 하루에 <문법_맞춤법>거이</문법_맞춤법> 3번 이상 씻는다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜나하면 손에 세균이 있는 채로 밥을 먹으면 그 손에 있던 세균이 몸속에 들어올 수도 있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜나하면 손에 세균이 있는 채로 밥을 먹으면 그 손에 있던 세균이 몸속에 <문법_맞춤법>들어 올</문법_맞춤법> 수도 있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 양치는 아침밥 먹고 한번, 저녁밥 먹을 때 한번, 자기 전에 한 번 닦는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 양치는 <문법_맞춤법>아침 밥</문법_맞춤법> 먹고 한번, 저녁 밥 먹을 때 한번, 자기 전에 한 번 닦는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 점심밥은 양치를 못한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>점심 밥</문법_맞춤법>은 양치를 못한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 왜냐하면 학교에서 점심을 먹으면 거의 1시 15분쯤 되는데 2시에 태권도 학원 시작 시간이라서 그전에 옷 갈아입고  하는 시간이 많아서 이기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 왜냐하면 학교에서 점심을<문법_맞춤법> 먹으면 거이 1시 15분쯤 되는데 2시에 태권도 학원 시작시간 이라서 그전에 옷 갈아 입고 하는 시간이 많아서이기</문법_맞춤법> 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50926",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 408,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

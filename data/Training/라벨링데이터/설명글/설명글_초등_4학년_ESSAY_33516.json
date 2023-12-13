@@ -1,0 +1,370 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 살고 싶은 집은 멌진베입니다.#@문장구분# 그배는 2층으로 되어있으면 좋을겄같습니다.#@문장구분# 1층은텔레비전안에 소파도 있고 주방과 냉장고와 오분이 있습니다.#@문장구분# 오분에는 고기도 굽고 빵도만들고 날로가 있어 집을 따듯하게 대울수있습니다.#@문장구분# 옆에 나무와 난로를 청소할때 수은막대기가 있습니다.#@문장구분# 위에는 멌진그림과 멌있는 보석들이 있었으면 좋을것같습니다.#@문장구분# 옆에는 서랍이 있고 서랍에는 그과와책 만년필 서항눈이 있었으면 좋을겄같습니다. #@문장구분#2층에는 침실이 있습니다.#@문장구분# 침실에는 하얀침대와 벽지는 하양색이면 좋을것같고요.#@문장구분# 칩대 압에도 벽난로와 나무, 총소도구가 있으면 좋을겄같고 위에는 멌진 도자기와 그릇과 나침반사진 그림, 배모형 그 엽에는 책장에는 어항과 보석금고 사진등이 있었으면 좋을것같고 옆에는 그림그릴수 있는 캔피스와 물감들이 있습니다.#@문장구분# 그리고 맢에 있는 문을열면 푹신한 의자가있는 선장실에는 큰방항키 엽에는 래이더와 항로조정장치가있고 소화기와 낙시댸들은 보트벽에 있었으면 좋을겄같고 보트의 색을 하양색이였스면 좋을겄같습니다.#@문장구분# 그리고 배에 남은자리에는 작은 배가 있어서 배가 고장나면 그 작은배를 타고 도망갈수도있고 심심할때 타구나가서 놀수도 있스면좋을겄 같습니다.#@문장구분# 그리고 배에 서핑보드가 있어서 내앞에서 서핑도 하수있었어도 좋을겄같습니다.#@문장구분# 그리고 배엔 텔레비전이 있어서 심심할때 티비보면 좋을겄같다.#@문장구분#",
+      "paragraph_len": 938,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      28.285713,
+      22.733334
+    ],
+    "essay_scoreT_avg": 24.050795,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.27",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 살고 싶은 집은 멋진 배입니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>제가 살고 싶은 집은 멌진베입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 배는 2층으로 되어있으면 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그배는 2층으로 되어있으면 좋을겄같습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1층은 텔레비전 안에 소파도 있고 주방과 냉장고와 오븐이 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>1층은텔레비전안에 소파도 있고 주방과 냉장고와 오분이 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오븐에는 고기도 굽고 빵도 만들고 난로가 있어 집을 따뜻하게 데울 수 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>오분에는 고기도 굽고 빵도만들고 날로가 있어 집을 따듯하게 대울수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 옆에 나무와 난로를 청소할 때 수은 막대기가 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>옆에 나무와 난로를 청소할때 수은막대기가 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위에는 멋진 그림과 멋있는 보석들이 있었으면 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>위에는 멌진그림과 멌있는 보석들이 있었으면 좋을것같습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "그과와가 맥락에 맞지않아 삭제교정"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>옆에는 서랍이 있고 서랍에는 그과와책 만년필 서항눈이 있었으면 좋을겄같습니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 옆에는 서랍이 있고 서랍에는 책 만년필 서항 눈이 있었으면 좋을 것 같습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 침실 에는 하얀 침대와 벽지는 하양색이면 좋을 것 같고요.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>침실에는 하얀침대와 벽지는 하양색이면 좋을것같고요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 침대 앞에도 벽난로와 나무, 청소 도구가 있으면 좋을 것 같고 위에는 멋진 도자기와 그릇과 나침반 사진 그림, 배 모형 그 옆에는 책장에는 어항과 보석금고 사진등이 있었으면 좋을 것 같고 옆에는 그림 그릴 수 있는 캔버스와 물감들이 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>칩대 압에도 벽난로와 나무, 총소도구가 있으면 좋을겄같고 위에는 멌진 도자기와 그릇과 나침반사진 그림, 배모형 그 엽에는 책장에는 어항과 보석금고 사진등이 있었으면 좋을것같고 옆에는 그림그릴수 있는 캔피스와 물감들이 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 앞에 있는 문을 열면 푹신한 의자가 있는 선장실에는 큰 방항키  옆에는 레이더와 항로 조정장치가 있고 소화기와 낙시대들은 보트 벽에 있었으면 좋을 것 같고 보트의 색을 하양색이었으면 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고 맢에 있는 문을열면 푹신한 의자가있는 선장실에는 큰방항키 엽에는 래이더와 항로조정장치가있고 소화기와 낙시댸들은 보트벽에 있었으면 좋을겄같고 보트의 색을 하양색이였스면 좋을겄같습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 배에 남은 자리에는 작은 배가 있어서 배가 고장나면 그 작은 배를 타고 도망갈 수도 있고 심심할 때 타구나가서 놀 수도 있으면 좋을 것  같습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고 배에 남은자리에는 작은 배가 있어서 배가 고장나면 그 작은배를 타고 도망갈수도있고 심심할때 타구나가서 놀수도 있스면좋을겄 같습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "맥락이 맞지않는 단어 수정필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고 배에 서핑보드가 있어서 내앞에서 서핑도 하수있었어도 좋을겄같습니다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 그리고 배에 서핑 보드가 있어서 내 앞에서 서핑도 할 수 있다면  좋을 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 배엔 텔레비전이 있어서 심심할 때 티비보면 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고 배엔 텔레비전이 있어서 심심할때 티비보면 좋을겄같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33516",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 658,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

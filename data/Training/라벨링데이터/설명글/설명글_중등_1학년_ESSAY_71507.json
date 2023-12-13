@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 평소에 손톱을 물어뜯는 습관이 있어서 부모님한테 혼난적이많다.#@문장구분# 게다가 계속 손톱을 물어뜯으니 손톱이 너무 짧아져서 손톱이 완전 못생겨졌다.#@문장구분# 그래서 난 이 습관을 고치고 싶었는데, 어떻게 해야 가능할까 생각을 해봤는데 손톱을 물어뜯는걸 절대 하지말자고 계속 생각하는 것이다.#@문장구분# 예를들면 오늘은 물어뜯지말아야지! 오늘도 물어뜯으면 엄마한테 죽는다! 이런 생각들을 계속 하다보니 언제부턴가 내가 손톱을 입에 안가져다대고 있었다.#@문장구분# 그래서 나는 친구들이 안좋은 습관을 안하고 싶다면 매일매일 그 안좋은 습관을 안하겠다고 계속 생각하면 그 습관을 조금씩 버리기 시작해서 결국에는 그 습관을 고칠 수 있게 되는거같다.#@문장구분# 나는 친구들이 이 방법을 통해 자신의 안좋은 습관을 많이 고쳤으면 좋겠다.#@문장구분# 그래서 안좋은 습관이 없는 행복한 세상이 되었으면 좋겠다.#@문장구분#",
+      "paragraph_len": 555,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      20.8,
+      16.3
+    ],
+    "essay_scoreT_avg": 20.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 평소에 손톱을 물어뜯는 습관이 있어서 부모님한테 혼난 적이많다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 평소에 손톱을 물어뜯는 습관이 있어서 부모님한테 <문법_맞춤법>혼난적이많다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게다가 계속 손톱을 물어뜯으니 손톱이 너무 짧아져서 손톱이 정말 못생겨졌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게다가 계속 손톱을 물어뜯으니 손톱이 너무 짧아져서 손톱이 <문법_맞춤법>완전 못생겨졌다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 난 이 습관을 고치고 싶었는데, 어떻게 해야 가능할까 생각을 해봤는데 손톱을 물어뜯는 걸 절대 하지 말자고 계속 생각하는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 난 이 습관을 고치고 싶었는데, 어떻게 해야 가능할까 생각을 해봤는데 손톱을 <문법_맞춤법>물어뜯는걸 </문법_맞춤법>절대 하지말자고 계속 생각하는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들면 오늘은 물어뜯지 말아야지! 오늘도 물어뜯으면 엄마한테 죽는다! 이런 생각들을 계속 하다 보니 언제부턴가 내가 손톱을 입에 안 가져다대고 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>예를들면 </문법_맞춤법>오늘은 물어뜯지말아야지! 오늘도 물어뜯으면 엄마한테 죽는다! 이런 생각들을 계속 하다보니 언제부턴가 내가 손톱을 입에 안가져다대고 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 친구들이 안 좋은 습관을 안 하고 싶다면 매일매일 그 안 좋은 습관을 안 하겠다고 계속 생각하면 그 습관을 조금씩 버리기 시작해서 결국에는 그 습관을 고칠 수 있게 되는 거 같다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 친구들이 <문법_맞춤법>안좋은 습관을 안하고 싶다면 매일매일 그 안좋은 습관을 안하겠다고 계속 생각하면 그 습관을 조금씩 버리기 시작해서 결국에는 그 습관을 고칠 수 있게 되는거같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 친구들이 이 방법을 통해 자신의 안 좋은 습관을 많이 고쳤으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 친구들이 이 방법을 통해 자신의 <문법_맞춤법>안좋은 </문법_맞춤법>습관을 많이 고쳤으면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 안 좋은 습관이 없는 행복한 세상이 되었으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>안좋은</문법_맞춤법> 습관이 없는 행복한 세상이 되었으면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71507",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 415,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

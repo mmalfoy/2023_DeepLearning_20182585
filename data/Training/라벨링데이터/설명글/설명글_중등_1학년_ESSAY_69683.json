@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승이란 학생의 말을 경청하는 사람입니다.#@문장구분# 상대방의 말을 경청한다는 것은 상대를 존중한다는 증거이기도 합니다.#@문장구분# 또한 상대의 입장을 헤아려보고자 귀 기울인다는 것입니다. #@문장구분#학생의 의견을 그저 묵살해도 되는 귀찮은 존재로 여기지 않는다는 것입니다.#@문장구분# 그리하여 참된 스승을 위해 필요한 요소 2가지 중 하나는 학생을 동등한 인격체로서 존중하는 자세와 나머지 하나는 그들의 입장을 헤아려보는 경청의 자세가 해당합니다. #@문장구분#이러한 존중과 경청의 경험은 학생에게도 교육적으로 좋습니다.#@문장구분# 자신의 의견을 표출하고 자신의 의견이 반영되는 경험이 하나씩 쌓이면, 그 학생은 자신이 존중받고 있다는 느낌을 받게되고 이 느낌은 학생의 자기 유능감과 자아존중감에 긍정적인 영향을 끼치게 될것입니다.#@문장구분# 이러한 작은 경험들은 나중에 그 학생이 자라 중요한 사안에 대해 다른 이들을 설득할 때에 아주 유용하게 쓰일 것입니다.#@문장구분# 학생을 존중할 수 있고 경청할 수 있는 좋은 스승은 교육적으로 바람직한, 학교에서 추구하는 인재상을 만드는데 더 없이 좋은 스승이지만 실제로 그러한 스승을 만나기 힘들다는 점에서 참 안타깝습니다.#@문장구분#",
+      "paragraph_len": 733,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      23.3,
+      21.3
+    ],
+    "essay_scoreT_avg": 23.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 자신의 의견을 표출하고 자신의 의견이 반영되는 경험이 하나씩 쌓이면, 그 학생은 자신이 존중받고 있다는 느낌을 받게 되고 이 느낌은 학생의 자기 유능감과 자아존중감에 긍정적인 영향을 끼치게 될 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자신의 의견을 표출하고 자신의 의견이 반영되는 경험이 하나씩 쌓이면, 그 학생은 자신이 존중받고 있다는 느낌을 <문법_맞춤법>받게되고 </문법_맞춤법>이 느낌은 학생의 자기 유능감과 자아존중감에 긍정적인 영향을 끼치게 될것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학생을 존중할 수 있고 경청할 수 있는 좋은 스승은 교육적으로 바람직한, 학교에서 추구하는 인재상을 만드는데 더없이 좋은 스승이지만 실제로 그러한 스승을 만나기 힘들다는 점에서 참 안타깝습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학생을 존중할 수 있고 경청할 수 있는 좋은 스승은 교육적으로 바람직한, 학교에서 추구하는 인재상을 만드는데 <문법_맞춤법>더 </문법_맞춤법>없이 좋은 스승이지만 실제로 그러한 스승을 만나기 힘들다는 점에서 참 안타깝습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69683",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 554,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미는 애니매이션 보기와 과자 먹기 게임하기랑 농구, 피구, 줄넘기, 플로워볼, 야구, 탁구, 수영, 양궁, 사격, 배구, 축구, 여행가기, 롤 하기, 산을 등산하기, 하키, 컬링, 연 날리기, 팽이 치기, 팽이 돌리기, 물수제비, 축구 드리블 하기, 농구, 슛, 쏘기, 의자에 않기, 책상에 눞기, 침대에 누으기, 닌텐도 마리오 카트하기, 닌텐도 동물의 숲하기, 닌텐도 젤다하기, 이다.#@문장구분# 애니매션은 재미있어서 재미있고오오오오, 과자를먹기는 맛이 너무우우우 있어서 좋고, 스포츠는 모든은은은은은 게 너무우우우우우 좋아서어 재밋고, 여행가기는 가족들이랑 다같이이이 가서 노니깐안 재미이이 있어서 좋고, 책상에 누우면 딱딱하면서도 침대 같아서 침대처럼 잠이 솔솔 냄새를 풍기며 오는데 그럼면 그냄새에 잠이와서 아주우 책상침대에는은 좋다는은 증거다아.#@문장구분# 침대에 누우면책상침대와 다르게 처음부터 푹신하고 아주우우우우우 좋다아아. #@문장구분#그리고닌텐도는마리오카트는정말차를운전하는느낌이나가지고요너무좋와서요너무닌텐도가좋다.#@문장구분#",
+      "paragraph_len": 586,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.114285,
+      16.35238,
+      20
+    ],
+    "essay_scoreT_avg": 18.822222,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.13",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 취미는 애니매이션  보기와 과자 먹기 게임하기랑 농구, 피구, 줄넘기, 플로워 볼, 야구, 탁구, 수영, 양궁, 사격, 배구, 축구, 여행가기, 롤 하기, 산을 등산하기, 하키, 컬링, 연 날리기, 팽이 치기, 팽이 돌리기, 물수제비, 축구 드리블 하기, 농구, 슛, 쏘기, 의자에 않기, 책상에 눞기, 침대에 누으기, 닌텐도 마리오 카트하기, 닌텐도 동물의 숲하기, 닌텐도 젤다하기 이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>나의 취미는 애니매이션 보기와 과자 먹기 게임하기랑 농구, 피구, 줄넘기, 플로워볼, 야구, 탁구, 수영, 양궁, 사격, 배구, 축구, 여행가기, 롤 하기, 산을 등산하기, 하키, 컬링, 연 날리기, 팽이 치기, 팽이 돌리기, 물수제비, 축구 드리블 하기, 농구, 슛, 쏘기, 의자에 않기, 책상에 눞기, 침대에 누으기, 닌텐도 마리오 카트하기, 닌텐도 동물의 숲하기, 닌텐도 젤다하기, 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 애니매션은 재미 있어서 재미있고, 과자를 먹기는 맛이 너무 있어서 좋고, 스포츠는 모든 게 너무 좋아서 재밌고 여행가기는 가족들이랑 다같이 가서 노니깐 안 재미있어서  좋고, 책상에 누우면 딱딱 하면서도 침대 같아서 침대처럼 잠이 솔솔 냄새를 풍기며 오는데 그럼면 그 냄새에 잠이와서 아주 책상 침대에는 좋다는 증거다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 애<문법_맞춤법>니매션은 재미있어서 재미있고오오오오, 과자를먹기는 맛이 너무우우우 있어서 좋고, 스포츠는 모든은은은은은 게 너무우우우우우 좋아서어 재밋고, 여행가기는 가족들이랑 다같이이이 가서 노니깐안 재미이이 있어서 좋고, 책상에 누우면 딱딱하면서도 침대 같아서 침대처럼 잠이 솔솔 냄새를 풍기며 오는데 그럼면 그냄새에 잠이와서 아주우 책상침대에는은 좋다는은 증거다아.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 침대에 누우면 책상침대와  다르게 처음부터 푹신하고 아주 좋다 ",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>침대에 누우면책상침대와 다르게 처음부터 푹신하고 아주우우우우우 좋다아아.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "맞춤법,띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_맞춤법>그리고닌텐도는마리오카트는정말차를운전하는느낌이나가지고요너무좋와서요너무닌텐도가좋다.</스타일링_맞춤법>",
+      "sentence_corr_txt_styling": "그리고 닌텐도는 마리오 카트는 정말 차를 운전하는 느낌이 나서 너무 좋아서 닌텐도가 좋다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33184",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 506,
+    "essay_main_subject": "나의 취미"
+  }
+}

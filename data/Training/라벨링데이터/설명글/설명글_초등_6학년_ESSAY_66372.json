@@ -1,0 +1,186 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "한국 최초의 여성 의사, 박에스더를 아시나요?#@문장구분# 박에스더는 우리나라 최초의 여성 의사예요. #@문장구분#박에스더는 어릴 적 우리나라 최초의 여성 전문 병원인 '보구여관'에서 일하며 의사가 되려는 소망을 품었어요. #@문장구분#박에스더는 그 꿈을 이루기 위해 미국에서 유학생활을 시작했어요. #@문장구분#아동병원에서 일하며 돈을 버는 틈틈이 꿈을 위해 공부했어요.#@문장구분# 각고의 노력 끝에 박에스더는 의고대학을 졸업했어요. #@문장구분#한국 최초의 여성 의사이자 여성 의학박사가 탄생한 것이었죠. #@문장구분#의사가 되어 한국에 귀국한 박에스더는 전통적인 관념에 따라 남성 의사에게 몸을 보여주지 못했던 수많은 여성 환자들에게는 희망과도 같았어요.#@문장구분# 이러한 상황 때문에 박에스더는 전국을 돌아다니며 활동한 10년동안 매년 무려 5천명이 넘는 환자들을 돌보았어요. #@문장구분#또한 박에스더는 진료 활동 외에도 위생 관념을 널리 알리는 활동도 활발하게 펼쳤어요.#@문장구분# \n 나는 최초의 여성 의사로서의 대단한 사명감을 가지고 현재 하고 있는 일을 포기하지 않고 최선을 다 할 것 이라는 박에스더를 본받고 싶어요.#@문장구분# 만약 진심을 다하여 노력한다면 만약 포기한다하여도 아쉽거나 속상하지 않을 것 같아서예요.",
+      "paragraph_len": 782,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.3,
+      28.15,
+      19.25
+    ],
+    "essay_scoreT_avg": 22.9,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "055",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 각고의 노력 끝에 박에스더는 의과 대학을 졸업했어요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 각고의 노력 끝에 박에스더는 <문법_맞춤법>의고대학</문법_맞춤법>을 졸업했어요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 저는 최초의 여성 의사로서의 대단한 사명감을 가지고 현재 하고 있는 일을 포기하지 않고 최선을 다 할 것이라는 박에스더를 본받고 싶어요.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_높임법>나는</문법_높임법> 최초의 여성 의사로서의 대단한 사명감을 가지고 현재 하고 있는 일을 포기하지 않고 최선을 다 할 <문법_맞춤법>것 이라는</문법_맞춤법> 박에스더를 본받고 싶어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66372",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 562,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미는 그림그리기#@문장구분# \n 나의 취미는 그림그리기 입니다. #@문장구분#왜냐 하면 저는 그림그리는 것을 좋아하기 때문입니다.#@문장구분#그림을 그리다 보면 마음이 편해지고 쌓여있던 화가 순식간에 사라지는 느낌을 받기 때문 입니다. #@문장구분#또한 그림을 다그린 후에는 뿌듯함도 있어 기쁨도 느끼기 때문에 그림을 취미로 해 그리는 것 입니다. #@문장구분#제가 그림을 언제부터 취미로 했었냐면, 제가 어렸을때 처음으로 그림에 재미를 느낀날 매일매일 그림을 그리며 그림에 취미를 느끼게 된것입니다. #@문장구분#옛날에는 취미가 책읽기 였지만 지금의 취미가 훨씬더 좋기에 취미가 바뀐것에 만족합니다 #@문장구분#또한 취미로 그리는 그림은 항상 예쁘고 때론 이상하게 그려도 취미이기 때문에 미련 또한 없이 잘 그려지는것 같습니다.#@문장구분# 때론 그리다가 포기를 한것도 있지만 그포기를 디딤돌 삼아 한번더 도전해 성공해 왔습니다. #@문장구분#다른 사람들도 취미가 그렇다면 취미는 또 나의 꿈을 이룰수 있는 것이라고 생각합니다.",
+      "paragraph_len": 641,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      21.933334,
+      20.333334
+    ],
+    "essay_scoreT_avg": 22.755556,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "나의 취미는 그림그리기",
+      "sentence_corr_txt_styling": "나의 취미는 그림그리기",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 나의 취미는 그림 그리기입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 나의 취미는 <문법_맞춤법>그림그리기 입니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 저는 그림 그리는 것을 좋아하기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>왜냐 하면 저는 그림그리는</문법_맞춤법> 것을 좋아하기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그림을 그리다 보면 마음이 편해지고 쌓여있던 화가 순식간에 사라지는 느낌을 받기 때문입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그림을 그리다 보면 마음이 편해지고 쌓여있던 화가 순식간에 사라지는 느낌을 받기 <문법_맞춤법>때문 입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또한 그림을 다 그린 후에는 뿌듯함도 있어 기쁨도 느끼기 때문에 그림을 취미로 해 그리는 것입니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "또한 그림을 <문법_맞춤법>다그린 후에</문법_맞춤법>는 뿌듯함도 있어 기쁨도 느끼기 때문에 그림을 취미로 해 그리는 것 입니다. ",
+      "sentence_corr_txt_styling": "또한 그림을 다 그린 후에는 뿌듯함도 있어 기쁨도 느끼기 때문에 그림을 취미로 해 그리는 것입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 그림을 언제부터 취미로 했냐면, 제가 어렸을 때 처음으로 그림에 재미를 느낀 날부터 매일매일 그림을 그리며 그림에 취미를 느끼게 된 것입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "제가 그림을 언제부터 취미로 <문법_시제>했었냐면</문법_시제>, 제가 <문법_맞춤법>어렸을때</문법_맞춤법> 처음으로 그림에 재미를 <문법_조사>느낀날</문법_조사> 매일매일 그림을 그리며 그림에 취미를 느끼게 된것입니다. ",
+      "sentence_corr_txt_styling": "제가 그림을 언제부터 취미로 했냐면, 제가 어렸을 때 처음으로 그림에 재미를 느낀 날부터 매일매일 그림을 그리며 그림에 취미를 느끼게 된 것입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "옛날에는 취미가 책 읽기였지만 지금의 취미가 훨씬 좋기에 취미가 바뀐 것에 만족합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "옛날에는 취미가 <문법_맞춤법>책읽기 였지만</문법_맞춤법> 지금의 취미가 훨씬더 좋기에 취미가 바뀐것에 만족합니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또한 취미로 그리는 그림은 항상 예쁘고 때론 이상하게 그려도 취미이기 때문에 미련 또한 없이 잘 그려지는 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또한 취미로 그리는 그림은 항상 예쁘고 때론 이상하게 그려도 취미이기 때문에 미련 또한 없이 잘 <문법_맞춤법>그려지는것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 때론 그리다가 포기를 한 것도 있지만 그 포기를 디딤돌 삼아 한번 더 도전해 성공해왔습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 때론 그리다가 포기를<문법_맞춤법> 한것도</문법_맞춤법> 있지만 그포기를 디딤돌 삼아 한번더 도전해 성공해 왔습니다. ",
+      "sentence_corr_txt_styling": " 때론 그리다가 포기를 한 것도 있지만 그 포기를 디딤돌 삼아 한번 더 도전해 성공해왔습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다른 사람들도 취미가 그렇다면 취미는 또 나의 꿈을 이룰 수 있는 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "다른 사람들도 취미가 그렇다면 취미는 또 나의 꿈을 <문법_맞춤법>이룰수</문법_맞춤법> 있는 것이라고 생각합니다.",
+      "sentence_corr_txt_styling": "다른 사람들도 취미가 그렇다면 취미는 또 나의 꿈을 이룰 수 있는 것이라고 생각합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52879",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 464,
+    "essay_main_subject": "나의 취미"
+  }
+}

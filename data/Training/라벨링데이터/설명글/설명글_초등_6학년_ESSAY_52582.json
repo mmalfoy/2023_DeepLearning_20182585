@@ -1,0 +1,344 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는진정한 친구는 먼저 저의비밀을 잘지켜주고 어떤오해가 생겨도 나를 믿어주는 친구이고 두번째는 믿을수있는 친구라고생각합니다.#@문장구분# 세번째는 내가 좋은길로가기를 원하는 친구입니다.#@문장구분# 다음은 좋을때나 슬플때나언재나 함께 해주는 친구입니다.#@문장구분# 왜냐하면 뭐든지 함께 있어주는 든든한 친구가 저의 옆에 있다면 저는 정말 기쁠거같기때문입니다.#@문장구분# 그리고저는 친구들에게 항상 밝게웃어주고 양보하고 배려하는친구가 되고 싶습니다.#@문장구분# 왜냐하면 저에게는 그런 아주 착하고 좋은친구가 저의 곁에 있기때문입니다.#@문장구분# 그래서 저도 그 친구에게 착하고 좋은 친구가 되어주고 싶기때문입니다#@문장구분#. 그리고 저는 친구에게 순위를 매길수 없다고생각합니다. #@문장구분#그 이유는 나에게는 잘 대해 주지않는 친구라해도 다른사람에게는 정말소중한 친구일수도 있다라는 생각이 들기 때문입니다.#@문장구분# 그리고 다시 저에게 진정한 친구는 바로 #@신원# 이라는 친구입니다. #@문장구분#이 친구는 항상 저를 먼저생각해주고 배려햐 줍니다.#@문장구분# 친구가 만만하게 보이며 그친구가 봐주는 거다. 라는 명언이 있 습니다.#@문장구분# 이말처럼 그친구는 저를 봐주면서 저와함께 친구와 잘 놀아줍니다.",
+      "paragraph_len": 802,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.25,
+      25.15,
+      25.9
+    ],
+    "essay_scoreT_avg": 25.766668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가  생각하는 진정한  친구는 먼저 저의 비밀을 잘 지켜주고 어떤 오해가 생겨도 나를 믿어주는 친구이고 두 번째는 믿을 수 있는 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 <문법_맞춤법>생각하는진정한</문법_맞춤법> 친구는 먼저 저의비밀을 잘지켜주고 어떤오해가 생겨도 나를 믿어주는 친구이고 두번째는 믿을수있는 친구라고생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째는 내가 좋은 길로 가기를  원하는 친구입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째는</문법_맞춤법> 내가 좋은길로가기를 원하는 친구입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음은  좋을 때나 슬플 때나 언제나 함께해 주는  친구입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다음은 <문법_맞춤법>좋을때나 슬플때나언재나 함께 해주는</문법_맞춤법> 친구입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 뭐든지 함께 있어주는 든든한 친구가 저의 옆에 있다면 저는 정말 기쁠 거 같기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 뭐든지 함께 있어주는 든든한 친구가 저의 옆에 있다면 저는 정말 <문법_맞춤법>기쁠거같기때문입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 저는 친구들에게 항상 밝게 웃어주고 양보하고 배려하는 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고저는 </문법_맞춤법>친구들에게 항상 밝게웃어주고 양보하고 배려하는친구가 되고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 저에게는 그런 아주 착하고 좋은 친구가 저의 곁에 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 저에게는 그런 아주 착하고 <문법_맞춤법>좋은친구가</문법_맞춤법> 저의 곁에 있기때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저도 그 친구에게 착하고 좋은 친구가 되어주고 싶기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 저도 그 친구에게 착하고 좋은 친구가 되어주고<문법_맞춤법><문법_기타> 싶기때문입니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ". 그리고 저는 친구에게 순위를  매길 수 없다고 생각합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": ". 그리고 저는 친구에게 순위를 <문법_맞춤법>매길수 없다고생각합니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 이유는 나에게는 잘 대해 주지 않는 친구라 해도 다른 사람에게는 정말 소중한 친구일 수도 있다는 생각이 들기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 이유는 나에게는 잘 대해 <문법_맞춤법>주지않는 친구라해도 다른사람에게는 정말소중한 친구일수도 있다라는</문법_맞춤법> 생각이 들기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 친구는 항상 저를  먼저 생각해 주고 배려해  줍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이 친구는 항상 저를 <문법_맞춤법>먼저생각해주고 배려햐</문법_맞춤법> 줍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 만만하게 보이며 그 친구가 봐주는 거다. 라는 명언이 있 습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구가 만만하게 보이며 <문법_맞춤법>그친구가</문법_맞춤법> 봐주는 거다. 라는 명언이 있 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 말처럼 그 친구는 저를 봐주면서 저와 함께 친구와 잘 놀아줍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이말처럼 그친구는</문법_맞춤법> 저를 봐주면서 저와함께 친구와 잘 놀아줍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52582",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 548,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

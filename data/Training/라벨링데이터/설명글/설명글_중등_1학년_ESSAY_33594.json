@@ -1,0 +1,311 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 평소에 건강에 관심이 많다.#@문장구분# 그래서 식단을 조절할 계획이 있었다.#@문장구분# 나는 식단 계획을 아침, 저녁에는 요거트와 과일을 먹고, 점심에는 집밥을 먹되 반만 먹는 어디서 들어본 다이어트 식단을 먹기로 했다.#@문장구분# 건강에는 다이어트가 최고라고 생각했기 때문이다.#@문장구분# 이 식단을 꾸준히 지켜나가며 아, 그리고 일주일에한번씩 먹고싶은걸 먹는날도 잊지않았다#@문장구분#그렇게 지내던 어느날, 먹고싶은걸 먹는날에 식욕이 폭발을 해버려서 요요가 와버렸다.#@문장구분# 그때 나는 생각했다.#@문장구분# '나는 올라오는 식욕을 참고 꾹꾹 누르고 있었던 거였구나'.#@문장구분# 그래서 그냥 이렇게 두면 큰일이 날것같아서 나는 일주일에 한번 먹는날을 빼고 점심에 집밥말고 먹고 싶은 음식을 0.5인분으로 먹기로 결정했다.#@문장구분# 그 식단으로 한, 두달이 지나니 예전 식단보다는 식욕이 훨씬 줄어든 것 같았다. #@문장구분#그 때, 다시 한번 고비가 찾아왔다.#@문장구분# 무슨일이 있었냐면 어느날 그 식단을 잘 지키고 있는데 갑자기 저기 간식이 눈에 띄였다.#@문장구분# 그래서 나는 식단조정 중이니 먹으면 안돼. 라고 생각하고 꾹 참았다.#@문장구분# 그러고나서 집에 돌아와 생각해보니 그것도 마찬가지고 식욕을 억누르는 것이라는걸 깨달았다.#@문장구분# 그래서 그 다음부터는 간식도 반의 양으로 먹었다.#@문장구분# 지금은 이 식단 잘 지켜서 건강해졌다!#@문장구분#",
+      "paragraph_len": 935,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      20.25,
+      22.1
+    ],
+    "essay_scoreT_avg": 22.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 식단을 조절할 계획을 세웠다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 식단을 조절할 <문법_조사><문법_기타>계획이 있었다</문법_기타></문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "불필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "기타"
+      ],
+      "sentence_txt": " 나는 <스타일링_패러프레이징>식단 계획을 아침,</스타일링_패러프레이징> 저녁에는 요거트와 과일을 먹고, 점심에는 집밥을 먹되 반만 먹는 <스타일링_기타>어디서 들어본 다이어트 식단을 먹기로</스타일링_기타> 했다.",
+      "sentence_corr_txt_styling": " 나는 아침, 저녁에는 요거트와 과일을 먹고, 점심에는 집밥을 먹되 반만 먹는 먹기로 했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 식단을 꾸준히 지켜나갔고 일주일에 한 번씩 먹고싶은 걸 먹는 날도 잊지 않았다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "띄어쓰기, 문장부호"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 이 식단을 꾸준히 <문법_어미>지켜나가며 아, 그리고</문법_어미> <문법_맞춤법>일주일에한번씩</문법_맞춤법> 먹고싶은걸 먹는날도 <문법_기타>잊지않았다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇게 지내던 어느 날, 먹고싶은 걸 먹는 날에 식욕이 폭발을 해버려서 요요가 와버렸다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇게 지내던 <문법_맞춤법>어느날</문법_맞춤법>, 먹고싶은걸 먹는날에 식욕이 폭발을 해버려서 요요가 와버렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 그냥 이렇게 두면 큰일이 날 것 같아서 나는 일주일에 한번 먹는날을 빼고 점심에 집밥 말고 먹고 싶은 음식을 0.5인분으로 먹기로 결정했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 그냥 이렇게 두면 큰일이 <문법_맞춤법>날것같아서</문법_맞춤법> 나는 일주일에 한번 먹는날을 빼고 점심에 집밥말고 먹고 싶은 음식을 0.5인분으로 먹기로 결정했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 식단으로 한두달이 지나니 예전보다는 식욕이 훨씬 줄어든 것 같았다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그 식단으로 <문법_기타>한, 두달이</문법_기타> 지나니 예전 식단보다는 식욕이 훨씬 줄어든 것 같았다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_기타>무슨일이 있었냐면 어느날</스타일링_기타></스타일링_맞춤법> 그 식단을 잘 지키고 있는데 갑자기 저기 간식이 눈에 띄였다.",
+      "sentence_corr_txt_styling": " 어느 날 그 식단을 잘 지키고 있는데 갑자기 간식이 눈에 띄었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 '식단조절 중이니 먹으면 안돼.' 라고 생각하고 꾹 참았다.",
+      "sentence_corr_reason": [
+        "맞춤법, 문장부호",
+        "맞춤법, 문장부호"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 나는 <문법_맞춤법><문법_기타>식단조정 중이니 먹으면 안돼.</문법_기타></문법_맞춤법> 라고 생각하고 꾹 참았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러고나서 집에 돌아와 생각해보니 그것도 마찬가지로 식욕을 억누르는 것이라는걸 깨달았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러고나서 집에 돌아와 생각해보니 그것도 <문법_맞춤법>마찬가지고</문법_맞춤법> 식욕을 억누르는 것이라는걸 깨달았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33594",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 615,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

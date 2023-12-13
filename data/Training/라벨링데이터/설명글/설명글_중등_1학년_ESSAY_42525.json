@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 참된 스승은 항상 나를 위해 무언가를 더 알려주려하고, 너자신을 믿으라는 격려를 해주는 그런 스승이 참된 스승이라고 생각한다.#@문장구분# 최악의 스승은 항상나를 깎아내리고 격려는 커녕 나를 무시하고 나를 신경도않쓰는 스승이 최악의 스승이라고 생각한다.#@문장구분# 마닐 참된 스승이 나의 스승님이라면 더 많은것을 배울려고 더 노력할것같다.#@문장구분# 또한 최악의 스승이라면 나는 더더욱 배우려는 마음이 사라짐과 동시에 \"저딴게 스승이라고 쯔쯧\"거리며 스승을 욕하거나 뒷담화를 깔것 같다.#@문장구분# 그리고 지금의 담임선생님은 최악도 참된 스승도 아니라고 생각하지만, 또어떻게 생각하면 되게 좋은 선생님이라고 생각될때도있다.#@문장구분#",
+      "paragraph_len": 431,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.25,
+      21.6,
+      16
+    ],
+    "essay_scoreT_avg": 19.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 참된 스승은 항상 나를 위해 무언가를 더 알려 주려 하고, 너 자신을 믿으라는 격려를 해주는 그런 스승이 참된 스승이라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 참된 스승은 항상 나를 위해 무언가를 더 <문법_맞춤법>알려주려하고, 너자신을</문법_맞춤법> 믿으라는 격려를 해주는 그런 스승이 참된 스승이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 최악의 스승은 항상 나를 깎아내리고 격려는커녕 나를 무시하고 나를 신경도 안 쓰는 스승이 최악의 스승이라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 최악의 스승은 <문법_맞춤법>항상나를</문법_맞춤법> 깎아내리고 격려는 커녕 나를 무시하고 나를 신경도않쓰는 스승이 최악의 스승이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만일 참된 스승이 나의 스승님이라면 더 많은 것을 배울려고 더 노력할 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>마닐</문법_맞춤법> 참된 스승이 나의 스승님이라면 더 많은것을 배울려고 더 노력할것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 최악의 스승이라면 나는 더더욱 배우려는 마음이 사라짐과 동시에 \"저딴 게 스승이라고 쯔쯧\"거리며 스승을 욕하거나 뒷담화를 깔 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 최악의 스승이라면 나는 더더욱 배우려는 마음이 사라짐과 동시에 <문법_맞춤법>\"저딴게 스승이라고 쯔쯧\"</문법_맞춤법>거리며 스승을 욕하거나 뒷담화를 깔것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 지금의 담임선생님은 최악도 참된 스승도 아니라고 생각하지만, 또 어떻게 생각하면 되게 좋은 선생님이라고 생각될 때도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 지금의 담임선생님은 최악도 참된 스승도 아니라고 생각하지만, <문법_맞춤법>또어떻게</문법_맞춤법> 생각하면 되게 좋은 선생님이라고 생각될때도있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42525",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 332,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사용하지 않는 전기 코드는 반드시 뽑아 놓아야합니다.#@문장구분#저는 휴대폰 배터리 충전기도 사용하지 않을 때는 반드시 플러그를 뽑아 놓는답니다.#@문장구분# 청소기 사용도 최소화하기 위해서 머리카락 같은 것들은 셀로판 테이프를 이용해서 간단하게 제거하구요, 전기밥솥 대신 압력밥솥을 사용하는데요, 전기 절약에도 좋지만 밥맛도 훨씬좋습니다.#@문장구분# 세탁기나 냉장고 같이 덩치가 큰 전자 제품은 반드시 에너지 소비효율 1등급을 선택하는 거 알고 계시죠?#@문장구분# 에너지 소비효율 1등급 제품은 3등급 제품에 비해 무려 40%의 전력 감소 효과가 있다는군요.#@문장구분# 저희집에는 화장실 조명에 전구 덮개가 없답니다.#@문장구분# 보통 화장실에는 30촉 백열 전구를 사용하잖아요?#@문장구분# 그런데 전구덮개를 없애면 30촉으로 60촉 밝기의 효과를 볼 수 있습니다.#@문장구분# 화장실 얘기가 나왔으니 말인데요, 저희 댁에서는 작은 볼 일의 경우 단 한 번에 물을 내리는 경우는 거의 드물답니다.#@문장구분# 어차피 가족끼린데 체면 차릴 일도 없고, 서 너 번 합쳐서 물을 내리면 그만큼 물 절약이 되겠죠.#@문장구분# 저희댁의 경우는 12가구가 함께 사는 다가구 주택인데요,#@문장구분# 나 여사 댁 한 집의 실천만으로도 수도요금이 꽤 많이 줄었다는군요.#@문장구분# 그밖에도 설거지나 양치질 할 때 물 잠그기, 화장품 샘플 사용하기, 치약은 마지막까지 꼭 짜서 쓰기, 이면지 사용하기, 달력 뒷면을 아이들 스케치북으로 활용하기, 젖은 쓰레기와 재활용 쓰레기 분리하기 등..#@문장구분# 세상은 넓고 에너지 절약 방법은 무궁무진하답니다.#@문장구분#",
+      "paragraph_len": 999,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.966667,
+      28.5,
+      26.4
+    ],
+    "essay_scoreT_avg": 26.955557,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "사용하지 않는 전기 코드는 반드시 뽑아 놓아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사용하지 않는 전기 코드는 반드시 뽑아 <문법_맞춤법>놓아야합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 청소기 사용도 최소화하기 위해서 머리카락 같은 것들은 셀로판테이프를 이용해서 간단하게 제거 하구요, 전기밥솥 대신 압력밥솥을 사용하는데요, 전기 절약에도 좋지만 밥맛도 훨씬 좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 청소기 사용도 최소화하기 위해서 머리카락 같은 것들은 <문법_맞춤법>셀로판 테이프를</문법_맞춤법> 이용해서 간단하게 제거하구요, 전기밥솥 대신 압력밥솥을 사용하는데요, 전기 절약에도 좋지만 밥맛도 훨씬좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세탁기나 냉장고같이 덩치가 큰 전자 제품은 반드시 에너지 소비효율 1등급을 선택하는 거 알고 계시죠?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세탁기나 냉장<문법_맞춤법>고 같이</문법_맞춤법> 덩치가 큰 전자 제품은 반드시 에너지 소비효율 1등급을 선택하는 거 알고 계시죠?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저희 집에는 화장실 조명에 전구 덮개가 없답니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저희집에는 </문법_맞춤법>화장실 조명에 전구 덮개가 없답니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 보통 화장실에는 30촉 백열전구를 사용하잖아요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 보통 화장실에는 30촉 <문법_맞춤법>백열 전구</문법_맞춤법>를 사용하잖아요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 전구 덮개를 없애면 30촉으로 60촉 밝기의 효과를 볼 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 <문법_맞춤법>전구덮개를</문법_맞춤법> 없애면 30촉으로 60촉 밝기의 효과를 볼 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어차피 가족 끼린데 체면 차릴 일도 없고, 서 너 번 합쳐서 물을 내리면 그만큼 물 절약이 되겠죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어차피 <문법_맞춤법>가족끼린데 </문법_맞춤법>체면 차릴 일도 없고, 서 너 번 합쳐서 물을 내리면 그만큼 물 절약이 되겠죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저희 집의 경우는 12가구가 함께 사는 다가구 주택인데요,",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저희댁의 </문법_맞춤법>경우는 12가구가 함께 사는 다가구 주택인데요,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 밖에도 설거지나 양치질할 때 물 잠그기, 화장품 샘플 사용하기, 치약은 마지막까지 꼭 짜서 쓰기, 이면지 사용하기, 달력 뒷면을 아이들 스케치북으로 활용하기, 젖은 쓰레기와 재활용 쓰레기 분리하기 등..",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그밖에도 </문법_맞춤법>설거지나 양치질 할 때 물 잠그기, 화장품 샘플 사용하기, 치약은 마지막까지 꼭 짜서 쓰기, 이면지 사용하기, 달력 뒷면을 아이들 스케치북으로 활용하기, 젖은 쓰레기와 재활용 쓰레기 분리하기 등..",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64119",
+    "essay_prompt": " 과학 발전을 통해 다양한 에너지들이 만들어지고 일상생활에 사용되고 있습니다. 대표적인 예가 원자력입니다.\n\n 원자력 발전소에서 생산되는 엄청난 양의 에너지를 통해 여러분이 핸드폰을 하고 TV를 보고 전등을 켤 수 있습니다.\n\n 하지만 원자력 발전소를 통해 에너지를 생산하는 과정에서 폭발위험과 핵폐기물로 인한 심각한 환경문제가 발생하고 있습니다.\n\n 우리가 에너지를 사용하면 사용할수록 원자력 발전소 같은 에너지를 생산할 수 있는 시설이 더욱 많이 필요할 것입니다. 이는 더 많은 환경문제를 일으키겠죠?\n\n 그렇기 때문에 더 에너지 사용을 늘리지 말자는 의견이 많이 나오고 있습니다. 생활의 편리함을 뒤로하고 에너지 절약을 먼저 하자는 의견입니다.\n\n 여러분은 편리한 생활을 줄이고 에너지를 절약하여 환경을 살리는 데 찬성하시나요? 아니면 환경보다는 지금의 편리함이 더 중요하다고 생각하시나요?  본인의 생각을 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 721,
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에는 다양한 취미활동이 있습니다.#@문장구분# 축구, 피구, 농구, 독서, 공부, 그림 그리기, 게임, 음악 듣기, 티볼, 발 야구, 주먹 야구, 족구, 배구, 태권도, 유도, 태니스, 야구, 승마 등등 세계각지 다양한 취미가 있죠#@문장구분# 저는 그중 게임과 피구, 음악 듣기가 좋습니다.#@문장구분# 여러분은 무슨 취미를 좋아하 하십니까? #@문장구분#여러분은 취미가 저처럼 많을수도 있고 적을수도 있음니다.#@문장구분# 여러분이 그취미를 좋아하시면 이유와 까닭도적어 주세요.#@문장구분# 함깨 할수있수 있는 취미도 좋습니다#@문장구분# 대회 역사 나가기 같은 취미 도됨 니다.#@문장구분# 누군가와 함깨 작성 해주셔도 괜찮습니다. #@문장구분#여러분은 어떤 취미가 좋습니까?#@문장구분# 취미는 정말다양해 각양각색 성격도 다른데 자기 취미가 무조건 오를순 없습니다.#@문장구분#",
+      "paragraph_len": 584,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      15.666667,
+      15.666667
+    ],
+    "essay_scoreT_avg": 20.444445,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 축구, 피구, 농구, 독서, 공부, 그림 그리기, 게임, 음악 듣기, 티볼, 발 야구, 주먹 야구, 족구, 배구, 태권도, 유도, 태니스, 야구, 승마 등등 세계 각지 다양한 취미가 있죠.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 축구, 피구, 농구, 독서, 공부, 그림 그리기, 게임, 음악 듣기, 티볼, 발 야구, 주먹 야구, 족구, 배구, 태권도, 유도, 태니스, 야구, 승마 등등 <문법_맞춤법>세계각지 다양한 취미가 있죠</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분은 무슨 취미를 좋아하십니까? ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여러분은 무슨 취미를 <문법_맞춤법>좋아하 하십니까</문법_맞춤법>? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분은 취미가 저처럼 많을 수도 있고 적을 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여러분은 취미가 저처럼 <문법_맞춤법>많을수도 있고 적을수도 있음니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분이 그 취미를 좋아하시면 이유와 까닭도 적어 주세요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여러분이 <문법_맞춤법>그취미를 좋아하시면 이유와 까닭도적어</문법_맞춤법> 주세요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 함께 할 수 있는 취미도 좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>함깨 할수있수 있는</문법_맞춤법> 취미도 좋습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 대회 역사 나가기 같은 취미 도됨 니다.",
+      "sentence_corr_txt_styling": " 대회 역사 나가기 같은 취미 도됨 니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 누군가와 함께 작성해 주셔도 괜찮습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 누군가와 <문법_맞춤법>함깨 작성 해주셔도</문법_맞춤법> 괜찮습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 취미는 정말다양해 각양각색 성격도 다른데 자기 취미가 무조건 오를순 없습니다.",
+      "sentence_corr_txt_styling": " 취미는 정말다양해 각양각색 성격도 다른데 자기 취미가 무조건 오를순 없습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48352",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 365,
+    "essay_main_subject": "나의 취미"
+  }
+}

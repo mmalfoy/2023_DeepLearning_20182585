@@ -1,0 +1,302 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "체육은 힘들지만 체육이 가장 좋아.#@문장구분# \n 저번에 우리반에서 좋아하는 과목을 투표했다. #@문장구분#예상했던 것처럼 체육이 제일 인기였다.#@문장구분# 그다음은 미술이였다. #@문장구분#나는 미술을 딱히 좋아하진 않지만 그렇기에 각자 좋아하는게 있고, 나도 체육을 좋아하는것 같다.#@문장구분# \n 내가 체육을 좋아하는 이유는 맨날 게임을 해서 체육에 있는 활동적인 활동을 재밌어 하는 것 같다.#@문장구분# 그리고 단체로 하는것을 좋아한다.#@문장구분# 아무리 재밌는 활동이여도 여럿이서 함께 하지않으면 재미가 없다.#@문장구분# \n 그리고 내가 체육을 좋아하는 가장 큰 이유는 옛날에 내가 배웠던 태권도가 있는데 태권도를 배우며 제대로 운동을 좋아하게 된것 같다. #@문장구분#태권도를 약 4년 동안 해서 운동을 재밌어 하고 좋아하고 즐거워 했던것 같다.",
+      "paragraph_len": 546,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      23.266666,
+      26
+    ],
+    "essay_scoreT_avg": 24.555555,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "체육은 힘들지만 체육이 가장 좋다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "체육은 힘들지만 체육이 가장<문법_높임법> 좋아.</문법_높임법>",
+      "sentence_corr_txt_styling": "체육은 힘들지만 체육이 가장 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 저번에 우리 반에서 좋아하는 과목을 투표했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 저번에 <문법_맞춤법>우리반에</문법_맞춤법>서 좋아하는 과목을 투표했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 다음은 미술이었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그다음은</문법_맞춤법> 미술이였다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 미술을 딱히 좋아하진 않지만 그렇기에 각자 좋아하는 게 있고, 나도 체육을 좋아하는 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "나는 미술을 딱히 좋아하진 않지만 그렇기에 각자 <문법_맞춤법>좋아하는게</문법_맞춤법> 있고, 나도 체육을 좋아하는것 같다.",
+      "sentence_corr_txt_styling": "나는 미술을 딱히 좋아하진 않지만 그렇기에 각자 좋아하는 게 있고, 나도 체육을 좋아하는 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " \n 내가 체육을 좋아하는 이유는 맨날 게임을 해서 체육에 있는 활동적인 활동을 재밌어 하는 것 같다.",
+      "sentence_corr_txt_styling": " \n 내가 체육을 좋아하는 이유는 맨날 게임을 해서 체육에 있는 활동적인 활동을 재밌어 하는 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 단체로 하는 것을 좋아한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 단체로<문법_맞춤법> 하는것을 좋</문법_맞춤법>아한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무리 재밌는 활동이어도 여럿이서 함께 하지 않으면 재미가 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무리 재밌는<문법_맞춤법> 활동이여도 </문법_맞춤법>여럿이서 함께 하지않으면 재미가 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " \n 그리고 내가 체육을 좋아하는 가장 큰 이유는 옛날에 내가 배웠던 태권도가 있는데 태권도를 배우며 제대로 운동을 좋아하게 된것 같다. ",
+      "sentence_corr_txt_styling": " \n 그리고 내가 체육을 좋아하는 가장 큰 이유는 옛날에 내가 배웠던 태권도가 있는데 태권도를 배우며 제대로 운동을 좋아하게 된것 같다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "태권도를 약 4년 동안 해서 운동을 재밌어 하고 좋아하고 즐거워했던 것  같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "태권도를 약 4년 동안 해서 운동을 재밌어 하고 좋아하고<문법_맞춤법> 즐거워 했던것</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52852",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 369,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

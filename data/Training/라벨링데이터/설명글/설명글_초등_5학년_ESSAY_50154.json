@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 수학을 제일 좋아한다.#@문장구분# 왜냐하면 새로운 문제를 많이 풀 수있고, 여러가지 복잡하게 외우지 않아도 되기 때문에 좋아하고 항상 제일 좋았 던 점은 심플하게 공식만 쓰면되서 정말 좋았다.#@문장구분# 수학은 같은 공식으로 풀지만 항상 새롭게 되어있어서 내가 직접 생각해서 답을 쓸 수있다는게 내가 좋아하는 이유 중 하나이다.#@문장구분# 그리고 수학을 좋아하는 친구가 많아서 같이 공부 할 수있어서도 좋다.#@문장구분# 수학은 내 머리가 책 말고도 돌아가는 시간이고, 새로운 방식으로 접근 할 수 있어서 좋아한다.",
+      "paragraph_len": 346,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.733334,
+      16.733334,
+      17.152382
+    ],
+    "essay_scoreT_avg": 16.873016,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 새로운 문제를 많이 풀 수 있고, 여러 가지 복잡하게 외우지 않아도 되기 때문에 좋아하고 항상 제일 좋았던 점은 심플하게 공식만 쓰면 돼서 정말 좋았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 새로운 문제를 많이 풀 <문법_맞춤법>수있고, 여러가지</문법_맞춤법> 복잡하게 외우지 않아도 되기 때문에 좋아하고 항상 제일 좋았 던 점은 심플하게 공식만 쓰면되서 정말 좋았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수학은 같은 공식으로 풀지만 항상 새롭게 되어있어서 내가 직접 생각해서 답을 쓸 수 있다는 게 내가 좋아하는 이유 중 하나이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 수학은 같은 공식으로 풀지만 항상 새롭게 되어있어서 내가 직접 생각해서 답을 쓸 <문법_맞춤법>수있다는게</문법_맞춤법> 내가 좋아하는 이유 중 하나이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 수학을 좋아하는 친구가 많아서 같이 공부할 수 있어서도 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 수학을 좋아하는 친구가 많아서 같이 공부 할 <문법_맞춤법>수있어서도</문법_맞춤법> 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수학은 내 머리가 책 말고도 돌아가는 시간이고, 새로운 방식으로 접근할 수 있어서 좋아한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 수학은 내 머리가 책 말고도 돌아가는 시간이고, 새로운 방식으로 <문법_맞춤법>접근 할 </문법_맞춤법>수 있어서 좋아한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50154",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 266,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

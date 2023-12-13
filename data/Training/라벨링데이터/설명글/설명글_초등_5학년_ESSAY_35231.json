@@ -1,0 +1,296 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 가끔 심심하거나 일상생활을 좀 더 활기차고 알차게 보내고 싶어질때 취미활동을 하고싶다고 생각한다.#@문장구분#하지만 나는 취미활동이 없어 내가 하고싶은 취미를 설명할 것이다.#@문장구분# 우선 첫번째로는 오일파스텔로 풍경화를 그리는 것이다.#@문장구분# 오일파스텔은 크레파스와 파스텔의 중간 정도 질감을 가진 미술 도구이다#@문장구분# 오일파스텔로 그림을 그리면 크레파스처럼 부드럽고 색깔이 예쁘며 파스텔과도 비슷한 번짐의 정도가 있기 때문 풍경화로 그리기 좋은 도구이다.#@문장구분# 그리고 두번째는 보석십자수이다. #@문장구분#보석십자수는 색깔이 다양한 보석들을 기호나 번호에 맞춰서 붙이면 되는 것이다.#@문장구분#보석십자수의 크기는 큰 것도 있고 작은것도 있다.#@문장구분# 보석십자수에 있는 보석들의 모양도 원 모양과 사각형의 모양이있다.#@문장구분# 보석십자수를 하다보면 시간도 금방가지만 목이 아프다는게 단점이다.#@문장구분# 하지만 완성하고 나면 뿌듯해져서 기분이 좋아진다.#@문장구분#",
+      "paragraph_len": 650,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      26.285713,
+      18.333332
+    ],
+    "essay_scoreT_avg": 21.539682,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 가끔 심심하거나 일상생활을 좀 더 활기차고 알차게 보내고 싶어질 때 취미활동을 하고 싶다고 생각한다.",
+      "sentence_corr_reason": [
+        " 띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 가끔 심심하거나 일상생활을 좀 더 활기차고 알차게 보내고 <문법_맞춤법>싶어질때</문법_맞춤법> 취미활동을 하고싶다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 나는 취미 활동이 없어 내가 하고 싶은 취미를 설명할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 나는 <문법_맞춤법>취미활동이</문법_맞춤법> 없어 내가 하고싶은 취미를 설명할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우선 첫 번째는 오일파스텔로 풍경화를 그리는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우선 <문법_맞춤법>첫번째로는</문법_맞춤법> 오일파스텔로 풍경화를 그리는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오일파스텔은 크레파스와 파스텔의 중간 정도 질감을 가진 미술 도구이다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 오일파스텔은 크레파스와 파스텔의 중간 정도 질감을 가진 미술 <문법_기타>도구이다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오일파스텔로 그림을 그리면 크레파스처럼 부드럽고 색깔이 예쁘며 파스텔과도 비슷한 번짐의 정도가 있기 때문에 풍경화를 그리기 좋은 도구이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 오일파스텔로 그림을 그리면 크레파스처럼 부드럽고 색깔이 예쁘며 파스텔과도 비슷한 번짐의 정도가 있기 <문법_조사>때문</문법_조사> 풍경화로 그리기 좋은 도구이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 두 번째는 보석십자수이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>두번째는</문법_맞춤법> 보석십자수이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "보석십자수의 크기는 큰 것도 있고 작은 것도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "보석십자수의 크기는 큰 것도 있고 <문법_맞춤법>작은것도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 보석십자수에 있는 보석들의 모양도 원 모양과 사각형의 모양이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 보석십자수에 있는 보석들의 모양도 원 모양과 사각형의 <문법_맞춤법>모양이있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 보석십자수를 하다보면 시간도 금방 가서 좋지만 목이 아프다는 게 단점이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 보석십자수를 하다보면 시간도 <스타일링_담화 맥락 오류>금방가지만</스타일링_담화 맥락 오류> 목이 <문법_맞춤법>아프다는게</문법_맞춤법> 단점이다.",
+      "sentence_corr_txt_styling": " 보석십자수를 하다보면 시간도 금방 가서 좋지만 목이 아프다는 게 단점이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35231",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 432,
+    "essay_main_subject": "나의 취미"
+  }
+}

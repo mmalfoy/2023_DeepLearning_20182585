@@ -1,0 +1,285 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가하는 여가활동은 TV보기 그리고 게임하기 그리고 유튜브보기 그리고 영화보기 그리고 음식먹기 그리고 배드민턴하기 그리고 농구하기 그리고 축구하기 그리고 야구하기 그리고 책보기 그리고 보드게임하기그리고 걷기 구리고 달리기 그리고 크라이밍 그리고 번지점프 그리고 권투하기 그리고 복싱 그리고 태권도하기 그리고 유도하기 그리고 검도 그리고 양궁하기 그리고 볼링하기 그리고 배구하기 그리고 배드민턴 그리고 테니스 그리고 탁구하기 그리고 멀리뛰기하기 그리고 씨름하기 그리고 당구하기 그리고 컬링하기 그리고 스키타기 그리고 펜싱하기 그리고 등산하기 그리고 친구와술레잡기 했는데 규원이가날잡았다.#@문장구분# 나도규원이를 잡았다.#@문장구분# 그리고 규원이가 도현이가 서진이를 잡았다.#@문장구분# 그리고 서진이가 현진이가 잡혔다.#@문장구분# 그리고 내가잡혔다.#@문장구분# 그리고종울렸다.#@문장구분# 컴퓨터 로블록스 컴피스했다.#@문장구분# 그리고 SCP를했다.#@문장구분# 그리고 닌텐도로 슈퍼 얼티이 브라더스 게임했다.#@문장구분# 그리고 땐드림 레님 으로 로블록스 를 했다.#@문장구분# 거기서 올스타를했다.#@문장구분#",
+      "paragraph_len": 714,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1.5714285,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.4,
+      15.485714,
+      13.714286
+    ],
+    "essay_scoreT_avg": 14.533333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.19",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "접두사 그리고 반복 사용으로 글의 흐름이 자연스럽지 않아 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>제가하는 여가활동은 TV보기 그리고 게임하기 그리고 유튜브보기 그리고 영화보기 그리고 음식먹기 그리고 배드민턴하기 그리고 농구하기 그리고 축구하기 그리고 야구하기 그리고 책보기 그리고 보드게임하기그리고 걷기 구리고 달리기 그리고 크라이밍 그리고 번지점프 그리고 권투하기 그리고 복싱 그리고 태권도하기 그리고 유도하기 그리고 검도 그리고 양궁하기 그리고 볼링하기 그리고 배구하기 그리고 배드민턴 그리고 테니스 그리고 탁구하기 그리고 멀리뛰기하기 그리고 씨름하기 그리고 당구하기 그리고 컬링하기 그리고 스키타기 그리고 펜싱하기 그리고 등산하기 그리고 친구와술레잡기 했는데 규원이가날잡았다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "제가 하는 여가활동은 TV 보기, 그리고 게임하기, 유튜브 보기,영화 보기,음식 먹기,  배드민턴 하기, 농구 하기,축구 하기,야구 하기,책 보기,보드게임 하기, 걷기 달리기,클라이밍,번지점프,권투 하기,복싱,태권도 하기, 유도 하기,검도,양궁 하기,볼링 하기,배구 하기,배드민턴,테니스,탁구 하기,멀리뛰기 하기,씨름 하기,당구 하기,컬링 하기,스키 타기, 펜싱 하기, 등산 하기,친구와  술래잡기 했는데 규원이가 날 잡았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 규원이를 잡았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>나도규원이를</문법_맞춤법> 잡았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 규원이가 도현이와 서진이를 잡았다.",
+      "sentence_corr_reason": [
+        "문맥상 자연스럽지 않음"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 규원이가 <문법_맞춤법>도현이가</문법_맞춤법> 서진이를 잡았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 서진이가 현진이에게 잡혔다.",
+      "sentence_corr_reason": [
+        "문맥상 자연스럽지 않음"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 서진이가 <문법_맞춤법>현진이가</문법_맞춤법> 잡혔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 내가 잡혔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>내가잡혔다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 종이 울렸다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고종울렸다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 SCP를 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>SCP를했다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거기서 올스타를 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 거기서 <문법_맞춤법>올스타를했다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33528",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 495,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

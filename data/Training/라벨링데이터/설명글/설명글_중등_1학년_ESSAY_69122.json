@@ -1,0 +1,222 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 습관을 기르기 위해 노력한 경험이 있습니다.#@문장구분# 저는 잠이 많아서 거의 항상 아침에 지각을 하고 수업시간에도 종종 졸거나 잠에 듭니다.#@문장구분# 생활패턴이 이상해져서 그런 거 같다고 생각했습니다.#@문장구분# 아침에 거의 매일 지각을 해서 부모님이나 선생님에게 혼이 나고 수업시간에 잠에 들어서 수업내용을 몰라서 공부를 못하고 그런 상황이 일어났습니다.#@문장구분# 이러한 것을 해결해야겠다고 다짐했습니다.#@문장구분# 일단 밤에 일찍 자는 습관을 만들었습니다.#@문장구분# 밤에 일찍 자면 일찍 잔만큼 아침에 일찍 일어날 수 있기 때문이었습니다.#@문장구분# 그렇게 일찍 자니까는 아침에 지각하는 것을 조금은 줄일 수 있었습니다.#@문장구분# 또한 수업시간에 자는 것은 졸린 것도 있지만 졸리지 않아도 눈을 감는 버릇이 있다는 것을 알게 되고 최대한 졸리지 않을 때는 눈을 크게 뜨고 졸리면 일어나서 수업을 듣는 습관을 만들었습니다.#@문장구분#",
+      "paragraph_len": 601,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      20.5,
+      13.75
+    ],
+    "essay_scoreT_avg": 18.433332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 생활 패턴이 이상해져서 그런 것 같다고 생각했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>생활패턴이</문법_맞춤법> 이상해져서 그런 거 같다고 생각했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침에 거의 매일 지각해서 부모님이나 선생님에게 혼이 나고 수업 시간에 잠에 들어서 수업 내용을 몰라서 공부를 못 하는 상황이 일어났습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 아침에 거의 매일 <문법_조사>지각을 해서</문법_조사> 부모님이나 선생님에게 혼이 나고 <문법_맞춤법>수업시간에</문법_맞춤법> 잠에 들어서 수업내용을 몰라서 공부를 <문법_어미><문법_기타>못하고 그런</문법_기타></문법_어미> 상황이 일어났습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 것을 해결해야 겠다고 다짐했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러한 것을 <문법_맞춤법>해결해야겠다고</문법_맞춤법> 다짐했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 일찍 자니까 아침에 지각하는 것을 조금은 줄일 수 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 일찍 <문법_맞춤법>자니까는</문법_맞춤법> 아침에 지각하는 것을 조금은 줄일 수 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69122",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 421,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

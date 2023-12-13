@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 좀 넓은 집이 좋다.#@문장구분# 그래서 프로게이머가 되어 때돈을 번다면,내 별장으 하나 구입할 것이다.#@문장구분# 방 5개에 이층도 있는,일단 거실은 넓게 만들고 그쪽에 테라스도 달 작정이다.#@문장구분# 그리고 거실엔 소파와 티비를 놓고,카펫도 주구장창 깔아 놓겠다.#@문장구분# 그리고 거실 왼쪽엔 넓은 부엌을 둘 생각이다.#@문장구분# ㄷ자 부엌에 탁자도 큰걸 놓고 즐길 생각이다.#@문장구분# 거실 뒤엔 안방을 놓을 거다.#@문장구분# 아까 말했듯,나는 프로게이머가 될 것이기 때문에 PC방 의자와 50인치 컴퓨터를 들 작정이다.#@문장구분# 그리고 부엌 앞엔 나의 방으로 쓸 것이다.#@문장구분# 거기엔 뭐 이것저것을 놓을 것이다.#@문장구분# 내 방 맞은편은 그냥 방으로 쓸 생각이고 2층엔 서재를 놓겠다.#@문장구분#",
+      "paragraph_len": 556,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.733334,
+      21.6,
+      12.266666
+    ],
+    "essay_scoreT_avg": 16.2,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.02",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 프로게이머가 되어 떼돈을 번다면, 내 별장을 하나 구입할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 프로게이머가 되어 <문법_맞춤법>때돈</문법_맞춤법>을 번다면,내 별장으 하나 구입할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 방 5개에 이층도 있는,일단 거실은 넓게 만들고 그쪽에 테라스도 달 작정이다.",
+      "sentence_corr_txt_styling": " 방 5개에 이층도 있는,일단 거실은 넓게 만들고 그쪽에 테라스도 달 작정이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 거실엔 소파와 티비를 놓고, 카펫도 주야장천 깔아 놓겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 거실엔 소파와 티비를 <문법_맞춤법>놓고,</문법_맞춤법>카펫도 주구장창 깔아 놓겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " ㄷ자 부엌에 탁자도 큰 걸 놓고 즐길 생각이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " ㄷ자 부엌에 탁자도 <문법_맞춤법>큰걸</문법_맞춤법> 놓고 즐길 생각이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아까 말했듯, 나는 프로게이머가 될 것이기 때문에 PC방 의자와 50인치 컴퓨터를 둘 작정이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아까 <문법_맞춤법>말했듯,</문법_맞춤법>나는 프로게이머가 될 것이기 때문에 PC방 의자와 50인치 컴퓨터를 들 작정이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48484",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 336,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

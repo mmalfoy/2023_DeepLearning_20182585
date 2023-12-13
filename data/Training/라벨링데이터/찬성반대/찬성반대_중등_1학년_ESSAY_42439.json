@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 생각은 반대입니다.#@문장구분# 첫 번째 이유는 흙수저와 금수저는 부모의 능력, 즉, 부모가 얼마나 공부를 열심히 해서 성공을 하면 공교육, 사교육은 문제가 없을 것입니다.#@문장구분#하지만 반대로 실패를 하면 그것은 어쩔 수 없는 사회의 하나의 단점이기 때문에 어쩔 수 없습니다.#@문장구분#\n 두 번째 이유는 모든 학생들에게 모든 교육을 제공해주다보면, 돈이 모자랄수도 있습니다.#@문장구분# 돈이 부족하다보면 국민이 내는 세금이 증가하고, 경제에 위험이 닥칠 수도 있기 때문입니다.#@문장구분# 그러면 국민들의 반발이 거세질 것이고 반대운동이 일어날 수도 있어 국가적 위험이 큽니다.#@문장구분#\n 세 번째 이유는 학생들이 사교육을 받기 싫어할 수도 있는 것입니다.#@문장구분# 만약 학생이 학원이나 과외와 같은 사교육을 안 받고싶은데 이 제도로 인해 억지로 사교육을 받으면 스트레스를 받을 수 있고, 삶이 힘들어질 수 있기 때문입니다.#@문장구분#",
+      "paragraph_len": 585,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.9,
+      28.5,
+      27.01111
+    ],
+    "essay_scoreT_avg": 25.47037,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 첫 번째 이유는 흙수저와 금수저는 부모의 능력, 즉, 부모가 얼마나 공부를 열심히 해서 성공을 하면 공교육, 사교육은 문제가 없을 것입니다.",
+      "sentence_corr_txt_styling": " 첫 번째 이유는 흙수저와 금수저는 부모의 능력, 즉, 부모가 얼마나 공부를 열심히 해서 성공을 하면 공교육, 사교육은 문제가 없을 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 두 번째 이유는 모든 학생들에게 모든 교육을 제공해 주다 보면, 돈이 모자랄 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 두 번째 이유는 모든 학생들에게 모든 교육을 <문법_맞춤법>제공해주다보면, 돈이 모자랄수도</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 돈이 부족하다 보면 국민이 내는 세금이 증가하고, 경제에 위험이 닥칠 수도 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 돈이 <문법_맞춤법>부족하다보면</문법_맞춤법> 국민이 내는 세금이 증가하고, 경제에 위험이 닥칠 수도 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 학생이 학원이나 과외와 같은 사교육을 안 받고 싶은데 이 제도로 인해 억지로 사교육을 받으면 스트레스를 받을 수 있고, 삶이 힘들어질 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 학생이 학원이나 과외와 같은 사교육을 안 <문법_맞춤법>받고싶은데</문법_맞춤법> 이 제도로 인해 억지로 사교육을 받으면 스트레스를 받을 수 있고, 삶이 힘들어질 수 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42439",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 427,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

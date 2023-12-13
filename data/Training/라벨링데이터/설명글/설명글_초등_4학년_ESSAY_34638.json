@@ -1,0 +1,322 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 살고싶은 집은 100000평인 집에 말티즈강아지는 10마리 키우고#@문장구분# 아빠 꽃가루 알러지와 강아지털 알러지가 없고 비염도 없고#@문장구분# 할머니 할아버지와같이 살고#@문장구분# 엄마가 회사에 안가고 아빠가 매일매일 회사에가고 밤에 안들어오고#@문장구분# 할머니가 해주시는 맛있는 밥을 먹고 매일 용돈도 받고#@문장구분# 친구들 과 함께 주택에 살고 방도 널고 영어학원도 없고 언니말고 동생이 있고#@문장구분# 동생도 나와 재미있게 놀고나서 그리고 집에 수영장도 있고 캠핑장도 있고 극장도 있고 학교도 없고 분수대 골프장 캠핑카 애완 사자가 있고#@문장구분# 책상도 널고 책장도 크고 책장을 만화책으로 다 채우고 불독 3마리를 마당에서 키우고 #@이름#이와 매일매일 놀고#@문장구분# 아!#@문장구분# 맞다.#@문장구분# 동생 여자로 내전용 화장실 내 전용 칠판#@문장구분# 내폰은 아이폰으로 10개 이고 머리 삔은 200개 머리띠 200개 예쁜옷 100개#@문장구분# 옷장도 엄청크고 문은 자동문#@문장구분# 매일 보를달이 보이고 뷰엄청 좋고 애어컨이 없어도 창문만 열어도 춥고 스키장도 있고#@문장구분# 햄스터 2마리 말 1마리#@문장구분# 티비는 200인치#@문장구분# 그리고 동생이 말썽부리지 안고 집에 놀이터도 만고 나만의 개인 요리실도 있고 낚시터도 있고#@문장구분# 아침에 일어나면 미끄럼틀을 타고 수영장에 빠져서 목욕과 양치를 하고 워터파크에 가서 놀다가 놀이공원에가서 놀고#@문장구분# 그리고 100000평식 5층 이있고 집에 편이점이 5개 있고 매일 용돈 10만원씩 받고 만이먹고 운동장도 있고#@문장구분# 모자는 30개 치마도 아주 만고 총 연습장도 있고 귀신의 집도 있고 카매라도 있고 유트브 찍는 세팅장 도 있고#@문장구분# 백원만 넣으면 게속 돈이 나오는 기가있었으면 정말 좋겠다#@문장구분# 그집에서 평생을 살고 십다.#@문장구분#",
+      "paragraph_len": 1235,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      28.333334,
+      12.733334
+    ],
+    "essay_scoreT_avg": 21.266666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.23",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 살고 싶은 집은 100000평인 집에 말티즈 강아지는 10마리 키우고",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 <문법_맞춤법>살고싶은 </문법_맞춤법>집은 100000평인 집에 말티즈강아지는 10마리 키우고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아빠 꽃가루 알러지와 강아지 털 알러지가 없고 비염도 없고",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아빠 꽃가루 알러지와 <문법_맞춤법>강아지털 </문법_맞춤법>알러지가 없고 비염도 없고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 할머니 할아버지와 같이 살고",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 할머니 <문법_맞춤법>할아버지와같이 </문법_맞춤법>살고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마가 회사에 안 가고 아빠가 매일매일 회사에 가고 밤에 안 들어오고",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마가 회사에 <문법_맞춤법>안가고 </문법_맞춤법>아빠가 매일매일 회사에가고 밤에 안들어오고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들 과 함께 주택에 살고 방도 넓고 영어학원도 없고 언니 말고 동생이 있고",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구들 과 함께 주택에 살고 방도 널고 영어학원도 없고 <문법_맞춤법>언니말고 </문법_맞춤법>동생이 있고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 동생도 나와 재미있게 놀고 나서 그리고 집에 수영장도 있고 캠핑장도 있고 극장도 있고 학교는 없고 분수대 골프장 캠핑카 애완 사자가 있고",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 동생도 나와 재미있게 <문법_맞춤법>놀고나서 </문법_맞춤법>그리고 집에 수영장도 있고 캠핑장도 있고 극장도 있고 <문법_어미>학교도 </문법_어미>없고 분수대 골프장 캠핑카 애완 사자가 있고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 옷장도 엄청 크고 문은 자동문",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 옷장도 <문법_맞춤법>엄청크고 </문법_맞춤법>문은 자동문",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 매일 보름달이 보이고 뷰엄청 좋고 애어컨이 없어도 창문만 열어도 춥고 스키장도 있고",
+      "sentence_corr_reason": [
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 매일 <문법_맞춤법>보를달이 </문법_맞춤법>보이고 뷰엄청 좋고 애어컨이 없어도 창문만 열어도 춥고 스키장도 있고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 동생이 말썽 부리지 않고 집에 놀이터도 만고 나만의 개인 요리실도 있고 낚시터도 있고",
+      "sentence_corr_reason": [
+        "맞춤법 정정, 띄어쓰기 필요"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 동생이 <문법_맞춤법>말썽부리지 안고</문법_맞춤법> 집에 놀이터도 만고 나만의 개인 요리실도 있고 낚시터도 있고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 100000평식 5층 이있고 집에 편의점이 5개 있고 매일 용돈 10만원씩 받고 많이 먹고 운동장도 있고",
+      "sentence_corr_reason": [
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0019",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 100000평식 5층 이있고 집에 <문법_맞춤법>편이점이 </문법_맞춤법>5개 있고 매일 용돈 10만원씩 받고 만이먹고 운동장도 있고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_34638",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 780,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

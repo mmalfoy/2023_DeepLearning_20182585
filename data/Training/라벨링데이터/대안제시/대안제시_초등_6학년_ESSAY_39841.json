@@ -1,0 +1,295 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 강아지를 정말 좋아한다.#@문장구분# 그래서 예전부터 엄마께 강아지를 키우자고 한 적이 있다.#@문장구분# 나는 내 스스로 왜 강아지를 키우고고 싶어? 라는 질문을 했다.#@문장구분# 잘 생각을 해보니 지금까지 나는 강아지가 너무 귀엽고 너무 예뻐서 키우고 싶어 한 것 같다.#@문장구분# 그리고 모든 생물들을 잘 키우겠다고 마음먹고 망상 키우고 매일 후회를 했었다  .#@문장구분# 그리고 나는 왜 반려동물을 유기 하는 사람들이 있을까? 라는 생각도 해 보았다.#@문장구분#내 생각으로는 처음엔 잘 키울 것 같았는데 점점 자신이 없어져서 유기를 하거나 갑작이 보호자가 형편이 어렵고, 아파서 라고 생각을 했다.#@문장구분# 나는 사람들이 정말 신중하게 고민을 하고 반려동물을 키웠으면 좋겠다.#@문장구분# 그리고 나는 버려지거나, 사랑을 받지 못하는 반려견들의 마음도 생각을 해 보았다.#@문장구분# 내가 그 반려동물 이라면 정말 속상하고, 괴롭고, 내가 잘 못해서? 라는 생각을 하게되고, 많은 감정이 들것 같다.#@문장구분# 내가 생각한 유기를 대처 할 수 있는 방법은 먼저 신중하고, 오랫동안 잘 생각해 보기 이다.#@문장구분# 반려동물을 키울 사람들이 잘 생각해 보면 정말 잘 할 수 있는 방법을 찾을 수 있기 때문이다.#@문장구분# 그다음으로 반려동물에 대한 공부를 하기 이다.#@문장구분# 무조건 키우다 보면 그 반려동물에 대해 잘 몰라서 포기하는 사람들이 많기 때문이다.#@문장구분# 이 방법들을 잘 생까하고, 행동하면 유기되는 반려동물들이 줄 것  같다.#@문장구분#",
+      "paragraph_len": 972,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.61111,
+      22.666668,
+      22.666668
+    ],
+    "essay_scoreT_avg": 24.314814,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그리고 모든 생물들을 잘 키우겠다고 마음 먹고도, 막상 키우면 매번 후회를 했었다  .",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 모든 생물들을 잘 키우겠다고 <문법_맞춤법><문법_기타>마음먹고 망상 키우고 매일 </문법_기타></문법_맞춤법>후회를 했었다  .",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내 생각으로는 처음엔 잘 키울 것 같았는데 점점 자신이 없어져서 유기를 하거나 갑작이 보호자가 형편이 어렵거나 아파서일 거라고 생각을 했다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": "내 생각으로는 처음엔 잘 키울 것 같았는데 점점 자신이 없어져서 유기를 하거나 갑작이 보호자가 형편이 어렵<문법_맞춤법><문법_어순>고, 아파서 라고 생</문법_어순></문법_맞춤법>각을 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 그 반려동물이라면 정말 속상하고, 괴롭고, 자책과 같은 많은 감정이 들 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 내가 그 <문법_맞춤법>반려동물 이라면</문법_맞춤법> 정말 속상하고, 괴롭고, <문법_기타>내가 잘 못해서? 라는 생각을 하게되고, 많은 감정이 들</문법_기타>것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 생각한 유기를 대처할 수 있는 방법은 먼저 신중하게 오랫동안 잘 생각해 보기이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 생각한 유기를 <문법_맞춤법>대처 할</문법_맞춤법> 수 있는 방법은 먼저 신중하고, 오랫동안 잘 생각해 보기 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 잘 생각해 보면 정말 현명한 방법을 찾을 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " <문법_어순><문법_기타>반려동물을 키울 사람들이 잘 생각해 보면 정말 잘 할 수 있는 방법</문법_기타></문법_어순>을 찾을 수 있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 다음은 반려동물에 대한 공부를 하기이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사>그다음으로 반려동물에 대한 공부를 하기 이다.</문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 키우다 보면 그 반려동물에 대해 잘 몰라서 포기하는 사람들이 많기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>무조건 </문법_기타>키우다 보면 그 반려동물에 대해 잘 몰라서 포기하는 사람들이 많기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 방법들을 실천하면 유기되는 반려동물들이 줄어들 것  같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 이 방법들을 <문법_맞춤법><문법_기타>잘 생까하고, 행동하면 유기되는 반려동물들이 줄</문법_기타></문법_맞춤법> 것  같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39841",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 673,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

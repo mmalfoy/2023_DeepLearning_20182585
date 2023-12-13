@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "코로나 때문에 여가 활동을 많이 하지 못해서 코로나가 너무 싫습니다.#@문장구분# (원래싫음)#@문장구분# 그리고 코로나 때문에 학교를 못가 학습활동도 잘하지 못합니다.#@문장구분# 저는 밖에서 뛰어놀고 싶고 뛰어노는 것을 좋아하는데 코로나 때문에 여가활동도 못해서 코로나가 정말 싫습니다.#@문장구분# 그리고 요즘 날씨가 더워져서 아침에는 여가활동을 하기 힘듭니다.#@문장구분# 근데 조금만 있으면 가을이기 때문에 조금은더 평소보다 조금더 할수 있을것같습니다. #@문장구분#그리고 학교도 방학도 시작했는데 거의 끝나가서 학교 끝나서라도 친구들과 이야기를 더 할수 있어서 좋습니다.#@문장구분#(그런데 원래 학원에서 이야기함)#@문장구분# 하지만 코로나가 사라지지 않았으는 이야기도 오래하지 못하고, 집에가서 놀지도 못합니다. #@문장구분#(친구를 대려올수 없다는 뜻)#@문장구분# 그리고 학습활동과 여가활동은 아직은 여름이라서 무리해서 하거나 너무 많이하면 않되고 여름이 끝나면 곧 가을이 될 테니 조금만 기다린 후 여가활동을 하고 싶습니다.#@문장구분#",
+      "paragraph_len": 678,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.685715,
+      21.933334,
+      19.533333
+    ],
+    "essay_scoreT_avg": 19.384127,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " (원래 싫음)",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>(원래싫음)</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 코로나 때문에 학교를 못가 학습활동도 잘 하지 못합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 코로나 때문에 학교를 못가 학습활동도 <문법_맞춤법>잘하지</문법_맞춤법> 못합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 조금만 있으면 가을이기 때문에 평소보다 조금 더 할 수 있을것 같습니다. ",
+      "sentence_corr_reason": [
+        "조금은더 중복표현으로 삭제,띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 근데 조금만 있으면 가을이기 때문에 <문법_기타>조금은더 평소보다 조금더 할수 있을것같습니다.</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 학교도 방학도 시작했는데 거의 끝나가서 학교 끝나서라도 친구들과 이야기를 더 할 수 있어서 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 학교도 방학도 시작했는데 거의 끝나가서 학교 끝나서라도 친구들과 이야기를 더 <문법_맞춤법>할수</문법_맞춤법> 있어서 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 코로나가 사라지지 않는 한 이야기도 오래하지 못하고, 집에가서 놀지도 못합니다. ",
+      "sentence_corr_reason": [
+        "않았으는은 문맥상 자연스럽지 못해 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 하지만 코로나가 사라지지<문법_기타> 않았으는</문법_기타> 이야기도 오래하지 못하고, 집에가서 놀지도 못합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "(친구를 데려올 수 없다는 뜻)",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "(친구를 <문법_맞춤법>대려올수</문법_맞춤법> 없다는 뜻)",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 학습활동과 여가활동은 아직은 여름이라서 무리해서 하거나 너무 많이 하면 안 되고 여름이 끝나면 곧 가을이 될 테니 조금만 기다린 후 여가활동을 하고 싶습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 학습활동과 여가활동은 아직은 여름이라서 무리해서 하거나 너무 <문법_맞춤법>많이하면 않되고</문법_맞춤법> 여름이 끝나면 곧 가을이 될 테니 조금만 기다린 후 여가활동을 하고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33530",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 458,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

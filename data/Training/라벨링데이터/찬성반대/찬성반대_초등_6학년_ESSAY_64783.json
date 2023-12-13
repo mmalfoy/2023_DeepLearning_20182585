@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 에너지를 절약하여 환경을 살리는데 찬성합니다.#@문장구분#\n 제가 에너지를 절약하여 환경을 살리는데 찬성하는 이유는 다음과 같습니다.#@문장구분#\n첫째, 에너지의 양은 한정되어있습니다. #@문장구분#만약 우리가 미래를 생각하지않고에너지를 한없이 사용한다면 결국 미래에는 더이상 사용할 수 있는 에너지가 없을것 입니다.#@문장구분#\n 둘째, 이미 우리가 사는 환경은 위험합니다.#@문장구분# 에너지들이 만드는 과정에서 생기는 환경오염은 거대합니다.#@문장구분# 이미 지구온난화와 환경오염으로 많은 동물과 식물들이 막대한 피해를 받고있습니다. #@문장구분#만약 여기에서 더 에너지를 생산하는데 환경오염을 시키면 그다음 피해는 인간이 받을 것입니다.#@문장구분#\n 이와같이 지구를 지키기 위해서는 에너지사용을 낭비하면 안됩니다.",
+      "paragraph_len": 511,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      27,
+      27
+    ],
+    "essay_scoreT_avg": 27.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n첫째, 에너지의 양은 한정되어 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n첫째, 에너지의 양은 <문법_맞춤법>한정되어있습니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 우리가 미래를 생각하지 않고 에너지를 한없이 사용한다면 결국 미래에는 더 이상 사용할 수 있는 에너지가 없을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "만약 우리가 미래를 <문법_맞춤법>생각하지않고에너지를 </문법_맞춤법>한없이 사용한다면 결국 미래에는 더이상 사용할 수 있는 에너지가 없을것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이미 지구온난화와 환경오염으로 많은 동물과 식물들이 막대한 피해를 받고 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이미 지구온난화와 환경오염으로 많은 동물과 식물들이 막대한 피해를 <문법_맞춤법>받고있습니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이와 같이 지구를 지키기 위해서는 에너지 사용을 낭비하면 안 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>이와같이 </문법_맞춤법>지구를 지키기 위해서는 에너지사용을 낭비하면 안됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64783",
+    "essay_prompt": " 과학 발전을 통해 다양한 에너지들이 만들어지고 일상생활에 사용되고 있습니다. 대표적인 예가 원자력입니다.\n\n 원자력 발전소에서 생산되는 엄청난 양의 에너지를 통해 여러분이 핸드폰을 하고 TV를 보고 전등을 켤 수 있습니다.\n\n 하지만 원자력 발전소를 통해 에너지를 생산하는 과정에서 폭발위험과 핵폐기물로 인한 심각한 환경문제가 발생하고 있습니다.\n\n 우리가 에너지를 사용하면 사용할수록 원자력 발전소 같은 에너지를 생산할 수 있는 시설이 더욱 많이 필요할 것입니다. 이는 더 많은 환경문제를 일으키겠죠?\n\n 그렇기 때문에 더 에너지 사용을 늘리지 말자는 의견이 많이 나오고 있습니다. 생활의 편리함을 뒤로하고 에너지 절약을 먼저 하자는 의견입니다.\n\n 여러분은 편리한 생활을 줄이고 에너지를 절약하여 환경을 살리는 데 찬성하시나요? 아니면 환경보다는 지금의 편리함이 더 중요하다고 생각하시나요?  본인의 생각을 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 352,
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각"
+  }
+}

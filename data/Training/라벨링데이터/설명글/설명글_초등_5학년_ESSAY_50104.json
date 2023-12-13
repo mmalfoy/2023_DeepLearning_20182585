@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "많은 과목들 중 가장 좋아하는 과목들은 체육, 미술, 음악 입니다.#@문장구분# 1. 체육을 좋아하는 이유는 체육을 하게되면 몸과 마음이 즐거워질 뿐더러, 여러 친구들과 함께 체육을 할 수 있으니 친하지 않았었던 친구와도 친해질수 있고 운동을 하게 되면 몸이 튼튼해져서 좋습니다.#@문장구분# 2. 미술을 좋아하는 이유는 제가 어렸을때 부터 그림을 그리는 것이나 색칠하는 것을 굉장히 즐겁게했었고, 심심할때나 지루할때는 그림을 그렸기도 했으며, 그림을 그리면서 여러가지 상상을 하게되면 상상력이 풍부해지기 때문에 미술을 좋아합니다.#@문장구분# 3. 마지막으로 제가 음악을 좋아하게되 계기는 음악을 들으면 마음이 차분해지기도 하고 음악에는 여러가지 종류들이 있어서 좋기도하다#@문장구분# 신나는 음악, 재미있는 음악, 슬픈 음악, 긴장감이 있는 음악 등등 여러가지의 음악들이 있었어서 그 취양에 맞게 들었어서 음악을 좋아하게 된것 같다.#@문장구분# 이 외에 다른 과목들이 있다.#@문장구분# 난 그것들중 가장좋아하는 과목이 체육, 음악, 미술이어서 적어 보았다.",
+      "paragraph_len": 617,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.0476189,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      23.419048,
+      21.019047
+    ],
+    "essay_scoreT_avg": 22.390478,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "많은 과목들 중 가장 좋아하는 과목들은 체육, 미술, 음악입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "많은 과목들 중 가장 좋아하는 과목들은 체육, 미술, <문법_맞춤법>음악 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1. 체육을 좋아하는 이유는 체육을 하게 되면 몸과 마음이 즐거워질뿐더러, 여러 친구들과 함께 체육을 할 수 있으니 친하지 않았었던 친구와도 친해질 수 있고 운동을 하게 되면 몸이 튼튼해져서 좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1. 체육을 좋아하는 이유는 체육을 <문법_맞춤법>하게되면 </문법_맞춤법>몸과 마음이 즐거워질 뿐더러, 여러 친구들과 함께 체육을 할 수 있으니 친하지 않았었던 친구와도 친해질수 있고 운동을 하게 되면 몸이 튼튼해져서 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2. 미술을 좋아하는 이유는 제가 어렸을 때부터 그림을 그리는 것이나 색칠하는 것을 굉장히 즐겁게 했었고, 심심할 때나 지루할 때는 그림을 그렸기도 했으며, 그림을 그리면서 여러 가지 상상을 하게 되면 상상력이 풍부해지기 때문에 미술을 좋아합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 2. 미술을 좋아하는 이유는 제가 어<문법_맞춤법>렸을때 부터 </문법_맞춤법>그림을 그리는 것이나 색칠하는 것을 굉장히 즐겁게했었고, 심심할때나 지루할때는 그림을 그렸기도 했으며, 그림을 그리면서 여러가지 상상을 하게되면 상상력이 풍부해지기 때문에 미술을 좋아합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3. 마지막으로 제가 음악을 좋아하게되 계기는 음악을 들으면 마음이 차분해지기도 하고 음악에는 여러 가지 종류들이 있어서 좋기도 합니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 3. 마지막으로 제가 음악을 좋아하게되 계기는 음악을 들으면 마음이 차분해지기도 하고 음악에는 <문법_맞춤법>여러가지 </문법_맞춤법>종류들이 있어서 <문법_높임법>좋기도하다</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 신나는 음악, 재미있는 음악, 슬픈 음악, 긴장감이 있는 음악 등등 여러 가지의 음악들이 있어서 그 취향에 맞게 들어서 음악을 좋아하게 된 것 같습니다. .",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 신나는 음악, 재미있는 음악, 슬픈 음악, 긴장감이 있는 음악 등등 <문법_맞춤법>여러가지의 </문법_맞춤법>음악들이 있었어서 그 취양에 맞게 들었어서 음악을 좋아하게 된것 <문법_높임법>같다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 외에 다른 과목들이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 이 외에 다른 과목들이 <문법_높임법>있다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 그것들 중 가장 좋아하는 과목이 체육, 음악, 미술이어서 적어 보았습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 난 그것들중 <문법_맞춤법>가장좋아하는 </문법_맞춤법>과목이 체육, 음악, 미술이어서 적어 <문법_높임법>보았다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50104",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 497,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

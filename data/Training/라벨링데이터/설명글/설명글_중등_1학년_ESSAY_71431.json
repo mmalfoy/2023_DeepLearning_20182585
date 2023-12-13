@@ -1,0 +1,250 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 휴대폰을 많이 만지는 습관을 고친 적이 있다.#@문장구분# 내가 처음 스마트폰을 접한 것이 초등학교 3학년이었는데, 부모님께서 처음 폰을 사주신 후에 나는 미친듯이 게임을 하기 시작했다.#@문장구분# 친구들과 함께 시작한 게임에서 더 높은 단계를 깨고싶다는 생각에 학원을 빠지고 게임만하기도 하였다.#@문장구분# 그러다가 부모님께 딱걸리는 사건이 일어난 이후로, 나는 정신을 차리고 휴대폰을 줄여야겠다고 생각하게 되었다.#@문장구분# 이미 중독된 탓인지 휴대폰을 끊는 일은 굉장히 어려웠다.#@문장구분# 어떻게 해야할지도 모르겠고, 가만히 있으면 자꾸만 손이 갔다.#@문장구분# 하지만, 내가 의식하고 자꾸 안만지려고 하니까, 어느순간 시간이 조금씩 줄기 시작했다.#@문장구분# 지금도 휴대폰을 사용하는 시간은 많지만, 내가 해야할 일을 해야할 때는 만지지 않을 정도의 절제력이 있다.#@문장구분#",
+      "paragraph_len": 553,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.3,
+      17.95,
+      16.8
+    ],
+    "essay_scoreT_avg": 19.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 내가 처음 스마트폰을 접한 것이 초등학교 3학년이었는데, 부모님께서 처음 폰을 사주신 후에 나는 미친 듯이 게임을 하기 시작했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 처음 스마트폰을 접한 것이 초등학교 3학년이었는데, 부모님께서 처음 폰을 사주신 후에 나는 <문법_맞춤법>미친듯이 </문법_맞춤법>게임을 하기 시작했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들과 함께 시작한 게임에서 더 높은 단계를 깨고 싶다는 생각에 학원을 빠지고 게임만 하기도 하였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구들과 함께 시작한 게임에서 더 높은 단계를 <문법_맞춤법>깨고싶다는</문법_맞춤법> 생각에 학원을 빠지고 게임만하기도 하였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러다가 부모님께 딱 걸리는 사건이 일어난 이후로, 나는 정신을 차리고 휴대폰을 줄여야겠다고 생각하게 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러다가 부모님께 <문법_맞춤법>딱걸리는 </문법_맞춤법>사건이 일어난 이후로, 나는 정신을 차리고 휴대폰을 줄여야겠다고 생각하게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어떻게 해야 할지도 모르겠고, 가만히 있으면 자꾸만 손이 갔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어떻게 <문법_맞춤법>해야할지도</문법_맞춤법> 모르겠고, 가만히 있으면 자꾸만 손이 갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만, 내가 의식하고 자꾸 안 만지려고 하니까, 어느 순간 시간이 조금씩 줄기 시작했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만, 내가 의식하고 자꾸 <문법_맞춤법>안만지려고 </문법_맞춤법>하니까, 어느순간 시간이 조금씩 줄기 시작했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금도 휴대폰을 사용하는 시간은 많지만, 내가 해야 할 일을 해야 할 때는 만지지 않을 정도의 절제력이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금도 휴대폰을 사용하는 시간은 많지만, 내가 <문법_맞춤법>해야할 </문법_맞춤법>일을 <문법_맞춤법>해야할 </문법_맞춤법>때는 만지지 않을 정도의 절제력이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71431",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 393,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

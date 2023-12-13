@@ -1,0 +1,390 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 가장존경하는 위인은 충무공 이순신장군님이다 #@문장구분#왜냐면 포기를 몰라서다 #@문장구분#첫째명량 명량대첩에서 133척대13척으로 싸워서 승리를 재취하였다#@문장구분# 사실은13척이지만사실상 133척대1척으로 믿을 수없게 정말대단하게 승리를하였다.#@문장구분# 둘째한산도대첩 한산도대첩은 1592년7월8일한산도앞바다에서 싸움것이다.#@문장구분# 이것도 내가 대단하게 생각하는 것중 하나다.#@문장구분# 왜냐면 일본국70여척가까이 침몰했고 우리군3명죽고일본군은4000여명이죽은싸움이다.#@문장구분# 말도안돼는전쟁이었다. #@문장구분#셋째노량해전 노량해전은 1598년11월19일새벽2시에싸움전쟁이다. #@문장구분#이게조선에마지막해전이었다.#@문장구분# 이전쟁에서 이순신장군은 일본군에 총탄을 맞고 내죽음을적에게알리지말라는 말과 함께 이수신 장군님은 돌아가셨지만 멋진 승리를하였다. #@문장구분#이리하여 내가가장 존경하는 이순신 장군님 에 전쟁기록 3가지만 썻지만, 이거보다 많이승리했다.#@문장구분# 그리고 이렇게 무패를 기록을 하였다.#@문장구분# 나는이순신 장군님은 포기를 몰라서 너무 대단하시다.",
+      "paragraph_len": 731,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      28,
+      24.1
+    ],
+    "essay_scoreT_avg": 26.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 가장 존경하는 위인은 충무공 이순신 장군님이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 <문법_맞춤법>가장존경하는 위인은 충무공 이순신장군님이다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐면 포기를 몰라서다. ",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "왜냐면 포기를 <문법_기타>몰라서다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>첫째명량 명량대첩에서 133척대13척으로 싸워서 승리를 재취하였다</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "첫째, 명량 대첩에서 133척 대 13척으로 싸워서 승리를 쟁취하였다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>사실은13척이지만사실상 133척대1척으로 믿을 수없게 정말대단하게 승리를하였다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 13척이라곤 하지만 사실상 133척 대 1척으로 믿을 수 없을 정도로 정말 대단한 승리를 하였다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>둘째한산도대첩 한산도대첩은 1592년7월8일한산도앞바다에서 싸움것이다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 둘째, 한산도 대첩이다. 한산도 대첩은 1592년 7월 8일 한산도 앞바다에서 싸운 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것도 내가 대단하게 생각하는 것 중 하나다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이것도 내가 대단하게 생각하는 <문법_맞춤법>것중</문법_맞춤법> 하나다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐면 <스타일링_패러프레이징>일본국70여척가까이 침몰했고 우리군3명죽고일본군은4000여명이죽은싸움이다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 왜냐면 일본군을 70여 척 가까이 침몰시켰고 우리 군은 3명 죽은 것에 반해 일본군은 4000여 명이 죽은 싸움이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 말도 안 되는 전쟁이었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>말도안돼는전쟁이었다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>셋째노량해전 노량해전은 1598년11월19일새벽2시에싸움전쟁이다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": "셋째, 노량 해전이다. 노량 해전은 1598년 11월 19일 새벽 2시에 일어난 전쟁이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이게 조선의 마지막 해전이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사>이게조선에마지막해전이었다.</문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>이전쟁에서 이순신장군은 일본군에 총탄을 맞고 내죽음을적에게알리지말라는 말과 함께 이수신 장군님은 돌아가셨지만 멋진 승리를하였다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": " 이 전쟁에서 이순신 장군은 일본군의 총탄을 맞고 내 죽음을 적에게 알리지 말라는 말과 함께 돌아가셨지만 멋진 승리를 하였다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>이리하여 내가가장 존경하는 이순신 장군님 에 전쟁기록 3가지만 썻지만, 이거보다 많이승리했다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "내가 가장 존경하는 이순신 장군님의 전쟁 기록을 세 가지만 썼지만, 실제로는 이거보다 많이 승리하셨다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 이렇게 무패를 <스타일링_패러프레이징>기록을 하였다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": " 그리고 이렇게 무패를 기록하였다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>나는이순신 장군님은 포기를 몰라서 너무 대단하시다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 나는 이순신 장군님의 포기를 모른다는 점에 대단함을 느꼈다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43171",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 472,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

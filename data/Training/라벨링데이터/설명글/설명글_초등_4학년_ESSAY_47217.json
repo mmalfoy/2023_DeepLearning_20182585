@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 살고싶은집은 마당이 있고 옥상이있고 5층집입니다.#@문장구분# 집에 평수는 700평이고 집의 색깔은 하얀색입니다.#@문장구분# 1층에는 주방과 게임할수있는곳이고 2층은 TV를 볼수있는곳과 사무실이 있고 3층은 부모님 방과 내방 동생방이 있다.#@문장구분# 부모님방은 하얀색이고 내방은 핑크색이고 동생방은 노란색이다.#@문장구분# 옥상에 나가면 수영장과 방방이 있고 마당에 나가면 차고와 강아지랑 새가 살고 있고 차고가 있다.#@문장구분# 집안에 1층화장실은 양치와 볼일 샤워를 할수 있는 곳이고 2층 화장실은 볼일만 볼수 있고 3층 화장실은 양치와 샤워 볼일을 볼수있다.#@문장구분# 그리고 4층에가면 운동을 좋아하는 엄마아빠를 위해 골프장과 배드민턴을 할수 있는 공간으로 만들고 5층은 영화관으로 만들어서 살고 싶습니다.#@문장구분# 5층 마당에는 테라스에서 쉬면서 캠핑을 할 수 있습니다.#@문장구분# 4층화장실은 노란색 이고 볼릴을 볼수있고 양치를 할수 있습니다.#@문장구분#",
+      "paragraph_len": 613,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      21.933334,
+      22.733334
+    ],
+    "essay_scoreT_avg": 22.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 살고 싶은 집은 마당이 있고 옥상이 있고 5층집입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 <문법_맞춤법>살고싶은집은</문법_맞춤법> 마당이 있고 옥상이있고 5층집입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1층에는 주방과 게임할 수 있는 곳이고 2층은 TV를 볼 수 있는 곳과 사무실이 있고 3층은 부모님 방과 내 방 동생 방이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1층에는 주방과 <문법_맞춤법>게임할수있는곳이고 </문법_맞춤법>2층은 TV를 볼수있는곳과 사무실이 있고 3층은 부모님 방과 내방 동생방이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님 방은 하얀색이고 내 방은 핑크색이고 동생 방은 노란색이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>부모님방은 </문법_맞춤법>하얀색이고 내방은 핑크색이고 동생방은 노란색이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집 안에 1층 화장실은 양치와 볼일 샤워를 할 수 있는 곳이고 2층 화장실은 볼일만 볼 수 있고 3층 화장실은 양치와 샤워 볼일을 볼 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집안에 <문법_맞춤법>1층화장실은 </문법_맞춤법>양치와 볼일 샤워를 할수 있는 곳이고 2층 화장실은 볼일만 볼수 있고 3층 화장실은 양치와 샤워 볼일을 볼수있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 4층에 가면 운동을 좋아하는 엄마 아빠를 위해 골프장과 배드민턴을 할 수 있는 공간으로 만들고 5층은 영화관으로 만들어서 살고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>4층에가면 </문법_맞춤법>운동을 좋아하는 엄마아빠를 위해 골프장과 배드민턴을 할수 있는 공간으로 만들고 5층은 영화관으로 만들어서 살고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 4층 화장실은 노란색이고 볼일을 볼 수 있고 양치를 할 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>4층화장실은 </문법_맞춤법>노란색 이고 볼릴을 볼수있고 양치를 할수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47217",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 433,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

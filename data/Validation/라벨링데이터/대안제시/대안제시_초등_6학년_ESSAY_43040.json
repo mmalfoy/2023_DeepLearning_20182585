@@ -1,0 +1,345 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물을 키우는 사람이 20%증가한것은 분명 좋은일이다.#@문장구분#하지만 유기된 동물들이15%증가한것은 분명 좋지않은일이다.#@문장구분#동물을 유기할것이면 왜 입양을 한 것일까? #@문장구분#미래를 알 수 없었기 때문이다.#@문장구분#그런데 유기된 동물들은 어떻게해야할까?#@문장구분# 동물을 유기한 사람에 대한경고나 처벌은? 궁금한게 많다.#@문장구분#\n 반려동물 유기는 그 동물에 대한 사랑,존중,배려,고마움 등의 태도가 없는 사람들이 하는 것 같다.#@문장구분#반려동물을유기한 까닭을 물으면 분명 이런저런 핑계를 댈것이다.#@문장구분#금전적인 이유,위생문제,시간적이유,건강상의 문제 이런 핑계때문에 동물들은 유기된다.#@문장구분#반려동물유기는 그 동물의 인생을 망치는 행위인 것 같다.#@문장구분#동물들도 감정이 있다.#@문장구분#\n 반려동물 유기를 대처하기 위해서 강력한 법이 만들어져야 한다고 생각한다#@문장구분#그냥 법이 아니라 강력한 법 말이다.#@문장구분#동물을 유기하다가 적발되었을 경우 벌금을 낸다 와 같은 내용으로 말이다. #@문장구분#반려동물 유기는 그 동물의 남은 인생을 망치는 행위가 될 수 있다.#@문장구분#그러므로 한 번 입양한 반려동물을 키우기힘들다고 유기하지 말고 끝까지 책임지려고 노력하자.",
+      "paragraph_len": 826,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.88889,
+      20.9,
+      20.3
+    ],
+    "essay_scoreT_avg": 20.696295,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "반려동물을 키우는 사람이 20% 증가한 것은 분명 좋은 일이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "반려동물을 키우는 사람이<문법_맞춤법> 20%증가한것은 분명 좋은일이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 유기된 동물들이 15% 증가한 것은 분명 좋지 않은 일이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 유기된 <문법_맞춤법>동물들이15%증가한것은 분명 좋지않은일이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "동물을 유기할 것이면 왜 입양을 한 것일까? ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "동물을 <문법_맞춤법>유기할것이면</문법_맞춤법> 왜 입양을 한 것일까? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 유기된 동물들은 어떻게 해야 할까?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 유기된 동물들은 <문법_맞춤법>어떻게해야할까?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 동물을 유기한 사람에 대한 경고나 처벌은? 궁금한 게 많다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 동물을 유기한 사람에 <문법_맞춤법>대한경고나</문법_맞춤법> 처벌은? 궁금한게 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 반려동물 유기는 그 동물에 대한 사랑, 존중, 배려, 고마움 등의 태도가 없는 사람들이 하는 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 반려동물 유기는 그 동물에 대한 <문법_맞춤법>사랑,존중,배려,고마움</문법_맞춤법> 등의 태도가 없는 사람들이 하는 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "반려동물을 유기한 까닭을 물으면 분명 이런저런 핑계를 댈 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>반려동물을유기한</문법_맞춤법> 까닭을 물으면 분명 이런저런 핑계를 댈것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "금전적인 이유, 위생 문제, 시간적 이유, 건강상의 문제 등 이런 핑계 때문에 동물들은 유기된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>금전적인 이유,위생문제,시간적이유,건강상의 문제 이런 핑계때문에</문법_맞춤법> 동물들은 유기된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "반려동물 유기는 그 동물의 인생을 망치는 행위인 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>반려동물유기는</문법_맞춤법> 그 동물의 인생을 망치는 행위인 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 반려동물 유기를 대처하기 위해서 강력한 법이 만들어져야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 반려동물 유기를 대처하기 위해서 강력한 법이 만들어져야 한다고 <문법_맞춤법>생각한다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>동물을 유기하다가 적발되었을 경우 벌금을 낸다 와</스타일링_패러프레이징> 같은 내용으로 말이다. ",
+      "sentence_corr_txt_styling": "동물을 유기하다가 적발되었을 경우 벌금을 낸다 같은 내용으로 말이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러므로 한 번 입양한 반려동물을 키우기 힘들다고 유기하지 말고 끝까지 책임지려고 노력하자.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러므로 한 번 입양한 반려동물을 <문법_맞춤법>키우기힘들다고</문법_맞춤법> 유기하지 말고 끝까지 책임지려고 노력하자.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43040",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 527,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

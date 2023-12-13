@@ -1,0 +1,334 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 실명제가 도입을 해야 한다고 생각한다.#@문장구분# 왜냐하면 익명성은 SNS의 자유롭게 소통하라는 장점인데... 익명성이 사라지게 된다면 SNS의 장점이 사라진는게 당연하다.#@문장구분# 그치만 익명성을 유지한다면 아무리 내가 다른사람에게 준 피해를 본인이 감수한다 하더라도 대부분의 사람들은 자신이 남에게 준 피해를 감수할 것이다.#@문장구분# 그런데 간혹 어떤사람들은 피해에 대해서 뒤 늦게 감수하는 사람들이 있다.#@문장구분# 나도 하지만 SNS에서는 익명성이 필요하다는 생각도 했다.#@문장구분# 그 익명성으로 보낸 악플이 연예인들에게 큰 상처를 준다는 걸 알았다.#@문장구분# 뉴스에 찾아보니 익명성을 통해 좀 더 자유로워진 자기표현과 의견 참여로 SNS 사용이 증가했는걸 알았다.#@문장구분# 또 SNS에서는 실제로 근거가 없는 SNS루머가 사실 확인을 거치지 않은 채 기사화되는 사례가 많다는 걸 알았다.#@문장구분# 해를 거듭할수록 SNS발 가짜뉴스가 사실인 것처럼 정교하고 대담하게 꾸며져 개인이나 단체는 물론 기업에까지 측정할 수 없을 정도의 막대한 손실을 끼치고있는 상황이다.#@문장구분# 그리고 개인정보 피해사례도 었는데 다른사람의 프로필을 들어가서 정보보기만 눌러도 모든 정보가 나와 핸드폰 번호까지도 나오게돼서 이를 악용하여 사람들이 있어 나는 익명성을 대도록 줄였으면 하는 마음이다.#@문장구분#",
+      "paragraph_len": 817,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.61111,
+      25.51111,
+      26.4
+    ],
+    "essay_scoreT_avg": 26.507408,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.15",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 실명제를 도입해야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_조사>실명제가 </문법_조사><문법_맞춤법>도입을 해야 </문법_맞춤법>한다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 익명성은 SNS의 자유롭게 소통하라는 장점인데... 익명성이 사라지게 된다면 SNS의 장점이 사라지는 게 당연하다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 익명성은 SNS의 자유롭게 소통하라는 장점인데... 익명성이 사라지게 된다면 SNS의 장점이 <문법_맞춤법>사라진는게 </문법_맞춤법>당연하다.",
+      "sentence_corr_txt_styling": " 왜냐하면 익명성은 SNS의 자유롭게 소통하라는 장점인데... 익명성이 사라지게 된다면 SNS의 장점이 사라지는 게 당연하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 익명성을 유지한다면 아무리 내가 다른 사람에게 준 피해를 본인이 감수한다 하더라도 대부분의 사람들은 자신이 남에게 준 피해를 감수할 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>그치만 </문법_맞춤법>익명성을 유지한다면 아무리 내가 다른사람에게 준 피해를 본인이 감수한다 하더라도 대부분의 사람들은 자신이 남에게 준 피해를 감수할 것이다.",
+      "sentence_corr_txt_styling": " 그렇지만 익명성을 유지한다면 아무리 내가 다른 사람에게 준 피해를 본인이 감수한다 하더라도 대부분의 사람들은 자신이 남에게 준 피해를 감수할 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 간혹 어떤 사람들은 피해에 대해서 뒤늦게 감수하는 사람들이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 간혹 <문법_맞춤법>어떤사람들은 </문법_맞춤법>피해에 대해서 뒤 늦게 감수하는 사람들이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 나도 하지만 SNS에서는 익명성이 필요하다는 생각도 했다.",
+      "sentence_corr_txt_styling": " 나도 하지만 SNS에서는 익명성이 필요하다는 생각도 했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그 익명성으로 보낸 악플이 연예인들에게 큰 상처를 준다는 걸 알았다.",
+      "sentence_corr_txt_styling": " 그 익명성으로 보낸 악플이 연예인들에게 큰 상처를 준다는 걸 알았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뉴스를 찾아보니 익명성을 통해 좀 더 자유로워진 자기표현과 의견 참여로 SNS 사용이 증가했다는 걸 알았다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_조사>뉴스에 </문법_조사>찾아보니 익명성을 통해 좀 더 자유로워진 자기표현과 의견 참여로 SNS 사용이 <문법_맞춤법>증가했는걸 </문법_맞춤법>알았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 SNS에서는 실제로 근거가 없는 SNS 루머가 사실 확인을 거치지 않은 채 기사화되는 사례가 많다는 걸 알았다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 또 SNS에서는 실제로 근거가 없는 <문법_맞춤법>SNS루머가</문법_맞춤법> 사실 확인을 거치지 않은 채 기사화되는 사례가 많다는 걸 알았다.",
+      "sentence_corr_txt_styling": " 또 SNS에서는 실제로 근거가 없는 SNS 루머가 사실 확인을 거치지 않은 채 기사화되는 사례가 많다는 걸 알았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 해를 거듭할수록 SNS 발 가짜 뉴스가 사실인 것처럼 정교하고 대담하게 꾸며져 개인이나 단체는 물론 기업에까지 측정할 수 없을 정도의 막대한 손실을 끼치고 있는 상황이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 해를 거듭할수록 S<문법_맞춤법>NS발 가짜뉴스</문법_맞춤법>가 사실인 것처럼 정교하고 대담하게 꾸며져 개인이나 단체는 물론 기업에까지 측정할 수 없을 정도의 막대한 손실을 끼치고있는 상황이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 개인 정보 피해 사례도 있는데 다른 사람의 프로필을 들어가서 정보 보기만 눌러도 모든 정보가 나와 핸드폰 번호까지도 나오게 돼서 이를 악용하여 사람들이 있어 나는 익명성을 대도록 줄였으면 하는 마음이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>개인정보 </문법_맞춤법>피해사례도 었는데 다른사람의 프로필을 들어가서 정보보기만 눌러도 모든 정보가 나와 핸드폰 번호까지도 나오게돼서 이를 악용하여 사람들이 있어 나는 익명성을 대도록 줄였으면 하는 마음이다.",
+      "sentence_corr_txt_styling": " 그리고 개인 정보 피해 사례도 있는데 다른 사람의 프로필을 들어가서 정보 보기만 눌러도 모든 정보가 나와 핸드폰 번호까지도 나오게 돼서 이를 악용하여 사람들이 있어 나는 익명성을 대도록 줄였으면 하는 마음이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53008",
+    "essay_prompt": " SNS 서비스는 페이스북과 트위터 등의 폭발적 성장에 따라 관심의 대상으로 부상했습니다.\n\n 하지만, 소통과 여론 조성의 장이 SNS로 옮겨짐에 따라 온라인을 통해 다른 사람을 비판하는 행위 또한 더욱 활발해지고 있습니다. 특히 연예인이나 유명인들이 큰 피해를 받고 있습니다. 특정 인물의 사진이나 개인정보를 도용하는 일도 있습니다.\n\n 한쪽에서는 SNS의 익명성 때문에 이러한 일이 비일비재하게 벌어지고 있다고 주장합니다. 익명성을 없애고 실명제를 도입해야 근본적인 해결을 할 수 있다고 말합니다.\n\n 근거 없는 주장은 아닙니다. 다만 익명성이 보장되기 때문에 자유롭게 소통할 수 있었던 SNS의 장점도 사라지게 될 것입니다.\n\n 여러분은 SNS상의 문제에 대해 어떻게 생각하시나요?\n\n SNS를 시작하는 것 자체가 다른 사람들의 자유로운 의견을 받아들이는 것에 동의한 것이니 피해에 대해서는 본인이 감수해야 한다고 생각하시나요?\n\n 아니면 실명제가 도입을 해야 한다고 생각하시나요?\n\n 혹은 다른 방법이 있다고 생각하시나요?\n\n SNS상의 문제에 대한 본인의 의견을 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 618,
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 메모하는 좋은 습관을 가지기 위해 노력한 적이 있다.#@문장구분# 나는 일을 할 때나 무언가를 준비할 때 항상 하나씩을 빼먹고는 했다.#@문장구분# 여행을 갈 때 준비물을 제대로 챙기지 않는다거나 학원 숙제를 하나씩 까먹고 못하기도 하였다.#@문장구분# 엄마가 이런 나를 보고 앞으로는 해야할 일들과 챙겨야할 것들을 메모하는 습관을 가지라고 말씀하셨다.#@문장구분# 처음에는 포스트잇에 메모를 시작하였다.#@문장구분# 확실이 그 이전보다 일을  덜 까먹고 잘 하였다. #@문장구분#그러나 종이에 메모를 하다보니 그 종이를 잃어버리면 다시금 적어야하는 불편함이 있었다.#@문장구분# 그래서 메모하는 곳을 휴대폰으로 옮겼다.#@문장구분# 휴대폰에 메모를 하니 더 편리하고 잃을 일도 거의 없었다. #@문장구분#지금은 항상 일을 시작하기 전에 메모를 한다.#@문장구분# 해야할 것이나 챙겨야할 것들 외에도 떠오르는 좋은 아이디어나 생각들도 적고 있다.#@문장구분# 메모를 하는 습관을 가지니 이 전보다 편리해졌고 좋은 아이디어들도 계속 정리해 놓을 수 있어서 매우 좋다.#@문장구분#",
+      "paragraph_len": 706,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.75,
+      26.75,
+      20.25
+    ],
+    "essay_scoreT_avg": 23.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 나는 일을 할 때나 무언가를 준비할 때 항상 하나씩 빼먹고는 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 나는 일을 할 때나 무언가를 준비할 때 항상 <문법_조사>하나씩을</문법_조사> 빼먹고는 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마가 이런 나를 보고 앞으로는 해야 할 일들과 챙겨야 할 것들을 메모하는 습관을 가지라고 말씀하셨다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마가 이런 나를 보고 앞으로는 <문법_맞춤법>해야할</문법_맞춤법> 일들과 챙겨야할 것들을 메모하는 습관을 가지라고 말씀하셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 확실히 그 이전보다 일을  덜 까먹고 잘 하였다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>확실이</문법_맞춤법> 그 이전보다 일을  덜 까먹고 잘 하였다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러나 종이에 메모를 하다 보니 그 종이를 잃어버리면 다시금 적어야 하는 불편함이 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러나 종이에 메모를 <문법_맞춤법>하다보니</문법_맞춤법> 그 종이를 잃어버리면 다시금 적어야하는 불편함이 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 해야 할 것이나 챙겨야 할 것들 외에도 떠오르는 좋은 아이디어나 생각들도 적고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>해야할</문법_맞춤법> 것이나 챙겨야할 것들 외에도 떠오르는 좋은 아이디어나 생각들도 적고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 메모를 하는 습관을 가지니 이전보다 편리해졌고 좋은 아이디어들도 계속 정리해 놓을 수 있어서 매우 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 메모를 하는 습관을 가지니 <문법_맞춤법>이 전보다</문법_맞춤법> 편리해졌고 좋은 아이디어들도 계속 정리해 놓을 수 있어서 매우 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69104",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 466,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 의견은 민주주가 옳다고 생각합니다. #@문장구분#왜냐하면 사람들이 너무 많으면 도시의 일자리가 부족해지고 자동차의 연료가 많이 방출대 도시생활이 불편해진다.#@문장구분# 사람이많으면 좋은점은 일자리에서 수익이 몇배더 늘어나고 마트나홈플러스에서 물건이 잘 팔리기 때문에 좋습니다. #@문장구분#사람들이 적어진다면 일자리가 부족해지고 사람들이 없어 마트에서 물건이 잘안팔이고 수익이 많이 떨어져서 어떤직업에 돈이잘 안팔이고 새거처럼 남겨서 나 중에 저절로 낡아지기 때문에 다수결과민주주가 옳지않다고 생각합니다. #@문장구분#이렇게 저는 민주주는 사람이 많지도않고 적당하지 않아 안 좋은점은 직업 수익이 너무 없어 물건이 팔리지도 않아 그대로 낡을 것이고 사람들이 너무 많으면 수익이 몇배로 높아지는데 직업 수가 적어져 직업이 없는 사람들은 직업을 찾기가 어렵습니다. #@문장구분#그래서 사람들의 수가 중간 정도 있었으면 좋겠습니다.#@문장구분#왜냐하면 직업수의 사람수가 딱 맞으니 직업 부족 걱정이 없어지고 사람들의 수 적당해서 수익이 사람들에게 나누어줄 수익이 적당해질 것이다. #@문장구분#그러므로 저는 사람의 수 가 적당해 지면 좋게습니다. #@문장구분#사람이 적당해진다면 직업이 부족하지 않아 수익이 적절해 질것 같아 저는 사람들이 적당히 있으면 좋겠습니다. #@문장구분#그러므로 사람들이 딱 절절히 있으면 좋겠습니다. #@문장구분#저는 민주주와 다수결의 의견은 옳지 않다고 생각합니다.#@문장구분#",
+      "paragraph_len": 874,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      23.419048,
+      30
+    ],
+    "essay_scoreT_avg": 24.584127,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제 의견은 민주주의가 옳다고 생각합니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "제 의견은 <문법_맞춤법>민주주가 </문법_맞춤법>옳다고 생각합니다. ",
+      "sentence_corr_txt_styling": "제 의견은 민주주의가 옳다고 생각합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 사람들이 너무 많으면 도시의 일자리가 부족해지고 자동차의 연료가 많이 방출되어 도시 생활이 불편해진다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "왜냐하면 사람들이 너무 많으면 도시의 일자리가 부족해지고 자동차의 연료가 많이 <문법_어미>방출대 </문법_어미><문법_맞춤법>도시생활이 </문법_맞춤법>불편해진다.",
+      "sentence_corr_txt_styling": "왜냐하면 사람들이 너무 많으면 도시의 일자리가 부족해지고 자동차의 연료가 많이 방출되어 도시 생활이 불편해진다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람이 많으면 좋은 점은 일자리에서 수익이 몇배 더 늘어나고 마트나 홈플러스에서 물건이 잘 팔리기 때문에 좋습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>사람이많으면 </문법_맞춤법>좋은점은 일자리에서 수익이 몇배더 늘어나고 마트나홈플러스에서 물건이 잘 팔리기 때문에 좋습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들이 적어진다면 일자리가 부족해지고 사람들이 없어 마트에서 물건이 잘 안 팔리고 수익이 많이 떨어져서 어떤 직업에 돈이 잘 안 팔리고 새 거처럼 남겨서 나중에 저절로 낡아지기 때문에 다수결과 민주주의가 옳지 않다고 생각합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": "사람들이 적어진다면 일자리가 부족해지고 사람들이 없어 마트에서 물건이 <문법_맞춤법><문법_어미>잘안팔이고 </문법_어미></문법_맞춤법>수익이 많이 떨어져서 어떤직업에 돈이잘 안팔이고 새거처럼 남겨서 나 중에 저절로 낡아지기 때문에 다수결과민주주가 옳지않다고 생각합니다. ",
+      "sentence_corr_txt_styling": "사람들이 적어진다면 일자리가 부족해지고 사람들이 없어 마트에서 물건이 잘 안 팔리고 수익이 많이 떨어져서 어떤 직업에 돈이 잘 안 팔리고 새 거처럼 남겨서 나중에 저절로 낡아지기 때문에 다수결과 민주주의가 옳지 않다고 생각합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이렇게 저는 민주주의는 사람이 많지도 않고 적당하지 않아 안 좋은 점은 직업 수익이 너무 없어 물건이 팔리지도 않아 그대로 낡을 것이고 사람들이 너무 많으면 수익이 몇 배로 높아지는데 직업 수가 적어져 직업이 없는 사람들은 직업을 찾기가 어렵습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "이렇게 저는 <문법_맞춤법>민주주는 </문법_맞춤법>사람이 많지도않고 적당하지 않아 안 좋은점은 직업 수익이 너무 없어 물건이 팔리지도 않아 그대로 낡을 것이고 사람들이 너무 많으면 수익이 몇배로 높아지는데 직업 수가 적어져 직업이 없는 사람들은 직업을 찾기가 어렵습니다. ",
+      "sentence_corr_txt_styling": "이렇게 저는 민주주의는 사람이 많지도 않고 적당하지 않아 안 좋은 점은 직업 수익이 너무 없어 물건이 팔리지도 않아 그대로 낡을 것이고 사람들이 너무 많으면 수익이 몇 배로 높아지는데 직업 수가 적어져 직업이 없는 사람들은 직업을 찾기가 어렵습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 직업 수의 사람 수가 딱 맞으니 직업 부족 걱정이 없어지고 사람들의 수 적당해서 수익이 사람들에게 나누어줄 수익이 적당해질 것이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "왜냐하면 <문법_맞춤법>직업수의</문법_맞춤법> 사람수가 딱 맞으니 직업 부족 걱정이 없어지고 사람들의 수 적당해서 수익이 사람들에게 나누어줄 수익이 적당해질 것이다. ",
+      "sentence_corr_txt_styling": "왜냐하면 직업 수의 사람 수가 딱 맞으니 직업 부족 걱정이 없어지고 사람들의 수 적당해서 수익이 사람들에게 나누어줄 수익이 적당해질 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러므로 저는 사람의 수가 적당해지면 좋겠습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "그러므로 저는 사람의 <문법_맞춤법>수 가</문법_맞춤법> 적당해 지면 <문법_어미>좋게습니다.</문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람이 적당해진다면 직업이 부족하지 않아 수익이 적절해질 것 같아 저는 사람들이 적당히 있으면 좋겠습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사람이 적당해진다면 직업이 부족하지 않아 수익이 <문법_맞춤법>적절해 질것</문법_맞춤법> 같아 저는 사람들이 적당히 있으면 좋겠습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러므로 사람들이 딱 적절히 있으면 좋겠습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러므로 사람들이 딱 <문법_맞춤법>절절히 </문법_맞춤법>있으면 좋겠습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 민주주의와 다수결의 의견은 옳지 않다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>민주주와 </문법_맞춤법>다수결의 의견은 옳지 않다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46668",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 655,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

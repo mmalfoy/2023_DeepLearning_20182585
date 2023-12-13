@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 어렸을 때부터 남의 이야기에 경청하고 잘들어주는 사람들이 정말 좋은 사람들이라고 생각하였습니다.#@문장구분# 그래서 저 또한 다른 사람들의 이야기에 경청하고 잘들어주는 자세를 갖추고 싶어서 남의 이야기에 경청하는 습관을 들이기 위해서 많은 노력들을 하였습니다.#@문장구분#  우선, 저는 평소에 남의 이야기를 경청하는 것에 어려움을 겪고있었고 제 이야기만을 하는 것을 좋아하였기 때문에 이러한 문제점들을 고치기위해서 다른 사람들이 이야기할때에는 제가 말하고싶은 부분이 있어도 참고있다가 다른 사람들의 이야기가 다 끝나면 저의 입장을 이야기한다거나, 아니면 다른 사람들이 이야기하고있을 때 중간에 제가 한번만 말해도되겠냐도 양해를 구한 뒤에 말하는 습관을 들였습니다.#@문장구분#  처음에는 많은 어려움들이 있었지만 막상 습관을 들이고나니까 다른 사람들이 저와 이야기하는 것을 좋아하는 것 같아서 뿌듯했습니다.#@문장구분#",
+      "paragraph_len": 514,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.9,
+      23.05,
+      15.05
+    ],
+    "essay_scoreT_avg": 20.333332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 어렸을 때부터 남의 이야기에 경청하고 잘 들어주는 사람들이 정말 좋은 사람들이라고 생각하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 어렸을 때부터 남의 이야기에 경청하고 <문법_맞춤법>잘들어주는 </문법_맞춤법>사람들이 정말 좋은 사람들이라고 생각하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저 또한 다른 사람들의 이야기에 경청하고 잘 들어주는 자세를 갖추고 싶어서 남의 이야기에 경청하는 습관을 들이기 위해서 많은 노력들을 하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저 또한 다른 사람들의 이야기에 경청하고 <문법_맞춤법>잘들어주는</문법_맞춤법> 자세를 갖추고 싶어서 남의 이야기에 경청하는 습관을 들이기 위해서 많은 노력들을 하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  우선, 저는 평소에 남의 이야기를 경청하는 것에 어려움을 겪고 있었고 제 이야기만을 하는 것을 좋아하였기 때문에 이러한 문제점들을 고치기 위해서 다른 사람들이 이야기할 때에는 제가 말하고 싶은 부분이 있어도 참고 있다가 다른 사람들의 이야기가 다 끝나면 저의 입장을 이야기한다거나, 아니면 다른 사람들이 이야기하고 있을 때 중간에 제가 한 번만 말해도 되겠냐도 양해를 구한 뒤에 말하는 습관을 들였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "  우선, 저는 평소에 남의 이야기를 경청하는 것에 어려움을 <문법_맞춤법>겪고있었고 </문법_맞춤법>제 이야기만을 하는 것을 좋아하였기 때문에 이러한 문제점들을 고치기위해서 다른 사람들이 이야기할때에는 제가 말하고싶은 부분이 있어도 참고있다가 다른 사람들의 이야기가 다 끝나면 저의 입장을 이야기한다거나, 아니면 다른 사람들이 이야기하고있을 때 중간에 제가 한번만 말해도되겠냐도 양해를 구한 뒤에 말하는 습관을 들였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  처음에는 많은 어려움들이 있었지만 막상 습관을 들이고 나니까 다른 사람들이 저와 이야기하는 것을 좋아하는 것 같아서 뿌듯했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "  처음에는 많은 어려움들이 있었지만 막상 습관을 <문법_맞춤법>들이고나니까</문법_맞춤법> 다른 사람들이 저와 이야기하는 것을 좋아하는 것 같아서 뿌듯했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71458",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 434,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

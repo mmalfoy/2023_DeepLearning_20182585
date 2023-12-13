@@ -1,0 +1,214 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 이상형은 #@이름#이라는 연예인입니다. #@문장구분#사실은 연예인이라고 하기에는 조금 그렇고 인플루언서라고 하면 적당할 것 같습니다. #@문장구분#아직은 #@이름#님과 닮은 사람은 발견하지 못했습니다. #@문장구분#이상형을 아직 만나지 못한 것이지요. #@문장구분#이상형에게 잘보이기 위해 노력한 것 역시 이상형을 만나지 못하였으므로 노력한 것 역시 딱히 없습니다. #@문장구분#하지만 앞으로 제 이상형과 부합하는 사람을 만난다면 저는 다음과 같은 노력을 할 것 같습니다.#@문장구분#사람에게 잘보이기 위하여 노력했던 것은 아마 외적인 요소에 신경을 많이 썼던 것 같습니다. #@문장구분#외적인 요소에 특히 많은 노력을 가한 것 같기도 합니다.",
+      "paragraph_len": 479,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " #@문장구분#사실 외적으로 보여지는게 다가 아닌 게 맞지만 그래도 첫 만남이 이루어지기 위해서는 외적으로 보여지는 것이 중요하다고도 생각이 듭니다. #@문장구분#그래도 외적으로 매력적으로 느껴져야 아무래도 우리가 흔히 말하는 자연스러운 만남이 이루지지 않을까라는 생각이 듭니다.",
+      "paragraph_len": 182,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " #@문장구분#외적인 요소를 좋아하는 상대방이라면 사실 연애도 하고 싶지 않는게 제 입장입니다. #@문장구분#저는 제 진짜 모습을 있는 그대로 사랑해줄 수 있는 상대방을 만나고 싶습니다.",
+      "paragraph_len": 130,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              1,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          1.8333334,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              3
+            ],
+            [
+              2,
+              2,
+              1
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1111112,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      22.666666,
+      20.722221,
+      18.222221
+    ],
+    "essay_scoreT_avg": 20.537035,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.16",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "이상형과 나의 노력",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_82132",
+    "essay_prompt": " 현대사회에서는 연예인이 또 다른 우상으로서 이상형이 되는 경우가 많습니다. 많은 사람이 이상형에 걸맞은 사람이 되기 위해 노력하고 자신을 가꿉니다.\n\n 여러분은 이상형이 있으신가요? 이상형에게 잘 보이기 위해 본인을 가꾸고 노력하고 계신가요? 본인의 이상형을 작성하고 더 나은 내가 되기 위해 한 노력을 작성해보세요.\n\n 아직 없다면 내가 좋아하는 사람의 특징을 작성해보고 이상형에게 잘 보이기 위해 어떤 것들을 해야 할지 작성해보세요.\n\n 누군가에게 잘 보이고 싶어 하는 성격이 아니라면 굳이 이상형이 없다고 작성하고 본인 자체적으로 만족하기 위해 하는 노력을 작성해도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 546,
+    "essay_main_subject": "이상형과 나의 노력"
+  }
+}

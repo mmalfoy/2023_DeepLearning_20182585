@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 가장 좋아하는 요일을 월요일 이다. #@문장구분#다른 사람들은 한 주가 시작되는 월요일을 좋아하지 않지만 내가 가장 좋아하는 체육시간이 있기 때문에 월요일 학교가는 아침은 항상 즐겁다. #@문장구분#친구들과 여러가지 스포츠하고 놀고 특히 이불은 야구와 비슷해서 정말 재미 있다. #@문장구분#그래서 학교에서 동아리를 하는데 동아리도 티볼부에 들어갔다. #@문장구분#그리고 이기면 기분이 좋겠지만 저도 최선을 다해 열심히 했기 때문에 저도 아쉽지만 화나거나 그러진 안고 다음엔 이기고 싶다는 생각이든다. #@문장구분#그리고 가장 좋아하는 과목인 체육을 친구들과 함께하니 더재미있다. #@문장구분#그리고 나는 주먹야구, 발야구, 티볼이 가장 재미있다.#@문장구분# 그래서 매일 체육 시간이 있으면 좋겠다.",
+      "paragraph_len": 486,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      25.2,
+      21.933334
+    ],
+    "essay_scoreT_avg": 24.377777,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.06",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "051",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 가장 좋아하는 요일을 월요일이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 가장 좋아하는 요일을 <문법_맞춤법>월요일 이다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다른 사람들은 한 주가 시작되는 월요일을 좋아하지 않지만 내가 가장 좋아하는 체육시간이 있기 때문에 월요일 학교 가는 아침은 항상 즐겁다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다른 사람들은 한 주가 시작되는 월요일을 좋아하지 않지만 내가 가장 좋아하는 체육시간이 있기 때문에 월요일 <문법_맞춤법>학교가는</문법_맞춤법> 아침은 항상 즐겁다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구들과 여러 가지 스포츠를하고 놀고 특히 이불은 야구와 비슷해서 정말 재미있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구들과 여러가지 <문법_맞춤법>스포츠하고</문법_맞춤법> 놀고 특히 이불은 야구와 비슷해서 정말 재미 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 학교에서 동아리를 하는데 동아리도 티볼 동아리에 들어갔다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 학교에서 동아리를 하는데 동아리도 <문법_맞춤법>티볼부</문법_맞춤법>에 들어갔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "경기를 해서 이기면 기분이 좋겠지만 져도 최선을 다해 열심히 했기 때문에 저도 아쉽지만 화나거나 그러진 않고 다음엔 이기고 싶다는 생각이든다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>그리고</문법_기타> 이기면 기분이 좋겠지만 <문법_맞춤법>저도</문법_맞춤법> 최선을 다해 열심히 했기 때문에 <문법_맞춤법>저도</문법_맞춤법> 아쉽지만 화나거나 그러진 안고 다음엔 이기고 싶다는 생각이든다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 가장 좋아하는 과목인 체육을 친구들과 함께하니 더 재미있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 가장 좋아하는 과목인 체육을 친구들과 함께하니 <문법_맞춤법>더재미있다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 주먹 야구, 발야구, 티볼이 가장 재미있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>그리고</문법_기타> 나는 <문법_맞춤법>주먹야구</문법_맞춤법>, 발야구, 티볼이 가장 재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_54917",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 347,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

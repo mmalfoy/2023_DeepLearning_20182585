@@ -1,0 +1,345 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 피아노 곡에 가사 넣기입니다.#@문장구분#예를 들어저는 A SUMMER라는 피아노 곡에 가사를 넣습니다.#@문장구분#처음에 빠밤빰빰X3 사랑하는 그대여 내목소리 들으리나요.#@문장구분#사랑하는 그대여 나의 곁에 있어줄래요.당신만이 나의 사랑이고 당신만이 나의 사랑인데요.#@문장구분#등이어써머의 자작가사가 들어가 있습니다.#@문장구분#또는 가끔 춤도 만듭니다.#@문장구분#그냥 들으면바로 나옵니다 #@문장구분#음악이 나오면 나도 모르게 흥이 차서 무아지경이다.#@문장구분#지금의 꿈은 취미와 정반대다.#@문장구분#이런걸 적으니 좀 쑥스럽다.#@문장구분#사람들 마다 다양한 취미가 있겠지만 특별한 취미를 가지는 것은 좋은 것 같다.#@문장구분#다음엔 어떤 취미를가질까 오늘도 항상 생각중.#@문장구분#하 머리야힘 좀 써봐 생각이 안 나자나.#@문장구분#아! 광고 디자인 나의 꿈은 광고디자이너에 지금!부터 시작이다.#@문장구분#음~ 정말아이디어가 좋아니까",
+      "paragraph_len": 666,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      19.466667,
+      14.4
+    ],
+    "essay_scoreT_avg": 18.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.14",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "055",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "예를 들어 저는 A SUMMER라는 피아노 곡에 가사를 넣습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "예를 <문법_맞춤법>들어저는</문법_맞춤법> A SUMMER라는 피아노 곡에 가사를 넣습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "처음에 빠밤빰빰X3 사랑하는 그대여 내목소리 들으리나요.",
+      "sentence_corr_txt_styling": "처음에 빠밤빰빰X3 사랑하는 그대여 내목소리 들으리나요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "사랑하는 그대여 나의 곁에 있어줄래요.당신만이 나의 사랑이고 당신만이 나의 사랑인데요.",
+      "sentence_corr_txt_styling": "사랑하는 그대여 나의 곁에 있어줄래요.당신만이 나의 사랑이고 당신만이 나의 사랑인데요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "등이어써머의 자작가사가 들어가 있습니다.",
+      "sentence_corr_txt_styling": "등이어써머의 자작가사가 들어가 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그냥 들으면 바로 나옵니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그냥 <문법_맞춤법>들으면바로 나옵니다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "음악이 나오면 저도 모르게 흥이 차서 무아지경입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": "음악이 나오면 <문법_높임법>나도 모르게 흥이 차서 무아지경이다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지금의 꿈은 취미와 정반대입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": "지금의 꿈은 취미와 <문법_높임법>정반대다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이런 걸 적으니 좀 쑥스럽네요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_높임법>이런걸 적으니 좀 쑥스럽다.</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들마다 다양한 취미가 있겠지만 특별한 취미를 가지는 것은 좋은 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "<문법_맞춤법>사람들 마다</문법_맞춤법> 다양한 취미가 있겠지만 특별한 취미를 가지는 것은 좋은 것 <문법_높임법>같다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "다음엔 어떤 취미를가질까 오늘도 항상 생각중.",
+      "sentence_corr_txt_styling": "다음엔 어떤 취미를가질까 오늘도 항상 생각중.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "아! 광고 디자인 나의 꿈은 광고디자이너에 지금!부터 시작이다.",
+      "sentence_corr_txt_styling": "아! 광고 디자인 나의 꿈은 광고디자이너에 지금!부터 시작이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66339",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 387,
+    "essay_main_subject": "나의 취미"
+  }
+}

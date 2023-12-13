@@ -1,0 +1,307 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "다문화 가정은 차별하면 안된다.#@문장구분# 다문화 사람들도 우리와 똑같은 사람이고 한국사람들 이다.#@문장구분# 근데 그런걸로 놀리고, 비난하면 안된다.#@문장구분# 그러면 한국사람을 비난하고,놀리는거랑 똑같은 거다.#@문장구분# 다문화 사람들은 엄마, 아빠 중에 한국인이 아닌걸 얘기한다.#@문장구분# 근데 다문화 사람은 우리와 같은 한국인이라고 인정을 받았는데 그걸로 놀리는 사람이 있다.#@문장구분# 그리고 피부색, 얼굴이 다르다고 해도, 다문화 사람은 한국음식과 자기나라,음식 그런걸 좋아한다.#@문장구분# 그리고 다문화 사람의 문화를 무시 하고 그러면 안된다,#@문장구분#다문화 사람도 인정을 받았다#@문장구분# 한구사람이라고 그래서 다문화가정 사람을 비난하면 안된다.#@문장구분#",
+      "paragraph_len": 517,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.614286,
+      25.05,
+      18
+    ],
+    "essay_scoreT_avg": 19.554762,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          3,
+          1
+        ],
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "다문화 가정은 차별하면 안 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다문화 가정은 차별하면 <문법_맞춤법>안된다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 사람들도 우리와 똑같은 사람이고 한국 사람들이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다문화 사람들도 우리와 똑같은 사람이고 <문법_맞춤법>한국사람들 이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 그런 걸로 놀리고, 비난하면 안 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 <문법_맞춤법>그런걸로</문법_맞춤법> 놀리고, 비난하면 안된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 한국 사람을 비난하고, 놀리는 것과 똑같은 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그러면 <문법_맞춤법>한국사람을</문법_맞춤법> <문법_기타>비난하고,놀리는거랑</문법_기타> 똑같은 거다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 사람들은 엄마, 아빠 중에 한국인이 아닌 걸 얘기한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 다문화 사람들은 엄마, 아빠 중에 한국인이 <문법_맞춤법>아닌걸</문법_맞춤법> 얘기한다.",
+      "sentence_corr_txt_styling": " 다문화 사람들은 엄마, 아빠 중에 한국인이 아닌 걸 얘기한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 피부색, 얼굴이 다르다고 해도, 다문화 사람은 한국 음식과 자기 나라, 음식 그런 걸 좋아한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 피부색, 얼굴이 다르다고 해도, 다문화 사람은 <문법_맞춤법>한국음식과</문법_맞춤법> 자기나라,음식 그런걸 좋아한다.",
+      "sentence_corr_txt_styling": " 그리고 피부색, 얼굴이 다르다고 해도, 다문화 사람은 한국 음식과 자기 나라, 음식 그런 걸 좋아한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다문화 사람의 문화를 무시하고 그러면 안 된다,",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 다문화 사람의 문화를 <문법_맞춤법>무시 하고</문법_맞춤법> 그러면 안된다,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다문화 사람도 인정을 받았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "다문화 사람도 인정을 <문법_기타>받았다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한국 사람이라고 그래서 다문화 가정 사람을 비난하면 안 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>한구사람이라고</문법_맞춤법> 그래서 다문화가정 사람을 비난하면 안된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46879",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 317,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘 학교에서나 학원, 실외, 실내 등에서 학교폭력이 자주 일어나고 있습니다.#@문장구분# 또한, 영화나 드라마에서 나쁜 짓을 하는 행동을 따라해서 그 행동을 그대로 따라하는 학생들이 많아졌습니다.#@문장구분# 이것만이 아니라 엡애서도 많이 학교폭력이 많이 발생하고 있습니다.#@문장구분#\n 그러므로 학교폭력을 줄일 수 있는 방법을 알아봅시다.#@문장구분# 첫째, 앱에서 대화하는 것을 줄이자!#@문장구분# 왜냐하면 앱에서 많이 자주 싸우기 때문에 앱을 좀 줄였으면 좋겠습니다.#@문장구분# 둘째, 학생이 친구를 때리고 있으면 바로 117에 신고한다.#@문장구분# 셋째, 습관적으로 친구를 때리지 않고, 그 친구가 뭘 잘못했는지 먼저 말하고 무조건 때리지만 말고, 말로한다.#@문장구분# 왜나하면 무조건 때리면 학교에서도 상담해야되고, 나쁜습관만 되기 때문입니다.#@문장구분# 그러므로 이렇게 실천해서 학교폭력예방이 되었으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 605,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.91111,
+      21.777779,
+      18.2
+    ],
+    "essay_scoreT_avg": 21.62963,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "비판의 근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 또한, 영화나 드라마에서 나쁜 짓을 하는 행동을 따라해서 그 행동을 그대로 따라하는 학생들이 많아졌습니다.",
+      "sentence_corr_txt_styling": " 또한, 영화나 드라마에서 나쁜 짓을 하는 행동을 따라해서 그 행동을 그대로 따라하는 학생들이 많아졌습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것만이 아니라 앱애서도 많이 학교폭력이 많이 발생하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "비판의 근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이것만이 아니라 <문법_맞춤법>엡</문법_맞춤법>애서도 많이 학교폭력이 많이 발생하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 셋째, 습관적으로 친구를 때리지 않고, 그 친구가 뭘 잘못했는지 먼저 말하고 무조건 때리지만 말고, 말로 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 셋째, 습관적으로 친구를 때리지 않고, 그 친구가 뭘 잘못했는지 먼저 말하고 무조건 때리지만 말고, <문법_맞춤법>말로한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜나하면 무조건 때리면 학교에서도 상담해야 되고, 나쁜 습관만 되기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜나하면 무조건 때리면 학교에서도 <문법_맞춤법>상담해야되고, 나쁜습관만</문법_맞춤법> 되기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그러므로 이렇게 실천해서 학교폭력예방이 되었으면 좋겠습니다.",
+      "sentence_corr_txt_styling": " 그러므로 이렇게 실천해서 학교폭력예방이 되었으면 좋겠습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38152",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 406,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

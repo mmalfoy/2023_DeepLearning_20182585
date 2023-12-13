@@ -1,0 +1,314 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘 매우 활발적이고 거의 안 쓰는 사람이 없을 정도로 우리에게 일상화가 되어있는 SNS인 페이스북, 인스타그램, 트위터 등등에서 사이버 폭력이 점점 더 커지고 있다.#@문장구분# 사이버 폭력도 무서운 이유는 먼저 SNS를 하는 사람은 전국에서 할만큼 매우 많다.#@문장구분# 그래서 사이버 폭력을 당하는 친구가 인터넷에 올라가서 많은 사람들의 웃음거리가 될 수 있다.#@문장구분# 그리고 만약에 사이버 폭력을 당하는 친구가 폭력을 당하는 것을 찍지 않고 오히려 가해자와 메시지를 나눈 것을 지웠다면 가해자를 처벌 할 수도 없기 때문입니다.#@문장구분# 요즘같은 코로나 때문에 밖에 못 나가서 온라인으로 수업 한다면 사이버 폭력은 나날이 증가 할 것이다.#@문장구분# 사이버 폭력이 오히려 더 심할 수 있다.#@문장구분# 그냥 학폭이 더 심할 수 있겠지만 사이버 폭력은 그냥 학폭과도 비슷하게 거부를 할 수 없다.#@문장구분# 왜냐하면 SNS에는 메시지를 할 수 있는 앱이 나오는데 거기서 사이버 폭력을 당하는 학생을 괴롭히기 위해서 메시지방을 만들고 강제로 계속 초대 하여서 거절 해도 거절을 못 하게 하면서 계속 괴롭힐 것이다.#@문장구분# 진짜 나는 사이버 폭력이 제일 무서운 것이 사람들의 입 소문 이라고 생각한다.#@문장구분# 내가 한번 인터넷에 떠 돈다면, 많은 사람들이 보고 비웃을 것이다.#@문장구분# 그리고 만일 전학을 간다고 해도 이미 널리 뿌려져 있어서 전학가도 또 똑같이 당할 수도 있다.#@문장구분#",
+      "paragraph_len": 883,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      20,
+      14
+    ],
+    "essay_scoreT_avg": 18,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "불필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_기타>요즘 매우 활발적이고 거의 안 쓰는 사람이 없을 정도로</스타일링_기타> 우리에게 일상화가 되어있는 SNS인 페이스북, 인스타그램, 트위터 등등에서 사이버 폭력이 점점 더 커지고 있다.",
+      "sentence_corr_txt_styling": "요즘 거의 안 쓰는 사람이 없을 정도로 우리에게 일상화가 되어있는 SNS인 페이스북, 인스타그램, 트위터 등등에서 사이버 폭력이 점점 더 커지고 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사이버 폭력이 무서운 이유는 SNS를 하는 사람이 매우 많기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_조사>사이버 폭력도 무서운 이유는</문법_조사> <문법_담화 맥락 오류>먼저 SNS를 하는 사람은 전국에서 할만큼 매우 많다.</문법_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 만약에 사이버 폭력을 당하는 친구가 폭력을 당하는 것을 찍지 않고 오히려 가해자와 나눈 메시지를 지웠다면 증거가 사라져  가해자를 처벌 할 수도 없기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 만약에 사이버 폭력을 당하는 친구가 폭력을 당하는 것을 찍지 않고 오히려 <문법_어순><문법_담화 맥락 오류>가해자와 메시지를 나눈 것을 지웠다면</문법_담화 맥락 오류></문법_어순> 가해자를 처벌 할 수도 없기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘같이 코로나 때문에 밖에 못 나가서 온라인으로 수업 한다면 사이버 폭력은 나날이 증가할 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_조사>요즘같은</문법_조사> 코로나 때문에 밖에 못 나가서 온라인으로 수업 한다면 사이버 폭력은 나날이 <문법_맞춤법>증가 할</문법_맞춤법> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "문장 성분 부족"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>사이버 폭력이 오히려 더 심할 수 있다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 사이버 폭력이 일반적이 학교 폭력보다 오히려 더 심할 수도 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일반적인 학교 폭력이 더 심할 수 있겠지만 사이버 폭력은 일반적인 학교 폭력과도 비슷하게 거부를 할 수 없다.",
+      "sentence_corr_reason": [
+        "줄임말 사용"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그냥 <문법_기타>학폭이</문법_기타> 더 심할 수 있겠지만 사이버 폭력은 그냥 학폭과도 비슷하게 거부를 할 수 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 SNS로 사이버 폭력을 당하는 학생을 괴롭히기 위해서 메시지방을 만들고 강제로 계속 초대하여 거절해도 거절을 못 하게 하면서 계속 괴롭힐 것이기 때문이다.",
+      "sentence_corr_reason": [
+        "불필요",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <스타일링_기타>왜냐하면 SNS에는 메시지를 할 수 있는 앱이 나오는데 거기서</스타일링_기타> 사이버 폭력을 당하는 학생을 괴롭히기 위해서 메시지방을 만들고 강제로 계속 <문법_맞춤법><문법_어미>초대 하여서</문법_어미></문법_맞춤법> 거절 해도 거절을 못 하게 하면서 계속 괴롭힐 것이다.",
+      "sentence_corr_txt_styling": " 왜냐하면 SNS로 사이버 폭력을 당하는 학생을 괴롭히기 위해서 메시지방을 만들고 강제로 계속 초대하여 거절해도 거절을 못 하게 하면서 계속 괴롭힐 것이기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "불필요",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_기타>진짜 나는</스타일링_기타> <스타일링_담화 맥락 오류>사이버 폭력이 제일 무서운 것이</스타일링_담화 맥락 오류> 사람들의 입 소문 이라고 생각한다.",
+      "sentence_corr_txt_styling": " 나는 사이버 폭력이 제일 무서운 이유가 사람들의 입소문 때문이라고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>내가 한번 인터넷에 떠 돈다면</스타일링_담화 맥락 오류></스타일링_맞춤법>, 많은 사람들이 보고 비웃을 것이다.",
+      "sentence_corr_txt_styling": " 내가 만약 인터넷에 떠돈다면, 많은 사람들이 보고 비웃을 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_34984",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 663,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

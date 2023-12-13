@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 살고 싶은 집은 화려한 펜트하우스입니다.#@문장구분# 평 구조는 6０평이고, 방, 거실이 모두 화려한 집입니다.#@문장구분# 방은 약 １0개 정도 되고, 노는 방, 책을 읽는방, 자는 방, 탈의실, 악기 방, 공부 방 화장싱 등의 방이 있습니다.#@문장구분# 악기방은 악기를 다루는 방, 탈의식은 옷갈아 입는 방, 운동방은 운동을 하는 방 이렇게 좋은 특징을 가진 방들이 많습니다.#@문장구분# 색은 화려한 집이고 생김새는 초럭셔리 주택처럼생겼다.#@문장구분# 그래서 제가 살고 싶은 집은 이러한 집입니다.#@문장구분#",
+      "paragraph_len": 371,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18,
+      21.133335,
+      21.666666
+    ],
+    "essay_scoreT_avg": 20.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 평수는 60평이고, 방과 거실이 모두 화려한 집입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징",
+        "조사"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류><스타일링_패러프레이징>평 구조는 6０평이고</스타일링_패러프레이징></스타일링_담화 맥락 오류>, <문법_조사>방,</문법_조사> 거실이 모두 화려한 집입니다.",
+      "sentence_corr_txt_styling": " 평수는 60평이고, 방과 거실이 모두 화려한 집입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 방은 약 １0개 정도 되고, 노는 방, 책을 읽는 방, 자는 방, 탈의실, 악기 방, 공부 방 화장실 등의 방이 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 방은 약 １0개 정도 되고, 노는 방, 책을 <문법_맞춤법>읽는방</문법_맞춤법>, 자는 방, 탈의실, 악기 방, 공부 방 <문법_기타>화장싱</문법_기타> 등의 방이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 악기방은 악기를 다루는 방, 탈의실은 옷을 갈아입는 방, 운동방은 운동을 하는 방 이렇게 좋은 특징을 가진 방들이 많습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 악기방은 악기를 다루는 방, <문법_기타>탈의식은</문법_기타> <문법_맞춤법><문법_조사>옷갈아 입는</문법_조사></문법_맞춤법> 방, 운동방은 운동을 하는 방 이렇게 좋은 특징을 가진 방들이 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 색은 화려하고 생김새는 아주 화려합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 색은 <문법_어미><문법_기타>화려한 집이고</문법_기타></문법_어미> 생김새는 <스타일링_패러프레이징>초럭셔리 주택처럼생겼다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": " 색은 화려하고 생김새는 아주 화려합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40093",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 252,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

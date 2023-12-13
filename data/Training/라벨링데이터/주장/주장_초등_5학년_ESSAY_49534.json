@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 될 것 같다.#@문장구분# 왜냐면 요즘 다른 사람들의 얼굴을 허락없이 쓰고 거짓정보가 빨리 퍼져가서 많은 사람들이 많은 피해를 얻기 때문에 문제가 많이 됩니다.#@문장구분# 또한 요즘 사말률이 높아지고있는데 그 이유중 악플때문인 사례가 많습니다.#@문장구분# 유튜브나 글뎃글들 인터넷 채팅들을 보면 인터넷 협박 욕과 처음보는 사람에게도 반말을 쓰는경우가 많습니다.#@문장구분# 그리고 인터넷 채팅같은걸하면 다른사람들의 감정을 정확하게 알수없어 오해가 생길수있고 다른사람들에게 피해가 갈수도 있습니다.#@문장구분# 물론 인터넷이 발달 되면 더욱 좋은점도 있습니다.#@문장구분#\n 인터넷이 발달되면 무엇이 생겼을때 빠른 정보를 공유할 수있고 직접 말하기 그런 얘기를 인터넷으로 쉽게 말할 수 있는 좋은점이 있습니다.#@문장구분# 그치만 인터넷 문제가 더욱 늘어난다면 더욱 안좋을거 같습니다.#@문장구분# 그러므로 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 될거같다.",
+      "paragraph_len": 620,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.55,
+      24.6,
+      27
+    ],
+    "essay_scoreT_avg": 25.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.17",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "미디어 발전과 사용방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 요즘 다른 사람들의 얼굴을 허락 없이 쓰고 거짓 정보가 빨리 퍼져가서 많은 사람들이 많은 피해를 얻기 때문에 문제가 많이 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐면 요즘 다른 사람들의 얼굴을 허<문법_맞춤법>락없</문법_맞춤법>이 쓰고 거짓정보가 빨리 퍼져가서 많은 사람들이 많은 피해를 얻기 때문에 문제가 많이 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 요즘 사망률이 높아지고 있는데 그 이유 중 악플 때문인 사례가 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 요즘 <문법_맞춤법>사말률이 </문법_맞춤법>높아지고있는데 그 이유중 악플때문인 사례가 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유튜브나 글 뎃글들 인터넷 채팅들을 보면 인터넷 협박 욕과 처음 보는 사람에게도 반말을 쓰는 경우가 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 유튜브나 <문법_맞춤법>글뎃글들 </문법_맞춤법>인터넷 채팅들을 보면 인터넷 협박 욕과 처음보는 사람에게도 반말을 쓰는경우가 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 인터넷 채팅 같은 걸 하면 다른 사람들의 감정을 정확하게 알 수 없어 오해가 생길 수 있고 다른 사람들에게 피해가 갈 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 인터넷 <문법_맞춤법>채팅같은걸하면 </문법_맞춤법>다른사람들의 감정을 정확하게 알수없어 오해가 생길수있고 다른사람들에게 피해가 갈수도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 인터넷이 발달되면 더욱 좋은 점도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 인터넷이 <문법_맞춤법>발달 되면 더욱 좋은점도</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 인터넷이 발달되면 무엇이 생겼을 때 빠른 정보를 공유할 수 있고 직접 말하기 그런 얘기를 인터넷으로 쉽게 말할 수 있는 좋은 점이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 인터넷이 발달되면 무엇이 <문법_맞춤법>생겼을때</문법_맞춤법> 빠른 정보를 공유할 수있고 직접 말하기 그런 얘기를 인터넷으로 쉽게 말할 수 있는 좋은점이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 인터넷 문제가 더욱 늘어난다면 더욱 안 좋을 거 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그치만 </문법_맞춤법>인터넷 문제가 더욱 늘어난다면 더욱 안좋을거 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 될 거 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 <문법_맞춤법>될거같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49534",
+    "essay_prompt": " 미디어는 우리 주변에서 쉽게 찾아볼 수 있습니다. 그중 텔레비전과 라디오, 컴퓨터, 스마트폰 등이 대표적인 미디어라고 할 수 있지요. 사람들은 이 미디어를 이용해 자신의 의사나 감정, 또는 정보를 주고받습니다.\n\n 과거에는 생각이나 뜻을 전하기 위해 말을 이용해 전달해야 했지만, 지금은 SNS(페이스북, 카카오톡 등)를 통해 실시간으로 대화하며 화상 채팅을 무료로 즐기는 시대가 되었습니다. 여러분도 가족/친구들과 SNS를 통해 많은 소통을 하고 계시지요?\n\n 이러한 미디어는 매우 빠른 속도로 진화를 거듭하고 있어요. 앞으로도 더욱 우리 생활 깊숙이 파고들 것입니다.\n\n 다만, 미디어의 발전은 수많은 문제의 원인이 되기도 해요. 다른 사람의 얼굴을 SNS에 올리거나 악플로 남에게 상처 되는 말을 하기도 하지요. 또한, 틀린 정보가 빠르게 퍼져 나가 사람들에게 해를 끼치기도 한답니다.\n\n 이렇게 빠르게 변화하는 미디어의 발 전속에서 우리는 어떻게 미디어를 사용해야 할까요?\n\n 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 할까요? 아니면 새로운 시대에 맞게 모든 자유를 보장해야 할까요? 그 사이에 적절한 사용 방법이 있을까요? 여러분의 의견과 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 461,
+    "essay_main_subject": "미디어 발전과 사용방법"
+  }
+}

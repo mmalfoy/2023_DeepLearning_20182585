@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 학교폭력을 예방하는 방법은 법을 만들면 좋겠습니다.#@문장구분# 외냐하면 장난친 친구는 장난이라고 하겠지만 당한 친구는 지울 수 없는 기억이 될수있고 강력한 법이 없으니까 더 많이 일어나고 있슴으로 법을 만들고 그법은 벌금과 정신적인 피해보자을 지불하는 법이 있어야 합니다.#@문장구분# 두번째로는 학교폭력을 당하는 친구를 무시한 친구를 처벌하는제도가 있으면 좋겠습니다.#@문장구분# 외냐하면 학교폭력 피해자는 무서고 두려운데 선생님께 말씀 들이면 학교폭력을 더 강하게 하는데 털어노을 사람도 없는데 선생님께 다시 말씀 들이면 증거가 없어들어주시지 않는 선생님들이 조금 있기때문에 학교폭력 당하고 있는 친구를 지킬 수 있는 유힐한 희망이 없어지고 나도 당할까봐 무서워서 말을 못하고 입을 꾹 다물어서 청소나 시나 그리고 봉사들 벌을 내리면 좋겠다.#@문장구분#",
+      "paragraph_len": 480,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          1,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.422222,
+      16.11111,
+      17.577778
+    ],
+    "essay_scoreT_avg": 16.703703,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          1,
+          0,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 외냐하면 장난친 친구는 장난이라고 하겠지만 당한 친구는 지울 수 없는 기억이 될수있고 강력한 법이 없으니까 더 많이 일어나고 있슴으로 법을 만들고 그법은 벌금과 정신적인 피해보자을 지불하는 법이 있어야 합니다.",
+      "sentence_corr_txt_styling": " 외냐하면 장난친 친구는 장난이라고 하겠지만 당한 친구는 지울 수 없는 기억이 될수있고 강력한 법이 없으니까 더 많이 일어나고 있슴으로 법을 만들고 그법은 벌금과 정신적인 피해보자을 지불하는 법이 있어야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째로는 학교폭력을 당하는 친구를 무시한 친구를 처벌하는 제도가 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째</문법_맞춤법>로는 학교폭력을 당하는 친구를 무시한 친구를 처벌하는제도가 있으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 외냐하면 학교폭력 피해자는 무서고 두려운데 선생님께 말씀 들이면 학교폭력을 더 강하게 하는데 털어노을 사람도 없는데 선생님께 다시 말씀 들이면 증거가 없어들어주시지 않는 선생님들이 조금 있기때문에 학교폭력 당하고 있는 친구를 지킬 수 있는 유힐한 희망이 없어지고 나도 당할까봐 무서워서 말을 못하고 입을 꾹 다물어서 청소나 시나 그리고 봉사들 벌을 내리면 좋겠다.",
+      "sentence_corr_txt_styling": " 외냐하면 학교폭력 피해자는 무서고 두려운데 선생님께 말씀 들이면 학교폭력을 더 강하게 하는데 털어노을 사람도 없는데 선생님께 다시 말씀 들이면 증거가 없어들어주시지 않는 선생님들이 조금 있기때문에 학교폭력 당하고 있는 친구를 지킬 수 있는 유힐한 희망이 없어지고 나도 당할까봐 무서워서 말을 못하고 입을 꾹 다물어서 청소나 시나 그리고 봉사들 벌을 내리면 좋겠다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63595",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 403,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

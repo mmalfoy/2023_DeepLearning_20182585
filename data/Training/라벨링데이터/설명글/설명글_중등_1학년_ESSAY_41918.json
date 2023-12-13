@@ -1,0 +1,444 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 초등학교 1학년때 다리를떠는 안좋은 습관이있었습니다.#@문장구분# 이습관은 옛부터 안좋은습관이었는데요.#@문장구분# 어렸을떄 하루마다해서 아버지한테혼날정도였죠.#@문장구분# 그러기에 다짐했습니다.#@문장구분# 하지않고 다른 좋은습관을 찾기로요.#@문장구분# 일단 다리를떠는 습관은 수업시간에 집중을안하거나, 졸고있을게뻔하기에 저희는 집중을하고 악착까치 버텼습니다.#@문장구분# 그결과 저는 더이상 떨지않게되었죠.#@문장구분# 하지만친구들은 중1이 되어서도 떠는걸고치지않았죠.#@문장구분# 정말 고쳐져서 속이후련했습니다.#@문장구분#",
+      "paragraph_len": 417,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 좋은 습관은 무엇이있을까요?#@문장구분# 저는 이렇게 생각합니다.#@문장구분# 아침먹는 습관을 저는 제인생에 제일 좋은습관이라 생각합니다.#@문장구분# 저의 부모님또한 그렇게 생각하십니다.#@문장구분# 저의 아침먹는 습관은 두살때부터 시작했습니다.#@문장구분# 저의 부모님은 아침부터 바빠도 저의 이유식은 매일 챙겨주셨습니다.#@문장구분# 그리고 유치원때도, 초딩때도, 심지어 지금까지도 아침을먹고있습니다.#@문장구분# 여러분이생각하시기에는 '뭐야 별거없네?'라고 생각하실수 있습니다.#@문장구분# 다만 의외로 어렵습니다.#@문장구분# 저는 만약에 아침을 먹으면 학교에늦어도 아침은 먹고갑니다.#@문장구분# 그리고 이 아침밥은 주말에도 먹어야 습관이기에 저는 빠지지않고 먹습니다.#@문장구분# 제가 안먹은 날은 10손가락을꼽힙니다.#@문장구분# 저는아직도 지켜오고있으며 나중에 어른이되어도 저는 아침밥을 먹을것 같습니다.#@문장구분#",
+      "paragraph_len": 636,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      23.15,
+      23.15,
+      25.15
+    ],
+    "essay_scoreT_avg": 23.816666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 초등학교 1학년 때 다리를 떠는 안 좋은 습관이 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 초등학교 <문법_맞춤법>1학년때 다리를떠는</문법_맞춤법> 안좋은 습관이있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 습관은 예부터 안 좋은 습관이었는데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이습관은</문법_맞춤법> 옛부터 안좋은습관이었는데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어렸을 때 하루마다 해서 아버지께 혼날 정도였죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어렸을떄</문법_맞춤법> 하루마다해서 아버지한테혼날정도였죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지 않고 다른 좋은 습관을 찾기로요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>하지않고</문법_맞춤법> 다른 좋은습관을 찾기로요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 다리를 떠는 습관은 수업시간에 집중을 안 하거나, 졸고 있을게 뻔하기에 저는 집중을 하고 악착같이 버텼습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단 <문법_맞춤법>다리를떠는</문법_맞춤법> 습관은 수업시간에 집중을안하거나, 졸고있을게뻔하기에 저희는 집중을하고 악착까치 버텼습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 결과 저는 더 이상 떨지 않게 되었죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그결과 </문법_맞춤법>저는 더이상 떨지않게되었죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 친구들은 중1이 되어서도 떠는 걸 고치지 않았죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>하지만친구들은 </문법_맞춤법>중1이 되어서도 떠는걸고치지않았죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 고쳐져서 속이 후련했습니다.",
+      "sentence_corr_reason": [
+        "",
+        "주어?"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 정말 고쳐져서 <문법_맞춤법>속이후련했습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 정말 고쳐져서 속이 후련했습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침 먹는 습관을 저는 제 인생에 제일 좋은 습관이라 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아침먹는</문법_맞춤법> 습관을 저는 제인생에 제일 좋은습관이라 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저의 아침 먹는 습관은 두 살 때부터 시작했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저의 <문법_맞춤법>아침먹는</문법_맞춤법> 습관은 두살때부터 시작했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 유치원 때도, 초딩 때도, 심지어 지금까지도 아침을 먹고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>유치원때도</문법_맞춤법>, 초딩때도, 심지어 지금까지도 아침을먹고있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분이 생각하시기에는 '뭐야 별거 없네?'라고 생각하실 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>여러분이생각하시기에는 </문법_맞춤법>'뭐야 별거없네?'라고 생각하실수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 만약에 아침을 먹으면 학교에 늦어도 아침은 먹고 갑니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 저는 만약에 아침을 먹으면 <문법_맞춤법>학교에늦어도</문법_맞춤법> 아침은 먹고갑니다.",
+      "sentence_corr_txt_styling": " 저는 만약에 아침을 먹으면 학교에 늦어도 아침은 먹고 갑니다.",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 이 아침밥은 주말에도 먹어야 습관이기에 저는 빠지지 않고 먹습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 이 아침밥은 주말에도 먹어야 습관이기에 저는 <문법_맞춤법>빠지지않고 </문법_맞춤법>먹습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 안 먹은 날은 10손가락에 꼽힙니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 <문법_맞춤법>안먹은 </문법_맞춤법>날은 10손가락을꼽힙니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 아직도 지켜오고 있으며 나중에 어른이 되어도 저는 아침밥을 먹을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저는아직도</문법_맞춤법> 지켜오고있으며 나중에 어른이되어도 저는 아침밥을 먹을것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_41918",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 616,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

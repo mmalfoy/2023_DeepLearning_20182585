@@ -1,0 +1,395 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미?#@문장구분# \n 나의 취미는 곰곰히 생각해 봐도 없는 것같다. #@문장구분#뜨개질, 역사 책 읽기, 등 좋아하는 활동은 있지만, 자주하지않아 취미는 아닌 것같다.#@문장구분# \n 내가 해보고 싶은 활동은 어떤 것일지 생각해보고 적어보려고 한다.#@문장구분# \n 내가 해보고 싶은 활동은 첫째, 초상화 그리기. #@문장구분#내가 직접 가족 초상화를 그리고 싶어서 초상화 그리기를 해보고 싶다.#@문장구분# \n 둘째, 한국사 공부하기. #@문장구분#한국사 책을 보면 책마다 같은 상황을 설명한 것에 디테일이 조금씩 달라서 한국사를 다 배워보고 싶다.#@문장구분# \n 셋째, 요리하기.#@문장구분# 아직은 불을 다루는게 무서워서 엄마를 도와 요리를 하지만 처음부터 끝까지 도움 받지않고 요리를 해보고 싶다.#@문장구분#\n 이번에는 내가 만들고 싶은 취미다.#@문장구분#\n 첫째, 책읽기.#@문장구분# 나는 책읽기를 좋아하게 됬으면 좋겠다.#@문장구분# \n 둘째, 공부하기.#@문장구분# 학원, 학교에서 공부하는 것은 좋아하지만 집에서 공부하는 것이 귀찮기 때문에 집에서도 열심히 공부하게 됬으면 좋겟다.#@문장구분# \n 셋째, 책을 읽으면서 메모를 하는 취미를 같고싶다.#@문장구분# 메모를 하게 되면 책의 내용을 더 잘 기억할 수 있을 것같기 때문에 책을 읽으면서 메모하는 습관이자 취미를 같고싶다.",
+      "paragraph_len": 884,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.733334,
+      22.733334,
+      21.933334
+    ],
+    "essay_scoreT_avg": 21.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 취미는?",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "나의 <문법_조사>취미</문법_조사>?",
+      "sentence_corr_txt_styling": "나의 취미는?",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 나의 취미는 곰곰이 생각해 봐도 없는 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 나의 취미는 <문법_맞춤법>곰곰히</문법_맞춤법> 생각해 봐도 없는 것같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "뜨개질, 역사 책 읽기 등 좋아하는 활동은 있지만, 자주 하지 않아 취미는 아닌 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "뜨개질, 역사 책 <문법_맞춤법>읽기, 등</문법_맞춤법> 좋아하는 활동은 있지만, 자주하지않아 취미는 아닌 것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 내가 해보고 싶은 활동은 어떤 것일지 생각해 보고 적어보려고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 내가 해보고 싶은 활동은 어떤 것일지 <문법_맞춤법>생각해보고</문법_맞춤법> 적어보려고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 내가 해보고 싶은 활동은 첫째, 초상화 그리기이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " \n 내가 해보고 싶은 활동은 첫째, 초상화 <문법_어미>그리기.</문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "내가 직접 가족 초상화를 그리고 싶어서 초상화 그리기를 해보고 싶다.",
+      "sentence_corr_txt_styling": "내가 직접 가족 초상화를 그리고 싶어서 초상화 그리기를 해보고 싶다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 둘째, 한국사 공부하기이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " \n 둘째, 한국사 <문법_어미>공부하기</문법_어미>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 셋째, 요리하기이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " \n 셋째, <문법_어미>요리하기</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아직은 불을 다루는 게 무서워서 엄마를 도와 요리를 하지만 처음부터 끝까지 도움받지 않고 요리를 해보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아직은 불을 <문법_맞춤법>다루는게</문법_맞춤법> 무서워서 엄마를 도와 요리를 하지만 처음부터 끝까지 도움 받지않고 요리를 해보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫째, 책 읽기이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "\n 첫째<문법_맞춤법><문법_어미>, 책읽기</문법_어미></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 책 읽기를 좋아하게 되면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>책읽기를 좋아하게 됬으면</문법_맞춤법> 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 둘째, 공부하기이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " \n 둘째, <문법_어미>공부하기</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학원, 학교에서 공부하는 것은 좋아하지만 집에서 공부하는 것이 귀찮기 때문에 집에서도 열심히 공부하게 되면 좋겟다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학원, 학교에서 공부하는 것은 좋아하지만 집에서 공부하는 것이 귀찮기 때문에 집에서도 열심히 공부하게 <문법_맞춤법>됬으면</문법_맞춤법> 좋겟다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 셋째, 책을 읽으면서 메모를 하는 취미를 갖고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 셋째, 책을 읽으면서 메모를 하는 취미를 <문법_맞춤법>같고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 메모를 하게 되면 책의 내용을 더 잘 기억할 수 있을 것 같기 때문에 책을 읽으면서 메모하는 습관이자 취미를 갖고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 메모를 하게 되면 책의 내용을 더 잘 기억할 수 있을 <문법_맞춤법>것같기</문법_맞춤법> 때문에 책을 읽으면서 메모하는 습관이자 취미를 같고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52874",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 567,
+    "essay_main_subject": "나의 취미"
+  }
+}

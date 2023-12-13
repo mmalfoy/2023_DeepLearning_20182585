@@ -1,0 +1,240 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지키기 위해서는 손씻기가 제일 중요하다고 생각한다.#@문장구분# 코로나 바이러스를 막는데는 손씻기가 제일 중요하다고도 말한다.#@문장구분# 전에 보건시간에 보건선생님이 손씻기의 중요성을 알려주셨다. #@문장구분#손을 씻기전 제 손에 있는 세균의 양을 확인하고 손을 씻은후에 손에 남은 세균을 살펴보는 수업이었다.#@문장구분# 손을 씻기전 손에 정말 많은 세균이 있었는데 손을 씻고 와도 세균의 그대로였다.#@문장구분# 내가 평소에 손을 정말 대충 닦는다는 것을 알게돼서 충격을 받았다.#@문장구분# 그날에 보건선생님이 손을 제대로 씻는 법을 알려주셨다.#@문장구분# 나는 지금도 손을 열심히 씻고 손을 대충 씻는 친구가 있으면 손씻기의 중요성을 말해주고 맞는 방법으로 손을 씻을수 있도록 도와준다.#@문장구분# 코로니 바이러스를 막기 위해서는 손씻기가 제일 중요한 방법이라던데 모두 손씻기를 열심히 해서 나의 건강과 다른 사람의 건강을 동시에 지켜 모두 건강하게 살았으면 좋겠다.#@문장구분#",
+      "paragraph_len": 620,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20,
+      20
+    ],
+    "essay_scoreT_avg": 23.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "손을 씻기 전 내 손에 있는 세균의 양을 확인하고 손을 씻은 후에 손에 남은 세균을 살펴보는 수업이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "손을 <문법_맞춤법>씻기전</문법_맞춤법> <문법_높임법>제</문법_높임법> 손에 있는 세균의 양을 확인하고 손을 씻은후에 손에 남은 세균을 살펴보는 수업이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손을 씻기 전 손에 정말 많은 세균이 있었는데 손을 씻고 와도 세균이 그대로였다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 손을 <문법_맞춤법>씻기전</문법_맞춤법> 손에 정말 많은 세균이 있었는데 손을 씻고 와도 <문법_조사>세균의</문법_조사> 그대로였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 평소에 손을 정말 대충 닦는다는 것을 알게 돼서 충격을 받았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 평소에 손을 정말 대충 닦는다는 것을 <문법_맞춤법>알게돼서</문법_맞춤법> 충격을 받았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그날 보건선생님이 손을 제대로 씻는 법을 알려주셨다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " <문법_조사>그날에</문법_조사> 보건선생님이 손을 제대로 씻는 법을 알려주셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 코로나 바이러스를 막기 위해서는 손씻기가 제일 중요한 방법이라던데 모두 손씻기를 열심히 해서 나의 건강과 다른 사람의 건강을 동시에 지켜 모두 건강하게 살았으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>코로니</문법_맞춤법> 바이러스를 막기 위해서는 손씻기가 제일 중요한 방법이라던데 모두 손씻기를 열심히 해서 나의 건강과 다른 사람의 건강을 동시에 지켜 모두 건강하게 살았으면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36066",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 440,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

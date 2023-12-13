@@ -1,0 +1,305 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나도 유튜브와 같은 SNS를 자주 보는데 이런 기사들이나 영상을 보면 정말 황당하다는 생각밖에 안든다.#@문장구분# 아무리 우리 문화의 문화적 경제적 파급력이 크다고 해도 남의  나라 문화를 지들 문화라고 하는 건 상식적으로 이해가 안간다.#@문장구분# 우리 문화를 지키기 위해 인터넷상에서 끊임없이 논쟁할 수 있지만 계속 이런 논쟁만 하다보면 의미 없는 싸움만 길어질거 같다.#@문장구분# 중국도 자기네들 SNS에 '한푸 챌린지'라면서 올리는 것처럼 우리도 인스타그램에 '한복챌린지'라고 올릴 수도 있을 거 같다.#@문장구분# 한복, 김치와 같은 전통문화는 그것에 대한 역사를 자세히 알아보는게 좋을거같다.#@문장구분# 왜냐하면 이런 문제는 역사를 주로 따지는거 같아서 이다.#@문장구분# 또 문화행사 같은데가서 체험해보는 것도 좋을 거 같다.#@문장구분# 행사에서 우리가 몰랐던 것도 배우고 또 직접 체험하면 애착심이런게 더 높아질거 같기 때문이다.#@문장구분# 나도 나중에 시간 날때 친구들이랑 문화 체험 한 번해보면 좋을거 같다.#@문장구분#",
+      "paragraph_len": 648,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.555555,
+      22.077778,
+      23.41111
+    ],
+    "essay_scoreT_avg": 21.68148,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "한류를 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나도 유튜브와 같은 SNS를 자주 보는데 이런 기사들이나 영상을 보면 정말 황당하다는 생각밖에 안 든다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나도 유튜브와 같은 SNS를 자주 보는데 이런 기사들이나 영상을 보면 정말 황당하다는 생각밖에 <문법_맞춤법>안든다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무리 우리 문화의 문화적 경제적 파급력이 크다고 해도 남의  나라 문화를 자기들 문화라고 하는 건 상식적으로 이해가 안 간다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무리 우리 문화의 문화적 경제적 파급력이 크다고 해도 남의  나라 문화를 <문법_기타>지들</문법_기타> 문화라고 하는 건 상식적으로 이해가 <문법_맞춤법>안간다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리 문화를 지키기 위해 인터넷상에서 끊임없이 논쟁할 수 있지만 계속 이런 논쟁만 하다 보면 의미 없는 싸움만 길어질 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리 문화를 지키기 위해 인터넷상에서 끊임없이 논쟁할 수 있지만 계속 이런 논쟁만 <문법_맞춤법>하다보면 </문법_맞춤법>의미 없는 싸움만 길어질거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 중국도 자기네들 SNS에 '한푸 챌린지'라고 올리는 것처럼 우리도 인스타그램에 '한복챌린지'라고 올릴 수도 있을 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 중국도 자기네들 SNS에 '한푸 챌린지'<문법_어미>라면서 </문법_어미>올리는 것처럼 우리도 인스타그램에 '한복챌린지'라고 올릴 수도 있을 거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한복, 김치와 같은 전통문화는 그것에 대한 역사를 자세히 알아보는 게 좋을 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한복, 김치와 같은 전통문화는 그것에 대한 역사를 자세히 <문법_맞춤법>알아보는게 </문법_맞춤법>좋을거같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 이런 문제는 역사를 주로 따지는 거 같아서이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 이런 문제는 역사를 주로 <문법_맞춤법>따지는거 같아서 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 문화행사 같은데 가서 체험해 보는 것도 좋을 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 문화행사 <문법_맞춤법>같은데가서 체험해보는</문법_맞춤법> 것도 좋을 거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 행사에서 우리가 몰랐던 것도 배우고 또 직접 체험하면 애착심 이런 게 더 높아질 거 같기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 행사에서 우리가 몰랐던 것도 배우고 또 직접 체험하면 <문법_맞춤법>애착심이런게</문법_맞춤법> 더 높아질거 같기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 나중에 시간 날 때 친구들이랑 문화 체험 한 번 해보면 좋을 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 나중에 시간 <문법_맞춤법>날때 </문법_맞춤법>친구들이랑 문화 체험 한 번해보면 좋을거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_76468",
+    "essay_prompt": " 한류(韓流)는 한국의 대중문화, 즉 한국에서 제작된 영화, 방송, 음악, 패션 등이 해외에서 인기리에 소비되는 문화적 현상입니다. 넓은 의미로는 의·식·주 등 한국 문화 전체를 말하기도 합니다.\n\n 하지만, 최근 중국은 한류의 문화적 경제적 파급력에 주목하며 동북공정의 일환으로 한복, 김치, 비빔밥, 쌈 문화 등을 중국 소수민족의 문화로 편입시키려 하고 있습니다.\n\n SNS에 한국 사람이 한국적인 것을 올리면 '중국의 전통을 대신 알려줘서 고맙다.'던가 '중국의 전통을 마음대로 한국의 것이라 하지 말아라.'라는 댓글을 달고 있습니다.\n\n 중국 방송에서까지 이를 주제로 다루며 한국의 문화와 전통을 중국의 문화라고 주장하고 있습니다.\n\n 이러한 억지 주장을 우리가 가만히 있으면 중국이 그만둘까요? 우리는 중국의 행동에 어떻게 대처해야 할까요?\n\n UN이나 국제적인 기관에 중국의 억지 주장에 대해 호소할 수도 있고, 인터넷상에서 중국인들과 끊임없이 논쟁할 수도 있습니다.\n\n 여러분은 이러한 현상에 대해 어떻게 생각하며 한국문화로서 한류 열풍을 지켜내기 위한 방안이 어떤 것이 있다고 생각하시나요? 본인의 생각을 작성해주세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 469,
+    "essay_main_subject": "한류를 지키는 방법"
+  }
+}

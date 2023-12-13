@@ -1,0 +1,184 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 제 건강을 위해 딱 눈에 띄는 위생의 예방보다는 보이지 않는 면에서 노력을 하고 있습니다.#@문장구분#항생제가 들어있는 약을 내성이 생기지 않도록 방지하고 있습니다.#@문장구분# 예전에 항생재의 뜻을 본 적이 있는데 그 이후로는 자제 하고 있습니다.#@문장구분# 항생제란 '미생물에 의해서 만들어진 물질로써 다른 미생물의 성장이나 생명을 없애는 물질'을 말합니다.#@문장구분#약사님의 말씀으로는 항생제 내성균이 생기면 꼭 항생제가 필요한 질환의 치료에 효과를 보지 못 하는 문제가 일어날 수 있다.#@문장구분#그래서 저는 정말 꼭 필요하지 않은 이상 약을 먹지 않습니다.#@문장구분# 이상으로 저의 위생을 지키는 방법을 소개하였습니다.#@문장구분#",
+      "paragraph_len": 456,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.333334,
+      17.266666,
+      17.152382
+    ],
+    "essay_scoreT_avg": 19.584127,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 예전에 항생제의 뜻을 본 적이 있는데 그 이후로는 자제하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예전에 <문법_맞춤법>항생재의 </문법_맞춤법>뜻을 본 적이 있는데 그 이후로는 자제 하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "약사님의 말씀으로는 항생제 내성균이 생기면 꼭 항생제가 필요한 질환의 치료에 효과를 보지 못하는 문제가 일어날 수 있다고 하셨습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "약사님의 말씀으로는 항생제 내성균이 생기면 꼭 항생제가 필요한 질환의 치료에 효과를 보지<문법_맞춤법> 못 하는 </문법_맞춤법>문제가 일어날 수 <문법_높임법>있다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64057",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 316,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

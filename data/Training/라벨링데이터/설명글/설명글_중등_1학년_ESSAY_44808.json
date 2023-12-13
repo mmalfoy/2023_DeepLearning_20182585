@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "난 아무래도 어렸을 때, 나쁜습관을 고치기위한 노력을 많이 한 것 같은데, 손톱을 물어뜯는 습관을 고치기 위해서 노력했던것도 기억이나고, 인사성이 너무 좋아서 모르는사람에게도 인사를 했어서, 그 습관도 고칠 때 조금 애 먹었었다.#@문장구분# 하지만 피나는(?) 노력끝에 좋지않은 습관들과 이별하고, 지금은 이러지 않기 때문에 나 스스로에게도 뿌듯하고, 나 자신을 발전시키는 수많은 단계들 중 하나를 거쳐가면서 또 하나의 만족감을 느낀다.#@문장구분# 그래서 요즘도 내가 생각하기에 좋지 못한 습관을 지니고 있다는 생각이 들때면, 바로바로 고치기 위해서 노력한다.#@문장구분#",
+      "paragraph_len": 361,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      11.6,
+      21.6,
+      18.95
+    ],
+    "essay_scoreT_avg": 17.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "난 아무래도 어렸을 때, 나쁜 습관을 고치기 위한 노력을 많이 한 것 같은데, 손톱을 물어뜯는 습관을 고치기 위해서 노력했던 것도 기억이 나고, 인사성이 너무 좋아서 모르는 사람에게도 인사를 해서, 그 습관도 고칠 때 조금 애먹었었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "난 아무래도 어렸을 때, <문법_맞춤법>나쁜습관을 고치기위한 노력을 많이 한 것 같은데, 손톱을 물어뜯는 습관을 고치기 위해서 노력했던것도 기억이나고,</문법_맞춤법> 인사성이 너무 좋아서 모르는사람에게도 인사를 했어서, 그 습관도 고칠 때 조금 애 먹었었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 피나는(?) 노력 끝에 좋지 않은 습관들과 이별하고, 지금은 이러지 않기 때문에 나 스스로에게도 뿌듯하고, 나 자신을 발전시키는 수많은 단계들 중 하나를 거쳐가면서 또 하나의 만족감을 느낀다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 피나는(?) <문법_맞춤법>노력끝에 좋지않은</문법_맞춤법> 습관들과 이별하고, 지금은 이러지 않기 때문에 나 스스로에게도 뿌듯하고, 나 자신을 발전시키는 수많은 단계들 중 하나를 거쳐가면서 또 하나의 만족감을 느낀다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 요즘도 내가 생각하기에 좋지 못한 습관을 지니고 있다는 생각이 들 때면, 바로바로 고치기 위해서 노력한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 요즘도 내가 생각하기에 좋지 못한 습관을 지니고 있다는 생각이 <문법_맞춤법>들때면,</문법_맞춤법> 바로바로 고치기 위해서 노력한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44808",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 302,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

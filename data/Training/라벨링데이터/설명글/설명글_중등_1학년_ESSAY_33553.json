@@ -1,0 +1,287 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 참된 스승의 모습은 제자들이 잘 못 하였을땐 엄하게 대하고 제자가 기댈 수 있는 사람인 것 같다.#@문장구분# 그리고 그 모습을 닮은 사람은 2학년 학교 담임 선생님인 것 같다.#@문장구분# 2학년이면 어릴때이지만 기억에 잘 나고 그만큼 좋으신 선생님같다.#@문장구분# 반 아이들이 잘 못 하였을땐 잘 타일러 주시고 친구들이 싸웠을땐 서로 화해하게 도와주시고 기댈 수 있을 만큼 친한 선생님이셨다.#@문장구분# 두번째 선생님은 5학년 학교 담임 선생님이다.#@문장구분# 5학년때는 조금 더 기억이 나는데 되게 잘해주신 것 같다.#@문장구분# 마찬가지로 잘 못 했을땐 엄하게 혼내시고 잘한 일이 있을땐 칭찬도 많이 해주셨고 반 분위기가 좋게 이끌어 가주셨던 것 같다.#@문장구분# 두 선생님분들은 공통점이 있으신 것 같다.#@문장구분# 우리가 잘 못 하였을때 엄하게 대하시는 것도 있지만 다른 선생님들과는 다르게 되게 편안한 느낌이였던 것 같다.#@문장구분# 특히 2학년때는 어릴때임에도 불구하고 선생님께 속마음을 털어 놓을 수 있을만큼 편했고 좋았다.#@문장구분# 다른 선생님분들도 좋았지만 내가 생각한 스승의 모습을 닮은 선생님은 이 두분이신 것 같다.#@문장구분#",
+      "paragraph_len": 748,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      24.4,
+      21.05
+    ],
+    "essay_scoreT_avg": 21.816666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 참된 스승의 모습은 제자들이 잘못하였을땐 엄하게 대하고 힘들 때 제자가 기댈 수 있는 사람인 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "내가 생각하는 참된 스승의 모습은 제자들이 <문법_맞춤법>잘 못 하였을땐</문법_맞춤법> 엄하게 대하고 <문법_기타>제자가</문법_기타> 기댈 수 있는 사람인 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 그 모습을 닮은 사람은 2학년 학교 담임 선생님이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그리고 그 모습을 닮은 사람은 2학년 학교 담임 <문법_조사>선생님인 것 같다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2학년이면 어릴때이지만 기억이 잘 나고 그만큼 좋으신 선생님이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 2학년이면 어릴때이지만 기억에 잘 나고 그만큼 좋으신 <문법_조사>선생님같다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반 아이들이 잘못하였을땐 잘 타이르시고 친구들이 싸웠을 땐 서로 화해하게 도와주시고 기댈 수 있을 만큼 친한 선생님이셨다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 반 아이들이 <문법_맞춤법>잘 못 하였을땐</문법_맞춤법> 잘 <문법_어미>타일러 주시고</문법_어미> 친구들이 싸웠을땐 서로 화해하게 도와주시고 기댈 수 있을 만큼 친한 선생님이셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째 선생님은 5학년 학교 담임 선생님이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째</문법_맞춤법> 선생님은 5학년 학교 담임 선생님이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마찬가지로 잘못 했을땐 엄하게 혼내시고 잘한 일이 있을 땐 칭찬도 많이 해주셨고 반 분위기를 좋게 이끌어 가주셨던 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 마찬가지로 <문법_맞춤법>잘 못</문법_맞춤법> 했을땐 엄하게 혼내시고 잘한 일이 있을땐 칭찬도 많이 해주셨고 반 <문법_조사>분위기가</문법_조사> 좋게 이끌어 가주셨던 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 2학년때는 어릴때임에도 불구하고 선생님께 속마음을 털어놓을 수 있을만큼 편했고 좋았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 특히 2학년때는 어릴때임에도 불구하고 선생님께 속마음을 <문법_맞춤법>털어 놓을 수</문법_맞춤법> 있을만큼 편했고 좋았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 선생님들도 좋았지만 내가 생각한 스승의 모습을 닮은 선생님은 이 두분이신 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 다른 <문법_기타>선생님분들도</문법_기타> 좋았지만 내가 생각한 스승의 모습을 닮은 선생님은 이 두분이신 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33553",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 528,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "엄마랑 시내를 나가려고 버스를 탔는데 할머니 께서 힘들게 계단을 올라오셨다.#@문장구분#그래서 나는 의자에 앉아 있다가 얼른 할머니께 자리를 양보해 드렸다.#@문장구분# 그런데 할머니 께서 고맙지만 조금만 가시면 내리신다고 그냥 앉아 있으라고 하셨다.#@문장구분# 그리고 자리를 양보해 주어서 고맙다고 하셨다.#@문장구분#나는 기분이 좋았다.#@문장구분# 내가평소에 모르는사람이었지많 나보다 어른이시기에 그냥 높인말이 나왔고 자리를 양보해드려야 겟다를 생각이 들었을 뿐이다.#@문장구분# 평소에 우리집을 아빠나 엄마께 존댓말을 쓰지를않지만 어른들께 높인말을 사용해야한다고 배웟다. #@문장구분#시골 큰집에 갔을때도 큰아버지께 나 큰어머니께는 존댓말을 사용해 버릇해서 존댓말이 어렵지는 않은데 가끔 친구들과 얘기할때 어른들게 사용했던 존댓말에 대해 얘기해 보았는데 다른 친구들은 존댓말이 너무 어렵다고 한다.#@문장구분# 처음보는 어른들이 무조건 우리들에게 반말을 사용하시는건 기분이 나쁠때가 있다. #@문장구분#그래서 어른들도 어느정도 친해진 상태에서는 반말을 하셔도 그렇지 않으면 존댓말을 써 주시면 좋겟다.#@문장구분#",
+      "paragraph_len": 702,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.733334,
+      21.133335,
+      18.047619
+    ],
+    "essay_scoreT_avg": 17.97143,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "엄마랑 시내를 나가려고 버스를 탔는데 할머니께서 힘들게 계단을 올라오셨다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "엄마랑 시내를 나가려고 버스를 탔는데 <문법_맞춤법>할머니 께서</문법_맞춤법> 힘들게 계단을 올라오셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 할머니께서 고맙지만 조금만 가시면 내리신다고 그냥 앉아 있으라고 하셨다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 <문법_맞춤법>할머니 께서</문법_맞춤법> 고맙지만 조금만 가시면 내리신다고 그냥 앉아 있으라고 하셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 평소에 모르는 사람이었지만 나보다 어른이시기에 그냥 높임말이 나왔고 자리를 양보해 드려야 겠다는 생각이 들었을 뿐이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>내가평소에 모르는사람이었지많 나보다 어른이시기에 그냥 높인말이 나왔고 자리를 양보해드려야 겟다를</문법_맞춤법> 생각이 들었을 뿐이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 평소에 우리 집은 아빠나 엄마께 존댓말을 쓰지를 않지만 어른들께 높임말을 사용해야 한다고 배웠다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 평소에 <문법_맞춤법>우리집을 아빠나 엄마께 존댓말을 쓰지를않지만 어른들께 높인말을 사용해야한다고 배웟다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "시골 큰집에 갔을 때도 큰아버지께나 큰어머니께는 존댓말을 사용해 버릇해서 존댓말이 어렵지는 않은데 가끔 친구들과 얘기할 때 어른들께 사용했던 존댓말에 대해 얘기해 보았는데 다른 친구들은 존댓말이 너무 어렵다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "시골 큰집에 <문법_맞춤법>갔을때도 큰아버지께 나 큰어머니께는 존댓말을 사용해 버릇해서 존댓말이 어렵지는 않은데 가끔 친구들과 얘기할때 어른들게</문법_맞춤법> 사용했던 존댓말에 대해 얘기해 보았는데 다른 친구들은 존댓말이 너무 어렵다고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음 보는 어른들이 무조건 우리들에게 반말을 사용하시는 건 기분이 나쁠 때가 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>처음보는 어른들이 무조건 우리들에게 반말을 사용하시는건 기분이 나쁠때가</문법_맞춤법> 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 어른들도 어느 정도 친해진 상태에서는 반말을 하셔도 그렇지 않으면 존댓말을 써 주시면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 어른들도 <문법_맞춤법>어느정도 친해진 상태에서는 반말을 하셔도 그렇지 않으면 존댓말을 써 주시면 좋겟다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56507",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 503,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

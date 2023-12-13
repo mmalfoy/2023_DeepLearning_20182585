@@ -1,0 +1,267 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 진정한 친구는 힘들때 같이 있어주는것 입니다.#@문장구분# 그리고 친구 란 같이 친하게 지내며 싸워도 화해하고 다시친해지는 것이 친구라고도 생각합니다.#@문장구분# 그러므로 친구란 힘들때 같이 있고 싸워도 다시 화해 하는친구가 진전한 친구라고 생각합니다.#@문장구분#\n그리고 제가 친구들에게 어떤 친구가 안돼었으면 한다면 전 친구들에게 정이없고 나쁜 친구가 안돼 었으면 좋겠습니다#@문장구분# 정이없는거짓 이란 친구가 힘들때 무시를 하고 자기자신만 생각하는것입니다#@문장구분# 그리고 나쁜친구란 상대의 생각을 듣지않고 자기자신의 생각만이 옳다고 생각하는것 입니다.#@문장구분#\n 그러므로 전 그런 친구가 되지 않기 위해 친구를 배려하며 친구를 존중하는 사람이 되고 친구에게 관심이 만은 친구가 되겠 습니다.#@문장구분#",
+      "paragraph_len": 501,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      22.1,
+      24.3
+    ],
+    "essay_scoreT_avg": 22.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 진정한 친구는  힘들 때 같이 있어주는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 생각하는 진정한 친구는<문법_맞춤법> 힘들때 같이 있어주는것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구란 같이 친하게 지내며 싸워도 화해하고 다시 친해지는 것이 친구라고도 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>친구 란 </문법_맞춤법>같이 친하게 지내며 싸워도 화해하고 다시친해지는 것이 친구라고도 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 친구란 힘들 때 같이 있고 싸워도 다시 화해하는 친구가 진전한 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 친구란 <문법_맞춤법>힘들때</문법_맞춤법> 같이 있고 싸워도 다시 화해 하는친구가 진전한 친구라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그리고 제가 친구들에게 어떤 친구가 안 되었으면 한다면 전 친구들에게 정이 없고 나쁜 친구가 안 되었으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "\n그리고 제가 친구들에게 어떤 친구가<문법_맞춤법> 안돼었으면</문법_맞춤법> 한다면 전 친구들에게 정이없고 나쁜 친구가 안돼 었으면 <문법_기타>좋겠습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정이 없는 거짓 이란 친구가 힘들 때 무시를 하고 자기 자신만 생각하는 것입니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>정이없는거짓</문법_맞춤법> 이란 친구가 힘들때 무시를 하고 <문법_기타>자기자신만 생각하는것입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나쁜 친구란 상대의 생각을 듣지 않고 자기 자신의  생각만이 옳다고 생각하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>나쁜친구란</문법_맞춤법> 상대의 생각을 듣지않고 자기자신의 생각만이 옳다고 생각하는것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그러므로 전 그런 친구가 되지 않기 위해 친구를 배려하며 친구를 존중하는 사람이 되고 친구에게 관심이 많은 친구가 되겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그러므로 전 그런 친구가 되지 않기 위해 친구를 배려하며 친구를 존중하는 사람이 되고 친구에게 <문법_맞춤법>관심이 만은</문법_맞춤법> 친구가 되겠 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52493",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 361,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

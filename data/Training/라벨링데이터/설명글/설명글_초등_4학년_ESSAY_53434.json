@@ -1,0 +1,287 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주제:\n 학습과 여가활동#@문장구분#",
+      "paragraph_len": 33,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 내가 배우는 과목은 국어,수학,사회 ,과학,체육,음악,미술,영어를 배운다.#@문장구분# 국어 시간에는 받침에 대해 배운다.#@문장구분# 영어는 몸에 대한 영어를 배운다. 수학은 분수를 배운다.#@문장구분# 사회는 소비에서 배운다.#@문장구분# 체육에는 줄넘기도 하고,피구도 한다. #@문장구분#음악시간에는 음악에 대한걸 배운다.#@문장구분# 미술에는 검은도와 지로 이쑤시개 로 그림을 그린다.#@문장구분# 과학시간에는 거울과 그림자를 배운다. #@문장구분#또 도덕은 배운다.#@문장구분# 도덕시간에는 예절에 대해서 배운다.#@문장구분# 나의 취미는  핸드폰 하기, 보드 게임하기, 윷놀이하기 만들기 하기, 그림그리기, 종이접기 핸드폰 게임 하기가 있다.#@문장구분# 앞으로 공부를 열심히 하겠다.#@문장구분#",
+      "paragraph_len": 553,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      18.666668,
+      17.6,
+      16.8
+    ],
+    "essay_scoreT_avg": 17.68889,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.20",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 사회는 소비에서 배운다.",
+      "sentence_corr_txt_styling": " 사회는 소비에서 배운다.",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 체육에는 줄넘기도 하고, 피구도 한다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 체육에는 줄넘기도 <문법_맞춤법>하고,피구도</문법_맞춤법> 한다. ",
+      "sentence_corr_txt_styling": " 체육에는 줄넘기도 하고, 피구도 한다. ",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": "음악시간에는 음악에 대한 걸 배운다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "음악시간에는 음악에 <문법_맞춤법>대한걸</문법_맞춤법> 배운다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술에는 검은 도화지와 이쑤시개로 그림을 그린다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 미술에는 <문법_맞춤법><문법_조사>검은도와 지로</문법_조사></문법_맞춤법> 이쑤시개 로 그림을 그린다.",
+      "sentence_corr_txt_styling": " 미술에는 검은 도화지와 이쑤시개로 그림을 그린다.",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 도덕도 배운다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "또 <문법_조사>도덕은 </문법_조사>배운다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나의 취미는  핸드폰 하기, 보드 게임하기, 윷놀이 하기, 만들기, 그림 그리기, 종이접기, 핸드폰 게임 하기가 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나의 취미는  핸드폰 하기, 보드 게임하기, <문법_맞춤법>윷놀이하기 만들기 하기,</문법_맞춤법> 그림그리기, 종이접기 핸드폰 게임 하기가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53434",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 330,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

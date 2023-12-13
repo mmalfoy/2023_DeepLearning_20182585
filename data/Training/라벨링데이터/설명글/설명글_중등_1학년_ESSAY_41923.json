@@ -1,0 +1,389 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 옛날부터 치약 뚜껑을 잘 닫지않는 습관이 있습니다.#@문장구분# 세살 버릇 여든까지 간다는 말이 있지요.#@문장구분# 저는 지금 까지도 잘 고쳐지지 않고 있답니다.#@문장구분# 제가 가지고 있는 좋은 습관은 집중하기입니다.#@문장구분# 저는 무엇에 집중하면 끝까지 가는 그런 습관을 가졌습니다.#@문장구분# 이런 습관을 가지는 것은 상당히 어려웁니다.#@문장구분# 저도 수많은 노력을 거치며 이런 습관을 가지게되었는데요.#@문장구분# 어떤 노력을 거치게 되었는 지 알려드리겠습니다.#@문장구분# 저는 일단 책을 읽는 것부터 시작했습니다.#@문장구분# 책을 읽으며 그속의 주인공이 되기도 하고 그 상황을 즐기며 시간을 보내면 나도 모르게 한권을 다 읽어있습니다.#@문장구분# 만약 소설이 싫다면 만화책도 괜찮습니다.#@문장구분# 제가 읽던 역사 만화책에서 한국사를 배워 사회시간이 되면 제가 알던 내용이 나와 즐겁기만 합니다.#@문장구분# 두번째로는 잠자기 입니다.#@문장구분# 잠자는 것이 과연 도움이 될가 생각하실 수도 있겠지만 잠을 잔다는 것은 제 몸이 쉬는 것이 아닌 제 마음과 뇌가 쉬는 것이기 때문이죠.#@문장구분# 그래서 저는 주말만 되면 푹 잡니다.#@문장구분# 그리고 일어나 아침을 맞이하면 언제나 밝고 깨끗한 모습이 되게 됩니다.#@문장구분# 다음은 제가 한 노력은 아니지만 과학적으로 입증된 방법인데요.#@문장구분# 바로 무의식을 바주는 것 입니다.#@문장구분# 아는 단어로 말하자면 대신 대체할 습관을 만드는 것 입니다.#@문장구분# 대표적으로는 하늘보기 입니다.#@문장구분# 고개 숙이기 보다는 하늘을 보는 습관으로서 더 좋지 않을까요?#@문장구분# 이렇게 저의 노하우를 알려드렸는데요.#@문장구분# 나쁜 습관 애초에 않가지는 편이 더 나은것 같습니다.#@문장구분#",
+      "paragraph_len": 1190,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.15,
+      26.4,
+      28.75
+    ],
+    "essay_scoreT_avg": 26.1,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 옛날부터 치약 뚜껑을 잘 닫지 않는 습관이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 옛날부터 치약 뚜껑을 잘 <문법_맞춤법>닫지않는</문법_맞춤법> 습관이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 살 버릇 여든까지 간다는 말이 있지요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세살</문법_맞춤법> 버릇 여든까지 간다는 말이 있지요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 지금까지도 잘 고쳐지지 않고 있답니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>지금 까지도</문법_맞춤법> 잘 고쳐지지 않고 있답니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 습관을 가지는 것은 상당히 어렵습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 습관을 가지는 것은 상당히 <문법_맞춤법>어려웁니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 수많은 노력을 거치며 이런 습관을 가지게 되었는데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저도 수많은 노력을 거치며 이런 습관을 <문법_맞춤법>가지게되었는데요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어떤 노력을 거치게 되었는지 알려드리겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어떤 노력을 거치게 <문법_맞춤법>되었는 지</문법_맞춤법> 알려드리겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 책을 읽으며 그 속의 주인공이 되기도 하고 그 상황을 즐기며 시간을 보내면 나도 모르게 한 권을 다 읽습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 책을 읽으며 <문법_맞춤법>그속의</문법_맞춤법> 주인공이 되기도 하고 그 상황을 즐기며 시간을 보내면 나도 모르게 한권을 다 읽어있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 읽던 역사 만화책에서 한국사를 배워 사회 시간이 되면 제가 알던 내용이 나와 즐겁기만 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 읽던 역사 만화책에서 한국사를 배워 <문법_맞춤법>사회시간이</문법_맞춤법> 되면 제가 알던 내용이 나와 즐겁기만 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째로는 잠자기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 두번째로는 <문법_맞춤법>잠자기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 잠자는 것이 과연 도움이 될까 생각하실 수도 있겠지만 잠을 잔다는 것은 제 몸이 쉬는 것이 아닌 제 마음과 뇌가 쉬는 것이기 때문이죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 잠자는 것이 과연 도움이 <문법_맞춤법>될가</문법_맞춤법> 생각하실 수도 있겠지만 잠을 잔다는 것은 제 몸이 쉬는 것이 아닌 제 마음과 뇌가 쉬는 것이기 때문이죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바로 무의식을 봐주는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바로 무의식을 <문법_맞춤법>바주는 것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아는 단어로 말하자면 대신 대체할 습관을 만드는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아는 단어로 말하자면 대신 대체할 습관을 만드는 <문법_맞춤법>것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대표적으로는 하늘 보기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대표적으로는 <문법_맞춤법>하늘보기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고개 숙이기보다는 하늘을 보는 습관으로서 더 좋지 않을까요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 고개 <문법_맞춤법>숙이기 보다는 </문법_맞춤법>하늘을 보는 습관으로서 더 좋지 않을까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나쁜 습관은 애초에 안 가지는 편이 더 나은 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나쁜 습관 애초에 <문법_맞춤법>않가지는</문법_맞춤법> 편이 더 나은것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_41923",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 731,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

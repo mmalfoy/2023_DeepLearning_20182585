@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "과학에 관심이 많은 저라서 인공지능과 로봇으로 이루어진 집에서 살고 싶습니다. #@문장구분#저는 아침에 잘 못 일어나는 성격이라서 인공지능으로 얼굴에 미스트를 뿌려주면서 잠을 확 깨워줄 수 있는 인공지능이 있다면 편리하게 잘 일어날 수 있을 것 같다.#@문장구분# 그리고 그 날 입을 옷을 정리해서 한 번에 입을 수 있도록 준다면 이동시간도 줄일 수 있어 지각을 하는 것도 방지 할 수 있습니다.#@문장구분#그렇게 하면 부모님도 집안일 하는 것도 줄어들고 모두가 편리하고 간편하게 살 수 있습니다.#@문장구분# 음식을 각자의 건강에 따라 로봇이 조절해주면서 가족의 건강 모두 회복하면서 행복하게 살 수 있는 집이라고 생각해서, 이런 집에서 살고싶습니다.#@문장구분#",
+      "paragraph_len": 437,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.5714285,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.714287,
+      26.685713,
+      22.847618
+    ],
+    "essay_scoreT_avg": 25.749207,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그리고 그 날 입을 옷을 정리해서 한 번에 입을 수 있도록 준다면 이동시간도 줄일 수 있어 지각을 하는 것도 방지할 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 그 날 입을 옷을 정리해서 한 번에 입을 수 있도록 준다면 이동시간도 줄일 수 있어 지각을 하는 것도 <문법_맞춤법>방지 할</문법_맞춤법> 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 음식을 각자의 건강에 따라 로봇이 조절해주면서 가족의 건강 모두 회복하면서 행복하게 살 수 있는 집이라고 생각해서, 이런 집에서 살고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 음식을 각자의 건강에 따라 로봇이 조절해주면서 가족의 건강 모두 회복하면서 행복하게 살 수 있는 집이라고 생각해서, 이런 집에서 <문법_맞춤법>살고싶습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62524",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 338,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "건강한 몸을 만들려면 올바른 위생방법을 실천해야 합니다. #@문장구분#그중우리가 해야될것은 올바른 식습관, 손씻기, 등이 있다.#@문장구분# \n 이중 식습관은 우리몸에 필요한 영양소를 공급해주에 우리몸에 면역역을 유지해주어 좋은 세포가 많아저 병균이나 바이러스가 우리몸에 들어오는 것을 막아주어 우리몸을 건강하게 할수있다.#@문장구분# \n 또다른 손씨기는 외출을하고 집에들어오면 박에서 만졌던 물건중 세균이 손에뭍에 그걸씻지안코 눈이나 입을만졌을때 세균이나 병균이들어올수 있다.#@문장구분# 그래서 손씨기를 하면 손에 뭍어있는 세균들이 사라저 병이드는걸 막을수있다.#@문장구분# \n 그러지만 손씨기를할때 1분이상 비누로 꼼꼼히 씨서야지 세균이 우리 몸에들어오는 걸막을수있어 손씻기를 열심히해야 한다.",
+      "paragraph_len": 456,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.733334,
+      24.4,
+      19.64762
+    ],
+    "essay_scoreT_avg": 20.926985,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "건강한 몸을 만들려면 올바른 위생 방법을 실천해야 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "건강한 몸을 만들려면 올바른 <문법_맞춤법>위생방법을 </문법_맞춤법>실천해야 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그중 우리가 해야 될 것은 올바른 식습관, 손 씻기, 등이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그중우리가 해야될것은 올바른 식습관, 손씻기</문법_맞춤법>, 등이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 이중 식습관은 우리 몸에 필요한 영양소를 공급해 주에  우리 몸에 면역력을 유지해 주어 좋은 세포가 많아져 병균이나 바이러스가 우리 몸에 들어오는 것을 막아주어 우리 몸을  건강하게  할 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 이중 식습관은 <문법_맞춤법>우리몸에 필요한 영양소를 공급해주에 우리몸에 면역역을 유지해주어 좋은 세포가 많아저 병균이나 바이러스가 우리몸에 들어오는 것을 막아주어 우리몸을 건강하게 할수있</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 또 다른 손 씻기는 외출을 하고  집에 들어오면 밖에서 만졌던 물건 중 세균이 손에 묻어 그걸 씻지 않고 눈이나 입을 만졌을 때 세균이나 병균이 들어 올 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>또다른 손씨기는 외출을하고 집에들어오면 박에서 만졌던 물건중 세균이 손에뭍에 그걸씻지안코 눈이나 입을만졌을때 세균이나 병균이들어올수 있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 손 씻기를 하면 손에 묻어있는 세균들이 사라져 병이 드는 걸  막을 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>손씨기를 하면 손에 뭍어있는 세균들이 사라저 병이드는걸 막을수있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 그러지만 손 씻기를 할 때 1분 이상 비누로 꼼꼼히 씻어야 세균이 우리 몸에 들어오는  걸 막을 수 있어  손 씻기를  열심히 해야  한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 그러지만<문법_맞춤법> 손씨기를할때 1분이상 비누로 꼼꼼히 씨서야지 세균이 우리 몸에들어오는 걸막을수있어 손씻기를 열심히해야 한</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50990",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 356,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

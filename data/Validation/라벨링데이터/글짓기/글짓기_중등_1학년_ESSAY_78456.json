@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 지금 코로나가 유행하고 있고 나중에는 이보다 더한 것이 나올 수 있다고 생각하기 때문에 미래에는 방역이 자동화가 된 도시인 방역도시가 생길 것 같습니다.#@문장구분# 지금 발열체크를 하고 제가 어디를 다녔는지 기록도 해놓습니다. #@문장구분#이것이 일상이 되면 어느 건물을 들어갈때마다 소독제가 입구에서 스프레이처럼 뿌려지고 사람들끼리는 방역복을 입고 생활하고 어쩌면 일을 할 때 모두가 함께 모여있는 공간이 아닌 혼자있는 공간을 사용하게 될 지도 모릅니다. #@문장구분#그리고 이때는 더더욱 온라인 화상회의와 같은 것을 많이 써 온라인으로 하는 제품이 많이 발달할 것입니다. #@문장구분#실제 사람이 모인 것처럼 홀로그램으로 사람이 비친다든지 자기 대신에 로봇을 보내서 소통한다든지 많은 것이 바뀔 수 있을 것입니다.#@문장구분# 그리고 어쩌면 손을 잡고 인사하는 것이 불법이 될 수 있습니다.#@문장구분# 점점 감염율이 높은 코로나가 계속해서 나오고 있기 때문에 아프지 않으려면 이렇게 일상 자체를 바꾸어야 한다고 생각합니다.#@문장구분# 그러면 코로나로 인한 피해를 최대한 줄이고 더 많은 병은 생겨나지 않을 것입니다.#@문장구분#",
+      "paragraph_len": 687,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.3,
+      24.1,
+      28
+    ],
+    "essay_scoreT_avg": 25.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "이것이 일상이 되면 어느 건물을 들어갈 때마다 소독제가 입구에서 스프레이처럼 뿌려지고 사람들끼리는 방역복을 입고 생활하고 어쩌면 일을 할 때 모두가 함께 모여있는 공간이 아닌 혼자 있는 공간을 사용하게 될 지도 모릅니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이것이 일상이 되면 어느 건물을 <문법_맞춤법>들어갈때마다</문법_맞춤법> 소독제가 입구에서 스프레이처럼 뿌려지고 사람들끼리는 방역복을 입고 생활하고 어쩌면 일을 할 때 모두가 함께 모여있는 공간이 아닌 혼자있는 공간을 사용하게 될 지도 모릅니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 점점 감염률이 높은 코로나가 계속해서 나오고 있기 때문에 아프지 않으려면 이렇게 일상 자체를 바꾸어야 한다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 점점 <문법_맞춤법>감염율</문법_맞춤법>이 높은 코로나가 계속해서 나오고 있기 때문에 아프지 않으려면 이렇게 일상 자체를 바꾸어야 한다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_78456",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 528,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

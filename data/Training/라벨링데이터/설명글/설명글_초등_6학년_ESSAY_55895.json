@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 저희 부모님을 존경 합니다. #@문장구분#저희 부모님은 저와 오빠 둘을 키우십니다.#@문장구분# 오빠는 이제 고등학생 인데 정말 화를 많이 냅니다.#@문장구분# 저희 부모님은 항상 아침 일찍 출근 하시고 늦게 최근 하십니다.#@문장구분# 저희 어머니, 아버지 두분 다 자영업을 하시는데 엄청 피공 하실텐데 집에 오시면 제 밥 차려 주시고, 집안일을 하십니다.#@문장구분# 아무리 피곤 하셔도 꼭 빨래는 돌리고 주무십니다.#@문장구분# 부모님이 피곤하셔서 ㆍ빨래 좀 개 달라고 하신 적이 있는데, 그때 제가 너무 귀찮다고 하면서 라지 않은 적이 있습니다.#@문장구분# 지금와서 생각 해 보면 부모님이 정말 화나 실 수 있는 것 이였는데 저희 부모님은 화를 내지 않으시고 조금만 도와 달라고 이야기 하셨습니다.#@문장구분# 이런것만 봐도 부모님은 정말 힘든 것 같습니다.#@문장구분# 아이들은 말을 안 듣고, 일을 하고 와서 힘들어도 집안일은 해야 하고, 그래서 저는 이런 힘든 것을 견디며 저희를 키워주신 부모님을 존경 하고, 나중에 제가 결혼라고 아이를 낳았을떄 저희 부모님처럼 되고 싶다는 생각이 들 정도로 닮고 싶습니다.#@문장구분# 힘든 와중에도 저희를 생각해서 밥을 차려 주시는 부모님꺼 너무 감사하며, 존경 한다고 꼭 이랴기 해 드리고 싶습니다.",
+      "paragraph_len": 779,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.65,
+      19.8,
+      18
+    ],
+    "essay_scoreT_avg": 18.816666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 저희 부모님을 존경합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 저희 부모님을 <문법_맞춤법>존경 합니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님이 피곤하셔서 ㆍ빨래 좀 개 달라고 하신 적이 있는데, 그때 제가 너무 귀찮다고 하면서 하지 않은 적이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모님이 피곤하셔서 ㆍ빨래 좀 개 달라고 하신 적이 있는데, 그때 제가 너무 귀찮다고 하면서 <문법_맞춤법>라지</문법_맞춤법> 않은 적이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금 와서 생각해 보면 부모님이 정말 화나 실 수 있는 것 이였는데 저희 부모님은 화를 내지 않으시고 조금만 도와 달라고 이야기 하셨습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>지금와서 생각 해 보면</문법_맞춤법> 부모님이 정말 화나 실 수 있는 것 이였는데 저희 부모님은 화를 내지 않으시고 조금만 도와 달라고 이야기 하셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아이들은 말을 안 듣고, 일을 하고 와서 힘들어도 집안일은 해야 하고, 그래서 저는 이런 힘든 것을 견디며 저희를 키워주신 부모님을 존경하고, 나중에 제가 결혼하고 아이를 낳았을 때 저희 부모님처럼 되고 싶다는 생각이 들 정도로 닮고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아이들은 말을 안 듣고, 일을 하고 와서 힘들어도 집안일은 해야 하고, 그래서 저는 이런 힘든 것을 견디며 저희를 키워주신 부모님을 <문법_맞춤법>존경 하고,</문법_맞춤법> 나중에 제가 결혼라고 아이를 낳았을떄 저희 부모님처럼 되고 싶다는 생각이 들 정도로 닮고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 힘든 와중에도 저희를 생각해서 밥을 차려 주시는 부모님께 너무 감사하며, 존경 한다고 꼭 이랴기 해 드리고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 힘든 와중에도 저희를 생각해서 밥을 차려 주시는 <문법_맞춤법>부모님꺼</문법_맞춤법> 너무 감사하며, 존경 한다고 꼭 이랴기 해 드리고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55895",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 581,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

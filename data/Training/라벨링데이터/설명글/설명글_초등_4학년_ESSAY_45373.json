@@ -1,0 +1,353 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금부터 제 선행을 알려 드리겠 습니다.#@문장구분# 일단 가족에게 한 선행은 무거운 짐 나르기, 식사준비 하기 입니다.#@문장구분# 무거운 짐을 나르는 것은 정말힘든데 엄마, 아빠는 항상 들으시니 정말 대단하신것 같습니다. #@문장구분#식사준비하기는 함께 할 수 있어 재미있었 습니다.#@문장구분# \n둘째, 이웃 도와주기 입니다. #@문장구분#할머니께서 천천히 걸으실 때 엘레베이터를 놓치실 까봐 엘레베이터 문을 잡아드렸습니다.#@문장구분# 그 생각을 하니 뿌듯했던 기억이 되살아 나는 것 같습니다.#@문장구분# 또 이웃들에게 열심히 인사한것 입니다.#@문장구분# 그래서 칭찬을 들어 기뻤습니다.#@문장구분#\n셋째, 학교에서한 선행 입니다.#@문장구분# 선생님께 열심히인사하자 칭찬을 받아 기뻤고 열심히 공부해 시험을 100점 맞아 친구들에게 칭찬을 들었습니다.#@문장구분#\n또 좋은 운동실력으로 우리팀이 이기게 만들어 좋았습니다.#@문장구분# \n마지막으로 어른들께 한 선행입니다.#@문장구분# 우리 할머니께서 어깨가 아프실까봐 어께를 주물러 드렸습니다.#@문장구분# 또 어른들께 고운말과 높임말을 잘 사용했습니다. #@문장구분#고운말만 하니 상대와 저의 기분도 훨 좋아지는 것 같습니다.#@문장구분#\n지금까지 저의 선행에 데해 알려드렸습니다.#@문장구분#",
+      "paragraph_len": 869,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      24.4,
+      21.6
+    ],
+    "essay_scoreT_avg": 23.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.24",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "지금부터 제 선행을 알려 드리겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금부터 제 선행을 알려 <문법_맞춤법>드리겠 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 가족에게 한 선행은 무거운 짐 나르기, 식사 준비 하기 입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단 가족에게 한 선행은 무거운 짐 나르기, <문법_맞춤법>식사준비</문법_맞춤법> 하기 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 무거운 짐을 나르는 것은 정말 힘든데 엄마, 아빠는 항상 들으시니 정말 대단하신 것 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 무거운 짐을 나르는 것은 <문법_맞춤법>정말힘든데</문법_맞춤법> 엄마, 아빠는 항상 들으시니 정말 대단하신것 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "식사 준비하기는 함께 할 수 있어 재미 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>식사준비하기는</문법_맞춤법> 함께 할 수 있어 재미있었 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 이웃들에게 열심히 인사한 것 입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 이웃들에게 열심히 <문법_맞춤법>인사한것</문법_맞춤법> 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n셋째, 학교에서 한 선행 입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n셋째, <문법_맞춤법>학교에서한</문법_맞춤법> 선행 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님께 열심히 인사하자 칭찬을 받아 기뻤고 열심히 공부해 시험을 100점 맞아 친구들에게 칭찬을 들었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선생님께 <문법_맞춤법>열심히인사하자</문법_맞춤법> 칭찬을 받아 기뻤고 열심히 공부해 시험을 100점 맞아 친구들에게 칭찬을 들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n또 좋은 운동 실력으로 우리 팀이 이기게 만들어 좋았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n또 좋은 <문법_맞춤법>운동실력으로 우리팀</문법_맞춤법>이 이기게 만들어 좋았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리 할머니께서 어깨가 아프실까 봐 어께를 주물러 드렸습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리 할머니께서 어깨가 <문법_맞춤법>아프실까봐</문법_맞춤법> 어께를 주물러 드렸습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 어른들께 고운말 과 높임말을 잘 사용했습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 어른들께 <문법_맞춤법>고운말과</문법_맞춤법> 높임말을 잘 사용했습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "고운 말만 하니 상대와 저의 기분도 훨 좋아지는 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>고운말만</문법_맞춤법> 하니 상대와 저의 기분도 훨 좋아지는 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n지금까지 저의 선행에 대해 알려드렸습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n지금까지 저의 선행에 <문법_맞춤법>데해</문법_맞춤법> 알려드렸습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45373",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 530,
+    "essay_main_subject": "나의 선행"
+  }
+}

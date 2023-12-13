@@ -1,0 +1,324 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 남한과 북한의 통일에 대해 찬성합니다.#@문장구분# 그 이유를 설명하도록 하겠습니다.#@문장구분# 첫번째, 서로의 부족한 점을 채울 수 있다.#@문장구분# 우리나라는 기술이 많고 북한은 기술이 적다.#@문장구분# 그래서 통일하여 기술을 더 발달 시키는 것입니다.#@문장구분# 두번째 더 다양한 문화!#@문장구분# 여러분 북한 문화를 알고 있나요?#@문장구분# 북한은 우리나라의 문화를 아나요?#@문장구분# 통일이 되어 더 다양한 문화를 가지고 문화를 뺏을려고 하는 나라를 막을수 있다고 생각 합니다.#@문장구분# 세번째 더 많은 인구, 더 넓은 땅!#@문장구분# 우리나라 인구수는 7500만명 북한의 인구수는 2000만명 합치면  9500만이다.#@문장구분#그래서 우리는 통일을 해야한다.#@문장구분#",
+      "paragraph_len": 551,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5714285,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.047619,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.55,
+      15.264286,
+      25.264286
+    ],
+    "essay_scoreT_avg": 20.692858,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.13",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 남한과 북한의 통일에 대해 찬성한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "어미"
+      ],
+      "sentence_txt": "<문법_높임법>저는</문법_높임법> 남한과 북한의 통일에 대해 <문법_어미>찬성합니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유를 설명하도록 하겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그 이유를 설명하도록 <문법_어미>하겠습니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째, 서로의 부족한 점을 채울 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫번째</문법_맞춤법>, 서로의 부족한 점을 채울 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 통일하여 기술을 더 발달시켜야 한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "조사"
+      ],
+      "sentence_txt": " 그래서 통일하여 기술을 더 <문법_맞춤법><문법_어미>발달 시키는</문법_어미></문법_맞춤법> <문법_조사>것입니다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째, 더 다양한 문화를 만들 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호",
+        "띄어쓰기, 문장부호",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>두번째</문법_기타></문법_맞춤법> 더 다양한 <스타일링_담화 맥락 오류>문화!</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 두 번째, 더 다양한 문화를 만들 수 있기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 통일이 되어 더 다양한 문화를 가지고 문화를 뺏으려고 하는 나라를 막을 수 있다고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 통일이 되어 더 다양한 문화를 가지고 문화를 <문법_맞춤법>뺏을려고</문법_맞춤법> 하는 나라를 막을수 있다고 <문법_어미>생각 합니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세번째 더 많은 인구와 더 넓은 땅을 얻을 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        "조사, 문장부호 포함"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 세번째 더 많은 <문법_조사>인구,</문법_조사> 더 넓은 <스타일링_기타>땅!</스타일링_기타>",
+      "sentence_corr_txt_styling": " 세번째 더 많은 인구와 더 넓은 땅을 얻을 수 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라의 인구는 약 5000만명, 북한의 인구는 약 2000만명으로 합치면  약 7500만명이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_조사>우리나라</문법_조사> <스타일링_기타>인구수는</스타일링_기타> <스타일링_담화 맥락 오류>7500만명</스타일링_담화 맥락 오류> 북한의 <스타일링_기타>인구수는</스타일링_기타> 2000만명 합치면  9500만이다.",
+      "sentence_corr_txt_styling": " 우리나라의 인구는 약 5000만명, 북한의 인구는 약 2000만명으로 합치면  약 7500만명이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 우리는 통일을 해야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 우리는 통일을 <문법_맞춤법>해야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39583",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 311,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

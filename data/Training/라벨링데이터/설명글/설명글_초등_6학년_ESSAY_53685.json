@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 친구들이 소중한 사람이라고 생각합니다.#@문장구분# 왜냐하면 가족도 중요하지만 살아가면서 친하게 놀고 싶은 친구들이 있습니다.#@문장구분# 저는 그래서 친구들도 소중하다고 느낍니다.#@문장구분# 친구들은 생일선물도 챙겨주고 우리 같은 인간들이 힘들 때 위로도 해주고 친구들이 같이 심심하지 않게 놀아주고 저는 친구들이 없으면 많이 슬플 것 같습니다. #@문장구분#그리고 저는 친구들에게 많이 못 해준게 많아서 저는 친구들에게 다정하고 친절하고 잘 놀아주고 많이 웃을 수 있게 해주는 친구가 되고 시습니다. #@문장구분#그리고 저는 친구들의 순위를 매길 수 있다고 생각합니다. #@문장구분#왜냐하면 자신이 마음에 드는 친구가 있을 수 있고 자신이 마음에 안 드는 친구가 있을 수 있으니 저는 친구들 사이의 순위가 있을 수 있다고 생각합니다.",
+      "paragraph_len": 494,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.25,
+      19.55,
+      17.95
+    ],
+    "essay_scoreT_avg": 19.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          1
+        ],
+        [
+          3,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.11",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그리고 저는 친구들에게 많이 못 해준 게 많아서 저는 친구들에게 다정하고 친절하고 잘 놀아주고 많이 웃을 수 있게 해주는 친구가 되고 싶습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 저는 친구들에게 많이 못 <문법_맞춤법>해준게 </문법_맞춤법>많아서 저는 친구들에게 다정하고 친절하고 잘 놀아주고 많이 웃을 수 있게 해주는 친구가 되고 시습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53685",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 375,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

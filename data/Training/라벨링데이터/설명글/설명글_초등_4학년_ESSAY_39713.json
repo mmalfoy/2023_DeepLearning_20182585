@@ -1,0 +1,265 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 하루에 5시간씩 학습을 하고, 1시간 쯤 여가활동을 한다.#@문장구분# 여가활동을 할 때엔 나는 주로 그림그리 기를 좋아합니다.#@문장구분# 그리고 학습을 할땐 꼭노력을 해서 다닙니다.#@문장구분# 여가활동을 할대 내가 고쳐야할 점이 있습니다.#@문장구분# 여가활동이랑 학습활동에서 내가 고처어야 할게있 습니다.#@문장구분# 여가활동이 랑 학습활동에 서고쳐야할 점은 여가활동 을할땐 딴짔을 하지말자,#@문장구분# 그리고 학습활동을 할땐가 만이있지 말자.#@문장구분#",
+      "paragraph_len": 354,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.1428572,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.114286,
+      10.8,
+      11.933332
+    ],
+    "essay_scoreT_avg": 12.282539,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 하루에 5시간씩 학습을 하고, 1시간쯤 여가활동을 합니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는 하루에 5시간씩 학습을 하고, <문법_맞춤법>1시간 쯤 </문법_맞춤법>여가활동을 <스타일링_패러프레이징>한다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": "나는 하루에 5시간씩 학습을 하고, 1시간쯤 여가활동을 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동을 할 때엔 나는 주로 그림 그리기를 좋아합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여가활동을 할 때엔 나는 주로 <문법_맞춤법>그림그리 기</문법_맞춤법>를 좋아합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 학습을 할 땐 꼭 노력을 해서 다닙니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 학습을 <문법_맞춤법>할땐 꼭노력을</문법_맞춤법> 해서 다닙니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동을 할 때 내가 고쳐야할 점이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여가활동을 <문법_맞춤법>할대</문법_맞춤법> 내가 고쳐야할 점이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동이랑 학습활동에서 내가 고쳐야 할 게 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여가활동이랑 학습활동에서 내가 <문법_맞춤법>고처어야 할게있 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>여가활동이 랑 학습활동에 서고쳐야할 점은 여가활동 을할땐 딴짔을 하지말자,</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 여가 활동을 할 땐 딴짓을 하지 말자,",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 학습활동을 <스타일링_패러프레이징>할땐가 만이있지 말자.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 그리고 학습활동을 할 땐 가만히 있지 말자입니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39713",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 215,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승을 떠올릴 때 가장 기억에 남는 사람은 우리 아빠이다.#@문장구분# 아빠는 항상 인생에 있어 나의 삶을 보다 더 나은 방향으로 이어나갈 수 있도록 묵묵히 뒤에서 지원해주시고 이끌어주신 분이다.#@문장구분# 그런 우리 아빠에게 삶을 배우면서 인생을 배울 수 있었다고 생각하는 이유는 우선적으로 무엇을 결정 할 때에는 그 결정에 따른 책임을 지는 마음가짐을 지닐 수 있도록 가르쳐주셨다.#@문장구분# 그렇기 때문에 아버지의 조언을 얻으면서 내 마음가짐을 더 확고하게 다질 수 있었다.#@문장구분# 그리고 다른 사람에게 돈을 쓸 때는 아낌없이, 나에게 쓸 때는 절약하면서 삶을 살아갈 것을 알려주셨다. #@문장구분#그러한 아버지의 조언과 도움 덕에 세상을 바라보는 시선과 마음가짐을 예쁘게 지닐 수 있게 되었고 그 때문에 지금의 내가 존재할 수 있게 되었다고 생각한다.#@문장구분# 나에게 참된 스승은 나의 아버지이다.#@문장구분#",
+      "paragraph_len": 558,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.95,
+      23.3,
+      19.75
+    ],
+    "essay_scoreT_avg": 23.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그런 우리 아빠에게 삶을 배우면서 인생을 배울 수 있었다고 생각하는 이유는 우선적으로 무엇을 결정할 때에는 그 결정에 따른 책임을 지는 마음을 지닐 수 있도록 가르쳐주셨다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그런 우리 아빠에게 삶을 배우면서 인생을 배울 수 있었다고 생각하는 이유는 우선적으로 무엇을 <문법_맞춤법>결정 할</문법_맞춤법> 때에는 그 결정에 따른 책임을 지는 <문법_기타>마음가짐을</문법_기타> 지닐 수 있도록 가르쳐주셨다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 아버지의 조언을 얻으면서 내 마음을 더 확고하게 다질 수 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그렇기 때문에 아버지의 조언을 얻으면서 내 <문법_기타>마음가짐을</문법_기타> 더 확고하게 다질 수 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60042",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 419,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕 하세요. #@문장구분#저는 #@이름# 이라고 합니다.#@문장구분# 오늘은 위생을 지키는 방법을 알고난 다음 저만의 생각으로 쓰도록 하겠습니다.#@문장구분# 일단 이걸 쓰기 전에 하나만 애기 하고 하겠 습니다. #@문장구분#사람은 언제나 죽을수 있습니다. #@문장구분#그런데 위생을 지켜봤자 언제는 죽는데 이걸 꼭 해야되나 라는 생각이 들었는데 여기서 쓰라고 하니깐 쓰도록 하겠 습니다.#@문장구분# 일단 첫번째 아침에 최소한 오전 9시 아니면 오후 10시 안에는 일어 나는게 좋다고 생각한다. #@문장구분#그런데 개구쟁이들은 엇 뭐야 그냥 잠을 안자거나 늦게 자서 일찍일어나는 애들이 진짜로 최소 1명 정도는 확실 하게 있습니다.#@문장구분# 왜냐 하면 그1명 저 이니깐요.#@문장구분# 일단 2번째 밤에 늦게 자지 말기 입니다. #@문장구분#그런데 이 밤에 늦게 안자는 기준이 오전 12시 안에는 자거나 원래 늦게 자던 애들이면 오전 1시까지 잘수 있도록 노력을 하는게 좋다고 생각한다. #@문장구분#그리고 3번째 중요한 식단이다. #@문장구분#그런데 나는 이 중요한 식단을 모르니 그냥 넘어 가도록 하겠 습니다.#@문장구분#",
+      "paragraph_len": 760,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.219048,
+      14.333333,
+      14
+    ],
+    "essay_scoreT_avg": 14.850793,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕하세요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>안녕 하세요.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오늘은 위생을 지키는 방법을 알고 난 다음 저만의 생각으로 쓰도록 하겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 오늘은 위생을 지키는 방법을 <문법_맞춤법>알고난</문법_맞춤법> 다음 저만의 생각으로 쓰도록 하겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 일단 이걸 쓰기 전에 하나만 <스타일링_패러프레이징>애기 하고 하겠 습니다</스타일링_패러프레이징>. ",
+      "sentence_corr_txt_styling": " 일단 이걸 쓰기 전에 하나만 얘기하겠습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람은 언제나 죽을 수 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사람은 언제나 <문법_맞춤법>죽을수</문법_맞춤법> 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>그런데 위생을 지켜봤자 언제는 죽는데 이걸 꼭 해야되나 라는 생각이 들었는데 여기서 쓰라고 하니깐 쓰도록 하겠 습니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "위생을 지켜봤자 언젠가 죽는데 이걸 꼭 해야 되나 라는 생각이 들었습니다. 하지만 여기서 쓰라고 하니깐 쓰도록 하겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 첫 번째, 아침에 최소한 오전 9시 아니면 10시 안에는 일어나는게 좋다고 생각합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 쉼표",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 일단 <문법_맞춤법>첫번째</문법_맞춤법> 아침에 최소한 오전 9시 아니면 <스타일링_담화 맥락 오류><스타일링_패러프레이징>오후 10시 안에는 일어 나는게 좋다고 생각한다.</스타일링_패러프레이징></스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 일단 첫 번째, 아침에 최소한 오전 9시 아니면 10시 안에는 일어나는게 좋다고 생각합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그런데 개구쟁이들은 <스타일링_맞춤법><스타일링_패러프레이징>엇 뭐야 그냥 잠을 안자거나 늦게 자서 일찍일어나는 애들이 진짜로 최소 1명 정도는 확실 하게 있습니다.</스타일링_패러프레이징></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": "그런데 개구쟁이들은 그냥 잠을 안 자거나 늦게 자서 일찍 일어나는 애들이 최소 1명 정도는 확실하게 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>왜냐 하면 그1명 저 이니깐요.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 왜냐하면 그 한 명이 저이니깐요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>일단 2번째 밤에 늦게 자지 말기 입니다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": " 두 번째, 밤에 늦게 자지 않기 입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>그런데 이 밤에 늦게 안자는 기준이 오전 12시 안에는 자거나 원래 늦게 자던 애들이면 오전 1시까지 잘수 있도록 노력을 하는게 좋다고 생각한다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": "밤에 늦게 안 자는 기준은 오전 12시 안에 자거나, 원래 늦게 자던 애들이면 오전 1시까지 잘 수 있도록 하는 것입니다.  ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 <스타일링_패러프레이징>3번째 중요한 식단이다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": "그리고 세 번째, 중요한 식단입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 나는 이 중요한 식단을 모르니 그냥 넘어가도록 하겠 습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 나는 이 중요한 식단을 모르니 그냥 <문법_맞춤법>넘어 가도록</문법_맞춤법> 하겠 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36056",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 486,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

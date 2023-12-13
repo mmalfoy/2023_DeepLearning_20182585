@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리에게 학습과 여가활동의 시간 비율은 무척 중요합니다.#@문장구분# 여가란?#@문장구분# 일이 없이 남는 시간을 말한다.#@문장구분# 여가 활동-이제 하고 싶은 일을 하기 여가활동 하는법 요가하기, 책읽기, 운동하기, 공부하기등 여러가지 여가활동이 있다.#@문장구분# \n옛날에 했던 여가 활동은 제기차기, 투호, 사방치기등 이런 여가활동을 했다.#@문장구분# 여가활동중!#@문장구분# 요가가 있다.#@문장구분# 아침에 할수있는 스트레칭은 기지개하기, 무릎 잡아 당기기, 팔베게하고 몸 비틀기 교실에서 할수있는 스트레칭은 책상에 어께 누르기, 팔 올리면서 가슴 젖히기, 의자 등받이 잡고 몸톨 돌리기 저녁에 할수있는 스트레칭은 어께 누르기, 엎드려 넓적다리 늘이기등이 있다.#@문장구분# 여기 활동을 꾸준히 하면 몸에있는 유연성이 좋아지고 몸도 건강해 지고 튼튼해 진다.#@문장구분# 밥도 많이 먹고 스트레칭도 꾸준히 하면 키도 커지고 튼튼해 지고 건강해진다.#@문장구분# 이처럼 여가활동을 꾸준히 하면 몸이 건강해 질것 같다는 생각이 들었다.#@문장구분#",
+      "paragraph_len": 678,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      23.266666,
+      20.8
+    ],
+    "essay_scoreT_avg": 21.355555,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.21",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 여가란",
+      "sentence_corr_reason": [
+        "불필요한 문장부호 삭제"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>여가란?</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가 활동-이제 하고 싶은 일을 하기 여가활동 하는 법 요가하기, 책 읽기, 운동하기, 공부 하기등 여러 가지 여가활동이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여가 활동-이제 하고 싶은 일을 하기 <문법_맞춤법>여가활동 하는법 요가하기, 책읽기, 운동하기, 공부하기등 여러가지 여가활동이 있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동 중",
+      "sentence_corr_reason": [
+        "불필요한 문장부호 삭제 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>여가활동중!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침에 할 수 있는 스트레칭은 기지개 켜기, 무릎 잡아 당기기, 팔베개하고 몸 비틀기 교실에서 할 수 있는 스트레칭은 책상에 어깨 누르기, 팔 올리면서 가슴 젖히기, 의자 등받이 잡고 몸통 돌리기 저녁에 할 수 있는 스트레칭은 어깨 누르기, 엎드려 넓적다리 늘이기 등이 있다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아침에 할수있는 스트레칭은 기지개하기, 무릎 잡아 당기기, 팔베게하고 몸 비틀기 교실에서 할수있는 스트레칭은 책상에 어께 누르기, 팔 올리면서 가슴 젖히기, 의자 등받이 잡고 몸톨 돌리기 저녁에 할수있는 스트레칭은 어께 누르기, 엎드려 넓적다리 늘이기등이 있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동을 꾸준히 하면 몸에 있는 유연성이 좋아지고 몸도 건강해지고 튼튼해진다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 붙여쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>여기 활동을 꾸준히 하면 몸에있는 유연성이 좋아지고 몸도 건강해 지고 튼튼해 진다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 밥도 많이 먹고 스트레칭도 꾸준히 하면 키도 커지고 튼튼해지고 건강해진다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 밥도 많이 먹고 스트레칭도 꾸준히 하면 키도 커지고 <문법_맞춤법>튼튼해 지고</문법_맞춤법> 건강해진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이처럼 여가활동을 꾸준히 하면 몸이 건강해질 것 같다는 생각이 들었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이처럼 여가활동을 꾸준히 하면 몸이 <문법_맞춤법>건강해 질것 </문법_맞춤법>같다는 생각이 들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33533",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 458,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

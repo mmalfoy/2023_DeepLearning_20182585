@@ -1,0 +1,326 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 존경하는 위인은 유관순 열사님입니다.#@문장구분#\n 먼저 유관순 열사님이 하신 일을 요약하겠습니다.#@문장구분# 유관순 열사님은 운동에 참가해 천안의 아우내 장터에서 만세 운동을 일으키다가 최포되었다.#@문장구분# 그리고유관순 열사님이 이렇게 말하셨습니다.#@문장구분#\"나라님이 왜놈들 손에 죽었는데 어떻게 가만히 있어요. 우리도 뭔가를 보여 줘야 한다고요. 우리나라를 되찾아야 해요!\"#@문장구분# 저는 이렇게 생각했습니다.#@문장구분#보통은 하고싶어도 용기를 못내거나 두려운데, 하지만 유관순 열사님은 망설임 없이 모두에게 알리거나 자기가 죽을 수 있다는 위협을 안고 독립운동, 만세운동을 했다는 게 대단하고 본받아야 할 것입니다.#@문장구분# 저는 용기, 끈기, 열정 등이 부족한데 유관순 열사님께서는 열정, 끈기, 용기가 모두 있는 것 같습니다.#@문장구분# 저도 이걸 본받아야 되겠다고 생각했습니다.#@문장구분#\n 유관순 열사님은 어린나이인 18세라는 나이에 돌아가셨습니다.#@문장구분# 더욱 안타까운 것은 3일후 깨끗하진 않지만 감옥과 차원이 다른 곳에서 살 수있었는데 그 3일 남았는데 순국하였습니다.#@문장구분#\n 하지만 유관순 열사님만 존경하는 건 아닙니다.#@문장구분# 우리 나라를 위해 노력하신 위인 등이 참 대단하십니다.#@문장구분# 그들중에서 단 1명이 빠지면 이 세상은 완전히 뒤바뀌어 있을 것입니다.#@문장구분# 예를 들자면 세종대왕이 없었더라면 지금 우리는 한자를 쓰고있을 것이다.#@문장구분# 지금 이글을 쓰는 데 마치 파도가 밀려오는 것 갔았다.#@문장구분#",
+      "paragraph_len": 989,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.95,
+      21.6,
+      22.65
+    ],
+    "essay_scoreT_avg": 23.400002,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 유관순 열사님은 운동에 참가해 천안의 아우내 장터에서 만세 운동을 일으키다가 체포되었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": " 유관순 열사님은 운동에 참가해 천안의 아우내 장터에서 만세 운동을 일으키다가 <문법_어미><문법_높임법>최포되었다</문법_높임법></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 유관순 열사님이 이렇게 말하셨습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고유관순 </문법_맞춤법>열사님이 이렇게 말하셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "보통은 하고싶어도 용기를 못 내거나 두려워하는데, 유관순 열사님은 망설임 없이 모두에게 알리고 자기가 죽을 수 있다는 위협을 안고 독립운동, 만세운동을 했다는 게 대단하고 본받아야 할 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "보통은 하고싶어도 용기를 <문법_맞춤법>못내거나 </문법_맞춤법><문법_어미>두려운데</문법_어미>,<스타일링_담화 맥락 오류> 하지만 유관순</스타일링_담화 맥락 오류> 열사님은 망설임 없이 모두에게 알리거나 자기가 죽을 수 있다는 위협을 안고 독립운동, 만세운동을 했다는 게 대단하고 본받아야 할 것입니다.",
+      "sentence_corr_txt_styling": "보통은 하고싶어도 용기를 못 내거나 두려워하는데, 유관순 열사님은 망설임 없이 모두에게 알리고 자기가 죽을 수 있다는 위협을 안고 독립운동, 만세운동을 했다는 게 대단하고 본받아야 할 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 유관순 열사님은 어린 나이인 18세라는 나이에 돌아가셨습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 유관순 열사님은 <문법_맞춤법>어린나이인 </문법_맞춤법>18세라는 나이에 돌아가셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 더욱 안타까운 것은 3일 후 깨끗하진 않지만 감옥과 차원이 다른 곳에서 살 수있었는데 순국하셨다는 점입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 더욱 안타까운 것은 3<문법_맞춤법>일후 </문법_맞춤법>깨끗하진 않지만 감옥과 차원이 다른 곳에서 살 수있었는데 <스타일링_담화 맥락 오류><스타일링_패러프레이징>그 3일 남았는데 순국하였습니다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 더욱 안타까운 것은 3일 후 깨끗하진 않지만 감옥과 차원이 다른 곳에서 살 수있었는데 순국하셨다는 점입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라를 위해 노력하신 위인 분들은 참 대단하십니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>우리 나라</문법_맞춤법>를 위해 노력하신 <스타일링_담화 맥락 오류>위인 등이</스타일링_담화 맥락 오류> 참 대단하십니다.",
+      "sentence_corr_txt_styling": " 우리나라를 위해 노력하신 위인 분들은 참 대단하십니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그들 중에서 단 한 명만 빠져도 이 세상은 완전히 뒤바뀌어 있을 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>그들중에서</문법_맞춤법> 단 <문법_조사>1명이</문법_조사> <문법_어미>빠지면 </문법_어미>이 세상은 완전히 뒤바뀌어 있을 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들자면 세종대왕이 없었더라면 지금 우리는 한자를 쓰고 있을 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": " 예를 들자면 세종대왕이 없었더라면 지금 우리는 한자를 <문법_맞춤법>쓰고있을 </문법_맞춤법><문법_어미><문법_높임법>것이다</문법_높임법></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금 이 글을 쓰는데 마치 파도가 밀려오는 것 같은 기분이 들었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 지금 <문법_맞춤법>이글을</문법_맞춤법> 쓰는 데 마치 파도가 밀려오는 것 <스타일링_담화 맥락 오류>갔았다</스타일링_담화 맥락 오류>.",
+      "sentence_corr_txt_styling": " 지금 이 글을 쓰는데 마치 파도가 밀려오는 것 같은 기분이 들었습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39876",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 670,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

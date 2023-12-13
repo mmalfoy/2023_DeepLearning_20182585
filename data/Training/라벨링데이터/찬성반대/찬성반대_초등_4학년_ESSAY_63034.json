@@ -1,0 +1,219 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 남한과 북한이 통일되어야하는 것에 반대 합니다.#@문장구분#\n 왜냐하면 먼저 북한에서 전쟁을 시작하였고, 대한민국을 절반이나 빼앗아 갔기 때문입니다.#@문장구분# 이러한 일 이 일어났기 때문에, 저는 북한과 남한이 통일하는 것 을 절대 반대합니다.#@문장구분# 그리고 만약에 남한과 북한이 통일을 한다면 남한도 북한말을 배워야 되고, 북한은 남한말을 배워야 되기 때문에 힘들 것 같고, 음식 만드는거나 청소하는 것 등 남한 방법이 맞다고 하고, 북한 방법이 맞다고 싸울 것 같기 때문에 북한과 남한이 통행을 하면 너무너무 정말 정말 힘들 것 같습니다.#@문장구분#\n 그러므로 저의 의견은 남한과 북한이 절대로 통일 하면, 안된다는 의견이 였습니다.#@문장구분#",
+      "paragraph_len": 437,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.8,
+      18.75,
+      19.25
+    ],
+    "essay_scoreT_avg": 21.266666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.20",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 남한과 북한이 통일되어야 하는 것에 반대합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 남한과 북한이 <문법_맞춤법>통일되어야하는</문법_맞춤법> 것에 반대 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 일이 일어났기 때문에, 저는 북한과 남한이 통일하는 것을 절대 반대합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러한 <문법_맞춤법>일 이 </문법_맞춤법>일어났기 때문에, 저는 북한과 남한이 통일하는 것 을 절대 반대합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 만약에 남한과 북한이 통일을 한다면 남한도 북한말을 배워야 되고, 북한은 남한말을 배워야 되기 때문에 힘들 것 같고, 음식 만드는 거나 청소하는 것 등 남한 방법이 맞다고 하고, 북한 방법이 맞다고 싸울 것 같기 때문에 북한과 남한이 통일을 하면 너무너무 정말 정말 힘들 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 만약에 남한과 북한이 통일을 한다면 남한도 북한말을 배워야 되고, 북한은 남한말을 배워야 되기 때문에 힘들 것 같고, 음식 <문법_맞춤법>만드는거나 </문법_맞춤법>청소하는 것 등 남한 방법이 맞다고 하고, 북한 방법이 맞다고 싸울 것 같기 때문에 북한과 남한이 통행을 하면 너무너무 정말 정말 힘들 것 같습니다.",
+      "sentence_corr_txt_styling": " 그리고 만약에 남한과 북한이 통일을 한다면 남한도 북한말을 배워야 되고, 북한은 남한말을 배워야 되기 때문에 힘들 것 같고, 음식 만드는 거나 청소하는 것 등 남한 방법이 맞다고 하고, 북한 방법이 맞다고 싸울 것 같기 때문에 북한과 남한이 통일을 하면 너무너무 정말 정말 힘들 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그러므로 저의 의견은 남한과 북한이 절대로 통일하면, 안 된다는 의견이었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "\n 그러므로 저의 의견은 남한과 북한이 절대로 <문법_맞춤법>통일 하면</문법_맞춤법>, 안된다는 <문법_어미>의견이 였습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63034",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 338,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

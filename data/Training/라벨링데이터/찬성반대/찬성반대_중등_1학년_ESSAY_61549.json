@@ -1,0 +1,310 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리 엄마는 중학교를 졸업했고,우리아빠는 고등학교를 간신히 졸업했다고 했다.#@문장구분# 그던에는 내가 물었다.#@문장구분# 왜 학교를 안갔냐고. #@문장구분#그때 엄마가 그랬다.#@문장구분# 위로 오빠가 고등학교를 가고 싶어해서 엄마는 학교를 가지 못했고 시내로 나가서 옷가게에 취직해서 돈을 벌었다고 한다.#@문장구분# 집이 가난했고,할아버지가 농사를 짓고 있었기 때문에 학교도 멀었다고 했다.#@문장구분# 나는 어릴때라 그때는 엄마가 공부를 못하거나 싫어했을거라고 생각했다.#@문장구분# 근데 이제 조금은 알것같다.#@문장구분# 그때 왜그랬는데.지금은 집안이 조금 어려워도 나라에서 돈도 나오고 급식도 공짜인 친구들이 있어서 돈이 없는 가난한 집안이라고 해도 학교를 다닐수는 있으니까. 나같은 경우는 공부를 좋아하지 않아 사실 학원도 다니기 싫고 학교에서도 수업시간에 자주 좋지만 만약 내가 공부를 좋아하는 학생이었다면 학교 수업 시간 외에도 과외나 학원도 다녔을 것이다.#@문장구분# 친구들 중에 공부 잘하는 애가 있는데 집안 형편이 어려워서 늘 엄마한테 학원을 보내달라고 조른다고 한다.#@문장구분# ",
+      "paragraph_len": 695,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 이런 친구들을 위해서 나는 공교육이나 사교육을 본인이 원하는 대로 공평하게 지원해주는 나라의 정책이 있으면 좋을 듯하다.#@문장구분#",
+      "paragraph_len": 88,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      26.722221,
+      28.5
+    ],
+    "essay_scoreT_avg": 27.907408,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리 엄마는 중학교를 졸업했고, 우리 아빠는 고등학교를 간신히 졸업했다고 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리 엄마는 중학교를 <문법_맞춤법>졸업했고,우리아빠는</문법_맞춤법> 고등학교를 간신히 졸업했다고 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그전에는 내가 물었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그던에는 </문법_맞춤법>내가 물었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜 학교를 안 갔냐고. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜 학교를 <문법_맞춤법>안갔냐고</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위로 오빠가 고등학교를 가고 싶어 해서 엄마는 학교를 가지 못했고 시내로 나가서 옷 가게에 취직해서 돈을 벌었다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 위로 오빠가 고등학교를 가고 <문법_맞춤법>싶어해서 </문법_맞춤법>엄마는 학교를 가지 못했고 시내로 나가서 옷가게에 취직해서 돈을 벌었다고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집이 가난했고, 할아버지가 농사를 짓고 있었기 때문에 학교도 멀었다고 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집이 가난했<문법_맞춤법>고,할아버</문법_맞춤법>지가 농사를 짓고 있었기 때문에 학교도 멀었다고 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 어릴 때라 그때는 엄마가 공부를 못하거나 싫어했을 거라고 생각했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>어릴때라</문법_맞춤법> 그때는 엄마가 공부를 못하거나 싫어했을거라고 생각했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 이제 조금은 알 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 이제 조금은 <문법_맞춤법>알것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때 왜 그랬는지. 지금은 집안이 조금 어려워도 나라에서 돈도 나오고 급식도 공짜인 친구들이 있어서 돈이 없는 가난한 집안이라고 해도 학교를 다닐 수는 있으니까. 나 같은 경우는 공부를 좋아하지 않아 사실 학원도 다니기 싫고 학교에서도 수업 시간에 자주 졸지만 만약 내가 공부를 좋아하는 학생이었다면 학교 수업 시간 외에도 과외나 학원도 다녔을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때 <문법_맞춤법>왜그랬는데.지금은</문법_맞춤법> 집안이 조금 어려워도 나라에서 돈도 나오고 급식도 공짜인 친구들이 있어서 돈이 없는 가난한 집안이라고 해도 학교를 다닐수는 있으니까. 나같은 경우는 공부를 좋아하지 않아 사실 학원도 다니기 싫고 학교에서도 수업시간에 자주 좋지만 만약 내가 공부를 좋아하는 학생이었다면 학교 수업 시간 외에도 과외나 학원도 다녔을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61549",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 566,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

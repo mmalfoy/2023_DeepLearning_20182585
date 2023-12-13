@@ -1,0 +1,165 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 최근에 나의 안 좋은 습관 하나를 고친 경험이 있다.#@문장구분# 그것은 바로 새벽까지 깨어 있는 것이다.#@문장구분# 휴대폰이 생기면서 집에 있는 와이파이를 통해 밤늦게까지 유튜브를 보거나 친구들과 카카오톡을 하거나 틱톡을 보거나 해서 일찍 잠을 들면 12시에 잠을 자고 보통은 새벽 1시 2시에 잠을 잤던 것이다.#@문장구분# 그렇게 늦게 자니 학교에서는 매일 졸고 하루 종일 피곤하고 무기력하더라.#@문장구분# 그렇게 나는 이대로는 일상생활이 안 되겠다고 생각하여서 내 스스로 휴대폰에 11시 이후로는 유튜브나 틱톡을 못 보게 하고 일부러 카카오톡 알림도 꺼버린다.#@문장구분# 처음에는 그렇게 하고도 잠이 잘 안 왔지만 습관이 되니 밤 10시만 돼도 졸려서 기분 좋게 잠에 빠져버린다.#@문장구분# 이런 습관들을 고치고 아침에 상쾌한 기분으로 일어나니 학교에서도 졸지 않고 열심히 공부할 수 있고 학교가 끝나고 학원에 가서도 열심히 공부하고 친구들과 재밌게 놀고 하루 종일 말짱한 기운으로 살 수 있어서 너무 좋다.#@문장구분#",
+      "paragraph_len": 617,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.8,
+      23.35,
+      22.25
+    ],
+    "essay_scoreT_avg": 23.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 처음에는 그렇게 하고도 잠이 잘 안 왔지만 습관이 되니 밤 10시만 돼도 졸려서 기분 좋게 잠에 빠져버렸다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 처음에는 그렇게 하고도 잠이 잘 안 왔지만 습관이 되니 밤 10시만 돼도 졸려서 기분 좋게 잠에 <문법_시제>빠져버린다.</문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56875",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 477,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

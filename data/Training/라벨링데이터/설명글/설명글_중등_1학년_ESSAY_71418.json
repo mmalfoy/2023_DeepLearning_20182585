@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 손톱이 매우 짧은 편입니다.#@문장구분# 왜냐하면 손톱을 물어뜯기 때문인데요.#@문장구분# 이런 손톱 물어뜯기는 불안하거나, 초조할 때만 물어뜯는 편이였는데 습관이 되면서 평상시 멍 때리거나, 정신이 잠깐 다른 곳에 가 있으면 저도 모르게 손톱을 물어뜯고 있습니다.#@문장구분# 이런 손톱 물어뜯는 나쁜 습관을 고치기 위해서 저는 매니큐어를 바르고 있습니다.#@문장구분# 예쁘게 매니큐어를 발라주면 짧고 불어튼 제 손톱들이 예뻐지고, 다른 사람들에게 손을 당당히 보여줄 수도 있게 되고, 손톱을 물어뜯는 행동도 하지 않게 됩니다.#@문장구분# 가끔은 네일샵에 가서 네일을 받는데 가격이 너무 부담되다 보니 인터넷이나 화장품 매장에서 예쁜 색의 메니큐어를 골라 자주 바르고 있습니다.#@문장구분# 매일 매일 손톱 관리를 하니 나에 대한 자존감도 높아지고 매우 좋은 방법인 것 같습니다.#@문장구분#",
+      "paragraph_len": 539,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      19.55,
+      16.55
+    ],
+    "essay_scoreT_avg": 20.333332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "043",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 가끔은 네일숍에 가서 네일을 받는데 가격이 너무 부담되다 보니 인터넷이나 화장품 매장에서 예쁜 색의 매니큐어를 골라 자주 바르고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가끔은 <문법_맞춤법>네일샵에 </문법_맞춤법>가서 네일을 받는데 가격이 너무 부담되다 보니 인터넷이나 화장품 매장에서 예쁜 색의 메니큐어를 골라 자주 바르고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 매일매일 손톱 관리를 하니 나에 대한 자존감도 높아지고 매우 좋은 방법인 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>매일 </문법_맞춤법><문법_맞춤법>매일 </문법_맞춤법>손톱 관리를 하니 나에 대한 자존감도 높아지고 매우 좋은 방법인 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71418",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 399,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

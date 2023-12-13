@@ -1,0 +1,461 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 가장 좋아하는 과목은 사회입니다. #@문장구분#왜냐하면 5학년 사회에 우리 역사를 배울수 잇기때문 에입니다.#@문장구분#그리고제 가 역사를 좋아합니다 제가 좋아하는 과목도 배울 수 있고 제가 모르는 역사를 배울 수 있기 때문 에 입니다. #@문장구분#또 모르는 문화유산 을 알수 잇기때문에입니다. #@문장구분#2번 째 는 체육입니다#@문장구분# 체육 수업에 는 조장 경쟁등 많은 수업이 잇습니다 #@문장구분#그중 어느날 은 이론수업 야외활동 도 잇습니다#@문장구분# 그중 저는 강당 에 서 하는 활동이 제일 재미 잇습니다#@문장구분# 강당에 서 는 어떤 활 동이 있냐면 야구,플라이디스크,배드민턴,태권도등 다양한 운동이 잇습니다.#@문장구분#친구들 은 족구를 좋아할것 이고 다른 친구는 달리기를 좋아하는 친구가잇습니다#@문장구분# 저희반 은 멀티빗트를 좋아합니다 #@문장구분#체육 은 건강을 책임을 지기도 합니다.#@문장구분# 대부분 에 학생이 체육을 좋아할 것입니다",
+      "paragraph_len": 644,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          0.42857143,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.047619,
+      21.6,
+      18.619047
+    ],
+    "essay_scoreT_avg": 19.422224,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.17",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 5학년 사회에 우리 역사를 배울 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>왜냐하면 5학년 사회에 우리 역사를 배울수 잇기때문 에입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 역사를 좋아하는 이유는 모르고 있는 역사를 배울 수 있기 때문입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "높임법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사><문법_어미><문법_높임법><문법_어순><문법_기타>그리고제 가 역사를 좋아합니다 제가 좋아하는 과목도 배울 수 있고 제가 모르는 역사를 배울 수 있기 때문 에 입니다.</문법_기타></문법_어순></문법_높임법></문법_어미></문법_조사></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 모르는 문화 유산을 알 수 있기 때문입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "높임법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사><문법_어미><문법_높임법><문법_어순><문법_기타>또 모르는 문화유산 을 알수 잇기때문에입니다.</문법_기타></문법_어순></문법_높임법></문법_어미></문법_조사></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "두 번째는 체육입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>2번 째 는 체육입니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 체육 수업에는 조장 경쟁 등 많은 수업이 있습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_어미><문법_어순><문법_기타>체육 수업에 는 조장 경쟁등 많은 수업이 잇습니다</문법_기타></문법_어순></문법_어미></문법_조사></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어느 날은 이론수업을 하고 또 어느 날에는 야외활동을 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사><문법_어미><문법_어순><문법_기타>그중 어느날 은 이론수업 야외활동 도 잇습니다</문법_기타></문법_어순></문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중 저느 강당에서 하는 활동이 제일 재밌습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_어미><문법_어순><문법_기타>그중 저는 강당 에 서 하는 활동이 제일 재미 잇습니다</문법_기타></문법_어순></문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 강당에서는 어떤 활동이 있냐면 야구, 플라잉디스크, 배드민턴, 태권도 등 다양한 운동이 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_어미><문법_어순><문법_기타>강당에 서 는 어떤 활 동이 있냐면 야구,플라이디스크,배드민턴,태권도등 다양한 운동이 잇습니다.</문법_기타></문법_어순></문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "족구를 좋아하는 친구들도 있고 달리기를 좋아하는 친구도 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사><문법_어미><문법_어순><문법_기타>친구들 은 족구를 좋아할것 이고 다른 친구는 달리기를 좋아하는 친구가잇습니다</문법_기타></문법_어순></문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저희반은 얼티밋트를 좋아합니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_어미><문법_어순><문법_기타>저희반 은 멀티빗트를 좋아합니다</문법_기타></문법_어순></문법_어미></문법_조사></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "체육은 건강을 책임 지기도 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사><문법_어미><문법_어순><문법_기타>체육 은 건강을 책임을 지기도 합니다.</문법_기타></문법_어순></문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대부분에 학생이 체육을 좋아할 것입니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>대부분 에 학생이 체육을 좋아할 것입니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_54912",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 405,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

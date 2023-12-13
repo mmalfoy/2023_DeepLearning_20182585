@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지킬수있는 방법은 올바른 식습관 운동 등 다양한 방법이 있는데요.#@문장구분# 이뿐만이 아닌 개인의 위생도 참 중요합니다.#@문장구분# 그래서 우리는 세수도하고 몸도딱고 양치질도 하며 우리는 깨끗한 몸을 가지고있죠.#@문장구분# 샤워를 하지않으면 세균이 우리 몸속으로 들어와 병에 걸리기 쉽기때문에 잘 청결하자는 것입니다. #@문장구분#그리고 요즘 코로나19가 우리 지구를 덮어서 우리는 손소독제를 많이 사용하죠 #@문장구분#그리고 위생을 지키기 위해 식습관, 운동도 중요하죠#@문장구분# 식습관을 자기가 좋아하는 반찬만먹고 싫어하는 반찬은 안먹는 경우가 있습니다.#@문장구분# 그렇게 되면 식습관이 옳지 않은것입니다.#@문장구분# 자기가 싫어하는반찬도 골고루 먹어야 식습관이좋은것이겠죠?#@문장구분# 그리고 운동도 중요하죠.#@문장구분#여러분들은 하루에 운동은 몇 시간씩하나요?#@문장구분# 여러분들은 세수양치를 몇번씩하나요?",
+      "paragraph_len": 610,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.933334,
+      18.333332,
+      21.6
+    ],
+    "essay_scoreT_avg": 20.622223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "위생을 지킬수 있는 방법은 올바른 식습관 운동 등 다양한 방법이 있는데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위생을 <문법_맞춤법>지킬수있는</문법_맞춤법> 방법은 올바른 식습관 운동 등 다양한 방법이 있는데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 우리는 세수도하고 몸도 닦고 양치질도 하며 우리는 깨끗한 몸을 가지고 있죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 우리는 <문법_맞춤법>세수도하고 몸도딱고 양치질도 하며 우리는 깨끗한 몸을 가지고있</문법_맞춤법>죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 샤워를 하지 않으면 세균이 우리 몸속으로 들어와 병에 걸리기 쉽기 때문에 잘 청결하자는 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 샤워를 <문법_맞춤법>하지않으면 세균이 우리 몸속으로 들어와 병에 걸리기 쉽기때문에</문법_맞춤법> 잘 청결하자는 것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 식습관을 자기가 좋아하는 반찬만 먹고 싫어하는 반찬은 안 먹는 경우가 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 식습관을 자기가 좋아하는<문법_맞춤법> 반찬만먹고 싫어하는 반찬은 안먹는</문법_맞춤법> 경우가 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 되면 식습관이 옳지 않은것 입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 되면 식습관이 옳지<문법_맞춤법> 않은것입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자기가 싫어하는 반찬도 골고루 먹어야 식습관이 좋은 것이겠죠?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자기가 <문법_맞춤법>싫어하는반찬도 골고루 먹어야 식습관이좋은것이</문법_맞춤법>겠죠?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분들은 하루에 운동은 몇 시간씩 하나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여러분들은 하루에 운동은 <문법_맞춤법>몇 시간씩하나요?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분들은 세수 양치를 몇번씩 하나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여러분들은 <문법_맞춤법>세수양치를 몇번씩하나요?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50944",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 392,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

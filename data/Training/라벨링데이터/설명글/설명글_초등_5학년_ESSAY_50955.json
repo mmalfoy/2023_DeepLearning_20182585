@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘은 큰 일교차와 추운 날씨로 인해 감기에 걸리기 쉽고, 면역력이 떨어질수도 있다.#@문장구분# 그렇기 때문에 우리는 개인위생에 더욱 신경써야 하고 몸을 나쁜 세균들로 부터 지켜야 한다.#@문장구분#\n 나는 내 몸을 깨끗하게 하기위해 첫 번 째로 하루에 3번 양치질을 하고 있다.#@문장구분# 양치질을 하면 입속에 있는 세균들로 부터 우리의 치아를 보호할 수 있다.#@문장구분# 하지만 양치를 대충대충하면 별로 효과가 없기 때문에 꼼꼼하고 바르게 칫솔질을 하는 것이 중요하다.#@문장구분#\n 다음으로 내 몸을 깨끗하게 하기 위한 두 번째 노력은 외출 후 집에 오면 꼭 손과 발 씻기다.#@문장구분# 외출을 하면 야외에 있는 세균이 따라오기 때문에 외출을 하고 집에 들어오면 손, 발을 씻고 께끗한 옷으로 갈아입는 것이 중요하다.#@문장구분#\n 다음으로 내 몸을 깨끗하게 하기 위한 노력 세 번째는 바로 적어도 하루, 이틀에 한 번은 꼭 샤워를 하는 것이다.#@문장구분# 샤워를 하면 몸이 개운해질 뿐만 아니라 우리 몸을 께끗하게 하니 일석이조의 효과라고 할 수있다. #@문장구분#운동이나 야외활동을 한 후에 땀이 나면 바로 샤워를 하는 것이 좋은 방법이다.#@문장구분#\n 이처럼 우리 몸을 께끗하게 하기위한 방법에는 여러가지가 있다.",
+      "paragraph_len": 765,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4285715,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.714287,
+      27.714287,
+      27.714287
+    ],
+    "essay_scoreT_avg": 27.714287,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "요즘은 큰 일교차와 추운 날씨로 인해 감기에 걸리기 쉽고, 면역력이 떨어질 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘은 큰 일교차와 추운 날씨로 인해 감기에 걸리기 쉽고, 면역력이 떨<문법_맞춤법>어질수도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 우리는 개인위생에 더욱 신경 써야 하고 몸을 나쁜 세균들로부터 지켜야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 우리는 개인위생에 더욱<문법_맞춤법> 신경써야 하고 몸을 나쁜 세균들로 부터 </문법_맞춤법>지켜야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 나는 내 몸을 깨끗하게 하기 위해 첫 번째로 하루에 3번 양치질을 하고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 나는 내 몸을 깨끗하게 <문법_맞춤법>하기위해 첫 번 째로</문법_맞춤법> 하루에 3번 양치질을 하고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 양치질을 하면 입속에 있는 세균들로부터 우리의 치아를 보호할 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 양치질을 하면 입속에 있는<문법_맞춤법> 세균들로 부터 </문법_맞춤법>우리의 치아를 보호할 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 양치를 대충대충 하면 별로 효과가 없기 때문에 꼼꼼하고 바르게 칫솔질을 하는 것이 중요하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 양치를 <문법_맞춤법>대충대충하면</문법_맞춤법> 별로 효과가 없기 때문에 꼼꼼하고 바르게 칫솔질을 하는 것이 중요하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 외출을 하면 야외에 있는 세균이 따라오기 때문에 외출을 하고 집에 들어오면 손, 발을 씻고 깨끗한 옷으로 갈아입는 것이 중요하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 외출을 하면 야외에 있는 세균이 따라오기 때문에 외출을 하고 집에 들어오면 손, 발을 씻고 <문법_맞춤법>께끗한 </문법_맞춤법>옷으로 갈아입는 것이 중요하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 샤워를 하면 몸이 개운해질 뿐만 아니라 우리 몸을 깨끗하게 하니 일석이조의 효과라고 할 수 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 샤워를 하면 몸이 개운해질 뿐만 아니라 우리 몸을 <문법_맞춤법>께끗하게 하니 일석이조의 효과라고 할 수있다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50955",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 566,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

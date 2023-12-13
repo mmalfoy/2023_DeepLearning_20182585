@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "첫째의 질문의 답 : 네, 저는 저의 즐거움을 위해 여러가지 취미를 가지고 있습니다.#@문장구분# 제가 하고 있는 여가활동은 운동하기, 책읽기, 글쓰기 등이 있습니다.#@문장구분# 저는 이런 여기활동을 하면 즐겁고, 시간도 빠르게 가는것 같습니다.#@문장구분# 저는 이 여가활동을 계속해서 할 것입니다.#@문장구분# \n 둘째 질문의 답 : 운동하기는 하루에 2~3번씩 하고, 1시간 정도를 합니다.#@문장구분# 더 많이 할 수 있지만 무리 하면 안 되기 때문에 저는 하루에 1시간씩 2~3번 합니다.#@문장구분# \n 책읽기는 하루에 3번씩 읽습니다.#@문장구분# 그리고 1시간30분~2시간 동안 읽습니다.#@문장구분# 하지만 어쩔때는 책 1권을 다 읽고도 합니다.#@문장구분# (시간을 안보고) 글쓰기는 하루에 2번씩 씁니다.#@문장구분# 어쩔 때는 그냥 책의 글을 쓰고 저 혼자 주제를 정해서 쓰기도 합니다.#@문장구분# 1편을 다 쓸때까지는 하는데 한 2~3시가 정도는 될 것같습니다.#@문장구분# 저는 매일 이렇게 합니다.#@문장구분# 어쩔때는 1가지만 집중하여 다른 할 것들을 잘 못하거나 잊어버리는 경우가 있습니다.#@문장구분# 저는 이런 단점은 없이 잘 하도록 할 것입니다.#@문장구분#",
+      "paragraph_len": 809,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      21.133335,
+      28.285713
+    ],
+    "essay_scoreT_avg": 25.939682,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "첫째의 질문의 답 : 네, 저는 저의 즐거움을 위해 여러 가지 취미를 가지고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "첫째의 질문의 답 : 네, 저는 저의 즐거움을 위해 <문법_맞춤법>여러가지</문법_맞춤법> 취미를 가지고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 하고 있는 여가활동은 운동하기, 책 읽기, 글쓰기 등이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 하고 있는 여가활동은 운동하기, <문법_맞춤법>책읽기, </문법_맞춤법>글쓰기 등이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이런 여가 활동을 하면 즐겁고, 시간도 빠르게 가는 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 이런 <문법_맞춤법>여기활동을 하면 즐겁고, 시간도 빠르게 가는것 같습</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 더 많이 할 수 있지만 무리하면 안 되기 때문에 저는 하루에 1시간씩 2~3번 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 더 많이 할 수 있지만 <문법_맞춤법>무리 하면</문법_맞춤법> 안 되기 때문에 저는 하루에 1시간씩 2~3번 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 책 읽기는 하루에 3번씩 읽습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>책읽기</문법_맞춤법>는 하루에 3번씩 읽습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 어쩔 때는 책 1권을 다 읽고도 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만<문법_맞춤법> 어쩔때는</문법_맞춤법> 책 1권을 다 읽고도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " (시간을 안 보고) 글쓰기는 하루에 2번씩 씁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " (시간을 <문법_맞춤법>안보</문법_맞춤법>고) 글쓰기는 하루에 2번씩 씁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1편을 다 쓸 때까지는 하는데 한 2~3시가 정도는 될 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1편을 다<문법_맞춤법> 쓸때까지는 하는데 한 2~3시가 정도는 될 것같습니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어쩔 때는 1가지만 집중하여 다른 할 것들을 잘 못하거나 잊어버리는 경우가 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어쩔때</문법_맞춤법>는 1가지만 집중하여 다른 할 것들을 잘 못하거나 잊어버리는 경우가 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45053",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 509,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

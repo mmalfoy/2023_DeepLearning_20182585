@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서 우리는 많은 과목을 배우고 있다.#@문장구분# 과목이 무엇이 있냐면 국어,수학,사회,과학,미술,영어,체육,실과,음악,도덕 과목이 참 다양하고 많다. #@문장구분#내가 가장 좋아하는 과목은 체육이다. #@문장구분#왜냐하면 다른 과목들은 다 글을 다 써야 하고, 선생님들이 몇 십분 동안 설명하고 얘기만 들어야 하기 때문이다.#@문장구분# 아! 하나 빼 먹은 것이 있다.#@문장구분#미술도 좋다 .#@문장구분# 미술도 글을 쓰지 않고, 재밌게 만들 수 있기 대문이다. #@문장구분#아!그리고 체육은 애들이랑 열심히 활발하게 실내에서 뛰어다니기도 하고 재밌는 놀이도 하기 때문이다.#@문장구분# 난 영어가 싫다. #@문장구분#여기는 한국 인데 왜 단어도 많고 알파벳이 26자나 돼고 발음도 알아야 하고 복잡하가 때문이다.#@문장구분#난 영어가 어렵다.#@문장구분# 영어가 사라지고 전세계 사람들이 우리나라 말을 사용했으면 얼마나 좋을까?#@문장구분#다른나라어 사라지고! #@문장구분#한국어가 발전하자!",
+      "paragraph_len": 675,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.733334,
+      18.733334,
+      16
+    ],
+    "essay_scoreT_avg": 17.155556,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.13",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 과목이 무엇이 있냐면 국어,수학, 사회, 과학, 미술, 영어, 체육, 실과, 음악, 도덕 과목이 참 다양하고 많다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 과목이 무엇이 있냐면 <문법_맞춤법>국어,수학,사회,과학,미술,영어,체육,실과,음악,</문법_맞춤법>도덕 과목이 참 다양하고 많다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술도 글을 쓰지 않고, 재밌게 만들 수 있기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미술도 글을 쓰지 않고, 재밌게 만들 수 있기 <문법_맞춤법>대문이다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아! 그리고 체육은 애들이랑 열심히 활발하게 실내에서 뛰어다니기도 하고 재밌는 놀이도 하기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아!그리고</문법_맞춤법> 체육은 애들이랑 열심히 활발하게 실내에서 뛰어다니기도 하고 재밌는 놀이도 하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여기는 한국인데 왜 단어도 많고 알파벳이 26자나 되고 발음도 알아야 하고 복잡하기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여기는 <문법_맞춤법>한국 인데 왜 단어도 많고 알파벳이 26자나 돼고 발음도 알아야 하고 복잡하가 때문이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 영어가 사라지고 전 세계 사람들이 우리나라 말을 사용했으면 얼마나 좋을까?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 영어가 사라지고 <문법_맞춤법>전세계</문법_맞춤법> 사람들이 우리나라 말을 사용했으면 얼마나 좋을까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>다른나라어</스타일링_담화 맥락 오류> 사라지고! ",
+      "sentence_corr_txt_styling": "다른 나라 말 사라지고! ",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38648",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 417,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

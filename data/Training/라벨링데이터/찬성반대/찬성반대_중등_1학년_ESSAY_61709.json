@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사회적 불평등이란 다양한 의미로 확대될 수 있다고 생각한다.#@문장구분# 사회적 소수자, 사회적 약자와 같이 사회적 불평등이란 다양한 사람들에게 일어날 수 있다.#@문장구분# 내가 생각하는 사회적 불평등의 문제 중 하나는 집을 사는 것이다.#@문장구분# 우리나라에는 계속해서 개발구역이 늘어나고 있으며, 신도시를 짓고 다양한 고층의 아파트들이 들어서고 있다.#@문장구분# 하지만 일반 사람의 기준에서 수도권에 집 마련하기란 굉장히 어렵다.#@문장구분# 요즈음 신축 아파트들은 계속해서 집값이 폭등하고 있다는 사실을 대부분의 사람들이 알고 있다.#@문장구분# 집을 사기 위해 돈을 모으기 시작했지만 결국 기존의 돈을 다 모았을 때는 이미 그 집값은 훨씬 더 올랐을 것이다.#@문장구분# 우리는 계속해서 일을 하고 돈을 벌기위해 노력하지만 상위층이 아닌 중산층과 하위층은 빈번하게 어려움을 겪는다.#@문장구분# 이러한 문제를 해결하기 위해서는 중산층과 하위층을 위한 집을 따로 분양해야할 필요가 있다.#@문장구분# 또 출산률이 낮은 지금 다자녀 혜택으로 교육과 재정지원은 3명의 자녀가 기준이지만 2명으로 줄여도된다고 생각한다.#@문장구분# 요즘은 아이를 한 명 낳기도 보기 힘든 세상이다.#@문장구분# 2명으로 늘리고 교육비를 지원하는 것은 사회적 불평등을 해결하기에 조금은 도움이 될 것이라고 생각한다.#@문장구분#",
+      "paragraph_len": 836,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      26.722221,
+      26.722221
+    ],
+    "essay_scoreT_avg": 27.314814,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 우리는 계속해서 일을 하고 돈을 벌기 위해 노력하지만 상위층이 아닌 중산층과 하위층은 빈번하게 어려움을 겪는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 계속해서 일을 하고 돈을 <문법_맞춤법>벌기위해</문법_맞춤법> 노력하지만 상위층이 아닌 중산층과 하위층은 빈번하게 어려움을 겪는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 출산률이 낮은 지금 다자녀 혜택으로 교육과 재정지원은 3명의 자녀가 기준이지만 2명으로 줄여도 된다고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 출산률이 낮은 지금 다자녀 혜택으로 교육과 재정지원은 3명의 자녀가 기준이지만 2명으로 <문법_맞춤법>줄여도된다고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61709",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 597,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단 제가 살고있는집은 아파트입니다.#@문장구분# 제가 살고 있는 집도 좋지만 제가 살고 싶은 집은 바로 주택입니다.#@문장구분# 주택은 송도에는 없지만 주택이 송도에 생기면 좋겠 습니다.#@문장구분# 저의반 다른에는 집이 3층인데 막저한테 마당이랑 수영장도 있다고 자랑해서 전 개가 너무 부러워요.#@문장구분# 부러워 할거도 없지만 부러워요. #@문장구분#그친구는 저랑 가장 친한 친구에요.#@문장구분# 제가 일단 살고 싶은 집은 주택이에요. #@문장구분#저는 집이 4층이면 좋겠고 마당이 있으면 좋겠습니다. #@문장구분#그리고 마당에 친구 동생 사촌동생 사촌친구랑 같이 마당에서 놀고 할거에요. #@문장구분#그리고 코로나가 사라지면 친구랑 마스크 벗고 수영도 하고 코로 때문에 못갔던 애버랜드랑 그리고 생일 때 친구들 초대해서 생일파티도 하고 할거에요.#@문장구분# 그리고 친구들이랑 학원에 초대해서 장난감도 받고 같이 모여다니고 할건데 코로나가 없어 질지 모르겠네요. #@문장구분#그리고 저는 1층 2층 3층 4층 까지 있는데 방이 층마다 4개씩 있스면 좋겠습니다.#@문장구분# 그리고 그집 색깔을 약간 연한노랑 연한초록 이렇게 집이 있으면 좋겠습니다.#@문장구분# 그리고 저는 코로나가 없어질진 모르겠지만 딱 한마디만 하겠습니다.#@문장구분# 저는 주택으로 이사 갈지는 모르겠지만 저는꼭친구들고 수영을 그리고 친구들과 부평을 가서 뭘사고 먹고 할거애요. #@문장구분#제말을 드러주신분은 감사합니다.#@문장구분#",
+      "paragraph_len": 945,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      25.885714,
+      24.333334
+    ],
+    "essay_scoreT_avg": 23.40635,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.16",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "일단 제가 살고 있는 집은 아파트입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 제가 <문법_맞춤법>살고있는집은</문법_맞춤법> 아파트입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 주택은 송도에는 없지만 주택이 송도에 생기면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 주택은 송도에는 없지만 주택이 송도에 생기면 <문법_맞춤법>좋겠 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저의 반 다른 아이는 집이 3층인데 저한테 마당이랑 수영장도 있다고 자랑해서 전 그 아이가 너무 부러워요.",
+      "sentence_corr_reason": [
+        "문맥이 부드럽도록 교정"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>저의반 다른에는 집이 3층인데 막저한테 마당이랑 수영장도 있다고 자랑해서 전 개가 너무 부러워요.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부러워 할 거도 없지만 부러워요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>부러워 할거도</문법_맞춤법> 없지만 부러워요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 친구는 저랑 가장 친한 친구에요.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그친구는 </문법_맞춤법>저랑 가장 친한 친구에요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 코로나가 사라지면 친구랑 마스크 벗고 수영도 하고 코로나 때문에 못 갔던 에버랜드랑 그리고 생일 때 친구들 초대해서 생일파티도 하고 할 거에요.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 코로나가 사라지면 친구랑 마스크 벗고 수영도 하고 <문법_맞춤법>코로 때문에 못갔던 애버랜드랑 그리고 생일 때 친구들 초대해서 생일파티도 하고 할거에요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구들이랑 학원에 초대해서 장난감도 받고 같이 모여 다니고 할 건데 코로나가 없어 질지 모르겠네요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친구들이랑 학원에 초대해서 장난감도 받고 같이 <문법_맞춤법>모여다니고 할건데</문법_맞춤법> 코로나가 없어 질지 모르겠네요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 저는 1층 2층 3층 4층 까지 있는데 방이 층마다 4개씩 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 저는 1층 2층 3층 4층 까지 있는데 방이 층마다 4개씩 <문법_맞춤법>있스면</문법_맞춤법> 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 그집 색깔을 약간 연한 노랑, 연한 초록 이렇게 집이 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기,문장부호 삽입 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 그집 색깔을 약간 <문법_기타>연한노랑 연한초록</문법_기타> 이렇게 집이 있으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 주택으로 이사 갈지는 모르겠지만 저는꼭 친구들고 수영을 그리고 친구들과 부평을 가서 뭘 사고 먹고 할 거에요. ",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 주택으로 이사 갈지는 모르겠지만 저는<문법_맞춤법>꼭친구들고 수영을 그리고 친구들과 부평을 가서 뭘사고 먹고 할거애요.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제 말을 들어 주신 분은 감사합니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>제말을 드러주신분은</문법_맞춤법> 감사합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33432",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 625,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘 학교폭력이 점점 늘어나고있다.#@문장구분# 유명한 연예인,운동선수들이 예번에 저질렀던 학교폭력으로 논란이 되는 경우도 많아졌다.#@문장구분#그리고 학교폭력이 많아진만큼 수법도 다양해진다.#@문장구분#\n 이렇게 무서운 학교 폭력을 어떻게 해야 줄일수있을까?#@문장구분# 지금부터 알아보자.#@문장구분#\n 첫 번째로 학교폭력 예방교육을 더 많이 해야한다.#@문장구분# 나도 학교폭력 교육을 학교에서 받아봤는데, 교육을 받은 이 후로는 친구에게 장난도 되도록 삼가했다.#@문장구분# 이렇게 학교 폭력 예방교육은 효과가 좋다.#@문장구분# 그렇기 때문에 교육을 더 실행해야 한다.#@문장구분#\n 둘 째, 처벌을 강화한다.#@문장구분# 왜냐면 처벌이 약하면 \"아,그냥 처벌받고말지 ~\" 이럴수있는데 처벌이 강해지면 가해자들도 두려워져서 학교폭력을 그만 할수도 있다.#@문장구분#\n 마지막, 이건 학교 폭력 가해자들이  가져야할 마음이다.#@문장구분# 입장 바꿔 생각해 보자.#@문장구분#'내가 저 피해자면 마음이 어땠을까'하는 마음을 가져야한다.#@문장구분#\n 이렇게 학교 폭력은 무서운 것 이다. #@문장구분#그러니 학교 폭력을 하지말고 당하면 가까운 사람들에게 말하자.#@문장구분# 그리고 학교 폭력은 가해자에게는 장난이라고 느껴져도 피해자는 정말 무서울 것이다. #@문장구분#학교폭력을 하지 말자!",
+      "paragraph_len": 892,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23,
+      16.88889,
+      23.566666
+    ],
+    "essay_scoreT_avg": 21.151852,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "요즘 학교폭력이 점점 늘어나고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘 학교폭력이 점점 <문법_맞춤법>늘어나고있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유명한 연예인, 운동선수들이 예전에 저질렀던 학교폭력으로 논란이 되는 경우도 많아졌다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 유명한 <문법_맞춤법>연예인,운동선수들이</문법_맞춤법> 예번에 저질렀던 학교폭력으로 논란이 되는 경우도 많아졌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 학교폭력이 많아진 만큼 수법도 다양해졌다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": "그리고 학교폭력이 <문법_맞춤법>많아진만큼</문법_맞춤법> 수법도 <문법_시제>다양해진다.</문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이렇게 무서운 학교 폭력을 어떻게 해야 줄일 수 있을까?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 이렇게 무서운 학교 폭력을 어떻게 해야 <문법_맞춤법>줄일수있을까?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 학교폭력 교육을 학교에서 받아봤는데, 교육을 받은 이후로는 친구에게 장난도 되도록 삼가했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 학교폭력 교육을 학교에서 받아봤는데, 교육을 받은 <문법_맞춤법>이 후로는</문법_맞춤법> 친구에게 장난도 되도록 삼가했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 둘째, 처벌을 강화한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>둘 째</문법_맞춤법>, 처벌을 강화한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 처벌이 약하면 \"아, 그냥 처벌받고 말지~\" 이럴 수 있는데 처벌이 강해지면 가해자들도 두려워져서 학교폭력을 그만할 수도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐면 처벌이 약하면 \"아,그냥 처벌받고말지 ~\" 이럴수있는데 처벌이 강해지면 가해자들도 두려워져서 학교폭력을 그만 할수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "'내가 저 피해자면 마음이 어땠을까?' 하는 마음을 가져야한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "'내가 저 피해자면 마음이 <문법_맞춤법>어땠을까'하는</문법_맞춤법> 마음을 가져야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 학교 폭력은 무서운 것이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n <스타일링_패러프레이징>이렇게 학교 폭력은</스타일링_패러프레이징> 무서운 <문법_맞춤법>것 이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "\n 학교 폭력은 무서운 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 학교 폭력을 하지 말고 당하면 가까운 사람들에게 말하자.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러니 학교 폭력을 <문법_맞춤법>하지말고</문법_맞춤법> 당하면 가까운 사람들에게 말하자.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39746",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 555,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

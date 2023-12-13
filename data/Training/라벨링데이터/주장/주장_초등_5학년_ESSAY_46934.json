@@ -1,0 +1,374 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요#@문장구분# 저는 5학년 학생이기도 하고 다문화 가정의 학생이기도 합니다 #@문장구분#저는 다문화 학생으로서 제가 다문화가정때문에 괴롭힘같은걸 당할 필요는 없다고 생각합니다#@문장구분# 다문화는 다른게 아니라 틀린것입니다. #@문장구분#그러니 다문화 학생은 정당하게 똑같이 교육받아야 되고차별은 있으면 절대로 안됍니다.#@문장구분#그것이다른 학생에게 피해를 입혔나요? #@문장구분#아니잖아요 #@문장구분#그런데도 괴롭히는 학생이 있다면 저는 욕이 나쁜건 알지만 욕을 해주고 싶습니다.#@문장구분#소리지르고 왜 아무 잘못도 없는 얘를 못 잡아 먹어서 안달이냐고 말해주고 싶습니다.#@문장구분# 저는 우리 대한민국이 차별없는 나라가 되면 좋겠습니다#@문장구분# 아이들은 아무 잘못이 없는데괴롭힘이나 차별당하는 뉴스나 글을 볼때마다 제 마음이 더 아픕니다.#@문장구분# 저도마음이 아픈데 부모님은 얼마나 속상하고 슬플까요? #@문장구분#그니까 다문화도 존중합시다 #@문장구분#이상으로 글을 마치겠습니다 #@문장구분#감사합니다.",
+      "paragraph_len": 703,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25,
+      23.15,
+      18.235714
+    ],
+    "essay_scoreT_avg": 22.12857,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          1,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 5학년 학생이기도 하고 다문화 가정의 학생이기도 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 저는 5학년 학생이기도 하고 다문화 가정의 학생이기도 <문법_기타>합니다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 다문화 학생으로서 제가 다문화 가정이기 때문에 괴롭힘 같은 걸 당할 필요는 없다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "저는 다문화 학생으로서 제가 <문법_맞춤법><문법_조사><문법_어미>다문화가정때문에</문법_어미></문법_조사></문법_맞춤법> 괴롭힘같은걸 당할 필요는 없다고 <문법_기타>생각합니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화는 다른 게 아니라 틀린 것입니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 다문화는 <문법_맞춤법>다른게</문법_맞춤법> 아니라 틀린것입니다. ",
+      "sentence_corr_txt_styling": " 다문화는 다른 게 아니라 틀린 것입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 다문화 학생은 정당하게 똑같이 교육받아야 되고 차별이 있으면 절대로 안됩니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "그러니 다문화 학생은 정당하게 똑같이 교육받아야 <문법_맞춤법><문법_조사>되고차별은</문법_조사></문법_맞춤법> 있으면 절대로 안됍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그것이 다른 학생에게 피해를 입혔나요? ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그것이다른</문법_맞춤법> 학생에게 피해를 입혔나요? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아니잖아요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>아니잖아요</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데도 괴롭히는 학생이 있다면 저는 욕이 나쁜 건 알지만 욕을 해 주고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데도 괴롭히는 학생이 있다면 저는 욕이 <문법_맞춤법>나쁜건</문법_맞춤법> 알지만 욕을 해주고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "소리지르고 왜 아무 잘못도 없는 애를 못 잡아 먹어서 안달이냐고 말해주고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "소리지르고 왜 아무 잘못도 없는 <문법_맞춤법>얘를</문법_맞춤법> 못 잡아 먹어서 안달이냐고 말해주고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 우리 대한민국이 차별없는 나라가 되면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 저는 우리 대한민국이 차별없는 나라가 되면 <문법_기타>좋겠습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아이들은 아무 잘못이 없는데 괴롭힘이나 차별당하는 뉴스나 글을 볼 때마다 제 마음이 더 아픕니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아이들은 아무 잘못이 <문법_맞춤법>없는데괴롭힘이나</문법_맞춤법> 차별당하는 뉴스나 글을 볼때마다 제 마음이 더 아픕니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 마음이 아픈데 부모님은 얼마나 속상하고 슬플까요? ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저도마음이</문법_맞춤법> 아픈데 부모님은 얼마나 속상하고 슬플까요? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그니까 다문화도 존중합시다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그니까 다문화도 <문법_기타>존중합시다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이상으로 글을 마치겠습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "이상으로 글을 <문법_기타>마치겠습니다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46934",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 423,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

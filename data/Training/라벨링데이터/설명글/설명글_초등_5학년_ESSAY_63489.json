@@ -1,0 +1,350 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에 취미는 많습니다.#@문장구분# 축구, 농구, 책읽기, 게임, 그림 그리기, 배구 등등이있습니다.#@문장구분# 하지만 저의 취미는 친구들이랑어울리기입니다.#@문장구분# 저는 친구들이랑 노는것을 좋아하기때문에 친구랑어울리는것을 좋아합니다.#@문장구분# 그러지만 친구도봐가면서어울여야합니다.#@문장구분# 친구를 잘못어울리면 괴롭힘을당하기때문입니다.#@문장구분# 제가 좋아하는놀이는 경찰과도둑입니다.#@문장구분# 놀이방식은 가위바위보를해서 한명씩 사람을 뽑아감니다.#@문장구분# 한명식다뽑았으면 가위바위보를해서 이긴사람이 경찰을 할지 도둑을 하지고릅니다.#@문장구분# 그리고 가위바이보에 이긴사람이 도둑을 고르면 도망가는 사이에 경찰인사람들이20초를셉니다.#@문장구분# 20초를다세면 잡으로옵니다.#@문장구분# 그사이에경찰은도둑을잡았습니다.#@문장구분# 잡힌도둑은 같은팀인도둑이랑손바닥 하이파이브를 하면 풀리는방식으로게속됩니다.#@문장구분#",
+      "paragraph_len": 639,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4285715,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.114285,
+      26.114285,
+      27.714287
+    ],
+    "essay_scoreT_avg": 26.64762,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 축구, 농구, 책 읽기, 게임, 그림 그리기, 배구 등등이 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 축구, 농구, <문법_맞춤법>책읽기</문법_맞춤법>, 게임, 그림 그리기, 배구 등등이있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 저의 취미는 친구들이랑 어울리기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 저의 취미는 <문법_맞춤법>친구들이랑어울리기입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 친구들이랑 노는 것을 좋아하기 때문에 친구랑 어울리는 것을 좋아합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 친구들이랑 <문법_맞춤법>노는것을 </문법_맞춤법>좋아하기때문에 친구랑어울리는것을 좋아합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 친구도 봐가면서 어울려야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그러지만 </문법_맞춤법>친구도봐가면서어울여야합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구를 잘못 어울리면 괴롭힘을 당하기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구를 <문법_맞춤법>잘못어울리면 </문법_맞춤법>괴롭힘을당하기때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 좋아하는 놀이는 경찰과 도둑입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 <문법_맞춤법>좋아하는놀이는 </문법_맞춤법>경찰과도둑입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 놀이 방식은 가위바위보를 해서 한 명씩 사람을 뽑아 갑니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 놀이방식은 <문법_맞춤법>가위바위보를해서 </문법_맞춤법>한명씩 사람을 <문법_어미>뽑아감니다.</문법_어미>",
+      "sentence_corr_txt_styling": " 놀이 방식은 가위바위보를 해서 한 명씩 사람을 뽑아 갑니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한 명씩 다 뽑았으면 가위바위보를 해서 이긴 사람이 경찰을 할지 도둑을 할지 고릅니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>한명식다뽑았으면 </문법_맞춤법>가위바위보를해서 이긴사람이 경찰을 할지 도둑을 하지고릅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 가위바위보를 이긴 사람이 도둑을 고르면 도망가는 사이에 경찰인 사람들이 20초를 셉니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>가위바이보에 </문법_맞춤법>이긴사람이 도둑을 고르면 도망가는 사이에 경찰인사람들이20초를셉니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 20초를 다 세면 잡으러 옵니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>20초를다세면</문법_맞춤법> 잡으로옵니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 사이에 경찰은 도둑을 잡습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_시제>그사이에경찰은도둑을잡았습니다.</문법_시제></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 잡힌 도둑은 같은 팀인 도둑이랑 손바닥 하이파이브를 하면 풀리는 방식으로 계속됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>잡힌도둑은</문법_맞춤법> 같은팀인도둑이랑손바닥 하이파이브를 하면 풀리는방식으로게속됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63489",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 379,
+    "essay_main_subject": "나의 취미"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 생각은 과학이 발전하면 사람이 너무 게을러질수도 있기 때문에 과학이 너무 과하게 발전을 하지 않고 적당히 편리하게 생활할수 있께만 발전하면 한다.#@문장구분# 그리고 재활용을 이용하여 쓰레기를 깨끗이 한뒤에 갈아서 연필이나 볼펜 을 만들면 좋겠다.#@문장구분# 특히 사람들이 휴지를많이 쓰고 버리는것 같다.#@문장구분# 그러니까 휴지를 한번쓰면 그걸로 계속쓸수있게 과학으로 휴지를 쓰면 다시 깨끗하게 원상복귀 시키는 과학을 만들면좋을것같다.#@문장구분# 그리고 과학이 발전돼서 집문, 자동차등등이 음성인식 으로 바뀌게 돼면 사람이 치과 에갔다 왔을때 발음이 않나오기 때문에 그런 과학기술이 않만들어 지면 정말 좋겠다.#@문장구분# 그리고 나는 자동차가 자동 운전 돼고 자동차 위에 핼리콥터 처럼 날아갈수 있는 차가 만들어지면 좋겠다.#@문장구분# 회의를 하는날인데늦었을때 편리 할것 같다.#@문장구분#",
+      "paragraph_len": 542,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.435715,
+      21.6,
+      22.35
+    ],
+    "essay_scoreT_avg": 21.12857,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 생각은 과학이 발전하면 사람이 너무 게을러질 수도 있기 때문에 과학이 너무 과하게 발전을 하지 않고 적당히 편리하게 생활할 수 있게만 발전했으면 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": "저의 생각은 과학이 <문법_어미>발전하면 </문법_어미>사람이 너무 <문법_맞춤법>게을러질수도 </문법_맞춤법>있기 때문에 과학이 너무 과하게 발전을 하지 않고 적당히 편리하게 생활할수 있께만 <문법_어미>발전하면 </문법_어미>한다.",
+      "sentence_corr_txt_styling": "저의 생각은 과학이 발전하면 사람이 너무 게을러질 수도 있기 때문에 과학이 너무 과하게 발전을 하지 않고 적당히 편리하게 생활할 수 있게만 발전했으면 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 재활용을 이용하여 쓰레기를 깨끗이 한 뒤에 갈아서 연필이나 볼펜을 만들면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 재활용을 이용하여 쓰레기를 깨끗이 <문법_맞춤법>한뒤에 </문법_맞춤법>갈아서 연필이나 볼펜 을 만들면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 사람들이 휴지를 많이 쓰고 버리는 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 특히 사람들이 <문법_맞춤법>휴지를많이 </문법_맞춤법>쓰고 버리는것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니까 휴지를 한번 쓰면 그걸로 계속 쓸 수 있게 과학으로 휴지를 쓰면 다시 깨끗하게 원상 복구 시키는 과학을 만들면 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니까 휴지를 <문법_맞춤법>한번쓰면 </문법_맞춤법>그걸로 계속쓸수있게 과학으로 휴지를 쓰면 다시 깨끗하게 원상복귀 시키는 과학을 만들면좋을것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 과학이 발전돼서 집 문, 자동차 등등이 음성 인식으로 바뀌게 되면 사람이 치과에 갔다 왔을 때 발음이 안 나오기 때문에 그런 과학 기술이 안 만들어 지면 정말 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 과학이 발전돼서 <문법_맞춤법>집문</문법_맞춤법>, 자동차등등이 음성인식 으로 바뀌게 돼면 사람이 치과 에갔다 왔을때 발음이 않나오기 때문에 그런 과학기술이 않만들어 지면 정말 좋겠다.",
+      "sentence_corr_txt_styling": " 그리고 과학이 발전돼서 집 문, 자동차 등등이 음성 인식으로 바뀌게 되면 사람이 치과에 갔다 왔을 때 발음이 안 나오기 때문에 그런 과학 기술이 안 만들어 지면 정말 좋겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나는 자동차가 자동 운전 되고 자동차 위에 헬리콥터처럼 날아갈 수 있는 차가 만들어지면 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 나는 자동차가 자동 운전 <문법_맞춤법>돼고</문법_맞춤법> 자동차 위에 핼리콥터 처럼 날아갈수 있는 차가 만들어지면 좋겠다.",
+      "sentence_corr_txt_styling": " 그리고 나는 자동차가 자동 운전 되고 자동차 위에 헬리콥터처럼 날아갈 수 있는 차가 만들어지면 좋겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 회의를 하는 날인데 늦었을 때 편리할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 회의를 <문법_맞춤법>하는날인데늦었을때</문법_맞춤법> 편리 할것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47621",
+    "essay_prompt": " 현대 과학은 나날이 발전해 나아가고 있습니다. 여기서 '현대 과학'이란 지금 여러분들이 사용하고 있는 핸드폰이나 먹는 알약 등을 만들 수 있게 해주는 기술의 기반입니다.\n\n 많은 과학자들이 과학 기술을 연구해서 현대 과학의 수준이 많이 성장했습니다. 여러분이 주변에서 많이 보는 자동차나 일상생활에서 사용하는 생활용품도 대부분 과학기술의 발전으로 탄생했습니다.\n\n 하지만 이러한 과학기술의 발전은 심각한 환경문제를 만들어 지구환경에 심각한 경고를 주고 있습니다. 과학실험을 하기 위해서는 여러 화학적 실험과 쓰레기들이 생겨 환경에 안 좋은 물질들이 생기기 때문입니다.\n\n 과학이 발전하면 편리하고 사회의 많은 문제가 해결되지만 한편으로는 우리가 살고 있는 지구의 환경을 파괴하기도 한 거죠.\n\n 여러분은 과학의 발전이 지금처럼 빠르게 이루어져야 한다고 생각하나요? 아니면 환경을 위협하는 발전은 멈춰야 한다고 생각하나요?\n\n 과학의 발전을 위한 환경 파괴는 어쩔 수 없다고 생각하는지 아니면 환경을 위해 과학의 발전을 멈추어야 한다고 생각하는지 본인의 의견을 작성해주세요. 그리고 그 이유에 대해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 402,
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각"
+  }
+}

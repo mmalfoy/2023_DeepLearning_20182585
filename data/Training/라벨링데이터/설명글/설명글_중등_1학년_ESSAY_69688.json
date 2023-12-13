@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 참된 스승은 끊임없이 고민하는 사람입니다. #@문장구분#제가 느끼기에 여러명의 선생님들을 거치며 알게된것인데, 수업을 열심히 가르쳐주시는 선생님이 계신 반면 대충 가르쳐주시는 선생님도 계신다는 것입니다.#@문장구분# 열심히 가르쳐주시는 선생님의 수업은 수업을 듣는 저도 즐겁고 더 열심히 수업에 참여하고 싶은 반면, 대충 가르쳐주시는 선생님의 수업은 정말 듣고 싶다는 생각도 안듭니다.#@문장구분# 그러나, 대부분 그런 선생님들이 수업을 안들으면 태도가 그게 뭐냐는 말씀을 많이들 하십니다.#@문장구분# 먼저 그 태도를 갖추셔야 할텐데말이죠.#@문장구분# 어찌 되었든간에, 선생님에게 필요한 요소 2가지는 성실함과 끊임없는 고민을 한는 선생님입니다.#@문장구분# 학생을 가르쳐야한다는 선생님의 역할을 가장 잘 수행할 수 있게 해주는 요소이기 때문입니다.#@문장구분#",
+      "paragraph_len": 527,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.3,
+      22.05,
+      13.75
+    ],
+    "essay_scoreT_avg": 19.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 느끼기에 여러 명의 선생님들을 거치며 알게 된 것인데, 수업을 열심히 가르쳐주시는 선생님이 계신 반면 대충 가르쳐주시는 선생님도 계신다는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 느끼기에 <문법_맞춤법>여러명의</문법_맞춤법> 선생님들을 거치며 알게된것인데, 수업을 열심히 가르쳐주시는 선생님이 계신 반면 대충 가르쳐주시는 선생님도 계신다는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 열심히 가르쳐주시는 선생님의 수업은 수업을 듣는 저도 즐겁고 더 열심히 수업에 참여하고 싶은 반면, 대충 가르쳐주시는 선생님의 수업은 정말 듣고 싶다는 생각도 안 듭니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 열심히 가르쳐주시는 선생님의 수업은 수업을 듣는 저도 즐겁고 더 열심히 수업에 참여하고 싶은 반면, 대충 가르쳐주시는 선생님의 수업은 정말 듣고 싶다는 생각도 <문법_맞춤법>안듭니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나, 대부분 그런 선생님들이 수업을 안 들으면 태도가 그게 뭐냐는 말씀을 많이들 하십니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러나, 대부분 그런 선생님들이 수업을 <문법_맞춤법>안들으면 </문법_맞춤법>태도가 그게 뭐냐는 말씀을 많이들 하십니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 그 태도를 갖추셔야 할 텐데 말이죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 그 태도를 갖추셔야 <문법_맞춤법>할텐데말이죠</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어찌 되었든 간에, 선생님에게 필요한 요소 2가지는 성실함과 끊임없는 고민을 하는 선생님입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어찌 <문법_맞춤법>되었든간에</문법_맞춤법>, 선생님에게 필요한 요소 2가지는 성실함과 끊임없는 고민을 한는 선생님입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학생을 가르쳐야 한다는 선생님의 역할을 가장 잘 수행할 수 있게 해주는 요소이기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학생을 <문법_맞춤법>가르쳐야한다는 </문법_맞춤법>선생님의 역할을 가장 잘 수행할 수 있게 해주는 요소이기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69688",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 388,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 다문화 친구들을 그냥사람이라고 생각한다.#@문장구분# 어차피 똑같고 미래에는 다문화 친구들과 친해야할수도 있기때문이다. #@문장구분#그리고 다문화 친구들을 동일한국인으로 인정 받게하려면 다문화 친구들을몇명씩 대려와서 가치 지내보는것이다.#@문장구분# 그러면 우리들은 다문화친구들과 익숙해지고 더 친하게 지낼수도 있을거 같아서 이다.#@문장구분# 근데 피부색이 다르다고 차별을 왜 하는건지 잘 모르겠다.#@문장구분# 그냥 똑같은 사람이고 똑같은 마음을 가지고 있는사람이기때문에 그냥 똑같은 사람이다.#@문장구분# 학교나 국가에서 아직 차별과 편견이 남아있다고한다.#@문장구분# 물론 처음에는 어색해서 말도 못하고 신기해 하는데 쪼금 익숫해진다면 어색하지않고 친하게 지낼것이다.#@문장구분# 만약 우리반에 다문화친구들이 왔다면 난 그친구에게 다가가서 이름을 물어봐 사이좋게 지낼거같다.#@문장구분# 물론이게 말처럼 쉬운것은 아니지만 쪼금이라도 사이좋게 지낼것이다.#@문장구분# 다문화친구가 왔을때는 그 다문화 친구의 마음은 어떨까 궁금하다#@문장구분# 만약 내가 다문화친구라면 너무어색해서 다시자신나라로 돌아가고 싶었을거 같다.",
+      "paragraph_len": 719,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23,
+      22.435715,
+      28
+    ],
+    "essay_scoreT_avg": 24.47857,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 다문화 친구들을 그냥 사람이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 다문화 친구들을 <문법_맞춤법>그냥사람이라고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어차피 똑같고 미래에는 다문화 친구들과 친해야 할 수도 있기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어차피 똑같고 미래에는 다문화 친구들과<문법_맞춤법> 친해야할수도 있기때문이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 다문화 친구들을 동일 한국인으로 인정받게 하려면  다문화 친구들을 몇 명씩 데려와서  같이 지내보는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 다문화 친구들을 동<문법_맞춤법>일한국인으로 인정 받게하려면</문법_맞춤법> 다문화 친구들을몇명씩 대려와서 가치 지내보는것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 우리들은 다문화 친구들과 익숙해지고 더 친하게 지낼 수도 있을 것 같아서이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면 우리들은 <문법_맞춤법>다문화친구들과</문법_맞춤법> 익숙해지고 더 친하게 지낼수도 있을거 같아서 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 피부색이 다르다고 차별을 왜 하는 건지 잘 모르겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 피부색이 다르다고 차별을 왜 <문법_맞춤법>하는건지</문법_맞춤법> 잘 모르겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그냥 똑같은 사람이고 똑같은 마음을 가지고 있는 사람이기 때문에  그냥 똑같은 사람이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그냥 똑같은 사람이고 똑같은 마음을 가지고 <문법_맞춤법>있는사람이기때문에</문법_맞춤법> 그냥 똑같은 사람이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교나 국가에서 아직 차별과 편견이 남아있다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교나 국가에서 아직 차별과 편견이 <문법_맞춤법>남아있다고한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 처음에는 어색해서 말도 못 하고 신기해하는데데 조금 익숙해진다면 어색하지 않고  친하게 지낼 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 처음에는 어색해서 <문법_맞춤법>말도 못하고 신기해 하는</문법_맞춤법>데 쪼금 익숫해진다면 어색하지않고 친하게 지낼것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 우리 반에 다문화 친구들이 왔다면 난 그 친구에게 다가가서 이름을 물어봐 사이좋게 지낼 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 <문법_맞춤법>우리반에 다문화친구들이</문법_맞춤법> 왔다면 난 그친구에게 다가가서 이름을 물어봐 사이좋게 지낼거같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론이게 말처럼 쉬운 것은 아니지만 쪼금이라도 사이좋게 지낼 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론이게 말처럼<문법_맞춤법> 쉬운것은</문법_맞춤법> 아니지만 쪼금이라도 사이좋게 지낼것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 친구가 왔을 때는 그 다문화 친구의 마음은 어떨까 궁금하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다문화친구가 왔을때는 </문법_맞춤법>그 다문화 친구의 마음은 어떨까 궁금하다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 내가 다문화 친구라면 너무 어색해서 다시 자신 나라로 돌아가고 싶었을 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 내가 <문법_맞춤법>다문화친구라면 너무어색해서 다시자신나라로 돌아가고 싶었을거</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49862",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 500,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

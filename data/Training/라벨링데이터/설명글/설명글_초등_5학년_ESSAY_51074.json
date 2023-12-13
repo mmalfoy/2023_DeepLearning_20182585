@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지키려면 해야할 규칙 들이 정말 많습니다.#@문장구분# 제가 생각하는 결론은 1번째로 생각하는 것은 손씻기 입니다.#@문장구분# 손을 깻끗이 씼지 않는 손으로 음식을 먹게 된다면 감기나 병에 걸릴 확율이 높습니다.#@문장구분#그리고 목욕도 중요합니다. #@문장구분#씻지 않으면 몸에 먼지가 싸여서 감기나 간지러움 을 격을수 있습니다.#@문장구분# 그리고 식당에서도 수저를 남이 쓰던 식탁에 두면 드러운 세균이 솝톱이나 발톱을 깍지 않으면 그사이에 들어가는 세균이 위생의 좋지 않습니다. #@문장구분#감기나 독감 등의 걸리는 원인은 바로 위생 때문 입니다#@문장구분# 위생을 지키지 않으면 심한 병에 걸릴수 있는 확율이 높습니다.#@문장구분# 방에 싸이는 먼지도 매일 닦아야 합니다#@문장구분# 적어도 일주일에 1번이라도 닦아야 합니다.",
+      "paragraph_len": 532,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      21.133335,
+      13.419047
+    ],
+    "essay_scoreT_avg": 18.295238,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "위생을 지키려면 해야 할 규칙들이 정말 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위생을 지키려면<문법_맞춤법> 해야할 규칙 들이</문법_맞춤법> 정말 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 생각하는 결론은 1번째로 생각하는 것은 손 씻기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 생각하는 결론은 1번째로 생각하는 것은<문법_맞춤법> 손씻기 입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손을 깨끗이 씻지 않는 손으로 음식을 먹게 된다면 감기나 병에 걸릴 확률이 높습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손을 <문법_맞춤법>깻끗이 씼지 않는 손으로 음식을 먹게 된다면 감기나 병에 걸릴 확율이 </문법_맞춤법>높습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "씻지 않으면 몸에 먼지가 쌓여서 감기나 간지러움을 격을 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "씻지 않으면 몸에 먼지가 <문법_맞춤법>싸여서 감기나 간지러움 을 격을수</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 식당에서도 수저를 남이 쓰던 식탁에 두면 더러운 세균이 손톱이나 발톱을 깍지 않으면 그 사이에 들어가는 세균이 위생의 좋지 않습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 식당에서도 수저를 남이 쓰던 식탁에 두면<문법_맞춤법> 드러운 세균이 솝톱이나 발톱을 깍지 않으면 그사이에</문법_맞춤법> 들어가는 세균이 위생의 좋지 않습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "감기나 독감 등의 걸리는 원인은 바로 위생 때문입니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "감기나 독감 등의 걸리는 원인은 바로 위생 <문법_맞춤법>때문 입니</문법_맞춤법>다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위생을 지키지 않으면 심한 병에 걸릴 수 있는 확률이 높습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 위생을 지키지 않으면 심한 병에<문법_맞춤법> 걸릴수 있는 확율이</문법_맞춤법> 높습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51074",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 354,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

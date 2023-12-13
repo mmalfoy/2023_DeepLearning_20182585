@@ -1,0 +1,288 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 레고로 다양한 모형을 만드는걸 취미로 삷습니다.#@문장구분#레고란 무엇인가요?#@문장구분#레고란 다양한 모형으로 이루어진 블럭인데요.#@문장구분#이레고로 설명서를 보면서 만들면 멋있을수있지만 언젠가는 정떨어져서 필요없을거란 생각을 하지만 그래고를 다 한블럭으로 분리해놓은후 자신이 원하는 모형으로 분리해놓은후 자신이 원하는 모형으로 만들면되는 저는 그매력이 좋습니다.#@문장구분#물론 그림을 그리는것도 좋아합니다만 그림보다 레고 조립을 많이해서 제취미는 레고만들기인거 같습니다.#@문장구분#하지만 저는 다양한것도 많이 합니다.#@문장구분#게임도 많이하고 TV도 보기도 하고 요즘은 할께없어서 숙제도 뭐 할만합니다.#@문장구분#근데 요즘은 게임은 출석보상만 받고 TV는 영화체널만 보고 숙제는 많기도 해서 제 심정은 마치 반복되는 시계라고 생각하기도 한답니다.#@문장구분#그래서 저는 이제부터 가벼운 운동을 할려합니다.#@문장구분#레고조립은 계속할겁니다.",
+      "paragraph_len": 597,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.285713,
+      24.447618,
+      26
+    ],
+    "essay_scoreT_avg": 26.244444,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 레고로 다양한 모형을 만드는걸 취미로 삼습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 레고로 다양한 모형을 만드는걸 취미로 <문법_맞춤법>삷습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "이레고로 설명서를 보면서 만들면 멋있을수있지만 언젠가는 정떨어져서 필요없을거란 생각을 하지만 그래고를 다 한블럭으로 분리해놓은후 자신이 원하는 모형으로 분리해놓은후 자신이 원하는 모형으로 만들면되는 저는 그매력이 좋습니다.",
+      "sentence_corr_txt_styling": "이레고로 설명서를 보면서 만들면 멋있을수있지만 언젠가는 정떨어져서 필요없을거란 생각을 하지만 그래고를 다 한블럭으로 분리해놓은후 자신이 원하는 모형으로 분리해놓은후 자신이 원하는 모형으로 만들면되는 저는 그매력이 좋습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물론 그림을 그리는 것도 좋아합니다만 그림보다 레고 조립을 많이 해서 제 취미는 레고 만들기인 거 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>물론 그림을 그리는것도 좋아합니다만 그림보다 레고 조립을 많이해서 제취미는 레고만들기인거 같습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 저는 다양한 것도 많이 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 저는 <문법_맞춤법>다양한것도</문법_맞춤법> 많이 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "게임도 많이 하고 TV도 보기도 하고 요즘은 할 게 없어서 숙제도 뭐 할 만합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "게임도 <문법_맞춤법>많이하고</문법_맞춤법> TV도 보기도 하고 요즘은 할께없어서 숙제도 뭐 할만합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "근데 요즘은 게임은 출석 보상만 받고 TV는 영화 채널만 보고 숙제는 많기도 해서 제 심정은 마치 반복되는 시계라고 생각하기도 한답니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "근데 요즘은 게임은 <문법_맞춤법>출석보상</문법_맞춤법>만 받고 TV는 영화체널만 보고 숙제는 많기도 해서 제 심정은 마치 반복되는 시계라고 생각하기도 한답니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저는 이제부터 가벼운 운동을 하려 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 저는 이제부터 가벼운 운동을 <문법_맞춤법>할려합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "레고 조립은 계속 할 겁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>레고조립은 계속할겁니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48249",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 428,
+    "essay_main_subject": "나의 취미"
+  }
+}

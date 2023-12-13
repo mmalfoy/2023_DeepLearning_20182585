@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "교육 평등은 기존의 전반적인 정치 경제적 불평등들이 사라진 후에야 실현된다고 생각한다.#@문장구분# 나는 교육 불평등이 일어나게 된 이유가 경제적 불평등으로부터 발생했다고 생각해왔다.#@문장구분# 사실상 수도권과 비수도권의 격차가 많이 나게 된 지금의 이유는 '인프라'의 문제가 중요시되고 있다는 것이다.#@문장구분# 이러한 인프라는 경제적 조건을 갖추고 있는 사람들의 가까이에 위치하게 되는 것이 사실이다.#@문장구분# 예를 들어 브랜트 아파트 대단지의 상가는 유동인구 수가 많고 기본적으로 브랜드 아파트에 거주할만한 능력이 있는 사람들도 구성되어있다는 점으로 미루어보아 많은 수익이 창출 가능하다는 점을 장점으로 내세워 높은 임대료를 측정해 상가를 분양할 수 있다.#@문장구분# 그렇기 때문에 소비자가 많이 위치하는 곳에 더 좋은 시설과 인프라가 구축되기 마련이라는 것이다.#@문장구분#우리는 이러한 점에 기반해서 교육 격차를 어떻게 해소할 것인지 고민해봐야만 한다.#@문장구분# 인프라가 비수도권에도 구축할 수 있는 환경을 만들어 주어야 한다는 것이다.#@문장구분#사람들이 평등한 교육을 받을 수 있도록 하기 위해서는 인프라 건설이 필수적이다.#@문장구분#",
+      "paragraph_len": 711,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.01111,
+      22.077778,
+      22.077778
+    ],
+    "essay_scoreT_avg": 22.722223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "교육 평등은 기존의 전반적인 정치, 경제적 불평등이 사라진 후에야 실현된다고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": "교육 평등은 기존의 전반적인 <문법_기타>정치</문법_기타> 경제적 <문법_조사>불평등들이</문법_조사> 사라진 후에야 실현된다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 교육 불평등이 일어나게 된 이유가 경제적 불평등으로부터 발생했다고 생각했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 나는 교육 불평등이 일어나게 된 이유가 경제적 불평등으로부터 발생했다고 <문법_시제>생각해왔다</문법_시제>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 사실상 수도권과 비수도권의 격차가 많이 나게 된 지금의 이유는 '인프라'의 문제가 중요시되고 있다는 것이다.",
+      "sentence_corr_txt_styling": " 사실상 수도권과 비수도권의 격차가 많이 나게 된 지금의 이유는 '인프라'의 문제가 중요시되고 있다는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 브랜트 아파트 대단지의 상가는 유동인구 수가 많고 기본적으로 브랜드 아파트에 거주할 만한 능력이 있는 사람들도 구성되어있다는 점으로 미루어 보아 많은 수익이 창출 가능하다는 점을 장점으로 내세워 높은 임대료를 측정해 상가를 분양할 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들어 브랜트 아파트 대단지의 상가는 유동인구 수가 많고 기본적으로 브랜드 아파트에 <문법_맞춤법>거주할만한</문법_맞춤법> 능력이 있는 사람들도 구성되어있다는 점으로 미루어보아 많은 수익이 창출 가능하다는 점을 장점으로 내세워 높은 임대료를 측정해 상가를 분양할 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리는 이러한 점에 기반해서 교육 격차를 어떻게 해소할 것인지 고민해 봐야만 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리는 이러한 점에 기반해서 교육 격차를 어떻게 해소할 것인지 <문법_맞춤법>고민해봐야만</문법_맞춤법> 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69350",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 534,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

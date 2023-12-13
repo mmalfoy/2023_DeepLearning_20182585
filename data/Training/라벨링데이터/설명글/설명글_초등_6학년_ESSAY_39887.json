@@ -1,0 +1,276 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 존경하는 분은 '유관순'이다.#@문장구분# 유관순의 본받을 점은\n 첫째, 유관순은 불가능할 수도 있는 조선의 독립에 시위 주동자가 되어 조선의 독립에 힘을 보탰다.#@문장구분# 주동자가 되는 것은 힘든 일이고 그 어린 나이에 불가능할 지 도 모르는 조선 독립에 목숨을 걸고 주동자가 되어 시위를 했다.#@문장구분#\n 둘째, 유관순은 큰 상처를 입고도 유관순은 또 다시 시위를 일으키려고 일어 났습니다.#@문장구분# 산을 넘어야 보이는 마을들을 들리며 시위를 다시 하자고 소문을 내며 다니고 있었다.#@문장구분# 그리고 또 다른 마을에 들렸을 때 숨어 있던 일본 헌병들에게 잡혀 갔다.#@문장구분# 큰 상처에도 아프다는 생각보다 독립을 위해 목숨을 받쳐서 라도 시위를 다시 일으키겠다는 것에 놀랐다.#@문장구분#\n 유관순은 죽지 전 까지 시위를 하는 모습이 멋졌고 시위를 게속 하겠다는 것에 끈기가 대단하다는 것을 알고 유관순을 존경하게 되었다.#@문장구분#",
+      "paragraph_len": 586,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      20,
+      18
+    ],
+    "essay_scoreT_avg": 21.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 유관순의 본받을 점은\n 첫째, 유관순은 불가능할 수도 있는 조선 독립의 시위 주동자가 되어 조선의 독립에 힘을 보탰다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 유관순의 본받을 점은\n 첫째, 유관순은 불가능할 수도 있는 <문법_조사>조선의 독립에</문법_조사> 시위 주동자가 되어 <문법_조사>조선의 독립에</문법_조사> 힘을 보탰다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 주동자가 되는 것은 힘든 일이고 그 어린 나이에 불가능할지도 모르는 조선 독립에 목숨을 걸고 주동자가 되어 시위를 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 주동자가 되는 것은 힘든 일이고 그 어린 나이에<문법_맞춤법> 불가능할 지 도</문법_맞춤법> 모르는 조선 독립에 목숨을 걸고 주동자가 되어 시위를 했다.",
+      "sentence_corr_txt_styling": " 주동자가 되는 것은 힘든 일이고 그 어린 나이에 불가능할지도 모르는 조선 독립에 목숨을 걸고 주동자가 되어 시위를 했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 둘째, 유관순은 큰 상처를 입고도 유관순은 또다시 시위를 일으키려고 일어났습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 둘째, 유관순은 큰 상처를 입고도 유관순은 또 다시 시위를 일으키려고 <문법_맞춤법>일어 났습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "\n 둘째, 유관순은 큰 상처를 입고도 유관순은 또다시 시위를 일으키려고 일어났습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 산을 넘어야 보이는 마을들을 들리며 시위를 다시 하자고 소문을 내며 다니고 있었다.",
+      "sentence_corr_txt_styling": " 산을 넘어야 보이는 마을들을 들리며 시위를 다시 하자고 소문을 내며 다니고 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 다른 마을에 들렸을 때 숨어 있던 일본 헌병들에게 잡혀갔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 또 다른 마을에 들렸을 때 숨어 있던 일본 헌병들에게 <문법_맞춤법>잡혀 갔다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 큰 상처에도 아프다는 생각보다 독립을 위해 목숨을 바쳐서라도 시위를 다시 일으키겠다는 것에 놀랐다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 큰 상처에도 아프다는 생각보다 독립을 위해 목숨을 <문법_맞춤법>받쳐서 라도</문법_맞춤법> 시위를 다시 일으키겠다는 것에 놀랐다.",
+      "sentence_corr_txt_styling": " 큰 상처에도 아프다는 생각보다 독립을 위해 목숨을 바쳐서라도 시위를 다시 일으키겠다는 것에 놀랐다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 유관순은 죽기 전까지도 시위를 하는 모습이 멋졌고 시위를 계속 하겠다는 것에 끈기가 대단하다는 것을 알고 유관순을 존경하게 되었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 유관순은 <문법_맞춤법><문법_조사>죽지 전 까지</문법_조사></문법_맞춤법> 시위를 하는 모습이 멋졌고 시위를 게속 하겠다는 것에 끈기가 대단하다는 것을 알고 유관순을 존경하게 되었다.",
+      "sentence_corr_txt_styling": "\n 유관순은 죽기 전까지도 시위를 하는 모습이 멋졌고 시위를 계속 하겠다는 것에 끈기가 대단하다는 것을 알고 유관순을 존경하게 되었다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39887",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 428,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

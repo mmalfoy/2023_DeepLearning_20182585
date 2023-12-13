@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 살고 싶은 집은 2층 집 입니다.#@문장구분# 먼저 마당은 땅으로 되어있고 집안 문은 뒤에는 투명 문으로 되어있었고 문 앞에는 유리 말고 나무로 하얀색깔로 되어 있는 문 입니다.#@문장구분# 그리고 안에 들어오면 거실은 회색 소파가 좋습니다.#@문장구분# 왜냐하면 먼지가 잘 안 묻기 때문입니다.#@문장구분# 티비는 검정 색깔로 하고 탁자는 유리로 서랍장은 나무로 합니다.#@문장구분# 그래야 깨끗합니다.#@문장구분# 그리고 부얶 탁자는 갈색깔로 하고 요리하는 곳은 회색으로 바꾸면 된다.#@문장구분# 방은 4개 있고 화장실은 3개로 하면 될 것 같다.#@문장구분# 먼저 방1개는 내 방이고 또 방 1개는 언니방 방2개는 엄마 아빠 자는 곳과 옷 방 이있으면 좋겠다.#@문장구분# 그리고 화장실 3개는 깨끗한 화장실 이었으면 좋겠다.#@문장구분# 2층으로 올라가는 계단이있었으면 좋겠다.#@문장구분# 2층으로 올라가면 방2개 다락방이 있으면 된다.#@문장구분# 방1개는 공부 방 또 다른 방1개는 화장실이랑 붙어져있는 침실 방 이다.#@문장구분# 다락방은 노는 곳으로 했으면 좋겠다.#@문장구분# 커튼도 달아줘요.#@문장구분#",
+      "paragraph_len": 772,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      21.133335,
+      20.333334
+    ],
+    "essay_scoreT_avg": 20.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 살고 싶은 집은 2층 집입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 살고 싶은 집은 2층 <문법_맞춤법>집 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 마당은 땅으로 되어있고 집안 문은 뒤에는 투명 문으로 되어있었고 문 앞에는 유리 말고 나무로 하얀 색깔로 되어 있는 문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 마당은 땅으로 되어있고 집안 문은 뒤에는 투명 문으로 되어있었고 문 앞에는 유리 말고 나무로 <문법_맞춤법>하얀색깔로 되어 있는 문 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 부엌 탁자는 갈색으로 하고 요리하는 곳은 회색으로 바꾸면 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>부얶 탁자는 갈색깔로 </문법_맞춤법>하고 요리하는 곳은 회색으로 바꾸면 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 방 1개는 내 방이고 또 방 1개는 언니 방 방 2개는 엄마 아빠 자는 곳과 옷 방 이 있으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 <문법_맞춤법>방1개는 내 방이고 또 방 1개는 언니방 방2개는 엄마 아빠 자는 곳과 옷 방 이있으면</문법_맞춤법> 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 화장실 3개는 깨끗한 화장실이었으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 화장실 3개는 깨끗한 <문법_맞춤법>화장실 이었으면 좋겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2층으로 올라가는 계단이 있었으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 2층으로 올라가는 <문법_맞춤법>계단이있었으면 좋겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2층으로 올라가면 방 2개 다락방이 있으면 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 2층으로 올라가면 <문법_맞춤법>방2개</문법_맞춤법> 다락방이 있으면 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 방 1개는 공부 방 또 다른 방 1개는 화장실이랑 붙어져 있는 침실 방이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>방1개는 공부 방 또 다른 방1개는 화장실이랑 붙어져있는 침실 방 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46122",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 473,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

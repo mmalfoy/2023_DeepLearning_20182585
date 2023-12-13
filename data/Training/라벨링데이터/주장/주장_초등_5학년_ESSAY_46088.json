@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 표현의 자유를 제한해야 한다고 생각한다. #@문장구분#왜냐하면 자신을 모른다는 이유로 만만하게 악플을 달거나, 거짓 소문을 퍼뜨립니다. #@문장구분#그러면 남은 불행하거나 억울한 상황에 처할 수 도있습니다. #@문장구분#제가 신문으로 보았습니다. #@문장구분#또한, 한 연예인은 거짓소문으로도 자살을 했습니다.#@문장구분# 하지만 사건들은 동일하게 익명의 가해자 때문이였습니다. #@문장구분#이러한 이유로 자유를 제안하는게 힘들더라도 자유를 제안하면 악플이 줄어들것 입니다.#@문장구분# 그러니 자유를(SNS를)  제안해야합니다.#@문장구분# 제안하는 방법은 익명이 아닌 로그인 후 실명으로 댓글을 달 수 있다고 정하는것이 좋다고 생각한다. #@문장구분#그러면 개인정보가 들어날 수 있으니, 적어도 반을 줄어들게 할 수 도있다. #@문장구분#그래도 악플을 달면 고소 후 법이 더 강화됬으면 좋겠다.#@문장구분# 저는 악플에 시달리는 사람들을 위해서라도 자유를 제한하면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 658,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.75,
+      24.55,
+      15.914286
+    ],
+    "essay_scoreT_avg": 21.738096,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "미디어 발전과 사용방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그러면 남은 불행하거나 억울한 상황에 처할 수 도 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러면 남은 불행하거나 억울한 상황에 <문법_맞춤법>처할 수 도있습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또한, 한 연예인은 거짓 소문으로도 자살을 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또한, 한 연예인은<문법_맞춤법> 거짓소문으로도</문법_맞춤법> 자살을 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 사건들은 동일하게 익명의 가해자 때문이었습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 사건들은 동일하게 익명의 가해자 <문법_맞춤법>때문이였습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이러한 이유로 자유를 제안하는 게 힘들더라도 자유를 제안하면 악플이 줄어들 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이러한 이유로 자유를 <문법_맞춤법>제안하는게 힘들더라도 자유를 제안하면 악플이 줄어들것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니 자유를(SNS를)  제안해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니 자유를(SNS를)  <문법_맞춤법>제안해야합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제안하는 방법은 익명이 아닌 로그인 후 실명으로 댓글을 달 수 있다고 정하는 것이 좋다고 생각한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제안하는 방법은 익명이 아닌 로그인 후 실명으로 댓글을 달 수 있다고 <문법_맞춤법>정하는것이 좋다고 생각한다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러면 개인 정보가 드러날 수 있으니, 적어도 반을 줄어들게 할 수 도있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러면 <문법_맞춤법>개인정보가 들어날</문법_맞춤법> 수 있으니, 적어도 반을 줄어들게 할 수 도있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래도 악플을 달면 고소 후 법이 더 강화됐으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래도 악플을 달면 고소 후 법이 더 <문법_맞춤법>강화됬으면 좋겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46088",
+    "essay_prompt": " 미디어는 우리 주변에서 쉽게 찾아볼 수 있습니다. 그중 텔레비전과 라디오, 컴퓨터, 스마트폰 등이 대표적인 미디어라고 할 수 있지요. 사람들은 이 미디어를 이용해 자신의 의사나 감정, 또는 정보를 주고받습니다.\n\n 과거에는 생각이나 뜻을 전하기 위해 말을 이용해 전달해야 했지만, 지금은 SNS(페이스북, 카카오톡 등)를 통해 실시간으로 대화하며 화상 채팅을 무료로 즐기는 시대가 되었습니다. 여러분도 가족/친구들과 SNS를 통해 많은 소통을 하고 계시지요?\n\n 이러한 미디어는 매우 빠른 속도로 진화를 거듭하고 있어요. 앞으로도 더욱 우리 생활 깊숙이 파고들 것입니다.\n\n 다만, 미디어의 발전은 수많은 문제의 원인이 되기도 해요. 다른 사람의 얼굴을 SNS에 올리거나 악플로 남에게 상처 되는 말을 하기도 하지요. 또한, 틀린 정보가 빠르게 퍼져 나가 사람들에게 해를 끼치기도 한답니다.\n\n 이렇게 빠르게 변화하는 미디어의 발 전속에서 우리는 어떻게 미디어를 사용해야 할까요?\n\n 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 할까요? 아니면 새로운 시대에 맞게 모든 자유를 보장해야 할까요? 그 사이에 적절한 사용 방법이 있을까요? 여러분의 의견과 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 419,
+    "essay_main_subject": "미디어 발전과 사용방법"
+  }
+}

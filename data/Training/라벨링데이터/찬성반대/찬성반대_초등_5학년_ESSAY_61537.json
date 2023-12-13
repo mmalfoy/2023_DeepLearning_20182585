@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제목 : 다수결에 대한 나의 생각#@문장구분# \n 내용시작!#@문장구분#\n 저는 반대의 입장입니다. #@문장구분#왜냐하면 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우 '도' 있다고 말합니다. #@문장구분#이 '도' 를 보면 이런 경우가 많이 일어나지 않은 것이라는 것을 알수 있습니다.#@문장구분# 하지만 생활에서는 잘못된 이런일이 자주 일어납니다.#@문장구분# 예를 들어 내 의견이 좋지만 저번에 내 말대로 한번 했었으니 다른쪽 의견을 선택한다는 이상하고 터무늬없는 이유나, 제한에 자신이 해달라는 일을 해주지 않았어서 반대쪽 의견을 선택한다는 이유를 대서 별로 차이로 지는일, 사실과 친한 친구 쪽의 의견을 선택한다는 이유를 대는일......등등이 있습니다.#@문장구분# 그래서 제가 생각해번 방법은! #@문장구분#시간이 조금 걸리겠지만, 각 의견의 대표들이 제3자에게 이유를 설명하여 제3자의 의견을 따르는 것 입니다.#@문장구분# 그리고 제3자는 공정하고 신중한 사람으로 제안해야 합니다.#@문장구분# 제 의견은 여기까지 입니다. #@문장구분#감사합니다.",
+      "paragraph_len": 715,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.133335,
+      21.933334,
+      26
+    ],
+    "essay_scoreT_avg": 21.688889,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " \n 내용 시작!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>내용시작</문법_맞춤법>!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 '도'를 보면 이런 경우가 많이 일어나지 않은 것이라는 것을 알 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이 '도'<문법_맞춤법> 를</문법_맞춤법> 보면 이런 경우가 많이 일어나지 않은 것이라는 것을 알수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 생활에서는 잘못된 이런 일이 자주 일어납니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 생활에서는 잘못된 <문법_맞춤법>이런일이 </문법_맞춤법>자주 일어납니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 내 의견이 좋지만 저번에 내 말대로 한번 했었으니 다른 쪽 의견을 선택한다는 이상하고 터무니없는 이유나, 제한에 자신이 해달라는 일을 해주지 않아서 반대쪽 의견을 선택한다는 이유를 대서 별로 차이로 지는 일, 사실과 친한 친구 쪽의 의견을 선택한다는 이유를 대는 일......등등이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들어 내 의견이 좋지만 저번에 내 말대로 한번 했었으니 <문법_맞춤법>다른쪽 </문법_맞춤법>의견을 선택한다는 이상하고 터무늬없는 이유나, 제한에 자신이 해달라는 일을 해주지 않았어서 반대쪽 의견을 선택한다는 이유를 대서 별로 차이로 지는일, 사실과 친한 친구 쪽의 의견을 선택한다는 이유를 대는일......등등이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "시간이 조금 걸리겠지만, 각 의견의 대표들이 제3자에게 이유를 설명하여 제3자의 의견을 따르는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "시간이 조금 걸리겠지만, 각 의견의 대표들이 제3자에게 이유를 설명하여 제3자의 의견을 따르는 <문법_맞춤법>것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제 의견은 여기까지입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제 의견은 여<문법_맞춤법>기까지 입니</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61537",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 498,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

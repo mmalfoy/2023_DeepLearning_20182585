@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 존경하는 인물은 빌 게이츠이다.#@문장구분#  빌 게이츠는 미국의 마이크로소프트 설립자이자 기업인이다.#@문장구분# 어렸을 때부터 컴퓨터 프로그램 만드는 것을 좋아했던 그는 하버드 대학교를 자퇴하고 폴 앨런과 함께 마이크로소프트를 공동 창립했다.#@문장구분# 그는 당시 프로그래밍 언어인 베이직 해석프로그램과 알테어용 프로그래밍 언어인 알테어 베이직을 개발했다.#@문장구분# 게이츠는 이후 2008년 마이크로소프트에서 전일제 근무를 그만둔 이후 여러 자선 활동을 추구해 왔다.#@문장구분# 그는 세계 최대의 민간 자선단체로 알려진 빌 & 멜린다 게이츠 재단을 통해 여러 자선단체와 과학 연구 프로그램에 상당한 액수의 돈을 기부했다.#@문장구분# 2009년에 게이츠와 워렌 버핏은 더기빙플레지를 설립했는데, 이 서약서를 통해 자신과 다른 억만장자들은 적어도 재산의 절반을 자선단체에 기부하겠다고 서약했다.#@문장구분# 나는 빌 게이츠가 지금까지 했던 업적과 행동을 보고 저렇게 관심이 많은 걸로 저렇게 큰 인물이 될수 있다는 걸 보고 나도 빌 게이츠처럼 착한인물이 되고싶다.#@문장구분# 나도 기부도하고 멋진 사람이 될 것이다.#@문장구분#",
+      "paragraph_len": 705,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.6,
+      21.85,
+      20
+    ],
+    "essay_scoreT_avg": 22.483332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그는 당시 프로그래밍 언어인 베이직 해석 프로그램과 알테어용 프로그래밍 언어인 알테어 베이직을 개발했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그는 당시 프로그래밍 언어인 베이직 <문법_맞춤법>해석프로그램과 </문법_맞춤법>알테어용 프로그래밍 언어인 알테어 베이직을 개발했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 게이츠는 이후 2008년 마이크로소프트에서 전일제 근무를 그만둔 이후 여러 자선 활동을 추구해 왔다.",
+      "sentence_corr_txt_styling": " 게이츠는 이후 2008년 마이크로소프트에서 전일제 근무를 그만둔 이후 여러 자선 활동을 추구해 왔다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2009년에 게이츠와 워렌 버핏은 더 기빙 플레지를 설립했는데, 이 서약서를 통해 자신과 다른 억만장자들은 적어도 재산의 절반을 자선단체에 기부하겠다고 서약했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 2009년에 게이츠와 워렌 버핏은 <문법_맞춤법>더기빙플레지를 </문법_맞춤법>설립했는데, 이 서약서를 통해 자신과 다른 억만장자들은 적어도 재산의 절반을 자선단체에 기부하겠다고 서약했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 나는 빌 게이츠가 지금까지 했던 업적과 행동을 보고 저렇게 관심이 많은 걸로 저렇게 큰 인물이 될수 있다는 걸 보고 나도 빌 게이츠처럼 착한인물이 되고싶다.",
+      "sentence_corr_txt_styling": " 나는 빌 게이츠가 지금까지 했던 업적과 행동을 보고 저렇게 관심이 많은 걸로 저렇게 큰 인물이 될수 있다는 걸 보고 나도 빌 게이츠처럼 착한인물이 되고싶다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 기부도 하고 멋진 사람이 될 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_조사>나도 </문법_조사><문법_맞춤법>기부도하고 </문법_맞춤법>멋진 사람이 될 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39880",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 521,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

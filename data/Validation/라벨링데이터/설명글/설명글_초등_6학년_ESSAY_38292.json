@@ -1,0 +1,300 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "친구들에게 나는 도움을 주고 친구들의 이야기를 잘 들어주는 친구가 되고 싶다.#@문장구분# 그리고 친구들에게 필요한 친구가 되고싶다. #@문장구분#친구가 힘들거나 기쁘거나 슬플때 같이 공감하고 위로해주는 친구가 되고싶다.#@문장구분# 나를 먼저 생각하지 않고 친구를 먼저 챙기고 아껴주는 친구가 되고싶다.#@문장구분# 그리고 친구에게 아낌없이 배푸는 친구가 되고싶다.#@문장구분# 언제나 도움을주고 위로가 되는 친구가 되고싶다. #@문장구분#그리고 친구가 힘든 일이 있을때 마음 것 말할 수 있는 친구가 되고싶고 항상 친구를 응원하고 지지하는 친구가 되고싶다. #@문장구분#친구의 의견과 생각을 존중해 주는 친구가 되고싶다.#@문장구분# 그리고 친구에게 힘을주고 자신감을 주는 친구가 되고싶다.#@문장구분# 친구가 도움이 필요하면 도움이 될수 있는 친구가 되고싶다.#@문장구분#",
+      "paragraph_len": 565,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.35,
+      20.4,
+      15.75
+    ],
+    "essay_scoreT_avg": 20.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 친구들에게 도움을 주고 친구들의 이야기를 잘 들어주는 친구가 되고 싶다.",
+      "sentence_corr_reason": [
+        "이 어순이 자연스럽습니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순"
+      ],
+      "sentence_txt": "<문법_어순>친구들에게 나는</문법_어순> 도움을 주고 친구들의 이야기를 잘 들어주는 친구가 되고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구가 힘들거나 기쁘거나 슬플 때 같이 공감하고 위로해 주는 친구가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구가 힘들거나 기쁘거나 <문법_맞춤법>슬플때</문법_맞춤법> 같이 공감하고 위로해주는 친구가 되고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나를 먼저 생각하지 않고 친구를 먼저 챙기고 아껴 주는 친구가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나를 먼저 생각하지 않고 친구를 먼저 챙기고 <문법_맞춤법>아껴주는</문법_맞춤법> 친구가 되고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구에게 아낌없이 베푸는 친구가 되고 싶다.",
+      "sentence_corr_reason": [
+        "'베풀다'가 옳은 표현입니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친구에게 아낌없이 <문법_맞춤법>배푸는</문법_맞춤법> 친구가 되고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 언제나 도움을 주고 위로가 되는 친구가 되고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 언제나 <문법_맞춤법>도움을주고</문법_맞춤법> 위로가 되는 친구가 되고싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 친구에게 힘든 일이 있을 때 마음껏 말할 수 있는 친구가 되고 싶고, 항상 친구를 응원하고 지지하는 친구가 되고 싶다. ",
+      "sentence_corr_reason": [
+        "'에게'가 자연스럽습니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_조사>친구가</문법_조사> 힘든 일이 <문법_맞춤법>있을때</문법_맞춤법> 마음 것 말할 수 있는 <문법_조사>친구가</문법_조사> 되고싶고 항상 친구를 응원하고 지지하는 <문법_조사>친구가</문법_조사> 되고싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구의 의견과 생각을 존중해 주는 친구가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구의 의견과 생각을 존중해 주는 친구가 <문법_맞춤법>되고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구에게 힘을 주고 자신감을 주는 친구가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친구에게 <문법_맞춤법>힘을주고</문법_맞춤법> 자신감을 주는 친구가 되고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 도움이 필요하면 도움이 될 수 있는 친구가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "'도움'이 반복됩니다."
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 친구가 도움이 필요하면 도움이 <문법_맞춤법>될수</문법_맞춤법> 있는 친구가 되고싶다.",
+      "sentence_corr_txt_styling": " 친구가 도움이 필요하면 도움이 될 수 있는 친구가 되고 싶다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38292",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 365,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

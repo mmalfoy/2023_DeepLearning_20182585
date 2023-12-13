@@ -1,0 +1,256 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 나쁜 습관은 욕하는 것이다.#@문장구분# 욕을 하게 되는 원인은 스트레스나 학원, 학교 때문이다.#@문장구분# 그냥 혼잣말로 욕을 하거나 괜한 동생한테 욕을 해버린다.#@문장구분# 욕은 이제 내가 하는 말의 처음이나 끝에 항상 따라 붙는다.#@문장구분# 그래야 속이 좀 풀린다.#@문장구분# 하지만 내가 처음부터 욕을 했던 것은 아니다.#@문장구분# 스트레스가 계속 쌓이다보니 풀 수 있는 방법이 욕밖에 없어서였다.#@문장구분# 이러한 나쁜 습관을 고치기 위해서는 스트레스를 적게 받아야 한다.#@문장구분# 스트레스를 받지 않게 하는 방법은 여러 가지다.#@문장구분# 일단은 사람마다 다 다르겠지만 나는 게임을 하면서 스트레스를 푼다.#@문장구분# 또 달리기 등의 운동으로 스트레스를 잊어버리게 해야 한다.#@문장구분# 이것도 안 되면 높은 산에 올라가서 하늘에 대고 소리를 질렀다.#@문장구분# 이렇게 해서 스트레스가 점차 없어졌고 욕을 하는 나쁜 습관도 사라졌다.#@문장구분# 결과는 성공을 했지만 완전히 스트레스가 없어진 것은 아니다.#@문장구분# 그래서 항상 스트레스가 생기지 않도록 스스로도 조심하고, 나만의 방법으로 스트레스를 풀려고 노력한다.#@문장구분# 이제 나도 욕 없는 세상에서 살고 싶다.#@문장구분#",
+      "paragraph_len": 838,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.3,
+      26.1,
+      26.25
+    ],
+    "essay_scoreT_avg": 24.550001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그냥 혼잣말로 욕을 하거나 동생한테 괜한 욕을 해버린다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순"
+      ],
+      "sentence_txt": " 그냥 혼잣말로 욕을 하거나 <문법_어순>괜한 동생한테</문법_어순> 욕을 해버린다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 욕은 이제 내가 하는 말의 처음이나 끝에 항상 따라붙는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 욕은 이제 내가 하는 말의 처음이나 끝에 항상<문법_맞춤법> 따라 붙는다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스트레스가 계속 쌓이다 보니 풀 방법이 욕밖에 없었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "시제"
+      ],
+      "sentence_txt": " 스트레스가 계속 <문법_맞춤법>쌓이다보니</문법_맞춤법> 풀 수 있는 방법이 욕밖에 <문법_조사><문법_시제>없어서였다.</문법_시제></문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스트레스를 받지 않게 하는 방법은 여러 가지가 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 스트레스를 받지 않게 하는 방법은 <문법_어미>여러 가지다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 결과적으로 성공은 했지만 완전히 스트레스가 없어진 것은 아니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " <문법_조사>결과는 성공을 했지만</문법_조사> 완전히 스트레스가 없어진 것은 아니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 항상 스트레스가 생기지 않도록 스스로 조심하고, 나만의 방법으로 스트레스를 풀려고 노력한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그래서 항상 스트레스가 생기지 않도록 <문법_조사>스스로도 조심하고,</문법_조사> 나만의 방법으로 스트레스를 풀려고 노력한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37285",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 519,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

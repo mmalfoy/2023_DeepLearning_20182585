@@ -1,0 +1,308 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 존경하는 사람은 에디슨입니다. #@문장구분#왜냐하면 에디슨은 어려서부터 훌륭한 도전정신과 호기심이 넘쳤다. #@문장구분#또한 에디슨은 소심해서 학교생활을 많이 힘들어하다가 3개월 후 퇴학당했다.#@문장구분# 이후 에디슨은 교사인 어머니의 열성적인 교육덕분에 재능을 발휘하게 되었다. #@문장구분#또한 에디슨은 교사인 어머니의 열성적인 교육덕분에 재능을 발휘하게 되었다.#@문장구분# 또한 에디슨의 어머니는 아들의 재능을 생각해 직접 실험할수있는 과학도구와 과학책 등을 사주었다. #@문장구분#에디슨은 자신이 가지고 있느 특허의 수효만해도 약 1300여개 정도 된다.#@문장구분# 당시 19세기말~20세기 초 미국의 과학기술은 유럽보다 못했지만 에디슨을 통해 응용기술을 압도할수 있는 국가로 만들었다.#@문장구분# 에디슨은 수많은 발명중에 의미있는 대표적인 발명품은 진공관과 전구발명이라고 생각한다.#@문장구분# 전구는 발명하는데 수많은 도전과 돈, 시간과 노력 등이 들어가 10000번 정도의 실패 속에서도 전구를 발명하여 우리의 도시를 빛낸거에 대해 대단하고 감사한다.#@문장구분# 나도 에디슨처럼 훌륭한 도전정신을 갖고싶다.",
+      "paragraph_len": 708,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.35,
+      22.1,
+      21.85
+    ],
+    "essay_scoreT_avg": 19.433334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "제가 존경하는 사람은 에디슨입니다. ",
+      "sentence_corr_txt_styling": "제가 존경하는 사람은 에디슨입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 에디슨은 어려서부터 훌륭한 도전 정신과 호기심이 넘쳤다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "왜냐하면 에디슨은 어려서부터 훌륭한 <문법_맞춤법>도전정신과 </문법_맞춤법>호기심이 넘쳤다. ",
+      "sentence_corr_txt_styling": "왜냐하면 에디슨은 어려서부터 훌륭한 도전 정신과 호기심이 넘쳤다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또한 에디슨은 교사인 어머니의 열성적인 교육 덕분에 재능을 발휘하게 되었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "또한 에디슨은 교사인 어머니의 열성적인 <문법_맞춤법>교육덕분에 </문법_맞춤법>재능을 발휘하게 되었다.",
+      "sentence_corr_txt_styling": "또한 에디슨은 교사인 어머니의 열성적인 교육 덕분에 재능을 발휘하게 되었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 에디슨의 어머니는 아들의 재능을 생각해 직접 실험할 수 있는 과학 도구와 과학책 등을 사주었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 에디슨의 어머니는 아들의 재능을 생각해 직접 <문법_맞춤법>실험할수있는 </문법_맞춤법>과학도구와 과학책 등을 사주었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "에디슨은 자신이 가지고 있는 특허의 수효만 해도 약 1300여개 정도 된다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "에디슨은 자신이 가지고 <문법_어미>있느 </문법_어미>특허의 <문법_맞춤법>수효만해도 </문법_맞춤법>약 1300여개 정도 된다.",
+      "sentence_corr_txt_styling": "에디슨은 자신이 가지고 있는 특허의 수효만 해도 약 1300여개 정도 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 당시 19세기 말~20세기 초 미국의 과학기술은 유럽보다 못했지만 에디슨을 통해 응용기술을 압도할 수 있는 국가로 만들었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 당시 19<문법_맞춤법>세기말</문법_맞춤법>~20세기 초 미국의 과학기술은 유럽보다 못했지만 에디슨을 통해 응용기술을 압도할수 있는 국가로 만들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 에디슨의 수많은 발명 중에 의미있는 대표적인 발명품은 진공관과 전구 발명이라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_조사>에디슨은</문법_조사> 수많은 <문법_맞춤법>발명중에 </문법_맞춤법>의미있는 대표적인 발명품은 진공관과 전구발명이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전구는 발명하는데 수많은 도전과 돈, 시간과 노력 등이 들어가 10000번 정도의 실패 속에서도 전구를 발명하여 우리의 도시를 빛낸 것에 대해 대단하고 감사한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 전구는 발명하는데 수많은 도전과 돈, 시간과 노력 등이 들어가 10000번 정도의 실패 속에서도 전구를 발명하여 우리의 도시를 <문법_맞춤법>빛낸거에 </문법_맞춤법>대해 대단하고 감사한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 에디슨처럼 훌륭한 도전 정신을 갖고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 에디슨처럼 훌륭한 도전정신을 <문법_맞춤법>갖고싶다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56838",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 510,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

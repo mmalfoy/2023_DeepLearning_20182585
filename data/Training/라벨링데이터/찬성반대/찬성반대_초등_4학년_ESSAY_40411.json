@@ -1,0 +1,303 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "남한과 북한의통일에 찬성합니다.#@문장구분# 왜냐하면,세금을 많이걷는 단점이있지만 나라가 행복해지고 전쟁걱정없이 행복하게, 모두가 살수있습니다.#@문장구분# 그리고 이산가족이  줄어들어 슬픔을 줄일수있습니다.#@문장구분# 또 군대를 안갈수있어서 군대가기싫은분  들에게 좋은소식이다.#@문장구분# 또 교류를 더많이할수있어서 정말 편리해진다.#@문장구분# 단점은 환경오염이 심해 질수있습니다.#@문장구분# 고로 사람들이 실천해야합니다.#@문장구분#예전처럼 음식남기지않기,쓰레기는 쓰레기통에 ,연료,차,기차같은교통수단 줄이기 이것을 실천하면된다.#@문장구분#",
+      "paragraph_len": 413,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.935715,
+      16.15,
+      18.35
+    ],
+    "essay_scoreT_avg": 16.811905,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.09",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "남한과 북한의 통일에 찬성합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "남한과 <문법_맞춤법>북한의통일에</문법_맞춤법> 찬성합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 세금을 많이 걷는 단점이 있지만 나라가 행복해지고 전쟁 걱정 없이 모두가 행복하게 살 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "어순"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>왜냐하면,세금을</문법_기타></문법_맞춤법> 많이걷는 단점이있지만 나라가 행복해지고 전쟁걱정없이 <문법_어순>행복하게, 모두가</문법_어순> 살수있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 이산가족이  줄어들어 슬픔을 줄일 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 이산가족이  줄어들어 슬픔을 <문법_맞춤법>줄일수있습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 군대를 안 갈 수 있어서 군대에 가기 싫은 분들에게 좋은 소식입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 또 군대를 <문법_맞춤법>안갈수있어서</문법_맞춤법> <문법_조사>군대가기싫은분  들에게</문법_조사> <문법_어미>좋은소식이다</문법_어미>.",
+      "sentence_corr_txt_styling": " 또 군대를 안 갈 수 있어서 군대에 가기 싫은 분들에게 좋은 소식입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 교류를 더 많이 할 수 있어서 정말 편리해집니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 또 교류를 <문법_맞춤법>더많이할수있어서</문법_맞춤법> 정말 <문법_어미>편리해진다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 단점은 환경오염이 심해질 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 단점은 환경오염이 <문법_맞춤법>심해 질수있습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고로 사람들이 실천해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 고로 사람들이 <문법_맞춤법>실천해야합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예전처럼 음식 남기지 않기, 쓰레기는 쓰레기통에, 연료, 차, 기차같은 교통수단 줄이기 이것을 실천하면 된다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": "예전처럼 <문법_맞춤법>음식남기지않기,쓰레기는</문법_맞춤법> 쓰레기통에 ,연료,차,기차같은교통수단 줄이기 이것을 실천하면된다.",
+      "sentence_corr_txt_styling": "예전처럼 음식 남기지 않기, 쓰레기는 쓰레기통에, 연료, 차, 기차같은 교통수단 줄이기 이것을 실천하면 된다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40411",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 253,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

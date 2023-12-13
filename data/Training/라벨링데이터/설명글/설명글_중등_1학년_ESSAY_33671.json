@@ -1,0 +1,394 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나도 지금 이거 안하다가 급하게 해서엄청 고생중이다.#@문장구분# 왜 미리 미리 하는 습관을 들여야 하는지 알것같다. #@문장구분#그리고 밤이나 책상 등등 일찍 치우는 습관도또얼마전에 나는 습관을 중요하다고 생각이 든다. #@문장구분#습관이라 하면은 글시를 더럽게 못쓴다던가 또 지극을 자주 하던가 자주 숙제를 까먹고 늦게 자고이런거 전부 모두다 습관이 됄수 있는거다.#@문장구분# 만약에 내가 늦잠을 자는 습관이있다면 아마도 나는 잘 못고칠 것 같다. #@문장구분#하지 만 습관은 바꿀수록 좋다.#@문장구분# 그리고 늦게자는 습관이나 이런거 고칠수 있는데 안고치는거다. #@문장구분#나도 습관을 하나 만들었다.#@문장구분# 하루하루 꼭 샤워하는 습관을 길렀다.#@문장구분# 아무튼 사람들은 환경을 지키는 습관 이라던지 그런 것들정말 중요하다.#@문장구분# 사람들이 습관을 만들어야한다이러는데 사실 지키는게 많이 어렵기도 하다.#@문장구분#하지만 습관이 없는사람들은 할수있으면서 습관을 만들고 있는데 안하는것 같다.#@문장구분# 아무튼 내가 만들 습관은 숙제좀 빨리 빨리 하는 습관을 만들것이고 이약속? 을 지킬 그럴 예정이다.#@문장구분# 아무튼 어른중에서도 습관을만들기 어려워 하는 사람들이 있는데 그런사람도 하면 좋겠다.#@문장구분#",
+      "paragraph_len": 819,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      26.4,
+      22.5
+    ],
+    "essay_scoreT_avg": 23.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.22",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "032",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나도 지금 이걸 안하다가 급하게 해서 엄청 고생중이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": "나도 지금 <문법_어미>이거</문법_어미> 안하다가 급하게 <문법_맞춤법>해서엄청</문법_맞춤법> 고생중이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜 미리미리 하는 습관을 들여야 하는지 알 것 같다. ",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜 <문법_맞춤법>미리 미리</문법_맞춤법> 하는 습관을 들여야 하는지 알것같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그리고 <스타일링_조사><스타일링_담화 맥락 오류>밤이나 책상 등등</스타일링_담화 맥락 오류></스타일링_조사> 일찍 치우는 습관도또얼마전에 나는 습관을 중요하다고 생각이 든다. ",
+      "sentence_corr_txt_styling": "그리고 책상을 제때 치우는 습관 등도 중요하다고 생각한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "습관이라 하면 글씨를 더럽게 못쓴다든가 또 지각을 자주 하거나 숙제를 까먹고 늦게 자고 이런 거 전부 다 습관이 될 수 있는거다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "습관이라 <문법_조사>하면은</문법_조사> <문법_맞춤법>글시</문법_맞춤법>를 더럽게 못쓴다던가 또 지극을 자주 하던가 자주 숙제를 까먹고 늦게 자고이런거 <스타일링_패러프레이징>전부 모두다</스타일링_패러프레이징> 습관이 됄수 있는거다.",
+      "sentence_corr_txt_styling": "습관이라 하면 글씨를 더럽게 못쓴다든가 또 지각을 자주 하거나 숙제를 까먹고 늦게 자고 이런 거 전부 다 습관이 될 수 있는거다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약에 내가 늦잠을 자는 습관이 있다면 아마도 나는 잘 못고칠 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약에 내가 늦잠을 자는 <문법_맞춤법>습관이있다면</문법_맞춤법> 아마도 나는 잘 못고칠 것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 안좋은 습관은 바꿀수록 좋다.",
+      "sentence_corr_reason": [
+        "붙여쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>하지 만</문법_맞춤법> <문법_기타>습관은</문법_기타> 바꿀수록 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 늦게 자는 습관 등을 고칠 수 있는데 안 고치는 거다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>늦게자는</문법_맞춤법> <문법_조사>습관이나 이런거</문법_조사> 고칠수 있는데 안고치는거다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 하루하루 꼭 샤워하는 습관을 <스타일링_기타>길렀다</스타일링_기타>.",
+      "sentence_corr_txt_styling": " 하루하루 꼭 샤워하는 습관을 들였다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 환경을 지키는 습관도 정말 중요하다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_기타><문법_담화 맥락 오류>아무튼 사람들은 환경을 지키는 습관 이라던지 그런 것들정말</문법_담화 맥락 오류></문법_기타> 중요하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들이 습관을 만들어야 한다는데 사실 지키는 게 많이 어렵기도 하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 사람들이 습관을 <문법_맞춤법><문법_조사>만들어야한다이러는데</문법_조사></문법_맞춤법> 사실 지키는게 많이 어렵기도 하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 좋은 습관이 없는 사람들은 할 수 있으면서 안 하는 것 같다.",
+      "sentence_corr_reason": [
+        "안 좋은 습관은 아니니 범위 한정 필요",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 <문법_기타>습관이</문법_기타> <문법_맞춤법>없는사람들은</문법_맞춤법> 할수있으면서 습관을 만들고 있는데 안하는것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_기타><스타일링_담화 맥락 오류>아무튼 내가 만들 습관은 숙제좀 빨리 빨리 하는 습관을 만들것이고 이약속? 을 지킬 그럴 예정이다</스타일링_담화 맥락 오류></스타일링_기타>.",
+      "sentence_corr_txt_styling": " 나는 숙제를 빨리빨리 하는 습관을 만들 것이고 이 약속을 지킬 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어른들 중에서도 습관을 만들기 어려워 하는 사람들이 있는데 그런 사람도 좋은 습관을 만들면 좋겠다.",
+      "sentence_corr_reason": [
+        "불필요",
+        "불필요",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_조사><스타일링_기타>아무튼 어른중에서도</스타일링_기타></스타일링_조사> <문법_맞춤법>습관을만들기</문법_맞춤법> 어려워 하는 사람들이 있는데 그런사람도 하면 좋겠다.",
+      "sentence_corr_txt_styling": " 어른들 중에서도 습관을 만들기 어려워 하는 사람들이 있는데 그런 사람도 좋은 습관을 만들면 좋겠다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33671",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 540,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

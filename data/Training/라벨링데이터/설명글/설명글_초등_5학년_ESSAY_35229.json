@@ -1,0 +1,476 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 태권도 라는 취미를 가지고 있다.#@문장구분#취미를 태권도를 하는이유는 태권도는 운동이 되기 때문입니다.#@문장구분# 무슨 운동이냐면체조 운동,달리기,장애물 달리기,  높이 뛰기,멀리 뛰기 등 있다.#@문장구분#\n하고 나면 개운하다.#@문장구분#태권도에서 하는 운동을 하면 몸이 튼튼 해 진다.#@문장구분#\n그리고 건강해진다.#@문장구분#운동을 하면 키도 쑥쑥 크고 좋다.#@문장구분# 아또 줄넘기,훌라우프도 있다.#@문장구분#오래 버티고 1등하면 상품도가끔씩 준다.#@문장구분#그리고 달리기나 줄넘기를하면 숨이 핵핵 차고 힘들때도 있지만그걸 이겨내고 한다.#@문장구분#그래야 운동이  된다.#@문장구분#그리고 운동하면 살도 빠진다.#@문장구분# 운동을 하면 좋은점들이 정말 많다.#@문장구분#\n가끔식 운동하기 귀찮고 짜증낼때가  있지만 그래도 재미있다.#@문장구분#운동은 참  좋은것이다.#@문장구분#그리고 태권도에선 다른것도배운다.#@문장구분#품새,발차기 등등 배운다.#@문장구분#\n이렇게 많은걸 합니다.#@문장구분# 태권도에는 레크레이션 이란게 있는데 그날은   노는입니다#@문장구분# 예를 들면 피구아니면   무슨 놀이가 있는데 어쨋든 이렇게   있습니다. #@문장구분#그리고 띠를 올리는      재미도 있어서 더 열심히 하게 됩니다.#@문장구분#빨간띠가 되면 국기원이란게 있는데 어려운 심사이고 가기전에 연습을    해야 한다.#@문장구분# 왜냐하면 탈락을 할수   있기 때문이다.#@문장구분#끝",
+      "paragraph_len": 1033,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      17.533333,
+      15.133333
+    ],
+    "essay_scoreT_avg": 17.822222,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.13",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 태권도라는 취미를 가지고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>태권도 라는</문법_맞춤법> 취미를 가지고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "취미로 태권도를 하는 이유는 태권도는 운동이 되기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "<문법_조사>취미를</문법_조사> 태권도를 <문법_맞춤법>하는이유는</문법_맞춤법> 태권도는 운동이 되기 <문법_어미>때문입니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 무슨 운동이 있냐면 체조 운동, 달리기, 장애물 달리기, 높이 뛰기, 멀리 뛰기 등이 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 무슨 <문법_맞춤법>운동이냐면</문법_맞춤법>체조 운동,달리기,장애물 달리기,  높이 뛰기,멀리 뛰기 <문법_조사>등 </문법_조사>있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "태권도에서 하는 운동을 하면 몸이 튼튼해진다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "태권도에서 하는 운동을 하면 몸이 <문법_맞춤법>튼튼 해 진다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 줄넘기, 훌라후프도 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>아또 </스타일링_담화 맥락 오류><문법_맞춤법>줄넘기,훌라우프도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": " 그리고 줄넘기, 훌라후프도 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "오래 버티고 1등 하면 상품도 가끔씩 준다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "오래 버티고 <문법_맞춤법>1등하면</문법_맞춤법> 상품도가끔씩 준다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 달리기나 줄넘기를 하면 숨이 헉헉 차고 힘들 때도 있지만 그걸 이겨내고 해야 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그리고 달리기나 줄넘기를하면 숨이 <문법_맞춤법>핵핵 차고</문법_맞춤법> 힘들때도 있지만그걸 이겨내고 <스타일링_담화 맥락 오류>한다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "그리고 달리기나 줄넘기를 하면 숨이 헉헉 차고 힘들 때도 있지만 그걸 이겨내고 해야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 운동을 하면 좋은 점들이 정말 많다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 운동을 하면 <문법_맞춤법>좋은점들이</문법_맞춤법> 정말 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n가끔식 운동하기 귀찮고 짜증날 때가  있지만 그래도 재미있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "\n가끔식 운동하기 귀찮고 <문법_맞춤법><문법_어미>짜증낼때가</문법_어미></문법_맞춤법>  있지만 그래도 재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "운동은 참  좋은 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "운동은 참  <문법_맞춤법>좋은것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 태권도에선 다른 것도 배운다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 태권도에선 <문법_맞춤법>다른것도배운다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "품새, 발차기 등등을 배운다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "<문법_맞춤법>품새,발차기</문법_맞춤법> <문법_조사>등등</문법_조사> 배운다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n이렇게 많은 것을 한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "\n이렇게 <문법_맞춤법><문법_조사>많은걸</문법_조사></문법_맞춤법> <문법_어미>합니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 태권도에는 레크레이션이라는 것이 있는데 그 날은   노는 날이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 태권도에는 <문법_맞춤법>레크레이션 이란게</문법_맞춤법> 있는데 그날은   <스타일링_담화 맥락 오류>노는입니다</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 태권도에는 레크레이션이라는 것이 있는데 그 날은   노는 날이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>예를 들면 피구아니면   무슨 놀이가 있는데 어쨋든 이렇게   있습니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 피구나 다른 놀이를 한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 띠를 올리는      재미도 있어서 더 열심히 하게 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "그리고 띠를 올리는      재미도 있어서 더 열심히 하게 <문법_어미>됩니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "빨간띠가 되면 국기원이라는 곳에 가게 되는데 어려운 심사라서 가기 전에 연습을    해야 한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": "빨간띠가 되면 <문법_맞춤법>국기원이란게</문법_맞춤법> <스타일링_담화 맥락 오류>있는데</스타일링_담화 맥락 오류> 어려운 <문법_어미>심사이고 </문법_어미>가기전에 연습을    해야 한다.",
+      "sentence_corr_txt_styling": "빨간띠가 되면 국기원이라는 곳에 가게 되는데 어려운 심사라서 가기 전에 연습을    해야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 탈락할 수   있기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법><문법_조사>탈락을 할수</문법_조사></문법_맞춤법>   있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35229",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 574,
+    "essay_main_subject": "나의 취미"
+  }
+}

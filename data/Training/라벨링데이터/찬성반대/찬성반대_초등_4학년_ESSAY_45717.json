@@ -1,0 +1,233 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 생각에는 통일을 하는 것이 안 하는 것 보다 나을 것 같다.#@문장구분# 처음에는 경제가 휘청거리겠지만 조금만 지나도 우리는 선진국이 될 수 있을것이다.#@문장구분# 그 이유는 두가지이다.#@문장구분#\n 첫째, 우리 두 나라가 합쳐지면 북한에 매장 되어 있는 약 7000조원 분량의 자원과 우리나라의 과학 기술을 합치면 우리는 어느세 선진국이 되어 있을 것이다.#@문장구분#\n 둘째, 전쟁이 끝났으니 관광객들이 늘어날 것이다.#@문장구분# 우리나라가 휴전 상태라 우리나라에 외국인들이 많이 안 오려고 한다.#@문장구분# 하지만 만약 통일을 한다면 전쟁의 대한 위험성이 낮아져 관광객의 수가 늘어날 것이다.#@문장구분#\n 이 두 이유를 통해 우리나라는 북한과 통일을 해야 하는것을 알 수 있다.#@문장구분#",
+      "paragraph_len": 500,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      28.285713,
+      27.75
+    ],
+    "essay_scoreT_avg": 25.611902,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내 생각에는 통일을 하는 것이 안 하는 것보다 나을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>제</문법_맞춤법> 생각에는 통일을 하는 것이 안 하는 것 보다 나을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음에는 경제가 휘청거리겠지만 조금만 지나도 우리는 선진국이 될 수 있을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 처음에는 경제가 휘청거리겠지만 조금만 지나도 우리는 선진국이 될 수 <문법_맞춤법>있을것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫째, 우리 두 나라가 합쳐지면 북한에 매장되어 있는 약 7000조 분량의 자원과 우리나라의 과학 기술을 합치면 우리는 어느새 선진국이 되어 있을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 첫째, 우리 두 나라가 합쳐지면 북한에 <문법_맞춤법>매장 되어 있는 약 7000조원 </문법_맞춤법>분량의 자원과 우리나라의 과학 기술을 합치면 우리는 어느세 선진국이 되어 있을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 만약 통일을 한다면 전쟁에 대한 위험성이 낮아져 관광객의 수가 늘어날 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 만약 통일을 한다면 <문법_맞춤법>전쟁의</문법_맞춤법> 대한 위험성이 낮아져 관광객의 수가 늘어날 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이 두 이유를 통해 우리나라는 북한과 통일을 해야 하는 것을 알 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 이 두 이유를 통해 우리나라는 북한과 통일을 해야<문법_맞춤법> 하는것을</문법_맞춤법> 알 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45717",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 341,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

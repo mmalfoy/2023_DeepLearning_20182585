@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕!#@문장구분#나는 멸치라고 해요! #@문장구분#내 이름은 다들 들어보셨겠죠?! 맞아요. #@문장구분#나는 뼈에좋고 튼튼해진다는 그 멸치에요.#@문장구분# 나는 친구,엄마,아빠와 늘 함께 다녀요.#@문장구분# 그걸 사람들은 우리를 멸치떼라고 부르더군요. #@문장구분#우린 정말 하나에요.#@문장구분# 일심동체이죠.#@문장구분#저희는 그렇게 합이 잘 맞아서 저희는 아주 빠르게 이동하고 무리지어 다닐 수 있어요. #@문장구분#저는 주로 동해쪽에 살아요. #@문장구분#동해가 물이 맑고 좋거든요. 삼천포 아시나요?저는 삼천포 출신의 멸치랍니다!#@문장구분# 사람들은 저희를 저알 보고 싶어하죠 반짝반짝 빛나는 우리의 모습에 아주 예쁘다고해요.#@문장구분# 아마 바다에서 저희가 가장 예쁘지 않을까요? 저는 그렇게 생각해요.#@문장구분# 저희보다 더 아름다운 생물은 없을거에요. #@문장구분#저의 이야기 즐거우셨나요?그렇다면 박수를 쳐주세요#@문장구분#",
+      "paragraph_len": 671,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.1,
+      25.85,
+      25.75
+    ],
+    "essay_scoreT_avg": 24.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 뼈에 좋고 튼튼해진다는 그 멸치에요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>뼈에좋고 </문법_맞춤법>튼튼해진다는 그 멸치에요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 친구, 엄마, 아빠와 늘 함께 다녀요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 친<문법_맞춤법>구,엄마,아빠</문법_맞춤법>와 늘 함께 다녀요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그걸 사람들은 우리를 멸치 떼라고 부르더군요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그걸 사람들은 우리를 <문법_맞춤법>멸치떼라고 </문법_맞춤법>부르더군요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저희는 그렇게 합이 잘 맞아서 저희는 아주 빠르게 이동하고 무리 지어 다닐 수 있어요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저희는 그렇게 합이 잘 맞아서 저희는 아주 빠르게 이동하고 <문법_맞춤법>무리지어 </문법_맞춤법>다닐 수 있어요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 주로 동해 쪽에 살아요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 주로 <문법_맞춤법>동해쪽에 </문법_맞춤법>살아요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "동해가 물이 맑고 좋거든요. 삼천포 아시나요? 저는 삼천포 출신의 멸치랍니다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "동해가 물이 맑고 좋거든요. 삼천포 아시나요<문법_맞춤법>?저는</문법_맞춤법> 삼천포 출신의 멸치랍니다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들은 저희를 저알 보고 싶어 하죠 반짝반짝 빛나는 우리의 모습에 아주 예쁘다고 해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람들은 저희를 저알 보고 <문법_맞춤법>싶어하죠</문법_맞춤법> 반짝반짝 빛나는 우리의 모습에 아주 예쁘다고해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저희보다 더 아름다운 생물은 없을 거에요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저희보다 더 아름다운 생물은 <문법_맞춤법>없을거에요</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저의 이야기 즐거우셨나요? 그렇다면 박수를 쳐주세요",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 이야기 즐거우셨나요?<문법_맞춤법>그렇</문법_맞춤법>다면 박수를 쳐주세요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64246",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 372,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

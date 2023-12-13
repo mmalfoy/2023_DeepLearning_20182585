@@ -1,0 +1,343 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반대합니다.#@문장구분# 아직도 평등한세상이 안만들어지는 것에 불만이 많을 겁니다.#@문장구분# 돈이 없거나 집이 없어서 사람대우도 못받는 사람이 있고 불평등 합니다.#@문장구분# 그리고 자신의 권리가 있는데 권리도 못받고 진상을 상대하면서까지 돈을 벌면서 힘든 나날을 이어가고 있습니다.#@문장구분# 근데 정작 금수저들은 아무것도 안하고 놀고먹고 해도 돈이 남아납니다.#@문장구분# 근데 도와주지는 못할망정 비웃고 다닙니다.#@문장구분# 부모님 능력에 따라 정해지긴 하지만 계속 일하면 돈을 얻고 부자가 될기회가 있지만 회사에서 짤면서 금수저들이 기부도 많이 하면 사회는 평등해질겁니다.#@문장구분# 그리고 이유 또 한가지는 부모님만 믿고 우쭐대면서 사람무시하고 하면 흙수저나 돈없는 사람들은 이광경을 보고 풀이죽고 힘들면 엄마나아빠한테가서 우린 왜 이렇게 가난하게 살아라고 물어보고 부모님들은 당황하면서 말을 잇지 못하시고 힘들겁니다.#@문장구분# 그래서 세상은 평등해져야되고 부자들한테는 세금을 조금더 걷고해서라도 평등하게 만들어야합니다.#@문장구분# 그리고 또 다른이유 하나는 돈이없는 사람들은 금수저들에 온갖폭력이나 욕등을 맞으면서까지 버티고 자식한테 좋은거 사줄려고 노력하고 근데 금수저들은 손만까딱하면 비서가 이것저것 준비하고 차이가 너무납니다.#@문장구분# 사회가 평등해지면 이런차이나는 일도없고 자신의 권리를 침해받지 않아서 평등한 사회가 만들어져야 합니다.#@문장구분#",
+      "paragraph_len": 863,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.3,
+      26.422222,
+      30
+    ],
+    "essay_scoreT_avg": 25.574074,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 사람들은 아직도 평등한 세상이 안만들어지는 것에 불만이 많을 겁니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_기타>아직도</문법_기타> <문법_맞춤법>평등한세상이</문법_맞춤법> 안만들어지는 것에 불만이 많을 겁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 돈이 없거나 집이 없어서 사람 대우도 못받는 사람이 있을 만큼 불평등합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 돈이 없거나 집이 없어서 <문법_맞춤법>사람대우도</문법_맞춤법> 못받는 사람이 <문법_조사>있고 불평등 합니다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 자신의 <스타일링_패러프레이징>권리가 있는데 권리도 못받고</스타일링_패러프레이징> 진상을 상대하면서까지 돈을 벌면서 힘든 나날을 이어가고 있습니다.",
+      "sentence_corr_txt_styling": " 그리고 자신의 권리를 챙기지 못하고 진상을 상대하면서까지 돈을 벌면서 힘든 나날을 이어가고 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 근데 정작 금수저들은 아무것도 안하고 놀고먹고 해도 돈이 <스타일링_기타>남아납니다</스타일링_기타>.",
+      "sentence_corr_txt_styling": " 근데 정작 금수저들은 아무것도 안하고 놀고먹고 해도 돈이 남아돕니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 도와주지는 못할 망정 비웃고 다닙니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 도와주지는 <문법_맞춤법>못할망정</문법_맞춤법> 비웃고 다닙니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님 능력에 따라 달라지긴 하지만 계속 일하면 돈을 얻고금수저들이 기부도 많이 하면 사회는 평등해질겁니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 부모님 능력에 따라 <문법_기타>정해지긴</문법_기타> 하지만 계속 일하면 돈을 얻고 부자가 <문법_맞춤법>될기회가</문법_맞춤법> 있지만 회사에서 짤면서 금수저들이 기부도 많이 하면 사회는 평등해질겁니다.",
+      "sentence_corr_txt_styling": " 부모님 능력에 따라 달라지긴 하지만 계속 일하면 돈을 얻고금수저들이 기부도 많이 하면 사회는 평등해질겁니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 다른 이유는 부모님만 믿고 우쭐대면서 사람을 무시하고 하면 흙수저나 돈이 없는 사람들은 이광경을 보고 풀이 죽는다. 힘들면 엄마나 아빠한테가서 우린 왜 이렇게 가난하게 살아라고 물어보고 부모님들은 당황하면서 말을 잇지 못하시고 힘들겁니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "띄어쓰기",
+        "띄어쓰기, 문장 끊어가기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "기타",
+        "조사",
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_어순><문법_기타>이유 또 한가지는</문법_기타></문법_어순> 부모님만 믿고 우쭐대면서 <문법_조사>사람무시하고</문법_조사> 하면 흙수저나 <문법_어미>돈없는</문법_어미> 사람들은 이광경을 보고 <스타일링_맞춤법>풀이죽고</스타일링_맞춤법> 힘들면 엄마나아빠한테가서 우린 왜 이렇게 가난하게 살아라고 물어보고 부모님들은 당황하면서 말을 잇지 못하시고 힘들겁니다.",
+      "sentence_corr_txt_styling": " 그리고 또 다른 이유는 부모님만 믿고 우쭐대면서 사람을 무시하고 하면 흙수저나 돈이 없는 사람들은 이광경을 보고 풀이 죽는다. 힘들면 엄마나 아빠한테가서 우린 왜 이렇게 가난하게 살아라고 물어보고 부모님들은 당황하면서 말을 잇지 못하시고 힘들겁니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 세상은 <스타일링_조사><스타일링_패러프레이징>평등해져야되고 부자들한테는 세금을 조금더 걷고해서라도 평등하게 만들어야합니다</스타일링_패러프레이징></스타일링_조사>.",
+      "sentence_corr_txt_styling": " 그래서 세상은 부자들한테는 세금을 조금 더 걷어서라도 평등하게 만들어야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 돈이 없는 사람들은 금수저들에게 온갖 폭력을 당하고 욕을 참으면서까지 버티고 자식한테 좋은거 사줄려고 노력한다. 근데 금수저들은 손만까딱하면 비서가 이것저것 준비하고 차이가 너무납니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "문장 끊어가기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " 그리고 또 <문법_조사><문법_기타>다른이유 하나는 돈이없는</문법_기타></문법_조사> 사람들은 금수저들에 온갖폭력이나 욕등을 맞으면서까지 버티고 자식한테 좋은거 사줄려고 <문법_어미>노력하고</문법_어미> 근데 금수저들은 손만까딱하면 비서가 이것저것 준비하고 차이가 너무납니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사회가 평등해지면 이런 차이나는 일도 없고 자신의 권리를 침해받지 않아서 평등한 사회가 만들어져야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사회가 평등해지면 <문법_맞춤법>이런차이나는</문법_맞춤법> 일도없고 자신의 권리를 침해받지 않아서 평등한 사회가 만들어져야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33507",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 643,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세균이 몸속 으로 들어오지 못 하게 하는 방 법은 학교나 밥을 먹을 때에는 손을 30초동안 닦는 것이좋다#@문장구분# 그레야지 밥을 먹을데 세균이 몸속으로 들어오지 못한다#@문장구분#\n 지금은 코로나19 때문에 마스크도 잘 써야 하고 손도 잘 닦아야한다#@문장구분# 그리고 사회적 거리 두기도 해야한다#@문장구분# 바려 책크도 해야하고#@문장구분#\n 자기 전에는 몸을 샤워를 하고 자야 한다#@문장구분# 안하고자면 몸에 세균이 많아 질병도 걸리 수있다#@문장구분#\n 양치도 해야한다#@문장구분# 밥을 먹고 나서 양치를 3분동안 해야한다#@문장구분# 양치를 하면 이빨이 석지 안는다#@문장구분# 하루에 양치는 3번 이상을 해야한다 #@문장구분#아침 점심 저녁으로한다#@문장구분#\n 외출 복은 하루에 한번식은 빨아야 한다#@문장구분# 입었던 옷은 세균이 잇을수 있으니 빨아야 한다#@문장구분# 입었던 옷을 입으 면 냄세 도나고 땀이 있어서 세균이 많이 있을수 있다#@문장구분# 그러니 하루에 1번식은 꼭 빨아야 한다#@문장구분#\n 학교에서 연필이나 지우게를 소독티슈로 닦아야한다#@문장구분#\n 앞으로 더 위생을 철저이 괄리해야 겠다",
+      "paragraph_len": 796,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.2857143,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.64762,
+      16.333334,
+      18.047619
+    ],
+    "essay_scoreT_avg": 18.009523,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "세균이 몸속으로 들어오지 못하게 하는 방 법은 학교나 밥을 먹을 때에는 손을 30초 동안 닦는 것이 좋다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "세균이 <문법_맞춤법>몸속 으로 들어오지 못 하게 하는 방 법은 학교나 밥을 먹을 때에는 손을 30초동안 닦는 것이좋</문법_맞춤법>다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래야 지 밥을 먹을 때 세균이 몸속으로 들어오지 못한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그레야지 밥을 먹을데</문법_맞춤법> 세균이 몸속으로 들어오지 못한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 지금은 코로나19 때문에 마스크도 잘 써야 하고 손도 잘 닦아야 한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 지금은 코로나19 때문에 마스크도 잘 써야 하고 손도 잘 <문법_맞춤법>닦아야한다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 사회적 거리 두기도 해야 한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 사회적 거리 두기도 <문법_맞춤법>해야한다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바이러스 첵크도 해야 하고",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " <문법_어미>바려 책크도 해야하</문법_어미>고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안 하고 자면 몸에 세균이 많아 질병도 걸리 수있다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>안하고자면 </문법_맞춤법>몸에 세균이 많아 질병도 걸리 수있다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 양치도 해야 한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 양치도 <문법_맞춤법>해야한다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 밥을 먹고 나서 양치를 3분 동안 해야 한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 밥을 먹고 나서 양치를 <문법_맞춤법>3분동안 해야한다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하루에 양치는 3번 이상을 해야한다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하루에 양치는 3번 이상을 <문법_맞춤법>해야한다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아침 점심 저녁으로 한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아침 점심 <문법_맞춤법>저녁으로한다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 외출 복은 하루에 한 번식은 빨아야 한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 외출 복은 <문법_맞춤법>하루에 한번식</문법_맞춤법>은 빨아야 한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 입었던 옷은 세균이 있을 수 있으니 빨아야 한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 입었던 옷은 세균이 <문법_맞춤법>잇을수 있으니</문법_맞춤법> 빨아야 한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 입었던 옷을 입으면 냄새도 나고 땀이 있어서 세균이 많이 있을 수 있다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 입었던 옷을 <문법_맞춤법>입으 면 냄세 도나고 땀이 있어서 세균이 많이 있을수</문법_맞춤법> 있다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 학교에서 연필이나 지우게를 소독 티슈로 닦아야 한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 학교에서 연필이나 지우게를 <문법_맞춤법>소독티슈로 닦아야한</문법_맞춤법>다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 앞으로 더 위생을 철저히 관리 해야 겠다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 앞으로 더 위생을<문법_맞춤법> 철저이 괄리해야</문법_맞춤법> 겠다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50957",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 457,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

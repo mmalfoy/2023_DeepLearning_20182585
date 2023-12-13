@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "습관들이기는 우리의 인생을 좌우할만큼 중요한 행동이라고 생각합니다.#@문장구분# 세 살 버롯이 여든 간다는 말이 있듯이 속담에서도 습관들이기의 중요성을 강조하고 있다.#@문장구분# 비록 습관을 들인 후 고칠 수는 있겠지만 처음부터 습관을 잘 들이면 더욱 좋다는 것을 의미할 것이다.#@문장구분# 예전 이빨로 손톱을 물어뜯는 행동을 한 적이 있는데 이를 고치기 위해 많은 시간이 들었습니다.#@문장구분# 이빨을 물어뜯는 것이 다른 사람들에게는 안 좋은 시선으로 보여질 수도 있고 불편함을 줄 수도 있기 때문에 이를 고치기 위해 노력했습니다.#@문장구분# 이렇듯 제가 느끼기로도 습관은 정말 고치기 힘들기 때문에 처음부터 습관을 잘 들이는 것의 중요성을 실감할 수 있었습니다.#@문장구분# 이를 위해 부모들이 아이들의 나쁜 습관을 처음부터 바로 잡아주는 행동이 필요하다고 생각합니다.#@문장구분# 이를 통해 아이들의 바른 습관 정착에 도움을 줄 것입니다.#@문장구분#",
+      "paragraph_len": 587,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.15,
+      23.85,
+      18.7
+    ],
+    "essay_scoreT_avg": 22.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "습관들이기는 우리의 인생을 좌우할 만큼 중요한 행동이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "습관들이기는 우리의 인생을 <문법_맞춤법>좌우할만큼</문법_맞춤법> 중요한 행동이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 살 버롯이 여든 간다는 말이 있듯이 속담에서도 습관들이기의 중요성을 강조하고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 세 살 버롯이 여든 간다는 말이 있듯이 속담에서도 습관들이기의 중요성을 강조하고 <문법_어미>있다</문법_어미>.",
+      "sentence_corr_txt_styling": " 세 살 버롯이 여든 간다는 말이 있듯이 속담에서도 습관들이기의 중요성을 강조하고 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 비록 습관을 들인 후 고칠 수는 있겠지만 처음부터 습관을 잘 들이면 더욱 좋다는 것을 의미할 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 비록 습관을 들인 후 고칠 수는 있겠지만 처음부터 습관을 잘 들이면 더욱 좋다는 것을 의미할 <문법_어미>것이다</문법_어미>.",
+      "sentence_corr_txt_styling": " 비록 습관을 들인 후 고칠 수는 있겠지만 처음부터 습관을 잘 들이면 더욱 좋다는 것을 의미할 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예전에 이로 손톱을 물어뜯는 행동을 한 적이 있는데 이를 고치기 위해 많은 시간이 들었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " <문법_조사>예전</문법_조사> <문법_기타>이빨로</문법_기타> 손톱을 물어뜯는 행동을 한 적이 있는데 이를 고치기 위해 많은 시간이 들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이를 물어뜯는 것이 다른 사람들에게는 안 좋은 시선으로 보일 수도 있고 불편함을 줄 수도 있기 때문에 이를 고치기 위해 노력했습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " <문법_조사><문법_기타>이빨을</문법_기타></문법_조사> 물어뜯는 것이 다른 사람들에게는 안 좋은 시선으로 <문법_어미>보여질</문법_어미> 수도 있고 불편함을 줄 수도 있기 때문에 이를 고치기 위해 노력했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이를 통해 아이들의 바른 습관 정착에 도움을 줄 것입니다.",
+      "sentence_corr_txt_styling": " 이를 통해 아이들의 바른 습관 정착에 도움을 줄 것입니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69150",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 427,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

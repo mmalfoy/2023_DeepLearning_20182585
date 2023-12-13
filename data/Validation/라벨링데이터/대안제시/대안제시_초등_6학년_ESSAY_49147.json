@@ -1,0 +1,302 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물 유기가 많아지고 있다.#@문장구분#많은동물들이 사랑을 받다가 순식간에 버림을 받는다.#@문장구분#이런 문제점을 해결하기 위해서는 조금 더 꼼꼼해져야 한다.#@문장구분#어떤방법을 더 추가해 반려동물 유기를 줄일 수 있을까?#@문장구분#\n 첫째,예정 가계부를 적어보게 한다.#@문장구분#반려동물 입양을 하기 전 그곳 직원과많이 대화를 나누게 된다.#@문장구분#그때 직원이입양하려는 사람에게 간단한 절차로 미래의 가계부를 적어보라고 하는 것이다.#@문장구분#내용은 간단하다.#@문장구분#반려동물을 입양한 뒤라고 가정한 후 관리비,수도세 등의 금액 그리고 반려동물을 키울 때 필요한 것 (사료와 간식 등)의 가겨가지 적어본다.#@문장구분#반려동물을 키울 때 필요한 것중에 미처 생각하지 못한 것은 직원이옆에서 지적해주면 될 것이다.#@문장구분#그리고 강아지처럼 산책이 필요한 경우는 너무바빠서 산책을 못한다는 걸 자각하지 못할 경우를 대비해 시간표를 써보라고하면 좋을 것 같다.#@문장구분#만약 입양하는 곳에서 시간표를 쓰면 시간이 너무 오래걸릴 것 같다면 사전에 써보는게 좋을것 같다.#@문장구분#",
+      "paragraph_len": 716,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.811111,
+      28.2
+    ],
+    "essay_scoreT_avg": 27.003702,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          1,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "많은 동물들이 사랑을 받다가 순식간에 버림을 받는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "비판의 근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>많은동물들</문법_맞춤법>이 사랑을 받다가 순식간에 버림을 받는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어떤 방법을 더 추가해 반려동물 유기를 줄일 수 있을까?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>어떤방법</문법_맞춤법>을 더 추가해 반려동물 유기를 줄일 수 있을까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫째, 예정 가계부를 적어보게 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>첫째,예정</문법_맞춤법> 가계부를 적어보게 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "반려동물 입양을 하기 전 그곳 직원과 많이 대화를 나누게 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "반려동물 입양을 하기 전 그곳 <문법_맞춤법>직원과많이</문법_맞춤법> 대화를 나누게 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때 직원이 입양하려는 사람에게 간단한 절차로 미래의 가계부를 적어보라고 하는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그때 <문법_맞춤법>직원이입양하려는</문법_맞춤법> 사람에게 간단한 절차로 미래의 가계부를 적어보라고 하는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "반려동물을 입양한 뒤라고 가정한 후 관리비, 수도세 등의 금액 그리고 반려동물을 키울 때 필요한 것 (사료와 간식 등)의 가격까지 적어본다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "반려동물을 입양한 뒤라고 가정한 후 <문법_맞춤법>관리비,수도세</문법_맞춤법> 등의 금액 그리고 반려동물을 키울 때 필요한 것 (사료와 간식 등)의 가겨가지 적어본다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "반려동물을 키울 때 필요한 것 중에 미처 생각하지 못한 것은 직원이 옆에서 지적해주면 될 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>반려동물을 키울 때 필요한 것중에 미처 생각하지 못한 것은 직원이옆에서 지적해주면 될 것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 강아지처럼 산책이 필요한 경우는 너무 바빠서 산책을 못한다는 걸 자각하지 못할 경우를 대비해 시간표를 써 보라고 하면 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 강아지처럼 산책이 필요한 경우는 <문법_맞춤법>너무바빠서</문법_맞춤법> 산책을 못한다는 걸 자각하지 못할 경우를 대비해 시간표를 써보라고하면 좋을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 입양하는 곳에서 시간표를 쓰면 시간이 너무 오래 걸릴 것 같다면 사전에 써보는 게 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "만약 입양하는 곳에서 시간표를 쓰면 시간이 너무 <문법_맞춤법>오래걸릴</문법_맞춤법> 것 같다면 사전에 써보는게 좋을것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49147",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 477,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

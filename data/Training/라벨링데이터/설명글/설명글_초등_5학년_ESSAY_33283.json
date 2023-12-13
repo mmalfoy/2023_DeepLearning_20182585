@@ -1,0 +1,285 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미는 강아지 카페에서 친구들이랑 일하는게 취미인데 엄마는 은행원이 되라고 한다#@문장구분# 나는 솔직히 은행원될 자격이 없는데 엄마는 자꾸 은행원 해라고한다#@문장구분# 나는 엄마가 왜 그러는지 이유는 뭐르지만 은행원은 수학만 잘하면 거의 다돼는가 싶어 좋기도 하고#@문장구분# 근데 나는 이어 친구들이랑 다 같이 강아지 또는 애견 카페 하자고는했지만 어떻게 해야될지 뭐르겠다.#@문장구분# 엄마 말은 들어야될거, 약속은 지켜야 될지 예전 부터 고민이 너무너무 많다#@문장구분# 이걸 엄마한테 고민있다고 이걸 말하면 엄마는 그냥은행원 하라고 할데고 친들들한테 물어보면 강아지카페 같이하자고 할꺼고 근데 생각해보면 친구들은 강아지카페에서 고민이다#@문장구분# 지금 취미는 그냥 ..없다#@문장구분# 난중에는 위와같고 지금은 그냥 친구들이랑 놀고 재밌게 놀는 취미?#@문장구분# 난 그냥 결론은 난중에 크면 강아지카페 또는 은행원이고 지금 취미는 친구글이랑 신나게 놀고  더 신나게 노는 취미 나는 일단 지금은 신나게 놀고 커서는 난중에 생각해보는 결론#@문장구분#",
+      "paragraph_len": 659,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.133335,
+      23.885715,
+      20.333334
+    ],
+    "essay_scoreT_avg": 20.450796,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 취미는 강아지 카페에서 친구들이랑 <문법_맞춤법>일하는게</문법_맞춤법> 취미인데 엄마는 은행원이 되라고 한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 솔직히 <문법_맞춤법>은행원될</문법_맞춤법> 자격이 없는데 엄마는 자꾸 은행원 해라고한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "오타 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 엄마가 왜 그러는지 이유는 <문법_맞춤법>뭐르지만</문법_맞춤법> 은행원은 수학만 잘하면 거의 다돼는가 싶어 좋기도 하고",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "오타,띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 나는 이어 친구들이랑 다 같이 강아지 또는 애견 카페 <문법_맞춤법>하자고는했지만 어떻게 해야될지 뭐르겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마 말은 <문법_맞춤법>들어야될거</문법_맞춤법>, 약속은 지켜야 될지 예전 부터 고민이 너무너무 많다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이걸 엄마한테 고민있다고 이걸 말하면 엄마는 <문법_맞춤법>그냥은행원 </문법_맞춤법>하라고 할데고 친들들한테 물어보면 강아지카페 같이하자고 할꺼고 근데 생각해보면 친구들은 강아지카페에서 고민이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>난중에는 위와같고 지금은 그냥 친구들이랑 놀고 재밌게 놀는 취미?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 난 그냥 결론은 난중에 크면 <문법_맞춤법>강아지카페</문법_맞춤법> 또는 은행원이고 지금 취미는 친구글이랑 신나게 놀고  더 신나게 노는 취미 나는 일단 지금은 신나게 놀고 커서는 난중에 생각해보는 결론",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33283",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 480,
+    "essay_main_subject": "나의 취미"
+  }
+}

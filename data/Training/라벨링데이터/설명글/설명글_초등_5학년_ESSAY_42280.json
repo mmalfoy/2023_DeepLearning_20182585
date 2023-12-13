@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 가장 좋아하는 과목은 미술입니다.#@문장구분# 미술은 그릴때는 힘들고 목이 아프지만 작품을 완성하면 좀 못해도 여태까지 했던 노력과 성취감 때문에 항상 뿌듯해서 실망하는 결과가 없는 재미있는 과목입니다.#@문장구분# 그리고 저는 제일 잘하는 과목이 미술이기 때문에 자신감이 있기 때문입니다.#@문장구분# 미술은 집중력이 향상돼서 더 좋은 과목이기도 합니다.#@문장구분# 미술은 그 작품속에 담긴 생각과 상상이 느껴져서 흥미롭습니다.#@문장구분# 작품에 담긴 생각과 상상이 같아도 각각 표현하는 것이 달라서 정말 흥미롭고 재미있고 많은 신기한 상상력을 펼칠 수 있는 과목입니다.#@문장구분# 미술은 정말 환상적인 과목입니다.",
+      "paragraph_len": 429,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.066666,
+      25.714287
+    ],
+    "essay_scoreT_avg": 26.59365,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 미술은 그릴 때는 힘들고 목이 아프지만 작품을 완성하면 좀 못해도 여태까지 했던 노력과 성취감 때문에 항상 뿌듯해서 실망하는 결과가 없는 재미있는 과목입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미술은 그릴<문법_맞춤법>때는</문법_맞춤법> 힘들고 목이 아프지만 작품을 완성하면 좀 못해도 여태까지 했던 노력과 성취감 때문에 항상 뿌듯해서 실망하는 결과가 없는 재미있는 과목입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 제가 제일 잘하는 과목이 미술이라 자신감이 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 저는 제일 잘하는 과목이<문법_맞춤법> 미술이기 때문에</문법_맞춤법> 자신감이 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술은 그 작품 속에 담긴 생각과 상상이 느껴져서 흥미롭습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미술은 그 작<문법_맞춤법>품속에</문법_맞춤법> 담긴 생각과 상상이 느껴져서 흥미롭습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42280",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 311,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

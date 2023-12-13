@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 다니는 학교에서 6학년이 5반까지 있습니다.#@문장구분# 한 반에 30명씩 약150명씩 있지만 같은 학교를 다녀도 같은 학년이여도 전부다 제 친구는 아닙니다.#@문장구분#\n 솔직히 지금도 다른반에 가면 그 반의 모르는 사람이 많이 있습니다.#@문장구분# 물론 모르는 사람과 친구가 안된다는 얘기는 아니지만 갑작스레 다가가면 서로 불편하기도 하고 중학교 올라가면 또 못볼거기 때문에 선뜻 사귀기가 좀 그렇습니다. #@문장구분#또한 친구가 많이 있다고 다 좋은건 아닙니다.#@문장구분# 예전 친구 중에서 친구라고 말만 하고 말을 하면 매번 돈빌려달라는 얘기만 해서 손절하고 지금은 어울리는 친구가 6명정도로 적지만 그래도 이 친구들과 피시방을 간다면 하루종일 같이 게임하고 싶을 정도로 사이가 좋습니다. #@문장구분#결론은 이렇습니다. #@문장구분#친구는 인원빨이 아니라 끈끈한 우정빨이다.",
+      "paragraph_len": 534,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.75,
+      20.8,
+      14.55
+    ],
+    "essay_scoreT_avg": 19.033333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.11",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 솔직히 지금도 다른 반에 가면 그 반의 모르는 사람이 많이 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 솔직히 지금도 <문법_맞춤법>다른반에</문법_맞춤법> 가면 그 반의 모르는 사람이 많이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 모르는 사람과 친구가 안 된다는 얘기는 아니지만 갑작스레 다가가면 서로 불편하기도 하고 중학교 올라가면 또 못 볼 거기 때문에 선뜻 사귀기가 좀 그렇습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 모르는 사람과 친구가 <문법_맞춤법>안된다는</문법_맞춤법> 얘기는 아니지만 갑작스레 다가가면 서로 불편하기도 하고 중학교 올라가면 또 못볼거기 때문에 선뜻 사귀기가 좀 그렇습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또한 친구가 많이 있다고 다 좋은 건 아닙니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또한 친구가 많이 있다고 다 <문법_맞춤법>좋은건</문법_맞춤법> 아닙니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예전 친구 중에서 친구라고 말만 하고 말을 하면 매번 돈 빌려달라는 얘기만 해서 손절하고 지금은 어울리는 친구가 6명 정도로 적지만 그래도 이 친구들과 피시방을 간다면 하루 종일 같이 게임하고 싶을 정도로 사이가 좋습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예전 친구 중에서 친구라고 말만 하고 말을 하면 매번 <문법_맞춤법>돈빌려달라는</문법_맞춤법> 얘기만 해서 손절하고 지금은 어울리는 친구가 6명정도로 적지만 그래도 이 친구들과 피시방을 간다면 하루종일 같이 게임하고 싶을 정도로 사이가 좋습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55904",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 395,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

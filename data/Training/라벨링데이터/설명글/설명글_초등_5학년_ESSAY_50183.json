@@ -1,0 +1,392 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 좋아하는 과목은 체육입니다 #@문장구분#왜냐 체육에선 재미가있는 피구또발야구 이다#@문장구분# 체육에 관심을 두게 됐냐면 초등학교4학년부터이다#@문장구분# 난 체육을 하면서 피구의 규칙을 알게 되고 하는방법도 알고 그랬다 #@문장구분#또 내가 좋아하는 과목 수학이다#@문장구분# 수학은 내가 문제를 풀고 그답이 정답일때 성취감을 느낀다#@문장구분# 내가 이문제를 풀있는데 그게 정답이란게 기쁘다 #@문장구분#수학에선 수를 구하는 방법을 배우고 푼다#@문장구분# 난답을 맞출때 이러한 생각을 한다#@문장구분# 와 나 너무 똑똑한거 아닌가 나이러다 서울대 가겠다#@문장구분# 근데 지금생각해 보면 내가 너무 어리석은 같다... #@문장구분#난 그리고 사회이다 왜냐하면 사회엔 우리가 알아야 하는 역사들이 있는데 그걸알고 그만에 숨겨져있는 이야기가 웃기거나 자랑스럽고 또는 슬프기도 하다 #@문장구분#또 내가 우리나라 역사에 한벌더 다가가는 니낌이 들어 기쁘다#@문장구분# 이번엔 실과이다 #@문장구분#실과는 음식도 나오고 실생활에 필요한것도 알수있어서 아주 좋다",
+      "paragraph_len": 721,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.5714285,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.714287,
+      28.285713,
+      26.114285
+    ],
+    "essay_scoreT_avg": 27.37143,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 좋아하는 과목은 체육이다.  ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "내가 좋아하는 과목은 <문법_맞춤법><문법_높임법>체육입니다</문법_높임법></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐 체육에선 재미가 있는 피구 또 발야구를 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐 <문법_맞춤법>체육에선 재미가있는 피구또발야구 이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 언제 체육에 관심을 두게 됐냐면 초등학교 4학년부터이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 체육에 관심을 두게 됐냐면 <문법_맞춤법>초등학교4학년부터이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 체육을 하면서 피구의 규칙을 알게 되고 하는 방법도 알고 그랬다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 난 체육을 하면서 피구의 규칙을 알게 되고 <문법_맞춤법>하는방법도 </문법_맞춤법>알고 그랬다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 내가 좋아하는 과목 수학이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 내가 좋아하는 과목 <문법_맞춤법>수학이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수학은 내가 문제를 풀고 그 답이 정답일 때 성취감을 느낀다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 수학은 내가 문제를 풀고 그답이 <문법_맞춤법>정답일때 </문법_맞춤법>성취감을 느낀다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 이문제를 풀있는데 그게 정답이란 게 기쁘다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 이문제를 풀있는데 그게 <문법_맞춤법>정답이란게 기쁘다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "수학에선 수를 구하는 방법을 배우고 푼다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "수학에선 수를 구하는 방법을 배우고 <문법_맞춤법>푼다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 난 답을 맞출 때 이러한 생각을 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>난답을 맞출때</문법_맞춤법> 이러한 생각을 한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 와 나 너무 똑똑한 거 아닌가 나 이러다 서울대 가겠다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 와 나 너무 <문법_맞춤법>똑똑한거 </문법_맞춤법>아닌가 나이러다 서울대 가겠다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 지금 생각해 보면 내가 너무 어리석은 같다... ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 <문법_맞춤법>지금생각해 </문법_맞춤법>보면 내가 너무 어리석은 같다... ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 내가 또 좋아하는 과목은 사회이다. 왜냐하면 사회엔 우리가 알아야 하는 역사들이 있는데 그걸 알고 그만에 숨겨져있는 이야기가 웃기거나 자랑스럽고 또는 슬프기도 하기 때문이다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "난 그리고 <문법_맞춤법>사회이다 </문법_맞춤법>왜냐하면 사회엔 우리가 알아야 하는 역사들이 있는데 그걸알고 그만에 숨겨져있는 이야기가 웃기거나 자랑스럽고 또는 슬프기도 하다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 내가 우리나라 역사에 한 발 더 다가가는 느낌이 들어 기쁘다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 내가 우리나라 역사에 <문법_맞춤법>한벌더 </문법_맞춤법>다가가는 니낌이 들어 기쁘다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이번엔 실과이다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이번엔 <문법_맞춤법>실과이다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "실과는 음식도 나오고 실생활에 필요한 것도 알 수 있어서 아주 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "실과는 음식도 나오고 실생활에 <문법_맞춤법>필요한것도 알수있어서</문법_맞춤법> 아주 좋다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50183",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 442,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

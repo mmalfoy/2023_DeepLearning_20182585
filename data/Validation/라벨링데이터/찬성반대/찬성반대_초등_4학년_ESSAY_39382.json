@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 남한과 북한의 통일에 대해 찬성합니다.#@문장구분# 왜냐하면 남한과 북한이 서로통일 하면 나라가 더 커질수도있고 인구가 정말 많아집니다.#@문장구분# 그리고 다른나라에서 전쟁이 오면 같이 싸울수도 있습니다.#@문장구분# 군단비용이 엄청 많이드는데 통일을하면 군단비용을 줄일수 있습니다.#@문장구분# 돈도많이 벌고 일할자리도 많이생겨나서 아주 편리합니다.#@문장구분# 기차를타고 모스크바까지 갈수있어요.#@문장구분# 근데 3일이나 걸린다는게 조금 힘들것 같지만 여행은 즐거우니까 조금은 참아보아야 겠습니다.#@문장구분# 저는 그래서 남한과 북한의 통일에 찬성합니다.#@문장구분#",
+      "paragraph_len": 429,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.6,
+      18.45,
+      10.8
+    ],
+    "essay_scoreT_avg": 18.616667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 남한과 북한의 통일에 대해 찬성합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": "<문법_높임법>나는 남한과 북한의 통일에 대해 찬성합니다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 남한과 북한이 <스타일링_담화 맥락 오류>서로통일 하면 </스타일링_담화 맥락 오류>나라가 더 커질수도있고 인구가 정말 많아집니다.",
+      "sentence_corr_txt_styling": " 왜냐하면 남한과 북한이 통일되면 나라가 더 커지고 인구가 정말 많아지기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다른 나라에서 전쟁이 일어나면 같이 싸울 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>다른나라에서 </문법_맞춤법>전쟁이 <스타일링_담화 맥락 오류>오면</스타일링_담화 맥락 오류> 같이 싸울수도 있습니다.",
+      "sentence_corr_txt_styling": " 그리고 다른 나라에서 전쟁이 일어나면 같이 싸울 수도 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "연결 부사 없음",
+        "연결 부사 없음"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_기타>군단비용이 </스타일링_기타></스타일링_맞춤법>엄청 많이드는데 통일을하면 군단비용을 줄일수 있습니다.",
+      "sentence_corr_txt_styling": " 또한 분단비용이 엄청 많이드는데 통일을 하면 분단비용을 줄일 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 돈도 많이 벌 수 있고 일할 자리도 많이 생겨날 것이기 때문에 아주 좋을 것입니다.",
+      "sentence_corr_reason": [
+        "연결 부사 없음, 띄어쓰기",
+        "연결 부사 없음, 띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류",
+        "시제"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>돈도많이 벌고</문법_기타></문법_맞춤법> <문법_담화 맥락 오류>일할자리도 많이생겨나서</문법_담화 맥락 오류> 아주 <스타일링_시제>편리합니다</스타일링_시제>.",
+      "sentence_corr_txt_styling": " 그리고 돈도 많이 벌 수 있고 일할 자리도 많이 생겨날 것이기 때문에 아주 좋을 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 통일이 되면 기차를 타고 모스크바까지 갈 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>기차를타고 </스타일링_담화 맥락 오류></스타일링_맞춤법>모스크바까지 <문법_어미>갈수있어요</문법_어미>.",
+      "sentence_corr_txt_styling": " 통일이 되면 기차를 타고 모스크바까지 갈 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 3일이나 걸린다는게 조금 힘들 것 같지만 여행은 즐거우니까 조금은 참아보아야 겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 3일이나 걸린다는게 조금 <문법_맞춤법>힘들것 </문법_맞춤법>같지만 여행은 즐거우니까 조금은 참아보아야 겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39382",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 269,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

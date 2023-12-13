@@ -1,0 +1,299 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요#@문장구분# 저는 다문화 가족을 만나보지도 못하고 이야기도 해보지 못해서 잘은 모르겠지 만 다문화 가족이 우리처럼 차별 받지 않을려면 어뜨게 해야하는지 저의 의견을 이야기 해보도록 하겠습니다 #@문장구분#1번째 의견은 몇 명에 반에 다문화인 선생님을 넣는 것 입니다 #@문장구분#그래서 선생님이 학생들에게 다문화 가정들을 소중이 여겨야한다고 말하는 것입니다 #@문장구분#2번째는 다문화 가정에 대해서 학생들에게 교육을 시키는 것 입니다#@문장구분# 언제 날을 잡아 다문화인 친구를 불러 함께 노는 것 입니다#@문장구분# 놀다보면 사이도 좋아질거고 다음에 또 다른 다문화인을 불러와도 금방 친해질수 있을 겁니다 #@문장구분#그리고 다문화인을 욕하는 마음도 사라질 것이다#@문장구분# 3번째는 다문화 공감 글 쓰기이다#@문장구분# 공감 글을 쓰기를 하면 다문화 가족들이 좋아할 것 이다",
+      "paragraph_len": 560,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      12.035714,
+      18.55,
+      15.914286
+    ],
+    "essay_scoreT_avg": 15.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 다문화 가족을 만나보지도 못하고 이야기도 해보지 못해서 잘은 모르겠지 만 다문화 가족이 우리처럼 차별받지 않을려면 어떻게 해야 하는지 저의 의견을 이야기해보도록 하겠습니다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 다문화 가족을 만나보지도 못하고 이야기도 해보지 못해서 잘은 모르겠지 만 다문화 가족이 우리처럼 <문법_맞춤법>차별 받지 않을려면 어뜨게 해야하는지 저의 의견을 이야기 해보도록</문법_맞춤법> 하겠습니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "1번째 의견은 몇 명에 반에 다문화인 선생님을 넣는 것입니다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "1번째 의견은 몇 명에 반에 다문화인 선생님을 넣는 <문법_맞춤법>것 입</문법_맞춤법>니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 선생님이 학생들에게 다문화 가정들을 소중히 여겨야 한다고 말하는 것입니다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 선생님이 학생들에게 다문화 가정들을 소<문법_맞춤법>중이 여겨야한다고 </문법_맞춤법>말하는 것입니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "2번째는 다문화 가정에 대해서 학생들에게 교육을 시키는 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "2번째는 다문화 가정에 대해서 학생들에게 교육을 시키는 <문법_맞춤법>것 입니</문법_맞춤법>다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 언제 날을 잡아 다문화인 친구를 불러 함께 노는 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 언제 날을 잡아 다문화인 친구를 불러 함께 노는 <문법_맞춤법>것 입니</문법_맞춤법>다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 놀다 보면 사이도 좋아질 거고 다음에 또 다른 다문화인을 불러와도 금방 친해질 수 있을 겁니다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>놀다보면 </문법_맞춤법>사이도 좋아질거고 다음에 또 다른 다문화인을 불러와도 금방 친해질수 있을 겁니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 다문화인을 욕하는 마음도 사라질 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 다문화인을 욕하는 마음도 사라질 <문법_맞춤법>것이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3번째는 다문화 공감 글쓰기입니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 3번째는 다문화 공감 <문법_맞춤법><문법_높임법>글 쓰기이다</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공감 글을 쓰기를 하면 다문화 가족들이 좋아할 것입니다",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 공감 글을 쓰기를 하면 다문화 가족들이 좋아할 <문법_맞춤법><문법_높임법>것 이다</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49975",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 384,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

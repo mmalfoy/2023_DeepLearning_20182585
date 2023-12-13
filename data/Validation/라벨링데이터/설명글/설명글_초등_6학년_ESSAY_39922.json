@@ -1,0 +1,312 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "진정한 친구란 무엇일까요?#@문장구분# 함께 등교하는 친구, 다퉈도 다시 금방 화해하는 친구, 나의 비밀을 털어놓고 얘기할 수 있는 친구, 사귄지 오래된 친구 등 생각나는 친구가 여럿이 있을 것 같습니다.#@문장구분# 저는 자신의 비밀을 털어놓고 애기할 수 있는 친구가 진정한 친구라고 생각합니다.#@문장구분# 그친구에게는 조금 더 나자신을 보여줄 수 있기 때문입니다.#@문장구분# 그친고와 같이 있으면 마음이 편안해집니다.#@문장구분# 하지만, 그친구와도 싸운적이 있습니다.#@문장구분# 학교에서 간단한 영어시험을 본 날인데, 시험을 너무 잘봐서 저도 모르는 사이에 그만 그친구를 무시해버렸습니다.#@문장구분# 그친구는 제가 실수한걸 알아차리고 사과하려했지만 저를 피했습니다.#@문장구분# 간신히 점심을 먹고 난 뒤에 친구를 붙잡고 내가 무엇을 잘못했는지를 반성하며 사과를 하니, 그친구는 웃으면서 괜찮다고 해주었습니다.#@문장구분# 정말로 그친구와는 죽을 때까지 친하게 지내고 싶습니다.#@문장구분# 그친구와 저는 그림이라는 취미를 가지고 있습니다.#@문장구분# 저는 그림실력이 좋지않아서 자신감을 잃을 때마다 친구가 응원을 해줍니다.#@문장구분# 이외에도 도움을 많이 받을 때가 있는데, 이정도면 충분히 진정한 친구라고 할수있겠죠?#@문장구분#",
+      "paragraph_len": 812,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      22.85,
+      21.6
+    ],
+    "essay_scoreT_avg": 24.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 친구에게는 조금 더 나자신을 보여줄 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그친구에게는 </문법_맞춤법>조금 더 나자신을 보여줄 수 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 친구와 같이 있으면 마음이 편안해집니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그친고와</문법_맞춤법> 같이 있으면 마음이 편안해집니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만, 그 친구와도 싸운 적이 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만, <문법_맞춤법>그친구와도 </문법_맞춤법>싸운적이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교에서 간단한 영어 시험을 본 날인데, 시험을 너무 잘봐서 저도 모르는 사이에 그만 그 친구를 무시해버렸습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교에서 간단한 <문법_맞춤법>영어시험을 </문법_맞춤법>본 날인데, 시험을 너무 잘봐서 저도 모르는 사이에 그만 그친구를 무시해버렸습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 실수한 걸 알아차리고 사과하려했지만 그 친구는 저를 피했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어순>그친구는 제가 실수한걸 알아차리고 사과하려했지만</문법_어순></문법_맞춤법> 저를 피했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 간신히 점심을 먹고 난 뒤에 친구를 붙잡고 내가 무엇을 잘못했는지를 반성하며 사과를 하니, 그 친구는 웃으면서 괜찮다고 해주었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 간신히 점심을 먹고 난 뒤에 친구를 붙잡고 내가 무엇을 잘못했는지를 반성하며 사과를 하니, <문법_맞춤법>그친구는 </문법_맞춤법>웃으면서 괜찮다고 해주었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말로 그 친구와는 죽을 때까지 친하게 지내고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정말로 <문법_맞춤법>그친구와는 </문법_맞춤법>죽을 때까지 친하게 지내고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 친구와 저는 그림이라는 취미를 가지고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그친구와 </문법_맞춤법>저는 그림이라는 취미를 가지고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 그림 실력이 좋지 않아서 자신감을 잃을 때마다 친구가 응원을 해줍니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>그림실력이 </문법_맞춤법>좋지않아서 자신감을 잃을 때마다 친구가 응원을 해줍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 외에도 도움을 많이 받을 때가 있는데, 이정도면 충분히 진정한 친구라고 할 수 있겠죠?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이외에도 도움을 많이 받을 때가 있는데, 이정도면 충분히 진정한 친구라고 <문법_맞춤법>할수있겠죠?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39922",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 552,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

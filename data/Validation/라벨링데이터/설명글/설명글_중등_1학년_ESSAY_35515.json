@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내 스승은 친구라고 생각한다.#@문장구분# 왜냐하면 친구가 내가 모르는 영어와 수학을 잘 알려주었다.#@문장구분# 그 친구가 설명을 해주면 영어 선생님,수학 선생님같다.#@문장구분# 장난스럽게 알려주기도하고 때론 진지하게도 알려줬는데 너무 잘 알려주었기 때문이다.#@문장구분# 그래서 더 잘 알고 기억에도 잘 남았다.#@문장구분# 그래서 그 친구를 스승이라고 생각한다.#@문장구분# 비록 게임을 알려준거긴 하지만 그거 덕분에 실력이 는거같기 때문이다.#@문장구분# 내가 처음 하는 게임을 그 친구가 1대1을 하면서 알려주었다.#@문장구분# 이 캐릭터의 기술과 어떻게 쓰는지를 알려줬다.#@문장구분# 그래서 처음하는 게임이긴 하지만 금방 익숙해지고 조금 잘해졌었다.#@문장구분# 지금은 그래도 잘하긴 하지만 그 친구 덕분이라고 생각한다.#@문장구분# 이런 이유와 다른것들 때문에 나는 친구가 스승이라고 생각한다.#@문장구분# 나도 좋은 스승까진 아니지만 친구를 잘 도와주고 알려준적도 많다.#@문장구분# 그래서 친구도 문제를 해결했다.#@문장구분# 그리고 스승은 꼭 어른이 아니어도 된다고 생각한다.#@문장구분# 친구끼리도 될수있다고 생각하기 때문이다.#@문장구분# 나도 누군가에겐 좋은 스승이 되고싶다는 생각도 들었다.#@문장구분# 내 좋은 스승은 친구들이다.#@문장구분#",
+      "paragraph_len": 890,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      23.3,
+      21.3
+    ],
+    "essay_scoreT_avg": 21.533333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          1,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 친구가 설명을 해주면 영어 선생님,수학 선생님 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 친구가 설명을 해주면 영어 선생님,수학 <문법_맞춤법>선생님같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 장난스럽게 알려주기도 하고 때론 진지하게도 알려줬는데 너무 잘 설명해 주었기  때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 장난스럽게 <문법_맞춤법>알려주기도하고</문법_맞춤법> 때론 진지하게도 알려줬는데 너무 잘 알려주었기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 비록 게임을 알려준 거긴 하지만 그거 덕분에 실력이 는 것 같기  때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 비록 게임을 <문법_맞춤법>알려준거긴</문법_맞춤법> 하지만 그거 덕분에 실력이 는거같기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 처음하는 게임이긴 하지만 금방 익숙해지고 조금 잘하게 되었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 처음하는 게임이긴 하지만 금방 익숙해지고 조금 <문법_맞춤법>잘해졌었다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 이유와 다른 것들 때문에 나는 친구가 스승이라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 이유와 <문법_맞춤법>다른것들</문법_맞춤법> 때문에 나는 친구가 스승이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 좋은 스승까진 아니지만 친구를 잘 도와주고 알려준 적도 많다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 좋은 스승까진 아니지만 친구를 잘 도와주고 <문법_맞춤법>알려준적도</문법_맞춤법> 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구끼리도 될 수 있다고 생각하기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구끼리도 <문법_맞춤법>될수있다고</문법_맞춤법> 생각하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 누군가에겐 좋은 스승이 되고 싶다는 생각도 들었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 누군가에겐 좋은 스승이 <문법_맞춤법>되고싶다는</문법_맞춤법> 생각도 들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35515",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 530,
+    "essay_main_subject": "참된 스승"
+  }
+}

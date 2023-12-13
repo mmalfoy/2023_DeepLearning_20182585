@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 제가 집을 짓게 된다면 넓고 방이 많은 집을 짓고 있습니다.#@문장구분# (50평이상) #@문장구분#약간 욕심이 많은 것도 같지만 집은 넓은수록 좋기 때문에 고급 저택처럼 된 집에 살고 싶습니다.#@문장구분# 수영장도 있고 수족관도 있는 최고급 저택 말입니다.#@문장구분# 층은 10층 정도, 방은 층마다 5개 정도면 좋을 것 같습니다.#@문장구분# 미래에 그 정도의 집까지 지을 돈은 없겠지만, 이건 상상이니까.#@문장구분# 그 집이 생기면 생각만 해도 기분이 좋습니다.#@문장구분# 먼저 층마다 정확한 설계를 한다면, 1층은 거실, 2층은 안방, 3층은 내 방, 4,5,6층은 손님용 호텔방, 7층은 수족관, 8층은 온천, 9층은 박물관, 10층 스포츠센타로 다양한 서비스를 운영하고 싶습니다.#@문장구분#농장과 야외수영장도 하나씩 있는 거대한 저택을 생각하니 마음이 편해집니다.#@문장구분#",
+      "paragraph_len": 565,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.133335,
+      20.333334
+    ],
+    "essay_scoreT_avg": 23.822222,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "저는 제가 집을 짓게 된다면 넓고 방이 많은 집을 짓고 있습니다.",
+      "sentence_corr_txt_styling": "저는 제가 집을 짓게 된다면 넓고 방이 많은 집을 짓고 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " (50평 이상) ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " (<문법_맞춤법>50평이상</문법_맞춤법>) ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "약간 욕심이 많은 것도 같지만 집은 넓을수록 좋기 때문에 고급 저택처럼 된 집에 살고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "약간 욕심이 많은 것도 같지만 집은 <문법_맞춤법>넓은수록</문법_맞춤법> 좋기 때문에 고급 저택처럼 된 집에 살고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 집이 생긴다는 생각만 해도 기분이 좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그 집이 <문법_어미>생기면</문법_어미> 생각만 해도 기분이 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 층마다 정확한 설계를 한다면, 1층은 거실, 2층은 안방, 3층은 내 방, 4,5,6층은 손님용 호텔방, 7층은 수족관, 8층은 온천, 9층은 박물관, 10층 스포츠 센터로 다양한 서비스를 운영하고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 층마다 정확한 설계를 한다면, 1층은 거실, 2층은 안방, 3층은 내 방, 4,5,6층은 손님용 호텔방, 7층은 수족관, 8층은 온천, 9층은 박물관, 10층 <문법_맞춤법>스포츠센타</문법_맞춤법>로 다양한 서비스를 운영하고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61592",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 386,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

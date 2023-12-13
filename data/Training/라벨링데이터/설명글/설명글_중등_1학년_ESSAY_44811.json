@@ -1,0 +1,273 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "습관은 항상 좋은것만은 아니다.#@문장구분# 그 잘못된 습관을 고치기 위해선 그습관에 반대인 습관을 행동으로 하여 하다보면 없어진다.#@문장구분# 하지만 이것을 말로만 쉽다.#@문장구분# 더 쉬운 방법은 습관인 행동을 하면 안되는 이유를 조사하여 하면 안되는 것을 뇌에 각인 시키는 것이다.#@문장구분# 내가 스스로 노력하여 그 습관을 없애는것은 어렵지만 그 습관을 하면 안좋은점 에 대한 것을 인식하고 더이상 하면 안되겠구 라는 생각이들 정도로 그 습관을 잘알아야 한다.#@문장구분# 그 습관에 대해 알면 안좋은점을 알게 될 것이고 그점들을 통해 나는 한단계 성장을 한다.#@문장구분# 좋은 습관 들이기는 똑같이 그 습관이 들면 나는 어떡해 변화하고 이점들을 통해 내가 잘할수있는 것이 만들어질수도 있기 때문이다.#@문장구분#",
+      "paragraph_len": 498,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.85,
+      21.85,
+      19.2
+    ],
+    "essay_scoreT_avg": 18.300001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "습관은 항상 좋은 것만은 아니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "습관은 항상 <문법_맞춤법>좋은것만은</문법_맞춤법> 아니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 잘못된 습관을 고치기 위해선 그 습관에 반대인 습관을 행동으로 하여 하다 보면 없어진다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그 잘못된 습관을 고치기 위해선 <문법_맞춤법>그습관에 반대인 습관을 행동으로 하여 하다보면</문법_맞춤법> 없어진다.",
+      "sentence_corr_txt_styling": " 그 잘못된 습관을 고치기 위해선 그 습관에 반대인 습관을 행동으로 하여 하다 보면 없어진다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 하지만 이것을 말로만 쉽다.",
+      "sentence_corr_txt_styling": " 하지만 이것을 말로만 쉽다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 더 쉬운 방법은 습관인 행동을 하면 안 되는 이유를 조사하여 하면 안 되는 것을 뇌에 각인시키는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 더 쉬운 방법은 습관인 행동을 <문법_맞춤법>하면 안되는 이유를 조사하여 하면 안되는 것을 뇌에 각인 시키는</문법_맞춤법> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 스스로 노력하여 그 습관을 없애는 것은 어렵지만 그 습관을 하면 안 좋은 점에 대한 것을 인식하고 더 이상 하면 안 되겠다라는 생각이 들 정도로 그 습관을 잘 알아야 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 내가 스스로 노력하여 그 습관을 <문법_맞춤법>없애는것은 어렵지만 그 습관을 하면 안좋은점 에 대한 것을 인식하고 더이상</문법_맞춤법> 하면 안되겠구 라는 생각이들 정도로 그 습관을 잘알아야 한다.",
+      "sentence_corr_txt_styling": " 내가 스스로 노력하여 그 습관을 없애는 것은 어렵지만 그 습관을 하면 안 좋은 점에 대한 것을 인식하고 더 이상 하면 안 되겠다라는 생각이 들 정도로 그 습관을 잘 알아야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 습관에 대해 알면 안 좋은 점을 알게 될 것이고 그 점들을 통해 나는 한 단계 성장을 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그 습관에 대해 알면 <문법_맞춤법>안좋은점을 알게 될 것이고 그점들을 통해 나는 한단계</문법_맞춤법> 성장을 한다.",
+      "sentence_corr_txt_styling": " 그 습관에 대해 알면 안 좋은 점을 알게 될 것이고 그 점들을 통해 나는 한 단계 성장을 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 좋은 습관 들이기는 똑같이 그 습관이 들면 나는 어떻게 변화하고 이점들을 통해 내가 잘할 수 있는 것이 만들어질 수도 있기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 좋은 습관 들이기는 똑같이 그 습관이 들면 나는 <문법_맞춤법>어떡해 변화하고 이점들을 통해 내가 잘할수있는 것이 만들어질수도</문법_맞춤법> 있기 때문이다.",
+      "sentence_corr_txt_styling": " 좋은 습관 들이기는 똑같이 그 습관이 들면 나는 어떻게 변화하고 이점들을 통해 내가 잘할 수 있는 것이 만들어질 수도 있기 때문이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44811",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 359,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

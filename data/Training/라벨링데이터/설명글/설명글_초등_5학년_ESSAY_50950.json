@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "오늘은 건강한 몸을 만드는 방법과 위생을 지키는 방법을 알려드리겠습니다.#@문장구분#먼저 위생을 지키는 방법은 5가지 정도 있습니다.#@문장구분#먼저 첫번째는 손씻기입니다.#@문장구분#손씻기는 기본30초이상 해야하고 손씻기를 해야할때는 밥먹기전에 밥먹은후 그리고 밖에 나가고 집에 돌아왔을때 해야합니다.#@문장구분#밖에서도 할수있다면 더욱좋죠#@문장구분#다음은\n 양치하기 입니다.#@문장구분# 양치하기는 기본1회 3분 하루에 최소3번하는게 위생에 좋습니다.#@문장구분#그리고 양치를 해야할때는 일어나서1번 밥먹기전에 한번 밥먹은후에 한번 자기전에 한번입니다.#@문장구분#그리고 양치할때 주의할점은 너무세게하면 안됀다는 것 입니다.#@문장구분#너무세게한다면 이건강에 안 좋고 잘못하면 이가 빠질수도 있습니다.#@문장구분#\n 다음은 세수하기 입니다.#@문장구분#세수를 한다면 얼굴에서 빛이나고 눈꼽도 자연스레 때집니다.#@문장구분#\n 다음은 머리깜기입니다.#@문장구분#먼저 머리를 깜을때는 머리에 물을 뿌리고 그다음 샴푸를 뿌리고 손톱으로 빡빡머리를 누른다는 느낌으로 하면됩니다.",
+      "paragraph_len": 715,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.64762,
+      18.666668,
+      20.333334
+    ],
+    "essay_scoreT_avg": 20.88254,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "먼저 첫 번째는 손 씻기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "먼저 <문법_맞춤법>첫번째는 손씻기</문법_맞춤법>입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "손 씻기는 기본 30초 이상 해야 하고 손 씻기를  해야 할 때는 밥 먹기 전에  밥 먹은 후 그리고 밖에 나가고 집에 돌아왔을 때 해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>손씻기는 기본30초이상 해야하고 손씻기를 해야할때는 밥먹기전에 밥먹은후 그리고 밖에 나가고 집에 돌아왔을때 해야합니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "밖에서도 할 수 있다면 더욱 좋죠",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "밖에서도 <문법_맞춤법>할수있다면 더욱좋</문법_맞춤법>죠",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다음은 양치하기입니다다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다음은\n<문법_맞춤법> 양치하기 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 양치를 해야 할때는 일어나서 1번  밥 먹기 전에 한번 밥 먹은 후에 한번 자기 전에  한번입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 양치를<문법_맞춤법> 해야할때는 일어나서1번 밥먹기전에 한번 밥먹은후에 한번 자기전에 </문법_맞춤법>한번입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 양치할 때 주의할 점은 너무 세게 하면  안된다는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>양치할때 주의할점은 너무세게하면 안됀다는 것 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "너무 세게 한다면 이 건강에 안 좋고 잘못하면 이가 빠질 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>너무세게한다면 이건강에 안 좋고 잘못하면 이가 빠질수도 있</문법_맞춤법>습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 다음은 세수하기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 다음은 <문법_맞춤법>세수하기 입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세수를 한다면 얼굴에서 빛이 나고 눈곱도 자연스레 때 집니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "세수를 한다면 얼굴에서 <문법_맞춤법>빛이나고 눈꼽도 자연스레 때집니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 다음은 머리 감기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 다음은 <문법_맞춤법>머리깜기입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "먼저 머리를 감을 때는 머리에 물을 뿌리고 그다음 샴푸를 뿌리고 손톱으로 빡빡 머리를  누른다는 느낌으로 하면 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "먼저 머리를 <문법_맞춤법>깜을때는 머리에 물을 뿌리고 그다음 샴푸를 뿌리고 손톱으로 빡빡머리를 누른다는 느낌으로 하면됩</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50950",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 456,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

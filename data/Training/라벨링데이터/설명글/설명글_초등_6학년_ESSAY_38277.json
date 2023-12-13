@@ -1,0 +1,276 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 가장 존경하는 위인은 마틴 루서 킹입니다.#@문장구분# 마틴 루서 킹의 아버지는 목사로 흑인들을 존중하고 백인이 흑인을 차별하는걸 없애려고 하는 흑인 목사입니다.#@문장구분# 마틴 루서 킹은 자신의 아버지를 자랑스럽게 여겨서 아버지를 본 받아야겠다는 생각을 합니다.#@문장구분# 마틴 루서 킹은 어느 정도 자라서 교회에 가서 설교를 들었습니다.#@문장구분# 하지만, 한참 설교를 하던 목사가 갑자기 목소리를 높이며 화가 난 듯 고함을 쳤습니다.#@문장구분# 당시에는 그게 일반적인 설교 방법이였지만 내용은 인종 차별을 참고 견디라는 내용이었습니다.#@문장구분# 그 설교를 듣고 마틴은 충격을 받고 절대 목사가 되지 않는다고 마음을 먹었습니다. #@문장구분#마틴은 벤저민 선생에게 많은 영향을 받았습니다.#@문장구분# 결국 마틴은 킹 목사가 되었고, 1955년 12월 5일부터 버스 안 타기 운동이 시작되었고, 1956년에는 몽고메리의 버스 회사들이 인종 차별 없앴습니다.#@문장구분# 하지만 인종 차별을 없애고 있었는데 1968년 멤피스의 한 호텔에서 암살을 당하시고 생을 마감했습니다.#@문장구분# 마틴 루서 킹님에게 본 받을 점은 많지만 나의 삶의 적용해볼 것은 노력과 끈기를 적용시키도록 노력해야겠다.#@문장구분#",
+      "paragraph_len": 772,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.45,
+      26.4,
+      22.4
+    ],
+    "essay_scoreT_avg": 23.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 마틴 루서 킹의 아버지는 목사로, 흑인들을 존중하고 백인이 흑인을 차별하는 걸 없애려고 하는 흑인 목사입니다.",
+      "sentence_corr_reason": [
+        "쉼표가 필요합니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 마틴 루서 킹의 아버지는 <문법_기타>목사로</문법_기타> 흑인들을 존중하고 백인이 흑인을 <문법_맞춤법>차별하는걸</문법_맞춤법> 없애려고 하는 흑인 목사입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마틴 루서 킹은 자신의 아버지를 자랑스럽게 여겨서 아버지를 본받아야겠다는 생각을 합니다.",
+      "sentence_corr_reason": [
+        "붙여 써야 합니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마틴 루서 킹은 자신의 아버지를 자랑스럽게 여겨서 아버지를 <문법_맞춤법>본 받아야겠다는</문법_맞춤법> 생각을 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "'내용'이 반복됩니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 당시에는 그게 일반적인 설교 방법이였지만 내용은 인종 차별을 참고 견디라는 내용이었습니다.",
+      "sentence_corr_txt_styling": " 당시에는 그게 일반적인 설교 방법이였지만 내용은 인종 차별을 참고 견디라는 내용이었습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 설교를 듣고 마틴은 충격을 받고 절대 목사가 되지 않겠다고 마음을 먹었습니다. ",
+      "sentence_corr_reason": [
+        "미래 시제가 자연스럽습니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "기타"
+      ],
+      "sentence_txt": " 그 설교를 듣고 마틴은 충격을 받고 절대 목사가 되지 <문법_시제>않는다고</문법_시제> 마음을 먹었습니다. ",
+      "sentence_corr_txt_styling": " 그 설교를 듣고 마틴은 충격을 받고 절대 목사가 되지 않겠다고 마음을 먹었습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 결국 마틴은 킹 목사가 되었고, 1955년 12월 5일부터 버스 안 타기 운동이 시작되었습니다. 1956년에는 몽고메리의 버스 회사들이 인종 차별 없앴습니다.",
+      "sentence_corr_reason": [
+        "문장을 끊는 것이 좋을 것 같습니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 결국 마틴은 킹 목사가 되었고, 1955년 12월 5일부터 버스 안 타기 운동이 <문법_기타>시작되었고,</문법_기타> 1956년에는 몽고메리의 버스 회사들이 인종 차별 없앴습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 하지만 인종 차별을 없애고 있었는데 1968년 멤피스의 한 호텔에서 암살을 당하시고 생을 마감했습니다.",
+      "sentence_corr_txt_styling": " 하지만 인종 차별을 없애고 있었는데 1968년 멤피스의 한 호텔에서 암살을 당하시고 생을 마감했습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마틴 루서 킹님에게 본받을 점은 많지만 저의 삶에 적용해 볼 것은 노력과 끈기를 적용시키도록 노력해야겠다.",
+      "sentence_corr_reason": [
+        "붙여 써야 합니다.",
+        "존칭이 자연스럽습니다.",
+        "'에'가 옳은 표현입니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 마틴 루서 킹님에게 <문법_맞춤법>본 받을</문법_맞춤법> 점은 많지만 <문법_높임법>나의</문법_높임법> <문법_조사>삶의</문법_조사> 적용해볼 것은 노력과 끈기를 적용시키도록 노력해야겠다.",
+      "sentence_corr_txt_styling": " 마틴 루서 킹님에게 본받을 점은 많지만 저의 삶에 적용해 볼 것은 노력과 끈기를 적용시키도록 노력해야겠다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38277",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 553,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

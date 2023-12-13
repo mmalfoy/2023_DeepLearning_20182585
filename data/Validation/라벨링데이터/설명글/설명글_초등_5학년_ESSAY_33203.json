@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리의 건강이 안좋아지는 경우는 많습니다.#@문장구분# 그중에서 특히 손이 가장 더러운데 그 손으로 눈을 비비거나 다른 사물, 사람을 만지게 되면 바이러스가 오염이 될수 있고, 그렇게 되면 건강에 이상이 생기고 남에게 피해를 줄수 있기때문에 특히 조심해야 합니다.#@문장구분# 그리고 요즘에는 코로나19 바이러스가 돌고 있기 때문에 손소독을 자주하고, 손을 자주씻으면 된다.#@문장구분# 그리고 우리가 자주만지는 핸드폰, 책상, 장난감등 손을 자주되는곳도 깨끗히 소독을 해야합니다.#@문장구분# 이렇게 소독만 잘해도 우리의 건강은 한결 좋아질 것이고 그럼 병으로인해 아프거나 죽는사람이 조금씩 사라질것 같습니다.#@문장구분# 우리가 손을 씻는것은 기본적인 것이지만 꼭 해야하는 바이러스 예방법이기도 합니다.#@문장구분# 그래서 우리는 사소하지만 건강을 지킬수 있는 손씻기 캠페인을 만들어서 실행하면 우리모두가 아프지 않고 우리 모두가 깨끗한 환경에서 살아갈수 있습니다.#@문장구분#",
+      "paragraph_len": 584,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      20.333334,
+      27.6
+    ],
+    "essay_scoreT_avg": 22.644445,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.11",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리의 건강이 안 좋아지는 경우는 많습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리의 건강이<문법_맞춤법> 안좋아지는</문법_맞춤법> 경우는 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중에서 특히 손이 가장 더러운데 그 손으로 눈을 비비거나 다른 사물, 사람을 만지게 되면 바이러스가 오염이 될 수 있고, 그렇게 되면 건강에 이상이 생기고 남에게 피해를 줄 수 있기 때문에 특히 조심해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그중에서 특히 손이 가장 더러운데 그 손으로 눈을 비비거나 다른 사물, 사람을 만지게 되면 바이러스가 오염이 <문법_맞춤법>될수 있고</문법_맞춤법>, 그렇게 되면 건강에 이상이 생기고 남에게 피해를 줄수 있기때문에 특히 조심해야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 요즘에는 코로나19 바이러스가 돌고 있기 때문에 손소독을 자주 하고, 손을 자주 씻으면 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 요즘에는 코로나19 바이러스가 돌고 있기 때문에 손소독을<문법_맞춤법> 자주하고, 손을 자주씻으면 된다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 우리가 자주 만지는 핸드폰, 책상, 장난감 등 손을 자주 되는곳도 깨끗히 소독을 해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 우리가 <문법_맞춤법>자주만지는 핸드폰, 책상, 장난감등 손을 자주되는곳도 깨끗히 소독을 해야합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 소독만 잘해도 우리의 건강은 한결 좋아질 것이고 그럼 병으로 인해 아프거나 죽는 사람이 조금씩 사라질 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 소독만 잘해도 우리의 건강은 한결 좋아질 것이고 그럼 <문법_맞춤법>병으로인해</문법_맞춤법> 아프거나 죽는사람이 조금씩 사라질것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리가 손을 씻는것은 기본적인 것이지만 꼭 해야 하는 바이러스 예방법이기도 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리가 손을 씻는것은 기본적인 것이지만 꼭 <문법_맞춤법>해야하는 </문법_맞춤법>바이러스 예방법이기도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 우리는 사소하지만 건강을 지킬 수 있는 손 씻기 캠페인을 만들어서 실행하면 우리 모두가 아프지 않고 우리 모두가 깨끗한 환경에서 살아갈 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 우리는 사소하지만 건강을 <문법_맞춤법>지킬수 </문법_맞춤법>있는 손씻기 캠페인을 만들어서 실행하면 우리모두가 아프지 않고 우리 모두가 깨끗한 환경에서 살아갈수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33203",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 445,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

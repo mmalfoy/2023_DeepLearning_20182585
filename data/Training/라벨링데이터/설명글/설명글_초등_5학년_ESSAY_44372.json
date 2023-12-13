@@ -1,0 +1,324 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미술 시간이다!#@문장구분#\n 곳 내가 좋아하는 미술을 한다! #@문장구분#  그런데 문득 내가 어쩌다가 미술이  좋아졌을까?#@문장구분# 처음에는 조금 싫어했던것 같은데ㅇㅇㅇ#@문장구분#\n 나는 6살때 6살 중에서 그림,  종이접기를 잘 하는 편이었다 #@문장구분#그래서 친구들이 종이도 접어달라고 부탁하기도 했다#@문장구분# 그래서 미술이 좋았었는데ㅇㅇㅇ#@문장구분#\n 7살! 그때 미술 선생님은 화가셨는데 그림을 열심히 그리고 나서 선생님께 드렸는데 7살이 열심히 그려봐야 반짝이눈, 공주 드레스나 더 그렸겠는가.. 그 그림을 선생님께 드리니   못그렸다고 하셨다 #@문장구분#그래서 나는 (엄마랑 아빠가 잘 그린다고 했는데..)라고 말 하였다 근데 미술 선생님이 (그건 그냥 딸이여서 잘한다고 거짓말 하는거야) 라고 하셨다 #@문장구분#그때부터 충격을  받아서 미술을 싫어했던 기억이 있다.. #@문장구분#그 사건다음 선생님께서 정말  착해지신 기억이.. 그때이후 그림을 그리지 않다가 내 동생이 그림을 너무 잘그려서 열등감에 미술을 열심히 하다 다시 미술이 좋아진..ㅋㅋ 어려서 그런가? #@문장구분#정말 단순했던것 같다#@문장구분# 지금 생각해보면 추억이기도 하고 웃기기도 하다#@문장구분# 이렇게 어린이집 미술사건 끝!",
+      "paragraph_len": 802,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          1.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      14.619047,
+      17.133335
+    ],
+    "essay_scoreT_avg": 20.584127,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 처음에는 조금 싫어했던 것 같은데...",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 처음에는 조금 <문법_맞춤법><문법_기타>싫어했던것 같은데ㅇㅇㅇ</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": " 처음에는 조금 싫어했던 것 같은데...",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 나는 6살 때 6살 중에서 그림,  종이접기를 잘 하는 편이었다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "\n 나는 <문법_맞춤법><문법_기타>6살때 6살 중에서 그림,  종이접기를 잘 하는 편이었다</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 친구들이 종이도 접어달라고 부탁하기도 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그래서 친구들이 종이도 접어달라고 부탁하기도 <문법_기타>했다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 미술이 좋았었는데...",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그래서 미술이 <문법_기타>좋았었는데ㅇㅇㅇ</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 7살! 그때 미술 선생님은 화가셨는데 그림을 열심히 그리고 나서 선생님께 드렸는데 7살이 열심히 그려봐야 반짝이 눈, 공주 드레스나 더 그렸겠는가.. 그 그림을 선생님께 드리니   못 그렸다고 하셨다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 7살! 그때 미술 선생님은 화가셨는데 그림을 열심히 그리고 나서 선생님께 드렸는데 7살이 열심히 그려봐야 <문법_맞춤법>반짝이눈,</문법_맞춤법> 공주 드레스나 더 그렸겠는가.. 그 그림을 선생님께 드리니   못그렸다고 하셨다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 나는 (엄마랑 아빠가 잘 그린다고 했는데..)라고 말하였다 근데 미술 선생님이 (그건 그냥 딸이어서 잘한다고 거짓말하는 거야)라고 하셨다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 나는 (엄마랑 아빠가 잘 그린다고 했는데..)라고 <문법_맞춤법>말 하였다 근데 미술 선생님이 (그건 그냥 딸이여서 잘한다고 거짓말 하는거야) 라고 하셨다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 사건 다음 선생님께서 정말  착해지신 기억이.. 그때 이후 그림을 그리지 않다가 내 동생이 그림을 너무 잘 그려서 열등감에 미술을 열심히 하다 다시 미술이 좋아진..ㅋㅋ 어려서 그런가? ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 <문법_맞춤법>사건다음 선생님께서 정말  착해지신 기억이.. 그때이후 그림을 그리지 않다가 내 동생이 그림을 너무 잘그려서</문법_맞춤법> 열등감에 미술을 열심히 하다 다시 미술이 좋아진..ㅋㅋ 어려서 그런가? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "정말 단순했던 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "정말 <문법_맞춤법><문법_기타>단순했던것 같다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금 생각해 보면 추억이기도 하고 웃기기도 하다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 지금 <문법_맞춤법><문법_기타>생각해보면 추억이기도 하고 웃기기도 하다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 어린이집 미술 사건 끝!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 어린이집 <문법_맞춤법>미술사건</문법_맞춤법> 끝!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44372",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 544,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

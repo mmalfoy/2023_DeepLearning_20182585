@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "중학교에 가니까 초등학교 때보다 숙제가 많이 어렵게 느껴졌다.#@문장구분# 그래서 하기 싫으니까 자주 미뤘다.#@문장구분# 그러다보니 자주 학교에 숙제를 안해서 가게 되었다.#@문장구분# 예전에는 열심히 숙제를 했는데, 계속 안하다 보니 이게 습관이 되어버렸다.#@문장구분# 그래서 이 버릇을 고치려고 노력했다.#@문장구분# 어떤 노력을 했냐면, 난 집에 가자마자 책을 펴려고 했다.#@문장구분# 책을 펴면 숙제를 해야된다는 생각 때문에 어떻게든 연필을 들 거라고 생각했다.#@문장구분# 하지만 옆에 있는 휴대폰이 문제였다.#@문장구분# 나는 휴대폰을 하느라고 숙제를 하지 않았다.#@문장구분# 그래서 나중에는 휴대폰을 꺼놓고 숙제를 하기로 마음 먹었다.#@문장구분# 그렇게 하니까 숙제를 미루지 않고 평소보다 일찍 끝낼 수 있게 되었다.#@문장구분# 뿌듯해서 그다음날부터 난 계속 휴대폰을 끄고 숙제를 시작했다.#@문장구분# 그렇게 하다 보니까 어느 순간부터는 휴대폰을 끄지 않아도 숙제 하나에만 집중해서 얼른 끝낼 수 있게 됐다.#@문장구분#",
+      "paragraph_len": 698,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.25,
+      22.1,
+      21.85
+    ],
+    "essay_scoreT_avg": 22.733332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 하기 싫으니까 자주 미뤘다.",
+      "sentence_corr_txt_styling": " 그래서 하기 싫으니까 자주 미뤘다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러다 보니 자주 학교에 숙제를 안 해 가게 되었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그러다보니 자주 학교에 숙제를 <문법_맞춤법><문법_어미>안해서 </문법_어미></문법_맞춤법>가게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예전에는 열심히 숙제를 했는데, 계속 안 하다 보니 이게 습관이 되어버렸다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예전에는 열심히 숙제를 했는데, 계속 <문법_맞춤법>안하다 </문법_맞춤법>보니 이게 습관이 되어버렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 책을 펴면 숙제를 해야 된다는 생각 때문에 어떻게든 연필을 들 거라고 생각했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 책을 펴면 숙제를 <문법_맞춤법>해야된다는 </문법_맞춤법>생각 때문에 어떻게든 연필을 들 거라고 생각했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뿌듯해서 그 다음날부터 난 계속 휴대폰을 끄고 숙제를 시작했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 뿌듯해서 <문법_맞춤법>그다음날부터 </문법_맞춤법>난 계속 휴대폰을 끄고 숙제를 시작했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56859",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 438,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

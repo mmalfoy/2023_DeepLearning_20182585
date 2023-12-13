@@ -1,0 +1,323 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "인간은 늘 생각하는 사람도 있고 생각을 안하고 멍때리는 사람으로 나눌 수 있다.#@문장구분# 또 이렇게 나눌 수도 있다.#@문장구분# 감정에 휘말려 생각을 안하는 사람과 감정에 휘말렸는데도 불구하고 침착하게 생각을 하는 사람으로 분류할 수 있다.#@문장구분# 늘 생각하는 사람들은 늘 머릿속에서 아이디어가 샘솟는다.#@문장구분# 반대로 생각을 안하고 멍때리는 사람은 생각을 별로 안하고 특히 문제를 풀때 생각을 안하고 그냥 문제의 답을 찍는다.#@문장구분# 그래서 나는 또 감정에 휘말려 생각을 안하는 사람은 생각도 안하고, 감정, 오직 감정에만 휘둘려서 생각을 안한다.#@문장구분# 그리고 침착한 사람은 감정에 휘말리면 침착할거 같다.#@문장구분# 왜냐하면 그 사람은 침착하니까 말이다.#@문장구분# 예를 들어서 건물에 불이 나면 침착하지 않은 사람은 소화기의 핀을 뽑을때 핀이 안 벌인다.#@문장구분# 근대 침착한 사람은 핀을 뽑을때 아주 침착하게 핀을 뽑아 소화기를 작동시켜서 불을 끈다.#@문장구분# 그리고 또 한 예를 들어 달리기할때이거나, 엘리베이터를 기다릴때다.#@문장구분# 침착한 사람은 그냥 엘리베이터를 탄다.#@문장구분# 하지만 계단을 탈때도 있다.#@문장구분# 바로 다음 침착하지 않은 사람은 그냥 늦으면 바로 계단행이다.#@문장구분#",
+      "paragraph_len": 828,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.15,
+      21.85,
+      16.25
+    ],
+    "essay_scoreT_avg": 18.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "인간은 늘 생각하는 사람과 생각을 안 하고 멍때리는 사람으로 나눌 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "인간은 늘 생각하는 <문법_조사>사람도 있고</문법_조사> 생각을 <문법_맞춤법>안하고</문법_맞춤법> 멍때리는 사람으로 나눌 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반대로 생각을 안 하고 멍때리는 사람은 생각을 별로 안하고 특히 문제를 풀 때 문제의 답을 찍는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 반대로 생각을 <문법_맞춤법>안하고</문법_맞춤법> 멍때리는 사람은 생각을 별로 <문법_맞춤법>안하고</문법_맞춤법> 특히 문제를 풀때 생각을 <문법_맞춤법>안하고</문법_맞춤법> 그냥 문제의 답을 찍는다.",
+      "sentence_corr_txt_styling": " 반대로 생각을 안 하고 멍때리는 사람은 생각을 별로 안하고 특히 문제를 풀 때 문제의 답을 찍는다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "   또 감정에 휘말려 생각을 안 하는 사람은  오직 감정에만 휘둘려서 생각을 안한다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그래서 나는</스타일링_담화 맥락 오류> 또 감정에 휘말려 생각을 <문법_맞춤법>안하는</문법_맞춤법> 사람은 생각도 안하고, <스타일링_패러프레이징>감정, </스타일링_패러프레이징>오직 감정에만 휘둘려서 생각을 안한다.",
+      "sentence_corr_txt_styling": "   또 감정에 휘말려 생각을 안 하는 사람은  오직 감정에만 휘둘려서 생각을 안한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 침착한 사람은 감정에 휘말리면 침착<스타일링_담화 맥락 오류>할거 같다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 그리고 침착한 사람은 감정에 휘말리면 침착하게 행동할 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어서 건물에 불이 나면 침착하지 않은 사람은 소화기의 핀을 뽑을 때 핀이 쉽게 뽑히지 않을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 예를 들어서 건물에 불이 나면 침착하지 않은 사람은 소화기의 핀을<문법_맞춤법> 뽑을때 </문법_맞춤법>핀이 <스타일링_담화 맥락 오류>안 벌인다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 예를 들어서 건물에 불이 나면 침착하지 않은 사람은 소화기의 핀을 뽑을 때 핀이 쉽게 뽑히지 않을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 침착한 사람은 핀을 뽑을 때 아주 침착하게 핀을 뽑아 소화기를 작동시켜서 불을 끈다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>근대</문법_맞춤법> 침착한 사람은 핀을 뽑을때 아주 침착하게 핀을 뽑아 소화기를 작동시켜서 불을 끈다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 다른 예를 들면 달리기를 할 때나, 엘리베이터를 기다릴 때가 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "조사",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그리고 또 한 </스타일링_패러프레이징>예를<문법_조사> 들어</문법_조사><문법_맞춤법> 달리기할때이거나,</문법_맞춤법> 엘리베이터를 <문법_어미>기다릴때다.</문법_어미>",
+      "sentence_corr_txt_styling": " 또 다른 예를 들면 달리기를 할 때나, 엘리베이터를 기다릴 때가 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 계단을 이용할 때도 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 하지만 계단을 <문법_맞춤법><문법_기타>탈때도</문법_기타></문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반면, 침착하지 않은 사람은 그냥 늦으면 바로 계단을 이용한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>바로 다음 </스타일링_담화 맥락 오류>침착하지 않은 사람은 그냥 늦으면 바로 <문법_어미>계단행이다</문법_어미>.",
+      "sentence_corr_txt_styling": " 반면, 침착하지 않은 사람은 그냥 늦으면 바로 계단을 이용한다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36227",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 549,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

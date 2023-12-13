@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승이란 저에게 끊임 없는 격려를 해주는 선생님입니다.#@문장구분# 그리고 두번째로 제 진로수립에 도움을 주시는, 그러니까 목표수립에 도움을 주시는 선생님입니다.#@문장구분# 제가 어렸을때 제 꿈을 찾지 못하고 방황할때, 특히 자신의 장래희망을 적어서 소개하는 수업시간에 아무것도 적지못했었던 저에게 큰 도움을 주신 선생님이 계십니다.#@문장구분# 제가 무언가 되고싶다는 생각조차 못하는 것을 보고 선생님은 이것저것 많은 것을 알려주셨습니다.#@문장구분# 부담스럽지 않게 말이죠. #@문장구분#그리고 제가 수업시간 그림을 그리는 모습을 보시고 정말 잘 그리셨다면서 칭찬해주셨던 적이 있었습니다.#@문장구분# 살짝 디자인 쪽에 재능이 있는 것 같다고 하시면서 디자인 분야의 직업에 대해서도 소개해주셨습니다.#@문장구분# 그 덕분에 저는 지금 꿈이 생겼습니다.#@문장구분# 바로 인테리어 디자이너입니다.#@문장구분# 저는 그래서 지금 미술학원을 다니고 디자인 관련 책을 읽으며 공부하게 되었습니다. #@문장구분#그렇기 때문에 저는 제꿈을 찾아주신 선생님과 같은 선생님을 참된 스승이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 709,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      22.55,
+      21.3
+    ],
+    "essay_scoreT_avg": 24.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그리고 두 번째로 제 진로 수립에 도움을 주시는, 그러니까 목표 수립에 도움을 주시는 선생님입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>두번째로</문법_맞춤법> 제 진로수립에 도움을 주시는, 그러니까 목표수립에 도움을 주시는 선생님입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 어렸을 때 제 꿈을 찾지 못하고 방황할 때, 특히 자신의 장래희망을 적어서 소개하는 수업 시간에 아무것도 적지 못했었던 저에게 큰 도움을 주신 선생님이 계십니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 <문법_맞춤법>어렸을때 </문법_맞춤법>제 꿈을 찾지 못하고 방황할때, 특히 자신의 장래희망을 적어서 소개하는 수업시간에 아무것도 적지못했었던 저에게 큰 도움을 주신 선생님이 계십니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 무언가 되고 싶다는 생각조차 못 하는 것을 보고 선생님은 이것저것 많은 것을 알려주셨습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 무언가 <문법_맞춤법>되고싶다는 생각조차 못하는</문법_맞춤법> 것을 보고 선생님은 이것저것 많은 것을 알려주셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 제가 수업 시간 그림을 그리는 모습을 보시고 정말 잘 그리셨다면서 칭찬해 주셨던 적이 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 제가 <문법_맞춤법>수업시간</문법_맞춤법> 그림을 그리는 모습을 보시고 정말 잘 그리셨다면서 칭찬해주셨던 적이 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 살짝 디자인 쪽에 재능이 있는 것 같다고 하시면서 디자인 분야의 직업에 대해서도 소개해 주셨습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 살짝 디자인 쪽에 재능이 있는 것 같다고 하시면서 디자인 분야의 직업에 대해서도 <문법_맞춤법>소개해주셨습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 그래서 지금 미술 학원을 다니고 디자인 관련 책을 읽으며 공부하게 되었습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 그래서 지금 <문법_맞춤법>미술학원을 </문법_맞춤법>다니고 디자인 관련 책을 읽으며 공부하게 되었습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇기 때문에 저는 제 꿈을 찾아주신 선생님과 같은 선생님을 참된 스승이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇기 때문에 저는 <문법_맞춤법>제꿈을 </문법_맞춤법>찾아주신 선생님과 같은 선생님을 참된 스승이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69682",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 490,
+    "essay_main_subject": "참된 스승"
+  }
+}

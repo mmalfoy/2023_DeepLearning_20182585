@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 186746748742층 집에 살고 싶습니다.#@문장구분# 왜나하면 그곳에 살면 우주 쯤에 있고 산소를 주는(?) 것을 달고 떠있을 것입니다.#@문장구분# (몸이)#@문장구분# 2번째로 (1번째는 없었지만) 자동적인 집입니다.#@문장구분# 엘리베이터 그리고 라면을 끓여 주는 로봇도 있고 많은 신기한 것이 있는 집입니다.#@문장구분# 그치만 단점도 많을 것입니다.#@문장구분# 그래서 지금 사는 집이 가장 좋습니다.#@문장구분# (단점이 아니라 장단점)\n그리고 몽골의 게르 라는 곳에 한번 살아보고 싶습니다#@문장구분#. #@이름#도 거기서 자보았다고 하네요.#@문장구분# 그리고 한옥집 같은 곳도 가보고 싶습니다.#@문장구분# 일본에 있는 곳도 말입니다.#@문장구분# 애국심이 조금 없는 것 같긴 하지만 지금까지 말한 것들 중에서 한옥집에 제일 별로였습니다.#@문장구분# 이걸 꼭 말해야 했는지는 모르겠지만 말입니다.#@문장구분# 이로써 가장 평범한 우리집이 가장 편합니다.#@문장구분# (우리=(여기서)=가족)\n그렇기 때문에 정리를 하자면 \n1. 편함=집=우리집\n2. 186746748742층집>자동집>우리집(?)>게르>일본집(이름모름)(전통집)>한옥집입니다.#@문장구분#(순이임)#@문장구분# 일단 저는 186746748742층집에서 가장 살고 싶습니다.#@문장구분# 그리고라면을 끓여주는 로봇이 있어도 사고가 날수도 있고 아니면 사고가 안날수도 있습니다.#@문장구분# 그것은 만드는 것에 따라 달라질 것입니다.#@문장구분#",
+      "paragraph_len": 1022,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.485714,
+      20,
+      21.933334
+    ],
+    "essay_scoreT_avg": 19.806349,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜나하면 그 곳에 살면 우주 쯤에 있고 산소를 주는(?) 것을 달고 떠 있을 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜나하면 <문법_맞춤법>그곳에</문법_맞춤법> 살면 우주 쯤에 있고 산소를 주는(?) 것을 달고 떠있을 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " (단점이 아니라 장단점)\n그리고 몽골의 게르 라는 곳에 한번 살아 보고 싶습니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " (단점이 아니라 장단점)\n그리고 몽골의 게르 라는 곳에 한번 <문법_맞춤법>살아보고</문법_맞춤법> 싶습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 애국심이 조금 없는 것 같긴 하지만 지금까지 말한 것들 중에서 한옥집이 제일 별로였습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 애국심이 조금 없는 것 같긴 하지만 지금까지 말한 것들 중에서 <문법_맞춤법>한옥집에</문법_맞춤법> 제일 별로였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이로써 가장 평범한 우리 집이 가장 편합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이로써 가장 평범한 <문법_맞춤법>우리집이 </문법_맞춤법>가장 편합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "(순위임)",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "(<문법_맞춤법>순이임</문법_맞춤법>)",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 라면을 끓여 주는 로봇이 있어도 사고가 날 수도 있고 아니면 사고가 안 날 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고라면을 끓여주는 로봇이 있어도 사고가 날수도 있고 아니면 사고가 안날수도 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33422",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 613,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

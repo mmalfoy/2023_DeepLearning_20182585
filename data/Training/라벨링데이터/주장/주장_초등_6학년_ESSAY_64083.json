@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "1. 이런 험악하고 빡빡한 세상에서 폭력사태는 뉴스만 틀어봐도 쉽게 접할 수 있는 문제이다.#@문장구분# \n 이런 문제를 어떻게 해결할 수 있을까?#@문장구분# 고민해 본 결과 사후적인 처리보다 사전적인 처리가 더 중요하다,#@문장구분# 즉 예방이 중요하다는 생각이 들었다.#@문장구분# 이미 피해자가 생긴 후에 일을 처리한다고 무슨 소용이 있겠는가.#@문장구분# 그렇다면 어떻게 예방할 수 있을지 한번 생각해보자.#@문장구분# 우선 학교에서 책임지고 교육을 해야한다.#@문장구분# 학교가 가장 많은 학생들에게 교육 시킬 수 있는 최적의 환경이다.#@문장구분# 단순히 강당에 앉혀놓고 학생들에게 지루하게 교육하는게 아니라 직접 체험하며 피해자의 감정을 느낄 수 있는 그런 교육을 해야한다고 생각한다.#@문장구분# 다음으로 정기적으로 학생들의 상태를 점검해주는 그런 시스템이 필요하다고 생각한다.#@문장구분# 설문조사나 인터넷을 통한 조사로 철저히 비밀리에 상태를 체크해줘야 한다.#@문장구분# 이러한 방법을 통해 폭력예방이 가능할 것이다.#@문장구분#",
+      "paragraph_len": 688,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.11111,
+      26.555555,
+      26.4
+    ],
+    "essay_scoreT_avg": 26.355555,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그렇다면 어떻게 예방할 수 있을지 한번 생각해 보자.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇다면 어떻게 예방할 수 있을지 한번 <문법_맞춤법>생각해보자</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우선 학교에서 책임지고 교육을 해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우선 학교에서 책임지고 교육을 <문법_맞춤법>해야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교가 가장 많은 학생들에게 교육할 수 있는 최적의 환경이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교가 가장 많은 학생들에게 <문법_맞춤법>교육 시킬 </문법_맞춤법>수 있는 최적의 환경이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 단순히 강당에 앉혀놓고 학생들에게 지루하게 교육하는 게 아니라 직접 체험하며 피해자의 감정을 느낄 수 있는 그런 교육을 해야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 단순히 강당에 앉혀놓고 학생들에게 지루하게 <문법_맞춤법>교육하는게 </문법_맞춤법>아니라 직접 체험하며 피해자의 감정을 느낄 수 있는 그런 교육을 해야한다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음으로 정기적으로 학생들의 상태를 점검해 주는 그런 시스템이 필요하다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다음으로 정기적으로 학생들의 상태를 <문법_맞춤법>점검해주는 </문법_맞춤법>그런 시스템이 필요하다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 설문조사나 인터넷을 통한 조사로 철저히 비밀리에 상태를 체크해 줘야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 설문조사나 인터넷을 통한 조사로 철저히 비밀리에 상태를 <문법_맞춤법>체크해줘야 </문법_맞춤법>한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 방법을 통해 폭력 예방이 가능할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러한 방법을 통해 <문법_맞춤법>폭력예방이 </문법_맞춤법>가능할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64083",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 448,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

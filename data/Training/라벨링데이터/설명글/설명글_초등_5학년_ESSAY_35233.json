@@ -1,0 +1,346 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제취미는 총 3개 입니다.#@문장구분#첫번째는  만들기입니다.#@문장구분#제가 뭘 만드는 것을  좋아해서 만들기라는 취미를 가졌습니다.#@문장구분#제두번째 취미는 바로 그림그리기  입니다.#@문장구분#그림을 그리는 이유는 바로  그림을 그리면 좋기 때문입니다.#@문장구분#여기까지가 제가 갖고 있는 취미고요 가지고싶은 취미는 실뜨기 입니다 #@문장구분#웬지 실뜨기를 취미로 하면 재미있을 거 같고 또 제가 실뜨기를 못해서입니다.#@문장구분# 2번째로 같고 싶은 취미는 바로    대바늘로 뜨는거 입니다.#@문장구분#정확히는이름을 모르지만 저번에 하려고 샀는데 어려워서 포기하고 손으로했던기역이 있어서 그 취미를 가지고 싶습니다#@문장구분# 그리고 이제 제가 같고 싶은 마지막 같고 싶은 취미는 바로 식물기르기 입니다.#@문장구분#저번에 학교에서 방울토마토 기르기를 했는데 제가 귀찮아서 물로 안주고 그러니깐 엄마가 어쩔 수있없이 길렀습니다.#@문장구분#그래서 저는 식물기르기라는 취미를 가지고싶습니다#@문장구분#",
+      "paragraph_len": 666,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      23.266666,
+      12.847619
+    ],
+    "essay_scoreT_avg": 18.171427,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.30",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제 취미는 총 3개입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>제취미는</문법_맞춤법> 총 3개 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "첫 번째는  만들기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>첫번째는</문법_맞춤법>  만들기입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제 두 번째 취미는 바로 그림 그리기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>제두번째</문법_맞춤법> 취미는 바로 그림그리기  입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그림을 그리는 이유는 바로  그림을 <스타일링_담화 맥락 오류>그리면 좋기</스타일링_담화 맥락 오류> 때문입니다.",
+      "sentence_corr_txt_styling": "그림을 그리는 이유는 바로  그림을 그리면 기분이 좋기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여기까지가 제가 갖고 있는 취미입니다. 가지고 싶은 취미는 실뜨기입니다. ",
+      "sentence_corr_reason": [
+        "문어체로 쓰는 것이 좋음",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "여기까지가 제가 갖고 있는 <문법_어미>취미고요</문법_어미> <문법_맞춤법>가지고싶은</문법_맞춤법> 취미는 <문법_기타>실뜨기 입니다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왠지 실뜨기를 취미로 하면 재미있을 것 같고 또 제가 실뜨기를 못해서 취미로 하고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>웬지</문법_맞춤법> 실뜨기를 취미로 하면 재미있을 거 같고 또 제가 실뜨기를 <스타일링_담화 맥락 오류>못해서입니다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "왠지 실뜨기를 취미로 하면 재미있을 것 같고 또 제가 실뜨기를 못해서 취미로 하고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째로 가지고 싶은 취미는 바로    대바늘로 뜨기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>2번째로</문법_맞춤법> 같고 싶은 취미는 바로    대바늘로 뜨는거 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "정확히는 이름을 모르지만 저번에 하려고 샀는데 어려워서 포기하고 손으로 했던 기억이 있어서 그 취미를 가지고 싶습니다",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>정확히는이름을</문법_맞춤법> 모르지만 저번에 하려고 샀는데 어려워서 포기하고 손으로했던기역이 있어서 그 취미를 가지고 싶습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 제가 마지막으로 가지고 싶은 취미는 바로 식물 기르기입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <스타일링_담화 맥락 오류><스타일링_패러프레이징>이제 제가 같고 싶은 마지막 같고 </스타일링_패러프레이징></스타일링_담화 맥락 오류>싶은 취미는 바로 <문법_맞춤법>식물기르기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 그리고 제가 마지막으로 가지고 싶은 취미는 바로 식물 기르기입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저번에 학교에서 방울토마토 기르기를 했는데 제가 귀찮아서 물을 안 주니까 엄마가 어쩔 수 없이 길렀습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "저번에 학교에서 방울토마토 기르기를 했는데 제가 귀찮아서 <문법_조사>물로</문법_조사> <스타일링_담화 맥락 오류>안주고 그러니깐</스타일링_담화 맥락 오류> 엄마가 어쩔 <문법_맞춤법>수있없이 </문법_맞춤법>길렀습니다.",
+      "sentence_corr_txt_styling": "저번에 학교에서 방울토마토 기르기를 했는데 제가 귀찮아서 물을 안 주니까 엄마가 어쩔 수 없이 길렀습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저는 식물 기르기라는 취미를 가지고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 저는 <문법_맞춤법>식물기르기라는</문법_맞춤법> 취미를 가지고싶습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35233",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 426,
+    "essay_main_subject": "나의 취미"
+  }
+}

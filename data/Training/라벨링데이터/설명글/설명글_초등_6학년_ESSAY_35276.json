@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "서로 미워하고, 시기하는 삭막한 이세상에는 기댈 곳이 필요하다.#@문장구분# 그럴 때 가장 필요한 것은 위로를 해주는 친구가 아닐까?#@문장구분# 진정한 친구는 지금 당신 옆에 있는 친구인가?#@문장구분# 만약 그렇다면 그 기준은 무엇인다. #@문장구분#함께하는 시간이 많고, 어디든 함께하는 것일수도 있고, 힘들 때 따뜻한 위로를 건네주는 것일수도 있다. #@문장구분#그 기준은 사람마다 다를 것이고, 다르게 느낄 것이다.#@문장구분#당신은 친구가 좋은 일을 연달아 겪으면 진심으로 기뻐하며 축하해줄수 있는가?#@문장구분# 질투나 시기따위 등의 감정때문에 그렇지 못할 수도 있다.#@문장구분# 아직은 많이 친하지 않아서, 그런 것이라면 점차 고쳐가면 된다.#@문장구분# 많은 사람들이 말하는 진정한 친구의 기준이 이것이기 때문이다. #@문장구분#친구에 행복에 나도 같이 행복해지는 것이 진정한 우정이라고 본다.#@문장구분# 진정한 우정 앞에서 질투같은 감정으로 친구를 시기하는 것은 우정이 돈독치 못한 것이다.#@문장구분# 친구와 진정한 친구로 남고 싶다면 친구의 성공에 진심으로 기뻐해 주어라.#@문장구분# 그렇다면 앞으로도 계속 그 친구와 우정을 나눌 수 있을 것이다.#@문장구분#",
+      "paragraph_len": 790,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.6,
+      20,
+      14.55
+    ],
+    "essay_scoreT_avg": 19.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "서로 미워하고, 시기하는 삭막한 이 세상에는 기댈 곳이 필요하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "서로 미워하고, 시기하는 삭막한 <문법_맞춤법>이세상에는</문법_맞춤법> 기댈 곳이 필요하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>진정한 친구는 지금 당신 옆에 있는 친구인가?</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 지금 당신 옆에 있는 친구는 진정한 친구인가?",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 그렇다면 그 기준은 무엇인가? ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 만약 그렇다면 그 기준은 <문법_어미>무엇인다.</문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "함께하는 시간이 많거나, 어디든 함께하는 것일 수도 있고, 힘들 때 따뜻한 위로를 건네주는 것일 수도 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "함께하는 시간이 <문법_조사>많고</문법_조사>, 어디든 함께하는 <문법_맞춤법>것일수도</문법_맞춤법> 있고, 힘들 때 따뜻한 위로를 건네주는 <문법_맞춤법>것일수도</문법_맞춤법> 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "당신은 친구가 좋은 일을 연달아 겪으면 진심으로 기뻐하며 축하해 줄 수 있는가?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "당신은 친구가 좋은 일을 연달아 겪으면 진심으로 기뻐하며 <문법_맞춤법>축하해줄수</문법_맞춤법> 있는가?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 질투나 시기 따위 등의 감정 때문에 그렇지 못할 수도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 질투나 <문법_맞춤법>시기따위</문법_맞춤법> 등의 감정때문에 그렇지 못할 수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구의 행복에 나도 같이 행복해지는 것이 진정한 우정이라고 본다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "<문법_조사>친구에</문법_조사> 행복에 나도 같이 행복해지는 것이 진정한 우정이라고 본다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진정한 우정 앞에서 질투 같은 감정으로 친구를 시기하는 것은 우정이 돈독치 못한 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 진정한 우정 앞에서 <문법_맞춤법>질투같은</문법_맞춤법> 감정으로 친구를 시기하는 것은 우정이 돈독치 못한 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35276",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 512,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

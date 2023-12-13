@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "골고루 먹고 과자나 음료수는 덜 먹습니다.#@문장구분# 그리고 걸어서 학교에 다닙니다.#@문장구분# 건강을 위해서 위생을 힘쓰는데, 내방을 잘 정리하고 청소합니다.#@문장구분# 그리고, 먼지도 잘 닦고 속옷도 자주 갈아입습니다. #@문장구분#식후에는 양치질을 꼭 하고 밖에 나갔다오면 손을 씻습니다.#@문장구분# 밖에 나갈때는 마스크를 꼭 쓰고 밖에서 음식을 먹게 되면 손을 꼭 씻든지 소독합니다.#@문장구분# 요즘은 코로나 때문에 개인위생이 습관이 되었습니다. #@문장구분#집에 돌아가면 샤워를 하고 자고 일어나서 물로 입을 꼭 헹굽니다 #@문장구분#입안에 세균이 많다고 부모님이 말씀하셨어요.#@문장구분#\n 양치는 하루 아침과 저녁식후 두번은 꼭 하고, 손은 하루 세번정도 씻습니다.#@문장구분#",
+      "paragraph_len": 521,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.733334,
+      22.8,
+      20
+    ],
+    "essay_scoreT_avg": 23.177778,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 건강을 위해서 위생에 힘쓰는데, 내 방을 잘 정리하고 청소합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 건강을 위해서 <문법_맞춤법>위생을 </문법_맞춤법>힘쓰는데, 내방을 잘 정리하고 청소합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 밖에 나갈 때는 마스크를 꼭 쓰고 밖에서 음식을 먹게 되면 손을 꼭 씻든지 소독합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 밖에 <문법_맞춤법>나갈때는 </문법_맞춤법>마스크를 꼭 쓰고 밖에서 음식을 먹게 되면 손을 꼭 씻든지 소독합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "집에 돌아가면 샤워를 하고 자고 일어나서 물로 입을 꼭 헹굽니다. ",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "집에 돌아가면 샤워를 하고 자고 일어나서 물로 입을 꼭 <문법_기타>헹굽니다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 양치는 하루 아침과 저녁 식후 두 번은 꼭 하고, 손은 하루 세 번 정도 씻습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 양치는 하루 아침과 <문법_맞춤법>저녁식후 </문법_맞춤법>두번은 꼭 하고, 손은 하루 세번정도 씻습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63541",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 321,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

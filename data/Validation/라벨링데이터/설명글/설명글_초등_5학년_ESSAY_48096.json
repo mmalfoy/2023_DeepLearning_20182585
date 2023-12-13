@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서 많은 과목을 배우고 있습니다.#@문장구분# 체육, 국어, 수학 등 정말 다양한 과목이 있습니다.#@문장구분# 그 중 제가 설명 드릴 것은 체육과 음악, 미술입니다.#@문장구분# 체육활동에서는 축구, 피구, 발야구, 티볼 등을 배웁니다.#@문장구분# 하지만이러한 체육활동으로 친구사이에 갈등이매우 심하게 일어납니다.#@문장구분# 이 점을 해결하려면 무엇이 필요할까요?#@문장구분# 바로 친구들 사이에 자존심을 부리지 않고, 좋지 않은 의도로 다른친구의 얼굴을 맞추지 않습니다.#@문장구분# 그다음으로 제가 소개 할 것은 음악입니다.#@문장구분# 음악에서는 별똥별, 나무의노래, 구름, 새싹들이다 등등 여러가지 노래가 있고, 국악전통 노래를 배웁니다.#@문장구분# 제가 배웠던 노래 중에 가장 인상깊었던 노래는 함께 걸어 좋은 길 입니다.#@문장구분# 왜냐하면 마치 제가 1학년 때 학교가 끝나고 친구들과 놀았을때 생각이 났기 때문입니다.#@문장구분#",
+      "paragraph_len": 622,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.066668,
+      24.447618,
+      24.333334
+    ],
+    "essay_scoreT_avg": 22.28254,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 체육 활동에서는 축구, 피구, 발야구, 티볼 등을 배웁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>체육활동에서는</문법_맞춤법> 축구, 피구, 발야구, 티볼 등을 배웁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 이러한 체육 활동으로 친구 사이에 갈등이 매우 심하게 일어납니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>하지만이러한 체육활동으로 친구사이에 갈등이매우 심하게 일어납니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바로 친구들 사이에 자존심을 부리지 않고, 좋지 않은 의도로 다른 친구의 얼굴을 맞추지 않습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바로 친구들 사이에 자존심을 부리지 않고, 좋지 않은 의도로 <문법_맞춤법>다른친구의</문법_맞춤법> 얼굴을 맞추지 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그다음으로 제가 소개할 것은 음악입니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그다음으로 제가 <문법_맞춤법>소개 할</문법_맞춤법> 것은 음악입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 음악에서는 별똥별, 나무의 노래, 구름, 새싹들이다 등등 여러가지 노래가 있고, 국악 전통 노래를 배웁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 음악에서는 별똥별, <문법_맞춤법>나무의노래</문법_맞춤법>, 구름, 새싹들이다 등등 여러가지 노래가 있고, 국악전통 노래를 배웁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 배웠던 노래 중에 가장 인상깊었던 노래는 함께 걸어 좋은 길입니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 배웠던 노래 중에 가장 인상깊었던 노래는 함께 걸어 좋은 <문법_맞춤법>길 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 마치 제가 1학년 때 학교가 끝나고 친구들과 놀았을 때 생각이 났기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 마치 제가 1학년 때 학교가 끝나고 친구들과 <문법_맞춤법>놀았을때</문법_맞춤법> 생각이 났기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48096",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 403,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

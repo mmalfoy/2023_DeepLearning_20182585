@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "'3살 버릇 여든까지 간다'라는 속담이 있듯이 우리에게 버릇은 늘 곁에 있는 것입니다.#@문장구분# 이러한 습관은 때에 따라 좋을 수도 있고 나쁠 수도 있는데요.#@문장구분# 대표적인 예시로 공부할 때 자신에게 알맞은 루틴으로 하루하루 보내는 습관은 아주 좋은 습관이고, 손톱을 자주 물어뜯는 습관은 좋지 못한 습관이라고 할 수 있습니다.#@문장구분# 이 글을 적는 저는 손톱을 물어뜯는 습관을 가지고 있는데, 이를 최소화하기 위해서 저는 항상 하루하루를 바쁘게 살면서 손톱을 물어뜯는 습관을 최대한 줄여나갔었습니다.#@문장구분# 이렇게 바쁘게 살면서 손톱을 물어뜯을 시간을 주지 않고 계속해서 다른 일을 해나가면 한동안은 나쁜 습관을 없앨 수 있었던 노하우였던 것 같습니다.#@문장구분# 여기서 바쁘게 살기 위해 공부 습관을 만들었던 것도 한 몫했었던 것 같습니다.#@문장구분# 이처럼 나쁜 습관을 고치는 과정에서 좋은 습관을 형성하는 것이 가장 이상적인 것이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 589,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.1,
+      22.1,
+      20.8
+    ],
+    "essay_scoreT_avg": 21.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "'3살 버릇 여든까지 간다'라는 속담이 있듯이 우리에게 버릇은 늘 곁에 있는 것입니다.",
+      "sentence_corr_txt_styling": "'3살 버릇 여든까지 간다'라는 속담이 있듯이 우리에게 버릇은 늘 곁에 있는 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 습관은 때에 따라 좋을 수도 있고 나쁠 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 이러한 습관은 때에 따라 좋을 수도 있고 나쁠 수도 <문법_어미>있는데요</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 글을 적는 저는 손톱을 물어뜯는 습관을 가지고 있는데, 이를 최소화하기 위해서 저는 항상 하루하루를 바쁘게 살면서 손톱을 물어뜯는 습관을 최대한 줄여나갔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 이 글을 적는 저는 손톱을 물어뜯는 습관을 가지고 있는데, 이를 최소화하기 위해서 저는 항상 하루하루를 바쁘게 살면서 손톱을 물어뜯는 습관을 최대한 <문법_어미>줄여나갔었습니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 바쁘게 살면서 손톱을 물어뜯을 시간을 주지 않고 계속해서 다른 일을 하면 한동안은 나쁜 습관을 없앨 수 있었던 노하우였던 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이렇게 바쁘게 살면서 손톱을 물어뜯을 시간을 주지 않고 계속해서 다른 일을 <문법_시제>해나가면</문법_시제> 한동안은 나쁜 습관을 없앨 수 있었던 노하우였던 것 같습니다.",
+      "sentence_corr_txt_styling": " 이렇게 바쁘게 살면서 손톱을 물어뜯을 시간을 주지 않고 계속해서 다른 일을 하면 한동안은 나쁜 습관을 없앨 수 있었던 노하우였던 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여기서 바쁘게 살기 위해 공부 습관을 만들었던 것도 한 몫 했었던 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 여기서 바쁘게 살기 위해 공부 습관을 만들었던 것도 한 <문법_맞춤법>몫했었던</문법_맞춤법> 것 같습니다.",
+      "sentence_corr_txt_styling": " 여기서 바쁘게 살기 위해 공부 습관을 만들었던 것도 한 몫 했었던 것 같습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69161",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 449,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

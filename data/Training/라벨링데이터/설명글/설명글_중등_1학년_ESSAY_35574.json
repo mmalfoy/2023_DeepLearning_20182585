@@ -1,0 +1,330 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "인간은 늘 생각하고 행동하는지에 대해 나의 생각을 쓰자면 나는 둘 다 맞고 틀리지 않는다고 생각한다.#@문장구분# 그 2가지가 뭐냐면 1. 생각하고 행동한다.#@문장구분# 2:생각 안하고 행동한다.#@문장구분# 굳이 하나를 딱 고른다기 보단 둘 다 맞는게 맞는 듯 하다.#@문장구분# 인간은 생각만 하고 살 수도, 생각을 안하고만 살 수도 없기 때문이다.#@문장구분# 사람마다 생각이 다 다를 것이다.#@문장구분# 행동이나 말 하기 전 뇌가 시키니까 생각하는 거라고 생각하는 사람도 있을 것 이고, 뇌가 생각하는건 당연한 것 이기도 하고 자신이 막말이 나왔을때나 그럴때는 어떻게 설명할 것이야, 내가 원하지 않았으니까 생각 안한거지 등 많을 것이다.#@문장구분# 그러니까 생각을 안하고 행동하는 경우도 많다고 본다.#@문장구분# 예를 들어 다른사람에게 \"생각없이\" 기분 나쁘고 좋지않은 말을 하거나 그런경우 그 사람 기분, 뒷일 등 생각하지 않았더라면 생각하고 행동하지 않은 것 이다.#@문장구분# 그러니까 행동하기 전 생각하고 행동하는 것이 좋은 것 같다.#@문장구분# 그렇지만 항상 예외는 있다.#@문장구분# 생각하고 행동하는 경우도 많을 것이다.#@문장구분# 필요 할때도 있을 것이고, 그렇지만 항상 생각해도 복잡하고 힘들 것 같다.#@문장구분# 삶에서 행동도 느려질 것 이다.#@문장구분# 그러므로 나의 생각은 둘 다 적절하게 쓰는 게 맞는 것 같다.#@문장구분#",
+      "paragraph_len": 906,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      20,
+      14.25
+    ],
+    "essay_scoreT_avg": 20.216667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "인간은 늘 생각하고 행동하는지에 대해 나의 생각을 쓰자면 나는 둘 다 <스타일링_담화 맥락 오류>맞고</스타일링_담화 맥락 오류> 틀리지 않는다고 생각한다.",
+      "sentence_corr_txt_styling": "인간은 늘 생각하고 행동하는지에 대해 나의 생각을 쓰자면 나는 둘 다 맞거나  틀리지 않는다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2. 생각 안하고 행동한다.",
+      "sentence_corr_reason": [
+        "문장 부호 "
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>2:</문법_기타>생각 안하고 행동한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 굳이 하나를 딱 고른다기보단 둘 다 옳다고 보는 게  맞는 듯하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 굳이 하나를 딱 <문법_맞춤법>고른다기 보단</문법_맞춤법> 둘 다 <스타일링_담화 맥락 오류><스타일링_패러프레이징>맞는게</스타일링_패러프레이징></스타일링_담화 맥락 오류> 맞는 듯 하다.",
+      "sentence_corr_txt_styling": " 굳이 하나를 딱 고른다기보단 둘 다 옳다고 보는 게  맞는 듯하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인간은 생각만 하고 살 수도, 생각을 안 하고만 살 수도 없기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인간은 생각만 하고 살 수도, 생각을 <문법_맞춤법>안하고만</문법_맞춤법> 살 수도 없기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 행동이나 말을 하기 전에 뇌가 시키니까 생각하는 거라고 생각하는 사람도 있을 것이고, 뇌가 생각하는 건 당연한 것이기도 하고 막말이 나왔을 때와 같은 경우에는 어떻게 설명할 거야,  내가 원하지 않았으니까 생각 안 한 거지 등 많을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 ",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 행동이나 <문법_조사>말</문법_조사> 하기 전 뇌가 시키니까 생각하는 거라고 생각하는 사람도 있을 <문법_맞춤법>것 이고,</문법_맞춤법> 뇌가 생각하는건 당연한 것 이기도 하고 자신이 막<문법_조사>말</문법_조사>이 나왔을때나 그럴때는 어떻게 설명할 것이야, 내가 원하지 않았으니까 생각 안한거지 등 많을 것이다.",
+      "sentence_corr_txt_styling": " 행동이나 말을 하기 전에 뇌가 시키니까 생각하는 거라고 생각하는 사람도 있을 것이고, 뇌가 생각하는 건 당연한 것이기도 하고 막말이 나왔을 때와 같은 경우에는 어떻게 설명할 거야,  내가 원하지 않았으니까 생각 안 한 거지 등 많을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니까 생각을 안 하고 행동하는 경우도 많다고 본다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니까 생각을 <문법_맞춤법>안하고</문법_맞춤법> 행동하는 경우도 많다고 본다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 다른 사람에게 '생각 없이' 기분 나쁘고 좋지않은 말을 하거나 그런경우 그 사람 기분, 뒷일 등 생각하지 않았더라면 생각하고 행동하지 않은 것 이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        "문장 부호, 띄어쓰기 "
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 예를 들어 <문법_맞춤법>다른사람에게</문법_맞춤법> <문법_기타>\"생각없이\"</문법_기타> 기분 나쁘고 좋지않은 말을 하거나 그런경우 그 사람 기분, 뒷일 등 생각하지 않았더라면 생각하고 행동하지 않은 것 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그러니까 행동하기 전 생각하고 <스타일링_패러프레이징>행동하는 것이</스타일링_패러프레이징> 좋은 것 같다.",
+      "sentence_corr_txt_styling": " 그러니까 행동하기 전 생각하고 하는 것이  좋은 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 필요할 때도 있을 것이고. 그렇지만 항상 생각해도 복잡하고 힘들 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        "문장 부호 "
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>필요 할때도</문법_맞춤법> 있을 것이<문법_기타>고,</문법_기타> 그렇지만 항상 생각해도 복잡하고 힘들 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 삶에서 행동도 느려질 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 삶에서 행동도 느려질 <문법_맞춤법>것 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35574",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 606,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

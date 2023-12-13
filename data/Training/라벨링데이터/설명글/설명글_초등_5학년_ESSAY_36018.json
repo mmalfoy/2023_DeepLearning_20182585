@@ -1,0 +1,351 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요.#@문장구분# #@이름#라고 합니다. #@문장구분#저의 취미 활동은 바로 마술하기 입니다.#@문장구분# 왜 마술하기가 취미활동이 됬냐면 바로 유튜브를 보는데 마술 영상이 올라와서 봤더니 신기하고 또 멋지고 또는 재미있어 보여서 마술하기 취미활동이 되었습니다. #@문장구분#그래서 이제 조금 마술을 할수있습니다.#@문장구분# 저의 두번째 취미는 게임하기 입니다.#@문장구분# 왜냐하면 그냥 게임들이 재미있어서 입니다. #@문장구분#그리고 게임 중에서 온라인게임은 친구들과 할수 있어서 더욱 재미있습니다.#@문장구분# 그리고 마지막 취미활동은 영화보기 입니다.#@문장구분# 제가 왜 영화보기가 취미가 되었냐면 영화는 액션영화, 애니메이션 영화, 공포영화등 많은 영화들이 있어서 영화보기가 저의 마지막 취미활동 입니다.#@문장구분# 그리고 만들고 싶은 취미는 아이스 스키 입니다. #@문장구분#이제 곧 겨울인데 아이스 스키를 타러 가고 싶어서 만들고 싶은 취미 활동이 됬습니다.#@문장구분#",
+      "paragraph_len": 670,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      25.780952,
+      18.4
+    ],
+    "essay_scoreT_avg": 22.86032,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.23",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 취미 활동은 바로 마술하기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 취미 활동은 바로 <문법_맞춤법>마술하기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마술하기가 취미 활동이 된 이유는 바로 유튜브를 보던 중 마술 영상이 올라온 것을 보고 신기하고, 멋지고 재밌는 것이라고 생각했기 때문입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "담화 맥락 오류",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_어순><문법_담화 맥락 오류>왜 마술하기가 취미활동이 됬냐면</문법_담화 맥락 오류></문법_어순> 바로 유튜브를 <문법_조사>보는데</문법_조사> 마술 영상이 올라와서 봤더니 <스타일링_패러프레이징>신기하고 또 멋지고 또는 재미있어 보여서 마술하기 취미활동이 되었습니다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": " 마술하기가 취미 활동이 된 이유는 바로 유튜브를 보던 중 마술 영상이 올라온 것을 보고 신기하고, 멋지고 재밌는 것이라고 생각했기 때문입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때부터 연습을 꾸준히 했고, 이제 조금 마술을 할 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>그래서 </스타일링_담화 맥락 오류>이제 조금 마술을 <문법_맞춤법>할수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "그때부터 연습을 꾸준히 했고, 이제 조금 마술을 할 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저의 또 다른 취미는 게임하기입니다.",
+      "sentence_corr_reason": [
+        "",
+        "붙여쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 저의 <스타일링_담화 맥락 오류>두번째</스타일링_담화 맥락 오류> 취미는 <문법_맞춤법>게임하기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 저의 또 다른 취미는 게임하기입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 <스타일링_담화 맥락 오류>그냥 게임들이 재미있어서 입니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 왜냐하면 게임은 재밌기 때문입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 게임 중에서 특히 온라인 게임은 친구들과 함께 할 수 있어서 더욱 재미있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그리고 게임 중에서 <문법_맞춤법><문법_담화 맥락 오류>온라인게임은</문법_담화 맥락 오류></문법_맞춤법> 친구들과 할수 있어서 더욱 재미있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음으로 저의 마지막 취미활동은 영화보기입니다.",
+      "sentence_corr_reason": [
+        "",
+        "붙여쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고 </스타일링_담화 맥락 오류>마지막 취미활동은 <문법_맞춤법>영화보기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 다음으로 저의 마지막 취미활동은 영화보기입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 영화보기가 저의 취미가 된 이유는 영화는 액션 영화, 애니메이션 영화, 공포 영화 등 많은 영화가 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>제가 왜 영화보기가 취미가 되었냐면</스타일링_담화 맥락 오류> 영화는 <문법_맞춤법>액션영화</문법_맞춤법>, 애니메이션 영화, 공포영화등 <스타일링_패러프레이징>많은 영화들이 있어서 영화보기가 저의 마지막 취미활동 입니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 영화보기가 저의 취미가 된 이유는 영화는 액션 영화, 애니메이션 영화, 공포 영화 등 많은 영화가 있기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로, 제가 만들고 싶은 취미는 아이스 스키입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "붙여쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고 </스타일링_담화 맥락 오류>만들고 싶은 취미는 아이스<문법_맞춤법> 스키 입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": " 마지막으로, 제가 만들고 싶은 취미는 아이스 스키입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류><스타일링_패러프레이징>이제 곧 겨울인데 아이스 스키를 타러 가고 싶어서 만들고 싶은 취미 활동이 됬습니다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "이제 곧 겨울이 되기 때문에 그에 맞는 새로운 취미 활동을 만들어보고 싶었습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36018",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 415,
+    "essay_main_subject": "나의 취미"
+  }
+}

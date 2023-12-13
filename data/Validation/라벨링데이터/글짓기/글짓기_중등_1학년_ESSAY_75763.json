@@ -1,0 +1,198 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래도시는 우선 로봇이랑 말하는 것까지는 아니라도 정해진 방법대로 요리하는 로봇, 전달하는 로봇정도는 평소에도 볼 수 있을 것 같다. #@문장구분#그리고 핸드폰을 손이나 인간의 몸에 넣어서 생각한대로 문자가 보내지고 전화를 걸고 받고 이런 시대가 오지 않을까 싶다.#@문장구분# 하늘을 나는 자동차는 물론이고 바다 속에 도로를 만들어 물고기들이 옆에서 드라이브를 할 수도 있고 오래 살 수 있는 약이 만들어져서 부자들은 이걸 먹고 죽을 걱정 없이 살지 않을까 기대한다.#@문장구분# 그리고 다른 행성을 자유롭게 다니면서 자연스럽게 외계인과도 같이 게임도 하고 운동도 하면서 친해질 것 같다.#@문장구분# 그래서 외계인이란 말이 어색해지고 결국엔 멀리 사는 정도의 친구로 말할 것이다.#@문장구분# 그렇기 때문에 내가 지은 미래도시의 이름은 간단히 뭐든지 가능하고 자유롭다고 해서 '가능 자유 도시' 이다.#@문장구분#",
+      "paragraph_len": 543,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      24.4,
+      16.8
+    ],
+    "essay_scoreT_avg": 22.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그리고 핸드폰을 손이나 인간의 몸에 넣어서 생각한 대로 문자가 보내지고 전화를 걸고 받고 이런 시대가 오지 않을까 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 핸드폰을 손이나 인간의 몸에 넣어서 <문법_맞춤법>생각한대로</문법_맞춤법> 문자가 보내지고 전화를 걸고 받고 이런 시대가 오지 않을까 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하늘을 나는 자동차는 물론이고 바다 속에 도로를 만들어 물고기들이 옆에서 드라이브를 할 수도 있고, 오래 살 수 있는 약이 만들어져서 부자들은 이걸 먹고 죽을 걱정 없이 살지 않을까 기대한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 하늘을 나는 자동차는 물론이고 바다 속에 도로를 만들어 물고기들이 옆에서 드라이브를 할 수도 <문법_기타>있고</문법_기타> 오래 살 수 있는 약이 만들어져서 부자들은 이걸 먹고 죽을 걱정 없이 살지 않을까 기대한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그렇기 때문에 내가 지은 미래도시의 이름은 간단히 뭐든지 가능하고 자유롭다고 해서 '가능 자유 도시' 이다.",
+      "sentence_corr_txt_styling": " 그렇기 때문에 내가 지은 미래도시의 이름은 간단히 뭐든지 가능하고 자유롭다고 해서 '가능 자유 도시' 이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75763",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 424,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미는 배드민턴이다.#@문장구분# 왜냐하면 내가 배드민턴을 좋아하게 된 이유가 배드민턴은 손목의 스냅으로 하는건데 내가 옛날부터 할아버지랑 배드민턴을 쳐서 그런지 재밌고 힘들지않다.#@문장구분# 또 많이 움직이지않아서 땀도 별로 않나고 그리고 얼마전에 허광희 선수가 1위를 이겨서 신난다.#@문장구분# 우리나라는 계속 성장한다.#@문장구분# 나도 허광희 선수처럼 멋진 스파이크를 하고싶다.#@문장구분# 배드민턴은 싸우거나 때리는 엄격한 운동이 아니어서 다칠수도 있지만 크게 다치지는 않다.#@문장구분# 그래서 항상 체육시간에도 가끔씩 한다.#@문장구분# 나는 배드민턴 방과후도 다녔다.#@문장구분# 거기선 항상 배드민턴을 쳤었다.#@문장구분# 선생님도 착하셨고 다정하셨다.#@문장구분# 가끔식 현충원에도 가서 배드민턴을 쳤었다.#@문장구분# 하지만 꿈으로 키울 생각은 없다.#@문장구분# 처음에 배드민턴을 할때 좀 흥미가 있었다.#@문장구분#",
+      "paragraph_len": 643,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.619047,
+      21.6,
+      30
+    ],
+    "essay_scoreT_avg": 26.073015,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 내가 배드민턴을 좋아하게 된 이유가 배드민턴은 손목의 스냅으로 하는 건데 내가 옛날부터 할아버지랑 배드민턴을 쳐서 그런지 재밌고 힘들지 않다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 내가 배드민턴을 좋아하게 된 이유가 배드민턴은 손목의 스냅으로 <문법_맞춤법>하는건데 내가 옛날부터 할아버지랑 배드민턴을 쳐서 그런지 재밌고 힘들지않</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 많이 움직이지 않아서 땀도 별로 안 나고 그리고 얼마 전에 허광희 선수가 1위를 이겨서 신난다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 많이 <문법_맞춤법>움직이지않아서 땀도 별로 않나고 그리고 얼마전에 허광희 선수가 1위를 이겨서 신</문법_맞춤법>난다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 허광희 선수처럼 멋진 스파이크를 하고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 허광희 선수처럼 멋진 스파이크를 <문법_맞춤법>하고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 배드민턴 방과 후도 다녔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 배드민턴 <문법_맞춤법>방과후도</문법_맞춤법> 다녔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음에 배드민턴을 할 때 좀 흥미가 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 처음에 배드민턴을 <문법_맞춤법>할때</문법_맞춤법> 좀 흥미가 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50698",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 383,
+    "essay_main_subject": "나의 취미"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가하는 여가활동과 학습:#@문장구분# 1. 여과활동 게임과 텔레비전과 핸드폰을 보기나 책을 읿고, 그림도 그리고, 놀기도하고, 무술을 구경하는게 저에 여과활동입니다.#@문장구분# 학습활동#@문장구분#:1학원에서 영어나 수학은 배웁니다#@문장구분# 그리고 연산문제집도 풀고, 국어문제도 풀고 여러가지 활동을 합니다.#@문장구분# 제가 좋아하는 학습과 여과사이에 활동#@문장구분# 1. 책은 지식을 싸을수 있기 때문에 학습활동이라 할수도있고 재미있는 책을 읽는 사람은 여과활동일수도 있습니다.#@문장구분# 2. 텔레비전으론 공부할수도 있고 여러 읽을 할수있씁니다.#@문장구분# 3. 그림그리는것 또한 학습활동일수도 여가활동일수도 있습니다.#@문장구분# 학습활동과 여과활동의 필요한이유#@문장구분# 1. 학습활동으로 지식을 싸아야 나중에 직업이나 여러가지를 선택할수있는것이 수월하기 때문에 학습활동이 필요합니다.#@문장구분# 여과활동이 필요한 이유.#@문장구분# 1.여과활동이 필요한것은 쉬면서 해요#@문장구분# 활동이나 할일을 이치고 쉬는시간에 심심하지 않도록 하는것이다#@문장구분# 그렇기 때문에 학습활동과 여과활동에서 시간은 심하다면 물다 적당한 비용로만 들어야 된다.#@문장구분#",
+      "paragraph_len": 801,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.333332,
+      25.019047,
+      28.066666
+    ],
+    "essay_scoreT_avg": 23.806349,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.23",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 하는 여가활동과 학습:",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>제가하는</문법_맞춤법> 여가활동과 학습:",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1. 여가활동 게임과 텔레비전과 핸드폰을 보기나 책을 읽고, 그림도 그리고, 놀기도 하고, 무술을 구경하는 게 저의 여가활동입니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1<문법_맞춤법>. 여과활동 게임과 텔레비전과 핸드폰을 보기나 책을 읿고, 그림도 그리고, 놀기도하고, 무술을 구경하는게 저에 여과활동입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 연산 문제집도 풀고, 국어 문제도 풀고 여러 가지 활동을 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고 연산문제집도 풀고, 국어문제도 풀고 여러가지 활동을 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 좋아하는 학습과 여가사이에 활동",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 좋아하는 학습과 <문법_맞춤법>여과사이에 </문법_맞춤법>활동",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1. 책은 지식을 쌓을 수 있기 때문에 학습활동이라 할 수도 있고 재미있는 책을 읽는 사람은 여가활동일 수도 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1. <문법_맞춤법>책은 지식을 싸을수 있기 때문에 학습활동이라 할수도있고 재미있는 책을 읽는 사람은 여과활동일수도 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2. 텔레비전으론 공부할 수도 있고 여러가지 일을 할 수 있습니다.",
+      "sentence_corr_reason": [
+        "문맥상 자연스럽지 않은 문장을 교정,띄어쓰기 교정"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 2.<문법_기타> 텔레비전으론 공부할수도 있고 여러 읽을 할수있씁니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3. 그림 그리는 것 또한 학습 활동일 수도 여가활동일 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 3. <문법_맞춤법>그림그리는것 또한 학습활동일수도 여가활동일수도 있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학습활동과 여가활동이 필요한 이유",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학습활동과 <문법_맞춤법>여과활동의 필요한이유</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1. 학습활동으로 지식을 쌓아야 나중에 직업이나 여러 가지를 선택할 수 있는 것이 수월하기 때문에 학습활동이 필요합니다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1. <문법_맞춤법>학습활동으로 지식을 싸아야 나중에 직업이나 여러가지를 선택할수있는것이 수월하기 때문에 학습활동이 필요합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동이 필요한 이유.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>여과활동이</문법_맞춤법> 필요한 이유.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1.여가활동이 필요한 것은 쉬면서 해요",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1.<문법_맞춤법>여과활동이 필요한것은</문법_맞춤법> 쉬면서 해요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 활동이나 할 일을 마치고 쉬는 시간에 심심하지 않도록 하는 것이다",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>활동이나 할일을 이치고 쉬는시간에 심심하지 않도록 하는것이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 학습활동과 여가활동에서 시간은 심하다면 물다 적당한 비용으로 만들어야 된다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그렇기 때문에 학습활동과 여과활동에서 시간은 심하다면 물다 적당한 비용로만 들어야 된다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33527",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 501,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

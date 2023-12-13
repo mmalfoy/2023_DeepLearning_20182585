@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 살고싶은 집은 아파트가 아닌 주택이고 집 앞에 넓은 마당이 있었으면 좋겠습니다.#@문장구분# 마당에 잔디가 무성하고 꽃과 나무도 많이 있었으면 좋겠습니다.#@문장구분# 동물들을 많이 키워 마당에 동물들의 집이 많이 있었으면 합니다.#@문장구분#\n 집의 높이는 2층이고 심플하고 하얀벽지로 되어있습니다.#@문장구분# 그리고 방은 1층, 2층을 통틀어 약 2개가 있었으면 좋겠습니다.#@문장구분#\n 마당에 큰 수영장이 있고 수영장에 미끄럼틀도 있었으면 합니다.#@문장구분#\n방의 종류에는 보드게임이나 인형, 장난감 등이 있는 놀이방, 침대 4개가 놓여있는 화사한 침실, 방이 온통 소설책, 만화책, 역사책, 동화책 등으로 둘러쌓아져 있는 책 읽는방, 마치 도서관처럼 조용한 공부방, 깨끗하고 노란색 벽지라 부드럽게 느껴지고 둥글고 큰 욕조가 있는 넓은 화장실, 또 넓고 긴 주방이 1층에 있습니다.#@문장구분# 2층에는 게임과 여러가지체험을 할 수 있는 VR체험방, 아이디어가 생기면 모든 실험과 만들기를 할수있도록 모든 도구와 준비물이 다 있는 실험, 만들기방, 노래를 맘껏 부를 수 있는 노래방, 작지만 귀엽고 아기자기한 미니 화장실, 온갓 영화를 다 볼수있는 영화관, 내가 컴퓨터로 옷을 코디하면 로봇이 그래도 만들어주는 옷코디 옷 만들기 방이 있습니다.#@문장구분# 집 전체가 그린스마트한 집입니다.#@문장구분# 청소로봇, 학습로봇, 도우미 로봇, 설거지 로봇등이 있고, 옥상에는 많은 식물들을 키워 풀과 꽃이 무성하고, 태양광이 설치되어있습니다.#@문장구분#\n 편리하고 그린스마트 집에 살고싶습니다.#@문장구분# 이상입니다!#@문장구분#",
+      "paragraph_len": 966,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.047619,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.685715,
+      23.419048,
+      21.133335
+    ],
+    "essay_scoreT_avg": 20.412699,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 살고 싶은 집은 아파트가 아닌 주택이고 집 앞에 넓은 마당이 있었으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가<문법_맞춤법> 살고싶은 집은</문법_맞춤법> 아파트가 아닌 주택이고 집 앞에 넓은 마당이 있었으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 집의 높이는 2층이고 심플하고 하얀 벽지로 되어있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 집의 높이는 2층이고 심플하고 <문법_맞춤법>하얀벽지로</문법_맞춤법> 되어있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n방의 종류에는 보드게임이나 인형, 장난감 등이 있는 놀이방, 침대 4개가 놓여있는 화사한 침실, 방이 온통 소설책, 만화책, 역사 책, 동화책 등으로 둘러쌓아져 있는 책 읽는 방, 마치 도서관처럼 조용한 공부방, 깨끗하고 노란색 벽지라 부드럽게 느껴지고 둥글고 큰 욕조가 있는 넓은 화장실, 또 넓고 긴 주방이 1층에 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n방의 종류에는 보드게임이나 인형, 장난감 등이 있는 놀이방, 침대 4개가 놓여있는 화사한 침실, 방이 온통 소설책, 만화책, <문법_맞춤법>역사책, 동화책 등으로 둘러쌓아져 있는 책 읽는방</문법_맞춤법>, 마치 도서관처럼 조용한 공부방, 깨끗하고 노란색 벽지라 부드럽게 느껴지고 둥글고 큰 욕조가 있는 넓은 화장실, 또 넓고 긴 주방이 1층에 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2층에는 게임과 여러 가지 체험을 할 수 있는 VR 체험방, 아이디어가 생기면 모든 실험과 만들기를 할 수 있도록 모든 도구와 준비물이 다 있는 실험, 만들기방, 노래를 맘껏 부를 수 있는 노래방, 작지만 귀엽고 아기자기한 미니 화장실, 온갖 영화를 다 볼 수 있는 영화관, 내가 컴퓨터로 옷을 코디하면 로봇이 그래도 만들어주는 옷 코디 옷 만들기 방이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 2층에는 게임과 <문법_맞춤법>여러가지체험을 할 수 있는 VR체험방, 아이디어가 생기면 모든 실험과 만들기를 할수있도록 </문법_맞춤법>모든 도구와 준비물이 다 있는 실험, 만들기방, 노래를 맘껏 부를 수 있는 노래방, 작지만 귀엽고 아기자기한 미니 화장실, 온갓 영화를 다 볼수있는 영화관, 내가 컴퓨터로 옷을 코디하면 로봇이 그래도 만들어주는 옷코디 옷 만들기 방이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집 전체가 그린 스마트한 집입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집 전체가 <문법_맞춤법>그린스마트한 집입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 청소로봇, 학습로봇, 도우미 로봇, 설거지 로봇 등이 있고, 옥상에는 많은 식물들을 키워 풀과 꽃이 무성하고, 태양광이 설치되어 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 청소로봇, 학습로봇, 도우미 로봇, 설거지 <문법_맞춤법>로봇등이 있고</문법_맞춤법>, 옥상에는 많은 식물들을 키워 풀과 꽃이 무성하고, 태양광이 설치되어있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 편리하고 그린 스마트 집에 살고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 편리하고 <문법_맞춤법>그린스마트 집에 살고싶습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46125",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 727,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

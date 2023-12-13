@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 가장 좋아하는 과목은 체육이다.#@문장구분# 내가 왜 체육을 좋아하냐면 운동을 좋아하기때문이다.#@문장구분# 그리고 운동신경이 좋기도해서 체육을 잘하기 때문이다.#@문장구분# 그리고 내가 운동을 잘하는 이유는 어릴때부터 운동을 해왔기 때문에 운동신경이 발달했다.#@문장구분# 그리고 내가 체육을 좋아하는 두번째이유는 무엇을 배우는게 별로없어서 머리를 식히는거여서 좋다.#@문장구분# 그런데 이와같은것중에 미술은 왜 싫어하냐면 내가 만들기를 못하고 그림을 잘 못그리기 때문이다.#@문장구분# 그리고 내가 체육을 좋아하는 세번째이유는 체육은 재밌기 때문이다.#@문장구분# 왜냐면 나는 운동을 재밌어서 하는것이기 때문에 나는 그렇게 느낀다.#@문장구분# 그리고 체육을할때는 다른 수학,국어,사회등과같이 지루한 느낌이 아니라 무엇을할지 궁금하고 설래서 체육이 좋다.#@문장구분#",
+      "paragraph_len": 551,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.733334,
+      20
+    ],
+    "essay_scoreT_avg": 24.244446,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 내가 왜 체육을 좋아하냐면 운동을 좋아하기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 왜 체육을 좋아하냐면 운동을 <문법_맞춤법>좋아하기때문이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 운동신경이 좋기도 해서 체육을 잘하기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 운동신경이 <문법_맞춤법>좋기도해서</문법_맞춤법> 체육을 잘하기 때문이다.",
+      "sentence_corr_txt_styling": " 그리고 운동신경이 좋기도 해서 체육을 잘하기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 내가 운동을 잘하는 이유는 어릴 때부터 운동을 해왔기 때문에 운동신경이 발달했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 내가 운동을 잘하는 이유는 <문법_맞춤법>어릴때부터</문법_맞춤법> 운동을 해왔기 때문에 운동신경이 발달했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 내가 체육을 좋아하는 두 번째 이유는 무엇을 배우는 게 별로 없어서 머리를 식히는 거여서 좋다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 내가 체육을 좋아하는 <문법_맞춤법>두번째이유는</문법_맞춤법> 무엇을 배우는게 별로없어서 머리를 식히는거여서 좋다.",
+      "sentence_corr_txt_styling": " 그리고 내가 체육을 좋아하는 두 번째 이유는 무엇을 배우는 게 별로 없어서 머리를 식히는 거여서 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 이와 같은 것 중에  미술은 왜 싫어하냐면 내가 만들기를 못하고 그림을 잘 못 그리기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 <문법_맞춤법>이와같은것중에</문법_맞춤법> 미술은 왜 싫어하냐면 내가 만들기를 못하고 그림을 잘 못그리기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 내가 체육을 좋아하는 세 번째 이유는 체육은 재밌기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 내가 체육을 좋아하는 <문법_맞춤법>세번째이유는</문법_맞춤법> 체육은 재밌기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 나는 운동을 재밌어서 하는 것이기 때문에 나는 그렇게 느낀다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐면 나는 운동을 재밌어서 <문법_맞춤법>하는것이기</문법_맞춤법> 때문에 나는 그렇게 느낀다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 체육을 할 때는 다른 수학, 국어, 사회 등과 같이  지루한 느낌이 아니라 무엇을 할지 궁금하고 설레서 체육이 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>체육을할때는</문법_맞춤법> 다른 수학,국어,사회등과같이 지루한 느낌이 아니라 무엇을할지 궁금하고 설래서 체육이 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42307",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 373,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

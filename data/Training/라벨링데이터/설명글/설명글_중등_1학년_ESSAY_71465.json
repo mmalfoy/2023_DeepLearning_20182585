@@ -1,0 +1,322 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 휴대폰을 많이 잡고있어서 자기전에도 휴대폰을 많이 하는 편입니다.#@문장구분# 엄마께서는 모르시겠지만 자기전에는 엄마몰래 슬쩍슬쩍 하는 편입니다.#@문장구분# 대부분 SNS를 하거나 유튜브로 아이돌을 보곤 하는데 불을 다 꺼놓은 어두운 방에서 밝은 화면을 오래보고 있으니 눈이 쉽게 아프고 건조해 지는 느낌이 들었습니다.#@문장구분# 제가 번호순으로 끝자리라서 맨 뒷자리에 앉아서 수업을 듣는데 어느날부터 칠판이 조금 흐릿하게 보이길래 엄마께 말했는데 엄마는 저를 안과로 대려가셨습니다.#@문장구분# 그리고는 안경을 맞춰주셨습니다.#@문장구분# 아직 심하지는 않다고 했는데 갑자기 안경을 껴서 설레기도 했지만 조금 충격이었습니다.#@문장구분# 눈이 정말 많이 안좋아졌구나 라는 것을 느꼈습니다.#@문장구분# 안경은 생각한 것 보다 정말 불편했습니다.#@문장구분# 자꾸 내려가서 올려야하고 자꾸 김이 껴서 닦는게 정말 귀찮았습니다.#@문장구분# 저는 눈이 더 안좋아지는 것을 막기위해 저녁에 불을 끄면 휴대폰을 안 보려고 노력중입니다.#@문장구분# 눈이 더 나빠지면 안될텐데. 걱정이 됩니다.#@문장구분#",
+      "paragraph_len": 707,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.55,
+      19.55,
+      15.05
+    ],
+    "essay_scoreT_avg": 19.716665,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 휴대폰을 많이 잡고 있어서 자기전에도 휴대폰을 많이 하는 편입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 휴대폰을 많이 <문법_맞춤법>잡고있어서 </문법_맞춤법>자기전에도 휴대폰을 많이 하는 편입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마께서는 모르시겠지만 자기 전에는 엄마 몰래 슬쩍슬쩍 하는 편입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마께서는 모르시겠지만 <문법_맞춤법>자기전에는</문법_맞춤법> 엄마몰래 슬쩍슬쩍 하는 편입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대부분 SNS를 하거나 유튜브로 아이돌을 보곤 하는데 불을 다 꺼놓은 어두운 방에서 밝은 화면을 오래 보고 있으니 눈이 쉽게 아프고 건조해지는 느낌이 들었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대부분 SNS를 하거나 유튜브로 아이돌을 보곤 하는데 불을 다 꺼놓은 어두운 방에서 밝은 화면을 <문법_맞춤법>오래보고 </문법_맞춤법>있으니 눈이 쉽게 아프고 건조해 지는 느낌이 들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 번호순으로 끝자리라서 맨 뒷자리에 앉아서 수업을 듣는데 어느 날부터 칠판이 조금 흐릿하게 보이길래 엄마께 말했는데 엄마는 저를 안과로 데려가셨습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 번호순으로 끝자리라서 맨 뒷자리에 앉아서 수업을 듣는데 <문법_맞춤법>어느날부터 </문법_맞춤법>칠판이 조금 흐릿하게 보이길래 엄마께 말했는데 엄마는 저를 안과로 대려가셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러고는 안경을 맞춰주셨습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고는 </문법_맞춤법>안경을 맞춰주셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 눈이 정말 많이 안 좋아졌구나 라는 것을 느꼈습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 눈이 정말 많이 <문법_맞춤법>안좋아졌구나 </문법_맞춤법>라는 것을 느꼈습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안경은 생각한 것보다 정말 불편했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 안경은 생각한 <문법_맞춤법>것 보다</문법_맞춤법> 정말 불편했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자꾸 내려가서 올려야 하고 자꾸 김이 껴서 닦는 게 정말 귀찮았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자꾸 내려가서 <문법_맞춤법>올려야하고 </문법_맞춤법>자꾸 김이 껴서 닦는게 정말 귀찮았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 눈이 더 안 좋아지는 것을 막기 위해 저녁에 불을 끄면 휴대폰을 안 보려고 노력 중입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 눈이 더 <문법_맞춤법>안좋아지는 </문법_맞춤법>것을 막기위해 저녁에 불을 끄면 휴대폰을 안 보려고 노력중입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 눈이 더 나빠지면 안 될 텐데 걱정이 됩니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 눈이 더 나빠지면<문법_맞춤법><문법_기타> 안될텐데.</문법_기타></문법_맞춤법> 걱정이 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71465",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 487,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

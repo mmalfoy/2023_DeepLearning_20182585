@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 상어가 되어 여러 물고기들의 생김새도 알아보고 물고기들의 맛도 느껴보고 싶습니다.#@문장구분# 인간의 입맛으로는 그냥 잡아먹으면 맛이없겠지만 상어가 되면 맛있는 물고기들을 마음껏 잡아먹을 수 있습니다. #@문장구분#또 큰 물고기도 잡아먹을 수 있습니다. #@문장구분#어떤 맛인지 궁금해서 바닷속여기저기 돌아다니면서 구경하고 사냥해보고 싶습니다.#@문장구분# 고래 옆에도 가서 다양한 고래도 구경하고 싶습니다.#@문장구분# 작은 물고기면 고래 옆에 함부로 가지 못하기 때문에 큰 상어가 되어서 고래 옆에서 얼마나 큰지, 어떻게 생겼는지 알고싶습니다.#@문장구분# 그리고 심해도 어떻게 생겼는지 궁금해서 모험을 떠나고 싶습니다.#@문장구분# 들어갈수는없겠지만 내려다보면서 깜깜하고 무서운 심해를 직접 보고싶습니다.",
+      "paragraph_len": 491,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.45,
+      23.1
+    ],
+    "essay_scoreT_avg": 25.85,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 인간의 입맛으로는 그냥 잡아먹으면 맛이 없겠지만 상어가 되면 맛있는 물고기들을 마음껏 잡아먹을 수 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인간의 입맛으로는 그냥 잡아먹으면 <문법_맞춤법>맛이없겠지만</문법_맞춤법> 상어가 되면 맛있는 물고기들을 마음껏 잡아먹을 수 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어떤 맛인지 궁금해서 바닷속 여기저기 돌아다니면서 구경하고 사냥해 보고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어떤 맛인지 궁금해서 <문법_맞춤법>바닷속여기저기 </문법_맞춤법>돌아다니면서 구경하고 사냥해보고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 작은 물고기면 고래 옆에 함부로 가지 못하기 때문에 큰 상어가 되어서 고래 옆에서 얼마나 큰지, 어떻게 생겼는지 알고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 작은 물고기면 고래 옆에 함부로 가지 못하기 때문에 큰 상어가 되어서 고래 옆에서 얼마나 큰지, 어떻게 생겼는지 <문법_맞춤법>알고싶습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 들어갈 수는 없겠지만 내려다보면서 깜깜하고 무서운 심해를 직접 보고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>들어갈수는없겠지만 </문법_맞춤법>내려다보면서 깜깜하고 무서운 심해를 직접 보고싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53692",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 352,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

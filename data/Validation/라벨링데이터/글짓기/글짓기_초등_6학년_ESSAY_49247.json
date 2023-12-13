@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "블롬피쉬라는 물고기로 생활해보고 싶다.#@문장구분# 왜냐면 물속에선 그냥평범한 물고기 처럼 생겼는데 물밖으로 나오면 특이하게 생겨서 한번살아 보고 싶다#@문장구분# 물속에서는 이리저리 왔다갔다 하면서 못봤던 바다속도보고 밑쪽에있는 심해생물도 보고 이렇게 1주일동안 이곳 저곳 탐사하다가 신기한것 있으면 보고 한번 바다로 외국도 가보고 코로나 때문에 못가본곳 한번 물고기로 변해서 직접 돌아다니고 싶다#@문장구분# 바다속에 신기한곳도가보고 심해도 들어가서 구경도 하고 이렇게 1주일동안 열심히 바다에대해 많이 알고 바다에 뭐가 있는지 보고 한번딱 1주일이 지나서 사람으로 변하면 노트에 있던일을 다 쓸것이다.#@문장구분#",
+      "paragraph_len": 398,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20.25,
+      24.4
+    ],
+    "essay_scoreT_avg": 24.883333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "블롬 피쉬라는 물고기로 생활해 보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "블<문법_맞춤법>롬피쉬라</문법_맞춤법>는 물고기로 생활해보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 물속에선 그냥 평범한 물고기처럼 생겼는데 물 밖으로 나오면 특이하게 생겨서 한번 살아 보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐면 물속에선 <문법_맞춤법>그냥평범한 </문법_맞춤법>물고기 처럼 생겼는데 물밖으로 나오면 특이하게 생겨서 한번살아 보고 싶다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물속에서는 이리저리 왔다 갔다 하면서 못 봤던 바다 속도 보고 밑쪽에 있는 심해 생물도 보고 이렇게 1주일 동안 이곳저곳 탐사하다가 신기한 것이 있으면 보고 한번 바다로 외국도 가보고 코로나 때문에 못 가 본 곳 한번 물고기로 변해서 직접 돌아다니고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물속에서는 이리저리 <문법_맞춤법>왔다갔다 </문법_맞춤법>하면서 못봤던 바다속도보고 밑쪽에있는 심해생물도 보고 이렇게 1주일동안 이곳 저곳 탐사하다가 신기한것 있으면 보고 한번 바다로 외국도 가보고 코로나 때문에 못가본곳 한번 물고기로 변해서 직접 돌아다니고 싶다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다속에 신기한 곳도 가보고 심해도 들어가서 구경도 하고 이렇게 1주일 동안 열심히 바다에 대해 많이 알고 바다에 뭐가 있는지 보고 한 번 딱 1주일이 지나서 사람으로 변하면 노트에 있던 일을 다 쓸 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바다속에 <문법_맞춤법>신기한곳도가보고 </문법_맞춤법>심해도 들어가서 구경도 하고 이렇게 1주일동안 열심히 바다에대해 많이 알고 바다에 뭐가 있는지 보고 한번딱 1주일이 지나서 사람으로 변하면 노트에 있던일을 다 쓸것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49247",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 318,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

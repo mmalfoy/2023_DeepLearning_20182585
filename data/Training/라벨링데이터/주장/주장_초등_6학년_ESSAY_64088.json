@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "부모님께 들은 이야기로는 그분들이 어렸을때는 아이들은 동네 골목에 옹기종기 모여서 놀았다고 합니다.#@문장구분# 그런데 지금 우리는 그렇지 못합니다.#@문장구분# 학교를 마치면 운동장에서 잠깐 놀 시간도 없이 학원차에 타고 학원으로 갑니다.#@문장구분# 미술학원, 영어학원, 태권도학원, 정말 쉴 틈이 없습니다.#@문장구분# 그러니 자연스럽게 친구들과 놀 시간도 없고 놀 시간이 없으니 티격태격할 시간도 없습니다.#@문장구분# 서로 놀다 보면 의견 충돌이 생길 때가 있습니다.#@문장구분# 그런데 잠깐 충돌해도 곧 풀 수 있습니다.#@문장구분# 같이 시간을 보내야 하니까요.#@문장구분# 그런데 요즘처럼 맨날 학원이나 다니니까 같이 시간을 보낼 수 없습니다.#@문장구분# 그러니 학교내에서 보내는 시간이 전부입니다.#@문장구분# 서로 잘 알 시간도 부족하고 공부에만 전념하라고 합니다.#@문장구분# 우리 부모님 세대들처럼 함께 놀이터에서 노는 시간을 늘리면 학교 폭력이 예방되지 않을까요?#@문장구분# 매일 함께 노는 친구에게 폭력을 행사할 수 있을까요?#@문장구분# 스마트폰에만 중독되어서 기껏해야 피씨방에가서 게임하고 그렇지만 그 순간에도 함께 놀지만 결국에는 각자의 무언가를 하는 것이기 때문에 함께 논다고 하기 어렵습니다.#@문장구분#",
+      "paragraph_len": 821,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      19.855555,
+      16.422222
+    ],
+    "essay_scoreT_avg": 22.09259,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          1,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "부모님께 들은 이야기로는 그분들이 어렸을 때는 아이들은 동네 골목에 옹기종기 모여서 놀았다고 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "부모님께 들은 이야기로는 그분들이 <문법_맞춤법>어렸을때는 </문법_맞춤법>아이들은 동네 골목에 옹기종기 모여서 놀았다고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술학원, 영어학원, 태권도 학원, 정말 쉴 틈이 없습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미술학원, 영어학원, <문법_맞춤법>태권도학원</문법_맞춤법>, 정말 쉴 틈이 없습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니 학교 내에서 보내는 시간이 전부입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니 <문법_맞춤법>학교내에서 </문법_맞춤법>보내는 시간이 전부입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스마트폰에만 중독되어서 기껏해야 피씨방에 가서 게임하고 그렇지만 그 순간에도 함께 놀지만 결국에는 각자의 무언가를 하는 것이기 때문에 함께 논다고 하기 어렵습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스마트폰에만 중독되어서 기껏해야 <문법_맞춤법>피씨방에가서 </문법_맞춤법>게임하고 그렇지만 그 순간에도 함께 놀지만 결국에는 각자의 무언가를 하는 것이기 때문에 함께 논다고 하기 어렵습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64088",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 542,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

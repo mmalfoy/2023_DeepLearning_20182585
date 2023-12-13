@@ -1,0 +1,250 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 참된 스승은 학생의 의사를 존중할 줄 아는 사람입니다.#@문장구분#적어도 제가 학교생활을 하면서 제가 만나온 선생님들은 학생의 자주권을 존중하는 모습을 보지 못했습니다.#@문장구분# 어떠한 지시를 내릴때 적절한 설명을 통해 학생을 납득시켜야하는 것이 인간대 인가으로서 존중하는 관계임을 증명하는 것이 맞는것 아닌가요?#@문장구분# 그러나 선생님들은 저희에게 항상 일방적으로 지시를 내리고 그에 따르기를 바랍니다.#@문장구분# 그러므로 제가 생각하는 참된 스승의 요건은 2개 중 첫번째는 학생을 사람대 사람으로 존중할 줄 아는 사람입니다.#@문장구분#두번째는 생각을 안해봤는데요...#@문장구분#굳이 생각해보자면 학생에게 명령하지 않는 사람이 되겠습니다.#@문장구분# 그것도 역시 사람대 사람으로서 존중하지 않는다는 것을 의미한다고 말할 수 있겠습니다. #@문장구분#그러므로 저는 존중과 명령하지 않는 것.#@문장구분# 이 두가지를 참된 스승의 요건이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 629,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.55,
+      19.8,
+      12.25
+    ],
+    "essay_scoreT_avg": 18.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 어떠한 지시를 내릴 때 적절한 설명을 통해 학생을 납득시켜야 하는 것이 인간 대 인간으로서 존중하는 관계임을 증명하는 것이 맞는 것 아닌가요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어떠한 지시를 <문법_맞춤법>내릴때 </문법_맞춤법>적절한 설명을 통해 학생을 납득시켜야하는 것이 인간대 인가으로서 존중하는 관계임을 증명하는 것이 맞는것 아닌가요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 제가 생각하는 참된 스승의 요건은 2개 중 첫 번째는 학생을 사람 대 사람으로 존중할 줄 아는 사람입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 제가 생각하는 참된 스승의 요건은 2개 중 <문법_맞춤법>첫번째는</문법_맞춤법> 학생을 사람대 사람으로 존중할 줄 아는 사람입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "두 번째는 생각을 안 해봤는데요...",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>두번째는 생각을 안해봤는데요</문법_맞춤법>...",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "굳이 생각해 보자면 학생에게 명령하지 않는 사람이 되겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "굳이 <문법_맞춤법>생각해보자면</문법_맞춤법> 학생에게 명령하지 않는 사람이 되겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그것도 역시 사람 대 사람으로서 존중하지 않는다는 것을 의미한다고 말할 수 있겠습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그것도 역시 <문법_맞춤법>사람대 </문법_맞춤법>사람으로서 존중하지 않는다는 것을 의미한다고 말할 수 있겠습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 두 가지를 참된 스승의 요건이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 <문법_맞춤법>두가지를 </문법_맞춤법>참된 스승의 요건이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69687",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 430,
+    "essay_main_subject": "참된 스승"
+  }
+}

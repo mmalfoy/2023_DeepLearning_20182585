@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 행동이 먼저 나가는 성격과 습관을 가지고 있다.#@문장구분# 이런 행동이 어떨때는 진취적이라고 생각을 해서 좋다고 생각은 하지만 항상 행동이 먼저 나가는 것이 좋은 행동은 아니라고 생각한다.#@문장구분# 특히 누군가와 갈등이 있을 때 행동부터 나가는 성격이 좋지 않다고 생각을 한다.#@문장구분# 행동부터 나가게 되면 깊이 생각을 하지 않기 때문에 그 친구에게 피해를 줄 수 있는 행동을 하거나 말을 하게 될 수도 있다.#@문장구분# 그렇기 때문에 이런 습관을 고치기 위해서 차분하게 문제를 파악하고 어떻게 해결을 하면 좋을지 다양한 방면으로 생각을 한 뒤 가장 이성적이고 탁월하다고 생각이 드는 방법을 활용하여 갈등을 해결할 수 있도록 노력을 했다.#@문장구분# 확실히 생각을 먼저 하고 행동과 말을 하니까 다른 친구들과 갈등이 생겼을 때 거기서 더 심해지지 않고 풀리는 것 같은 기분이 들었다.#@문장구분#",
+      "paragraph_len": 534,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      25.35,
+      14.55
+    ],
+    "essay_scoreT_avg": 21.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이런 행동이 어떨 때는 진취적이라고 생각해서 좋다고 생각은 하지만 항상 행동이 먼저 나가는 것이 좋은 행동은 아니라고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 이런 행동이 <문법_맞춤법>어떨때는</문법_맞춤법> 진취적이라고 <문법_조사>생각을 해서</문법_조사> 좋다고 생각은 하지만 항상 행동이 먼저 나가는 것이 좋은 행동은 아니라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 누군가와 갈등이 있을 때 행동부터 나가는 성격이 좋지 않다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 특히 누군가와 갈등이 있을 때 행동부터 나가는 성격이 좋지 않다고 <문법_조사>생각을 한다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 이런 습관을 고치기 위해서 차분하게 문제를 파악하고 어떻게 해결을 하면 좋을지 다양한 방면으로 생각을 한 뒤 가장 이성적이고 탁월하다고 생각이 드는 방법을 활용하여 갈등을 해결할 수 있도록 노력했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그렇기 때문에 이런 습관을 고치기 위해서 차분하게 문제를 파악하고 어떻게 해결을 하면 좋을지 다양한 방면으로 생각을 한 뒤 가장 이성적이고 탁월하다고 생각이 드는 방법을 활용하여 갈등을 해결할 수 있도록 <문법_조사>노력을 했다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69111",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 414,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

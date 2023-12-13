@@ -1,0 +1,357 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "평소에 필요하고 좋은 습관은 여러 가지가 있다.#@문장구분# 내가 노력했던 습관은 일찍자고 일찍 일어나는 습관이다.#@문장구분# 근데 이 습관을 들일려고 해봤지만 잘 못했다.#@문장구분# 밤에는 잠이 잘 안와서 못잤고 그것때문에 일찍 일어나지도 못했다.#@문장구분# 근데 어느날 너무 졸려서 일찍 잤던적이 있는데 일찍자서 그런지 일찍 일어나졌다. #@문장구분#일찍 일어나니 기분은 좋았다.#@문장구분# 근데 몇일 동안은 일찍 잤지만 그 후로는 또 다시 늦게자기 시작했다.#@문장구분# 나쁜 습관은 빨리 들여지는데 좋은 습관은 잘 안들여진다는게 좀 억울했다.#@문장구분# 그래도 일찍 자볼려고 노력했었지만 대부분을 늦게 잤다.#@문장구분# 일찍 자면 일찍 일어나서 좋긴 하지만 잘 안되서 나 스스로 실망했다.#@문장구분# 결과는 거의 실패로 볼수있지만 이 습관을 들이기 위해서 계속 노력할것이다.#@문장구분# 이 습관을 들일려고 노력하는 이유는 일찍 자고 일찍 일어나면 낮에도 피곤하지 않고 일상생활을 잘 할수있기 때문이다.#@문장구분# 앞으로도 계속 노력할것이다.#@문장구분# 그럼 좋은 습관을들임과 동시에 규칙적으로 살수있기때문이다.#@문장구분# 내가 많이 피곤한 이유가 규칙적으로 생활하지않고 좋은 습관을 아직들이지 않아서 그런거같다.#@문장구분# 좋은 습관도 들이고 규칙적으로 생활하면서 하루하루를 피곤하지않고 개운하게 지내보고싶다.#@문장구분#",
+      "paragraph_len": 908,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.15,
+      19.9,
+      12.5
+    ],
+    "essay_scoreT_avg": 16.183332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 내가 노력했던 습관은 일찍 자고 일찍 일어나는 습관이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 노력했던 습관은 <문법_맞춤법>일찍자고</문법_맞춤법> 일찍 일어나는 습관이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 이 습관을 들이려고 해봤지만 잘 못했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 이 습관을 <문법_맞춤법>들일려고</문법_맞춤법> 해봤지만 잘 못했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 밤에는 잠이 잘 안 와서 못 잤고 그것 때문에 일찍 일어나지도 못했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 밤에는 잠이 잘 <문법_맞춤법>안와서 못잤고 그것때문에</문법_맞춤법> 일찍 일어나지도 못했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 며칠 동안은 일찍 잤지만 그 후로는 또 다시 늦게 자기 시작했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 <문법_맞춤법>몇일</문법_맞춤법> 동안은 일찍 잤지만 그 후로는 또 다시 늦게자기 시작했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나쁜 습관은 빨리 들여지는데 좋은 습관은 잘 안 들여진다는게 좀 억울했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나쁜 습관은 빨리 들여지는데 좋은 습관은 잘 <문법_맞춤법>안들여진다는게</문법_맞춤법> 좀 억울했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 일찍 자보려고 노력했었지만 대부분을 늦게 잤다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래도 일찍 <문법_맞춤법>자볼려고</문법_맞춤법> 노력했었지만 대부분을 늦게 잤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일찍 자면 일찍 일어나서 좋긴 하지만 잘 안돼서 나 스스로 실망했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일찍 자면 일찍 일어나서 좋긴 하지만 잘 <문법_맞춤법>안되서</문법_맞춤법> 나 스스로 실망했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 결과는 거의 실패로 볼 수 있지만 이 습관을 들이기 위해서 계속 노력할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 결과는 거의 실패로 <문법_맞춤법>볼수있지만</문법_맞춤법> 이 습관을 들이기 위해서 계속 노력할것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 습관을 들이려고 노력하는 이유는 일찍 자고 일찍 일어나면 낮에도 피곤하지 않고 일상생활을 잘 할 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 습관을 <문법_맞춤법>들일려고</문법_맞춤법> 노력하는 이유는 일찍 자고 일찍 일어나면 낮에도 피곤하지 않고 일상생활을 잘 할수있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로도 계속 노력할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 앞으로도 계속 <문법_맞춤법>노력할것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 좋은 습관을 들임과 동시에 규칙적으로 살 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그럼 좋은 <문법_맞춤법>습관을들임과</문법_맞춤법> 동시에 규칙적으로 살수있기때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 많이 피곤한 이유가 규칙적으로 생활하지 않고 좋은 습관을 아직 들이지 않아서 그런 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 많이 피곤한 이유가 규칙적으로 <문법_맞춤법>생활하지않고</문법_맞춤법> 좋은 습관을 아직들이지 않아서 그런거같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 좋은 습관도 들이고 규칙적으로 생활하면서 하루하루를 피곤하지 않고 개운하게 지내보고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 좋은 습관도 들이고 규칙적으로 생활하면서 하루하루를 <문법_맞춤법>피곤하지않고</문법_맞춤법> 개운하게 지내보고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35448",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 588,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

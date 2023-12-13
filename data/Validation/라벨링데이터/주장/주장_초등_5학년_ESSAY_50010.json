@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "다문화 가정은 아버지 혹은 어머니가 외국 국적의 사랑일 경우를 말합니다.#@문장구분# 다문화 가정을 우리와 같은 사람입니다.#@문장구분# 그러므로 놀림, 왕따같은 친구들 간에 예의가 어긋나는 행위를 해서는 안됨니다.#@문장구분# 물론 다문화 가정이 아닌 친구들에게도 예의에 어긋나는 행동을 하지 않아야 하지요.#@문장구분#\n 우리는 몇가지 편견을 가지고 있는 것 같아요.#@문장구분#\n  첫째 외모를 가지고 생각해요.#@문장구분#\n 외모를 보고 저 아이는 공부를 잘 할 것이다 #@문장구분#아니면 공부를 못할 것이다#@문장구분# 라는 편견을 가지면 안됩니다.#@문장구분#\n 둘째 언어적 편견 같지 않기 언어적으로 저 아이는 미국에서 와서 영어를 잘 할 거야,#@문장구분# 저 아이는 한국어를 잘 못 할거야#@문장구분# 등 언어적 편견을 가지지 않아야 합니다.#@문장구분# 그 사람은 아마 평생 나는 어떤 나라 사람이지?#@문장구분# 라는 의문을 가지고 살 것 입니다.#@문장구분# 그러므로 다문화 가정아이가 있으면 잘 챙겨주고, 잘 대해 줘야 합니다. #@문장구분#왜냐하면 우리 모두 같은 사람, 무엇보다 빛나는 생명이기 때문이죠#@문장구분# 다문화 가정 아이는 틀린것이 아니라 우리와 조금 다를 뿐 입니다.#@문장구분# 지금 부터 라도 잘 대해 주면서 실천해 주세요.",
+      "paragraph_len": 875,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.55,
+      21.55,
+      20.664286
+    ],
+    "essay_scoreT_avg": 18.588095,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그러므로 놀림, 왕따 같은 친구들 간에 예의가 어긋나는 행위를 해서는 안됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 놀림, <문법_맞춤법>왕따같은 </문법_맞춤법>친구들 간에 예의가 어긋나는 행위를 해서는 안됨니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 우리는 몇 가지 편견을 가지고 있는 것 같아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 우리는 <문법_맞춤법>몇가지 </문법_맞춤법>편견을 가지고 있는 것 같아요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 외모를 보고 저 아이는 공부를 잘할 것이다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 외모를 보고 저 아이는 공부를 <문법_맞춤법>잘 할</문법_맞춤법> 것이다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 라는 편견을 가지면 안 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>라는 편견을 가지면 안됩니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저 아이는 한국어를 잘 못할 거야",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저 아이는 한국어를 잘 <문법_맞춤법>못 할</문법_맞춤법>거야",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 라는 의문을 가지고 살 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>라는 의문을 가지고 살 것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 다문화 가정 아이가 있으면 잘 챙겨주고, 잘 대해 줘야 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 다문화 <문법_맞춤법>가정아이가 </문법_맞춤법>있으면 잘 챙겨주고, 잘 대해 줘야 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 가정 아이는 틀린 것이 아니라 우리와 조금 다를 뿐입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다문화 가정 아이는 <문법_맞춤법>틀린것이</문법_맞춤법> 아니라 우리와 조금 다를 뿐 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금부터라도 잘 대해 주면서 실천해 주세요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지<문법_맞춤법>금 부터 라</문법_맞춤법>도 잘 대해 주면서 실천해 주세요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50010",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 538,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

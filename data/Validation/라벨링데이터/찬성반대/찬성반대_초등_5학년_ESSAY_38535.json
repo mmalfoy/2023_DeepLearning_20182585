@@ -1,0 +1,324 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리는 소수의 의견도 존중해야 됩니다!#@문장구분# 제경험을 바탕으로 소수의 의견도쓸모있기 때문입니다.#@문장구분# 그럼이제 왜 소수의 의견도 존중해야 하는지 까닭을 알아봅시다.#@문장구분#\n 첫째! 소수의 의견도 의견이다.#@문장구분#\n소수의 의견도 의견이기때문에 그의견도따라주는것이 알맞다고 생각합니다. #@문장구분#왜냐하면 그 소수의 의견또한 의견이고 또 나쁜의견이 아니기 때문입니다.#@문장구분#\n둘째! 소수의 의견도 쓸모있기에,소수의 의견도 생각이 있고 또한 쓸모있기 때문입니다.#@문장구분#의 의견도 비록다수의 의견보다는 부족할지라도 상황을해결할수있습니다.#@문장구분#\n 이렇게 좋은점은 부족할지라도 소수의의견도 존중해줘야 합니다.#@문장구분# 다수의 의견도 좋지만 소수의 의견도 좋습니다.",
+      "paragraph_len": 509,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5714285,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      15.352381,
+      24.447618
+    ],
+    "essay_scoreT_avg": 19.4,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리는 소수의 의견도 존중해야 됩니다.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "우리는 소수의 의견도 존중해야 <문법_기타>됩니다!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제 경험을 바탕으로 소수의 의견도 쓸모있다는 사실을 알았기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>제경험을</문법_맞춤법> 바탕으로 소수의 <스타일링_기타>의견도쓸모있기</스타일링_기타> 때문입니다.",
+      "sentence_corr_txt_styling": " 제 경험을 바탕으로 소수의 의견도 쓸모있다는 사실을 알았기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 이제 왜 소수의 의견도 존중해야 하는지 그 까닭을 알아봅시다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럼이제</문법_맞춤법> 왜 소수의 의견도 존중해야 하는지 <문법_기타>까닭을</문법_기타> 알아봅시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 소수의 의견도 의견이기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "첫째 둘째 구별할만한 내용이 없고 같은 말 반복이라 매길 필요 없음"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "\n <스타일링_기타>첫째! 소수의</스타일링_기타> 의견도 <문법_조사><문법_어미>의견이다</문법_어미></문법_조사>.",
+      "sentence_corr_txt_styling": "\n 소수의 의견도 의견이기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n때문에 그 의견도 따라주는 것이 알맞다고 생각합니다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<스타일링_패러프레이징>소수의 의견도 의견이기때문에</스타일링_패러프레이징> <문법_맞춤법>그의견도따라주는것이</문법_맞춤법> 알맞다고 생각합니다. ",
+      "sentence_corr_txt_styling": "\n때문에 그 의견도 따라주는 것이 알맞다고 생각합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "소수의 의견은 나쁜 의견이 아닙니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "패러프레이징",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "<스타일링_조사><스타일링_패러프레이징>왜냐하면 그 소수의 의견또한 의견이고 또</스타일링_패러프레이징></스타일링_조사> <문법_맞춤법>나쁜의견이</문법_맞춤법> <문법_어미>아니기 때문입니다</문법_어미>.",
+      "sentence_corr_txt_styling": "소수의 의견은 나쁜 의견이 아닙니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n<스타일링_기타>둘째! 소수의</스타일링_기타> 의견도 <스타일링_패러프레이징>쓸모있기에,소수의 의견도 생각이 있고 또한 쓸모있기 때문입니다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": "\n소수의 의견도 깊은 생각이 담겨있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "비록 다수의 의견보다는 부족할지라도 상황을 해결할 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_패러프레이징>의 의견도 비록</문법_패러프레이징></문법_맞춤법>다수의 의견보다는 부족할지라도 상황을해결할수있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이렇게 좋은점은 부족할지라도 소수의 의견도 존중해줘야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 이렇게 좋은점은 부족할지라도 <문법_맞춤법>소수의의견도</문법_맞춤법> 존중해줘야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38535",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 333,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "난 홈런을 하고 나서 친구들이랑 놀다가 학원을 갔다 옵니다.#@문장구분# 저는 대부분 숙제가 끝나면 놀이터에서 놉니다.#@문장구분# 하지만 어쩔 땐 줄넘기도 합니다. 그리고 태권도를 갔다가 아빠랑 배드민턴을 항상 한다.#@문장구분# 산책도 한다.#@문장구분# 또는 줄넘기도 한다.#@문장구분# 그리고 나는 학교를 가려고 아침에 6시40분에 일어나서 세수하고 로션을 바르고 6시 50분이 되서 그날 집에서 하는 숙제를 미리미리 해놓고 밥을 먹고 20분쯤에 나가서 학교에 간다.#@문장구분# 9시에 수업을 시작 해서 1~2교시를 쉬는시간 없이 수업하고 10시 20분부터 30분까지 쉬는시간이다.#@문장구분# 그리고 10시30분 부터 11시 50분까지 수업을 하고 12시까지 쉬는시간을 하고 12시40분에 급식을 먹는다.#@문장구분# 그리고 학교에서 나와서 밖에서 놀다가 학원 가방을 챙기고 학원에 간다.#@문장구분# 그리고 학원을 갔다가 집에 가서 밥을 먹고 태권도를 갔다가 집에서 씻고 잔다.#@문장구분#",
+      "paragraph_len": 635,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.4285715,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6190476,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.8,
+      14.114286,
+      18.4
+    ],
+    "essay_scoreT_avg": 16.438095,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.04",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 나는 학교를 가려고 아침에 <문법_맞춤법>6시40분에 </문법_맞춤법>일어나서 세수하고 로션을 바르고 6시 50분이 되서 그날 집에서 하는 숙제를 미리미리 해놓고 밥을 먹고 20분쯤에 나가서 학교에 간다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "붙여쓰기 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 9시에 수업을 <문법_맞춤법>시작 해서</문법_맞춤법> 1~2교시를 쉬는시간 없이 수업하고 10시 20분부터 30분까지 쉬는시간이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 10시30분 부터 11시 50분까지 수업을 하고 12시까지 <문법_맞춤법>쉬는시간</문법_맞춤법>을 하고 12시40분에 급식을 먹는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36376",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 435,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

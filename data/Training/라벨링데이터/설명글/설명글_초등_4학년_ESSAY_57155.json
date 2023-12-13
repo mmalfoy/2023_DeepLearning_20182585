@@ -1,0 +1,184 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 학습을 하면서 여가활동도 많이 실천하고 있습니다.#@문장구분# 저는 둘 중에 학습활동을 열심히하는 것이 더 중요하다고 생각합니다.#@문장구분# 왜냐하면 여가활동만을 하다가 보면 성적이 떨어질 것이고, 어머니께서 제 성적표를 보시고 실망을 하는 것은 너무 싫을 것 같기 때문입니다.#@문장구분# 그래서 저는 학습을 열심히 하고 있습니다.#@문장구분# 그렇지만 저는 여가시간에는 또 최선을 다해서 운동을 하고 있습니다.#@문장구분# 주로 저는 테니스를 하면서 운동을 하는데 재미도 있는데 하고나면 땀을 뻘뻘 흘릴 만큼 힘이 듭니다.#@문장구분# 저는 하루를 열심히 최선을 다해서 알차게 보내면서 살고 있습니다.#@문장구분#",
+      "paragraph_len": 440,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22,
+      16,
+      17.952381
+    ],
+    "essay_scoreT_avg": 18.650793,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 둘 중에 학습활동을 열심히 하는 것이 더 중요하다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 둘 중에 학습활동을 <문법_맞춤법>열심히하는</문법_맞춤법> 것이 더 중요하다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 주로 저는 테니스를 하면서 운동을 하는데 재미도 있는데 하고 나면 땀을 뻘뻘 흘릴 만큼 힘이 듭니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 주로 저는 테니스를 하면서 운동을 하는데 재미도 있는데 <문법_맞춤법>하고나면</문법_맞춤법> 땀을 뻘뻘 흘릴 만큼 힘이 듭니다.",
+      "sentence_corr_txt_styling": " 주로 저는 테니스를 하면서 운동을 하는데 재미도 있는데 하고 나면 땀을 뻘뻘 흘릴 만큼 힘이 듭니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_57155",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 301,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

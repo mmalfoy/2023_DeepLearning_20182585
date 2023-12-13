@@ -1,0 +1,345 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교 폭력을당해본제가생각했을때학교폭력은 정신적, 신체적피해가엄청납니다.#@문장구분# 그신체적정신적피해가치료되렴시간이엄청나게많은시간이필요합니다.#@문장구분# 피해가누적되고피해자가힘해지면맞아서죽을수도있고너무고통스러워서자결을할수도있습니다.#@문장구분# 그리고학교폭력을예방하기위해서는폭력이더심해지기전에117에서상담을받아보거나112에신고해학교폭력이더심해지기신고를해야막을수있습니다.#@문장구분#왜냐하면어린이의힘보다어른의힘이더강력하기때문에어른에게말하고어른은어린이보다경험이더많기때문에어른에게상담을하는게좋습니다.#@문장구분# 그리고학교폭력에종류보다다양하기때문에위험합니다.#@문장구분# 학교폭력의종류와발생가능성입니다.#@문장구분# 언어폭력은34.8%이고집단따돌림은25.8%사이버폭력은13.2%신체폭력은7.8%스토킹은7.4%이고금품갈취, 강요성폭력등은10%입니다.#@문장구분# 다음은발생시간과장소입니다.#@문장구분# 장소는교내(64.1%), 교외(25.1%)사이버공간은(10.8%)순으로많이발생하며시간은쉬는시간(34.2%)점심시간(13.5%)수업시간은(10.4%)순으로많이발생하고교육활동시간(58.1%)에많이발생합니다.#@문장구분# 마지막으로가해이유는장난이나아무이유없이가(23.5%)로가장높았고상대방이나를먼저괴롭혀서가(18.7%)오해와갈등으로(16.5%)다른학생의행동이맘에안들어서가(13.4%)다른친구가하니까는10.1%화풀이등은8.9%이다#@문장구분#",
+      "paragraph_len": 832,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          1.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.8,
+      15.066666,
+      27.01111
+    ],
+    "essay_scoreT_avg": 21.292593,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          1,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.23",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교 폭력을 당해본 제가 생각했을 때 학교폭력은 정신적, 신체적 피해가 엄청납니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교 <문법_맞춤법>폭력을당해본제가생각했을때학교폭력은 정신적, 신체적피해가엄청납니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 신체적 정신적 피해가 치료되렴 시간이 엄청나게 많은 시간이 필요합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그신체적정신적피해가치료되렴시간이엄청나게많은시간이필요합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>피해가누적되고피해자가힘해지면맞아서죽을수도있고너무고통스러워서자결을할수도있습니다.</스타일링_담화 맥락 오류></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 피해가 누적되고 피해가 심해지면 맞아서 죽을 수도 있고 너무 고통스러워서 자결을 할 수도 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 학교폭력을 예방하기 위해서는 폭력이 더 심해지기 전에 117에서 상담을 받아보거나 112에 신고해 학교폭력이 더 심해지기 신심해지기 전에 신고막을 수 있습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고학교폭력을예방하기위해서는폭력이더심해지기전에117에서상담을받아보거나112에신고해학교폭력이더<스타일링_패러프레이징>심해지기신고</스타일링_패러프레이징>를해야막을수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 그리고 학교폭력을 예방하기 위해서는 폭력이 더 심해지기 전에 117에서 상담을 받아보거나 112에 신고해 학교폭력이 더 심해지기 신심해지기 전에 신고막을 수 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 어린이의 힘보다 어른의 힘이 더 강력하기 때문에 어른에게 말하고 어른은 어린이보다 경험이 더 많기 때문에 어른에게 상담을 하는 게 좋습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>왜냐하면어린이의힘보다어른의힘이더강력하기때문에어른에게말하고어른은어린이보다경험이더많기때문에어른에게상담을하는게좋습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>그리고학교폭력에종류보다다양하기때문에위험합니다.</스타일링_담화 맥락 오류></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 그리고 학교폭력의 종류가 다양하기 때문에 위험합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력의 종류와 발생 가능성입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>학교폭력의종류와발생가능성입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 언어폭력은 34.8%이고 집단 따돌림은 25.8%집단따돌림은25.8%,.2% 신체폭력은 7.8% 스토킹은 7.4%이고 금품갈취, 강요 성폭력 등은 10%입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>언어폭력은34.8%이고<스타일링_패러프레이징>집단따돌림은25.8%</스타일링_패러프레이징>사이버폭력은13.2%신체폭력은7.8%스토킹은7.4%이고금품갈취, 강요성폭력등은10%입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 언어폭력은 34.8%이고 집단 따돌림은 25.8%집단따돌림은25.8%,.2% 신체폭력은 7.8% 스토킹은 7.4%이고 금품갈취, 강요 성폭력 등은 10%입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음은 발생 시간과 장소입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다음은발생시간과장소입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 장소는 교내(64.1%), 교외(25.1%) 사이버공간은(10.8%) 순으로 많이 발생하며 시간은 쉬는 시간(34.2%) 점심시간(13.5%) 수업 시간은(10.4%) 순으로 많이 발생하고 교육 활동 시간(58.1%)에 많이 발생합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>장소는교내(64.1%), 교외(25.1%)사이버공간은(10.8%)순으로많이발생하며시간은쉬는시간(34.2%)점심시간(13.5%)수업시간은(10.4%)순으로많이발생하고교육활동시간(58.1%)에많이발생합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 가해 이유는 장난이나 아무 이유 없이 가(23.5%)로 가장 높았고 상대방이 나를 먼저 괴롭혀서가(18.7%) 오해와 갈등으로(16.5%) 다른 학생의 행동이 맘에 안 들어서가(13.4%) 다른 친구가 하니까는 10.1% 화풀이 등은 8.9%이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>마지막으로가해이유는장난이나아무이유없이가(23.5%)로가장높았고상대방이나를먼저괴롭혀서가(18.7%)오해와갈등으로(16.5%)다른학생의행동이맘에안들어서가(13.4%)다른친구가하니까는10.1%화풀이등은8.9%이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33265",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 612,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

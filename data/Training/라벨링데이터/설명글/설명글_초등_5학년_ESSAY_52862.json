@@ -1,0 +1,297 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제목 : 만들기만 하면 입꼬리가 발그레! 미술은 정말 재밌어.#@문장구분#\n 나는 평일중에 화요일을 좋아한다.#@문장구분# 화요일에는 미술이 있기 때문이다.#@문장구분# 미술을 하는 날이면 학교에서 내내 기분이 좋았다.#@문장구분# \n 첫번째로, 나는 어릴 적부터 미술을 해왔다. #@문장구분#어릴 적부터 그림을 그려와서 그런지 그림 실력이 점점 늘고있는 게 느껴졌었다.#@문장구분# 학교에서 우리반 친구들이 내 그림을 보고 잘 그렸다고 칭찬할 때 무엇보다 뿌듯하고 기분이 좋아졌다.#@문장구분# \n 두번째로, 나의 장래희망은 미술과 관련이 있다. #@문장구분#나의 장래희망은 '제빵사'이다.#@문장구분# 제빵사는 빵을 전문적으로 만드는 사람인데, 만드는 것이 미술의 종류인 공예와 관련이 있다고 생각한다. #@문장구분#부모님께서는 내 직업을 반대하시지만 내 장래희망이기 때문에 내가 좋다면 괜찮다고 생각한다.#@문장구분# \n 세번째로, 나는 만들기와 그림 그리기를 좋아한다. #@문장구분#만들기는 쉬운 것보다 복잡한 게 훨씬 더 좋은 것 같다. #@문장구분#조금 귀찮긴 하겠지만 막상 작품을 다 만들고나면 나 자신이 자랑스럽게 느껴지기 때문이다.#@문장구분# 그림 그리기는 따로 그림 노트에 그리는데 사람보다 캐릭터 그림을 더 많이 그린다. #@문장구분#사람을 그린다해도 캐릭터화해서 그리곤 한다. #@문장구분#삼각형, 사각형 같은 도형도 가끔씩 그리곤 한다.#@문장구분# \n 네번째로, 나는 기록하는 것을 좋아했다.#@문장구분# 기록하는 것을 통해 화살표 같은 문구들을 조금씩 그리면서 미술이란 과목에 흥미를 갖게 되었다.",
+      "paragraph_len": 1032,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.933334,
+      26
+    ],
+    "essay_scoreT_avg": 25.977777,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 나는 평일 중에 화요일을 좋아한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 나는 <문법_맞춤법>평일중에</문법_맞춤법> 화요일을 좋아한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 첫 번째로, 나는 어릴 적부터 미술을 해왔다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>첫번째로</문법_맞춤법>, 나는 어릴 적부터 미술을 해왔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어릴 적부터 그림을 그려와서 그런지 그림 실력이 점점 늘고있는 게 느껴졌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": "어릴 적부터 그림을 그려와서 그런지 그림 실력이 점점 늘고있는 게 <문법_시제>느껴졌었다</문법_시제>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교에서 우리 반 친구들이 내 그림을 보고 잘 그렸다고 칭찬할 때 무엇보다 뿌듯하고 기분이 좋아졌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교에서 <문법_맞춤법>우리반</문법_맞춤법> 친구들이 내 그림을 보고 잘 그렸다고 칭찬할 때 무엇보다 뿌듯하고 기분이 좋아졌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 두 번째로, 나의 장래희망은 미술과 관련이 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>두번째로</문법_맞춤법>, 나의 장래희망은 미술과 관련이 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 세 번째로, 나는 만들기와 그림 그리기를 좋아한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>세번째로</문법_맞춤법>, 나는 만들기와 그림 그리기를 좋아한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "조금 귀찮긴 하겠지만 막상 작품을 다 만들고 나면 나 자신이 자랑스럽게 느껴지기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "조금 귀찮긴 하겠지만 막상 작품을 다 <문법_맞춤법>만들고나면</문법_맞춤법> 나 자신이 자랑스럽게 느껴지기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람을 그린다 해도 캐릭터화해서 그리곤 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사람을<문법_맞춤법> 그린다해도</문법_맞춤법> 캐릭터화해서 그리곤 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 네 번째로, 나는 기록하는 것을 좋아했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>네번째로,</문법_맞춤법> 나는 기록하는 것을 좋아했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52862",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 674,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

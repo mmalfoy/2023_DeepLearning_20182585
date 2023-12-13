@@ -1,0 +1,184 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 남이 고치라고 먼저 말할 안 좋은 습관을 가진 적은 없다.#@문장구분# 하지만  아직 내가 나의 안 좋은 습관을 발견하지 못한 걸 수도 있다고 생각해서, 나중에 생길 수 도 있는 안 좋은 습관을 막기 위해 들이려고 노력하는 좋은 습관이 있다.#@문장구분# 바로 무엇이든 남을 배려하는 마음을 먼저 가지는 습관이다.#@문장구분# 안 좋은 습관은 자기에게도 피해를 주지만 남에게도 피해를 준다.#@문장구분# 하지만 남을 위하고 배려하는 마음을 가지고 있으면 나쁜 습관이 생길 틈이 없을 것이다.#@문장구분# 그래서 나는 나쁜 습관이 침투할 틈이 없도록 항상 배려하는 마음을 가지고 있도록 노력한다.#@문장구분# 항상 배려하는 마음을 가지기 위해서 첫 번째로 노력하는 것은 항상 밝게 웃으면서 긍정적으로 생각하기 이다.#@문장구분# 밝게 웃고 있으면 마음이 좋아져서 긍정적으로 생각할 수 있고, 긍정적으로 생각하면 상대방을 더 쉽게 배려하고 친절하게 대할 수 있게 된다.#@문장구분# 그래서 내가 들이고 싶어 하는 좋은 습관을 잘 들게 해준다.#@문장구분#",
+      "paragraph_len": 652,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.75,
+      21.05,
+      18
+    ],
+    "essay_scoreT_avg": 22.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 항상 배려하는 마음을 가지기 위해서 첫 번째로 노력하는 것은 '항상 밝게 웃으면서 긍정적으로 생각하기'이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 항상 배려하는 마음을 가지기 위해서 첫 번째로 노력하는 것은 <문법_맞춤법><문법_기타>항상 밝게 웃으면서 긍정적으로 생각하기 이다</문법_기타></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 내가 들이고 싶어 하는 좋은 습관을 잘 들게 해 준다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 내가 들이고 싶어 하는 좋은 습관을 잘 들게 <문법_맞춤법>해준다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69172",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 472,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

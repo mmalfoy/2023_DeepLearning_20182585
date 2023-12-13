@@ -1,0 +1,398 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "환경오염이 잘안되는 물건을 만들면 좋겠습니다.#@문장구분# 왜냐면 산성비가 많이 올수도 있고 오염문제가 많아질수 있습니다.#@문장구분# 그리고 빠르게 발전되면 좋지만 나중에 가면 꽃바구니가 정말 귀하고 산소에서 꽃을사려는데 돈이 부족해서 사기 힘들어 질수도 있습니다.#@문장구분# 그리고 문제가되는 제품을 만드는건 자제해야 합니다.#@문장구분# 그리고 물이오염되면 어부들은 어업을 하기힘들고 물고기에 쓰레기가 있을수도 있고 그리고 바다생물이 살아가는게 힘듭니다.#@문장구분# 물이 썩거나 바다에 쓰레기가 많다면 김양식도 힘들고 산호가 썩어가며 않좋아 질수도있고 아쿠아리움을 개장하는 사람들 입장에서는 개장을 하기 힘듭니다.#@문장구분# 그리고 빙하가 녹으면서 남극, 북극대륙은 물바다가 되며 살아갈수 없습니다.#@문장구분# 그리고 지구온난화로인하여 더워질수도있고 추워질수도있습니다.#@문장구분# 더워도 아무리 에어컨, 선풍기를 쓴다하더라도 선풍기는 공기로 인하여 시원하게 해주는 것이기 때문에 더운공기를 쨀수 있습니다.#@문장구분# 에어컨도 마찬가지로 공기를 시원하게 하는거기 때문에 공기를 시원하게 하는게 힘듭니다.#@문장구분# 그리고 에어컨을 틀면 전기가 많이 나가기때문에 힘듭니다.#@문장구분# 풍력 발전소라도 힘들것 같습니다.#@문장구분# 그리고 육지생물은 풀을먹으면서 사는 동물은 풀이없어 동족을 잡아먹게 될수도 있습니다.#@문장구분# 그리고 어미가 아이를 낳고 잡아 먹을수도 있습니다.#@문장구분# 이렇게 양육강식에 대한것이 높아질수도 있고 멸종 위기종이 아닌 동물도 멸종 위기동물이 될수도 안될수도 있습니다.#@문장구분#",
+      "paragraph_len": 997,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.95,
+      20.75,
+      22.35
+    ],
+    "essay_scoreT_avg": 20.016668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "환경 오염이 잘 안되는 물건을 만들면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "환경오염이 <문법_맞춤법>잘안되는 </문법_맞춤법>물건을 만들면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 산성비가 많이 올 수도 있고 오염 문제가 많아질 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐면 산성비가 많이 <문법_맞춤법>올수도 </문법_맞춤법>있고 오염문제가 많아질수 있습니다.",
+      "sentence_corr_txt_styling": " 왜냐면 산성비가 많이 올 수도 있고 오염 문제가 많아질 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 빠르게 발전되면 좋지만 나중에 가면 꽃바구니가 정말 귀하고 산소에서 꽃을 사려는데 돈이 부족해서 사기 힘들어질 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 빠르게 발전되면 좋지만 나중에 가면 꽃바구니가 정말 귀하고 산소에서 <문법_맞춤법>꽃을사려는데 </문법_맞춤법>돈이 부족해서 사기 힘들어 질수도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 문제가 되는 제품을  만드는 건 자제해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>문제가되는 </문법_맞춤법>제품을 만드는건 자제해야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 물이 오염되면 어부들은 어업을 하기 힘들고 물고기에 쓰레기가 있을 수도 있고 그리고 바다 생물이 살아가는 게 힘듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>물이오염되면 </문법_맞춤법>어부들은 어업을 하기힘들고 물고기에 쓰레기가 있을수도 있고 그리고 바다생물이 살아가는게 힘듭니다.",
+      "sentence_corr_txt_styling": " 그리고 물이 오염되면 어부들은 어업을 하기 힘들고 물고기에 쓰레기가 있을 수도 있고 그리고 바다 생물이 살아가는 게 힘듭니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물이 썩거나 바다에 쓰레기가 많다면 김 양식도 힘들고 산호가 썩어가며 안 좋아질 수도 있고 아쿠아리움을 개장하는 사람들 입장에서는 개장을 하기 힘듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물이 썩거나 바다에 쓰레기가 많다면 <문법_맞춤법>김양식도 </문법_맞춤법>힘들고 산호가 썩어가며 않좋아 질수도있고 아쿠아리움을 개장하는 사람들 입장에서는 개장을 하기 힘듭니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 빙하가 녹으면서 남극, 북극 대륙은 물바다가 되며 살아갈 수 없습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 빙하가 녹으면서 남극, <문법_맞춤법>북극대륙은 </문법_맞춤법>물바다가 되며 살아갈수 없습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 지구온난화로 인하여 더워질 수도 있고 추워질 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>지구온난화로인하여 </문법_맞춤법>더워질수도있고 추워질수도있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 더워도 아무리 에어컨, 선풍기를 쓴다하더라도 선풍기는 공기로 인하여 시원하게 해주는 것이기 때문에 더운 공기를 뺄 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 더워도 아무리 에어컨, 선풍기를 쓴다하더라도 선풍기는 공기로 인하여 시원하게 해주는 것이기 때문에 <문법_맞춤법>더운공기를 </문법_맞춤법>쨀수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 에어컨도 마찬가지로 공기를 시원하게 하는 것이기 때문에 공기를 시원하게 하는 게 힘듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 에어컨도 마찬가지로 공기를 시원하게 <문법_맞춤법>하는거기 </문법_맞춤법>때문에 공기를 시원하게 하는게 힘듭니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 에어컨을 틀면 전기가 많이 나가기 때문에 힘듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 에어컨을 틀면 전기가 많이 <문법_맞춤법>나가기때문에 </문법_맞춤법>힘듭니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 풍력 발전소라도 힘들 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 풍력 발전소라도 <문법_맞춤법>힘들것 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 육지 생물은 풀을 먹으면서 사는 동물은 풀이 없어 동족을 잡아먹게 될 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 육지생물은 <문법_맞춤법>풀을먹으면서 </문법_맞춤법>사는 동물은 풀이없어 동족을 잡아먹게 될수도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 어미가 아이를 낳고 잡아 먹을 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 어미가 아이를 낳고 잡아 <문법_맞춤법>먹을수도 </문법_맞춤법>있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 양육강식에 대한 것이 높아질 수도 있고 멸종 위기종이 아닌 동물도 멸종 위기 동물이 될 수도 안 될 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이렇게 양육강식에 <문법_맞춤법>대한것이 </문법_맞춤법>높아질수도 있고 멸종 위기종이 아닌 동물도 멸종 위기동물이 될수도 안될수도 있습니다.",
+      "sentence_corr_txt_styling": " 이렇게 양육강식에 대한 것이 높아질 수도 있고 멸종 위기종이 아닌 동물도 멸종 위기 동물이 될 수도 안 될 수도 있습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47623",
+    "essay_prompt": " 현대 과학은 나날이 발전해 나아가고 있습니다. 여기서 '현대 과학'이란 지금 여러분들이 사용하고 있는 핸드폰이나 먹는 알약 등을 만들 수 있게 해주는 기술의 기반입니다.\n\n 많은 과학자들이 과학 기술을 연구해서 현대 과학의 수준이 많이 성장했습니다. 여러분이 주변에서 많이 보는 자동차나 일상생활에서 사용하는 생활용품도 대부분 과학기술의 발전으로 탄생했습니다.\n\n 하지만 이러한 과학기술의 발전은 심각한 환경문제를 만들어 지구환경에 심각한 경고를 주고 있습니다. 과학실험을 하기 위해서는 여러 화학적 실험과 쓰레기들이 생겨 환경에 안 좋은 물질들이 생기기 때문입니다.\n\n 과학이 발전하면 편리하고 사회의 많은 문제가 해결되지만 한편으로는 우리가 살고 있는 지구의 환경을 파괴하기도 한 거죠.\n\n 여러분은 과학의 발전이 지금처럼 빠르게 이루어져야 한다고 생각하나요? 아니면 환경을 위협하는 발전은 멈춰야 한다고 생각하나요?\n\n 과학의 발전을 위한 환경 파괴는 어쩔 수 없다고 생각하는지 아니면 환경을 위해 과학의 발전을 멈추어야 한다고 생각하는지 본인의 의견을 작성해주세요. 그리고 그 이유에 대해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 697,
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각"
+  }
+}

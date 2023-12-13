@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "폭력은 여러가지의 모습으로 있다.#@문장구분# 예를 들어서 신체적인 폭력, 정신적인 폭력 등이 있다.#@문장구분# 이렇게 폭력은 여러가지의 폭력들이 있지만 모든 폭력들에게는 공통점이 있다.#@문장구분# 바로...... 피해자와 가해자가 있다는 점이다.#@문장구분# 그래서, 지금부터 피해자의 입장과 폭력을 예방하는 방법을 설명해 주겠다.#@문장구분#\n 먼저, 피해자의 입장부터 살펴보겠다.#@문장구분# 피해자는 우선 가해자에게 괴롭힘을 받기 때문에 정말 괴로울 것이다.#@문장구분# 그리고, 살아있는 것이 싫어질 것이다.#@문장구분# 그러다기 결국...... 자살을 하게 될지도 모른다... #@문장구분#이렇게 정말 괴로워 하는 피해자가 생기지 않게 하려면 어떻게 해야 할까?#@문장구분#\n 다음으로는 폭력 예방 방법에 대해 살펴보겠다.#@문장구분# 우선, 먼저 피해자일 경우에는 혼자서 숨기려 하지 말고, 다른 사람에게 일러야 한다.#@문장구분# 왜냐하면, 계속 숨기면 가해자가 더 심하게 괴롭힐 수도 있기 때문이다.#@문장구분# 그리고, 다른 누군가가 폭력을 당하는 걸 보았을 떄는 무시하면 안된다.#@문장구분# 왜냐하면, 무시하면은 피해자 입장해서는 가해자의 편으로 알수도 있기 때문이다.#@문장구분# 그러므로 폭력을 발견하면 부모님, 선생님 117혹은 112에 신고해야 된다.#@문장구분#\n 지금까지 폭력 예방 방법을 설명해 주었다.#@문장구분# 오늘 알게 된 폭력 예방 방법을 잊지 않도록 노력하자~!#@문장구분#",
+      "paragraph_len": 974,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.833332,
+      26.711111,
+      26.11111
+    ],
+    "essay_scoreT_avg": 26.218515,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.05",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "폭력은 여러 가지의 모습으로 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "폭력은 <문법_맞춤법>여러가지의 </문법_맞춤법>모습으로 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 폭력은 여러 가지의 폭력들이 있지만 모든 폭력들에게는 공통점이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 폭력은 <문법_맞춤법>여러가지의 </문법_맞춤법>폭력들이 있지만 모든 폭력들에게는 공통점이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 피해자는 우선 가해자에게 괴롭힘을 <스타일링_담화 맥락 오류>받기 </스타일링_담화 맥락 오류>때문에 정말 괴로울 것이다.",
+      "sentence_corr_txt_styling": " 피해자는 우선 가해자에게 괴롭힘을 당하기 때문에 정말 괴로울 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이렇게 정말 괴로워하는 피해자가 생기지 않게 하려면 어떻게 해야 할까?",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이렇게 정말 <문법_맞춤법>괴로워 하는</문법_맞춤법> 피해자가 생기지 않게 하려면 어떻게 해야 할까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고, 다른 누군가가 폭력을 당하는 걸 보았을 때는 무시하면 안된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고, 다른 누군가가 폭력을 당하는 걸 보았을 <문법_맞춤법>떄는 </문법_맞춤법>무시하면 안된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면, 무시하면은 피해자 입장해서는 가해자의 편으로 알 수도 있기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면, 무시하면은 피해자 입장해서는 가해자의 편으로 <문법_맞춤법>알수도 </문법_맞춤법>있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33313",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 615,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

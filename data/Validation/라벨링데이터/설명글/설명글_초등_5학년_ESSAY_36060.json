@@ -1,0 +1,351 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요. #@문장구분#오늘은 위생을 지키는 방법 을 알아볼 것인 데요.#@문장구분# 건강을 지키기 위해서 운동도 중요하지만 너무 많이 하면 몸이 않좋아집니다.#@문장구분# 그리고 위생을 지켜도 건강할하수 있어요.#@문장구분# 그러면 위생을 지키는 방법을 알아봅시다.#@문장구분#\n 첫번째 손을 열심히 씻어요. #@문장구분#손을 잘 씻으면 건강을 잘 지키고 바이러스를 보호할 수 있으니 손을 잘 씻어요.#@문장구분#\n 두번째, 사워를 가주해요 몸에 붙은 세균을 씻어내야해요#@문장구분# 그리고 땀을 안 없에면 냄세가나고 몸이 아주 더러워 진데요세번째 손소독제를 상시로 들고 다녀요.#@문장구분# 그러면 손소독게를 가져갈때를 알려드릴게요 #@문장구분#가져갈때는 액체형 스프레이 손소독제를 들고다녀요.#@문장구분# 그리고 소형이면 편해요.#@문장구분# 코로나19는 비말로 감염이 돼는것이기 때문에 침이 안튀게 마스크를 꼭써요#@문장구분#\n 지금까지 위생을 지키는방법을 알아봤어요.#@문장구분# 그러디까 모두 위생을 잘 지켜요.#@문장구분#",
+      "paragraph_len": 719,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.780952,
+      18.4,
+      11.933332
+    ],
+    "essay_scoreT_avg": 15.038096,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.23",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "오늘은 위생을 지키는 방법을 알아볼 것인데요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "오늘은 위생을 지키는<문법_맞춤법> 방법 을 알아볼 것인 데요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 건강을 지키기 위해서 운동도 중요하지만 너무 많이 하면 몸이 안 좋아집니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 건강을 지키기 위해서 운동도 중요하지만 너무 많이 하면 몸이 <문법_맞춤법>않좋아집니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 위생을 지켜도 건강할 수 있어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 위생을 지켜도 <문법_맞춤법>건강할하수</문법_맞춤법> 있어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫 번째, 손을 열심히 씻어요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>첫번째</문법_맞춤법> 손을 열심히 씻어요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "손을 잘 씻으면 건강을 잘 지키고 <스타일링_조사><스타일링_담화 맥락 오류>바이러스를</스타일링_담화 맥락 오류></스타일링_조사> 보호할 수 있으니 손을 잘 씻어요.",
+      "sentence_corr_txt_styling": "손을 잘 씻으면 건강을 잘 지키고 바이러스로부터 보호할 수 있으니 손을 잘 씻어요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n <스타일링_맞춤법><스타일링_패러프레이징>두번째, 사워를 가주해요 몸에 붙은 세균을 씻어내야해요</스타일링_패러프레이징></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": "\n 두 번째, 샤워를 자주 해요. 몸에 붙은 세균을 씻어내야 해요. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 땀을 안 없애면 냄새가 나고 몸이 아주 더러워진대요. 세 번째, 손 소독제를 상시로 들고 다녀요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 땀을 안 <문법_맞춤법>없에면 냄세가</문법_맞춤법>나고 몸이 아주 더러워 진데요세번째 손소독제를 상시로 들고 다녀요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 손 소독제를 가져갈 때를 알려드릴게요.  ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면 <문법_맞춤법>손소독게를 가져갈때를 알려드릴게요</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_맞춤법><스타일링_패러프레이징>가져갈때는 액체형 스프레이 손소독제를 들고다녀요.</스타일링_패러프레이징></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": "어딘가에 가져갈 때는 액체형 스프레이 손 소독제를 들고 다녀요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 코로나19는 비말로 감염이 되는 것이기 때문에 침이 안 튀게 마스크를 꼭 써요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 코로나19는 비말로 감염이 <문법_맞춤법>돼는것이기</문법_맞춤법> 때문에 침이 안튀게 마스크를 꼭써요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 지금까지 위생을 지키는 방법을 알아봤어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 지금까지 위생을 <문법_맞춤법>지키는방법을</문법_맞춤법> 알아봤어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니까 모두 위생을 잘 지켜요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그러디까</문법_맞춤법> 모두 위생을 잘 지켜요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36060",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 420,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

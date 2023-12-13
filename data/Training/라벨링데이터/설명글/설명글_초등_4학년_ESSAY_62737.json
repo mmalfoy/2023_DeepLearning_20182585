@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아무리 나보다 나이가 적다 해도 존중해주고 도와야한다. #@문장구분#존중하면 나중에 전중해줄때 남도 존중해줄것이기 때문이다.#@문장구분#힘들때 도와주고 존중하면 좋아진다.#@문장구분# 사람마다 어려서 존댓말 하기도 하지만 반말하는 사람도있지만 존댓말이 더기분좋고 반말하면 기분이 않좋아서 반말보다 존댓말, 존댓말은 어르신들 한테 쓰는것도 맞지만 어린이들에게도 쓰는 사람들도 많다.#@문장구분# 존댓말을들으면 기분이 좋기에 존댓말하면 존중할것이다.#@문장구분# 다른 취향이 있는데 다른 취향이라고 존중하지 않아 속상할수있기 때문 입니다.#@문장구분# 존중하며 존중해야한다.#@문장구분# 모두 똑같은 존제 이세상은 서로를존중하며 존댓말하며 살아간다.#@문장구분# 지금까지 이렇게 존중하며 사는것처럼 어린이들도 존댓말 받을 자격이 있다.#@문장구분# 존중하면서 살아서 여기 까지올수 있었는지 아무도 모른다.#@문장구분# 인류의 발전도 다르고 모두 다르다.#@문장구분# 하지만 존중하면 좋다.#@문장구분# 어른도 존중해주고 어린이도 존중하면 어린이도 좋아할것이고 모두가 모두를 존중하면 모두가 행복할것이다.#@문장구분#",
+      "paragraph_len": 735,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.047619,
+      20.219048,
+      18.619047
+    ],
+    "essay_scoreT_avg": 18.961905,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "아무리 나보다 나이가 적다 해도 존중해주고 도와야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아무리 나보다 나이가 적다 해도 존중해주고 <문법_맞춤법>도와야한다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "존중하면 나중에 존중해줄 때 남도 존중해줄 것이기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "존중하면 나중에 <문법_맞춤법>전중해줄때 남도 존중해줄것이기</문법_맞춤법> 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "힘들 때 도와주고 존중하면 좋아진다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>힘들때</문법_맞춤법> 도와주고 존중하면 좋아진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람마다 어려서 존댓말하기도 하지만 반말하는 사람도 있지만 존댓말이 더 기분 좋고 반말하면 기분이 안 좋아서 반말보다 존댓말, 존댓말은 어르신들한테 쓰는 것도 맞지만 어린이들에게도 쓰는 사람들도 많다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람마다 어려서 <문법_맞춤법>존댓말 하기도</문법_맞춤법> 하지만 반말하는 사람도있지만 존댓말이 더기분좋고 반말하면 기분이 않좋아서 반말보다 존댓말, 존댓말은 어르신들 한테 쓰는것도 맞지만 어린이들에게도 쓰는 사람들도 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 존댓말을 들으면 기분이 좋기에 존댓말 하면 존중할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>존댓말을들으면 기분이 좋기에 존댓말하면 존중할것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 취향이 있는데 다른 취향이라고 존중하지 않아 속상할 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다른 취향이 있는데 다른 취향이라고 존중하지 않아 <문법_맞춤법>속상할수있기 때문 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 존중하며 존중해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 존중하며 <문법_맞춤법>존중해야한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모두 똑같은 존재 이 세상은 서로를 존중하며 존댓말하며 살아간다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모두 똑같은 <문법_맞춤법>존제 이세상은 서로를존중하며</문법_맞춤법> 존댓말하며 살아간다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금까지 이렇게 존중하며 사는 것처럼 어린이들도 존댓말 받을 자격이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금까지 이렇게 존중하며 <문법_맞춤법>사는것처럼</문법_맞춤법> 어린이들도 존댓말 받을 자격이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 존중하면서 살아서 여기까지 올 수 있었는지 아무도 모른다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 존중하면서 살아서 <문법_맞춤법>여기 까지올수</문법_맞춤법> 있었는지 아무도 모른다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어른도 존중해주고 어린이도 존중하면 어린이도 좋아할 것이고 모두가 모두를 존중하면 모두가 행복할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어른도 존중해주고 어린이도 존중하면 어린이도 <문법_맞춤법>좋아할것이고</문법_맞춤법> 모두가 모두를 존중하면 모두가 행복할것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62737",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 477,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

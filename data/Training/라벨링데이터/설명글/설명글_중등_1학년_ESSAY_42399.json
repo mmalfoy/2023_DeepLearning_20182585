@@ -1,0 +1,254 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "습관을 들이기 위해 노력을 시도해도 습관 만들기라는 과정이 너무 어렵다.#@문장구분# 습관을 하루 아침에 바꾸기는 매우 어렵다.#@문장구분# 그 이유는 우리의 뇌가 변화를 감지하면 그것을 위기로 인식하고 막으려고 하는 데 있다.#@문장구분# 하지만 이렇다 해도 아주 작은 목표라도 세워 차근차근 올려서 하는 것도 좋은 방법이다.#@문장구분# 예를 들어 매일 팔굽혀펴기 3개 하기로 정하고 점점 갯수를 올리면 된다.#@문장구분#\n \n 또 습관을 기를려면 주변환경이 중요하다.#@문장구분# 예를 들어 턱걸이를 하기 위해선 철봉이 있는 곳으로 찾아가야하는데 이것또한 문제가 된다.#@문장구분#\n \n 그래서 이러한 해결하기 위해선 방문앞에 풀업바를 설치하고 매일매일 씻기전에 턱걸이를 하면 더 좋다.#@문장구분#\n \n 그리고 하루에 턱걸이를 한 횟수를 세서 총 합해서 1년 동안 한 갯수를 확인하면 자신이 한 것들이 매우 만족되고 자존감도 올려줄 것이다.#@문장구분#\n \n 습관 들이기란 과정이 매우 어렵지만 작은 목표부터 세우고 실천하고 자신이 목표를 지킬 수 있게 주변환경도 재정비하면 무엇이든 다 할 수있다고 생각합니다.#@문장구분#",
+      "paragraph_len": 707,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22,
+      23.9,
+      21.05
+    ],
+    "essay_scoreT_avg": 22.316666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 매일 팔 굽혀 펴기 3개 하기로 정하고 점점 개수를 올리면 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들어 매일 <문법_맞춤법>팔굽혀펴기</문법_맞춤법> 3개 하기로 정하고 점점 갯수를 올리면 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n \n 또 습관을 기를려면 주변 환경이 중요하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n \n 또 습관을 기를려면 <문법_맞춤법>주변환경이</문법_맞춤법> 중요하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 턱걸이를 하기 위해선 철봉이 있는 곳으로 찾아가야하는데 이것 또한 문제가 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들어 턱걸이를 하기 위해선 철봉이 있는 곳으로 찾아가야하는데 <문법_맞춤법>이것또한</문법_맞춤법> 문제가 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n \n 그래서 이러한 해결하기 위해선 방문앞에 풀업바를 설치하고 매일매일 씻기전에 턱걸이를 하면 더 좋다.",
+      "sentence_corr_txt_styling": "\n \n 그래서 이러한 해결하기 위해선 방문앞에 풀업바를 설치하고 매일매일 씻기전에 턱걸이를 하면 더 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n \n 그리고 하루에 턱걸이를 한 횟수를 세서 총 합해서 1년 동안 한 개수를 확인하면 자신이 한 것들이 매우 만족되고 자존감도 올려줄 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n \n 그리고 하루에 턱걸이를 한 횟수를 세서 총 합해서 1년 동안 한 <문법_맞춤법>갯수</문법_맞춤법>를 확인하면 자신이 한 것들이 매우 만족되고 자존감도 올려줄 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n \n 습관 들이기란 과정이 매우 어렵지만 작은 목표부터 세우고 실천하고 자신이 목표를 지킬 수 있게 주변 환경도 재정비하면 무엇이든 다 할 수 있다고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "\n \n 습관 들이기란 과정이 매우 어렵지만 작은 목표부터 세우고 실천하고 자신이 목표를 지킬 수 있게 <문법_맞춤법>주변환경</문법_맞춤법>도 재정비하면 무엇이든 다 할 수있다고 <문법_높임법>생각합니다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42399",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 508,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

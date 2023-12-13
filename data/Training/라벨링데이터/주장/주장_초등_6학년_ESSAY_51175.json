@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서는 친구들끼리 비속어를 쓰며 노는 모습을 보았습니다.#@문장구분# 저는 학년이 높은 6학년만 욕을쓰는지 알았지마 예외가 있었습니다#@문장구분# 1학년끼리도 비속어를 사용하며 놀고 그러다가 싸움이 일어나는 것을 많이 보았습니다.#@문장구분# 이와같이 요즘 학생들은 학교안 밖을 가리지 않고 비속어를 씁니다.#@문장구분# 학교에서는 비속어 말고 학교폭력이 일어나는 경우가 굉장히 많이 일어 납니다.#@문장구분# 이런 상황에서 학교는 이런 학생들을 학교폭력을 저질르는 이 학생들을 처벌을 해야한다고 생각하고 또한 학교폭력으로 인해 왕따가 되거나 자살을 시도하는 학생들이 많아졌기 때문에 이런 학교폭력을 하는 학생들을 즉시 강한 처벌을 내려야한다고 생각하는 이유는 학교폭력 및 왕따 따돌림 받은 학생은 얼마나 마음이 아픈지 가해자가 그마음을 아는데도 게속 게속 피해자 학생을 괴롭혀 피해자 학생이 자살을 생각할수 있기 때문에 이러한 상황이 다신 벌어지지 않겠으면 좋겠다는 생각이라고 모든 사람들이 이상황을 이해해 주셨으면 좋겠다는 생각입니다.#@문장구분#",
+      "paragraph_len": 612,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27,
+      28.5,
+      28.5
+    ],
+    "essay_scoreT_avg": 28,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 학년이 높은 6학년만 욕을 쓰는지 알았지만 예외가 있었습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 학년이 높은 6학년만 <문법_맞춤법>욕을쓰는지 알았지마</문법_맞춤법> 예외가 있었습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이와 같이 요즘 학생들은 학교 안 밖을 가리지 않고 비속어를 씁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이와같이 요즘 학생들은 학교안</문법_맞춤법> 밖을 가리지 않고 비속어를 씁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교에서는 비속어 말고 학교폭력이 일어나는 경우가 굉장히 많이 일어납니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교에서는 비속어 말고 학교폭력이 일어나는 경우가 굉장히 많이<문법_맞춤법> 일어 납니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 상황에서 학교는 이런 학생들을 학교폭력을 저지르는 이 학생들을 처벌을 해야 한다고 생각하고 또한 학교폭력으로 인해 왕따가 되거나 자살을 시도하는 학생들이 많아졌기 때문에 이런 학교폭력을 하는 학생들을 즉시 강한 처벌을 내려야 한다고 생각하는 이유는 학교폭력 및 왕따 따돌림받은 학생은 얼마나 마음이 아픈지 가해자가 그 마음을 아는데도 계속계속 피해자 학생을 괴롭혀 피해자 학생이 자살을 생각할 수 있기 때문에 이러한 상황이 다신 벌어지지 않겠으면 좋겠다는 생각이라고 모든 사람들이 이 상황을 이해해 주셨으면 좋겠다는 생각입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 상황에서 학교는 이런 학생들을 <문법_맞춤법>학교폭력을 저질르는 이 학생들을 처벌을 해야한다고 생각하고 또한 학교폭력으로 인해 왕따가 되거나 자살을 시도하는 학생들이 많아졌기 때문에 이런 학교폭력을 하는 학생들을 즉시 강한 처벌을 내려야한다고 생각하는 이유는 학교폭력 및 왕따 따돌림 받은 학생은 얼마나 마음이 아픈지 가해자가 그마음을 아는데도 게속 게속 피해자 학생을 괴롭혀 피해자 학생이 자살을 생각할수 있기 때문에 이러한 상황이 다신 벌어지지 않겠으면 좋겠다는 생각이라고 모든 사람들이 이상황을 이해해 주셨으면 좋겠다는 생각입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51175",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 492,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 7살때 엄마와 엄마친구 내친구들과 강에놀러갔습니다.#@문장구분# 그때 깊은 곳에 빠졌습니다. #@문장구분#그때 이모가 절 구해주었습니다.#@문장구분# 엄마는 갈아입은 바지가 없어서 강가에 들어오지 않았습니다.#@문장구분#그런 상황에 이모가 구해주었습니다.#@문장구분# 그 후로 트라우마가 생겨서 바다 같은데도 못갔는데 트라우마를 극복시킨 이모가 너무 고맙습니다.#@문장구분# 그때 선행을 받았고 8살때 어느 할머니가 차도에서 넘어져서 도와줬던 적이 있는데 할머니께서 고맙다며 천원을 주시고는 가셨습니다. #@문장구분#서로에게 선행을 한것이죠. #@문장구분#이 할머니는 가끔씩 마주치면 인사하는 사이가 되었습니다.#@문장구분# 이와같이 선행을 배풀면 상대방과 사이가 좋아집니다.#@문장구분# 그러니 선행을 배풀면 이웃과 사이가 좋아지니 선행을 배풉시다!#@문장구분#",
+      "paragraph_len": 573,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.066668,
+      22.466667,
+      16.8
+    ],
+    "essay_scoreT_avg": 17.444445,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 7살 때 엄마와 엄마 친구, 제 친구들과 강에 놀러 갔습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>7살때</문법_맞춤법> 엄마와 엄마친구 <문법_높임법>내친구들</문법_높임법>과 강에놀러갔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마는 갈아입을 바지가 없어서 강가에 들어오지 않았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마는 <문법_맞춤법>갈아입은</문법_맞춤법> 바지가 없어서 강가에 들어오지 않았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 후로 트라우마가 생겨서 바다 같은 데도 못갔는데 트라우마를 극복시킨 이모가 너무 고맙습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 후로 트라우마가 생겨서 바다 <문법_맞춤법>같은데도</문법_맞춤법> 못갔는데 트라우마를 극복시킨 이모가 너무 고맙습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때 선행을 받았고 8살 때 어느 할머니가 차도에서 넘어져서 도와드린 적이 있는데 할머니께서 고맙다며 천원을 주시고 가셨습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 그때 선행을 받았고<문법_맞춤법> 8살때</문법_맞춤법> 어느 할머니가 차도에서 넘어져서 <문법_높임법>도와줬던</문법_높임법> 적이 있는데 할머니께서 고맙다며 천원을 <문법_조사><문법_어미>주시고는</문법_어미></문법_조사> 가셨습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "서로에게 선행을 한 것이죠. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "서로에게 선행을<문법_맞춤법> 한것이죠.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이와 같이 선행을 베풀면 상대방과 사이가 좋아집니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이와같이</문법_맞춤법> 선행을 배풀면 상대방과 사이가 좋아집니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니 선행을 베풀면 이웃과 사이가 좋아지니 선행을 베풉시다!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그러니 선행을 <문법_맞춤법>배풀면</문법_맞춤법> 이웃과 사이가 좋아지니 선행을 배풉시다!",
+      "sentence_corr_txt_styling": " 그러니 선행을 베풀면 이웃과 사이가 좋아지니 선행을 베풉시다!",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53444",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 355,
+    "essay_main_subject": "나의 선행"
+  }
+}

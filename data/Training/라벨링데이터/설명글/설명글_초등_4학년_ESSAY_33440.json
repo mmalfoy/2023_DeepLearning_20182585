@@ -1,0 +1,305 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사람이 살고있는 집은 다양 하죠.#@문장구분# 예 를 들면 아파트, 주택, 뾰족지붕 아파트 등등 이있다.#@문장구분# 나는 내가 살고 싶은 집은 2층 주택이다.#@문장구분# 1층은 ㄷ자 주방 ㅁ거실 2층은 침실과 화장실 1층도 화장실 1개 이면 좋겠다.#@문장구분# 다른 2차 집은 마당있는 2층집 마당 에 저는 강아지를 키운다.#@문장구분# 짱구 집같이 생긴집 3차 집은 아파트 맨 꼭때기층 집 인테리어는 흰색 소파에 65인치 TV ㄷ모양 주방 내방은 10평 오빠방은 7인치 엄마 아빠방은 19평 아파트 에서 강아지 키우기 나는 우리 지금집도 만족한다.#@문장구분# 하지만 강아지 를 키우고 싶다.#@문장구분# 근데 엄마 아빠가 못 키우게 한다.#@문장구분# 강아지 를 키운다고 때썼는데 나는 혼났다.#@문장구분# 그레서 두번 다시는 말하지 않기로 한다.#@문장구분# 4차 인테리이 는 또 아파트 나혼자 살 자취방, 35평 10평은 내방 10평은 같이 자취할 친구방 2평은 화장실 13평은 편집, 공부방 5차 인테리어 2층 아파트 뭔가 감성적인 뷰가 보이는 예쁜 높은층 (바다뷰) 흰색 살짝 기다란 소파 바닥은 대리석 식탁도 대리석 TV는 70인치 40평 10평은 내방 10평은 오빠방 10평은 내친구방 ㄱ자 주방 3평 화장실 2개 강아지 2마리 분리수거 쓰레기통 내방 침대1개 옷장 1개 하양색 책상 옷걸이 1개#@문장구분#",
+      "paragraph_len": 830,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      25.6,
+      20.333334
+    ],
+    "essay_scoreT_avg": 22.244446,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "사람이 살고 있는 집은 다양하죠.",
+      "sentence_corr_reason": [
+        "띄어쓰기와 붙여쓰기가 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사람이 <문법_맞춤법>살고있는 집은 다양 하죠.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들면 아파트, 주택, 뾰족지붕 아파트 등등 이있다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>예 를 들면 아파트, 주택, 뾰족지붕 아파트 등등 이있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1층은 ㄷ자 주방 ㅁ거실 2층은 침실과 화장실 1층도 화장실 1개면 좋겠다.",
+      "sentence_corr_reason": [
+        "한글자 삭제로 자연스러운 문장"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 1층은 ㄷ자 주방 ㅁ거실 2층은 침실과 화장실 1층도 화장실 <문법_기타>1개 이면 좋겠다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 2차 집은 마당 있는 2층집 마당에 저는 강아지를 키운다.",
+      "sentence_corr_reason": [
+        "띄어쓰기와 붙여쓰기가 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다른 2차 집은 <문법_맞춤법>마당있는 2층집 마당 에 저는 강아지를 키운다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 짱구 집같이 생긴 집 3차 집은 아파트 맨 꼭때기층 집 인테리어는 흰색 소파에 65인치 TV ㄷ모양 주방 내 방은 10평 오빠 방은 7인치 엄마 아빠방은 19평 아파트에서 강아지 키우기 나는 우리 지금 집도 만족한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 짱구 집같이 <문법_맞춤법>생긴집 3차 집은 아파트 맨 꼭때기층 집 인테리어는 흰색 소파에 65인치 TV ㄷ모양 주방 내방은 10평 오빠방은 7인치 엄마 아빠방은 19평 아파트 에서 강아지 키우기 나는 우리 지금집도 만족한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 강아지를 키우고 싶다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>강아지 를</문법_맞춤법> 키우고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 강아지를 키운다고 떼를 썼는데 나는 혼났다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요",
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>강아지 를 키운다고 때썼는데 나는 혼났다</문법_기타></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 두번 다시는 말하지 않기로 한다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그레서</문법_맞춤법> 두번 다시는 말하지 않기로 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 4차 인테리어는 또 아파트 나혼자 살 자취방, 35평 10평은 내 방 10평은 같이 자취할 친구방 2평은 화장실 13평은 편집, 공부방 5차 인테리어 2층 아파트 뭔가 감성적인 뷰가 보이는 예쁜 높은 층 (바다뷰) 흰색 살짝 기다란 소파 바닥은 대리석 식탁도 대리석 TV는 70인치 40평 10평은 내방 10평은 오빠방 10평은 내 친구방 ㄱ자 주방 3평 화장실 2개 강아지 2마리 분리 수거 쓰레기통 내방 침대1개 옷장 1개 하양색 책상 옷걸이 1개",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 4차 <문법_맞춤법>인테리이 는 또 아파트 나혼자 살 자취방, 35평 10평은 내방 10평은 같이 자취할 친구방 2평은 화장실 13평은 편집, 공부방 5차 인테리어 2층 아파트 뭔가 감성적인 뷰가 보이는 예쁜 높은층 (바다뷰) 흰색 살짝 기다란 소파 바닥은 대리석 식탁도 대리석 TV는 70인치 40평 10평은 내방 10평은 오빠방 10평은 내친구방 ㄱ자 주방 3평 화장실 2개 강아지 2마리 분리수거 쓰레기통 내방 침대1개 옷장 1개 하양색 책상 옷걸이 1개</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33440",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 610,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

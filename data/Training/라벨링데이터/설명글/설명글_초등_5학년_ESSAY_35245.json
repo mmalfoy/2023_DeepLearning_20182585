@@ -1,0 +1,373 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘은 위생을 잘지켜야 되는 시기이다.#@문장구분# 현재 코로나로 인해 상황이 심각하지만 코로나확진자의 대부분은 위생을 철저하게 지키지 않거나 코로나방역수칙을 않지켜서 공기중에 감염돼는거다.#@문장구분# 지금 그만큼 방역과 위생을 잘지켜야하는 시기이다.#@문장구분# 위생을 잘하는 방법은 좀 많지만 하는 방법은 간단하다.#@문장구분# 1. 모두가 아는 손씻기다.#@문장구분# 손씻기만 해도 70%는 한거다 #@문장구분#2. 목욕하는거다.#@문장구분#목욕을 하면 땀에 있는 찌꺼기와 젓산이 분비돼어 목욕후에는 가볍다.#@문장구분# 다시 목욕을 하면 몸에 있는 않좋은것들이 없어진다.#@문장구분# 단 목욕 너무 많이하지는 말고 너무 많이 바가지에 물 꽉채우면 물값이랑 유익한 것도 몸에 사라진다. #@문장구분#따라서 모든지 적당하게 해야한다.#@문장구분# 참 위생 하는거는 까다롭다.#@문장구분# 하지만 코로나로 인해 위생은 필수가 돼버렸다.#@문장구분# 위생을 잘 지키자.#@문장구분#",
+      "paragraph_len": 676,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.4285715,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      14.514286,
+      15.085714
+    ],
+    "essay_scoreT_avg": 16.533333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "요즘은 위생을 잘 지켜야 되는 시기이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘은 위생을 <문법_맞춤법>잘지켜야</문법_맞춤법> 되는 시기이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 현재 코로나로 인해 상황이 심각하다. 코로나 확진자의 대부분은 위생을 철저하게 지키지 않거나 코로나 방역 수칙을 지키지 않아서 공기 중에서 감염 되는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 현재 코로나로 인해 상황이 <문법_어미>심각하지만</문법_어미> <문법_맞춤법>코로나확진자의</문법_맞춤법> 대부분은 위생을 철저하게 지키지 않거나 코로나방역수칙을 <문법_담화 맥락 오류>않지켜서</문법_담화 맥락 오류> 공기중에 감염돼는거다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금은 방역과 위생을 잘 지켜야 하는 시기이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>지금 그만큼</스타일링_담화 맥락 오류> 방역과 위생을 <문법_맞춤법>잘지켜야하는</문법_맞춤법> 시기이다.",
+      "sentence_corr_txt_styling": " 지금은 방역과 위생을 잘 지켜야 하는 시기이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 위생을 <스타일링_담화 맥락 오류>잘하는</스타일링_담화 맥락 오류> 방법은 좀 많지만 하는 방법은 간단하다.",
+      "sentence_corr_txt_styling": " 위생을 잘 지키는 방법은 많지만 하는 방법은 간단하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>1. 모두가 아는 손씻기다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 첫 번째, 모두가 아는 손 씻기다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손씻기만 해도 70%는 한 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 손씻기만 해도 70%는 <문법_어미>한거다</문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>2. 목욕하는거다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "두 번째, 목욕을 하는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "목욕을 하면 땀에 있는 찌꺼기와 젖산이 씻겨 내려가 목욕 후에는 몸이 가벼워진다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "목욕을 하면 땀에 있는 찌꺼기와 <문법_맞춤법>젓산이</문법_맞춤법> <스타일링_담화 맥락 오류>분비돼어</스타일링_담화 맥락 오류> 목욕후에는 가볍다.",
+      "sentence_corr_txt_styling": "목욕을 하면 땀에 있는 찌꺼기와 젖산이 씻겨 내려가 목욕 후에는 몸이 가벼워진다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다시 목욕을 하면 몸에 있는 안 좋은 것들이 없어진다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다시 목욕을 하면 몸에 있는 <문법_맞춤법>않좋은것들이</문법_맞춤법> 없어진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>단 목욕 너무 많이하지는 말고 너무 많이 바가지에 물 꽉채우면</스타일링_담화 맥락 오류> 물값이랑 유익한 것도 몸에 사라진다. ",
+      "sentence_corr_txt_styling": " 단, 목욕을 너무 많이 하는 것은 좋지 않다.  물 값도 많이 나오고, 몸에 있는 유익한 것들도 사라지게 되기 때문이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "따라서 무엇이든지 적당하게 해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "따라서 <문법_맞춤법>모든지</문법_맞춤법> 적당하게 해야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>참 위생 하는거는 까다롭다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 위생을 챙기는 것은 어렵다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 코로나로 인해 위생은 필수가 되었다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 하지만 코로나로 인해 위생은 필수가 <문법_맞춤법><문법_어미>돼버렸다.</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35245",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 397,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 위생을 지키려고 하루에 한 번 밤에 머리를 감습니다.#@문장구분# 제가 인터넷에 찾아보니 아침에 한 번 감으면 실외 활동을 할때 먼지가 붙어서 밤에 머리에 묻은 먼지를 없에는 것이 좋다고 하였습니다.#@문장구분#\n 그리고 겨울에 감기에 걸리지 않도록 왠만하면 실외 활동을 자제하고 나가야 할 때에는 몸을 따뜻하게 하고 외출 합니다.#@문장구분# 외출후 집에 들어오면 차가워진 손, 발, 얼굴을 따뜻한 물에 세수를 하며 몸을 따뜻하게 만들어 감기를 예방 합니다.#@문장구분#\n 그리고 더운 여름에는 음식이 금방 부패 되니 날 것을 피하고 화상을 방지 하기 위해서 모자도 씁니다.#@문장구분#\n 요새 가끔 실천하는 것은 흐르는 물에 30초 이상 손 닦기 입니다.#@문장구분#외출 후 에는 필수로 해야 하지만 귀찮아서 안하는 적이 많습니다.#@문장구분#\n 그리고 입술을 깨물어서 염증이 생기면 입을 수시로 신경을 써서 행구고 연고도 바릅니다.#@문장구분# 요새는 운동 후에 손, 발도 닦습니다.",
+      "paragraph_len": 604,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4285715,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.24762,
+      25.24762,
+      27.714287
+    ],
+    "essay_scoreT_avg": 26.069841,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 제가 인터넷에 찾아보니 아침에 한 번 감으면 실외 활동을 할 때 먼지가 붙어서 밤에 머리에 묻은 먼지를 없애는 것이 좋다고 하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 인터넷에 찾아보니 아침에 한 번 감으면 실외 활동을 <문법_맞춤법>할때</문법_맞춤법> 먼지가 붙어서 밤에 머리에 묻은 먼지를 없에는 것이 좋다고 하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 겨울에 감기에 걸리지 않도록 웬만하면 실외 활동을 자제하고 나가야 할 때에는 몸을 따뜻하게 하고 외출합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 겨울에 감기에 걸리지 않도록 <문법_맞춤법>왠만하면 </문법_맞춤법>실외 활동을 자제하고 나가야 할 때에는 몸을 따뜻하게 하고 외출 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 외출 후 집에 들어오면 차가워진 손, 발, 얼굴을 따뜻한 물에 세수를 하며 몸을 따뜻하게 만들어 감기를 예방합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>외출후</문법_맞춤법> 집에 들어오면 차가워진 손, 발, 얼굴을 따뜻한 물에 세수를 하며 몸을 따뜻하게 만들어 감기를 예방 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 더운 여름에는 음식이 금방 부패되니 날 것을 피하고 화상을 방지하기 위해서 모자도 씁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 더운 여름에는 음식이 금방 <문법_맞춤법>부패 되니 날 것을 피하고 화상을 방지 하기</문법_맞춤법> 위해서 모자도 씁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 요새 가끔 실천하는 것은 흐르는 물에 30초 이상 손 닦기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 요새 가끔 실천하는 것은 흐르는 물에 30초 이상 손 <문법_맞춤법>닦기 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "외출 후에는 필수로 해야 하지만 귀찮아서 안 하는 적이 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "외출 <문법_맞춤법>후 에는 필수로 해야 하지만 귀찮아서 안하는</문법_맞춤법> 적이 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 입술을 깨물어서 염증이 생기면 입을 수시로 신경을 써서 헹구고 연고도 바릅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 입술을 깨물어서 염증이 생기면 입을 수시로 신경을 써서 <문법_맞춤법>행구고</문법_맞춤법> 연고도 바릅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50960",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 445,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

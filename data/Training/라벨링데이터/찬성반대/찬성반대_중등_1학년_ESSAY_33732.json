@@ -1,0 +1,372 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반대합니다.#@문장구분# 왜냐하면 일단 금수저여서 부모님의 일을 그대로 물려받는것은 불성실하다고 생각합니다.#@문장구분# 다른사람들은 오직 자신의 노력과 힘으로 직업을 얻지만 아무것도 안하고 부모의 일을 그대로 물려받는 것은 불공평하다 생각합니다.#@문장구분# 금수저라서 편하면 안돼고 흙수저라서 불편해도 안됩니다.#@문장구분# 무조건 평등하게 직업을 얻어야지 그런 방법으로 직업을 얻는 것은 제 생각엔 아니다라고 생각합니다.#@문장구분# 그런식으로 하면 성공하기도 힘들것같습니다.#@문장구분# 두번째는 금수저랑 흙수저가 같은 직업을 할때 월급을 줄때 차별이 있을것같습니다.#@문장구분# 금수저라고 월급을 더 준다든가 아니면 흙수저라서 월급을 더 안줄것같습니다.#@문장구분# 그런 차별이 생기면 더 힘들것같고 자신감이 떨어질것같습니다.#@문장구분# 세번째는 게을러질거같다.#@문장구분# 부모의 능력이 좋아서 그냥 그일을 하면 되지만 다른 사람들일 경우 시험을보고 떨어지면 다시 시험을 봐야된다.#@문장구분# 그거면 시험을 본 사람들에게 매우 불리할 수 있다.#@문장구분# 이러면 누구나 금수저에게 직업을 물려받아 노력을 안할것 같습니다.#@문장구분# 그러면 아주 많이 힘들어질것이고 불평등이 많아져서 서로간에 갈등이 일어날것입니다.#@문장구분# 과연 지금도 이런 일때문에 많은 갈등이 생기고 있을까요?#@문장구분# 있으면 정말 고치고 싶다고 생각합니다.#@문장구분# 전 너무 불공평하다고 생각해서 입니다.#@문장구분# 이렇게 오늘은 사회에 불평등한 일에 찬성과 반대를 해서 써보았습니다.#@문장구분# 물론 전 반대입니다.#@문장구분#",
+      "paragraph_len": 1049,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.9,
+      28.811111,
+      24.177776
+    ],
+    "essay_scoreT_avg": 24.62963,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          2
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.19",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "033",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 첫째, 금수저여서 부모님의 일을 그대로 물려받는것은 불성실하다고 생각합니다.",
+      "sentence_corr_reason": [
+        "항목들이 뒤에 있으므로 첫 번째 항목도 세워줘야 함"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_기타>일단</문법_기타> 금수저여서 부모님의 일을 그대로 물려받는것은 불성실하다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 사람들은 오직 자신의 노력과 힘으로 직업을 얻지만 아무것도 안하고 부모의 일을 그대로 물려받는 것은 불공평하다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법>다른사람들은</문법_맞춤법> 오직 자신의 노력과 힘으로 직업을 얻지만 아무것도 안하고 부모의 일을 그대로 물려받는 것은 <문법_조사>불공평하다</문법_조사> 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 금수저라서 편하면 안되고 흙수저라서 불편해도 안됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 금수저라서 편하면 <문법_맞춤법>안돼고</문법_맞춤법> 흙수저라서 불편해도 안됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 무조건 평등하게 직업을 얻어야지 그런 방법으로 직업을 얻는 것은 제 생각엔 아니라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 무조건 평등하게 직업을 얻어야지 그런 방법으로 직업을 얻는 것은 제 생각엔 <문법_어미>아니다라고</문법_어미> 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런식으로 하면 성공하기도 힘들 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런식으로 하면 성공하기도 <문법_맞춤법>힘들것같습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째, 금수저랑 흙수저가 같은 직업일 경우 월급을 줄 때 차별이 있을것같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째는</문법_맞춤법> 금수저랑 흙수저가 같은 <스타일링_기타>직업을 할때</스타일링_기타> 월급을 줄때 차별이 있을것같습니다.",
+      "sentence_corr_txt_styling": " 둘째, 금수저랑 흙수저가 같은 직업일 경우 월급을 줄 때 차별이 있을것같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 금수저라고 월급을 더 준다든가 아니면 흙수저라서 월급을 더 안줄 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 금수저라고 월급을 더 준다든가 아니면 흙수저라서 월급을 더 <문법_맞춤법>안줄것같습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 차별이 생기면 더 힘들 것 같고 자신감이 떨어질 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 차별이 생기면 더 <문법_맞춤법>힘들것같고</문법_맞춤법> 자신감이 떨어질것같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 셋째,  게을러질 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째는</문법_맞춤법> <문법_어미>게을러질거같다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모의 능력이 좋아서 그냥 그 일을 하면 되지만 다른 사람들일 경우 시험을 보고 떨어지면 다시 시험을 봐야된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모의 능력이 좋아서 그냥 <문법_맞춤법>그일을</문법_맞춤법> 하면 되지만 다른 사람들일 경우 시험을보고 떨어지면 다시 시험을 봐야된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 시험을 본 사람들에게 매우 불리할 수 있다.",
+      "sentence_corr_reason": [
+        "오타 추정"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그거면</문법_기타> 시험을 본 사람들에게 매우 불리할 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러면 누구나 직업을 물려받아 노력을 안할 것 같습니다.",
+      "sentence_corr_reason": [
+        "불필요",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러면 누구나 <스타일링_기타>금수저에게 직업을</스타일링_기타> 물려받아 노력을 <문법_맞춤법>안할것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": " 이러면 누구나 직업을 물려받아 노력을 안할 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 아주 많이 힘들어질 것이고 불평등이 많아져서 서로간에 갈등이 일어날 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면 아주 많이 <문법_맞춤법>힘들어질것이고</문법_맞춤법> 불평등이 많아져서 서로간에 갈등이 일어날것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33732",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 669,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

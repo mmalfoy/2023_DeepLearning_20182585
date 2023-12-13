@@ -1,0 +1,233 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "교육의 평등이 곧 사회적 불평등을 해소할 수 있다라고 생각하는 것은 문제가 있다고 저는 생각합니다.#@문장구분# 사회적 불평등이 생기는 근본적인 이유는 저는 부익부 빈익빈이라고 생각합니다.#@문장구분# 아무래도 자본주의 특성상 부익부 빈익빈은 계속 지속되는 사회 현상이라고 생각합니다.#@문장구분# 누군가는 사업에 실패해도 다시일어날 가능성과 힘이 있지만 누군가는 인생을 걸어야 하는 사업일지도 모르기 때문입니다.#@문장구분# 또한 이자의 측면만 보더라도 위의 생각을 하기 쉽습니다.#@문장구분# 가만히 있어도 한사람이 한달동한 일한 만큼의 돈이 이자로 들어오는 이시점에서 과연 평등한 교육이 사회적 불평등을 해소할 수 있는가에 대한 근본적인 해답이 되기는 굉장히 무리가 있고 어렵지 않나라는 생각이 듭니다.#@문장구분# 따라서 저는 사회적 불평등을 해소하기 위해서는 다른 정책이나 해결방안이 필요하지 교육을 평등하게 다 시킨다고 해서 그것이 드라마틱한 계층이동의 사다리가 되리라고는 생각하지 않습니다.#@문장구분# 오히려 저소득계층을 향한 선택적 교육지원이 맞다고 저는 생각하는 부분입니다.#@문장구분#",
+      "paragraph_len": 666,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 이러한 제도만이 실질적으로 효력이 있다고도 생각합니다.#@문장구분#",
+      "paragraph_len": 51,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      27,
+      26.722221
+    ],
+    "essay_scoreT_avg": 27.907408,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 누군가는 사업에 실패해도 다시 일어날 가능성과 힘이 있지만 누군가는 인생을 걸어야 하는 사업일지도 모르기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 누군가는 사업에 실패해도 <문법_맞춤법>다시일어날</문법_맞춤법> 가능성과 힘이 있지만 누군가는 인생을 걸어야 하는 사업일지도 모르기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가만히 있어도 한사람이 한달동한 일한 만큼의 돈이 이자로 들어오는 이 시점에서 과연 평등한 교육이 사회적 불평등을 해소할 수 있는가에 대한 근본적인 해답이 되기는 굉장히 무리가 있고 어렵지 않나라는 생각이 듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가만히 있어도 한사람이 한달동한 일한 만큼의 돈이 이자로 들어오는 <문법_맞춤법>이시점에서</문법_맞춤법> 과연 평등한 교육이 사회적 불평등을 해소할 수 있는가에 대한 근본적인 해답이 되기는 굉장히 무리가 있고 어렵지 않나라는 생각이 듭니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 따라서 저는 사회적 불평등을 해소하기 위해서는 다른 정책이나 해결방안이 필요하지 교육을 평등하게 다 시킨다고 해서 그것이 드라마틱한 계층 이동의 사다리가 되리라고는 생각하지 않습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 따라서 저는 사회적 불평등을 해소하기 위해서는 다른 정책이나 해결방안이 필요하지 교육을 평등하게 다 시킨다고 해서 그것이 드라마틱한 <문법_맞춤법>계층이동의</문법_맞춤법> 사다리가 되리라고는 생각하지 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61718",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 540,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 아침에 늦게 일어나는 나쁜 습관이 있었습니다.#@문장구분# 이것을 고쳐 보려고 온 방법을 다 사용했습니다.#@문장구분# 어머니께 부탁해서 이를 해결해 보려고 둘이 약속을하여서 아침 7시에 일어나기로 해보았습니다.#@문장구분# 그러나 아침에 일어나면 침대는 저를 끌어 당겼고 그래서 5분만 10분만을 실행하여 결국은 또 다시 실패하고 말았습니다.#@문장구분# 그래서 저는 다음으로 당근과 벌 법칙을 실행하기로 했습니다.#@문장구분# 일어난다면 제가 좋아하는 영화를 마음 껏 볼 수 있는 상을 저에게 주었고 만약 실패한다면 운동을 엄청나게 스쿼트, 팔굽혀펴기를 하는 벌을 스스로 세웠습니다.#@문장구분# 하지만 이 역시 실패하였습니다.#@문장구분#저는 실패의 이유를 혼자서 고심해 보았고 그 원인은 결국 마음에서 나온다는 것을 알게되어 결국은 마음 먹기다라는 마음으로 실천하여 습관을 고칠 수 있었습니다.#@문장구분#",
+      "paragraph_len": 562,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.8,
+      22.15,
+      19.75
+    ],
+    "essay_scoreT_avg": 21.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 어머니께 부탁해서 이를 해결해 보려고 둘이 약속을 하여서 아침 7시에 일어나기로 해보았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어머니께 부탁해서 이를 해결해 보려고 둘이 <문법_맞춤법>약속을하여서 </문법_맞춤법>아침 7시에 일어나기로 해보았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나 아침에 일어나면 침대는 저를 끌어당겼고 그래서 5분만 10분만을 실행하여 결국은 또다시 실패하고 말았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러나 아침에 일어나면 침대는 저를 <문법_맞춤법>끌어 당겼고</문법_맞춤법> 그래서 5분만 10분만을 실행하여 결국은 또 다시 실패하고 말았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일어난다면 제가 좋아하는 영화를 마음껏 볼 수 있는 상을 저에게 주었고 만약 실패한다면 운동을 엄청나게 스쿼트, 팔굽혀펴기를 하는 벌을 스스로 세웠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일어난다면 제가 좋아하는 영화를 <문법_맞춤법>마음 껏 </문법_맞춤법>볼 수 있는 상을 저에게 주었고 만약 실패한다면 운동을 엄청나게 스쿼트, 팔굽혀펴기를 하는 벌을 스스로 세웠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 실패의 이유를 혼자서 고심해 보았고 그 원인은 결국 마음에서 나온다는 것을 알게 되어 결국은 마음먹기라는 마음으로 실천하여 습관을 고칠 수 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 실패의 이유를 혼자서 고심해 보았고 그 원인은 결국 마음에서 나온다는 것을 <문법_맞춤법>알게되어</문법_맞춤법> 결국은 마음 먹기다라는 마음으로 실천하여 습관을 고칠 수 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71481",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 402,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

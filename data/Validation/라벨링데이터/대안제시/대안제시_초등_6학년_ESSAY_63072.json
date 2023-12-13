@@ -1,0 +1,260 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물 유기를 하는 사람을 봤을 때 아무리 형편이 좋지 않고 시간상에 이유로 유기하는 것을 좋게 볼수는 없다.#@문장구분# 나는 그 유기하는 반려자들에게 한 번 생각해보라고 말하고 싶다.#@문장구분# 당신들의 부모님들이 금전적에 이유와 시간상으로 당신을 버렸다면 어떤 마음이 들고, 어떻게 할것인지.#@문장구분# 하지만 반려동물과 사람을 비교할 수 없겠다만, 기우는 사람이 보호를 받고 있는 생명체를 버리는 사실에는 다름이 없다.#@문장구분# 반려동물을 키울 때 책임이 많이 필요한 것은 사실이다.#@문장구분# 그래도 내가 한번 키운 생명체 끝까지 보살펴야 된다는 책임감을 가졌으면 좋겠다.#@문장구분# 그리고 현재 이문제를 해결하는 방안이 있다면 외국처럼 반려동물에게 등록번호를 부여하고, GPS를 심는다면 일단 1차적으론 유기를 줄이는 데 도움이 될것이다.#@문장구분# 2차적으론 법정책을 늘리는 것이다. #@문장구분#책임에 관한 법 · 정책이 늘은다면 유기를 하는 상황이 눈에 띄게 줄어들 것이다. #@문장구분#이런 문제를 버린다고 끝나는 것이 아닌 개인에 도덕성에 문제와 양심성에 문제다.#@문장구분# 한번 키웠다면 끝까지 키워야 한다.",
+      "paragraph_len": 715,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.8,
+      24.177776,
+      25.066666
+    ],
+    "essay_scoreT_avg": 25.014814,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "반려동물 유기를 하는 사람을 봤을 때 아무리 형편이 좋지 않더라도 시간상의 이유로 유기하는 것을 좋게 볼 수는 없다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": "반려동물 유기를 하는 사람을 봤을 때 아무리 형편이 좋지 <문법_어미>않고 </문법_어미><문법_조사>시간상에 </문법_조사>이유로 유기하는 것을 좋게 <문법_맞춤법>볼수는 </문법_맞춤법>없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 나는 그 유기하는 반려자들에게 한 번 생각해보라고 말하고 싶다.",
+      "sentence_corr_txt_styling": " 나는 그 유기하는 반려자들에게 한 번 생각해보라고 말하고 싶다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 당신들의 부모님들이 금전적인 이유와 시간상으로 당신을 버렸다면 어떤 마음이 들고, 어떻게 할 것인지.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 당신들의 부모님들이 <문법_어미>금전적에 </문법_어미>이유와 시간상으로 당신을 버렸다면 어떤 마음이 들고, 어떻게 <문법_맞춤법>할것인지</문법_맞춤법>.",
+      "sentence_corr_txt_styling": " 당신들의 부모님들이 금전적인 이유와 시간상으로 당신을 버렸다면 어떤 마음이 들고, 어떻게 할 것인지.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 현재 이 문제를 해결하는 방안이 있다면 외국처럼 반려동물에게 등록번호를 부여하고, GPS를 심는다면 일단 1차적으론 유기를 줄이는 데 도움이 될 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 현재 <문법_맞춤법>이문제를 </문법_맞춤법>해결하는 방안이 있다면 외국처럼 반려동물에게 등록번호를 부여하고, GPS를 심는다면 일단 1차적으론 유기를 줄이는 데 도움이 될것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "책임에 관한 법 · 정책이 늘어난다면 유기를 하는 상황이 눈에 띄게 줄어들 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "책임에 관한 법 · 정책이 <문법_맞춤법>늘은다면 </문법_맞춤법>유기를 하는 상황이 눈에 띄게 줄어들 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이런 문제를 버린다고 끝나는 것이 아닌 개인의 도덕성의 문제와 양심성의 문제다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": "이런 문제를 버린다고 끝나는 것이 아닌 <문법_조사>개인에</문법_조사> 도덕성에 문제와 양심성에 문제다.",
+      "sentence_corr_txt_styling": "이런 문제를 버린다고 끝나는 것이 아닌 개인의 도덕성의 문제와 양심성의 문제다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63072",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 515,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

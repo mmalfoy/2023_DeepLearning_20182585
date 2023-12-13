@@ -1,0 +1,284 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리는 살면서 수많은 습관을 가지고 살아간다. #@문장구분#그 중에서는 안 좋은 습관도 있고 좋은 습관도 있을 것이다. #@문장구분#하지만 우리는 이런 습관들을 쉽게 알아차리지 못하는데 왜냐하면 그것은 우리가 알지 못하는 사항이 반복되는 행동이기 때문이다.#@문장구분# 따라서 우리가 우리의 습관을 알아채는 데까지는 오랜 시간이 걸린다. #@문장구분#그리고 알아차린다고 하더라도 그것을 고치고 좋은 습관을 만드는 데까지도 상당한 시간이 걸린다.#@문장구분# 하지만 우리는 이것을 분명히 할 수 있다.#@문장구분# 우리는 습관을 고치고 우리의 좋은 습관을 만들고자 하는 마음가짐만 있으면 쉽게 할 수 있는 것이 습관을 만드는 것이라 생각한다. #@문장구분#물론 시간도 오래 걸릴 것이나 그리고 내가 말한 것처럼 절대로 쉽진 않을 것이다.#@문장구분# 단지 마음가짐만 있으면 쉽다는 것이다.#@문장구분# 그렇듯 우리는 우리의 마음가짐을 올바르게 가지고 나쁜 습관을 고치고 좋은 습관을 만들어야겠다는 그 마음가짐 하나면 충분하다고 생각한다.#@문장구분# 이것이 올바른 습관의 과지는 나의 방법이다.#@문장구분#",
+      "paragraph_len": 705,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.35,
+      20.25,
+      18.25
+    ],
+    "essay_scoreT_avg": 21.283333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "우리는 살면서 수많은 습관을 가지고 살아간다. ",
+      "sentence_corr_txt_styling": "우리는 살면서 수많은 습관을 가지고 살아간다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 따라서 우리가 우리의 습관을 알아채는 데 까지는 오랜 시간이 걸린다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 따라서 우리가 우리의 습관을 알아채는 <문법_맞춤법>데까지는</문법_맞춤법> 오랜 시간이 걸린다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 알아차린다고 하더라도 그것을 고치고 좋은 습관을 만드는 데 까지도 상당한 시간이 걸린다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 알아차린다고 하더라도 그것을 고치고 좋은 습관을 만드는 <문법_맞춤법>데까지도</문법_맞춤법> 상당한 시간이 걸린다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 우리는 습관을 고치고 우리의 좋은 습관을 만들고자 하는 마음가짐만 있으면 쉽게 할 수 있는 것이 습관을 만드는 것이라 생각한다. ",
+      "sentence_corr_txt_styling": " 우리는 습관을 고치고 우리의 좋은 습관을 만들고자 하는 마음가짐만 있으면 쉽게 할 수 있는 것이 습관을 만드는 것이라 생각한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "물론 시간도 오래 걸릴 것이나 그리고 내가 말한 것처럼 절대로 쉽진 않을 것이다.",
+      "sentence_corr_txt_styling": "물론 시간도 오래 걸릴 것이나 그리고 내가 말한 것처럼 절대로 쉽진 않을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 단지 마음가짐만 있으면 쉽다는 것이다.",
+      "sentence_corr_txt_styling": " 단지 마음가짐만 있으면 쉽다는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그렇듯 우리는 우리의 마음가짐을 올바르게 가지고 나쁜 습관을 고치고 좋은 습관을 만들어야겠다는 그 마음가짐 하나면 충분하다고 생각한다.",
+      "sentence_corr_txt_styling": " 그렇듯 우리는 우리의 마음가짐을 올바르게 가지고 나쁜 습관을 고치고 좋은 습관을 만들어야겠다는 그 마음가짐 하나면 충분하다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것이 올바른 습관을 가지는 나의 방법이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 이것이 올바른 <문법_조사>습관의</문법_조사> <문법_맞춤법>과지는</문법_맞춤법> 나의 방법이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69083",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 485,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

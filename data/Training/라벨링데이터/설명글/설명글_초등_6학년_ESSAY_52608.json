@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 나의 진정한 친구는 나와 친하고, 나한테 잘해주고, 비밀을 마음껏 얘기를 해도 아무한테도 말 안하는 친구.#@문장구분# 내가 슬프거나 기분이 안 좋을 때 나를 위로해주는 친구라고 생각한다.#@문장구분# \n친구들 중에서 순위는 1위 #@신원#(사실 나보다 2살 많은데 친구같고 케미가 좋음)#@문장구분# 2위 #@신원# 3,4학년 때 처음 만난 친구, 웃김#@문장구분# 꼴지 #@신원# 그 친구는 뭔가 나랑 적성에 안맞음#@문장구분# 자기 혼자 소외 된다고 #@신원#이 한테 말함#@문장구분# 자기가 우리랑 어울리지 못한다고 생각할순 없나?#@문장구분# 아무튼 불편함.#@문장구분# \n친구들의 나에 대한 생각은 먼가 예좀 TMI 많이 말하네, 불편하다, 잘 때린다(장난) 기분나쁨, 웃김 이렇게 말할 것 같다#@문장구분# 애들이 그렇게 말을 안 하게 하려면 내가 좀더 상냥해야 하고, 쓸대 없는 말 안하고, 장난으로 친구 때리지 않고, 욕하지 않아야 한다고 생각한다.",
+      "paragraph_len": 661,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22,
+      16.35,
+      23.05
+    ],
+    "essay_scoreT_avg": 20.466665,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 나의 진정한 친구는 나와 친하고, 나한테 잘해주고, 비밀을 마음껏 얘기를 해도 아무한테도 말 안 하는 친구.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 생각하는 나의 진정한 친구는 나와 친하고, 나한테 잘해주고, 비밀을 마음껏 얘기를 해도 아무한테도 말 <문법_맞춤법>안하는 </문법_맞춤법>친구.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 슬프거나 기분이 안 좋을 때 나를 위로해 주는 친구라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 슬프거나 기분이 안 좋을 때 나를 <문법_맞춤법>위로해주는</문법_맞춤법> 친구라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자기가 우리랑 어울리지 못한다고 생각할 순 없나?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자기가 우리랑 어울리지 못한다고 <문법_맞춤법>생각할순 </문법_맞춤법>없나?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n친구들의 나에 대한 생각은 먼가  예 좀 TMI 많이 말하네, 불편하다, 잘 때린다(장난) 기분나쁨, 웃김 이렇게 말할 것 같다",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " \n친구들의 나에 대한 생각은 먼가<문법_맞춤법> 예좀</문법_맞춤법> TMI 많이 말하네, 불편하다, 잘 때린다(장난) 기분나쁨, 웃김 이렇게 말할 것 같다",
+      "sentence_corr_txt_styling": " \n친구들의 나에 대한 생각은 먼가  예 좀 TMI 많이 말하네, 불편하다, 잘 때린다(장난) 기분나쁨, 웃김 이렇게 말할 것 같다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 애들이 그렇게 말을 안 하게 하려면 내가 좀 더 상냥해야 하고,  쓸데없는 말 안 하고, 장난으로 친구 때리지 않고, 욕하지 않아야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 애들이 그렇게 말을 안 하게 하려면 내가 <문법_맞춤법>좀더</문법_맞춤법> 상냥해야 하고, 쓸대 없는 말 안하고, 장난으로 친구 때리지 않고, 욕하지 않아야 한다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52608",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 420,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

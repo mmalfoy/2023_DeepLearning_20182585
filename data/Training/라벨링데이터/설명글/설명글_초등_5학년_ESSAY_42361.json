@@ -1,0 +1,328 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지킬려면 어떡게 해야될까요?#@문장구분#요즘은 코로나19때매 위생에 대해 더 중요시 여겨야 됩니다.#@문장구분#위생을 지키기 위해선 어떻게 해야 될까요?#@문장구분# 첫번째로는 손을 꼼꼼히 잘 씻어야됨니다.#@문장구분#외출을 하고 왔을 때도 밥을 먹을때도 물만 무치지 말고 비누로 꼼꼼히 뽀득뽀득 잘 닦아야 합니다.#@문장구분#월래도 외출하고서도 손을 닦았지만 요즘은 코로나 때매 더 꼼꼼히 씻어야 합니다.#@문장구분# 두번째는 양치질 꼼꼼히 잘 하기!#@문장구분# 아침먹고 1번 점심먹고1번 저녁먹고1번 양치는 꼭 3번씩 밥을 먹고 양치질을을 해야됨니다.#@문장구분#사실은 국민들이 3번을 다 하진 못하닌까 속상하긴 한데도 코로나 때메 양치질을 못해서 아쉽습니다#@문장구분# 빨리 코로나가 끝나서 점심을 먹고서 양치를 하는 날이 오면 좋겠습니다.#@문장구분# 3번째는 목욕 깨끗이 하기입니다.#@문장구분# 목욕도 위생은 지켜줍니다.#@문장구분# 2일에 한번 1일에 1번 씻는 사람들도 있지만 하루에 한번씩 씻는게 위생을 더욱더 지켜줍니다.#@문장구분# 추운날에는 2일에 1번을 씻고 땀이 많이 났을땐 하루에 한번 씻어주는게좋고 위생을 지켜 준다.#@문장구분# 위생에 대해 더 잘알아서 아프지 않게 손을 잘 씻고 몸도 깨끗이 씻을 것이다.#@문장구분#",
+      "paragraph_len": 843,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      22.847618,
+      20.333334
+    ],
+    "essay_scoreT_avg": 23.86032,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "위생을 지키려면 어떻게 해야 될까요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "위생을 <문법_맞춤법>지킬려면 </문법_맞춤법>어떡게 해야될까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요즘은 코로나19 때문에 위생에 대해 더 중요시 여겨야 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘은 코<문법_맞춤법>로나19때매</문법_맞춤법> 위생에 대해 더 중요시 여겨야 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째로는 손을 꼼꼼히 잘 씻어야 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫번째로는 </문법_맞춤법>손을 꼼꼼히 잘 씻어야됨니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "외출을 하고 왔을 때도 밥을 먹을 때도 물만 묻히지 말고 비누로 꼼꼼히 뽀득뽀득 잘 닦아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "외출을 하고 왔을 때도 밥을 <문법_맞춤법>먹을때도</문법_맞춤법> 물만 무치지 말고 비누로 꼼꼼히 뽀득뽀득 잘 닦아야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "원래도 외출 하고서도 손을 닦았지만 요즘은 코로나 때문에 더 꼼꼼히 씻어야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>월래도 </문법_맞춤법>외출하고서도 손을 닦았지만 요즘은 코로나 때매 더 꼼꼼히 씻어야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째는 양치질 꼼꼼히 잘 하기!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째는 </문법_맞춤법>양치질 꼼꼼히 잘 하기!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침 먹고 1번 점심 먹고1번 저녁 먹고 1번 양치는 꼭 3번씩 밥을 먹고 양치질을 해야 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아침먹고</문법_맞춤법> 1번 점심먹고1번 저녁먹고1번 양치는 꼭 3번씩 밥을 먹고 양치질을을 해야됨니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사실은 국민들이 3번을 다 하진 못하니까 속상하긴 한데도 코로나 때문에 양치질을 못해서 아쉽습니다",
+      "sentence_corr_reason": [
+        "",
+        "어디서 못하나?"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "사실은 국민들이 3번을 다 하진 <문법_맞춤법>못하닌까</문법_맞춤법> 속상하긴 한데도 코로나 때메 양치질을 못해서 아쉽습니다",
+      "sentence_corr_txt_styling": "사실은 국민들이 3번을 다 하진 못하니까 속상하긴 한데도 코로나 때문에 양치질을 못해서 아쉽습니다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2일에 한번 1일에 1번 씻는 사람들도 있지만 하루에 한 번씩 씻는 게 위생을 더욱더 지켜줍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 2일에 한번 1일에 1번 씻는 사람들도 있지만 하루에 <문법_맞춤법>한번씩</문법_맞춤법> 씻는게 위생을 더욱더 지켜줍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 추운날에는 2일에 1번을 씻고 땀이 많이 났을 땐 하루에 한번 씻어주는 게 좋고 위생을 지켜 줍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 추운날에는 2일에 1번을 씻고 땀이 많이 <문법_맞춤법>났을땐</문법_맞춤법> 하루에 한번 씻어주는게좋고 위생을 지켜 준다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위생에 대해 더 잘 알아서 아프지 않게 손을 잘 씻고 몸도 깨끗이 씻을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 위생에 대해 더 <문법_맞춤법>잘알아서 </문법_맞춤법>아프지 않게 손을 잘 씻고 몸도 깨끗이 씻을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42361",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 544,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

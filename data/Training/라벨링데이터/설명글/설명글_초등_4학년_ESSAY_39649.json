@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 학교에서 공부를 약 4시간 정도 합니다.#@문장구분# 그리고, 나머지 활동 시간은 9시간 정도 됩니다.#@문장구분# 여가활동은 요리, 음악활동, 영상편집, 독서,악기등을 합니다.#@문장구분# 그것은 시간을 합치면 약４시간 정도 됩니다.#@문장구분# 저의 꿈을 위해 더욱더 열심히 노력하겠습니다.#@문장구분# 수업시간에 지금보다 더욱 열심히 하겠습니다.#@문장구분# 그리고, 여가활을 조금더 의미있는 것으로 하겠습니다.#@문장구분# 그리고, 힘들더라도 열심히 더욱 노력하고 운동을 열심히 하겠습니다.#@문장구분# 편집시간을 줄이고, 더의미있는 것을 찾아 더,더 하겠습니다.#@문장구분# 독서는 더욱 많이 읽고, 부모님을 지금보다 더 도와드리고, 지금보다 동생들에게 잘 하고, 지금보다 더 나은 #@이름#이가 되겠습니다.#@문장구분#",
+      "paragraph_len": 554,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      18.733334,
+      20.333334
+    ],
+    "essay_scoreT_avg": 20.066668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 여가활동은 <스타일링_패러프레이징>요리, 음악활동, 영상편집, 독서,악기등을 합니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 여가활동은 요리, 음악 활동, 영상 편집, 독서, 악기 연주 등을 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그것은 시간을 합치면 약４시간 정도 됩니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 그런 시간을 합치면 약 4시간 정도 됩니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그리고, 여가활을 조금더 의미있는 것으로 하겠습니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 그리고 여가 시간을 조금 더 의미있게 보내겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그리고, 힘들더라도 열심히 더욱 노력하고 운동을 열심히 하겠습니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 힘들더라도 열심히 노력하고 운동도 열심히 하겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>편집시간을 줄이고, 더의미있는 것을 찾아 더,더 하겠습니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 편집 시간을 줄이고, 더 의미있는 것을 찾아 더 열심히 하겠습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39649",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 339,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

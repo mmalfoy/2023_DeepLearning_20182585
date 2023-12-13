@@ -1,0 +1,216 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서는 많은 과목을 배웁니다.#@문장구분# 수학, 과학, 체육, 미술, 음악 등을 배우죠 하지만 나는 예체능을 참 좋아합니다.#@문장구분# 예체능엔 음악, 체육, 미술 등 과목이 참 재미있습니다. #@문장구분#외냐하면 미술은 만들기나 그림 그리는게 좋고 음악은 악기연주 하는게 좋고 체육은 활동 하는게 좋습니다.#@문장구분# 그리고 내가 가장 싫어하는 과목은 수학, 과학, 사회, 국어, 실과, 등이 있지만 그중에서 가장 기본적인 수학과 국어를 제일 싫어한다.#@문장구분# 수학은 계산하는게 너무 싫고 국어는 글쓰기와 읽는게 너무 싫다.#@문장구분# 근데 또 나이가 점점 좋아하는 과목과 싫어하는 과목도 바뀔 것 같다.#@문장구분# 앞으로 중학생이 되고 고등학생이 되고 대학생이 되려면 공부를 잘 해야 하기 때문에 어쩔 수 없이 싫어하는 과목도 열심히 해야 할 것 같다.",
+      "paragraph_len": 524,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.714287,
+      21.6,
+      21.933334
+    ],
+    "essay_scoreT_avg": 23.749207,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 미술은 만들기나 그림 그리는 게 좋고 음악은 악기 연주하는 게 좋고 체육은 활동하는 게 좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>외냐하면</문법_맞춤법> 미술은 만들기나 그림 그리는게 좋고 음악은 악기연주 하는게 좋고 체육은 활동 하는게 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수학은 계산하는 게 너무 싫고 국어는 글쓰기와 읽는 게 너무 싫다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 수학은 <문법_맞춤법>계산하는게</문법_맞춤법> 너무 싫고 국어는 글쓰기와 읽는게 너무 싫다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 학년이 올라가면 올라갈수록 좋아하는 과목과 싫어하는 과목이 바뀔 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>근데 또 나이가 점점 좋아하는 과목과 싫어하는 과목도 바뀔 것 같다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로 중학생이 되고 고등학생이 되고 대학생이 되려면 공부를 잘해야 하기 때문에 어쩔 수 없이 싫어하는 과목도 열심히 해야 할 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 앞으로 중학생이 되고 고등학생이 되고 대학생이 되려면 공부를 <문법_맞춤법>잘 해야</문법_맞춤법> 하기 때문에 어쩔 수 없이 싫어하는 과목도 열심히 해야 할 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_54913",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 385,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

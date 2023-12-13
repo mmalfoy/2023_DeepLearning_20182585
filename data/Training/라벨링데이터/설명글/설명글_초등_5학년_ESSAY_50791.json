@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 사진을 찍어서 남들에게 공유하는것입니다.#@문장구분# 왜냐하면 여러가지 사진을 찍어 남들에게 보여줄때 신기해하고 좋아하는 남들의 미소를 볼때면 저도 저절로 웃음이 나오기 때문입니다.#@문장구분# 그래서 저는 나중에 만약 이쁜 풍경사진 찍기 대회가 있다면 저는 참가해서 1등을 하고싶습니다#@문장구분#그리고 저는 나중에 아이들과 함께 풍경, 등 여러가지 사진을 찍어 함께 보며 웃고 싶다는 생각도 했습니다.#@문장구분# 저는 아직 사진을 잘 못찍지만 그래도 사진찍는 연습을 하면 나중엔 예쁜 사진을 잘 찍는 멋진 사진작가가 되고 싶습니다!#@문장구분# 그리고 나중에 옛날에 찍었던 사진을 보면 추억이 사진이 될수 있기 때문입니다.",
+      "paragraph_len": 423,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.066666,
+      20.333334,
+      27.380953
+    ],
+    "essay_scoreT_avg": 25.260317,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 취미는 사진을 찍어서 남들에게 공유하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 취미는 사진을 찍어서 남들에게 <문법_맞춤법>공유하는것입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 여러 가지 사진을 찍어 남들에게 보여줄 때 신기해하고 좋아하는 남들의 미소를 볼 때면 저도 저절로 웃음이 나오기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>여러가지 사진을 찍어 남들에게 보여줄때 신기해하고 좋아하는 남들의 미소를 볼때면</문법_맞춤법> 저도 저절로 웃음이 나오기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 나중에 만약 이쁜 풍경 사진 찍기 대회가 있다면 저는 참가해서 1등을 하고 싶습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 나중에 만약 이쁜 <문법_맞춤법>풍경사진 찍기 대회가 있다면 저는 참가해서 1등을 하고싶습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 저는 나중에 아이들과 함께 풍경, 등 여러 가지 사진을 찍어 함께 보며 웃고 싶다는 생각도 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 저는 나중에 아이들과 함께 풍경, 등 <문법_맞춤법>여러가지</문법_맞춤법> 사진을 찍어 함께 보며 웃고 싶다는 생각도 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 아직 사진을 잘 못 찍지만 그래도 사진 찍는 연습을 하면 나중엔 예쁜 사진을 잘 찍는 멋진 사진작가가 되고 싶습니다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 아직 사진을 잘 <문법_맞춤법>못찍지만 그래도 사진찍는 </문법_맞춤법>연습을 하면 나중엔 예쁜 사진을 잘 찍는 멋진 사진작가가 되고 싶습니다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나중에 옛날에 찍었던 사진을 보면 추억이 사진이 될 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 나중에 옛날에 찍었던 사진을 보면 추억이 사진이<문법_맞춤법> 될수</문법_맞춤법> 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50791",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 323,
+    "essay_main_subject": "나의 취미"
+  }
+}

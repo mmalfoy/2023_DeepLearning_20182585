@@ -1,0 +1,219 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 진정한 친구란, 나를 이해해주고 위로해주며 비밀도 서슴없이 말해줄 수 있는 사람이라고 생각한다.#@문장구분# 내가 힘든 일이 있거나 슬픈 일이 있을 때 나를 위해 울어주고, 위로해 주며 같이 공감해 주고 슬퍼해 주며, 행복하거나 기쁜 일이 있을 때는 같이 웃어주고 기뻐해 주며, 필요할 때가 아니더라도 항상 말걸어 주고 챙겨주고 도와주고 서로 의지가 될 수 있는 것이 진정한 친구라고 생각한다. #@문장구분#또 같이 이야기하고 놀며 친밀감을 쌓고, 나중에는 비밀까지 말해줄 수 있는 돈독한 사이도 될 수 있는게 친구사이이다.#@문장구분#\n 나와 성격이 같거나 나와 잘맞는 친구를 사귄다면 더 깊고 오래 우정을 쌓을 수 있을 것이다.#@문장구분#\n 나는 친구들에게 공감을 잘해주고, 이야기를 잘들어주며 위로를 잘하는 친구가 되고 싶다.#@문장구분# 친구들에게 나는 어떤 친구일지는 예상이 가진 않지만, 내가 되고 싶은 친구의 모습을 이루려고 노력할 것이다.#@문장구분#",
+      "paragraph_len": 571,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      23.1,
+      21.6
+    ],
+    "essay_scoreT_avg": 23.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.11",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "또 같이 이야기하고 놀며 친밀감을 쌓고, 나중에는 비밀까지 말해줄 수 있는 돈독한 사이도 될 수 있는 것이 친구 사이이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": "또 같이 이야기하고 놀며 친밀감을 쌓고, 나중에는 비밀까지 말해줄 수 있는 돈독한 사이도 될 수 <스타일링_패러프레이징>있는게 </스타일링_패러프레이징><문법_맞춤법>친구사이이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "또 같이 이야기하고 놀며 친밀감을 쌓고, 나중에는 비밀까지 말해줄 수 있는 돈독한 사이도 될 수 있는 것이 친구 사이이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 나와 성격이 같거나 나와 잘 맞는 친구를 사귄다면 더 깊고 오래 우정을 쌓을 수 있을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 나와 성격이 같거나 나와 <문법_맞춤법>잘맞는 </문법_맞춤법>친구를 사귄다면 더 깊고 오래 우정을 쌓을 수 있을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 나는 친구들에게 공감을 잘해주고, 이야기를 잘 들어주며 위로를 잘 해주는 친구가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 나는 친구들에게 공감을 잘해주고, 이야기를 <문법_맞춤법>잘들어주며 </문법_맞춤법><스타일링_패러프레이징>위로를 잘하는 </스타일링_패러프레이징>친구가 되고 싶다.",
+      "sentence_corr_txt_styling": "\n 나는 친구들에게 공감을 잘해주고, 이야기를 잘 들어주며 위로를 잘 해주는 친구가 되고 싶다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 친구들에게<스타일링_패러프레이징> 나는 어떤 친구일지는 </스타일링_패러프레이징>예상이 가진 않지만, 내가 되고 싶은 친구의 모습을 이루려고 노력할 것이다.",
+      "sentence_corr_txt_styling": " 친구들에게 내가 어떤 친구일지 예상이 가진 않지만, 내가 되고 싶은 친구의 모습을 이루려고 노력할 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39931",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 451,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

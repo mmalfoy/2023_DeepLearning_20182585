@@ -1,0 +1,334 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "스승하면 생각나는 한분이 계시다.#@문장구분# 내가 초등학교4학년때 담임선생님이셨던 그분에 대해 이야기 하려고 한다.#@문장구분#그분은 남자 선생님으로 젊고 학생들에게 인기가 많으셨다.#@문장구분#\n 선생님께서는 강원도에있는 작은학교에서 근무를 하시다가 오셔서 가끔 그곳 이야기를 자주 해 주셨다.#@문장구분#\n 선생님께서는 취미로 사진을 찍으시는데 학교에서 행사를 할때 각각의 아이들을 찍으시고, 잘나온사진은 인화도해서 선물로 주셨다. #@문장구분#그렇게 선생님께서는 아이들을 사랑하시고 아껴주셨다.#@문장구분#\n 하루는 선생님께서 강원도에있는 학생과 자매결연을 맺어보는게 어떠냐고 물어보셔서 흥쾌히 좋다고 했다.#@문장구분#\n 주말에 선생님과 나그리고 내동생 이렇게 셋이 강원도로가서 그곳에사는 나보다 한학년높은 언니를 만났다.#@문장구분#\n 그리고 언니네 집에가서 맛있는것도 먹고 태어나 처음으로 경운기도 탔다.#@문장구분#한번은 가족들과 선생님과 함께 강원도에 자매결연을 맺은 언니네와 강가로 여행을 간적이있는데 밤에 선생님께서 별자리를 알려주신게 기억이 난다.#@문장구분#\n 지금까지 만난 선생님들 중에 제자들의 이야기를 귀기울여 들어주시고 공감해 주신분은 그분이 처음인거같다.#@문장구분#\n 나중에 커서 나도 그 선생님과같은 좋은 선생님이 되고싶다.#@문장구분#",
+      "paragraph_len": 812,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      30,
+      24
+    ],
+    "essay_scoreT_avg": 25.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "스승하면 생각나는 한 분이 계시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "스승하면 생각나는 <문법_맞춤법>한분이</문법_맞춤법> 계시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 초등학교 4학년 때 담임선생님이셨던 그분에 대해 이야기하려고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 <문법_맞춤법>초등학교4학년때</문법_맞춤법> 담임선생님이셨던 그분에 대해 이야기 하려고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 선생님께서는 강원도에 있는 작은 학교에서 근무를 하시다가 오셔서 가끔 그곳 이야기를 자주 해주셨다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n 선생님께서는 <문법_맞춤법>강원도에있는 작은학교에서</문법_맞춤법> 근무를 하시다가 오셔서 가끔 그곳 이야기를 자주 해 주셨다.",
+      "sentence_corr_txt_styling": "\n 선생님께서는 강원도에 있는 작은 학교에서 근무를 하시다가 오셔서 가끔 그곳 이야기를 자주 해주셨다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 선생님께서는 취미로 사진을 찍으시는데 학교에서 행사를 할 때 각각의 아이들을 찍으시고, 잘 나온 사진은 인화도 해서 선물로 주셨다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n 선생님께서는 취미로 사진을 찍으시는데 학교에서 행사를 <문법_맞춤법>할때</문법_맞춤법> 각각의 아이들을 찍으시고, 잘나온사진은 인화도해서 선물로 주셨다. ",
+      "sentence_corr_txt_styling": "\n 선생님께서는 취미로 사진을 찍으시는데 학교에서 행사를 할 때 각각의 아이들을 찍으시고, 잘 나온 사진은 인화도 해서 선물로 주셨다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇게 선생님께서는 아이들을 사랑하시고 아껴 주셨다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇게 선생님께서는 아이들을 사랑하시고 <문법_맞춤법>아껴주셨다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 하루는 선생님께서 강원도에 있는 학생과 자매 결연을 맺어보는게 어떠냐고 물어보셔서 흔쾌히 좋다고 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 하루는 선생님께서<문법_맞춤법> 강원도에있는 학생과 자매결연을 맺어보는게</문법_맞춤법> 어떠냐고 물어보셔서 흥쾌히 좋다고 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 주말에 선생님과 나 그리고 내 동생 이렇게 셋이 강원도로 가서 그곳에 사는 나보다 한 학년 높은 언니를 만났다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 주말에 선생님과 <문법_맞춤법>나그리고 내동생</문법_맞춤법> 이렇게 셋이 강원도로가서 그곳에사는 나보다 한학년높은 언니를 만났다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 언니네 집에 가서 맛있는 것도 먹고 태어나 처음으로 경운기도 탔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 언니네 <문법_맞춤법>집에가서 맛있는것도</문법_맞춤법> 먹고 태어나 처음으로 경운기도 탔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "한 번은 가족들과 선생님과 함께 강원도에 자매결연을 맺은 언니네와 강가로 여행을 간 적이 있는데 밤에 선생님께서 별자리를 알려주신 게 기억이 난다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "한번은 가족들과 선생님과 함께 강원도에 자매결연을 맺은 언니네와 강가로 여행을 <문법_맞춤법>간적이있는데</문법_맞춤법> 밤에 선생님께서 별자리를 알려주신게 기억이 난다.",
+      "sentence_corr_txt_styling": "한 번은 가족들과 선생님과 함께 강원도에 자매결연을 맺은 언니네와 강가로 여행을 간 적이 있는데 밤에 선생님께서 별자리를 알려주신 게 기억이 난다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 지금까지 만난 선생님들 중에 제자들의 이야기를 귀 기울여 들어 주시고 공감해 주신분은 그분이 처음인 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 지금까지 만난 선생님들 중에 제자들의 이야기를 <문법_맞춤법>귀기울여 들어주시고</문법_맞춤법> 공감해 주신분은 그분이 처음인거같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 나중에 커서 나도 그 선생님과 같은 좋은 선생님이 되고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 나중에 커서 나도 그 <문법_맞춤법>선생님과같은 좋은 선생님이 되고싶다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36261",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 575,
+    "essay_main_subject": "참된 스승"
+  }
+}

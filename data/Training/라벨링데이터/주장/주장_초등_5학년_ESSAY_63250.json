@@ -1,0 +1,264 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미디어가 너무 빠르게 발전하고 있는것 같습니다.#@문장구분# 앞으로 또 얼마나 많이 발전하게 될지 상상이 안갑니다. #@문장구분#지금은 상상못할 기적같은 일들이 일어나게 되겠지요. #@문장구분#우리도 그거에 맞게 대처해나가야 이세상에서 살아 남을수 있을 것입니다. #@문장구분#미디어의 활용을 아직 못하고 있는 사람들이 더 많이 있지요.#@문장구분# \n 그러나, 이런 미디어의 틈을 타서 미디어를 악용하는 사람들이 많습니다.#@문장구분# 그리고, 옳지않는 정보들이 빠르게 퍼져 나가 상처입는 사람들도 매우 많습니다.#@문장구분# 그런데, 아직까지 그런 피해에 대한 대책도 없는것 같고, 막을길도 없는 것 같습니다. #@문장구분#그러니, 한편에서는 엄청난 피해로 인해 살길조차 막막해진 사람도 있는 것이지요.#@문장구분# 또 다른 한편에서는 미디어 없으면 모든것이 멈추게 되는 경우도 있습니다. #@문장구분#그래서 결국 미디어 발전을 제한할수도 없고 또 무방비 상태로 모든 미디어의 발전을 다 허용해서는 안된다고 생각 합니다. #@문장구분#철저하게 인권을 보호하고 악용하는 이들을 처벌해야 된다고 생각합니다.",
+      "paragraph_len": 706,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3809524,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.864285,
+      25.514286,
+      21.95
+    ],
+    "essay_scoreT_avg": 24.109522,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.10",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "미디어 발전과 사용방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미디어가 너무 빠르게 발전하고 있는 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미디어가 너무 빠르게 발전하고 <문법_맞춤법>있는것 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지금은 상상 못 할 기적 같은 일들이 일어나게 되겠지요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금은 상상못할 <문법_맞춤법>기적같은 </문법_맞춤법>일들이 일어나게 되겠지요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리도 그거에 맞게 대처해나가야 이 세상에서 살아 남을 수 있을 것입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리도 그거에 맞게 대처해나가야 <문법_맞춤법>이세상에서 </문법_맞춤법>살아 남을수 있을 것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고, 옳지 않은 정보들이 빠르게 퍼져 나가 상처입는 사람들도 매우 많습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그리고, <문법_맞춤법><문법_어미>옳지않는 </문법_어미></문법_맞춤법>정보들이 빠르게 퍼져 나가 상처입는 사람들도 매우 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데, 아직까지 그런 피해에 대한 대책도 없는 것 같고, 막을 길도 없는 것 같습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데, 아직까지 그런 피해에 대한 대책도 <문법_맞춤법>없는것 </문법_맞춤법>같고, 막을길도 없는 것 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 다른 한편에서는 미디어 없으면 모든 것이 멈추게 되는 경우도 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 다른 한편에서는 미디어 없으면 <문법_맞춤법>모든것이 </문법_맞춤법>멈추게 되는 경우도 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 결국 미디어 발전을 제한할 수도 없고 또 무방비 상태로 모든 미디어의 발전을 다 허용해서는 안 된다고 생각합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 결국 미디어 발전을 <문법_맞춤법>제한할수도 </문법_맞춤법>없고 또 무방비 상태로 모든 미디어의 발전을 다 허용해서는 안된다고 생각 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63250",
+    "essay_prompt": " 미디어는 우리 주변에서 쉽게 찾아볼 수 있습니다. 그중 텔레비전과 라디오, 컴퓨터, 스마트폰 등이 대표적인 미디어라고 할 수 있지요. 사람들은 이 미디어를 이용해 자신의 의사나 감정, 또는 정보를 주고받습니다.\n\n 과거에는 생각이나 뜻을 전하기 위해 말을 이용해 전달해야 했지만, 지금은 SNS(페이스북, 카카오톡 등)를 통해 실시간으로 대화하며 화상 채팅을 무료로 즐기는 시대가 되었습니다. 여러분도 가족/친구들과 SNS를 통해 많은 소통을 하고 계시지요?\n\n 이러한 미디어는 매우 빠른 속도로 진화를 거듭하고 있어요. 앞으로도 더욱 우리 생활 깊숙이 파고들 것입니다.\n\n 다만, 미디어의 발전은 수많은 문제의 원인이 되기도 해요. 다른 사람의 얼굴을 SNS에 올리거나 악플로 남에게 상처 되는 말을 하기도 하지요. 또한, 틀린 정보가 빠르게 퍼져 나가 사람들에게 해를 끼치기도 한답니다.\n\n 이렇게 빠르게 변화하는 미디어의 발 전속에서 우리는 어떻게 미디어를 사용해야 할까요?\n\n 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 할까요? 아니면 새로운 시대에 맞게 모든 자유를 보장해야 할까요? 그 사이에 적절한 사용 방법이 있을까요? 여러분의 의견과 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 488,
+    "essay_main_subject": "미디어 발전과 사용방법"
+  }
+}

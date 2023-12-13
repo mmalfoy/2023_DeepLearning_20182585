@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 1시간동안 여가활동을 하고 3시간30분동안 학습활동을 하고 있습니다.#@문장구분# 저는 여가활동으로 미미인형놀이를 합니다.#@문장구분# 저는 학습활동을할때 집중을 너무않해서 집중을해야합니다.#@문장구분# 또 여가활동을할때 인형과인형옷을 사느라 돈을 너무쓰고 또 한번하면 너무 집중을해서 시간을 너무 씁니다.#@문장구분# 또 인형놀이를 한곳에 몰아두고 놀이응하는데 그것 때문에 자리를 너무 차지합니다.#@문장구분# 그래서 학습활동을 할때는 정신을 바짝차려서 집중을해서 학습활동을하고 여가활동을 할때에는 인형이나옷은....되도록이면 사지않고 작아진 낡은 옷이나양말로 만들고 한곳에 몰아두지 않고 놀고치우고를 반복하고 또 시간은 딱 몇시부터몇시까지 한다고 시간을 정해놓고 놀겠습니다.#@문장구분# 저는 이약속을 꼭 지키겠습니다.#@문장구분#",
+      "paragraph_len": 505,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      21.133335,
+      18.285713
+    ],
+    "essay_scoreT_avg": 20.184128,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 1시간 동안 여가 활동을 하고 3시간 30분 동안 학습 활동을 하고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>1시간동안</문법_맞춤법> 여가활동을 하고 3시간30분동안 학습활동을 하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 여가 활동으로 미미 인형 놀이를 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>여가활동으로 </문법_맞춤법>미미인형놀이를 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 학습 활동을 할 때 집중을 너무 안해서 집중을 해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>학습활동을할때 </문법_맞춤법>집중을 너무않해서 집중을해야합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 여가 활동을 할 때 인형과 인형 옷을 사느라 돈을 너무 쓰고 또 한번 하면 너무 집중을 해서 시간을 너무 씁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 또 <문법_맞춤법>여가활동을할때 </문법_맞춤법>인형과인형옷을 사느라 돈을 너무쓰고 또 한번하면 너무 집중을해서 시간을 너무 씁니다.",
+      "sentence_corr_txt_styling": " 또 여가 활동을 할 때 인형과 인형 옷을 사느라 돈을 너무 쓰고 또 한번 하면 너무 집중을 해서 시간을 너무 씁니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 인형놀이를 한 곳에 몰아 두고 놀이를 하는데 그것 때문에 자리를 너무 차지합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 또 인형놀이를 <문법_맞춤법>한곳에 </문법_맞춤법>몰아두고 <문법_조사>놀이응하는데 </문법_조사>그것 때문에 자리를 너무 차지합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 학습 활동을 할 때는 정신을 바짝 차려서 집중을 해서 학습 활동을 하고 여가 활동을 할 때에는 인형이나 옷은....되도록이면 사지 않고 작아진 낡은 옷이나 양말로 만들고 한 곳에 몰아 두지 않고 놀고 치우고를 반복하고 또 시간은 딱 몇 시부터 몇 시까지 한다고 시간을 정해 놓고 놀겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>학습활동을 </문법_맞춤법>할때는 정신을 바짝차려서 집중을해서 학습활동을하고 여가활동을 할때에는 인형이나옷은....되도록이면 사지않고 작아진 낡은 옷이나양말로 만들고 한곳에 몰아두지 않고 놀고치우고를 반복하고 또 시간은 딱 몇시부터몇시까지 한다고 시간을 정해놓고 놀겠습니다.",
+      "sentence_corr_txt_styling": " 그래서 학습 활동을 할 때는 정신을 바짝 차려서 집중을 해서 학습 활동을 하고 여가 활동을 할 때에는 인형이나 옷은....되도록이면 사지 않고 작아진 낡은 옷이나 양말로 만들고 한 곳에 몰아 두지 않고 놀고 치우고를 반복하고 또 시간은 딱 몇 시부터 몇 시까지 한다고 시간을 정해 놓고 놀겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이 약속을 꼭 지키겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>이약속을 </문법_맞춤법>꼭 지키겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47600",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 365,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

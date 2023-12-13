@@ -1,0 +1,220 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 모든 선생님들께서 참된 스승이시라고 생각한다.#@문장구분# 학교 선생님, 학원 선생님 등 무언가를 가르쳐주시는 분들 모두가 참된 스승이다.#@문장구분# 왜냐하면 많은 시간동안 무언가를 우리에게 가르쳐주기 위해서 열심히 노력하시는 선생님들 모습을 보면서 이미 참된 스승이시다고 생각한다.#@문장구분# 아무것도 모르는 우리들에게 1부터 10까지를 가르쳐 주신다. #@문장구분#배우는 것도 쉽지 않은데 가르치는 것도 쉬운 일이 아닐 것이다. #@문장구분#내가 무언가를 배우고 있는데 잘 모르겠다는 모습을 보이면 친절히 다시 알려주신다.#@문장구분# 그래서 나는 참된 스승이 되기 위한 요소 중에서 제자를 사랑하는 마음이 있어야 한다고 본다.#@문장구분# 정말 말을 안 듣는 아이들이 있으면 포기하면 된다.#@문장구분# 하지만 포기하지 않고 계속 용기를 주고 할 수 있다고 응원해주는 선생님들이 참된 스승인 것 같다.#@문장구분#",
+      "paragraph_len": 580,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.05,
+      22.55,
+      19.75
+    ],
+    "essay_scoreT_avg": 21.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 학교 선생님, 학원 선생님 등 무언가를 가르쳐 주시는 분들 모두가 참된 스승이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교 선생님, 학원 선생님 등 무언가를 <문법_맞춤법>가르쳐주시는</문법_맞춤법> 분들 모두가 참된 스승이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 많은 시간 동안 무언가를 우리에게 가르쳐주기 위해서 열심히 노력하시는 선생님들 모습을 보면서 이미 참된 스승이시다고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 많은 <문법_맞춤법>시간동안</문법_맞춤법> 무언가를 우리에게 가르쳐주기 위해서 열심히 노력하시는 선생님들 모습을 보면서 이미 참된 스승이시다고 생각한다.",
+      "sentence_corr_txt_styling": " 왜냐하면 많은 시간 동안 무언가를 우리에게 가르쳐주기 위해서 열심히 노력하시는 선생님들 모습을 보면서 이미 참된 스승이시다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무것도 모르는 우리들에게 1부터 10까지 가르쳐 주신다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 아무것도 모르는 우리들에게 1부터 <문법_조사>10까지를</문법_조사> 가르쳐 주신다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 말을 안 듣는 아이들이 있으면 포기하게 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 정말 말을 안 듣는 아이들이 있으면 <문법_어미>포기하면</문법_어미> 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75746",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 401,
+    "essay_main_subject": "참된 스승"
+  }
+}

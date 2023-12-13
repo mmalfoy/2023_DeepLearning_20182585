@@ -1,0 +1,353 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "은근방더울때에어컨틀고누워있다잘수도있고 추울때는히터키고누워있을수있는취미입니다#@문장구분#\n지금부터취미설명하기를시작하겠습니다.#@문장구분# 자 일단취미첮번째게임하기이취미는게임을하여 스트레스를풀수있습니다.#@문장구분# 두번째취미는텔레비전보기입니다#@문장구분#이텔레비전보기취미도게임하기취미와같이수트레스를풀수있습니다.#@문장구분# 게임하기취미와텔레비전보기취미는스트레스도풀 수있지만. 심심할때보면심심하지않고재미있습니다.#@문장구분# 세번째취미집에서뒹굴거리기입니다. #@문장구분#이취미는놀기도싫고게임도싫고텔레비전보기도싫을때가만히뒹굴거리면서누워있거나않자있으면서뒹굴거리는것입니다.#@문장구분# 4. 네번째 취미잠을자기이취미는뒹굴뒹굴거리기취미와 같이 텔레비전보기게임하기싫고놀기도싫을때 가만히지금가만히있어도더격하게가만히있고 싶다할때잠을자기취미를하는것입니다.#@문장구분# 5. 다섯번째취미멍때리기이취미는뒹굴뒹굴거리기취미와잠을엄청나게많이자는잠자기취미와 똑같이게임하기싫고텔레비전보기싫고친구들과놀거나게임하면서놀기나형이랑놀기싫고동생이랑노는게귀찮을때하는취미입니다.#@문장구분# 6. 6번째취미누워있기이취미는뒹굴거리기취미와잠자기취미와똑같이게임하기싫고텔레비전보기싫고친구랑밖에세놀기싫고친구랑게임하면서놀기싫고형이랑놀귀찮고동생이랑놀아주기싫을때하는취미입니다.#@문장구분#이취미의좋은점#@문장구분#",
+      "paragraph_len": 802,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.333332,
+      21.6,
+      20.333334
+    ],
+    "essay_scoreT_avg": 20.08889,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.13",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "은근 방더울 때 에어컨 틀고 누워 있다 잘 수 도있고 추울 때는 히터 키고 누워있을 수 있는 취미 입니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>은근방더울때에어컨틀고누워있다잘수도있고</문법_맞춤법> 추울때는히터키고누워있을수있는취미입니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n지금부터 취미 설명하기를 시작 하겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>지금부터취미설명하기를시작하겠습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자 일단 취미 첫 번째 게임하기 이 취미는 게임을 하여 스트레스를 풀수 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법,띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자 <문법_맞춤법>일단취미첮번째게임하기이취미는게임을하여 스트레스를풀수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째 취미는 텔레비전 보기 입니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째취미는텔레비전보기입니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 텔레비전 보기 취미도 게임 하기 취미와 같이 스트레스를 풀 수 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법,띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이텔레비전보기취미도게임하기취미와같이수트레스를풀수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임하기 취미와 텔레비전 보기 취미는 스트레스도 풀 수 있지만.  심심할때 보면 심심하지 않고 재미 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법,띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>게임하기취미와텔레비전보기취미는스트레스도풀 수있지만. 심심할때보면심심하지않고재미있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째 취미 집에서 뒹굴거리기 입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째취미집에서뒹굴거리기입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 취미는 놀기도 싫고 게임도 싫고 텔레비전 보기도 싫을 때 가만히 뒹굴거리면서 누워 있거나 않자 있으면서 뒹굴거리는 것 입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이취미는놀기도싫고게임도싫고텔레비전보기도싫을때가만히뒹굴거리면서누워있거나않자있으면서뒹굴거리는것입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 4. 네 번째 취미 잠을 자기 이 취미는 뒹굴뒹굴거리기 취미와  같이  텔레비전 보기 게임하기 싫고 놀기도 싫을 때 가만히 지금 가만히 있어도 더 격하게 가만히 있고 싶다할 때 잠을 자기 취미를 하는 것 입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 4. <문법_맞춤법>네번째 취미잠을자기이취미는뒹굴뒹굴거리기취미와 같이 텔레비전보기게임하기싫고놀기도싫을때 가만히지금가만히있어도더격하게가만히있고 싶다할때잠을자기취미를하는것입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 5. 다섯 번째 취미 멍 때리기 이 취미는 뒹굴뒹굴거리기 취미와 잠을 엄청나게 많이 자는 잠자기 취미와  똑같이 게임하기 싫고 텔레비전 보기 싫고 친구들과 놀거나 게임 하면서 놀기나 형 이랑 놀기 싫고 동생이랑 노는게 귀찮을 때 하는 취미 입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 5.<문법_맞춤법> 다섯번째취미멍때리기이취미는뒹굴뒹굴거리기취미와잠을엄청나게많이자는잠자기취미와 똑같이게임하기싫고텔레비전보기싫고친구들과놀거나게임하면서놀기나형이랑놀기싫고동생이랑노는게귀찮을때하는취미입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 6. 6번째 취미 누워있기 이 취미는 뒹굴거리기 취미와 잠자기 취미와 똑같이 게임하기 싫고 텔레비전보기 싫고 친구랑 밖 에세 놀기 싫고 친구랑 게임 하면서 놀기 싫고 형이랑 놀기 귀찮고 동생이랑 놀아 주기 싫을 때 하는 취미 입니다.",
+      "sentence_corr_reason": [
+        "맞춤법,띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 6. <문법_맞춤법>6번째취미누워있기이취미는뒹굴거리기취미와잠자기취미와똑같이게임하기싫고텔레비전보기싫고친구랑밖에세놀기싫고친구랑게임하면서놀기싫고형이랑놀귀찮고동생이랑놀아주기싫을때하는취미입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 취미의 좋은 점",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이취미의좋은점</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33201",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 563,
+    "essay_main_subject": "나의 취미"
+  }
+}

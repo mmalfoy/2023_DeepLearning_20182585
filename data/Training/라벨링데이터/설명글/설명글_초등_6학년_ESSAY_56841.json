@@ -1,0 +1,296 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 친구에 딱히 순위가 없습니다.#@문장구분# 저는 친구들에게 배려심이 많고 깊은 속마음을 얘기해줄수 있는 친구가 되고 싶습니다.#@문장구분#그리고 그런 친구가 있어도 좋을것 같습니다.#@문장구분#친구가 많은 것보단 진짜 진정한 친구가 한명만 있어도 좋을것 같습니다.#@문장구분#평소에 같이 놀다가 갑자기 배신하는 친구가 있으면 정말 속상할것 같습니다.#@문장구분#그래도 친구가 없으면 놀친구가 없어서 외로운데 친구가 있으면 재밌게 같이 일상을 공유할수 있을거 같아서 친구가 있으면 전체적으로 좋을거 같다.#@문장구분#친구와 함께 있으면 정말 많이 웃는거 같습니다.#@문장구분#어릴때부터 어른까지 함께하는 친구가 있으면 행복할것 같습니다.#@문장구분#어쨌거나 친구는 한명정도는 생겨두는게 좋을것 같습니다.#@문장구분#지금의 어릴적 친구와 나중에 커서 어떤관계가 될지 모르니깐요.",
+      "paragraph_len": 553,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.25,
+      21.6,
+      17.85
+    ],
+    "essay_scoreT_avg": 19.233332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 친구들에게 배려심이 많고 깊은 속마음을 얘기해줄 수 있는 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 친구들에게 배려심이 많고 깊은 속마음을 <문법_맞춤법>얘기해줄수 </문법_맞춤법>있는 친구가 되고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 그런 친구가 있어도 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 그런 친구가 있어도 <문법_맞춤법>좋을것 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구가 많은 것보단 진짜 진정한 친구가 한 명만 있어도 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구가 많은 것보단 진짜 진정한 친구가 <문법_맞춤법>한명만 </문법_맞춤법>있어도 좋을것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "평소에 같이 놀다가 갑자기 배신하는 친구가 있으면 정말 속상할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "평소에 같이 놀다가 갑자기 배신하는 친구가 있으면 정말 <문법_맞춤법>속상할것 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래도 친구가 없으면 놀 친구가 없어서 외로운데 친구가 있으면 재밌게 같이 일상을 공유할 수 있을 거 같아서 친구가 있으면 전체적으로 좋을 거 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래도 친구가 없으면 <문법_맞춤법>놀친구가 </문법_맞춤법>없어서 외로운데 친구가 있으면 재밌게 같이 일상을 공유할수 있을거 같아서 친구가 있으면 전체적으로 좋을거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구와 함께 있으면 정말 많이 웃는 거 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구와 함께 있으면 정말 많이 <문법_맞춤법>웃는거 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어릴 때부터 어른까지 함께하는 친구가 있으면 행복할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>어릴때부터 </문법_맞춤법>어른까지 함께하는 친구가 있으면 행복할것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어쨌거나 친구는 한 명 정도는 챙겨두는 게 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어쨌거나 친구는 <문법_맞춤법>한명정도는 </문법_맞춤법>생겨두는게 좋을것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지금의 어릴 적 친구와 나중에 커서 어떤 관계가 될지 모르니까요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "지금의 <문법_맞춤법>어릴적 </문법_맞춤법>친구와 나중에 커서 어떤관계가 될지 <문법_어미>모르니깐요.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56841",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 375,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

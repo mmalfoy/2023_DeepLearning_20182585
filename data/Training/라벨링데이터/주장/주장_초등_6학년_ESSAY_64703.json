@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘 문제가 되는 학교 폭력이 있습니다.#@문장구분# 폭력에도 언어폭력, 신체폭력, 사이버 폭력등이 있는데, 제가 생각하기에 더욱 심해지고 많아진 언어 폭력이 가장 심각하다 생각합니다.#@문장구분# 그리고 요즘 연령이 낮은 1~2학년도 욕이나 비속어를 쓰는 아이들이 많아졌다 느꼈고 언어폭력은 정신적인 피해를 입히기 때문에 위협적이다.#@문장구분# \n 첫째, 욕과 비속어에 대한 교육을 강화해야한다. #@문장구분#앞에서 말했 든 연령대가 낮은 아이들 중 욕을 하는 아이들이 늘고 있습니다.#@문장구분# 그래서 여섯살 적 버릇이 여든까지 간다는 속담이 있듯이 초기 교육으로 학교폭력을 예방할 수 있다 생각합니다.#@문장구분#\n 둘째, 처벌과 감시를 높여야 한다.#@문장구분# 깨진 유리창 법칙에 의하면 작은 문제가 점점 큰 문제로 번진다는 주장이 있습니다.#@문장구분#\n그래서 욕이나비속어를 쓰는 학생을 확실히 제재하여 괴로힘을 받는 학생들을 줄일 수 있다.#@문장구분# 욕이나비속어를 하면 초기에  제재하면 나중에의 학교폭력을 받는 학생을 줄여 행복한 학교를 만듭시다.",
+      "paragraph_len": 659,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.3,
+      22.966667,
+      22.077778
+    ],
+    "essay_scoreT_avg": 23.114815,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 폭력에도 언어폭력, 신체폭력, 사이버 폭력 등이 있는데, 제가 생각하기에 더욱 심해지고 많아진 언어폭력이 가장 심각하다 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 폭력에도 언어폭력, 신체폭력, 사이버 <문법_맞춤법>폭력등이</문법_맞춤법> 있는데, 제가 생각하기에 더욱 심해지고 많아진 언어 폭력이 가장 심각하다 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 요즘 연령이 낮은 1~2학년도 욕이나 비속어를 쓰는 아이들이 많아졌다 느꼈고 언어폭력은 정신적인 피해를 입히기 때문에 위협적입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 요즘 연령이 낮은 1~2학년도 욕이나 비속어를 쓰는 아이들이 많아졌다 느꼈고 언어폭력은 정신적인 피해를 입히기 때문에 <문법_높임법>위협적이다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 첫째, 욕과 비속어에 대한 교육을 강화해야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 첫째, 욕과 비속어에 대한 교육을 <문법_맞춤법>강화해야한다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그래서 욕이나 비속어를 쓰는 학생을 확실히 제재하여 괴롭힘을 받는 학생들을 줄일 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "\n그래서 <문법_맞춤법>욕이나비속어를</문법_맞춤법> 쓰는 학생을 확실히 제재하여 괴로힘을 받는 학생들을 줄일 수 <문법_높임법>있다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 욕이나 비속어를 하면 초기에  제재하면 나중에의 학교폭력을 받는 학생을 줄여 행복한 학교를 만듭시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>욕이나비속어를 </문법_맞춤법>하면 초기에  제재하면 나중에의 학교폭력을 받는 학생을 줄여 행복한 학교를 만듭시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64703",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 480,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

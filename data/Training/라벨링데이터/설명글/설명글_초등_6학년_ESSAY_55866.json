@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 영화를 보는 것을 아주 좋아합니다. #@문장구분#저는 그래서 존경하는 사람은 '봉준호 감독닙'입니다.#@문장구분# 영화 '기생충'을 감독하신 사람인데, 저는 그 분의 열정과 노력에 감동했고, 그 분이 받은 엄청난 상들과, 명성과 인기는 어떻게 보면 당연하다고도 할 수 있다고 생각합니다.#@문장구분# 저는 그 분이 기생충 영화를 만들기 위해 작성한 콘티를 본 적이 있습니다.#@문장구분# 그 작은 한칸한칸 마다 감독님의 고민과 열정이 다 담겨져있었습니다.#@문장구분# 저는 그것을 보고 \"나도 저렇게 좋아하는 일에 최선을 다하면서 인정받을 수 있는 사람이 되고싶다!\"라고 생각했습니다.#@문장구분# 저도 봉준호 감독님처럼 내가 좋아하는 영화를 직접 만들면서 사람들에게 영화를 통해 감동을 주는 사람이 되고싶다고 생각했습니다.#@문장구분# 영화는 2시간이라는 짧은 시간에 많은 내용을 담아내는 아주 큰 매력을 가지고 있습니다.#@문장구분# 저도 나의 영화를 언젠가 만들 수 있게 된다면, 봉준호 감독님들이 함께 일하시는 스테프 분들에게 배풀었던 관용을 본받아서나도 함께 일하는 사람들에게 좋은 대우를 해줄 것입니다.#@문장구분# 영화 산업에서 스태프의 일자리 질까지 성장시킨 봉중호감독님의 영향력을 본받고 싶습니다.",
+      "paragraph_len": 743,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      25.9,
+      28
+    ],
+    "essay_scoreT_avg": 26.766668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.10",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 작은 한 칸 한 칸마다 감독님의 고민과 열정이 다 담겨져 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 작은 <문법_맞춤법>한칸한칸 마다</문법_맞춤법> 감독님의 고민과 열정이 다 담겨져있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 그것을 보고 \"나도 저렇게 좋아하는 일에 최선을 다하면서 인정받을 수 있는 사람이 되고 싶다!\"라고 생각했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 그것을 보고 \"나도 저렇게 좋아하는 일에 최선을 다하면서 인정받을 수 있는 사람이 되고싶다!\"라고 생각했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 봉준호 감독님처럼 내가 좋아하는 영화를 직접 만들면서 사람들에게 영화를 통해 감동을 주는 사람이 되고 싶다고 생각했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저도 봉준호 감독님처럼 내가 좋아하는 영화를 직접 만들면서 사람들에게 영화를 통해 감동을 주는 사람이 <문법_맞춤법>되고싶다고</문법_맞춤법> 생각했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55866",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 565,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 표절 검사를 할 것은 게임이다.#@문장구분#왜냐하면 나는 게임하는 걸 좋아하기도 하고 게임 표절한거도 잘 알 수 있을 거라고 생각하기 때문이다.#@문장구분# 일단 게임을 표절 검사하려면 게임 캐릭터의 스킬이랑 게임 캐릭터 특징이랑 게임 맵이라고 생각한다.#@문장구분# 일단 게임 캐릭터 스킬은 게임마다 직업도 비슷할 수는 있어도 스킬까지 비슷한 수는 없다고 생각하기 때문이다.#@문장구분# 스킬 쓸게 효과같은 거도 달라야하고 스킬 쓸 때 나오는 효과같은거도 다 달라야하는데 스킬하는 행동도 똑같고 스킬 효과도 비슷하고 스킬 효과 색도 비슷하면 그건 표절로 보일 수 있다고 생각한다.#@문장구분# 그리고 게임 캐릭터 특징도 달라야한다고 생각한다.#@문장구분# 왜냐하면 게임 캐릭터 특징이 비슷하면 게임이 비슷해보이기 때문이다.#@문장구분# 게임 캐릭터가 비슷하면 게임이 비슷해보이기 때문에 표절이라고 할 수 있을 것 같다.#@문장구분# 그리고 게임 맵도 달라야한다.#@문장구분# 맵이 비슷하면 그 게임이랑 똑같이 보여서 표절이라고 생각할 수 있을 거라고 생각한다.#@문장구분# 나도 이제 표절에 대해 많이 알아봐야할 것 같다.#@문장구분#",
+      "paragraph_len": 726,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.2,
+          1.2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.4666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.6,
+      19.099998,
+      18.8
+    ],
+    "essay_scoreT_avg": 18.499998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 6,
+      "org_coherence": 3,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 3,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 3
+    },
+    "essay_main_subject": "표절을 해결할 수 있는 대안제시",
+    "expression_weight": {
+      "exp_style": 4,
+      "exp_grammar": 2,
+      "exp_vocab": 4,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 나는 게임 하는 걸 좋아하기도 하고 게임 표절한 거도 잘 알 수 있을 거라고 생각하기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 나는 <문법_맞춤법>게임하는</문법_맞춤법> 걸 좋아하기도 하고 게임 표절한거도 잘 알 수 있을 거라고 생각하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스킬 쓸게 효과 같은 거도 달라야 하고 스킬 쓸 때 나오는 효과 같은 거도 다 달라야 하는데 스킬 하는 행동도 똑같고 스킬 효과도 비슷하고 스킬 효과 색도 비슷하면 그건 표절로 보일 수 있다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스킬 쓸게 <문법_맞춤법>효과같은 </문법_맞춤법>거도 달라야하고 스킬 쓸 때 나오는 효과같은거도 다 달라야하는데 스킬하는 행동도 똑같고 스킬 효과도 비슷하고 스킬 효과 색도 비슷하면 그건 표절로 보일 수 있다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 게임 캐릭터 특징도 달라야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 게임 캐릭터 특징도 <문법_맞춤법>달라야한다고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 게임 캐릭터 특징이 비슷하면 게임이 비슷해 보이기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 게임 캐릭터 특징이 비슷하면 게임이 <문법_맞춤법>비슷해보이기</문법_맞춤법> 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 게임 맵도 달라야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 게임 맵도 <문법_맞춤법>달라야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 이제 표절에 대해 많이 알아봐야 할 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 이제 표절에 대해 많이 <문법_맞춤법>알아봐야할 것 같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_67432",
+    "essay_prompt": " 표절이란 다른 사람의 저작물의 일부 또는 전부를 몰래 따다 쓰는 행위입니다. 다른 사람이 창작한 저작물의 일부 또는 전부를 도용하여 사용하여 자신의 창작물인 것처럼 발표하는 것을 말합니다.\n\n 최근 창작물에 대한 표절 논란이 많아지고 있습니다. 음악의 멜로디를 그대로 사용한다든지 개발 아이디어를 그대로 베낀다든지 TV 예능의 아이디어를 이름만 바꾼 채 따라 하는 상황도 있습니다.\n\n 우리는 모든 분야의 표절 방지를 위해 다양한 기준들을 생성해야 할까요? 얼마나 정확하게 표절을 검사해야 할까요?\n\n 한쪽에서는 표절 검사를 너무 심하게 하는 것에 대한 우려를 표하는 단체도 있습니다. 기준이 너무 까다로워지면 창작의 영역까지 제한할 수 있다고 주장합니다.\n\n 여러분이 표절 검사위원이라면 어떤 기준을 만드실 것 같나요? \n\n 표절 검사를 할 분야를 정하고 검사항목 3가지를 작성해주세요. 그리고 검사항목을 선택한 이유와 검사항목에서 검사하고자 하는 것, 어떻게 검사할 것인지에 대해 작성해주세요. 분야는 게임, 논문, 책, 음악, 그림, TV 프로그램, 스포츠 등 마음껏 선택하셔도 됩니다.",
+    "essay_type": "대안제시",
+    "essay_level": "1",
+    "essay_len": 506,
+    "essay_main_subject": "표절을 해결할 수 있는 대안제시"
+  }
+}

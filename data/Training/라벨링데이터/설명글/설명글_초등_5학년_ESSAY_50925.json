@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 위생을 지킬려고 하루에 3번 3분 동안 양치를 꾸준히 하고 있고 매일 집에 돌아온 후와 더러운 물건을 만지고 난 후 비누로 손을 씻는다.#@문장구분# 발레 또는 현대무용 레슨이 끝나고 집에 돌아와서 손을 씻고 바로 씻고 나와서 옷을 입고 머리를 뜨거운 바람에 말린다.#@문장구분#\n 나는 위생을 더 지키기 위해서 밖에서 쓴 마스크는 버릴거고 손톱을 물어뜯는 습관을 고칠려고 노력도 할 것이다.#@문장구분# 그리고 머리를 감을 때 가끔까다가 머리가 잘 안 감겨져서 다시 감을 때가 있는데 그럴 일이 없도록 꼼꼼히 씻을 것이다.#@문장구분#\n 나의 몸에 세균이 있으면 병에 들수도 있으니까 위생 관리에 신경을 쓸것이고 약속을 지킬려고 할 것이다.#@문장구분# 그리고 되도록이면 여름에는 음식이 잘 상해서 병에 걸릴 수 도있기 때문에 잘 상하는 김밥이나 생으로 먹는 것들을 조심하며 세균이 몸속으로 들어가게 하지 않을 것이고 조심할 것이다.",
+      "paragraph_len": 535,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      27.714287,
+      26.114285
+    ],
+    "essay_scoreT_avg": 25.520636,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 위생을 지키려고 하루에 3번 3분 동안 양치를 꾸준히 하고 있고 매일 집에 돌아온 후와 더러운 물건을 만지고 난 후 비누로 손을 씻는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 위생을 <문법_맞춤법>지킬려고</문법_맞춤법> 하루에 3번 3분 동안 양치를 꾸준히 하고 있고 매일 집에 돌아온 후와 더러운 물건을 만지고 난 후 비누로 손을 씻는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 나는 위생을 더 지키기 위해서 밖에서 쓴 마스크는 버릴 거고 손톱을 물어뜯는 습관을 고치려고 노력도 할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 나는 위생을 더 지키기 위해서 밖에서 쓴 마스크는 <문법_맞춤법>버릴거고</문법_맞춤법> 손톱을 물어뜯는 습관을 고칠려고 노력도 할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 머리를 감을 때 가끔 가다가 머리가 잘 안 감겨져서 다시 감을 때가 있는데 그럴 일이 없도록 꼼꼼히 씻을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 머리를 감을 때<문법_맞춤법> 가끔까다가</문법_맞춤법> 머리가 잘 안 감겨져서 다시 감을 때가 있는데 그럴 일이 없도록 꼼꼼히 씻을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 나의 몸에 세균이 있으면 병에 들 수도 있으니까 위생 관리에 신경을 쓸 것이고 약속을 지키려고 할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 나의 몸에 세균이 있으면 병에 <문법_맞춤법>들수도 있으니까 위생 관리에 신경을 쓸것이고 약속을 지킬려고 할 </문법_맞춤법>것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 되도록이면 여름에는 음식이 잘 상해서 병에 걸릴 수 도 있기 때문에 잘 상하는 김밥이나 생으로 먹는 것들을 조심하며 세균이 몸속으로 들어가게 하지 않을 것이고 조심할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 되도록이면 여름에는 음식이 잘 상해서 병에 걸릴 수 <문법_맞춤법>도있기</문법_맞춤법> 때문에 잘 상하는 김밥이나 생으로 먹는 것들을 조심하며 세균이 몸속으로 들어가게 하지 않을 것이고 조심할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50925",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 436,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

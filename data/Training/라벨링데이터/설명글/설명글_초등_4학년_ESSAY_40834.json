@@ -1,0 +1,336 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 예절의 기준은 존댓밀이다.#@문장구분# 예를들어 처음만난 분에게 \"안녕,처음만나네\"는 아주 예절없고 내가 그보다 더 낮아진 느낌이 들어 아주 기분이 나쁘기 때문이다.#@문장구분# 또 대통령선거는 \"야,너네 나 안뽑으면 가만않둬\"이러면 뽑으려고 했던 사람도 뽑기 싫어지기 때문이다.#@문장구분# 나라도 그럴것 같다.#@문장구분# 높임말을 쓰면 좋은점 첫째 상대가 나를 낮게 보는것 같아보이지 않기 때문입니다.#@문장구분# 그냥 대충봐서는 별차이 없어보이지만 실째로 듣는 사람에게는 엄청난 차이가 있기 때문입니다.#@문장구분# 예절중 존댓말은 말을 잘못하면 인생을 망칠수 있는 엄청난것이다.#@문장구분# 우리집 가훈도 말과 관련됬다.#@문장구분# 말을 잘하자다.#@문장구분# 우리가 예절을 잘 지키면 행복한 지구를 만들수 있을것이다.#@문장구분#",
+      "paragraph_len": 553,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          1.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.114285,
+      21.314285,
+      30
+    ],
+    "essay_scoreT_avg": 25.809525,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 예절의 기준은 존댓말이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 예절의 기준은 <문법_맞춤법>존댓밀이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 처음 만난 분에게 \"안녕,처음만나네\"라는 말은 아주 예절없고 내가 그보다 더 낮아진 느낌이 들어서 아주 기분이 나쁘기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 예를들어 처음만난 분에게 \"안녕,처음만나네\"는 아주 예절없고 내가 그보다 더 낮아진 느낌이 들어 아주 기분이 나쁘기 때문이다.",
+      "sentence_corr_txt_styling": " 예를 들어 처음 만난 분에게 \"안녕,처음만나네\"라는 말은 아주 예절없고 내가 그보다 더 낮아진 느낌이 들어서 아주 기분이 나쁘기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 대통령선거는 \"야,너네 나 안 뽑으면 가만 안 둬\"이러면 뽑으려고 했던 사람도 뽑기 싫어지기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 대통령선거는 \"야,너네 나 안뽑으면 가만않둬\"이러면 뽑으려고 했던 사람도 뽑기 싫어지기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나라도 그럴 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>나라도 그럴것 같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 나라도 그럴 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 높임말을 쓰면 좋은 점은 첫째 상대가 나를 낮게 보는 것 같아 보이지 않기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 높임말을 쓰면<문법_맞춤법><문법_어미> 좋은점 </문법_어미></문법_맞춤법>첫째 상대가 나를 낮게 보는것 같아보이지 않기 때문입니다.",
+      "sentence_corr_txt_styling": " 높임말을 쓰면 좋은 점은 첫째 상대가 나를 낮게 보는 것 같아 보이지 않기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그냥 대충 봐서는 별 차이 없어 보이지만 실제로 듣는 사람에게는 엄청난 차이가 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그냥 <문법_맞춤법>대충봐서는 별차이 없어보이지만</문법_맞춤법> 실째로 듣는 사람에게는 엄청난 차이가 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예절 중 존댓말은 말을 잘못하면 인생을 망칠 수 있는 엄청난 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>예절중 </문법_맞춤법>존댓말은 말을 잘못하면 인생을 망칠수 있는 엄청난것이다.",
+      "sentence_corr_txt_styling": " 예절 중 존댓말은 말을 잘못하면 인생을 망칠 수 있는 엄청난 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리 집 가훈도 말과 관련됐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>우리집 </문법_맞춤법>가훈도 말과 관련됬다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 말을 잘하자다.",
+      "sentence_corr_txt_styling": " 말을 잘하자다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리가 예절을 잘 지키면 행복한 지구를 만들 수 있을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 우리가 예절을 잘 지키면 행복한 지구를 <문법_맞춤법>만들수</문법_맞춤법> 있을것이다.",
+      "sentence_corr_txt_styling": " 우리가 예절을 잘 지키면 행복한 지구를 만들 수 있을 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40834",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 353,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

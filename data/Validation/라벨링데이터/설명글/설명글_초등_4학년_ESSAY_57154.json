@@ -1,0 +1,209 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저희 가족들은 저 포함해서 모두 자전거를 가지고 있습니다.#@문장구분# 처음에 아빠가 자동차와 자전거를 바꾸면서 출근하실 때 사용하시고 엄마가 장보러 가시거나 조금 먼거리를 가실 때 타시는게 있고 제가 생일에 외삼촌이 선물로 기어자전거를 사주셔서 열심히 타고 있습니다.#@문장구분# 그리고 한번은 부모님과 같이 각자 자전거를 들고 무섬마을이라는 옛날 마을처럼 생긴 관광지를 자전거만 타고 가봤습니다.#@문장구분# 초가집이 많고 나무로된 다리도 있고 맛있는것도 먹을수 있어서 좋았습니다.#@문장구분# 이후로 한달에 한번꼴로 가끔씩 부모님과 같이 자전거 타고 먼거리르 놀러가는게 저는 공부에, 부모님은 일하느라 지치신 일상을 자전거로 푸는게 좋습니다.#@문장구분#",
+      "paragraph_len": 434,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.6,
+      23.266666,
+      19.085714
+    ],
+    "essay_scoreT_avg": 21.984129,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.15",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 처음에 아빠가 자동차와 자전거를 바꾸면서 출근하실 때 사용하시고, 엄마가 장보러 가시거나 조금 먼 거리를 가실 때 타시는 게 있고, 제가 생일에 외삼촌이 선물로 기어자전거를 사주셔서 열심히 타고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 처음에 아빠가 자동차와 자전거를 바꾸면서 출근하실 때 <문법_기타>사용하시고</문법_기타> 엄마가 장보러 가시거나 조금 <문법_맞춤법>먼거리를</문법_맞춤법> 가실 때 타시는게 있고 제가 생일에 외삼촌이 선물로 기어자전거를 사주셔서 열심히 타고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 초가집이 많고 나무로 된 다리도 있고 맛있는것도 먹을 수 있어서 좋았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 초가집이 많고 <문법_맞춤법>나무로된</문법_맞춤법> 다리도 있고 맛있는것도 먹을수 있어서 좋았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이후로 한 달에 한 번 꼴로 가끔씩 부모님과 같이 자전거 타고 먼 거리를 놀러가는게 저는 공부에, 부모님은 일하느라 지치신 일상을 자전거로 푸는 게 좋습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이후로 <문법_맞춤법>한달에</문법_맞춤법> 한번꼴로 가끔씩 부모님과 같이 자전거 타고 <문법_조사>먼거리르</문법_조사> 놀러가는게 저는 공부에, 부모님은 일하느라 지치신 일상을 자전거로 푸는게 좋습니다.",
+      "sentence_corr_txt_styling": " 이후로 한 달에 한 번 꼴로 가끔씩 부모님과 같이 자전거 타고 먼 거리를 놀러가는게 저는 공부에, 부모님은 일하느라 지치신 일상을 자전거로 푸는 게 좋습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_57154",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 335,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주텍이다.#@문장구분# 이유? #@문장구분#강아지를 키우기 때문!#@문장구분# 이라 마당이 널버야 한하 ㅋㅋㅋ.#@문장구분#\n방은 모두 6방 이였으면 좋에다.#@문장구분#\n노리방 옷방 네방 엄마아빠방 동생방 손님방 까지 입니다.#@문장구분#\n화장실은 2게 이고 거실이 넓고 주방도 넓다.#@문장구분# 상상만 해도 살고 싶다.#@문장구분# 방에 전등도 만코 가구도 많아 스면좋다.#@문장구분# 방에도 하나씩 TV도 있쓰면 좋다.#@문장구분# 침데도다 있고 아주 머신는 집이 데면 좋에다.#@문장구분# ㅋㅋ루삥뽕 p_p ㅠ_ㅠ ㅜ_ㅜ 끝.#@문장구분#",
+      "paragraph_len": 462,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          0.42857143,
+          1,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 0.8095238,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      6.047619,
+      11.133333,
+      10.8
+    ],
+    "essay_scoreT_avg": 9.326984,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.29",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "주택이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>주텍이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "주택이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이유? ",
+      "sentence_corr_txt_styling": " 이유? ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "강아지를 키우기 때문!",
+      "sentence_corr_txt_styling": "강아지를 키우기 때문!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이라 마당이 넓어야 한다. ㅋㅋㅋ.",
+      "sentence_corr_reason": [
+        "",
+        "마침표",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이라 마당이 <문법_맞춤법>널버야 </문법_맞춤법><문법_기타>한하</문법_기타> ㅋㅋㅋ.",
+      "sentence_corr_txt_styling": " 이라 마당이 넓어야 한다. ㅋㅋㅋ.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n방은 모두 여섯 개가 있었으면 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "\n방은 모두 <문법_맞춤법><문법_어미>6방 이였으면</문법_어미></문법_맞춤법> 좋에다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n놀이방 옷방 내 방 엄마아빠방 동생방 손님방까지입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>노리방 </문법_맞춤법>옷방 네방 엄마아빠방 동생방 손님방 까지 입니다.",
+      "sentence_corr_txt_styling": "\n놀이방 옷방 내 방 엄마아빠방 동생방 손님방까지입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n화장실은 2개이고 거실이 넓고 주방도 넓다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n화장실은 <문법_맞춤법>2게</문법_맞춤법> 이고 거실이 넓고 주방도 넓다.",
+      "sentence_corr_txt_styling": "\n화장실은 2개이고 거실이 넓고 주방도 넓다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 방에 전등도 많고 가구도 많았으면 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 방에 전등도 <문법_맞춤법>만코 </문법_맞춤법>가구도 <문법_어미>많아 스면좋다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 방에도 하나씩 TV도 있으면 좋다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 방에도 하나씩 TV도 <문법_맞춤법>있쓰면 </문법_맞춤법>좋다.",
+      "sentence_corr_txt_styling": " 방에도 하나씩 TV도 있으면 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 침대도 다 있고 아주 멋있는 집이 되면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>침데도다 </문법_맞춤법>있고 아주 머신는 집이 데면 <문법_어미>좋에다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47535",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 222,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

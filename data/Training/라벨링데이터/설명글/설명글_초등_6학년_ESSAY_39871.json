@@ -1,0 +1,273 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 존경하는 인물은 아주 많습니다#@문장구분#\n 그분들은 바로 꿈을이루자 노력하여 꿈(장래희망)을 이루신 분들인데, 이유는 장래희망을 이루기위해서는 많은 노력을 해야하고, 이런일은 인내심이 많이 들고 포기하고싶을때, 혹은 난처한 상황이 없지 않습니다.#@문장구분#      \n장래희망(꿈)을 노력하고 도전 하여 이룬다는 일이 말로들으면 쉬워도 절대 쉬운일이 아니란것은 많은 사람들이 알고있을겁니다.#@문장구분# 하지만 그분들은 끝까지 포기없이 노력하여 결단코 포기없이 노력해 목적을 이뤘습니다.#@문장구분# 저는 그 행동에 항상 대단함을 느꼈습니다.#@문장구분#  \n어릴때부터 배우가 돼고자 꿈을 포기하지 않은 분들, 좋은 대학에 가고자 끝까지 노력한 분들, 불가능 할것같던 일도 끝까지 노력함으로 가능을 보여줌으로 모두에게 희망을 준 분들.#@문장구분#   \n이런 분들의 공통점이 바로 끝까지 노력해 포기 하지않고, 목적을 이룬 것 입니다#@문장구분# 저는 이런분들을 보면 대단하고 본받고 십다는 생각이듭니다.#@문장구분#     \n저처럼 다른 분들도 이런 인물들의 행동을 본받고, 결코 가능하단것을 보여주는 사람이되길 바랍니다#@문장구분#",
+      "paragraph_len": 701,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.95,
+      22.85,
+      22.4
+    ],
+    "essay_scoreT_avg": 23.066668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.17",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 그분들은 바로 꿈을 이루기 위해 노력하여 꿈(장래희망)을 이루신 분들인데, 이유는 장래희망을 이루기 위해서는 많은 노력을 해야 하고, 이런 일은 인내심이 많이 들고 포기하고 싶을 때, 혹은 난처한 상황이 많기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그분들은 바로 <스타일링_담화 맥락 오류>꿈을이루자 </스타일링_담화 맥락 오류>노력하여 꿈(장래희망)을 이루신 분들인데, 이유는 장래희망을 <문법_맞춤법>이루기위해서는</문법_맞춤법> 많은 노력을 해야하고, 이런일은 인내심이 많이 들고 포기하고싶을때, 혹은 난처한 상황이 없지 않습니다.",
+      "sentence_corr_txt_styling": "\n 그분들은 바로 꿈을 이루기 위해 노력하여 꿈(장래희망)을 이루신 분들인데, 이유는 장래희망을 이루기 위해서는 많은 노력을 해야 하고, 이런 일은 인내심이 많이 들고 포기하고 싶을 때, 혹은 난처한 상황이 많기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "      \n장래희망(꿈)을 노력하고 도전하여 이룬다는 일이 말로 들으면 쉬워도 절대 쉬운 일이 아니란 것은 많은 사람들이 알고 있을 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "      \n장래희망(꿈)을 노력하고 <문법_맞춤법>도전 하여</문법_맞춤법> 이룬다는 일이 말로들으면 쉬워도 절대 쉬운일이 아니란것은 많은 사람들이 알고있을겁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 하지만 그분들은 <스타일링_패러프레이징>끝까지 포기없이 노력하여 결단코 포기없이 노력해</스타일링_패러프레이징> 목적을 이뤘습니다.",
+      "sentence_corr_txt_styling": " 하지만 그분들은 끝까지 포기없이 노력하여 목적을 이뤘습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  \n어릴 때부터 배우가 되고자 꿈을 포기하지 않은 분들, 좋은 대학에 가고자 끝까지 노력한 분들, 불가능할 것 같던 일도 끝까지 노력하면서 가능성을 보여줘 모두에게 희망을 준 분들.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "  \n<문법_맞춤법>어릴때부터 </문법_맞춤법>배우가 돼고자 꿈을 포기하지 않은 분들, 좋은 대학에 가고자 끝까지 노력한 분들, 불가능 할것같던 일도 끝까지 <스타일링_담화 맥락 오류><스타일링_패러프레이징>노력함으로 가능을 보여줌으로</스타일링_패러프레이징></스타일링_담화 맥락 오류> 모두에게 희망을 준 분들.",
+      "sentence_corr_txt_styling": "  \n어릴 때부터 배우가 되고자 꿈을 포기하지 않은 분들, 좋은 대학에 가고자 끝까지 노력한 분들, 불가능할 것 같던 일도 끝까지 노력하면서 가능성을 보여줘 모두에게 희망을 준 분들.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "   \n이런 분들의 공통점이 바로 끝까지 노력해 포기하지 않고, 목적을 이룬 것입니다",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "   \n이런 분들의 공통점이 바로 끝까지 노력해 <문법_맞춤법>포기 하지않고</문법_맞춤법>, 목적을 이룬 것 입니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이런 분들을 보면 대단하고 본받고 싶다는 생각이 듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>이런분들을 </문법_맞춤법>보면 대단하고 본받고 십다는 생각이듭니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "     \n저처럼 다른 분들도 이런 인물들의 행동을 본받고, 뭐든지 가능하다는 것을 보여주는 사람이 되길 바랍니다",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "     \n저처럼 다른 분들도 이런 인물들의 행동을 본받고, <스타일링_담화 맥락 오류>결코 가능하단것을 </스타일링_담화 맥락 오류>보여주는 <문법_맞춤법>사람이되길 </문법_맞춤법>바랍니다",
+      "sentence_corr_txt_styling": "     \n저처럼 다른 분들도 이런 인물들의 행동을 본받고, 뭐든지 가능하다는 것을 보여주는 사람이 되길 바랍니다",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39871",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 523,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 좋아하는 과목은 체육입니다.#@문장구분# 이과목은 체력 단련이나 체력을 향상시키고 가끔은 재밌는 스포츠를 하기도 하고 스포츠를 한 경험에선 친구와 다툴때도 있고 더욱 돈독한 사이가 될때도 있습니다.#@문장구분# 그리고 무엇보다 체육은 시간이 빨리 가는것 처럼 느껴지고 다른 과목은 지루하지만 체육을 할때는 다른 과목을 할때보다 열정적이게 합니다.#@문장구분#",
+      "paragraph_len": 242,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 그리고 이 과목을 좋아하게 됐을때는 일학년때부터였다.#@문장구분# 왜냐하면 체육은 어렸을 때부터 재밌고 공부하기 싫을때 놀이 시간 같은 시간이었기 때문이다. #@문장구분#생각과 느낌은 앞으로 체육을 많이 하고 싶다고 생각했다#@문장구분#",
+      "paragraph_len": 172,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 그리고 체육에 대한 설명은 체육이라는 과목은 스포츠를 하고 체력향상이나 체력검사 이름이 체육인것처럼 운동을 전문으로 하는 과목이다#@문장구분#",
+      "paragraph_len": 93,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 그리고 또 좋아하는 과목은 실과이다#@문장구분# 실과는 실생활에서 필요한 것과 가끔은 만들기를 하기때문에 좋아한다#@문장구분# 그리고 실생활과 만들기와 재밌는 것을 해서 좋다",
+      "paragraph_len": 124,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.047619,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2.142857,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.047619,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          2.142857,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.047619,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      26.733334,
+      21.133335
+    ],
+    "essay_scoreT_avg": 23,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이 과목은 체력 단련이나 체력을 향상시키고 가끔은 재밌는 스포츠를 하기도 하고 스포츠를 한 경험에선 친구와 다툴 때도 있고 더욱 돈독한 사이가 될 때도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이과목은 </문법_맞춤법>체력 단련이나 체력을 향상시키고 가끔은 재밌는 스포츠를 하기도 하고 스포츠를 한 경험에선 친구와 다툴때도 있고 더욱 돈독한 사이가 될때도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 무엇보다 체육은 시간이 빨리 가는 것처럼 느껴지고 다른 과목은 지루하지만 체육을 할 때는 다른 과목을 할 때보다 열정적이게 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 무엇보다 체육은 시간이 빨리 <문법_맞춤법>가는것 처럼</문법_맞춤법> 느껴지고 다른 과목은 지루하지만 체육을 할때는 다른 과목을 할때보다 열정적이게 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 체육은 어렸을 때부터 재밌고 공부하기 싫을 때 놀이 시간 같은 시간이었기 때문이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 왜냐하면 체육은 어렸을 때부터 재밌고 공부하기 <문법_맞춤법><문법_높임법>싫을때 </문법_높임법></문법_맞춤법>놀이 시간 같은 시간이었기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": "생각과 느낌은 앞으로 체육을 많이 하고 싶다고 생각했다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": "생각과 느낌은 앞으로 체육을 많이 하고 싶다고 <문법_높임법>생각했다</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 실과는 실생활에서 필요한 것과 가끔은 만들기를 하기 때문에 좋아한다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "맞춤법"
+      ],
+      "sentence_txt": " 실과는 실생활에서 필요한 것과 가끔은 만들기를 <문법_맞춤법>하기때문에 </문법_맞춤법><문법_높임법>좋아한다</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "004"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 실생활과 만들기와 재밌는 것을 해서 좋다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 실생활과 만들기와 재밌는 것을 해서 <문법_높임법>좋다</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "004"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50165",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 458,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

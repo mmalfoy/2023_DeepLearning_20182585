@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교 폭력을 예방하는 방법에는 여러 가지가 있다. #@문장구분#친구가 학교 폭력을 당하고 있다면 주변에 도움을 청한다.#@문장구분# 선생님, 친구, 과목 선생님 등 주변에 있는 사람한테 도움을 청한다.#@문장구분# 또 단톡방을 만들지 않는다.#@문장구분#혹시 단톡방에서 다른 친구들이 한 친구한테 욕이나 나쁜말을 사용해 그 친구에게 피해나 점점 힘들어질 수 있기 때문이다.#@문장구분# 대화할 때 말을 생각하며 고운말을 쓴다.#@문장구분# 나쁜 말을 쓰다보면 익숙해져서 친구에게 나쁜말을 계속 쓰면 친구가 더 이상 학교에 오는 것이 두렵고 친구들과 대화하기가 싫어질 수도 있기 때문입니다.#@문장구분# 이런 방법 말고도 다른 방법이 있다. #@문장구분#마인드나 마음가짐 바꾸기. #@문장구분#내가 이런 것들을 바꾼다면 학교 폭력을 예방할 수 있습니다. #@문장구분#앞으로 이런 방법과 마음가짐이 학교폭력을 없셀수 있습니다. #@문장구분#우리 모두 방법을 지키며 이겨냅시다.#@문장구분#",
+      "paragraph_len": 651,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23,
+      14.788889,
+      22.966667
+    ],
+    "essay_scoreT_avg": 20.251852,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          1,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>또</스타일링_패러프레이징> 단톡방을 만들지 않는다.",
+      "sentence_corr_txt_styling": " 또, 단톡방을 만들지 않는다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "혹시 단톡방에서 다른 친구들이 한 친구한테 욕이나 나쁜 말을 사용해 그 친구에게 괴롭힘을 가할 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "혹시 단톡방에서 다른 친구들이 한 친구한테 욕이나 <문법_맞춤법>나쁜말</문법_맞춤법>을 사용해 그 친구에게 <스타일링_담화 맥락 오류><스타일링_패러프레이징>피해나 점점 힘들어질 수 있기 때문이다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "혹시 단톡방에서 다른 친구들이 한 친구한테 욕이나 나쁜 말을 사용해 그 친구에게 괴롭힘을 가할 수 있기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 대화할 때 <스타일링_패러프레이징>말을 생각하며 고운말을 쓴다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 대화할 때 상대방을 생각하며 고운 말을 쓴다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나쁜 말을 쓰다 보면 익숙해져서 친구에게 나쁜 말을 계속 쓰게 되고, 친구가 더 이상 학교에 오는 것이 두렵다거나 친구들과 대화하기가 싫어질 수도 있기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 나쁜 말을 <문법_맞춤법>쓰다보면</문법_맞춤법> 익숙해져서 친구에게 <스타일링_패러프레이징>나쁜말을 계속 쓰면 친구가 더 이상 학교에 오는 것이 두렵고 친구들과 대화하기가 싫어질 수도 있기 때문입니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 나쁜 말을 쓰다 보면 익숙해져서 친구에게 나쁜 말을 계속 쓰게 되고, 친구가 더 이상 학교에 오는 것이 두렵다거나 친구들과 대화하기가 싫어질 수도 있기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "내가 이런 것들을 바꾼다면 학교 폭력을 예방할 수 <스타일링_담화 맥락 오류>있습니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": "내가 이런 것들을 바꾼다면 학교 폭력을 예방할 수 있다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "앞으로 이런 방법과 마음가짐이 학교폭력을 <스타일링_담화 맥락 오류>없셀수 있습니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": "앞으로 이런 방법과 마음가짐이 학교폭력을 없앨 수 있다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "우리 모두 <스타일링_담화 맥락 오류><스타일링_패러프레이징>방법을 지키며 이겨냅시다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "우리 모두 위와 같은 방법을 지키며 학교폭력을 이겨내자.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39742",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 414,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

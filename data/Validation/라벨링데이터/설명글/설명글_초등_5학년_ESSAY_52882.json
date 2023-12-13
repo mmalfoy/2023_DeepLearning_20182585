@@ -1,0 +1,299 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "취미는 여러가지가 있습니다.#@문장구분# 운동, 책, 그림들이 있습니다. #@문장구분#저는 그림 그리기를 합니다. #@문장구분#밤하늘, 마크, 682, 상상 캐릭터등을 그립니다. #@문장구분#가끔 \"내가왜 이짓을 했지\" 라고 생각이 듭니다. #@문장구분#그림을 그릴때 노래를 들을며 할때가 많읍니다.#@문장구분# 노래는 바라만본다, 모범택시, SKY캐슬, 애니노래등이 있습니다. #@문장구분#저는 그림을 그릴때 밑그림을 그리고 색연필로 디자인한뒤 부족한 부분을 밑그림을 그리고 다시 색칠하는 수정을 걷칩니다. #@문장구분#필요하면 그라데이션, 명함등을 넣기도 합니다.#@문장구분# 나중에 봤을때 부족한부분이 있으면 수정을 여러번 걷쳐 그립니다. #@문장구분#노래를 고를때는 ost를 듣기때문에 19금같은 잔인한게 나오면 거의 듣지 않읍니다.",
+      "paragraph_len": 544,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.333334,
+      11.933332,
+      15.933332
+    ],
+    "essay_scoreT_avg": 14.733333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 운동, 책, 그림들이 있습니다. ",
+      "sentence_corr_txt_styling": " 운동, 책, 그림들이 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "밤하늘, 마크, 682, 상상 캐릭터 등을 그립니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "밤하늘, 마크, 682, 상상 <문법_맞춤법>캐릭터등을 </문법_맞춤법>그립니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "가끔 \"내가 왜 이 짓을 했지?\" 라는 생각이 듭니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "가끔 \"<문법_맞춤법>내가왜 이짓을 했지</문법_맞춤법>\" <문법_어미>라고</문법_어미> 생각이 듭니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그림을 그릴 때 노래를 들으며 할 때가 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그림을 <문법_맞춤법>그릴때</문법_맞춤법> 노래를 들을며 할때가 많읍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 노래는 바라만 본다, 모범택시, SKY캐슬, 애니 노래 등이 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 노래는<문법_맞춤법> 바라만본다, </문법_맞춤법>모범택시, SKY캐슬, 애니노래등이 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 그림을 그릴 때 밑그림을 그리고 색연필로 디자인한 뒤 부족한 부분을 밑그림을 그리고 다시 색칠하는 수정을 거칩니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "저는 그림을 <문법_맞춤법>그릴때</문법_맞춤법> 밑그림을 그리고 색연필로 디자인한뒤 부족한 부분을 밑그림을 그리고 다시 색칠하는 수정을 걷칩니다. ",
+      "sentence_corr_txt_styling": "저는 그림을 그릴 때 밑그림을 그리고 색연필로 디자인한 뒤 부족한 부분을 밑그림을 그리고 다시 색칠하는 수정을 거칩니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "필요하면 그라데이션, 명암 등을 넣기도 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "필요하면 그라데이션, <문법_맞춤법>명함등을</문법_맞춤법> 넣기도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나중에 봤을 때 부족한 부분이 있으면 수정을 여러 번 거쳐서 그립니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나중에<문법_맞춤법> 봤을때 부족한부분이</문법_맞춤법> 있으면 수정을 여러번 걷쳐 그립니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "노래를 고를 때는 ost를 듣기 때문에 19금 같은 잔인한 게 나오면 거의 듣지 않습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "노래를 <문법_맞춤법>고를때는</문법_맞춤법> ost를 듣기때문에 19금같은 잔인한게 나오면 거의 듣지 않읍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52882",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 347,
+    "essay_main_subject": "나의 취미"
+  }
+}

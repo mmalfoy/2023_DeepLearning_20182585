@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 경험한 다문화는 이사오기전에 다문화 가족을 보았을때는 처음이라 신기하 기도 하고 이색했다.#@문장구분# 그렇지만 요즘은 다문화를 대한 일반적인 생각은 예를 들면 아버지, 어머니가 외국분들이면 다 다문화 가족이다.#@문장구분# 그리고 또 다문화하고 싫어하고 차별하고 그런것 같다.#@문장구분# 그리고 만약 다문화 가정이 길을 지나갔을때 손짓하지 않고 일반적인 사람이라고 생각할 수 있을 것같다.#@문장구분# 그리고 다문화 가족에 가져야 할생각은 다문화 가족도 아버지, 어머니 둘중1분은 한국인이기 때문에 한국 사람이라는 생각도 좋은 것 같다.#@문장구분# 그리고 뉴스에서 받는데 다문화 가족이 식당을 갔는데 다문화 가족은 않된다고 하던데 그런것 보단은 다문화 가족도 식당을 자유롭게 갈수있으면 좋을 것 같다고 생각 이된다.#@문장구분# 이렇게 나는 다문화 가족이 한국인이라고 인정 할수도 있고 공감도 할수 있을 것같다.",
+      "paragraph_len": 538,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4285715,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.085712,
+      27.085712,
+      26.685713
+    ],
+    "essay_scoreT_avg": 26.95238,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 경험한 다문화는 이사 오기 전에 다문화 가족을 보았을 때는 처음이라 신기하기도 하고 어색했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 경험한 다문화는 <문법_맞춤법>이사오기전에</문법_맞춤법> 다문화 가족을 보았을때는 처음이라 신기하 기도 하고 이색했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 요즘은 다문화를 대한 일반적인 생각은 예를 들면 아버지, 어머니가 외국 분들이면 다 다문화 가족이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇지만 요즘은 다문화를 대한 일반적인 생각은 예를 들면 아버지, 어머니가 <문법_맞춤법>외국분들이</문법_맞춤법>면 다 다문화 가족이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 다문화하고 싫어하고 차별하고 그런 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 또 다문화하고 싫어하고 차별하고 <문법_맞춤법>그런것 </문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 만약 다문화 가정이 길을 지나갔을 때 손짓하지 않고 일반적인 사람이라고 생각할 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 만약 다문화 가정이 길을 <문법_맞춤법>지나갔을때 </문법_맞춤법>손짓하지 않고 일반적인 사람이라고 생각할 수 있을 것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다문화 가족에 가져야 할 생각은 다문화 가족도 아버지, 어머니 둘 중 1분은 한국인이기 때문에 한국 사람이라는 생각도 좋은 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 다문화 가족에 가져야 <문법_맞춤법>할생각은 </문법_맞춤법>다문화 가족도 아버지, 어머니 둘중1분은 한국인이기 때문에 한국 사람이라는 생각도 좋은 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 뉴스에서 봤는데 다문화 가족이 식당을 갔는데 다문화 가족은 안된다고 하던데 그런 것 보다는 다문화 가족도 식당을 자유롭게 갈 수 있으면 좋을 것 같다고 생각이 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 뉴스에서 <문법_맞춤법>받는데</문법_맞춤법> 다문화 가족이 식당을 갔는데 다문화 가족은 않된다고 하던데 그런것 보단은 다문화 가족도 식당을 자유롭게 갈수있으면 좋을 것 같다고 생각 이된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 나는 다문화 가족이 한국인이라고 인정할 수도 있고 공감도 할 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 나는 다문화 가족이 한국인이라고 <문법_맞춤법>인정 할수도</문법_맞춤법> 있고 공감도 할수 있을 것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49901",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 421,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 넓은 마당이 있는 주택에 살고싶습니다.#@문장구분# 그이유는 저와 저희 강아지가 함께 뛰놀수있는 마당이 있으면 했거든요.#@문장구분# 그리고 방은 4개 정도 있으면 좋겠고 2층집이면 좋겠어요!#@문장구분#^^#@문장구분#\n그리고 색깔은 파랑파랑하게 하고 귀욤귀욤하면 너어무 좋겠네요!.#@문장구분#\n구조는 거실 위쪽에 티비가있고 티비랑 1미터정도 떨어져있는 곳에 쇼파를 놓고 티비 옆에 서랍장을 둡니다.#@문장구분# 그리고 주방은 ㄷ자 였음 좋겠어요. #@문장구분#주방 옆엔 배란다가 배란다 옆엔 냉장고가 냉장고랑 조금 떨어진 곳엔 싱크대가!#@문장구분# 그리고 또 제방은 제가 좋아하는 만화캐릭터 면 좋겠고 경대, 책상, 서랍이 있고 아늑했음 좋겠고요.#@문장구분# 그리고 엄마방은 엄마는 깔끔하게 흰색을 좋아하시니 침대도 흰색 서랍도 흰색 ㅎㅎ!#@문장구분# 아빠는 초록색을 좋아하니 다~ 초록인색.#@문장구분# 또 아빠방은 아빠가 일하실 컴퓨터가 있어야하죵.#@문장구분#그리고 강아지방! #@문장구분#강아지방은 동물모형으로된 가구들이있음 좋겠어요.#@문장구분# 침대, 간식바구니, 등등!#@문장구분# 전 나중에 커서 이런집에서 꼭 살기랍니다!#@문장구분#",
+      "paragraph_len": 804,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4285715,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.114285,
+      26.114285,
+      26
+    ],
+    "essay_scoreT_avg": 26.076189,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.05",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 넓은 마당이 있는 주택에 살고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 넓은 마당이 있는 주택에 <문법_맞춤법>살고싶습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 저와 저희 강아지가 함께 뛰놀 수 있는 마당이 있으면 했거든요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는 </문법_맞춤법>저와 저희 강아지가 함께 뛰놀수있는 마당이 있으면 했거든요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그리고 색깔은 파랑파랑하게 하고 귀욤귀욤하면 너무 좋겠네요!.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n그리고 색깔은 파랑파랑하게 하고 귀욤귀욤하면 <문법_맞춤법>너어무 </문법_맞춤법>좋겠네요!.",
+      "sentence_corr_txt_styling": "\n그리고 색깔은 파랑파랑하게 하고 귀욤귀욤하면 너무 좋겠네요!.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n구조는 거실 위쪽에 티비가 있고 티비랑 1미터 정도 떨어져 있는 곳에 쇼파를 놓고 티비 옆에 서랍장을 둡니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n구조는 거실 위쪽에 <문법_맞춤법>티비가있고 </문법_맞춤법>티비랑 1미터정도 떨어져있는 곳에 쇼파를 놓고 티비 옆에 서랍장을 둡니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 주방은 ㄷ자 였으면 좋겠어요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그리고 주방은 ㄷ자 <문법_어미>였음 </문법_어미>좋겠어요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "주방 옆엔 베란다가 베란다 옆엔 냉장고가 냉장고랑 조금 떨어진 곳엔 싱크대가!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "주방 옆엔 배란다가 <문법_맞춤법>배란다 </문법_맞춤법>옆엔 냉장고가 냉장고랑 조금 떨어진 곳엔 싱크대가!",
+      "sentence_corr_txt_styling": "주방 옆엔 베란다가 베란다 옆엔 냉장고가 냉장고랑 조금 떨어진 곳엔 싱크대가!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 제 방은 제가 좋아하는 만화 캐릭터면 좋겠고 경대, 책상, 서랍이 있고 아늑했으면 좋겠고요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그리고 또 <문법_맞춤법>제방은 </문법_맞춤법>제가 좋아하는 만화캐릭터 면 좋겠고 경대, 책상, 서랍이 있고 <문법_어미>아늑했음 </문법_어미>좋겠고요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 엄마방은 엄마는 깔끔한 흰색을 좋아하시니 침대도 흰색 서랍도 흰색 ㅎㅎ!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 엄마방은 엄마는 <문법_어미>깔끔하게 </문법_어미>흰색을 좋아하시니 침대도 흰색 서랍도 흰색 ㅎㅎ!",
+      "sentence_corr_txt_styling": " 그리고 엄마방은 엄마는 깔끔한 흰색을 좋아하시니 침대도 흰색 서랍도 흰색 ㅎㅎ!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아빠는 초록색을 좋아하니 다~ 초록색.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 아빠는 초록색을 좋아하니 다~ <문법_맞춤법>초록인색</문법_맞춤법>.",
+      "sentence_corr_txt_styling": " 아빠는 초록색을 좋아하니 다~ 초록색.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 아빠방은 아빠가 일하실 컴퓨터가 있어야 하죠.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 또 아빠방은 아빠가 일하실 컴퓨터가 <문법_맞춤법><문법_어미>있어야하죵</문법_어미></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "강아지방은 동물 모형으로 된 가구들이 있으면 좋겠어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "강아지방은 <문법_맞춤법>동물모형으로된 </문법_맞춤법>가구들이<문법_어미>있음</문법_어미> 좋겠어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전 나중에 커서 이런 집에서 꼭 살 거랍니다!",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 전 나중에 커서 <문법_맞춤법>이런집에서 </문법_맞춤법>꼭 살기랍니다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47470",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 486,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

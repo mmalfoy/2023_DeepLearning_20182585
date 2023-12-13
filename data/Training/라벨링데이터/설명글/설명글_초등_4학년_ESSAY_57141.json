@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 집에 만화책이 많이 있습니다.#@문장구분# 특히 대부분의 권수가 모인 '메이플스토리' 만화책이 많고 계속 봐도 질리지 않고 재미있습니다.#@문장구분# 처음에는 단순히 책에 있는 그림과 글자만 훑어보다가 어느 날은 주인공이 하는 대사를 읽어보면서 보다가 또 어느 날은 대사를 하면서 표정이나 기분을 보고 그대로 따라서 읽으면서 해당 인물이 어떤 감정을 느끼고 있는지, 심정과 상황이 점점 느껴지면서 제가 그 인물이 되는 것처럼 느껴집니다.#@문장구분# 그러다가 학교 국어시간에 조별로 역할을 정하면서 수업하는 시간이 있었는데, 평소에 집에서 만화책을 읽은 기억을 살려서 역할분담 시간에 활용을 했는데 제가 속학 조가 높은 점수를 받아서 매우 기뻤습니다.#@문장구분# 그리고 담임선생님께서 칭찬을 하시면서 앞으로 역할분담 시간에는 저를 1등으로 시켜준다고 하시면서 이로인해서 자신감을 얻었고 이후 선생님께서 시집을 선물로 주셔서 시집도 감정을 느끼면서 읽게 되었습니다.#@문장구분# 처음에는 만화책이 아니라 글자만 있는 책이여서 살짝 거부했지만 어느순간 그런 불만은 읽으면서 사라졌습니다.#@문장구분# 심지어 친구들과 게임을 할때도 재미있는 순간에 대사를 읽으면서 이입을 해주면 굉장히 웃으면서 친구들과 놀때도 재미있게 주고 받으면서 놀고있습니다.#@문장구분# 나중에 코로나가 없어지면 시 낭독대회에  참여하고 싶습니다.#@문장구분#",
+      "paragraph_len": 795,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      24.285713,
+      26
+    ],
+    "essay_scoreT_avg": 23.80635,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.09",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그리고 담임선생님께서 칭찬을 하시면서 앞으로 역할분담 시간에는 저를 1등으로 시켜준다고 하시면서 이로 인해서 자신감을 얻었고 이후 선생님께서 시집을 선물로 주셔서 시집도 감정을 느끼면서 읽게 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 담임선생님께서 칭찬을 하시면서 앞으로 역할분담 시간에는 저를 1등으로 시켜준다고 하시면서 <문법_맞춤법>이로인해서</문법_맞춤법> 자신감을 얻었고 이후 선생님께서 시집을 선물로 주셔서 시집도 감정을 느끼면서 읽게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음에는 만화책이 아니라 글자만 있는 책이어서 살짝 거부했지만 어느 순간 그런 불만은 읽으면서 사라졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 처음에는 만화책이 아니라 글자만 있는 <문법_맞춤법>책이여서 살짝 거부했지만 어느순간</문법_맞춤법> 그런 불만은 읽으면서 사라졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 심지어 친구들과 게임을 할 때도 재미있는 순간에 대사를 읽으면서 이입을 해주면 굉장히 웃으면서 친구들과 놀 때도 재미있게 주고받으면서 놀고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 심지어 친구들과 게임을 <문법_맞춤법>할때도 재미있는 순간에 대사를 읽으면서 이입을 해주면 굉장히 웃으면서 친구들과 놀때도 재미있게 주고 받으면서 놀고있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나중에 코로나가 없어지면 시 낭독 대회에  참여하고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나중에 코로나가 없어지면 시 <문법_맞춤법>낭독대회에</문법_맞춤법>  참여하고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_57141",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 636,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 생각은 현재는 통일을 하지 않는게 좋을 것 같습니다.#@문장구분# 이유는 북한은 현재 가난한 국가입니다.#@문장구분# 그래서 북한으로 물자를 보내면 저희가 가난한국가가 될수 있을거 같습니다.#@문장구분# 그리고 북한은 산이 많은 지형입니다.#@문장구분# 그래서 쌀을 재배할 수 있는 곳과 않되는 곳이있다.#@문장구분# 그리고 또한 좋은점도 있습니다.#@문장구분# 일단중국을 차타고 갈 수 있습니다.#@문장구분# 그리고 6⋅25로 인해 분단국가가 되어 가족들이 북한남거나 남한의 남은 사람들이 가족을 만날수있다.#@문장구분# 하지만 통일이 되면 다 될수 있는일이다.#@문장구분# 그리고통일이 되면 좋은점도있지만 나쁜점도 있다.#@문장구분# 그럼으로 통일이 않되고 싶다.#@문장구분#",
+      "paragraph_len": 526,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22,
+      17.2,
+      10.75
+    ],
+    "essay_scoreT_avg": 16.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>저의 생각은 현재는 통일을 하지 않는게 좋을 것 같습니다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "저는 통일을 하지 않는 것이 좋다고 생각합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 북한은 가난한 국가이기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " <문법_어미>이유는 북한은 현재 가난한 국가입니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 북한으로 물자를 보내면 우리가 가난한 국가가 될 것 같습니다.",
+      "sentence_corr_reason": [
+        "지나친 낮춤 표현",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그래서 북한으로 물자를 보내면 <문법_맞춤법>저희가 </문법_맞춤법>가난한국가가 <문법_어미>될수 있을거 같습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 쌀을 재배할 수 있는 곳과 할 수 없는 곳이 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 쌀을 재배할 수 있는 곳과 <스타일링_담화 맥락 오류>않되는 </스타일링_담화 맥락 오류><문법_맞춤법>곳이있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": " 그래서 쌀을 재배할 수 있는 곳과 할 수 없는 곳이 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나 통일의  좋은 점도 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고 또한</스타일링_담화 맥락 오류> <문법_맞춤법>좋은점도 </문법_맞춤법>있습니다.",
+      "sentence_corr_txt_styling": " 그러나 통일의  좋은 점도 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 통일이 되면 중국에 차를 타고 갈 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_조사><스타일링_담화 맥락 오류>일단중국을 </스타일링_담화 맥락 오류></스타일링_조사><문법_맞춤법>차타고 </문법_맞춤법>갈 수 있습니다.",
+      "sentence_corr_txt_styling": " 통일이 되면 중국에 차를 타고 갈 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 6⋅25로 인해 분단국가가 되어 가족들이 북한에 남거나 남한에 남은 사람들이 가족을 만날 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 6⋅25로 인해 분단국가가 되어 가족들이 <문법_맞춤법>북한남거나 </문법_맞춤법><문법_조사>남한의 </문법_조사>남은 사람들이 가족을 <문법_높임법>만날수있다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 통일이 되면 이런 일들을 다 할 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "높임법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_어미><문법_높임법><문법_담화 맥락 오류>하지만 통일이 되면 다 될수 있는일이다.</문법_담화 맥락 오류></문법_높임법></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고통일이 되면 좋은점도있지만 나쁜점도 있다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 그러나 앞에서 말한 것처럼 통일엔 나쁜 점도 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 통일이 되지 않았으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럼으로 </문법_맞춤법>통일이 <스타일링_담화 맥락 오류>않되고 싶다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 그래서 저는 통일이 되지 않았으면 좋겠습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39387",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 306,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

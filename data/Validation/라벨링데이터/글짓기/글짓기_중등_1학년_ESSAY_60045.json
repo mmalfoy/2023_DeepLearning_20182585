@@ -1,0 +1,255 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 세계는 지금보다 훨씬 발전해있을 것 같다.#@문장구분# 자동차가 하늘에서 달리고,그래서 땅은 사람들이 반짝반짝 빛나는 건물 사이사이로 자유롭게 누빌 수 있는 세상이 되었으면 좋겠다.#@문장구분# 그리고 또 좋은 기술이 많이 개발되어서 더는 지구를 아프게 하지 않았으면 좋겠다.#@문장구분# 사람들은 다 기계가 지구를 아프게 했다고 말하지만,그건 그 기계가 지구를 아프게하는 기계이기 때문이다.#@문장구분# 지구를 아프게 하지 않고 세상을 더 반짝일 수 있는 기술이 그때가 되면 얼마든지 나오지 않을까?#@문장구분# 나는 그렇게 믿는다.#@문장구분# 그래서 미래세계에서는 그 누구도 아프지 않고 행복하게 살아갈 수 있는 날이 왔으면 좋겠다!#@문장구분# 그럼 우리는 좋아하는 가족과 좋아하는 친구들과 함께 그리고 지구를 해치지 않는 착한 로봇들과 함께 살아갈 수 있게 될 것 같다.#@문장구분# 그러면 되게 좋겠다.#@문장구분#",
+      "paragraph_len": 590,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.05,
+      22.25
+    ],
+    "essay_scoreT_avg": 24.433334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래 세계는 지금보다 훨씬 발전해 있을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 미래 세계는 지금보다 훨씬 <문법_맞춤법>발전해있을</문법_맞춤법> 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자동차가 하늘에서 달리고, 그래서 땅은 사람들이 반짝반짝 빛나는 건물 사이사이로 자유롭게 누빌 수 있는 세상이 되었으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자동차가 하늘에서 <문법_맞춤법>달리고,그래서</문법_맞춤법> 땅은 사람들이 반짝반짝 빛나는 건물 사이사이로 자유롭게 누빌 수 있는 세상이 되었으면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들은 다 기계가 지구를 아프게 했다고 말하지만, 그건 그 기계가 지구를 아프게하는 기계이기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 사람들은 다 기계가 지구를 아프게 했다고 <문법_맞춤법>말하지만,그건</문법_맞춤법> 그 기계가 지구를 아프게하는 기계이기 때문이다.",
+      "sentence_corr_txt_styling": " 사람들은 다 기계가 지구를 아프게 했다고 말하지만, 그건 그 기계가 지구를 아프게하는 기계이기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지구를 아프게 하지 않고 세상을 더 반짝이게 할 수 있는 기술이 그때가 되면 얼마든지 나오지 않을까?",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 지구를 아프게 하지 않고 세상을 더 <문법_조사><문법_기타>반짝일</문법_기타></문법_조사> 수 있는 기술이 그때가 되면 얼마든지 나오지 않을까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 미래세계에서는 그 누구도 아프지 않고 행복하게 살아갈 수 있는 날이 왔으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그래서 미래세계에서는 그 누구도 아프지 않고 행복하게 살아갈 수 있는 날이 왔으면 <문법_기타>좋겠다!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 우리는 좋아하는 가족, 좋아하는 친구들과 함께 그리고 지구를 해치지 않는 착한 로봇들과 함께 살아갈 수 있게 될 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 그럼 우리는 좋아하는 <문법_조사><문법_기타>가족과</문법_기타></문법_조사> 좋아하는 친구들과 함께 그리고 지구를 해치지 않는 착한 로봇들과 함께 살아갈 수 있게 될 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60045",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 411,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

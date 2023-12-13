@@ -1,0 +1,334 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 만약 우리반에 다문화 가정을 가지고 있는 친구가 전학을 오거나 왔다면 그 친구와 친하게 지내고 싶을것 같습니다.#@문장구분# 이유는 다문화 가정을 가진친구랑 친해져 본족이 없어서 친하게 지내고 싶을것 이고 그 나라의 문화에 대해도 잘알고싶고 이야기를 해보고 싶습니다.#@문장구분# 또는 그 나라의 언어를 배우고 싶기도 할것이기 때문입니다.#@문장구분# 솔직히 낮을 좀 가리는 편이라 처음에는 다가가지 못하겠지만 점점 친해지며 놀고 싶습니다.#@문장구분# 예전에 다문화 가정을 가진 친구와 놀고, 먹고, 학교가는 꿈을 꾸었습니다.#@문장구분# 너무 좋았습니다. 꿈이 아니였으면 재미있게 놀고 그럴텐데 라는 생각이 들었습니다.#@문장구분# \n 얼마전에 붕어빵이 먹고 싶어서 붕어빵을 사러 갔는데 붕어빵을 파는분이 다문화 가정을 가지고 있는 사람처럼 보였습니다.#@문장구분# 20대 후반처럼 보였습니다.#@문장구분# 원래 붕어빵장사를 하는분은 할머니나 할어버지께서 많이 하시는걸 봤는데 20대 후반처럼 어리신분이 붕어빵장사를 하신다는게 신기했습니다.#@문장구분# 솔직히 믿기지가 않았습니다.#@문장구분# 회사에 취직하면 될것같은데 왜 취직을 안하는지 모르겠습니다.#@문장구분# 솔직히 안받아주는 사람들이 이해가 안 됩니다.#@문장구분# 그건 차별이나 마찬가지인데 왜 안받아주는지 모르겠습니다.#@문장구분# \n 저 같으면 받아줄 겁니다.#@문장구분# 그리고 다문화 가정을 가진 친구에게 다정하게 대해 줄 겁니다.",
+      "paragraph_len": 915,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.714287,
+      28.8,
+      25
+    ],
+    "essay_scoreT_avg": 26.171427,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 만약 우리 반에 다문화 가정을 가지고 있는 친구가 전학을 오거나 왔다면 그 친구와 친하게 지내고 싶을 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "저는 만약 <문법_맞춤법>우리반에</문법_맞춤법> 다문화 가정을 가지고 있는 친구가 전학을 오거나 왔다면 그 친구와 친하게 지내고 싶을것 같습니다.",
+      "sentence_corr_txt_styling": "저는 만약 우리 반에 다문화 가정을 가지고 있는 친구가 전학을 오거나 왔다면 그 친구와 친하게 지내고 싶을 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 다문화 가정을 가진 친구랑 친해져 본적이 없어서 친하게 지내고 싶을 것이고 그 나라의 문화에 대해도 잘 알고 싶고 이야기를 해보고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이유는 다문화 가정을 <문법_맞춤법>가진친구랑</문법_맞춤법> 친해져 본족이 없어서 친하게 지내고 싶을것 이고 그 나라의 문화에 대해도 잘알고싶고 이야기를 해보고 싶습니다.",
+      "sentence_corr_txt_styling": " 이유는 다문화 가정을 가진 친구랑 친해져 본적이 없어서 친하게 지내고 싶을 것이고 그 나라의 문화에 대해도 잘 알고 싶고 이야기를 해보고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또는 그 나라의 언어를 배우고 싶기도 할 것이기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또는 그 나라의 언어를 배우고 싶기도 <문법_맞춤법>할것이기</문법_맞춤법> 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 솔직히  낯을 좀 가리는  편이라 처음에는 다가가지 못하겠지만 점점 친해지며 놀고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 솔직히 <문법_맞춤법>낮을 좀 가리는</문법_맞춤법> 편이라 처음에는 다가가지 못하겠지만 점점 친해지며 놀고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예전에 다문화 가정을 가진 친구와 놀고, 먹고, 학교 가는 꿈을 꾸었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 예전에 다문화 가정을 가진 친구와 놀고, 먹고, <문법_맞춤법>학교가는</문법_맞춤법> 꿈을 꾸었습니다.",
+      "sentence_corr_txt_styling": " 예전에 다문화 가정을 가진 친구와 놀고, 먹고, 학교 가는 꿈을 꾸었습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 너무 좋았습니다. 꿈이 아니었으면 재미있게 놀고 그럴 텐데라는생각이 들었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 너무 좋았습니다. 꿈이 <문법_맞춤법>아니였으면</문법_맞춤법> 재미있게 놀고 그럴텐데 라는 생각이 들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 얼마 전에 붕어빵이 먹고 싶어서 붕어빵을 사러 갔는데 붕어빵을 파는 분이 다문화 가정을 가지고 있는 사람처럼 보였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>얼마전에</문법_맞춤법> 붕어빵이 먹고 싶어서 붕어빵을 사러 갔는데 붕어빵을 파는분이 다문화 가정을 가지고 있는 사람처럼 보였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 원래  붕어빵 장사를 하는 분은 할머니나 할어버지께서 많이 하시는 걸 봤는데 20대 후반처럼 어리신 분이 붕어빵 장사를 하신다는 게 신기했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 원래 <문법_맞춤법>붕어빵장사를 하는분은</문법_맞춤법> 할머니나 할어버지께서 많이 하시는걸 봤는데 20대 후반처럼 어리신분이 붕어빵장사를 하신다는게 신기했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 회사에 취직하면 될것 같은데 왜 취직을 안 하는지 모르겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 회사에 취직하면 <문법_맞춤법>될것같은데 </문법_맞춤법>왜 취직을 안하는지 모르겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 솔직히 안 받아주는 사람들이 이해가 안 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 솔직히 <문법_맞춤법>안받아주는</문법_맞춤법> 사람들이 이해가 안 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그건 차별이나 마찬가지인데 왜 안 받아주는지 모르겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그건 차별이나 마찬가지인데 왜 <문법_맞춤법>안받아주는지</문법_맞춤법> 모르겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49880",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 638,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

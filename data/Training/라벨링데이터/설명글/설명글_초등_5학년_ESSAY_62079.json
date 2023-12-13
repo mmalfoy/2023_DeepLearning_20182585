@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미는 그림 그리기이다. #@문장구분#나는 그림을 잘그리지는 못하지만 열심히해서 귀여운 캐릭터를 그렸을 때 뿌듯하다. #@문장구분#그림으로 유명한 사람은 화가이자 조각가 등에 아주 많은직업을 가진 레오나르도 다빈치이다. #@문장구분#레오나르도 다빈치는 지금까지 유명한 화가이다. #@문장구분#내 취미는 또 있는데 이것은 바로 게임하기이다. #@문장구분#게임하는것을 좋아하는 것을 좋아한다. #@문장구분#게임에 역사는 잘 모르지만 아주 오래된 것으로 알고 있다. #@문장구분#게임은 대화가 많이 열린다. #@문장구분#롤, 오버워치, 배틀그라운드 등에 대회가 열린 것을 본적있는데 총 쏘는 게임은 나랑 맞지않는것같다. #@문장구분#나는 쿠키런, 좀비고등학교이두 게임을 좋아한다. #@문장구분#취미는 없는 것보다 있는게 더 좋은 것 같다.",
+      "paragraph_len": 543,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      21.933334,
+      22.733334
+    ],
+    "essay_scoreT_avg": 21.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 그림을 잘그리지는 못하지만 열심히 해서 귀여운 캐릭터를 그렸을 때 뿌듯하다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 그림을 잘그리지는 못하지만 <문법_맞춤법>열심히해서</문법_맞춤법> 귀여운 캐릭터를 그렸을 때 뿌듯하다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그림으로 유명한 사람은 화가이자 조각가 등에 아주 많은 직업을 가진 레오나르도 다빈치이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그림으로 유명한 사람은 화가이자 조각가 등에 아주 <문법_맞춤법>많은직업을</문법_맞춤법> 가진 레오나르도 다빈치이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "게임하는 것을 좋아하는 것을 좋아한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>게임하는것을</문법_맞춤법> 좋아하는 것을 좋아한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "롤, 오버워치, 배틀그라운드 등에 대회가 열린 것을 본 적 있는데 총 쏘는 게임은 나랑 맞지 않는 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "롤, 오버워치, 배틀그라운드 등에 대회가 열린 것을 <문법_맞춤법>본적있는데 총 쏘는 게임은 나랑 맞지않는것같다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62079",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 344,
+    "essay_main_subject": "나의 취미"
+  }
+}

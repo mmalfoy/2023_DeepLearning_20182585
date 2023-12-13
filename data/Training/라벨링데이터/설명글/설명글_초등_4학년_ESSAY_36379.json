@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "예학습에는 하루에 30분~50분동안 보는데 학교 수업에 과제, 수업에 페이지를 풀거나 그걸 보고 여가활동은 1번째는 축구다.#@문장구분# 축구는 팀과 협력을 하여 골을 넣는건데 나는 축구가 제일 재밌는 운동이라서 가끔씩 한다.#@문장구분# 축구를 할때 패스와 슛을한다.#@문장구분# 2번째는 게임이다.#@문장구분# 게임은 여러가지 종류가 있는데 나는 그중에서 브롤스타즈, 오버워치, 피파온라인4, 템템, 포켓몬고 등등 한다.#@문장구분# 브롤스타즈는 여러 브롤러들이 싸우는데 쇼다운은 10명중 최후에 1인이 되면 이기고 브롤볼은 먼저 2골을 넣으면 이긴다.#@문장구분# 녹아웃은 2번을 상대 3명을 잡으면 이긴다.#@문장구분# 이거 말고 다른 모드도 있지만 너무 많아서 설명을 안 한다.#@문장구분# 오버워치는 여러 영웅들이 6ㄷ6으로 싸우는 FPS게임인데 사람들이 가장 많이 하는 모드는 빠른대전, 경쟁전이 있다.#@문장구분# 피파온라인4는 11명ㄷ11명이 하는 축군데 축구다.#@문장구분# 그 다음은 템템인데 템템은 여러 템템들 2ㄷ2로 싸우는 전투게임이다.#@문장구분# 그 다음은 포켓몬고다.#@문장구분# 포켓몬고는 걸어다니며 포켓몬을 잡는 게임이다.#@문장구분# 이외에도 더 있지만 많아서 여기까지만 할거다.#@문장구분#",
+      "paragraph_len": 813,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      12.733334,
+      15.314285
+    ],
+    "essay_scoreT_avg": 15.482539,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요문맥상 부자연스러움",
+        "띄어쓰기 필요문맥상 부자연스러움"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_맞춤법><스타일링_담화 맥락 오류>예학습에는 하루에 30분~50분동안</스타일링_담화 맥락 오류></스타일링_맞춤법> 보는데 학교 수업에 과제, 수업에 페이지를 풀거나 그걸 보고 여가활동은 1번째는 축구다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 축구는 팀과 협력을 하여 골을<문법_맞춤법> 넣는건데</문법_맞춤법> 나는 축구가 제일 재밌는 운동이라서 가끔씩 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "맞춤법 정정,띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 축구를 <문법_맞춤법>할때 패스와 슛을한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 브롤스타즈는 여러 브롤러들이 싸우는데<문법_맞춤법> 쇼다운은</문법_맞춤법> 10명중 최후에 1인이 되면 이기고 브롤볼은 먼저 2골을 넣으면 이긴다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 오버워치는 여러 영웅들이 6ㄷ6으로 싸우는 <문법_맞춤법>FPS게임인데</문법_맞춤법> 사람들이 가장 많이 하는 모드는 빠른대전, 경쟁전이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 피파온라인4는 <문법_맞춤법>11명ㄷ11명</문법_맞춤법>이 하는 축군데 축구다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 다음은 템템인데 템템은 여러 템템들 2<문법_맞춤법>ㄷ</문법_맞춤법>2로 싸우는 전투게임이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36379",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 534,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

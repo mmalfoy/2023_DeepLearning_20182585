@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 일단 일어나서 눈꼽을 떼고 밥을 먼저먹어요!#@문장구분# 밥을 먹고나서는 양치질을 하고 세수하고 손을 씻어요.#@문장구분# 샤워는 밤에 할꺼에요. #@문장구분#밖에 나가기 전에 마스크 쓰는거 잊지않고 해요. #@문장구분#그리고 학교에서는 손소독제로 손소독을 하고 교실에 들어가요. #@문장구분#그리고 저는 제 손소독제가 있어서 조금 더러워질때마다 손소독제를 발라요. #@문장구분#그래서 친구가 저한테 올 때 손소독제 냄새가 엄청 난다구 놀릴때도있어요. #@문장구분#그리고 점심시간에도 손소독을 하고 먹어요. #@문장구분#체육시간에는 열심히 뛰어놀다가 흙묻은손을 바로 씻어야해요.#@문장구분# 아니면 엄청 더러워요.#@문장구분# 그리고 집에 돌아와서는 손바로 또씻고 밥먹고 양치를해요.#@문장구분# 그리고 이제 저녁에 샤워를해요! #@문장구분#샤워는 진짜 구석구석하고 나중에 로션을 발라줘요. #@문장구분#그러면 더 깨끗해지는거같아요. #@문장구분#그리고 자기전에 양치를 하고 자요!",
+      "paragraph_len": 678,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.914286,
+      24.514286,
+      24.333334
+    ],
+    "essay_scoreT_avg": 25.25397,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_85771",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 399,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

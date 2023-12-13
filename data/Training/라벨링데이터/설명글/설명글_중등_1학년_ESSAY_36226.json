@@ -1,0 +1,358 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에게 좋은 습관이 뭐가 있을까 곰곰이 생각해 봐도 사실 얼른 떠오르는게 없다.#@문장구분# 그래도 에세이를 쓰기 위해 구지 찾아본다면 아침에 잘 일어나는 것이다.#@문장구분# 엄마가 늘 깨우는 시간은 씻고 아침밥을 먹고 여유있게 등교할 수 있는 시간을 계산해서 깨우는 것이다.#@문장구분# 그러면 나는 모든 것을 다 안해도 잠을 조금이라도 더 잘수 있는 시간을 계산한다.#@문장구분# 그러니 아침마다 엄마와 전쟁을 했었다.#@문장구분# 그렇지만 중학교에 들어오고 난 후 새로운 계획과 목표를 세웠는데 그 중 하나가 알람을 3분 간격으로 여러번 맞춰 놓고 스스로 일어날수 있도록 훈련을 해보게 되었고 엄마와 약속도 했었던 것이다.#@문장구분# 밥 보다 잠을 택했던 내게 쉽지 않은 일이었지만 지금은 7개월 정도의 시간이 흐르고 보니 어느정도 익숙해 졌다.#@문장구분# 아침밥도 먹고 무엇보다 엄마랑 관계가 좋아지고 평화로운 아침을 보낼수 있어서 다행이다.#@문장구분# 그리고 성공한 사람들의 생활모습들 중에서 꼭 빠지지 않는 것 중의 하나가 아침에 일찍 일어나는 것이 있는 것 같다.#@문장구분# 하루가 길기도 하고 부지런해지며 좋은것들이 많은 것 같다.#@문장구분# 알람소리가 무섭고 귀찮을때도 있지만 이기고 잘 일어나 좋은 습관으로 계속 지켜 나가고 싶다.#@문장구분#",
+      "paragraph_len": 799,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      26.65,
+      22.25
+    ],
+    "essay_scoreT_avg": 23.766668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.01",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나에게 좋은 습관이 뭐가 있을까 곰곰이 생각해 봐도 사실 바로 떠오르는 게 없다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "나에게 좋은 습관이 뭐가 있을까 곰곰이 생각해 봐도 사실 <스타일링_담화 맥락 오류><스타일링_기타>얼른</스타일링_기타></스타일링_담화 맥락 오류> <문법_맞춤법>떠오르는게 </문법_맞춤법>없다.",
+      "sentence_corr_txt_styling": "나에게 좋은 습관이 뭐가 있을까 곰곰이 생각해 봐도 사실 바로 떠오르는 게 없다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 에세이를 쓰기 위해 굳이 찾아본다면 아침에 잘 일어나는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래도 에세이를 쓰기 위해 <문법_맞춤법>구지 </문법_맞춤법>찾아본다면 아침에 잘 일어나는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마가 늘 깨우는 시간은 씻고 아침밥을 먹고 여유 있게 등교할 수 있는 시간을 계산해서 깨우는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마가 늘 깨우는 시간은 씻고 아침밥을 먹고 <문법_맞춤법>여유있게 </문법_맞춤법>등교할 수 있는 시간을 계산해서 깨우는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 나는 도 잠을 조금이라도 더 잘 수 있는 시간을 계산한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그러면 나는<스타일링_담화 맥락 오류> 모든 것을 다 안해도</스타일링_담화 맥락 오류> 잠을 조금이라도 더 <문법_맞춤법>잘수</문법_맞춤법> 있는 시간을 계산한다.",
+      "sentence_corr_txt_styling": " 그러면 나는 도 잠을 조금이라도 더 잘 수 있는 시간을 계산한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그러니 </스타일링_담화 맥락 오류>아침마다 엄마와 <스타일링_기타>전쟁을 했었다</스타일링_기타>.",
+      "sentence_corr_txt_styling": " 그래서 아침마다 엄마와 다투곤 했었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "   중학교에 들어오고 난 후 새로운 계획과 목표를 세웠는데 그중 하나가 알람을 3분 간격으로 여러 번 맞춰 놓고 스스로 일어날 수 있도록 훈련을 하는 것이었고, 엄마와 약속도 했다.",
+      "sentence_corr_reason": [
+        "붙여쓰기",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "어미",
+        "시제"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그렇지만</스타일링_담화 맥락 오류> 중학교에 들어오고 난 후 새로운 계획과 목표를 세웠는데<문법_맞춤법> 그 중</문법_맞춤법> 하나가 알람을 3분 간격으로 여러번 맞춰 놓고 스스로 일어날수 있도록 훈련을 <문법_어미>해보게 되었고</문법_어미> 엄마와 약속도 <문법_시제>했었던 것이다.</문법_시제>",
+      "sentence_corr_txt_styling": "   중학교에 들어오고 난 후 새로운 계획과 목표를 세웠는데 그중 하나가 알람을 3분 간격으로 여러 번 맞춰 놓고 스스로 일어날 수 있도록 훈련을 하는 것이었고, 엄마와 약속도 했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 밥보다 잠을 택했던 내게 쉽지 않은 일이었지만 7개월 정도의 시간이 흐르고 보니 어느 정도 익숙해졌다.",
+      "sentence_corr_reason": [
+        "붙여쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>밥 보다</문법_맞춤법> 잠을 택했던 내게 쉽지 않은 일이었지만 <스타일링_담화 맥락 오류>지금은 </스타일링_담화 맥락 오류>7개월 정도의 시간이 흐르고 보니 어느정도 익숙해 졌다.",
+      "sentence_corr_txt_styling": " 밥보다 잠을 택했던 내게 쉽지 않은 일이었지만 7개월 정도의 시간이 흐르고 보니 어느 정도 익숙해졌다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침밥도 먹고 무엇보다 엄마랑 관계가 좋아지고 평화로운 아침을 보낼 수 있어서 다행이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아침밥도 먹고 무엇보다 엄마랑 관계가 좋아지고 평화로운 아침을<문법_맞춤법> 보낼수</문법_맞춤법> 있어서 다행이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 성공한 사람들의 생활 모습들 중에서 꼭 빠지지 않는 것이 아침에 일찍 일어나는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징",
+        "어미"
+      ],
+      "sentence_txt": " 그리고 성공한 사람들의 <문법_맞춤법>생활모습들</문법_맞춤법> 중에서 꼭 빠지지 않는 <스타일링_패러프레이징>것 중의 하나가</스타일링_패러프레이징> 아침에 일찍 일어나는 <문법_어미>것이 있는 것 같다.</문법_어미>",
+      "sentence_corr_txt_styling": " 그리고 성공한 사람들의 생활 모습들 중에서 꼭 빠지지 않는 것이 아침에 일찍 일어나는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하루가 길기도 하고 부지런해지며 좋은 것들이 많은 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하루가 길기도 하고 부지런해지며 <문법_맞춤법>좋은것들이</문법_맞춤법> 많은 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 알람 소리가 무섭고 귀찮을 때도 있지만 이겨내고 잘 일어나 좋은 습관으로 계속 지켜 나가고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>알람소리가 </문법_맞춤법>무섭고 귀찮을때도 있지만 <문법_어미>이기고 </문법_어미>잘 일어나 좋은 습관으로 계속 지켜 나가고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36226",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 580,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

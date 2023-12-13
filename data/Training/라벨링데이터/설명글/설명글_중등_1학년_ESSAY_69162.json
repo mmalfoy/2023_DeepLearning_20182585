@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 좋은 습관을 들이기 위해서 노력을 했던 경험들이 있다.#@문장구분# 어떤 습관이었냐면  시간을 잘 지키는 습관을 들이기 위해서 노력을 했다.#@문장구분# 나는 친구들과 약속을 잡은 정말 항상 약속했던 시간보다 늦게 갔었다.#@문장구분# 그래서 친구들이 싫어했다.#@문장구분# 나도 그럴 때마다 정말 미안했었지만, 미안한 마음도 그때뿐이고 또 나중에 시간이 흘러서 약속을 잡고 친구들을 만날 때면 또또 지각은 한다.#@문장구분# 그래서 나는 매일 친구들에게 너무 미안했다.#@문장구분# 그래서 나는 앞으로 약속 시간에 늦지 않고, 약속 시간보다 일찍 가는 그런 좋은 습관을 들이기 위해서 노력을 했던 것 같다.#@문장구분# 그래서 구체적으로 어떤 노력을 하였냐면 나는 일단 만나고자 했던 시간의 두시간 먼저 준비를 하기 시작했다.#@문장구분# 그러면 준비가 다 마치면 약속 시간보다 삼십분 정도 일찍인 시간이다.#@문장구분# 그때 휴대폰을 한 십분정도 했다가 약속 장소로 가면 약속한 시간보다 일찍이다.#@문장구분# 그래서 나는 매번 이렇게 실천하여서 이러한 좋은 습관을 들일 수 있었다.#@문장구분#",
+      "paragraph_len": 705,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.75,
+      27.2,
+      17.05
+    ],
+    "essay_scoreT_avg": 23.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 어떤 습관이었냐면  시간을 잘 지키는 습관을 들이기 위해서 노력했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 어떤 습관이었냐면  시간을 잘 지키는 습관을 들이기 위해서 <문법_조사>노력을 했다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 그럴 때마다 정말 미안했었지만, 미안한 마음도 그때뿐이고 또 나중에 시간이 흘러서 약속을 잡고 친구들을 만날 때면 또 지각을 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": " 나도 그럴 때마다 정말 미안했었지만, 미안한 마음도 그때뿐이고 또 나중에 시간이 흘러서 약속을 잡고 친구들을 만날 때면 <문법_기타>또또</문법_기타> <문법_조사>지각은</문법_조사> 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그래서 나는 앞으로 약속 시간에 늦지 않고, 약속 시간보다 일찍 가는 그런 좋은 습관을 들이기 위해서 노력을 했던 것 같다.",
+      "sentence_corr_txt_styling": " 그래서 나는 앞으로 약속 시간에 늦지 않고, 약속 시간보다 일찍 가는 그런 좋은 습관을 들이기 위해서 노력을 했던 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 구체적으로 어떤 노력을 하였냐면 나는 일단 만나고자 했던 시간보다 두 시간 먼저 준비를 하기 시작했다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 구체적으로 어떤 노력을 하였냐면 나는 일단 만나고자 했던 <문법_조사>시간의</문법_조사> <문법_맞춤법>두시간</문법_맞춤법> 먼저 준비를 하기 시작했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 준비를 다 마치면 약속 시간보다 삼십분 정도 일찍인 시간이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그러면 <문법_조사>준비가</문법_조사> 다 마치면 약속 시간보다 삼십분 정도 일찍인 시간이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69162",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 485,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

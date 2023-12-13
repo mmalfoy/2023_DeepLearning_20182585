@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 나를 좋아하는 사람한테 끌린다.#@문장구분# 나에게 호감을 표시하고, 좋다면서 잘해주는 사람이 너무너무 좋다. #@문장구분#이상형에게 잘보이기 위해서는 내가 먼저 좋은 사람이 되어야 하지 않을까? #@문장구분#누구에게나 좋게 보이는 호감형이 되어야 할 거다. #@문장구분#그래서 먼저 나는 내가 어떤 종류의 사람을 보고 호감을 느끼는지에 대해 생각해보기로 했다.#@문장구분#  나는 나랑 취미가 맞는 사람한테 호감을 느낀다.#@문장구분# 내 취미는 컴퓨터 게임이다. #@문장구분#나는 여자 중학교를 다니는데, 그래서 그런지 아쉽게도 게임을 좋아하는 친구가 별로 없다.#@문장구분# 내 주변에 게임을 좋아하는 친구가 나타난다면 나는 그 친구와 친해지기 위해서 별 짓을 다 할 것이다.#@문장구분#   또 나는 인성이 좋은 사람한테 호감을 느낀다. #@문장구분#인성이 더러운 사람은 싫다.#@문장구분# 보통 싸가지 없고 질이 나쁘기 때문이다. #@문장구분#인성이 좋은 사람은 마음가짐이 바르다 보니까 언행도 정말 깔끔하고 예쁘다. #@문장구분#그래서 나는 인성이 좋은 사람이 좋다. #@문장구분#그런데 사람은 끼리끼리 만난다고 한다. #@문장구분#게임을 좋아하는 내가 게임을 좋아하는 친구와 친해지는 것과 같은 원리라고 본다. #@문장구분#그래서 난 내 이상형에게 잘 보이기 위해서 먼저 내 인성을 갈고 닦도록 노력을 해야한다.",
+      "paragraph_len": 896,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          1.3333334
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              1
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.1111112,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.222221,
+      13.111111,
+      14.444445
+    ],
+    "essay_scoreT_avg": 14.592593,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "이상형과 나의 노력",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "이상형에게 잘 보이기 위해서는 내가 먼저 좋은 사람이 되어야 하지 않을까? ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이상형에게 <문법_맞춤법>잘보이기 </문법_맞춤법>위해서는 내가 먼저 좋은 사람이 되어야 하지 않을까? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 먼저 나는 내가 어떤 종류의 사람을 보고 호감을 느끼는지에 대해 생각해 보기로 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 먼저 나는 내가 어떤 종류의 사람을 보고 호감을 느끼는지에 대해 <문법_맞춤법>생각해보기로 </문법_맞춤법>했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_54093",
+    "essay_prompt": " 현대사회에서는 연예인이 또 다른 우상으로서 이상형이 되는 경우가 많습니다. 많은 사람이 이상형에 걸맞은 사람이 되기 위해 노력하고 자신을 가꿉니다.\n\n 여러분은 이상형이 있으신가요? 이상형에게 잘 보이기 위해 본인을 가꾸고 노력하고 계신가요? 본인의 이상형을 작성하고 더 나은 내가 되기 위해 한 노력을 작성해보세요.\n\n 아직 없다면 내가 좋아하는 사람의 특징을 작성해보고 이상형에게 잘 보이기 위해 어떤 것들을 해야 할지 작성해보세요.\n\n 누군가에게 잘 보이고 싶어 하는 성격이 아니라면 굳이 이상형이 없다고 작성하고 본인 자체적으로 만족하기 위해 하는 노력을 작성해도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 578,
+    "essay_main_subject": "이상형과 나의 노력"
+  }
+}

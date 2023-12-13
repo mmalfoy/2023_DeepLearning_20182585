@@ -1,0 +1,264 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 유튜브 보기 입니다.#@문장구분# 저의 취미가 유튜브 보기 인것은 이유가 있습니다.#@문장구분#\n 첫 번째로 취미는 자신이 좋아하는 일을 하는 것이 취미입니다.#@문장구분# 그래서 저는 제가 할일을 끝내고 남는 시간에 유튜브를 보는 것을 좋아합니다.#@문장구분# 할일을 끝내고 유튜브를 보면 그날 안좋았던 기억들이 사라집니다.#@문장구분#\n 두 번째로 처음엔 필요한 정보나 공부를 하기위해 유튜브를 봤습니다.#@문장구분# 그러다 우연히 알고리즘에 혜안님 영상이 떠서 우연히 보다가 너무 재미있어서 계속 봤습니다.#@문장구분# 너무 많이 봐서 시력도 안좋아지고 엄마께서도 좋아하지 않으셨습니다.#@문장구분# 그래서 유튜브 시청 시간을 줄이고 엄마께서도 뭐라 하지 않으시고 유튜브를 더 재미있게 시청할수 있었습니다.#@문장구분#\n 내가 좋아하는 일을 하면서 공부도 하고 부모님이 많이 싫어하지 않으셔서 좋습니다.#@문장구분#",
+      "paragraph_len": 596,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.685713,
+      20,
+      21.133335
+    ],
+    "essay_scoreT_avg": 22.606348,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 취미는 유튜브 보기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 취미는 유튜브 <문법_맞춤법>보기 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저의 취미가 유튜브 보기 인 것은 이유가 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저의 취미가 유튜브 보기 <문법_맞춤법>인것은</문법_맞춤법> 이유가 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 제가 할 일을 끝내고 남는 시간에 유튜브를 보는 것을 좋아합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 제가 <문법_맞춤법>할일을</문법_맞춤법> 끝내고 남는 시간에 유튜브를 보는 것을 좋아합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 할 일을 끝내고 유튜브를 보면 그날 안 좋았던 기억들이 사라집니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>할일을</문법_맞춤법> 끝내고 유튜브를 보면 그날 안좋았던 기억들이 사라집니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 두 번째로 처음엔 필요한 정보나 공부를 하기 위해 유튜브를 봤습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 두 번째로 처음엔 필요한 정보나 공부를 <문법_맞춤법>하기위해</문법_맞춤법> 유튜브를 봤습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 너무 많이 봐서 시력도 안 좋아지고 엄마께서도 좋아하지 않으셨습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 너무 많이 봐서 시력도 <문법_맞춤법>안좋아지고</문법_맞춤법> 엄마께서도 좋아하지 않으셨습니다.",
+      "sentence_corr_txt_styling": " 너무 많이 봐서 시력도 안 좋아지고 엄마께서도 좋아하지 않으셨습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 유튜브 시청 시간을 줄이고 엄마께서도 뭐라 하지 않으시고 유튜브를 더 재미있게 시청할 수 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 유튜브 시청 시간을 줄이고 엄마께서도 뭐라 하지 않으시고 유튜브를 더 재미있게 <문법_맞춤법>시청할수</문법_맞춤법> 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42332",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 397,
+    "essay_main_subject": "나의 취미"
+  }
+}

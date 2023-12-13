@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우선 나 자신부터 학교폭력이나 다른 위험한 정난 등을 하지 않아야합니다.#@문장구분#친구 외모에는 신경써도 되지만, 외모를 비하하거나 장난치지 않아야합니다.#@문장구분# 선을 넘는다면 그것은 관심을 넘어 질타와 타박이될 것입니다.#@문장구분#만약 학교폭력이 일어난다면 아무리 사소한 폭력이라 할지에도 되도록 부모님이나 주변 어른, 선생님께 말씀드려야합니다.#@문장구분# 그래야 앞으로의 더 큰 폭력도 막을 수 있습니다.#@문장구분# 학교폭력의 피해자는 다음 학년, 심하면 평생까지도 괴로울 수 있고,학교폭력의 가해자는 나중에 낙인이 찍히게 되면 취업하는 것이 어려울 수 있어신체적, 정신적, 경제적 피해가 발생할 수 있기 때문입니다.#@문장구분#또한, 방관자도 나중에 문제가 될 수 있습니다.#@문장구분# 우리는 선하게 살아야합니다.#@문장구분# 누군가에게 상처를 주고 맘에 들지 않는다고 하여 욕을 하거나 깔아뭉개려는 심리는 뭐, 들 수는 있습니다.#@문장구분# 하지만 그것은 실천하냐 안 하냐의 차이이죠.#@문장구분# 비인간적인 일이니깐요.#@문장구분#",
+      "paragraph_len": 678,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          1.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.61111,
+      20.577778,
+      27.61111
+    ],
+    "essay_scoreT_avg": 25.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우선 나 자신부터 학교폭력이나 다른 위험한 정난 등을 하지 않아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우선 나 자신부터 학교폭력이나 다른 위험한 정난 등을 하지 <문법_맞춤법>않아야합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구 외모에는 신경 써도 되지만, 외모를 비하하거나 장난치지 않아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구 외모에는 <문법_맞춤법>신경써도 </문법_맞춤법>되지만, 외모를 비하하거나 장난치지 않아야합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선을 넘는다면 그것은 관심을 넘어 질타와 타박이 될 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선을 넘는다면 그것은 관심을 넘어 질타와 <문법_맞춤법>타박이될 </문법_맞춤법>것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 학교폭력이 일어난다면 아무리 사소한 폭력이라 할지에도 되도록 부모님이나 주변 어른, 선생님께 말씀드려야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "만약 학교폭력이 일어난다면 아무리 사소한 폭력이라 할지에도 되도록 부모님이나 주변 어른, 선생님께 <문법_맞춤법>말씀드려야합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력의 피해자는 다음 학년, 심하면 평생까지도 괴로울 수 있고, 학교폭력의 가해자는 나중에 낙인이 찍히게 되면 취업하는 것이 어려울 수 있어 신체적, 정신적, 경제적 피해가 발생할 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력의 피해자는 다음 학년, 심하면 평생까지도 괴로울 수 <문법_맞춤법>있고,학교폭력의 </문법_맞춤법>가해자는 나중에 낙인이 찍히게 되면 취업하는 것이 어려울 수 있어신체적, 정신적, 경제적 피해가 발생할 수 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 선하게 살아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 선하게 <문법_맞춤법>살아야합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64080",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 459,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "좋은 습관을 들이기 위해서는 시작이 중요하다고 생각한다.#@문장구분# 습관은 한번들면 잘없어지지 않는다.#@문장구분# 그러므로 습관을 들이기 위해 초반 1달 정도는 습관을 들이기 위해 노력해야 한다.#@문장구분# 허나 나쁜 습관이 들어버렸을때 바꾸기 위해선 나쁜 습관을 없앨 수 있는 좋은 습관 또는 나쁜 습관을 대신할 수 있는 것이 있어야 된다.#@문장구분# 예를들어 잠을 늦게잘때는 생활패턴을 리셋 시키면 된다.#@문장구분# 만약 10시에 자고싶으면 빨리일어나 7시에 밥을 먹고 원하는 시간까지 조금씩 줄이면서 자면 10시에 자고 7시에 일어날 수 있다.#@문장구분# 습관은 바로는 안바뀌지만 조금씩 바꾸면 바꾸어 진다.#@문장구분# 그래서 사소한 변화를 주면 몸도 점점 변화한다.#@문장구분# 사람의 생체시계는 한번에 바뀌면 처음으로 돌아가지만 천천히 하면 그게 습관이 되서 습관이 들 수 있다.#@문장구분# 예전에 나는 새벽에 자지만 지금의나는 이 방법을 써11시에 잔다.#@문장구분# 특히 학교에 갈때는 새벽에 자서 7시30분에 일어나는 대 참사를 막기위해 늦어도 12시 까지 잔다.#@문장구분# 내 수면시간은 많으면 9시간 적으면 6시30분정도다.#@문장구분# 이정도로 잡았지만 잠을 많이자면 9시30분부터 자는게 좋다고 생각이 든다.#@문장구분# 좋은 습관은 길드리면 좋고 나쁜 습관은 길드리면 절대적으로안 좋다.#@문장구분#",
+      "paragraph_len": 875,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.3,
+      27.35,
+      21.5
+    ],
+    "essay_scoreT_avg": 24.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "033",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 습관은 한 번 들이면 잘 없어지지 않는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 등"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 습관은 <문법_맞춤법>한번들면</문법_맞춤법> 잘없어지지 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그러므로 습관을 들이기 위해 초반 1달 정도는 <스타일링_패러프레이징>습관을 들이기 위해 노력해야 한다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": " 그러므로 습관을 들이기 위해 초반 1달 정도는 노력해야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나쁜 습관이 들어버렸을 때 바꾸기 위해선 나쁜 습관을 없앨 수 있는 좋은 습관이 있어야 된다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>허나 나쁜 습관이 들어버렸을때</문법_기타></문법_맞춤법> 바꾸기 위해선 나쁜 습관을 없앨 수 있는 좋은 습관 또는 나쁜 습관을 대신할 수 있는 것이 있어야 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 잠을 늦게 잘 때는 생활패턴을 리셋 시키면 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>예를들어</문법_맞춤법> 잠을 늦게잘때는 생활패턴을 리셋 시키면 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 10시에 자고 싶으면 빨리 일어나 7시에 밥을 먹고 원하는 시간까지 조금씩 줄이면서 자면 10시에 자고 7시에 일어날 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 10시에 <문법_맞춤법>자고싶으면</문법_맞춤법> 빨리일어나 7시에 밥을 먹고 원하는 시간까지 조금씩 줄이면서 자면 10시에 자고 7시에 일어날 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 습관은 바로는 안바뀌지만 조금씩 바꾸면 바뀐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 습관은 바로는 안바뀌지만 조금씩 바꾸면 <문법_맞춤법>바꾸어 진다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 사람의 생체시계는 한번에 바뀌면 처음으로 돌아가지만 천천히 하면 그게 습관이 <스타일링_맞춤법><스타일링_패러프레이징>되서 습관이 들 수 있다</스타일링_패러프레이징></스타일링_맞춤법>.",
+      "sentence_corr_txt_styling": " 사람의 생체시계는 한번에 바뀌면 처음으로 돌아가지만 천천히 하면 그게 습관이 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예전에 나는 새벽에 잤지만 지금의 나는 이 방법을 써 11시에 잔다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " 예전에 나는 새벽에 <문법_어미>자지만</문법_어미> <문법_맞춤법>지금의나는</문법_맞춤법> 이 방법을 써11시에 잔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 학교에 갈 때는 새벽에 자서 7시30분에 일어나는 일을 막기위해 늦어도 12시에는 잔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "용어순화, 띄어쓰기",
+        "붙여쓰기, 조사"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": " 특히 학교에 <문법_맞춤법>갈때는</문법_맞춤법> 새벽에 자서 7시30분에 일어나는 <스타일링_기타>대 참사를</스타일링_기타> 막기위해 늦어도 <문법_조사>12시 까지</문법_조사> 잔다.",
+      "sentence_corr_txt_styling": " 특히 학교에 갈 때는 새벽에 자서 7시30분에 일어나는 일을 막기위해 늦어도 12시에는 잔다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 수면시간은 많으면 9시간 적으면 6시간 30분 정도다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 어휘",
+        "띄어쓰기, 어휘"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 내 수면시간은 많으면 9시간 적으면 <문법_맞춤법><문법_기타>6시30분정도다</문법_기타></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 잠을 많이 자기 위해 9시30분부터 자는 게 좋다고 생각이 든다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_기타>이정도로 잡았지만 잠을 많이자면</스타일링_기타> 9시30분부터 <문법_맞춤법>자는게</문법_맞춤법> 좋다고 생각이 든다.",
+      "sentence_corr_txt_styling": " 그래도 잠을 많이 자기 위해 9시30분부터 자는 게 좋다고 생각이 든다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 좋은 습관은 길들이면 좋고 나쁜 습관은 길들이면 절대적으로 안좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 좋은 습관은 <문법_맞춤법>길드리면</문법_맞춤법> 좋고 나쁜 습관은 <문법_맞춤법>길드리면</문법_맞춤법> 절대적으로안 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33726",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 596,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

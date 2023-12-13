@@ -1,0 +1,209 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사람마다 가지고 있는 좋은 습관과 좋지 못한 습관들은 수를 살 수 없이도 많다.#@문장구분# 하지만 자신이 이런 습관들을 모두 알고 있음이란 불가능하다. #@문장구분#그렇기 때문에 주변에서 자신의 안 좋은 습관을 말해준다면 그것을 고치도록 노력을 해야 하고 혹시나 자신이 알고 있는 자신의 좋은 습관을 발견했다면 그것을 더욱 발전시켜 자신의 인생에 도움이 되도록 노력을 해야 한다.#@문장구분# 나에게는 시간 약속을 잘 못 지키는 습관이 있다.#@문장구분# 집이 학교랑 가깝다 보니 시간에 딱 맞춰서 가려고 하는 습관 때문에 친구와 어딘가에서 만나기로 약속을 하여도 항상 10분씩 듣는 것 같다.#@문장구분# 그래서 나는 이 습관을 고치기 위하여 평소보다 약속 시간에 맞춰 10분 이상 일찍 나가는 습관을 들였다. #@문장구분#그러다 보니 친구들보다 약속 시간에 더욱 빨리 도착하게 되었고 이제는 내가 친구들을 기다리는 상황까지 되었다.#@문장구분#",
+      "paragraph_len": 566,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      23.35,
+      12.55
+    ],
+    "essay_scoreT_avg": 21.3,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "사람마다 가지고 있는 좋은 습관과 좋지 못한 습관들은 수를 살 수 없이 많다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "사람마다 가지고 있는 좋은 습관과 좋지 못한 습관들은 수를 살 수 <문법_어미>없이도</문법_어미> 많다.",
+      "sentence_corr_txt_styling": "사람마다 가지고 있는 좋은 습관과 좋지 못한 습관들은 수를 살 수 없이 많다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇기 때문에 주변에서 자신의 안 좋은 습관을 말해준다면 그것을 고치도록 노력해야 하고, 혹시나 자신이 알고 있는 자신의 좋은 습관을 발견했다면 그것을 더욱 발전시켜 자신의 인생에 도움이 되도록 노력을 해야 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "그렇기 때문에 주변에서 자신의 안 좋은 습관을 말해준다면 그것을 고치도록 <문법_조사><문법_기타>노력을 해야 하고</문법_기타></문법_조사> 혹시나 자신이 알고 있는 자신의 좋은 습관을 발견했다면 그것을 더욱 발전시켜 자신의 인생에 도움이 되도록 노력을 해야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집이 학교랑 가깝다 보니 시간에 딱 맞춰서 가려고 하는 습관 때문에 친구와 어딘가에서 만나기로 약속을 하여도 항상 10분씩 듣는 것 같았다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 집이 학교랑 가깝다 보니 시간에 딱 맞춰서 가려고 하는 습관 때문에 친구와 어딘가에서 만나기로 약속을 하여도 항상 10분씩 듣는 것 <문법_시제>같다</문법_시제>.",
+      "sentence_corr_txt_styling": " 집이 학교랑 가깝다 보니 시간에 딱 맞춰서 가려고 하는 습관 때문에 친구와 어딘가에서 만나기로 약속을 하여도 항상 10분씩 듣는 것 같았다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69084",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 426,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

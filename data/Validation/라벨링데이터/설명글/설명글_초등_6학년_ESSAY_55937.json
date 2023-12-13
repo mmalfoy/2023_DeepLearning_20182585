@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 친한 친구 중에서 진섭이라는 친구가 있고 저도 그친구도 서로에게 항상 고맙게 여기고 있습니다.#@문장구분# 여기에는 그럴만한 이유가 있습니다. #@문장구분#제가 꾸준히 용돈을 모으고 방학때 멀리가서 놀러가고 싶었는데 혼자 가긴 그래서 진섭랑 같이 갔습니다.#@문장구분# 진섭이가 기차표를 끊어주고 제가 가고싶은 장소와 진섭이가 가고싶은 장소를 골라서 기차를타고 원주로 갔습니다. #@문장구분#저는 처음으로 낯선땅을 혼자가서 두려웠지만 진섭이는 같이 이끌어주고 기차시간에도 맞춰서 일정을 잘 맞춰줬습니다.#@문장구분# 진섭이 덕분에 낯선곳도 가보고 맛있는것도 먹어보고 좋은 경험을 했습니다. #@문장구분#비록 부모님에게 말도없이 갔다와서 혼이났지만 진섭이와 저는 이 계기로 더 친해졌습니다.",
+      "paragraph_len": 466,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.75,
+      23.1,
+      22.1
+    ],
+    "essay_scoreT_avg": 22.983332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 친한 친구 중에서 진섭이라는 친구가 있고 저도 그 친구도 서로에게 항상 고맙게 여기고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 친한 친구 중에서 진섭이라는 친구가 있고 저도 <문법_맞춤법>그친구도</문법_맞춤법> 서로에게 항상 고맙게 여기고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여기에는 그럴 만한 이유가 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여기에는 <문법_맞춤법>그럴만한</문법_맞춤법> 이유가 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 꾸준히 용돈을 모으고 방학때 멀리 가서 놀러가고 싶었는데 혼자 가긴 그래서 진섭랑 같이 갔습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 꾸준히 용돈을 모으고 방학때 <문법_맞춤법>멀리가서</문법_맞춤법> 놀러가고 싶었는데 혼자 가긴 그래서 진섭랑 같이 갔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진섭이가 기차표를 끊어주고 제가 가고 싶은 장소와 진섭이가 가고 싶은 장소를 골라서 기차를 타고 원주로 갔습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 진섭이가 기차표를 끊어주고 제가 <문법_맞춤법>가고싶은</문법_맞춤법> 장소와 진섭이가 <문법_맞춤법>가고싶은</문법_맞춤법> 장소를 골라서 기차를타고 원주로 갔습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 처음으로 낯선 땅을 혼자 가서 두려웠지만 진섭이는 같이 이끌어주고 기차시간에도 맞춰서 일정을 잘 맞춰줬습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 처음으로 <문법_맞춤법>낯선땅을 혼자가서</문법_맞춤법> 두려웠지만 진섭이는 같이 이끌어주고 기차시간에도 맞춰서 일정을 잘 맞춰줬습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진섭이 덕분에 낯선 곳도 가보고 맛있는 것도 먹어보고 좋은 경험을 했습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 진섭이 덕분에 <문법_맞춤법>낯선곳도 가보고 맛있는것도</문법_맞춤법> 먹어보고 좋은 경험을 했습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "비록 부모님에게 말도 없이 갔다 와서 혼이 났지만 진섭이와 저는 이 계기로 더 친해졌습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "비록 부모님에게 <문법_맞춤법>말도없이 갔다와서 혼이났지만</문법_맞춤법> 진섭이와 저는 이 계기로 더 친해졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55937",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 347,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

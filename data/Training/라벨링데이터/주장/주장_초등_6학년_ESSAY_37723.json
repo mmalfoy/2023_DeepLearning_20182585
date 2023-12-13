@@ -1,0 +1,260 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "여러분들은 학교폭력에 대해서 어떻게 생각하시나요? #@문장구분#저는 학교폭력때문에 피해를 입는 학생이 항상 안타까웠는데요. #@문장구분#이번 학교폭력을 예방하고 줄일 수 있는 방법을 생각하면서 학교폭력에 대해서 다시 한 번 생각하게 되었는데요.#@문장구분# 학교폭력은 단순히 학교에서만 발생 되는 것이 아니라 학원에서도 발생되고 언어폭력도 학교폭력에 포함된다는걸 알게되었습니다. #@문장구분#그래서 저는 학교폭력을 예방하기 위해서 선생님 또는 부모님과 날을 정해서 상담도 하고 친하지 않은 애들끼리 짝꿍을 해서 친해질 기회를 주는 것도 예방하는 방법 이라고 생각합니다.#@문장구분# 그리고 학교폭력 피해자만 원한다면 학교폭력 강도에 따라 소년원에 짧게라도 가야한다고 생각합니다.#@문장구분# 왜냐하면 학교폭력 피해자는 가해자 때문에 피해를 입었기 때문에 강제전학을 가더라도 피해자에겐 잊지 못 할 상처가 될 수 있으므로 소년원에 짧게라도 가는 것을 처벌하는 방식이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 590,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      30,
+      23.855555
+    ],
+    "essay_scoreT_avg": 27.45185,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 학교폭력 때문에 피해를 입는 학생이 항상 안타까웠는데요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 학교폭력<문법_맞춤법>때문에</문법_맞춤법> 피해를 입는 학생이 항상 안타까웠는데요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이번에 학교폭력을 예방하고 줄일 수 있는 방법을 생각하면서 학교폭력에 대해서 다시 한번 생각하게 되었는데요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>이번</문법_기타> 학교폭력을 예방하고 줄일 수 있는 방법을 생각하면서 학교폭력에 대해서 다시 <문법_맞춤법>한 번</문법_맞춤법> 생각하게 되었는데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력은 단순히 학교에서만 발생되는 것이 아니라 학원에서도 발생되고, 언어폭력도 학교폭력에 포함된다는 것을 알게 되었습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 학교폭력은 단순히 학교에서만 <문법_맞춤법>발생 되는</문법_맞춤법> 것이 아니라 학원에서도 발생되고 언어폭력도 학교폭력에 포함<문법_조사>된다는걸 알게되었</문법_조사>습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저는 학교폭력을 예방하기 위해서 선생님 또는 부모님과 날을 정해서 상담도 하고 친하지 않은 애들끼리 짝꿍을 해서 친해질 기회를 주는 것을 생각하게 되었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그래서 저는 학교폭력을 예방하기 위해서 선생님 또는 부모님과 날을 정해서 상담도 하고 친하지 않은 애들끼리 짝꿍을 해서 친해질 기회를 주는 <문법_맞춤법><문법_기타>것도 예방하는 방법 이라고 생각합니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 학교폭력 피해자만 원한다면 학교폭력 강도에 따라 소년원에 가해자가 잠깐이라도 가야한다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 학교폭력 피해자만 원한다면 학교폭력 강도에 따라 소년원에 <문법_맞춤법><문법_기타>짧게라도 </문법_기타></문법_맞춤법>가야한다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 학교폭력 피해자는 가해자 때문에 피해를 입었기 때문에 강제전학을 가더라도 피해자에겐 잊지 못할 상처가 될 수 있으므로 소년원에 짧게라도 가는 것이 제대로 된 처벌방식이라고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 학교폭력 피해자는 가해자 때문에 피해를 입었기 때문에 강제전학을 가더라도 피해자에겐 잊지 <문법_맞춤법>못 할</문법_맞춤법> 상처가 될 수 있으므로 소년원에 짧게라도 가는 <문법_기타>것을</문법_기타> 처벌하는 방식이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37723",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 451,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

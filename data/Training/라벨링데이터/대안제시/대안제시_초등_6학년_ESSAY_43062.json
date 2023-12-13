@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물은 작고,귀엽고,사람쓰럽 습니다.#@문장구분#그리고 반려 동물 즉 고양이 강아지 등등 사람말을 못하지만 저는 인간과 같다고 생각합니다. #@문장구분#즉 어떤동물 어떠한 생김새 여도 사랑받고,존중해야된다고 생각합니다. #@문장구분#하지만 이러안 동물들을 학대하는 사람들이 많습니다. #@문장구분#그러면 동물들이 존중받을려면 어떻게 해야 될까요?#@문장구분# 첫째, 동물법을 강화 압니다. #@문장구분#동물들은 학대해서 하늘의 별로 만들어 농고 다시 동물을 입양해 학대하는 일이 많습니다. #@문장구분#동물법을 가오하 해서 다시는 못 입양시키게 해야 됩니다.#@문장구분#(막 동물들이 입양 가기전에 입양하는 사람의 프로필을 볼수있게 한다)#@문장구분#둘째.강아지 고양이 등 반려동물을키우는 사람 한에서 교육을 받는다. #@문장구분#버려지는 동물들의 생각,감정,기분 등을 생각하는 교육/ 그리고 입양한 동물들이 뭐를 좋아하는지,그리고 반려동물을 어떻게 해야지 기쁘게 해주는지 등등 반려동물의 대한 강의,교육을 받는다. #@문장구분#세상 반려동물은 행복해야 합니다. 감사함다.",
+      "paragraph_len": 689,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.11111,
+      27.61111,
+      25.52222
+    ],
+    "essay_scoreT_avg": 26.414816,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "반려동물은 작고, 귀엽고, 사랑스럽습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "반려동물은 <문법_맞춤법>작고,귀엽고,사람쓰럽 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 반려동물 즉 고양이 강아지 등등 사람 말을 못 하지만 저는 인간과 같다고 생각합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>반려 동물 즉 고양이 강아지 등등 사람말을 못하지만</문법_맞춤법> 저는 인간과 같다고 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "즉 어떤 동물 어떠한 생김새 여도 사랑받고, 존중해야 된다고 생각합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "즉 <문법_맞춤법>어떤동물 어떠한 생김새 여도 사랑받고,존중해야된다고</문법_맞춤법> 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러면 동물들이 존중받으려면 어떻게 해야 될까요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러면 동물들이 <문법_맞춤법>존중받을려면</문법_맞춤법> 어떻게 해야 될까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "동물법을 강화 해서 다시는 못 입양시키게 해야 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "동물법을 <문법_맞춤법>가오하</문법_맞춤법> 해서 다시는 못 입양시키게 해야 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "(막 동물들이 입양 가기 전에 입양하는 사람의 프로필을 볼 수 있게 한다)",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "(막 동물들이 입양 <문법_맞춤법>가기전에 입양하는 사람의 프로필을 볼수있게</문법_맞춤법> 한다)",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "둘째, 강아지 고양이 등 반려동물을 키우는 사람 한에서 교육을 받는다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>둘째.강아지 고양이 등 반려동물을키우는</문법_맞춤법> 사람 한에서 교육을 받는다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "버려지는 동물들의 생각, 감정, 기분 등을 생각하는 교육/ 그리고 입양한 동물들이 뭐를 좋아하는지, 그리고 반려동물을 어떻게 해야지 기쁘게 해주는지 등등 반려동물에 대한 강의, 교육을 받는다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "버려지는 동물들의 <문법_맞춤법>생각,감정,기분 등을 생각하는 교육/ 그리고 입양한 동물들이 뭐를 좋아하는지,그리고 반려동물을 어떻게 해야지 기쁘게 해주는지 등등 반려동물의 대한 강의,교육을</문법_맞춤법> 받는다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43062",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 470,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

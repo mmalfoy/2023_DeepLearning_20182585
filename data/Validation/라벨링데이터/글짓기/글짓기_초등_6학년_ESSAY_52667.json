@@ -1,0 +1,366 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "관심있는 바다생물은 범고래이므로 범고래로 정하겠음니다.#@문장구분# 왜냐하면 범고래는 일단 엄청 강하다고 들었기 때문에 모험할때 좋다고 생각하고 범고래가 똑똑해서 좋다고 생각합니다.#@문장구분# 이제 모험이야기를 하겠습니다.#@문장구분#\n 범고래가돼었습니다.#@문장구분# 일단 심해 들어가서 바다를 관찰합니다.#@문장구분# 그러다 몇시간뒤 숨을 쉬러 물 밖으로 갔다가 다시 물속으로 들어가서 물고기를 잡아서 먹었어요.#@문장구분# 그리고 배가 불러서 잠을 잤어요.#@문장구분# 그리고 다음날이 되었어요.#@문장구분# 오늘은 아쿠아리움으로 들어가서 밥을 얻어 먹고 왔어요#@문장구분# 그리고 또 잤어요 #@문장구분#그리고 다음날이 되었어요.#@문장구분# 이번엔 북극에 가서 북극곰이랑 친구도하고 물고기도 같이 먹었어요. #@문장구분#그리고 다시 돌아와서 심해의 미지의 세계로 가볼려했죠#@문장구분# 하지만 숨이차서 못갔어요. #@문장구분#그래서 저는 범고래대신 물속에서 계속있을수있는 물고기로 바꿔서 심해로 들어갔어요.#@문장구분# 아직 발켜지지 않은 미지의 세계 너무 신기 했어요#@문장구분# 일주일이 지났어요. #@문장구분#아주 좋은 경험이였고 엄청난 모험이었어요.#@문장구분# 진짜로 한번 그렇게 되면 좋겠네요.",
+      "paragraph_len": 858,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.65,
+      26.95
+    ],
+    "essay_scoreT_avg": 26.533335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "관심 있는 바다생물은 범고래이므로 범고래로 정하겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>관심있는</문법_맞춤법> 바다생물은 범고래이므로 범고래로 정하겠음니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 범고래는 일단 엄청 강하다고 들었기 때문에 모험할 때 좋다고 생각하고 범고래가 똑똑해서 좋다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 범고래는 일단 엄청 강하다고 들었기 때문에 <문법_맞춤법>모험할때 </문법_맞춤법>좋다고 생각하고 범고래가 똑똑해서 좋다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제 모험 이야기를 하겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이제 <문법_맞춤법>모험이야기를</문법_맞춤법> 하겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 범고래가 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>범고래가돼었습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러다 몇 시간 뒤 숨을 쉬러 물 밖으로 갔다가 다시 물속으로 들어가서 물고기를 잡아서 먹었어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러다 <문법_맞춤법>몇시간뒤</문법_맞춤법> 숨을 쉬러 물 밖으로 갔다가 다시 물속으로 들어가서 물고기를 잡아서 먹었어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오늘은 아쿠아리움으로 들어가서 밥을 얻어먹고 왔어요.",
+      "sentence_corr_reason": [
+        "",
+        "마침표"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 오늘은 아쿠아리움으로 들어가서 밥을 <문법_맞춤법>얻어 먹고</문법_맞춤법><문법_기타> 왔어요</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 잤어요. ",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 또 <문법_기타>잤어요</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이번엔 북극에 가서 북극곰이랑 친구도 하고 물고기도 같이 먹었어요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이번엔 북극에 가서 북극곰이랑 <문법_맞춤법>친구도하고</문법_맞춤법> 물고기도 같이 먹었어요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 다시 돌아와서 심해의 미지의 세계로 가보려 했죠!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그리고 다시 돌아와서 심해의 미지의 세계로<문법_맞춤법><문법_기타> 가볼려했죠</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 숨이 차서 못 갔어요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>숨이차서 못갔어요</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저는 범고래 대신 물속에서 계속 있을 수 있는 물고기로 바꿔서 심해로 들어갔어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 저는 <문법_맞춤법>범고래대신</문법_맞춤법> 물속에서 계속있을수있는 물고기로 바꿔서 심해로 들어갔어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아직 발켜지지 않은 미지의 세계 너무 신기했어요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 아직 발켜지지 않은 미지의 세계 너무 <문법_맞춤법><문법_기타>신기 했어요</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아주 좋은 경험이었고 엄청난 모험이었어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아주 좋은 <문법_맞춤법>경험이였고</문법_맞춤법> 엄청난 모험이었어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52667",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 499,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

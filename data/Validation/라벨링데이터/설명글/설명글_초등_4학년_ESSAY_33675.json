@@ -1,0 +1,319 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "양보한 적은 2~3년 정도는 있습니다.#@문장구분# 그런데 유투브나 버스에서 보면 가끔씩할머니,할아버지분들에게 안비켜주고 욕을 하는 사람도 있습니다.#@문장구분# 그리고 어린아이들 에게 욕을하고 약하니까 때릴려고 하는 사람도 있습니다.#@문장구분# 그리고 임산부이신 분께 욕을하고 폭력을 하려고 하는 나쁜 사람이 가끔씩 있습니다.#@문장구분# 아무래도 그 사람들은 자리를 비켜주기 싫고 짜증나고 자기보다 약한 사람들이라고 생각해서 그런짓을 하는것 같습니다.#@문장구분# 사람들이 그 사람을 욕하고 그리고 경찰이 올수도 있는데 그런짓을 왜하는지 모르겠습니다. #@문장구분#할머니,할아버지,어린아이들,임산부를 공격하는 사람들은 저는 나쁘다고 생각합니다.#@문장구분# 굳이 그런 약한 사람들의 약점을 잡아서 공격하는 사람은 나쁨니다.#@문장구분# 그리고 그 나쁜 사람을 혼내고 그러는 사람은 평소에도 그럴것 같습니다.#@문장구분# 그리고 어린아이들이 그러면 진짜 더 나쁜것 같습니다.#@문장구분# 버스에서 자리를 안비켜주고 욕을하는 사람은 나쁜 것 같습니다.#@문장구분#",
+      "paragraph_len": 683,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.666668,
+      23.314285,
+      25.6
+    ],
+    "essay_scoreT_avg": 22.86032,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그런데 유튜브나 버스에서 보면 가끔씩 할머니, 할아버지 분들에게 안 비켜주고 욕을 하는 사람도 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 <문법_맞춤법>유투브나 </문법_맞춤법>버스에서 보면 가끔씩할머니,할아버지분들에게 안비켜주고 욕을 하는 사람도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 어린 아이들에게 욕을 하고, 약하니까 때리려고 하는 사람도 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법 정정, 띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>어린아이들 에게 욕을하고 약하니까 때릴려고</문법_맞춤법> 하는 사람도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 임산부이신 분께 욕을 하고 폭력을 하려고 하는 나쁜 사람이 가끔씩 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 임산부이신 분께 <문법_맞춤법>욕을하고 </문법_맞춤법>폭력을 하려고 하는 나쁜 사람이 가끔씩 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무래도 그 사람들은 자리를 비켜주기 싫고 짜증 나고 자기보다 약한 사람들이라고 생각해서 그런 짓을 하는 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무래도 그 사람들은 자리를 비켜주기 싫고 <문법_맞춤법>짜증나고 </문법_맞춤법>자기보다 약한 사람들이라고 생각해서 그런짓을 하는것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들이 그 사람을 욕하고 그리고 경찰이 올 수도 있는데 그런 짓을 왜 하는지 모르겠습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람들이 그 사람을 욕하고 그리고 경찰이 <문법_맞춤법>올수도 </문법_맞춤법>있는데 그런짓을 왜하는지 모르겠습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "할머니, 할아버지, 어린 아이들, 임산부를 공격하는 사람들은 저는 나쁘다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>할머니,할아버지,어린아이들,임산부를</문법_맞춤법> 공격하는 사람들은 저는 나쁘다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 굳이 그런 약한 사람들의 약점을 잡아서 공격하는 사람은 나쁩니다.",
+      "sentence_corr_reason": [
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 굳이 그런 약한 사람들의 약점을 잡아서 공격하는 사람은 <문법_맞춤법>나쁨니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 그 나쁜 사람을 혼내고 그러는 사람은 평소에도 그럴 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 그 나쁜 사람을 혼내고 그러는 사람은 평소에도 <문법_맞춤법>그럴것 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 어린아이들이 그러면 진짜 더 나쁜 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 어린아이들이 그러면 진짜 더 <문법_맞춤법>나쁜것 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 버스에서 자리를 안 비켜주고 욕을 하는 사람은 나쁜 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 버스에서 자리를 <문법_맞춤법>안비켜주고 욕을하는</문법_맞춤법> 사람은 나쁜 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33675",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 464,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

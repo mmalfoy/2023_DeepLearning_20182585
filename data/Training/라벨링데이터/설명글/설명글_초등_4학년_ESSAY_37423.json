@@ -1,0 +1,282 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 저의 미래의 집은 우선 집에 형태부터는 ㄱ자 모양입니다.#@문장구분# ㄱ자로 하면 군데군데를 잘 분단할 수 있기 때문입니다.#@문장구분# ",
+      "paragraph_len": 111,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 그리고 층은 총 2층짜리의 층입니다.#@문장구분# 2층으로 하면 공간도 넓고, 좋기 때문입니다.#@문장구분# ",
+      "paragraph_len": 88,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 미래의 집색깔은 화이트와 연한 회색이 있는 집입니다.#@문장구분# 군데군데 화이트, 회색 이렇게 하고 싶습니다.#@문장구분# 방은 총 5개입니다. 왜냐하면 저의 가족은 총 4명입니다.#@문장구분# 그래서 각자 방을 하고 예비로 두는 방 한 개가 있으면 좋겠어서 했습니다.#@문장구분#",
+      "paragraph_len": 211,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 1층엔 거실, 주방, 화장실 이렇게 있고, 2층에 1방, 2방, 3방, 4방, 5방 이렇게 있고, 화장실이 있습니다.#@문장구분# 저는 뷰가 좋게 하고 싶어서 유리창문 되었는 것을 하겠습니다.#@문장구분#",
+      "paragraph_len": 141,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.952381,
+      24
+    ],
+    "essay_scoreT_avg": 25.31746,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 각자 방을 하고 예비로 두는 방 한 개가 있으면 <문법_맞춤법>좋겠어서</문법_맞춤법> 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 뷰가 좋게 하고 싶어서 유리창문 <문법_맞춤법>되었는 것을</문법_맞춤법> 하겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "004"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37423",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 358,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물은 점점 생활속에 당연한 존재로 생각하는 사람들이 늘고 있습니다#@문장구분# 그에따른 유기와 폭력이 느는건 사실입니다 #@문장구분#단지 귀엽다는 이유로 아무 공부와 준비도 없이 무작정 분양을 받고 버리는 사례가 늘고있습니다#@문장구분# 강아지나 고양이등 반려동물을 키우려면 많은 비용과 지식이 요구됩니다 #@문장구분#아프면 치료비도 많이들고 예방접종을 하는 비용도 만만하게 볼수없습니다#@문장구분# 그리고 사료도 사야하고 집도 사고 장난감 같은것도 사야합니다#@문장구분# 반려동물은 아기처럼 돌봐주어야합니다 #@문장구분#말은안하지만 생각이 있고 마음이 있어서 우울증이 오기도 합니다. #@문장구분#유기묘거나 버려진 강아지들은 사람에 대해 적대적일수도있습니다#@문장구분# 만약 길고양이들이 추운 겨울에 먹지도 마시지도 못하고 죽어나가고 있습니다#@문장구분# 이러한 사례는 늘고 분양하고 버리는 사람도 늘고있어서 걱정이 큽니다#@문장구분# 분양하는 사람이 늘면늘수록 버리는 사람들도 느는것 같습니다.#@문장구분# 생각없이 분양하고 결국 않좋은 선택을 하는 집들이 얼른 줄어들면 좋겠습니다.",
+      "paragraph_len": 711,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.5,
+      27,
+      27
+    ],
+    "essay_scoreT_avg": 26.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "반려동물은 점점 생활 속에 당연한 존재로 생각하는 사람들이 늘고 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "반려동물은 점점 <문법_맞춤법>생활속에 </문법_맞춤법>당연한 존재로 생각하는 사람들이 늘고 있습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그에 따른 유기와 폭력이 느는 건 사실입니다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그에따른 </문법_맞춤법>유기와 폭력이 느는건 사실입니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "단지 귀엽다는 이유로 아무 공부와 준비도 없이 무작정 분양을 받고 버리는 사례가 늘고 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "단지 귀엽다는 이유로 아무 공부와 준비도 없이 무작정 분양을 받고 버리는 사례가 <문법_맞춤법>늘고있습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 강아지나 고양이 등 반려동물을 키우려면 많은 비용과 지식이 요구됩니다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 강아지나 <문법_맞춤법>고양이등 </문법_맞춤법>반려동물을 키우려면 많은 비용과 지식이 요구됩니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아프면 치료비도 많이 들고 예방접종을 하는 비용도 만만하게 볼 수 없습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아프면 치료비도 <문법_맞춤법>많이들고 </문법_맞춤법>예방접종을 하는 비용도 만만하게 볼수없습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 사료도 사야 하고 집도 사고 장난감 같은 것도 사야합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 사료도 <문법_맞춤법>사야하고 </문법_맞춤법>집도 사고 장난감 같은것도 사야합니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반려동물은 아기처럼 돌봐주어야 합니다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 반려동물은 아기처럼 <문법_맞춤법>돌봐주어야합니다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "말은 못하지만 생각이 있고 마음이 있어서 우울증이 오기도 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>말은안하지만 </문법_맞춤법>생각이 있고 마음이 있어서 우울증이 오기도 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "유기 묘거나 버려진 강아지들은 사람에 대해 적대적일 수도 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>유기묘거나 </문법_맞춤법>버려진 강아지들은 사람에 대해 적대적일수도있습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 길고양이들이 추운 겨울에 먹지도 마시지도 못하고 죽어나가고 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 길고양이들이 추운 겨울에 먹지도 마시지도 못하고 죽어나가고 <문법_맞춤법>있습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 사례는 늘고 분양하고 버리는 사람도 늘고 있어서 걱정이 큽니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러한 사례는 늘고 분양하고 버리는 사람도 늘고있어서 걱정이 <문법_맞춤법>큽니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 분양하는 사람이 늘면 늘수록 버리는 사람들도 느는 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 분양하는 사람이 <문법_맞춤법>늘면늘수록</문법_맞춤법> 버리는 사람들도 느는것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생각 없이 분양하고 결국 안 좋은 선택을 하는 집들이 얼른 줄어들면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>생각없이 </문법_맞춤법>분양하고 결국 않좋은 선택을 하는 집들이 얼른 줄어들면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64790",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 472,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

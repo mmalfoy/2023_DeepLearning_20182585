@@ -1,0 +1,254 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서 대부분의 과목 지루하지만 체육은 언제나 재미있다. #@문장구분#다른 과목들과 달리 체육은 몸을 사용하고 다양한 경기를 한다.#@문장구분#\n 그런데 교실 체육은 강당에서 하는 체육보다 재미없는 활동을 한다. #@문장구분#내가 좋아하는 스포츠 중에는 농구, 야구, 축구가 있다.#@문장구분#\n 1등은 농구! 농구는 농구코트 안에서 농구공을 농구골대에 넣으면 되고 1골이 들어 갈 때마다 2점씩 올라가진다.#@문장구분#\n 그런데 농구에서 내가 가장 많이 쓰는 반칙은 트레블링이랑 더블드리블이다.#@문장구분#\n 농구다음으로 좋아하는 것은 피구입니다.#@문장구분#\n 피구는 2팀으로 나누어서 피구공을 던져서 다른 사람을 아웃시키는 것이다.#@문장구분# 크게는 그냥 피구랑 학교피구가 있다.#@문장구분#\n 그냥 피구는 피구공에 맞으면 아웃이되고 다른사람이 공을 잡으면 먼저 아웃된 순서로 부활을 한다.#@문장구분#\n 학교피구는 다른사람이 던진 공에 맞아서 아웃이 되면 다른팀의 뒤쪽에서 뒤쪽으로 오는 공을 잡아서 상대팀을 아웃 시키면 된다.#@문장구분#",
+      "paragraph_len": 675,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      24.447618,
+      16.733334
+    ],
+    "essay_scoreT_avg": 20.660318,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교에서 대부분의 과목은 지루하지만 체육은 언제나 재미있다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "학교에서 대부분의 <문법_조사>과목</문법_조사> 지루하지만 체육은 언제나 재미있다. ",
+      "sentence_corr_txt_styling": "학교에서 대부분의 과목은 지루하지만 체육은 언제나 재미있다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 1등은 농구이다. 농구는 농구코트 안에서 농구공을 농구골대에 넣으면 되고 1골이 들어 갈 때마다 2점씩 올라간다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "\n 1등은 <문법_조사><문법_기타>농구!</문법_기타></문법_조사> 농구는 농구코트 안에서 농구공을 농구골대에 넣으면 되고 1골이 들어 갈 때마다 2점씩 올라가진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 농구에서 내가 가장 많이 쓰는 반칙은 트레블링이랑 더블드리블이다.",
+      "sentence_corr_reason": [
+        "역접 불필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "\n <문법_기타>그런데 농구에서</문법_기타> 내가 가장 많이 쓰는 반칙은 트레블링이랑 더블드리블이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 농구 다음으로 좋아하는 것은 피구이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>농구다음으로</문법_맞춤법> 좋아하는 것은 <문법_어미>피구입니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그냥 피구는 피구공에 맞으면 아웃이 되고 다른 사람이 공을 잡으면 먼저 아웃된 순서로 부활을 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그냥 피구는 피구공에 맞으면 <문법_맞춤법>아웃이되고</문법_맞춤법> 다른사람이 공을 잡으면 먼저 아웃된 순서로 부활을 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 학교피구는 다른 사람이 던진 공에 맞아서 아웃이 되면 다른 팀의 뒤쪽에서 뒤쪽으로 오는 공을 잡아서 상대팀을 아웃시키면 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 학교피구는 <문법_맞춤법>다른사람이</문법_맞춤법> 던진 공에 맞아서 아웃이 되면 다른팀의 뒤쪽에서 뒤쪽으로 오는 공을 잡아서 상대팀을 아웃 시키면 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40479",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 455,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

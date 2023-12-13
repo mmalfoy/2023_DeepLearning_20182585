@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 취미 생활은 아이돌 노래 댄스 커버입니다.#@문장구분#\n 아이들 커버 댄스는 아이돌 노래를 외어서 치는게 댄스 커버입니다.#@문장구분#그래서 제가 외운춤은 10개가 넘습니다.#@문장구분# 춤을 추게된 계기는 재미로 어릴때 췄다가 지금까지 추게 됬습니다.#@문장구분#댄스는 스트레스 쌓일때나 주로 심심할때 추면 스트레스도 날라가고 심심하지도 않아서 저때 춤을 춥니다.#@문장구분#그리고 또 추게된 계기는 좋아하는 아이돌이 나와서도 추게된 이유도 있습니다.#@문장구분# \n 근데 저는 춤추기 말고도 다른 취미를 가지고 싶은게 있습니다.#@문장구분#그건 바로 양모인형 만들기 인데 바늘로 솜을 코콕콕 찍어서 모양을 만들어서 쓸 수 있는 인형입니다.#@문장구분# 그거는 유튜버에서 봤는데 재미있어서 그걸 취미 생활로 쓰고 싶습니다.#@문장구분#\n 앞으로도 여러 가지 춤을외어서 꼭 아이돌이나 대회에 나가고 싶다.#@문장구분#",
+      "paragraph_len": 589,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      29.2,
+      22.4,
+      20
+    ],
+    "essay_scoreT_avg": 23.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 아이들 커버 댄스는 아이돌 노래를 외어서 치는 게 댄스 커버입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 아이들 커버 댄스는 아이돌 노래를 외어서 <문법_맞춤법>치는게</문법_맞춤법> 댄스 커버입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 제가 외운 춤은 10개가 넘습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 제가 <문법_맞춤법>외운춤은</문법_맞춤법> 10개가 넘습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 춤을 추게 된 계기는 재미로 어릴 때 췄다가 지금까지 추게 됐습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 춤을 <문법_맞춤법>추게된 </문법_맞춤법>계기는 재미로 어릴때 췄다가 지금까지 추게 됬습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "댄스는 스트레스 쌓일 때나 주로 심심할 때 추면 스트레스도 날아가고 심심하지도 않아서 저 때 춤을 춥니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "댄스는 스트레스 <문법_맞춤법>쌓일때나</문법_맞춤법> 주로 심심할때 추면 스트레스도 날라가고 심심하지도 않아서 저때 춤을 춥니다.",
+      "sentence_corr_txt_styling": "댄스는 스트레스 쌓일 때나 주로 심심할 때 추면 스트레스도 날아가고 심심하지도 않아서 저 때 춤을 춥니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 또 추게 된 계기는 좋아하는 아이돌이 나와서도 추게된 이유도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 또 <문법_맞춤법>추게된</문법_맞춤법> 계기는 좋아하는 아이돌이 나와서도 <문법_맞춤법>추게된</문법_맞춤법> 이유도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 근데 저는 춤추기 말고도 다른 취미를 가지고 싶은 게 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 근데 저는 춤추기 말고도 다른 취미를 가지고 <문법_맞춤법>싶은게</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그건 바로 양모인형 만들기인데 바늘로 솜을 콕콕콕 찍어서 모양을 만들어서 쓸 수 있는 인형입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그건 바로 <문법_맞춤법>양모인형 만들기 인데</문법_맞춤법> 바늘로 솜을 코콕콕 찍어서 모양을 만들어서 쓸 수 있는 인형입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 앞으로도 여러 가지 춤을 외어서 꼭 아이돌이나 대회에 나가고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "\n 앞으로도 여러 가지 <문법_맞춤법>춤을외어서</문법_맞춤법> 꼭 아이돌이나 대회에 나가고 <문법_높임법>싶다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42329",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 390,
+    "essay_main_subject": "나의 취미"
+  }
+}

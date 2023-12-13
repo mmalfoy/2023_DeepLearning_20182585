@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의가장친한 친구는 '#@이름#'입니다.#@문장구분##@이름#이와는 전화도하고,카톡도 합니다.#@문장구분#코로나가 나오기 전까지는 집도 같이 갔었습니다. #@문장구분#저는 #@이름#이가 공부를 정말 열심히 한다고 생각합니다.#@문장구분# 저는 #@이름#이와 같은 학원을 다닙니다.#@문장구분# 저는가끔 숙제를 안하지만 #@이름#이는 매일매일 숙제를 합니다. #@문장구분#저는 자신의 비밀을 털어놓을수 있고,자신과 정말 오랫동안 만난친구가 가장 소중한 친구라고생각합니다. #@문장구분#저는 #@이름#이와 유치원에서 처음으로 만났습니다.#@문장구분# #@이름#이에게 가장 사과하고 싶은 순간은 예전에 형과형친구들과 같이 놀던 틈에 저의 잘못인데 #@이름#이에게 괜히 화를 낸적이 있습니다.#@문장구분# 만야다시 그때로 돌아갈수 있다면 #@이름#이에게 꼭 사과하고 싶습니다.#@문장구분# 반대로 #@이름#이와 같이 박물관에 간적이 있었는데, 그곳에서 여러 그림도 보고 시뮬레이션으로 자동차를 운전해 보며 기뻣던 기억이 있습니다.#@문장구분# 초등학교2학년 때는 #@이름#이와 같은 반이었지만 그 이후로는 한번도 같은 반이었던적이 없어 아쉽습니다. #@문장구분#그래도 앞으로 서로의 비밀을 말할수 있는 좋은 친구사이로 계속되면 좋겠습니다.",
+      "paragraph_len": 932,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      24.95,
+      21.85
+    ],
+    "essay_scoreT_avg": 22.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 자신의 비밀을 털어놓을 수 있고,자신과 정말 오랫동안 만난 친구가 가장 소중한 친구라고 생각합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 자신의 비밀을 <문법_맞춤법>털어놓을수 </문법_맞춤법>있고,자신과 정말 오랫동안 만난친구가 가장 소중한 친구라고생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래도 앞으로 서로의 비밀을 말할 수 있는 좋은 친구사이로 계속되면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래도 앞으로 서로의 비밀을 <문법_맞춤법>말할수 </문법_맞춤법>있는 좋은 친구사이로 계속되면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63200",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 518,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

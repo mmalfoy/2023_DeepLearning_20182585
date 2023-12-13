@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 좋아하는 과목은 체육과 미술이다.#@문장구분# 왜냐하면 체육은 뛰어서 하는거나, 피구, 달리기같은걸하니깐 하니깐 재미가 있지만 어떨때는 체육에서하는거에서 게임? 하는게이해가 안되서 하기는 싫었지만 그래도 해보면재미가있기때문에 체육을 좋아한다.#@문장구분# 그리고 미술을 좋아한다.#@문장구분# 왜냐하면 그림이나 만들기를 좋아하기때문이다.#@문장구분# 그림을잘 못그려도 색 꾸미는거나 작품을만드는걸좋아해서 미술을좋아한다.#@문장구분# 국어는 쫌좋아하는데, 국어에서 모르는 단어가 나오면 이해안되서 쫌좋아한다.#@문장구분# 그래서 내가좋아하는과목은 국어, 체육, 미술이다.#@문장구분#",
+      "paragraph_len": 419,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      10.666667,
+      19.2,
+      12.466667
+    ],
+    "essay_scoreT_avg": 14.111112,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 체육은 뛰어서 하는거나, 피구, 달리기같은걸하니깐 하니깐 재미가 있지만 어떨때는 체육에서하는거에서 게임? 하는게이해가 안되서 하기는 싫었지만 그래도 해보면재미가있기때문에 체육을 좋아한다.",
+      "sentence_corr_txt_styling": " 왜냐하면 체육은 뛰어서 하는거나, 피구, 달리기같은걸하니깐 하니깐 재미가 있지만 어떨때는 체육에서하는거에서 게임? 하는게이해가 안되서 하기는 싫었지만 그래도 해보면재미가있기때문에 체육을 좋아한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 그림이나 만들기를 좋아하기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 그림이나 만들기를 <문법_맞춤법>좋아하기때문이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그림을 잘 못 그려도 색 꾸미는 거나 작품을 만드는 걸 좋아해서 미술을 좋아한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그림을잘 못그려도 색 꾸미는거나 작품을만드는걸좋아해서 미술을좋아한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 국어는 쫌좋아하는데, 국어에서 모르는 단어가 나오면 이해안되서 쫌좋아한다.",
+      "sentence_corr_txt_styling": " 국어는 쫌좋아하는데, 국어에서 모르는 단어가 나오면 이해안되서 쫌좋아한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 내가 좋아하는 과목은 국어, 체육, 미술이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>내가좋아하는과목은</문법_맞춤법> 국어, 체육, 미술이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47972",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 279,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

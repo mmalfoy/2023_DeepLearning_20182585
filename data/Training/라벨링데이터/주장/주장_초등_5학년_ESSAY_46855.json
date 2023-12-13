@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리는 세계화 시대에서 살고있다.#@문장구분#우리나라에는 미국인,중국인,영국인 등 다양한 나라의 사람들이 살고 있다.#@문장구분#그러면서 한국인과 미국인이 결혼하는 것처럼 다문화 가족도 많이 늘고 있다.#@문장구분#하지만 생김새와 문화가 한국인과 다르다고 하면서 다문화 가정을 따가운 시선으로 보는 사람들도 있다.#@문장구분#다문화 가족이 차별을 받지 않기 위해서 사회와개인이 노력해야 한다.#@문장구분#\n 일단,다문화 가정도 차별 받지 않기위해서는 우리도 편견,선입견(다문화가정에 대한)을 가지면 안된다.#@문장구분#학교에서는 다문화 교육을 해야한다.#@문장구분#만약,우리반에 다문화 가정 친구가 있다면,잘 대해주고,친절하게 대해줘야 한다.#@문장구분#\n 다문화 가족이 생기면,우리나라의 인구도 더 늘어날것이다.#@문장구분#우리는 그들으로부터 다른 나라의 언어,문화,풍습을 배울 수 있다.#@문장구분#우리는 대한민국이라는 배에 탄 같은 선원들이다.#@문장구분#서로 도우면서 살아야 한다.#@문장구분#",
+      "paragraph_len": 660,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.8,
+      23.15,
+      22
+    ],
+    "essay_scoreT_avg": 24.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리는 세계화 시대에서 살고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리는 세계화 시대에서 <문법_맞춤법>살고있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리나라에도 미국인, 중국인, 영국인 등 다양한 나라의 사람들이 살고 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "<문법_어미>우리나라에는</문법_어미> <문법_맞춤법>미국인,중국인,영국인</문법_맞춤법> 등 다양한 나라의 사람들이 살고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 일단, 다문화 가정도 차별 받지 않기 위해서는 우리도 편견, 선입견(다문화가정에 대한)을 가지면 안된다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>일단,다문화</문법_맞춤법> 가정도 차별 받지 않기위해서는 우리도 편견,선입견(다문화가정에 대한)을 가지면 안된다.",
+      "sentence_corr_txt_styling": "\n 일단, 다문화 가정도 차별 받지 않기 위해서는 우리도 편견, 선입견(다문화가정에 대한)을 가지면 안된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학교에서는 다문화 교육을 해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교에서는 다문화 교육을 <문법_맞춤법>해야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 우리반에 다문화 가정 친구가 있다면 잘 대해주고, 친절하게 대해줘야 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>만약,우리반에</문법_기타></문법_맞춤법> 다문화 가정 친구가 있다면,잘 대해주고,친절하게 대해줘야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 다문화 가족이 생기면, 우리나라의 인구도 더 늘어날 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 다문화 가족이 <문법_맞춤법>생기면,우리나라의</문법_맞춤법> 인구도 더 늘어날것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리는 그들으로부터 다른 나라의 언어, 문화, 풍습을 배울 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리는 그들으로부터 다른 나라의 <문법_맞춤법>언어,문화,풍습을</문법_맞춤법> 배울 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46855",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 421,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

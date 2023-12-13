@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 여러 가지 여가생활을 하고 있습니다. #@문장구분#하루 24시간 중 잠을 자는 시간 8시간을 빼고 9시간은 학습활동을 합니다.#@문장구분# 학교 수업에서 배우는 것들 그리고 학원에서 배우는 수학, 영어, 한국사 등을 숙제와 공부를 하는데요.#@문장구분# 그리고 나서 공부가 끝난 뒤에 여가활동을 하고 있습니다.#@문장구분# 어떤 여가활동을 즐기고 있냐면 운동이랑 영상보기, 게임 등을 하고 있습니다.#@문장구분# 운동은 친구들이랑 축구도 하고 만나서 뛰어놀면서 체력을 기르고 놀고 있습니다.#@문장구분# 그리고 영상보기는 유튜브로 주로 보고 있는데요.#@문장구분# 유튜브로 재밌는 영상들이 너무 많아서 뭘 주로 보는지는 말할 수는 없지만 즐기고 있습니다.#@문장구분# 내가 생각하는 고칠 점은 딱히 없는 것 같습니다.#@문장구분#",
+      "paragraph_len": 528,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      25.085712,
+      18.4
+    ],
+    "essay_scoreT_avg": 21.539682,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 학교 수업에서 배우는 것들 그리고 학원에서 배우는 수학, 영어, 한국사 등의 숙제와 공부를 하는데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 학교 수업에서 배우는 것들 그리고 학원에서 배우는 수학, 영어, 한국사 <문법_조사>등을</문법_조사> 숙제와 공부를 하는데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 나서 공부가 끝난 뒤에 여가활동을 하고 있습니다.",
+      "sentence_corr_txt_styling": " 그리고 나서 공부가 끝난 뒤에 여가활동을 하고 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어떤 여가활동을 즐기고 있냐면 운동이랑 영상 보기, 게임 등을 하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어떤 여가활동을 즐기고 있냐면 운동이랑 <문법_맞춤법>영상보기</문법_맞춤법>, 게임 등을 하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 운동은 친구들이랑 축구도 하고 만나서 뛰어 놀면서 체력을 기르고 놀고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 운동은 친구들이랑 축구도 하고 만나서 <문법_맞춤법>뛰어놀면서</문법_맞춤법> 체력을 기르고 놀고 있습니다.",
+      "sentence_corr_txt_styling": " 운동은 친구들이랑 축구도 하고 만나서 뛰어 놀면서 체력을 기르고 놀고 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 영상 보기는 유튜브로 주로 보고 있는데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>영상보기는 </문법_맞춤법>유튜브로 주로 보고 있는데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유튜브로 재밌는 영상들이 너무 많아서 뭘 주로 보는지 말할 수는 없지만 즐기고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 유튜브로 재밌는 영상들이 너무 많아서 뭘 주로 <문법_조사>보는지는</문법_조사> 말할 수는 없지만 즐기고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 생각하기에 고칠 점은 딱히 없는 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_높임법>내가</문법_높임법> <문법_어미>생각하는</문법_어미> 고칠 점은 딱히 없는 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52896",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 349,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승은 내가 바른 길로 갈 수 있도록 도와주시는 분이라고 생각한다.#@문장구분# 내가 나쁜 길로 들어가려고 하면 가만히 두지 않고 엄격하게 혼내줘야 한다.#@문장구분# 혼내주지 않는다면 계속해서 나쁜 쪽으로 가고 그게 맞는다고 생각해서 그렇게 살아갈지도 모른다.#@문장구분# 그렇다고 해서 모든 일에 혼낸다면 오히려 서로 안 좋은 감정만 가지게 된다. #@문장구분#그러면 서로 믿지도 못하고 나쁜 사이만 된다.#@문장구분# 그렇기 때문에 잘했을 때는 칭찬을 해주는 게 좋다.#@문장구분# 칭찬을 들으면 기분이 안 좋을 때도 좋게 만들어주고 실패해도 다시 일어날 수 있는 능력을 준다.#@문장구분# 이렇게 두 가지를 잘하기 위해서는 스승은 제자에게 많은 관심을 줘야한다. #@문장구분#관심을 가져야 무슨 아이인지 알고 제자를 위해 해줄 수 있는 게 무엇인지 알면서 더욱더 친해지기 때문이다.#@문장구분# 이렇게만 한다면 모두가 믿고 따르는 참된 스승이 될 수 있다.#@문장구분#",
+      "paragraph_len": 623,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.1,
+      25.75,
+      20
+    ],
+    "essay_scoreT_avg": 23.283333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 혼내주지 않는다면 계속해서 나쁜 쪽으로 가고 그게 맞다고 생각해서 그렇게 살아갈지도 모른다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 혼내주지 않는다면 계속해서 나쁜 쪽으로 가고 그게 <문법_맞춤법>맞는다고</문법_맞춤법> 생각해서 그렇게 살아갈지도 모른다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 두 가지를 잘하기 위해서는 스승은 제자에게 많은 관심을 줘야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 두 가지를 잘하기 위해서는 스승은 제자에게 많은 관심을 <문법_맞춤법>줘야한다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75743",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 424,
+    "essay_main_subject": "참된 스승"
+  }
+}

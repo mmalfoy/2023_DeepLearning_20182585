@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 좋은 습관을 들이기 위해 이와 관련된 동영상을 시청한 적이 있었는데 매일 팔굽혀펴기 1개씩을해 한날마다 X표를 쳐 1년동안 하는 것 이었 습니다.#@문장구분# 매일 할수밖에없는 쉬운 목표로 나중에는 매일 4~6개씩 할수있다고 하였습니다.#@문장구분# 저도 이와같이 매일 할수밖에 없는 쉬운 목표로 1개씩 늘 해서 나중에는 10개씩 목표로 했습니다.#@문장구분# 그리고 습관을 들이는걸 성공하려면 언제, 어디서, 무엇을 할지 계획이 있었다.#@문장구분# 저는 미루는 습관이 있어 이와같이 구체적으로 계획을 짜 하였더니 지금은 전보다 많이 줄어들었 습니다#@문장구분#. 사람들도 제가 말한 방법대로 해보면 성과가 있었으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 440,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      24.4,
+      24.9
+    ],
+    "essay_scoreT_avg": 24.733332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 좋은 습관을 들이기 위해 이와 관련된 동영상을 시청한 적이 있었는데 매일 팔굽혀펴기 1개씩을 해 한날마다 X표를 쳐 1년 동안 하는 것 이었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 좋은 습관을 들이기 위해 이와 관련된 동영상을 시청한 적이 있었는데 매일 팔굽혀펴기 <문법_맞춤법>1개씩을해</문법_맞춤법> 한날마다 X표를 쳐 1년동안 하는 것 이었 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 매일 할 수밖에 없는 쉬운 목표로 나중에는 매일 4~6개씩 할 수 있다고 하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 매일 <문법_맞춤법>할수밖에없는</문법_맞춤법> 쉬운 목표로 나중에는 매일 4~6개씩 할수있다고 하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 이와 같이 매일 할 수밖에 없는 쉬운 목표로 1개씩 늘 해서 나중에는 10개씩 목표로 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저도 <문법_맞춤법>이와같이 </문법_맞춤법>매일 할수밖에 없는 쉬운 목표로 1개씩 늘 해서 나중에는 10개씩 목표로 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 습관을 들이는 걸 성공하려면 언제, 어디서, 무엇을 할지 계획이 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 습관을 <문법_맞춤법>들이는걸</문법_맞춤법> 성공하려면 언제, 어디서, 무엇을 할지 계획이 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 미루는 습관이 있어 이와 같이 구체적으로 계획을 짜 하였더니 지금은 전보다 많이 줄어들었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 미루는 습관이 있어 <문법_맞춤법>이와같이</문법_맞춤법> 구체적으로 계획을 짜 하였더니 지금은 전보다 많이 줄어들었 습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들도 제가 말한 방법대로 해보고 성과가 있었으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>. </문법_맞춤법>사람들도 제가 말한 방법대로 해보면 성과가 있었으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_41938",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 320,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

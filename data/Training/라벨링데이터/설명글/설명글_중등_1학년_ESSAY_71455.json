@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 좋지 않았던 습관은 바로 스마트폰을 너무 자주 보는 습관이었습니다.#@문장구분# 이 제품의 무시무시한 중독성 때문에 저도 모르고 계속해서 밤을 새기도하면서 만지는 저의 모습을 보고 저는 아 이 습관을 고쳐나가야 겠다고 생각했습니다.#@문장구분# 그래서 제가 떠올린 방법은 바로 그 자체를 없애는 거였습니다.#@문장구분# 그래서 저는 중학교를 들어오면서 폴더폰으로 휴대폰을 바꾸었고 그 덕분에 지금은 폰을 보는 시간보다 오히려 책을 읽거나 사람들과 대화하는 시간이 늘어났습니다.#@문장구분# 물론 평소에 친구들과 있을 때 혹은 수업 때 활용할 수 없다는 점이 아쉽기도 하지만 그럼에도 여전히 저는 제 선택을 전혀 후회하지않고 이 습관을 고칠 수 있어서 너무 좋다는 생각입니다.#@문장구분# 여러분도 혹 나쁜 습관이 있다면 그 근본을 찾아 그것을 없앤다면 이겨낼 수 있을 것 입니다.#@문장구분#",
+      "paragraph_len": 524,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      23.05,
+      20
+    ],
+    "essay_scoreT_avg": 22.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이 제품의 무시무시한 중독성 때문에 저도 모르고 계속해서 밤을 새우기도 하면서 만지는 저의 모습을 보고 저는 아 이 습관을 고쳐나가야겠다고 생각했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 제품의 무시무시한 중독성 때문에 저도 모르고 계속해서 밤을 <문법_맞춤법>새기도하면서 </문법_맞춤법>만지는 저의 모습을 보고 저는 아 이 습관을 고쳐나가야 겠다고 생각했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 평소에 친구들과 있을 때 혹은 수업 때 활용할 수 없다는 점이 아쉽기도 하지만 그럼에도 여전히 저는 제 선택을 전혀 후회하지 않고 이 습관을 고칠 수 있어서 너무 좋다는 생각입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 평소에 친구들과 있을 때 혹은 수업 때 활용할 수 없다는 점이 아쉽기도 하지만 그럼에도 여전히 저는 제 선택을 전혀 <문법_맞춤법>후회하지않고 </문법_맞춤법>이 습관을 고칠 수 있어서 너무 좋다는 생각입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분도 혹 나쁜 습관이 있다면 그 근본을 찾아 그것을 없앤다면 이겨낼 수 있을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여러분도 혹 나쁜 습관이 있다면 그 근본을 찾아 그것을 없앤다면 이겨낼 수 있을 <문법_맞춤법>것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71455",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 404,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

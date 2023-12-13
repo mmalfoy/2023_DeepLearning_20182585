@@ -1,0 +1,275 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 통일이 되면 좋겟습니다.#@문장구분# 통일이 되면 좋겠다는 이유는 첫째,우리는 원래 한 나라 였기 때문에 둘째,북한의 지하 자원과남한의 기술이 만나면 우리나라가 발전하기 때문이고 셋째,남한의 5천만명과북한의 3천만명을 합치면 8천만명이 되니 인구가 많아진다.#@문장구분# 넷째,지금은 북한,남한은 분단비용이 많이 드는데 통일을 하면 분단비용 보다 통일비용이 더 적게든다.#@문장구분# 다섯째,다른나라사람들은 남한에 올수있지만 북한은 중국을 통해서 가야되는데 통일 되면 자유롭게 갈수 있다.#@문장구분# 그래서 백두산에 갈 수 있다.#@문장구분# 여섯째,통일되면 국가가 커집니다.#@문장구분# 그러니 통일되면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 447,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.6,
+      20.8,
+      23.6
+    ],
+    "essay_scoreT_avg": 23.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 통일이 되면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "<문법_높임법>나는 </문법_높임법>통일이 되면 <문법_맞춤법>좋겟습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 첫째,우리는 원래 한 나라였기 때문입니다.  그리고 둘째, 북한의 지하 자원과 남한의 기술이 만나면 우리나라가 발전할 수 있습니다. 셋째, 남한의 5천만 명과 북한의 3천만 명을 합치면 8천만 명이 되어 인구가 많아집니다",
+      "sentence_corr_reason": [
+        "",
+        "문장이 너무 긺",
+        "띄어쓰기",
+        "문장이 너무 긺",
+        "문장이 너무 긺"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "기타",
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>통일이 되면 좋겠다는 이유는</스타일링_패러프레이징> 첫째,우리는 원래 <스타일링_기타>한 나라 였기 때문에</스타일링_기타> <문법_맞춤법>둘째,북한의 지하 자원과남한의 기술이 만나면</문법_맞춤법> 우리나라가 <스타일링_어미><스타일링_담화 맥락 오류>발전하기 때문이고</스타일링_담화 맥락 오류></스타일링_어미> 셋째,남한의 5천만명과북한의 3천만명을 합치면 8천만명이 되니 인구가 많아진다.",
+      "sentence_corr_txt_styling": " 그 이유는 첫째,우리는 원래 한 나라였기 때문입니다.  그리고 둘째, 북한의 지하 자원과 남한의 기술이 만나면 우리나라가 발전할 수 있습니다. 셋째, 남한의 5천만 명과 북한의 3천만 명을 합치면 8천만 명이 되어 인구가 많아집니다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 넷째, 지금은 분단비용이 많이 드는데 통일을 하면 분단비용보다 통일비용이 더 적게 듭니다.",
+      "sentence_corr_reason": [
+        "불필요",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 넷째,<스타일링_기타>지금은 북한,남한은 분단비용이</스타일링_기타> 많이 드는데 통일을 하면 <문법_맞춤법>분단비용 보다 통일비용이</문법_맞춤법> 더 <문법_높임법>적게든다</문법_높임법>.",
+      "sentence_corr_txt_styling": " 넷째, 지금은 분단비용이 많이 드는데 통일을 하면 분단비용보다 통일비용이 더 적게 듭니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다섯째, 다른 나라 사람들은 남한에 자유롭게 올 수 있지만 북한은 중국을 통해서 가야 하는데 통일이 되면 마음대로 갈 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법>다섯째,다른나라사람들은</문법_맞춤법> 남한에 <문법_담화 맥락 오류>올수있지만 </문법_담화 맥락 오류>북한은 중국을 통해서 가야되는데 <문법_조사>통일 되면</문법_조사> 자유롭게 갈수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 백두산에 갈 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": " 그래서 백두산에 갈 수 <문법_어미><문법_높임법>있다</문법_높임법></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여섯째로 통일이 되면 국가가 커집니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " <문법_조사>여섯째,통일되면</문법_조사> 국가가 커집니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39386",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 307,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

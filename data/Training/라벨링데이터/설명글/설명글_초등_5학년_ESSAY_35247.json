@@ -1,0 +1,292 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "위생을 지키는 방법은 여러가지가 있다.#@문장구분# 쓰레기 분리수거를하기 음식남기지 않기 아무곳이나 쓰레기 버리지 않기 여름에는 음식이 잘상해서 식중독 조심하기 밖에 나갔다 오면 몸이 더러워져서 손 닦고 깨끗이 씻기 양치 깨끗이 하기 청소하기 (걸레, 청소기)#@문장구분# 내가 알고 있는 위생을 지키는 방법은 이것들이 있다. #@문장구분#쓰레기를 아무곳에나 버리면 지구가 더러워진다.#@문장구분# 음식물도 남기면 쓰레기 처럼 환경이 오렴된다.#@문장구분# 식중독에 걸리면 배가 아프다. #@문장구분#나도 여름에 김밥먹고 식중독이 걸려서 배가 아파서 힘들었덕 적이있다.#@문장구분# 밖에 나갔다 왔을 때 손이나 몸을 안 씻으면 요즘은 코로나에 감염될 수 도 있어서 몸을 깨끗이 씻어야한다.#@문장구분# 양치를 제대로 하지 않으면 충치가 생겨서 이도 아프고 심각하면 신경이 썩어서 신경치료를 해야 할 수 도 있다.#@문장구분# 집청소를 안하면 집에 먼지가 생기고 더러워지고 벌레가 나올 수 있다.#@문장구분# 위생을 지키는 방법은 이렇게 여러가지다. #@문장구분#위생을 잘 지키자#@문장구분#",
+      "paragraph_len": 710,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.333332,
+      24.447618,
+      13.419047
+    ],
+    "essay_scoreT_avg": 18.733334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.13",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 쓰레기 분리수거 하기, 음식 남기지 않기, 아무 곳이나 쓰레기 버리지 않기, 여름에는 음식이 잘 상하니까 식중독 조심하기, 밖에 나갔다 오면 몸이 더러워지니 손 닦고 깨끗이 씻기, 양치 깨끗이 하기, 청소하기 등이 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": " 쓰레기 <문법_맞춤법><문법_기타>분리수거를하기</문법_기타></문법_맞춤법> 음식남기지 않기 아무곳이나 쓰레기 버리지 않기 <문법_담화 맥락 오류>여름에는 음식이 잘상해서 식중독 조심하기</문법_담화 맥락 오류> 밖에 나갔다 오면 몸이 <문법_어미>더러워져서 손 닦고 깨끗이 씻기</문법_어미> 양치 깨끗이 하기 청소하기 (걸레, 청소기)",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "쓰레기를 아무 곳에나 버리면 지구가 더러워진다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "쓰레기를 <문법_맞춤법>아무곳에나</문법_맞춤법> 버리면 지구가 더러워진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 음식물도 남기면 쓰레기처럼 환경이 오염된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 음식물도 남기면 <문법_맞춤법>쓰레기 처럼</문법_맞춤법> 환경이 오렴된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나도 여름에 김밥 먹고 식중독에 걸려서 배가 아파 힘들었던 적이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "나도 여름에 <문법_맞춤법>김밥먹고</문법_맞춤법> <문법_조사>식중독이</문법_조사> 걸려서 배가 아파서 힘들었덕 적이있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 밖에 나갔다 왔을 때 손이나 몸을 안 씻으면 요즘은 코로나에 감염될 수도 있어서 몸을 깨끗이 씻어야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 밖에 나갔다 왔을 때 손이나 몸을 안 씻으면 요즘은 코로나에 감염될 <문법_맞춤법>수 도</문법_맞춤법> 있어서 몸을 깨끗이 씻어야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 양치를 제대로 하지 않으면 충치가 생겨서 이도 아프고 심각하면 신경이 썩어서 신경치료를 해야 할 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 양치를 제대로 하지 않으면 충치가 생겨서 이도 아프고 심각하면 신경이 썩어서 신경치료를 해야 할 <문법_맞춤법>수 도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집 청소를 안하면 집에 먼지가 생기고 더러워져 벌레가 나올 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>집청소를</문법_맞춤법> 안하면 집에 먼지가 생기고 <문법_어미>더러워지고</문법_어미> 벌레가 나올 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "위생을 잘 지키자.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>위생을 잘 지키자</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35247",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 470,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

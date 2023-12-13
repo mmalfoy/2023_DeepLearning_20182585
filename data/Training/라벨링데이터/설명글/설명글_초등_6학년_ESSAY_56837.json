@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인이 많습니다.#@문장구분#지금까지 살아계신 분들도 있고 돌아가신 분들도 계시지만,누군가의 마음속에서 희망이되고 모범이 되고 있습니다.#@문장구분#이렇게 많은 위인들 중에서 저도 존경하는 위인이 있는데 그중에 전 세종대왕님을 존경합니다.#@문장구분#많은 사람들이 아듯이 세종대왕님은 훈민정음을 만드신 훌륭한 분이십니다.#@문장구분#세종대왕님 덕분에 지금 저희가 이렇게 좋은 환경에서 쉬운 훈민정음을 편리하게 잘 쓰고 있습니다. #@문장구분#진짜 힘드셨을거 같은데 끝까지 노력 해주신 세종대왕님을 정말 존경 받고 싶습니다.#@문장구분#저도 나중에 커서 세종대왕님 같은 우리나라를 위한것을 만들거나 도와주고 싶습니다.#@문장구분#저는 몇년 전부터 세종대왕님을 계속 존경하고 있습니다.#@문장구분#정말 대단하신분 같습니다.#@문장구분#저도 세종대왕님처럼 우리나라를 위한 일을 하고 싶습니다.#@문장구분#진짜 언제나 존경합니다.",
+      "paragraph_len": 627,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.35,
+      15.6,
+      19.45
+    ],
+    "essay_scoreT_avg": 18.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "지금까지 살아계신 분들도 있고 돌아가신 분들도 계시지만,누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금까지 살아계신 분들도 있고 돌아가신 분들도 계시지만,누군가의 마음속에서 <문법_맞춤법>희망이되고 </문법_맞춤법>모범이 되고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "많은 사람들이 알듯이 세종대왕님은 훈민정음을 만드신 훌륭한 분이십니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "많은 사람들이 <문법_어미>아듯이 </문법_어미>세종대왕님은 훈민정음을 만드신 훌륭한 분이십니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "진짜 힘드셨을 것 같은데 끝까지 노력 해주신 세종대왕님을 정말 존경 받고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "진짜 <문법_맞춤법>힘드셨을거 </문법_맞춤법>같은데 끝까지 노력 해주신 세종대왕님을 정말 존경 받고 싶습니다.",
+      "sentence_corr_txt_styling": "진짜 힘드셨을 것 같은데 끝까지 노력 해주신 세종대왕님을 정말 존경 받고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저도 나중에 커서 세종대왕님 같은 우리나라를 위한 것을 만들거나 도와주고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "저도 나중에 커서 세종대왕님 같은 우리나라를 <문법_맞춤법>위한것을 </문법_맞춤법>만들거나 도와주고 싶습니다.",
+      "sentence_corr_txt_styling": "저도 나중에 커서 세종대왕님 같은 우리나라를 위한 것을 만들거나 도와주고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 몇 년 전부터 세종대왕님을 계속 존경하고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>몇년 </문법_맞춤법>전부터 세종대왕님을 계속 존경하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "정말 대단하신 분 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "정말 <문법_맞춤법>대단하신분 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56837",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 429,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교폭력을 하는 사람에게 학교폭력의 대한 교육을 시킨다. #@문장구분#왜냐하면, 나이가 아직 어린만큼 배울게 많기때문에 생각을 하게 만들어 자신이 한 행동에 대한 생각과 잘못을 뉘우치게 할 수 있기 때문입니다.#@문장구분# 또, 가해자가 피해자에게 피해자가 받은 상처, 트라우마, 자살등 피해를 본것에 대해 정당한 대가를 치뤄야한다. #@문장구분#왜냐하면 피해자도 친구들과 어울려 놀고싶을텐데 그 자유를 구속한 것에 대해 피해를 볼수 있기 때문이다. #@문장구분#피해자가 하지말라고 할때 눈치껏 멈춰야한다. #@문장구분#피해자도 자신이 이런짓을 당하는걸 불쾌해하고 싫어할수있기 때문이다.#@문장구분# 가해자는 피해자의 입장을 생각해서 그만두고 자숙해야합니다.#@문장구분# 가해자 역시 피해자처럼 피해를 보는것을 좋아하진 않을겁니다. #@문장구분#피해자는 가해자로 인해 공포감이 생겨 인생을 사는데에 불편함과 두려움이 생겨 평생에 트라우마로 남을수 있다.#@문장구분# 사람마다 멘탈이 약하고 마음이 여린 사람들은 패해를 많이 받고 아무리 멘탈이 강하고 참을성이 많아도 그것들은 모두 마음속 상처로 남아 생각하지 않아도 계속 생각나면서 집중력과 생각하던걸 멈추어 일리 못하게 한다.#@문장구분#",
+      "paragraph_len": 740,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.833332,
+      23.577778,
+      24.91111
+    ],
+    "essay_scoreT_avg": 24.774073,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "왜냐하면, 나이가 아직 어린 만큼 배울 게 많기 때문에 생각을 하게 만들어 자신이 한 행동에 대한 생각과 잘못을 뉘우치게 할 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면, 나이가 아직 <문법_맞춤법>어린만큼 배울게 많기때문에</문법_맞춤법> 생각을 하게 만들어 자신이 한 행동에 대한 생각과 잘못을 뉘우치게 할 수 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또, 가해자가 피해자에게 피해자가 받은 상처, 트라우마, 자살 등 피해를 본 것에 대해 정당한 대가를 치뤄야한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또, 가해자가 피해자에게 피해자가 받은 상처, 트라우마, <문법_맞춤법>자살등 피해를 본것에</문법_맞춤법> 대해 정당한 대가를 치뤄야한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "왜냐하면 피해자도 친구들과 어울려 놀고싶을텐데 그 자유를 구속한 것에 대해 피해를 볼수 있기 때문이다. ",
+      "sentence_corr_txt_styling": "왜냐하면 피해자도 친구들과 어울려 놀고싶을텐데 그 자유를 구속한 것에 대해 피해를 볼수 있기 때문이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "피해자가 하지 말라고 할 때 눈치껏 멈춰야한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "피해자가 <문법_맞춤법>하지말라고 할때</문법_맞춤법> 눈치껏 멈춰야한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "피해자도 자신이 이런 짓을 당하는 걸 불쾌해하고 싫어할 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "피해자도 자신이 <문법_맞춤법>이런짓을 당하는걸 불쾌해하고 싫어할수있기</문법_맞춤법> 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가해자 역시 피해자처럼 피해를 보는 것을 좋아하진 않을 겁니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가해자 역시 피해자처럼 피해를 <문법_맞춤법>보는것을 좋아하진 않을겁니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "피해자는 가해자로 인해 공포감이 생겨 인생을 사는 데에 불편함과 두려움이 생겨 평생의 트라우마로 남을 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": "피해자는 가해자로 인해 공포감이 생겨 인생을 <문법_맞춤법>사는데에</문법_맞춤법> 불편함과 두려움이 생겨 <문법_조사>평생에</문법_조사> 트라우마로 <문법_높임법>남을수 있다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람마다 멘탈이 약하고 마음이 여린 사람들은 피해를 많이 받고 아무리 멘탈이 강하고 참을성이 많아도 그것들은 모두 마음속 상처로 남아 생각하지 않아도 계속 생각나면서 집중력과 생각하던 걸 멈추어 일을 못하게 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 사람마다 멘탈이 약하고 마음이 여린 사람들은 <문법_맞춤법>패해</문법_맞춤법>를 많이 받고 아무리 멘탈이 강하고 참을성이 많아도 그것들은 모두 마음속 상처로 남아 생각하지 않아도 계속 생각나면서 집중력과 생각하던걸 멈추어 <문법_조사>일리</문법_조사> 못하게 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63589",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 543,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

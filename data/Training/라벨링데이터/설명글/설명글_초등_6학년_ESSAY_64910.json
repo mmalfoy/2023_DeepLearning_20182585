@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 존경하는 인물은 세종대왕이다.#@문장구분# 그이유는 자신들에 후손과 백성들을 위해 한글을 만드시고 농사직설이라는 책도만드시고 눈이 멀어도 열심히 음악을 만드신게 대단하시기때문이다.#@문장구분#두번째로 존경하는 인물은 이순신 이다.#@문장구분# 그이유는 이순신 장군이 임진왜란 때 열심히 싸우시고 명대사로 나의죽음을 아무에게도 알리지말라 라는 명대사가 내마음을 울려서 존경하는 인물이다. #@문장구분#세번째로 누구보다 똑똑하신 우리아빠이다.#@문장구분# 그이유는 우리아빠는 뭐든 다 잘하고 열심히 하고 그래서 내가 우리 아빠를 존경한다 #@문장구분#네번째로 존경하는 사람은 우리 담임선생님이다.#@문장구분# 그이유는 우리처럼 장난꾸러기들을 잘가르키시고, 힘든일이 있을때도 열심히 하시고 똑똑하고 모든 잘가르키셔서 내가 엄청많이 존경을 한다#@문장구분# 이외로 다른 사람중에 신사임당 인윤복 이사부등이 있지만 다 존경스럽지만 너무많이 탑 1234로나눠쓴것이다.#@문장구분#",
+      "paragraph_len": 606,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      20.25,
+      17.05
+    ],
+    "essay_scoreT_avg": 20.733334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 자신들에 후손과 백성들을 위해 한글을 만드시고 농사직설이라는 책도 만드시고 눈이 멀어도 열심히 음악을 만드신 게 대단하시기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는 </문법_맞춤법>자신들에 후손과 백성들을 위해 한글을 만드시고 농사직설이라는 책도만드시고 눈이 멀어도 열심히 음악을 만드신게 대단하시기때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "두 번째로 존경하는 인물은 이순신이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>두번째로 </문법_맞춤법>존경하는 인물은 이순신 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 이순신 장군이 임진왜란 때 열심히 싸우시고 명대사로 나의 죽음을 아무에게도 알리지 말라라는 명대사가 내 마음을 울려서 존경하는 인물이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는 </문법_맞춤법>이순신 장군이 임진왜란 때 열심히 싸우시고 명대사로 나의죽음을 아무에게도 알리지말라 라는 명대사가 내마음을 울려서 존경하는 인물이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세 번째로 누구보다 똑똑하신 우리 아빠이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>세번째로 </문법_맞춤법>누구보다 똑똑하신 우리아빠이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 우리 아빠는 뭐든 다 잘하고 열심히 하고 그래서 내가 우리 아빠를 존경한다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는 우리아빠는 뭐든 다 잘하고 열심히 하고</문법_맞춤법> 그래서 내가 우리 아빠를 존경한다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "네 번째로 존경하는 사람은 우리 담임선생님이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>네번째로 </문법_맞춤법>존경하는 사람은 우리 담임선생님이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 우리처럼 장난꾸러기들을 잘 가르쳐 주시고, 힘든 일이 있을 때도 열심히 하시고 똑똑하고 모든 잘 가르쳐 주셔서 내가 엄청 많이 존경을 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는 우리처럼 장난꾸러기들을 잘가르키시고, 힘든일이 있을때도 열심히 하시고 똑똑하고 모든 잘가르키셔서 내가 엄청많이</문법_맞춤법> 존경을 한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이외로 다른 사람 중에 신사임당 신윤복 이사부 등이 있지만 다 존경스럽지만 너무 많이 탑 1234로 나눠 쓴 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이외로 다른<문법_맞춤법> 사람중에 신사임당 인윤복 이사부등이 있지만 다 존경스럽지만 너무많이 탑 1234로나눠쓴것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64910",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 427,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

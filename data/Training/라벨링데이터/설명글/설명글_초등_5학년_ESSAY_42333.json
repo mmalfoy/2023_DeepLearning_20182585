@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 취미는 게임을 하는 것이다.#@문장구분#게임의 장르중 나는 힐링게임을 주로한다.#@문장구분#예를 들자면 힐링게임중\"언제나 여름방학\"이라는 게임이 있다.#@문장구분#나는 이게임을 정말로 즐겨한다.#@문장구분# \n 게임룰은 사과,배 등 많은 농업물을 재배하고,동네 어른들의 심부름도 하는 것이다.#@문장구분#쉽게 말하자면 시골에서 살아가는 이야기 이다.#@문장구분#\n 내가 이 게임을 하게된 이유는 친구가 추천을 해주었기 때문이다.#@문장구분#몇번 광고 나오는 것을 눈여겨 봤는데,친구가 재미있다길래 깔아 보았다.#@문장구분#그 게임을 깔아보니 내 취향에 맞는 게임이었다.#@문장구분# \n 그리고 이게임을 친구들과 함께하면 즐거움은 배가 된다.#@문장구분#친구들과 함께하면 서로 만나 놀 수도 있고,멀리 떨어져 있을땐 채팅을 쳐서 대화를 할 수도 있다.#@문장구분#하루 미션을 같이 돌아다니며 해도 좋다.#@문장구분#\n 이렇게 내취미인 \"언제나 여름방학\"이라는 게임을 친구들한테도 추천 해 주고싶다.#@문장구분#",
+      "paragraph_len": 680,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.733334,
+      21.133335,
+      26.619047
+    ],
+    "essay_scoreT_avg": 24.828573,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "게임의 장르 중 나는 힐링게임을 주로 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "게임의 장르중 나는 힐링게임을 <문법_맞춤법>주로한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예를 들자면 힐링게임 중\"언제나 여름방학\"이라는 게임이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "예를 들자면 <문법_맞춤법>힐링게임중</문법_맞춤법>\"언제나 여름방학\"이라는 게임이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 이 게임을 정말로 즐겨 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 이게임을 정말로 <문법_맞춤법>즐겨한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 게임룰은 사과, 배 등 많은 농업물을 재배하고, 동네 어른들의 심부름도 하는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 게임룰은 사<문법_맞춤법>과,배</문법_맞춤법> 등 많은 농업물을 재배하고,동네 어른들의 심부름도 하는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "쉽게 말하자면 시골에서 살아가는 이야기이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "쉽게 말하자면 시골에서 살아가는 <문법_맞춤법>이야기 이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 내가 이 게임을 하게 된 이유는 친구가 추천을 해주었기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 내가 이 게임을 <문법_맞춤법>하게된 </문법_맞춤법>이유는 친구가 추천을 해주었기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "몇 번 광고 나오는 것을 눈여겨봤는데, 친구가 재미있다길래 깔아 보았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>몇번</문법_맞춤법> 광고 나오는 것을 눈여겨 봤는데,친구가 재미있다길래 깔아 보았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 그리고 이 게임을 친구들과 함께하면 즐거움은 배가 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 그리고 <문법_맞춤법>이게임을 </문법_맞춤법>친구들과 함께하면 즐거움은 배가 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구들과 함께하면 서로 만나 놀 수도 있고, 멀리 떨어져 있을 땐 채팅을 쳐서 대화를 할 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구들과 함께하면 서로 만나 놀 수도 있<문법_맞춤법>고,멀리</문법_맞춤법> 떨어져 있을땐 채팅을 쳐서 대화를 할 수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이렇게 내 취미인 \"언제나 여름방학\"이라는 게임을 친구들한테도 추천해 주고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 이렇게 <문법_맞춤법>내취미인 </문법_맞춤법>\"언제나 여름방학\"이라는 게임을 친구들한테도 추천 해 주고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42333",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 421,
+    "essay_main_subject": "나의 취미"
+  }
+}

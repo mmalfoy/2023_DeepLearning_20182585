@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 친구랑 같이 있으면서 더도말고 덜도말고 필요한건 최소한 서로 같이 이야기도 하면서 고민이나 작은 비밀을 같이 이야기 할 수 있는게 필요하다고 생각합니다.#@문장구분# 서로 이야기를 할수있다면 고민거리를 털어내서 서로 도와줄수 있고 그렇게 하면서 다가갈수 있을겁니다.#@문장구분# \n 그리고 서로 이야기를 하다보면 지금은  서로의 일상이나 공부에 관한 것을 공유하고, 훗날에 성인이 되어서도 서로 비슷하게 이야기를 나눌수 있을겁니다.#@문장구분# 또한 친구가 많이있다고 좋은건 아니라고 봅니다.#@문장구분# 혹시라도 그중에서 친구라는 약점을 이용해서 부려먹거나 돈만 빌려달라고 할수도 있기 때문에 친구는 적당히 사귀면서 적은 친구라도 관계만 잘 유지된다면 그게 더 좋다고 생각합니다.",
+      "paragraph_len": 436,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      23.3,
+      14.25
+    ],
+    "essay_scoreT_avg": 19.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 친구랑 같이 있으면서 더도 말고 덜도 말고 필요한 건 최소한 서로 같이 이야기도 하면서 고민이나 작은 비밀을 같이 이야기 할 수 있는 게 필요하다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 친구랑 같이 있으면서 <문법_맞춤법>더도말고 덜도말고 필요한건</문법_맞춤법> 최소한 서로 같이 이야기도 하면서 고민이나 작은 비밀을 같이 이야기 할 수 있는게 필요하다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 서로 이야기를 할 수 있다면 고민거리를 털어내서 서로 도와줄 수 있고 그렇게 하면서 다가갈 수 있을 겁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 서로 이야기를 <문법_맞춤법>할수있다면</문법_맞춤법> 고민거리를 털어내서 서로 도와줄수 있고 그렇게 하면서 다가갈수 있을겁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 그리고 서로 이야기를 하다 보면 지금은  서로의 일상이나 공부에 관한 것을 공유하고, 훗날에 성인이 되어서도 서로 비슷하게 이야기를 나눌 수 있을 겁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 그리고 서로 이야기를 <문법_맞춤법>하다보면</문법_맞춤법> 지금은  서로의 일상이나 공부에 관한 것을 공유하고, 훗날에 성인이 되어서도 서로 비슷하게 이야기를 나눌수 있을겁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 친구가 많이 있다고 좋은 건 아니라고 봅니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 친구가 <문법_맞춤법>많이있다고 좋은건</문법_맞춤법> 아니라고 봅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 혹시라도 그중에서 친구라는 약점을 이용해서 부려먹거나 돈만 빌려달라고 할 수도 있기 때문에 친구는 적당히 사귀면서 적은 친구라도 관계만 잘 유지된다면 그게 더 좋다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 혹시라도 그중에서 친구라는 약점을 이용해서 부려먹거나 돈만 빌려달라고 <문법_맞춤법>할수도</문법_맞춤법> 있기 때문에 친구는 적당히 사귀면서 적은 친구라도 관계만 잘 유지된다면 그게 더 좋다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55909",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 357,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "친구에 생각은 음... 제가 아끼던 친구는 #@이름#입니다#@문장구분# 근데 걔는 5학년때 전학을 갔죠#@문장구분# 하지만 저는 실망하지 않고 열심히 그친구없이도 열심히 그리고 또 열심히 학교를 다녔지만 기분을 항상 좋진 않았어요.#@문장구분# 근대 그때! 제가 좋아하던 #@이름#한테에서 전화가 온거에요.#@문장구분#\n그래서저는 받았죠.#@문장구분# 그때 전화를 받았는데 그친구가 제가다니는 학원에 다니겠다고 하는거 있죠?#@문장구분# 그래서 너무신이나서 집에서 소리를 좀 질렀죠#@문장구분# 저는 친구,선생님,우리반 친구들, 친척들,가족들을 사랑 하지만 그래도 일등은 가족이 우선이죠! #@문장구분#여러분들은 가족이나 친척들이나 선생님,친구들이 싫을때가 있나요?#@문장구분#1위는 친구면 안돼죠! #@문장구분#무조건 1위는 가족이어야 멋진친구나 좋은멋진 어린이가될수 있어요! #@문장구분#여러분들도 꼭 저처럼 생각하세요!#@문장구분#",
+      "paragraph_len": 650,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.25,
+      25.6,
+      23.6
+    ],
+    "essay_scoreT_avg": 23.816666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 걔는 5학년 때 전학을 갔습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>근데 걔는 5학년때 전학을 갔죠</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 그 친구 없이도 열심히 또 열심히 학교를 다녔지만 기분이 항상 좋지만은 않았습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어순><문법_기타>하지만 저는 실망하지 않고 열심히 그친구없이도 열심히 그리고 또 열심히 학교를 다녔지만 기분을 항상 좋진 않았어요.</문법_기타></문법_어순></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그래서 전화를 받았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>그래서저는 받았죠.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 그 친구가 제가 다니고 있는 학원에 같이 다니겠다고 하는 거 아니겠어요?",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_기타>그때 전화를 받았는데 그친구가 제가다니는 학원에 다니겠다고 하는거 있죠?</문법_기타></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 너무 신이 나서 소리를 질렀습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그래서 너무신이나서 집에서 소리를 좀 질렀죠</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구와 선생님, 우리 반 친구들, 또 친척들과 가족들을 사랑하지만 그래도 일등은 가족이 우선입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어순><문법_기타>저는 친구,선생님,우리반 친구들, 친척들,가족들을 사랑 하지만 그래도 일등은 가족이 우선이죠!</문법_기타></문법_어순></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분들은 가족이나 친척들, 선생님과 친구들이 싫을 때가 있나요?",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어순>여러분들은 가족이나 친척들이나 선생님,친구들이 싫을때가 있나요?</문법_어순></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "1순위가 친구면 안 되죠! ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>1위는 친구면 안돼죠!</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "무조건 1위는 가족이어야 멋진 어린이가 될 수 있어요! ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "무조건 1위는 가족이어야 <문법_맞춤법><문법_기타>멋진친구나 좋은멋진 어린이가될수 있어요!</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37927",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 378,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

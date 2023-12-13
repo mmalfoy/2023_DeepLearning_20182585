@@ -1,0 +1,342 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 존경하는 위인은 이순신장군님 이시다.#@문장구분# 그이유는 조선시대에 외놈들과 싸워서 이기신 이순신장군님이 멋지셔서 존경하게 되었다.#@문장구분# 그리고 그밖에 많은 위인들이 있고, 존경해야하는 위인들도 있다#@문장구분#. 예를 들어서 한글을 만드신 세종대왕님, 내가 존경하는 이순신장군님, 심사임당 등 으로 이분들 보다 더 많은 위인들도 있고, 내가 말하지 못한 엄청난 위인들이 엄청나게 많다.#@문장구분# 그래도 내가 가장 좋아하는 분은 이순신장군님 께서는 12척으로 외놈들의 배를, 다시 말하면 수없이도 많은 배를 작전과 힘으로 이겨서 삼국시대의 제갈공명을 다시한번 떠올리게 해주셨다. #@문장구분#그래서 이순신장군님의 지식이 부러워서 똑똑해지고 싶다.#@문장구분# 또, 이순신장군님의 자세한 정보도 알고 싶고 위험한 상황에서도 대처하시는 모습을 본받고 싶다.#@문장구분# 그리고 이순신장군님께서 총에 맞으신 장면을 보고 상상해 보니까 너무 끔찍하고 슬펐다.#@문장구분# 다신 떠올리고싶지 않았던 장면이였던것 같았다. #@문장구분#마지막으로내가 존중하는분은 이순신장군님이고 그분의 좋은 면을 본받고싶다.#@문장구분#",
+      "paragraph_len": 704,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      22.75,
+      28
+    ],
+    "essay_scoreT_avg": 25.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 존경하는 위인은 이순신 장군님이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 존경하는 위인은 <문법_맞춤법>이순신장군님 이시다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 조선시대에 왜놈들과 싸워서 승리하신 이순신 장군님이 멋지셔서 존경하게 되었다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어순><문법_기타>그이유는 조선시대에 외놈들과 싸워서 이기신 이순신장군님이 멋지셔서 존경하게 되었다.</문법_기타></문법_어순></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 존경해야 하는 많은 위인분들이 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법><문법_기타>그밖에 많은 위인들이 있고, 존경해야하는 위인들도 있다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예를 들어서 한글을 만드신 세종대왕님, 내가 존경하는 이순신 장군님, 심사임당님 등, 더 많은 위인들이 있다. 내가 말하지 못했거나 알지 못하는 엄청난 위인들이 엄청나게 많다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>. 예를 들어서 한글을 만드신 세종대왕님, 내가 존경하는 이순신장군님, 심사임당 등 으로 이분들 보다 더 많은 위인들도 있고,</문법_기타></문법_맞춤법> 내가 말하지 못한 엄청난 위인들이 엄청나게 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 내가 가장 좋아하는 분은 이순신 장군님이다. 이순신 장군께서는 단 12척으로 왜놈들의 수없이도 많은 배를 오로지 작전과 힘으로 이겨서 삼국시대의 제갈공명을 다시 한번 떠올리게 해주셨다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": " <문법_맞춤법>그래도 내가 가장 좋아하는 분은 이순신장군님 께서는</문법_맞춤법> <문법_어순>12척으로 외놈들의 배를, 다시 말하면 수없이도</문법_어순> 많은 배를 작전과 힘으로 이겨서 삼국시대의 제갈공명을 다시한번 떠올리게 해주셨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런 이순신 장군님의 지식이 부러워서 똑똑해지고 싶어졌다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사>그래서 이순신장군님의 지식이 부러워서 똑똑해지고 싶다.</문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또, 이순신 장군님의 자세한 정보도 알고 싶고, 위험한 상황에서도 대처하시는 모습을 본받고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또, <문법_맞춤법>이순신장군님의</문법_맞춤법> 자세한 정보도 알고 싶고 위험한 상황에서도 대처하시는 모습을 본받고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 이순신 장군님이 총에 맞으신 장면을 보고 상상해 보니까 너무 끔찍하고 슬펐다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법><문법_높임법>이순신장군님께서</문법_높임법></문법_맞춤법> 총에 맞으신 장면을 보고 상상해 보니까 너무 끔찍하고 슬펐다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다시는 떠올리고 싶지 않은 장면이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_시제>다신 떠올리고싶지 않았던 장면이였던것 같았다.</문법_시제></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "정리하자면, 나는 존경하는 이순신 장군님의 좋은 면을 본받고 싶다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사><문법_어순><문법_기타>마지막으로내가 존중하는분은 이순신장군님이고 그분의 좋은 면을 본받고싶다.</문법_기타></문법_어순></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37830",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 505,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

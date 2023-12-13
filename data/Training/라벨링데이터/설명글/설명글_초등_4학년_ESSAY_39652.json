@@ -1,0 +1,327 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 학교에서 공부를 4시간 정도 합니다.#@문장구분# 그리고 나머지 학습활동 시간은 3시간 정도 됩니다.#@문장구분# 여가활동은 5시40분 정도입니다.#@문장구분#",
+      "paragraph_len": 131,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 종이접기,영상보기,운동하는 것을 좋아합니다.#@문장구분# 종이도접고영상도보고 가족들과 텔레비전을 보기도 합니다.#@문장구분# 종이접기는 종이를 다 접었을때 기분이 좋아지기 때문입니다.#@문장구분#",
+      "paragraph_len": 149,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 내꿈을 위해 열심히 노력하고 있습니다.#@문장구분#수업시간에 집중하도록 계속 노력하겠습니다.#@문장구분# 집에서 학습활동 시간을 꾸준히 지켜야 할것 같습니다.#@문장구분# 그리고 여가활동 시간에 핸드폰으로 영상을너무 많이 보는것같으니 이제 시간을 줄이도록 하겠습니다.#@문장구분# 그리고 여가활동 시간에 건강해 지기 위해 운동시간을 조금더 늘리 도록 하겠습니다.#@문장구분# 그리고 독서하는 시간이나 공부 시간을 늘리 도록 하겠습니다.#@문장구분#",
+      "paragraph_len": 329,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      19.533333,
+      21.133335,
+      22.733334
+    ],
+    "essay_scoreT_avg": 21.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 여가활동은 5시간 40분 정도입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여가활동은 <문법_맞춤법>5시40분</문법_맞춤법> 정도입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 종이도 접고 영상도 보고 가족들과 텔레비전을 보기도 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>종이도접고영상도보고</문법_맞춤법> 가족들과 텔레비전을 보기도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 종이접기는 종이를 다 <스타일링_패러프레이징>접었을때 기분이 좋아지기 때문입니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 종이접기는 종이를 다 접었을 때 기분이 좋아집니다.",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집에서 학습활동 시간을 꾸준히 지켜야 할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집에서 학습활동 시간을 꾸준히 지켜야 <문법_맞춤법>할것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 여가활동 시간에 핸드폰으로 영상을 너무 많이 보는 것 같으니 이제 시간을 줄이도록 하겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 여가활동 시간에 핸드폰으로 <문법_맞춤법>영상을너무 많이 보는것같으니</문법_맞춤법> 이제 시간을 줄이도록 하겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 여가활동 시간에 건강해지기 위해 운동 시간을 조금 더 늘리도록 하겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 여가활동 시간에 <문법_맞춤법>건강해 지기 위해 운동시간을 조금더 늘리 도록</문법_맞춤법> 하겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 독서하는 시간이나 공부 시간을 늘리도록 하겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 독서하는 시간이나 공부 시간을 <문법_맞춤법>늘리 도록</문법_맞춤법> 하겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39652",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 374,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

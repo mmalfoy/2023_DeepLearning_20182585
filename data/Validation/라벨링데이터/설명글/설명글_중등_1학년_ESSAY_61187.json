@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저에게는 안좋은 습관이 하나 있었습니다.#@문장구분# 그게 바로 뭐냐면 늦잠을 자는 것이었습니다.#@문장구분# 학교에 갈때가 되면 어머니께서 화를 많이 내셨습니다.#@문장구분# 제가 몇 번 깨워서는 안일어났기 때문입니다.#@문장구분# 그래서 학교에 가도 피곤해서 힘들었습니다.#@문장구분# 잠을 깨는게 힘들어서 알람을 많이 맞춰놔도 잘 안일어나졌습니다.#@문장구분# 제가 늦게 일어나는 이유는 늦게 잠들기 때문입니다.#@문장구분# 핸드폰을 만지다가 나도 모르게 잠드는게 습관이 되어서 핸드폰을 안만지면 뭔가 부족한 느낌이었습니다.#@문장구분# 그래서 저는 일찍 자리에 눕는 것이랑, 이를 닦기 전에 따뜻한 우유를 마시는 것이랑, 자려고 누워서 핸드폰을 켜지 않는 거를 습관으로 만들기 위해서 엄청 노력했습니다.#@문장구분# 일찍 자리에 눕는 것뺴고는 다 습관으로 만들었는데, 그러고 나니 언제 누워도 몸이 피곤해서 잠이 잘왔습니다.#@문장구분# 그래서 요즘엔 알람을 잘 듣고 잘 일어나는 편입니다.#@문장구분#",
+      "paragraph_len": 652,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      19.2,
+      19.75
+    ],
+    "essay_scoreT_avg": 20,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저에게는 안 좋은 습관이 하나 있었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저에게는 <문법_맞춤법>안좋은</문법_맞춤법> 습관이 하나 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교에 갈 때가 되면 어머니께서 화를 많이 내셨습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교에 <문법_맞춤법>갈때</문법_맞춤법>가 되면 어머니께서 화를 많이 내셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 몇 번 깨워서는 안 일어났기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 몇 번 깨워서는 <문법_맞춤법>안일어났기</문법_맞춤법> 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 잠을 깨는 게 힘들어서 알람을 많이 맞춰놔도 잘 안 일어나졌습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 잠을 <문법_맞춤법>깨는게</문법_맞춤법> 힘들어서 알람을 많이 맞춰놔도 잘 안일어나졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 핸드폰을 만지다가 나도 모르게 잠드는 게 습관이 되어서 핸드폰을 안 만지면 뭔가 부족한 느낌이었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 핸드폰을 만지다가 나도 모르게 <문법_맞춤법>잠드는게</문법_맞춤법> 습관이 되어서 핸드폰을 안만지면 뭔가 부족한 느낌이었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일찍 자리에 눕는 것 빼고는 다 습관으로 만들었는데, 그러고 나니 언제 누워도 몸이 피곤해서 잠이 잘 왔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일찍 자리에 눕는 <문법_맞춤법>것뺴고는</문법_맞춤법> 다 습관으로 만들었는데, 그러고 나니 언제 누워도 몸이 피곤해서 잠이 잘왔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61187",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 433,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

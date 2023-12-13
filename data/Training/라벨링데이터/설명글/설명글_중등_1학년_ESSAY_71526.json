@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "'세 살 버릇 여든까지 간다.'라는 속담이 있습니다.#@문장구분# 저는 유튜브를 보는 안좋은 습관이 있었습니다.#@문장구분#유튜브를 자주 보다보니까 공부에도 지장이 가서 공부도 잘 안되고 하기 싫은 상황이 많이 생겼습니다.#@문장구분#그리고 유튜브 알고리즘은 제가 좋아하는 종류의 영상들을 관련 동영상으로 띄어줍니다.#@문장구분#그래서 더더욱 빠져나오기 힘들었고 '아, 이래서는 안되겠구나.'라는 생각이 들었습니다.#@문장구분#저는 유튜브를 끊기 위해서 우선 아이패드를 엄마에게 맡기고 휴대폰은 사용 시간을 정해놓았습니다.#@문장구분#처음에는 계속 생각나고 참기가 힘들었지만 자꾸 참아내다보면 결국에는 어느 순간 아무렇지도 않게 유튜브의 유혹이 이겨내는 저를 발견할 수 있었습니다.#@문장구분#습관을 고치는 것은 자신의 의지로 출발하지만 결국에는 그것이 반복되어서 자동적으로 되는 것 같습니다.#@문장구분#따라서 자기가 고치기 힘들다 싶은 습관이 있다면 주변 사람들의 도움을 받는 것도 큰 도움이 된다고 생각합니다.#@문장구분#",
+      "paragraph_len": 636,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20.8,
+      21.3
+    ],
+    "essay_scoreT_avg": 24.033333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 유튜브를 보는 안 좋은 습관이 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 유튜브를 보는 <문법_맞춤법>안좋은 </문법_맞춤법>습관이 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "유튜브를 자주 보다 보니까 공부에도 지장이 가서 공부도 잘 안되고 하기 싫은 상황이 많이 생겼습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "유튜브를 자주 <문법_맞춤법>보다보니까</문법_맞춤법> 공부에도 지장이 가서 공부도 잘 안되고 하기 싫은 상황이 많이 생겼습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "처음에는 계속 생각나고 참기가 힘들었지만 자꾸 참아내다 보면 결국에는 어느 순간 아무렇지도 않게 유튜브의 유혹이 이겨내는 저를 발견할 수 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "처음에는 계속 생각나고 참기가 힘들었지만 자꾸 <문법_맞춤법>참아내다보면 </문법_맞춤법>결국에는 어느 순간 아무렇지도 않게 유튜브의 유혹이 이겨내는 저를 발견할 수 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71526",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 456,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

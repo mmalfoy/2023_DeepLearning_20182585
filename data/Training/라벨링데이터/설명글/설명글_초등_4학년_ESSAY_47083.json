@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 좋아하는 여가활동 2021년 11월\n 1:내가 좋아하는 여가활동은 게임 3시간,집에서 누워서TV보기 1시간 친구와 놀기 1시간 등등 있다.#@문장구분# 그리고 다음에 또있는데 예기하면 안된다.#@문장구분# 그래서 그냥 넘어가야겠다.#@문장구분#\n 2:내가하는 공부는 독서???분(랜덤),복습???분(랜덤),예습(6학년꺼) 30분~1시간정도 참고로 제일좋아하는 여가활동은 자전거 내리막길에서 타기.#@문장구분#(쓸 말이없음) #@문장구분#그래서 공부를 더하면 힘들지만 시간상 해야한다#@문장구분#.(?)#@문장구분#(손해)#@문장구분#",
+      "paragraph_len": 405,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.1428572,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.666667,
+      11.6,
+      12.047619
+    ],
+    "essay_scoreT_avg": 12.771428,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.02",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 좋아하는 여가활동 2021년 11월\n 1:내가 좋아하는 여가활동은 게임 3시간, 집에서 누워서 TV보기, 1시간 친구와 놀기, 1시간 등이 있다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": "내가 좋아하는 여가활동 2021년 11월\n 1:내가 좋아하는 여가활동은 게임 3시간,집에서 <문법_맞춤법>누워서<문법_기타>TV보기</문법_기타></문법_맞춤법> 1시간 친구와 놀기 1시간 <문법_조사>등등</문법_조사> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다음에 또 있는데 얘기하면 안 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 다음에 <문법_맞춤법>또있는데</문법_맞춤법> 예기하면 안된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 2:내가하는 공부는 독서???분(랜덤),복습???분(랜덤),예습(6학년꺼) 30분~1시간정도 참고로 제일 좋아하는 여가활동은 자전거 내리막길에서 타기.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": "\n 2:내가하는 공부는 독서???분(랜덤),복습???분(랜덤),예습(6학년꺼) 30분~1시간정도 참고로 <문법_맞춤법>제일좋아하는</문법_맞춤법> 여가활동은 자전거 내리막길에서 타기.",
+      "sentence_corr_txt_styling": "\n 2:내가하는 공부는 독서???분(랜덤),복습???분(랜덤),예습(6학년꺼) 30분~1시간정도 참고로 제일 좋아하는 여가활동은 자전거 내리막길에서 타기.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 공부를 더 하면 힘들지만 시간상 해야 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그래서 공부를 <문법_맞춤법>더하면</문법_맞춤법> 힘들지만 시간상 <문법_기타>해야한다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47083",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 245,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

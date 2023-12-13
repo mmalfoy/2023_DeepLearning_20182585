@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 다수결을 대채할 건이 없다고 생각한다#@문장구분# 가족이 외식을할까 말까 예기할때 토론을 할수도 없기때문에 다수결이 좋다고 생각한다.#@문장구분#\n 솔직히 투표도 다수결과 거의 똑같고 토론을하기에는 작은일에 하기 안좋기 때문에다수결로모든사람들이 하기 가장 적절하고 좋다고 생각한다.#@문장구분# 다수결은 소수의 의견이 반영 되지 않는다는 단점이 있지만 그것을 빼면 단점이 없다.#@문장구분# 그리고 다수결은 여러 방법도있다.#@문장구분# 토론을하고 다른사람을 설득 시켜서 좀더공평하게 할수있다.#@문장구분#\n 또 다수결은 더 많은쪽의 의견을 받기 때문에 좋아하지 않는 사람이 적을것이고 투표도 거의 다수결과 같기 때문에 다수결은 국회위원선거 뿐만 아니라 대통령선거 에도 사용하는것과 마찬가지다.",
+      "paragraph_len": 469,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      24.114285,
+      22.733334
+    ],
+    "essay_scoreT_avg": 21.749207,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 다수결을 대체할 건이 없다고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        "마침표"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "나는 다수결을 <문법_맞춤법>대채할 </문법_맞춤법>건이 없다고 <문법_기타>생각한다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가족이 외식을 할까 말까 애기할 때 토론을 할수도 없기 때문에 다수결이 좋다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가족이 <문법_맞춤법>외식을할까 </문법_맞춤법>말까 예기할때 토론을 할수도 없기때문에 다수결이 좋다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 솔직히 투표도 다수결과 거의 똑같고 토론을 하기에는 작은일에 하기 안 좋기 때문에 다수결로 모든 사람들이 하기 가장 적절하고 좋다고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 솔직히 투표도 다수결과 거의 똑같고 <문법_맞춤법>토론을하기에는</문법_맞춤법> 작은일에 하기 안좋기 때문에다수결로모든사람들이 하기 가장 적절하고 좋다고 생각한다.",
+      "sentence_corr_txt_styling": "\n 솔직히 투표도 다수결과 거의 똑같고 토론을 하기에는 작은일에 하기 안 좋기 때문에 다수결로 모든 사람들이 하기 가장 적절하고 좋다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다수결은 소수의 의견이 반영되지 않는다는 단점이 있지만 그것을 빼면 단점이 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다수결은 소수의 의견이 <문법_맞춤법>반영 되지</문법_맞춤법> 않는다는 단점이 있지만 그것을 빼면 단점이 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다수결은 여러 방법도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 다수결은 여러 <문법_맞춤법>방법도있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 토론을 하고 다른 사람을 설득 시켜서 좀 더 공평하게 할 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>토론을하고 </문법_맞춤법>다른사람을 설득 시켜서 좀더공평하게 할수있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 또 다수결은 더 많은 쪽의 의견을 받기 때문에 좋아하지 않는 사람이 적을 것이고 투표도 거의 다수결과 같기 때문에 다수결은 국회위원 선거뿐만 아니라 대통령선거에도 사용하는 것과 마찬가지다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 또 다수결은 더 <문법_맞춤법>많은쪽의</문법_맞춤법> 의견을 받기 때문에 좋아하지 않는 사람이 적을것이고 투표도 거의 다수결과 같기 때문에 다수결은 국회위원선거 뿐만 아니라 대통령선거 에도 사용하는것과 마찬가지다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49635",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 350,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

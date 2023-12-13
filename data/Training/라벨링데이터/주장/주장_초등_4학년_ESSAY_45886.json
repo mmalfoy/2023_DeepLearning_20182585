@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 환경을 위해 과학의 발전을 멈추어야 한다고 생각합니다.#@문장구분# 왜냐하면 과학이 발전되서 환경이 아주 많이 오염되면 동물들과 인간들이 다 죽기 때문입니다.#@문장구분# 또 기술이 많이 발전해서 인간과동물이 살 수 있어도, 우리는 항상 슬프고 지구는 죽음의땅이 될 것입니다.#@문장구분# 생각해보세요.#@문장구분# 아주조금 잘살다가 지구가 멸망하는것이 좋습니까?#@문장구분# 아니면 지금처럼 살고 고래고래 사는것이 좋습니까?#@문장구분# 그리고 지금 이 기술로도 충분히 살아갈 수 있습니다.#@문장구분# 그리고 지금도 충분히 편합니다.#@문장구분#아주 오래전과 비교하면 비교가 안될정도로 우리는 잘 살고있습니다.#@문장구분# 못 살는 나라보다 충분히 잘 살수 있습니다.#@문장구분# 그러므로 우리는 환경을 위해 과학의 발전을 멈추어야 한다고 생각합니다.#@문장구분#",
+      "paragraph_len": 575,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.2,
+      22.6,
+      30
+    ],
+    "essay_scoreT_avg": 25.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          1
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 과학이 발전돼서 환경이 아주 많이 오염되면 동물들과 인간들이 다 죽기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 과학이 <문법_맞춤법>발전되서</문법_맞춤법> 환경이 아주 많이 오염되면 동물들과 인간들이 다 죽기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 기술이 많이 발전해서 인간과 동물이 살 수 있어도, 우리는 항상 슬프고 지구는 죽음의 땅이 될 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 기술이 많이 발전해서 <문법_맞춤법>인간과동물이</문법_맞춤법> 살 수 있어도, 우리는 항상 슬프고 지구는 죽음의땅이 될 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생각해 보세요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>생각해보세요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아주 조금 잘 살다가 지구가 멸망하는 것이 좋습니까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아주조금 잘살다가 지구가 멸망하는것이</문법_맞춤법> 좋습니까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아니면 지금처럼 살고 고래고래 사는 것이 좋습니까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아니면 지금처럼 살고 고래고래 <문법_맞춤법>사는것이</문법_맞춤법> 좋습니까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아주 오래전과 비교하면 비교가 안될 정도로 우리는 잘 살고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아주 오래전과 비교하면 비교가 <문법_맞춤법>안될정도로 우리는 잘 살고있습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45886",
+    "essay_prompt": " 현대 과학은 나날이 발전해 나아가고 있습니다. 여기서 '현대 과학'이란 지금 여러분들이 사용하고 있는 핸드폰이나 먹는 알약 등을 만들 수 있게 해주는 기술의 기반입니다.\n\n 많은 과학자들이 과학 기술을 연구해서 현대 과학의 수준이 많이 성장했습니다. 여러분이 주변에서 많이 보는 자동차나 일상생활에서 사용하는 생활용품도 대부분 과학기술의 발전으로 탄생했습니다.\n\n 하지만 이러한 과학기술의 발전은 심각한 환경문제를 만들어 지구환경에 심각한 경고를 주고 있습니다. 과학실험을 하기 위해서는 여러 화학적 실험과 쓰레기들이 생겨 환경에 안 좋은 물질들이 생기기 때문입니다.\n\n 과학이 발전하면 편리하고 사회의 많은 문제가 해결되지만 한편으로는 우리가 살고 있는 지구의 환경을 파괴하기도 한 거죠.\n\n 여러분은 과학의 발전이 지금처럼 빠르게 이루어져야 한다고 생각하나요? 아니면 환경을 위협하는 발전은 멈춰야 한다고 생각하나요?\n\n 과학의 발전을 위한 환경 파괴는 어쩔 수 없다고 생각하는지 아니면 환경을 위해 과학의 발전을 멈추어야 한다고 생각하는지 본인의 의견을 작성해주세요. 그리고 그 이유에 대해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 355,
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각"
+  }
+}

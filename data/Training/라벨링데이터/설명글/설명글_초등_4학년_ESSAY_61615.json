@@ -1,0 +1,322 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 살고싶은 집 방은 3개 정도 1개는 주방 나머지 1개는 제방 화장실 흰색욕조가 1개 있었으면 좋겠고 깨끗한 변기 화이트 세면대도 있었으면 좋겠습니다.#@문장구분# 바닥은 정사각형 무늬가 있었으면 좋겠습니다.#@문장구분# 벽지는 하얀바탕에 금색 정사각형 모양이 있었으면 좋겠습니다.#@문장구분# 주방은 감성있게 아주 풍경이 좋은 차아 근처자리에 인덕션 가스불이 있었으면 좋겠습니다.#@문장구분# 인덕션 옆에는 긴 조리대도 있었으면 좋겠습니다.#@문장구분# 싱크대에는 시원한 물 따뜻한물 등등이 나오면 좋겠습니다.#@문장구분# 조리대 위엔 맛있는 음식을 같이 만들어 주는 전자 요리가구등이 있습니다.#@문장구분# 냉장고는 냉장고 안에 있는 재료들로 해먹을수 있는 레시피를 알려줍니다.#@문장구분# 냉장고 패드 같습니다.#@문장구분# 제 방은 방 좀 끝에 큰 창문이 있었으면 좋겠습니다.#@문장구분# 하얀색가 검정색 체크무늬에 큰 색상이 있었으면 좋겠습니다.#@문장구분# 의자는 부드러운 마쉬멜로처럼 푹신하면 좋겠습니다.#@문장구분# 침대는 마치 구름위를 탄것같이 푹신했습니다.#@문장구분# 침대옆엔 큰 장롱이 있습니다.#@문장구분# 거실은 아주 큰 TV와 푹신한 소파 감성있는 테이블 심플한 커튼 마당에는 깨끗한 풀이 있습니다.#@문장구분# 강아지집에서 강아지가 저에게.. 이 집에 있으면 제가 뭔가 부자가 된 것 같습니다.#@문장구분#",
+      "paragraph_len": 901,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5714285,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3809521,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      24.285713,
+      19.419048
+    ],
+    "essay_scoreT_avg": 24.034922,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 살고 싶은 집 방은 3개 정도, 1개는 주방, 나머지 1개는 제 방 화장실, 흰색 욕조가 1개 있었으면 좋겠고 깨끗한 변기, 화이트 세면대도 있었으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 <문법_맞춤법>살고싶은</문법_맞춤법> 집 방은 3개 정도 1개는 주방 나머지 1개는 제방 화장실 흰색욕조가 1개 있었으면 좋겠고 깨끗한 변기 화이트 세면대도 있었으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 벽지는 하얀 바탕에 금색 정사각형 모양이 있었으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 벽지는 <문법_맞춤법>하얀바탕</문법_맞춤법>에 금색 정사각형 모양이 있었으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 주방은 감성있게 아주 풍경이 좋은 차아 근처자리에 인덕션 가스불이 있었으면 좋겠습니다.",
+      "sentence_corr_txt_styling": " 주방은 감성있게 아주 풍경이 좋은 차아 근처자리에 인덕션 가스불이 있었으면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 싱크대에는 시원한 물, 따뜻한 물 등등이 나오면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "쉼표, 띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 싱크대에는 <문법_맞춤법>시원한 물 따뜻한물</문법_맞춤법> 등등이 나오면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 조리대 위엔 맛있는 음식을 같이 만들어 주는 전자 요리가구 등이 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 조리대 위엔 맛있는 음식을 같이 만들어 주는 전자 <문법_맞춤법>요리가구등이</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 냉장고는 냉장고 안에 있는 재료들로 해먹을 수 있는 레시피를 알려줍니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 냉장고는 냉장고 안에 있는 재료들로 <문법_맞춤법>해먹을수</문법_맞춤법> 있는 레시피를 알려줍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 침대는 마치 구름 위를 탄 것 같이 푹신했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 침대는 마치 <문법_맞춤법>구름위를 탄것같이</문법_맞춤법> 푹신했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 침대 옆엔 큰 장롱이 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>침대옆엔</문법_맞춤법> 큰 장롱이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거실은 아주 큰 TV와 푹신한 소파 감성 있는 테이블 심플한 커튼 마당에는 깨끗한 풀이 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 거실은 아주 큰 TV와 푹신한 소파 <문법_맞춤법>감성있는</문법_맞춤법> 테이블 심플한 커튼 마당에는 깨끗한 풀이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 강아지 집에서 강아지가 저에게.. 이 집에 있으면 제가 뭔가 부자가 된 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>강아지집에서</문법_맞춤법> 강아지가 저에게.. 이 집에 있으면 제가 뭔가 부자가 된 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61615",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 581,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

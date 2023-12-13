@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "취미에 대해서 생각 해 본 적이 없다. #@문장구분#학교 갔다오면 학원가고 숙제하고 그 다음 시간이 조금이라도 난다면 휴대폰 게임을 하거나 유명한 유투버들의 영상을 보면서 시간을 보내기 때문에 내가 공부 이외에 무엇을 좋아하고 하고 싶어하는지 생각 해 본 적이 없다. #@문장구분#그러나 이 에세이 쓰기를 하면서 곰곰 생각해 보니 나는 노래 부르기를 좋아한다. #@문장구분#아니 잘 부르고 싶다.#@문장구분# 친구들이랑 노래방에 갔던 일을 생각하면 노래 잘 부르는 친구들이 많고 나는 부럽다고 생각했다. #@문장구분#TV에서도 노래 경연 프로그램도 많고 우리나라 사람들은 어쩌면 이렇게 노래 잘 부르는 사람들이 많을까 하고 생각했던 적도 있다. #@문장구분#나는 잘 부르지는 못하고 잘 부르고 싶다. #@문장구분#그래서 엄마가 허락해 주시고 기회가 된다면 보컴 트레이닝도 받아 보고 싶다. #@문장구분#내가 좋아하는 가수의 노래나 부르고 싶었던 노래를 친구들 앞에서 멋지게 불러 보고 싶기도 하다.#@문장구분#",
+      "paragraph_len": 626,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      25.780952,
+      20
+    ],
+    "essay_scoreT_avg": 25.260317,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.01",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "취미에 대해서 생각해 본 적이 없다. ",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "취미에 대해서<문법_맞춤법> 생각 해</문법_맞춤법> 본 적이 없다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학교 갔다 오면 학원가고 숙제하고 그다음 시간이 조금이라도 난다면 휴대폰 게임을 하거나 유명한 유튜버들의 영상을 보면서 시간을 보내기 때문에 내가 공부 이외에 무엇을 좋아하고 하고 싶어 하는지 생각해 본 적이 없다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교 <문법_맞춤법>갔다오면</문법_맞춤법> 학원가고 숙제하고 그 다음 시간이 조금이라도 난다면 휴대폰 게임을 하거나 유명한 유투버들의 영상을 보면서 시간을 보내기 때문에 내가 공부 이외에 무엇을 좋아하고 하고 싶어하는지 생각 해 본 적이 없다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "TV에서도 노래 경연 프로그램도 많고 우리나라 사람들은 어쩜 이렇게 노래 잘 부르는 사람들이 많을까 하고 생각했던 적도 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "TV에서도 노래 경연 프로그램도 많고 우리나라 사람들은<문법_맞춤법> 어쩌면 </문법_맞춤법>이렇게 노래 잘 부르는 사람들이 많을까 하고 생각했던 적도 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는 <스타일링_담화 맥락 오류><스타일링_패러프레이징>잘 부르지는 못하고 잘 부르고 싶다</스타일링_패러프레이징></스타일링_담화 맥락 오류>. ",
+      "sentence_corr_txt_styling": "나는 노래를 잘 부르고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 엄마가 허락해 주시고 기회가 된다면 보컬 트레이닝도 받아 보고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 엄마가 허락해 주시고 기회가 된다면 <문법_맞춤법>보컴</문법_맞춤법> 트레이닝도 받아 보고 싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36020",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 447,
+    "essay_main_subject": "나의 취미"
+  }
+}

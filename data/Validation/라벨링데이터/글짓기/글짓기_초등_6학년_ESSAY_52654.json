@@ -1,0 +1,363 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 관심있는 바다생물은 고래이다.#@문장구분# 그 이유는 고래는 오래사는 물고기중에 하나이기때문이다. #@문장구분#그리고 천적이 거의 없고 뭐든지 보이면 배고 플때 바로 잡아먹을수 있기 때문이다.#@문장구분#\n내가 고래가 된다면 일단 주의를 방황하며 수영하고 싶다.#@문장구분#\n고래는 몇일동안 밥을 안먹어도 되기 때문이다.#@문장구분#\n고래가 되면 가장 좋은 점은 천적이 없는 것이다.#@문장구분# 그리고 고래를 잡는 사람들은 처벌을 받기 때문에 마음 놓고 바다를 누빌수도 있다.#@문장구분#\n또한 고래들은 집안 사냥을 하기 때문에 무섭지도 않을것 같다.#@문장구분#\n또 모험을 하면 고래는 수천킬로 미터도 갈수 있으니까 심해에서 잠을 몇일자다가 북극으로 가서 고래친구들을 보고 같이 살다가 남극으로 가서 팽귄 친구들과 같이 흐하하하하하 하하하하하 호호호호호호호호웃으면 지낼거다.#@문장구분#\n내가 고래가 얼마나 부러웠으면 어제 저녁에 고래꿈을 꾸었다.#@문장구분# 물에서 고래가 해수욕장에서 선팅을 하고 같이 밥을 먹었다.#@문장구분#\n그런데 상어가 날 공격 했을때 고래가 나라서 상어를 갈기갈기 짖어 죽였다.#@문장구분# 나에게 피가 눈으로 들어가서 난 실명이 됬다.#@문장구분#\n고래가 미안해하면 사정을 했다.#@문장구분#\n화가 났지만 날 구해 줬기 때문에 괜찮다고 했다.#@문장구분#\n결론은 '난 고래가 되고싶다'\n이다.#@문장구분#\n제 이야기 들어줘서 고마웡~!",
+      "paragraph_len": 921,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      21.85,
+      28
+    ],
+    "essay_scoreT_avg": 26.083334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 관심 있는 바다생물은 고래이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 <문법_맞춤법>관심있는</문법_맞춤법> 바다생물은 고래이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 고래는 오래 사는 물고기 중에 하나이기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 이유는 고래는 <문법_맞춤법>오래사는 물고기중에 하나이기때문이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 천적이 거의 없고 뭐든지 보이면 배고플 때 바로 잡아먹을 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 천적이 거의 없고 뭐든지 보이면 <문법_맞춤법>배고 플때</문법_맞춤법> 바로 잡아먹을수 있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n고래는 며칠 동안 밥을 안 먹어도  되기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n고래는<문법_맞춤법> 몇일동안 밥을 안먹어도</문법_맞춤법> 되기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 고래를 잡는 사람들은 처벌을 받기 때문에 마음 놓고 바다를 누빌 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 고래를 잡는 사람들은 처벌을 받기 때문에 마음 놓고 바다를 <문법_맞춤법>누빌수도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n또한 고래들은 집안 사냥을 하기 때문에 무섭지도 않을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n또한 고래들은 집안 사냥을 하기 때문에 무섭지도 <문법_맞춤법>않을것</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n또 모험을 하면 고래는 수천 킬로 미터도 갈수 있으니까 심해에서 잠을 며칠 자다가 북극으로 가서 고래 친구들을 보고 같이 살다가 남극으로 가서 펭귄 친구들과 같이 하하 하하 하하 하하하하하 호호호호호호호호 웃으면 지낼 거다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n또 모험을 하면 고래는 <문법_맞춤법>수천킬로</문법_맞춤법> 미터도 갈수 있으니까 심해에서 잠을 몇일자다가 북극으로 가서 고래친구들을 보고 같이 살다가 남극으로 가서 팽귄 친구들과 같이 흐하하하하하 하하하하하 호호호호호호호호웃으면 지낼거다.",
+      "sentence_corr_txt_styling": "\n또 모험을 하면 고래는 수천 킬로 미터도 갈수 있으니까 심해에서 잠을 며칠 자다가 북극으로 가서 고래 친구들을 보고 같이 살다가 남극으로 가서 펭귄 친구들과 같이 하하 하하 하하 하하하하하 호호호호호호호호 웃으면 지낼 거다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n내가 고래가 얼마나 부러웠으면 어제저녁에 고래꿈을 꾸었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n내가 고래가 얼마나 부러웠으면<문법_맞춤법> 어제 저녁에</문법_맞춤법> 고래꿈을 꾸었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그런데 상어가 날 공격했을 때 고래가 날아서 상어를 갈기갈기 짖어 죽였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n그런데 상어가 날 <문법_맞춤법>공격 했을때</문법_맞춤법> 고래가 나라서 상어를 갈기갈기 짖어 죽였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나에게 피가 눈으로 들어가서 난 실명이 됐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나에게 피가 눈으로 들어가서 난 실명이 <문법_맞춤법>됬다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n고래가 미안해하며 사정을 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "\n고래가 <문법_조사>미안해하면</문법_조사> 사정을 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n결론은 '난 고래가 되고 싶다'\n이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n결론은 '난 고래가 <문법_맞춤법>되고싶다</문법_맞춤법>'\n이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n제 이야기 들어줘서 고마워~!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n제 이야기 들어줘서<문법_어미> 고마웡</문법_어미>~!",
+      "sentence_corr_txt_styling": "\n제 이야기 들어줘서 고마워~!",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52654",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 602,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

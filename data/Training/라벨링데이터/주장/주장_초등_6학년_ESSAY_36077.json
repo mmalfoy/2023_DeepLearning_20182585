@@ -1,0 +1,342 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미디어에 노출되어 나쁜 영향을 많이받은 청소년들은 또래 아이들한테까지도안좋은 영향을 끼친다.#@문장구분# 그 중 하나가학교 폭력 인데, 이것으로 인해 많은피해자들이 생겨나 평생 트라우마를 가지고 살아간다.#@문장구분#\n 많은 사람들이 평생동안 지고가는 학교 폭력의 피해는 수도없이 많다.#@문장구분# 학교폭력을 예방하기 위해서는 우선 주변에 소외된 학생들에게 관심을 가져야한다.#@문장구분# 소외된 학생들이 학교폭력의 피해자가 되고, 우리도모르는 사이에 은근한 따돌림을 받을 수 있으니까 말이다#@문장구분# 그리고 학교폭력 피해자들을 외면해선안됀다.#@문장구분# 학교폭력 피해자는 가해자의 괴롭힘에 지쳐있을 텐데 다른 학생들까지 자기를 외면하면 힘든게 배가 되지않을까? #@문장구분#당장 그들에게 필요한 것은 괴롭힘이 멈추는 것이겠지만, 주변의 위로와 관심이 아닐까 싶다.#@문장구분#\n 학교폭력 피해자들에게 간절히 필요한것은 학교폭력에 대한 조치일 것이다.#@문장구분#아무리 위로하고 관심을 줘도 조치를 취하지 않으면 피해자는 앞으로의 가해자의 괴롭힘에 막막하기만 할 것이다.#@문장구분#따라서 우리는 학교폭력이 일어난 것을 선생님이나 주변 어른들한테 알려야 한다.#@문장구분# 어른들께 알려 가해자들을 처벌해야 한다.#@문장구분# 자신의 잘못에 대한 대가를치뤄야지.#@문장구분#\n 학교폭력을 예방하기 위해서 이러한 방법들이 있지만 가장 좋은 방법은 학교폭력이 일어나지 않게 하는 것이 아닐까?#@문장구분# 평생의 상처가 될 학교폭력을 일어나지 않도록 노력하자#@문장구분#",
+      "paragraph_len": 964,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.566666,
+      25.666668,
+      20
+    ],
+    "essay_scoreT_avg": 24.07778,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미디어에 노출되어 나쁜 영향을 많이 받은 청소년들은 또래 아이들한테까지도 안 좋은 영향을 끼친다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미디어에 노출되어 나쁜 영향을 <문법_맞춤법>많이받은</문법_맞춤법> 청소년들은 또래 아이들한테까지도안좋은 영향을 끼친다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 중 하나가 학교 폭력인데, 이것으로 인해 많은 피해자들이 생겨나 평생 트라우마를 가지고 살아간다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 중 <문법_맞춤법>하나가학교 폭력 인데</문법_맞춤법>, 이것으로 인해 많은피해자들이 생겨나 평생 트라우마를 가지고 살아간다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 많은 사람들이 평생동안 지고 가는 학교 폭력의 피해는 수도 없이 많다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 많은 사람들이 평생동안 <문법_맞춤법>지고가는</문법_맞춤법> 학교 폭력의 피해는 수도없이 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력을 예방하기 위해서는 우선 주변의 소외된 학생들에게 관심을 가져야한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 학교폭력을 예방하기 위해서는 우선 <문법_조사>주변에</문법_조사> 소외된 학생들에게 관심을 가져야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 소외된 학생들이 학교폭력의 피해자가 되고, 우리도 모르는 사이에 은근한 따돌림을 받을 수 있으니까 말이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 소외된 학생들이 학교폭력의 피해자가 되고, <문법_맞춤법>우리도모르는</문법_맞춤법> 사이에 은근한 따돌림을 받을 수 있으니까 <문법_기타>말이다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 학교폭력 피해자들을 외면해선 안 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 학교폭력 피해자들을 <문법_맞춤법>외면해선안됀다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력 피해자는 가해자의 괴롭힘에 지쳐있을 텐데 다른 학생들까지 자기를 외면하면 힘든 게 배가 되지 않을까? ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력 피해자는 가해자의 괴롭힘에 지쳐있을 텐데 다른 학생들까지 자기를 외면하면 <문법_맞춤법>힘든게 배가 되지않을까?</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "당장 그들에게 필요한 것은 괴롭힘이 멈추는 것이겠지만, 주변의 위로와 <스타일링_패러프레이징>관심이 아닐까 싶다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": "당장 그들에게 필요한 것은 괴롭힘이 멈추는 것이겠지만, 주변의 위로와 관심도 필요하지 않을까 싶다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 학교폭력 피해자들에게 간절히 필요한 것은 학교폭력에 대한 조치일 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 학교폭력 피해자들에게 간절히 <문법_맞춤법>필요한것은</문법_맞춤법> 학교폭력에 대한 조치일 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자신의 잘못에 대한 대가를 치뤄야지.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자신의 잘못에 대한 <문법_맞춤법>대가를치뤄야지</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 평생의 상처가 될 학교폭력이 일어나지 않도록 노력하자.",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 평생의 상처가 될 <문법_조사><문법_기타>학교폭력을 일어나지 않도록 노력하자</문법_기타></문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36077",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 666,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

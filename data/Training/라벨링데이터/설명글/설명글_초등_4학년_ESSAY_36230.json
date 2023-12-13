@@ -1,0 +1,240 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 살고 싶은 집은 일단 엄마 명의고, 2층에 엄청 넓고 마당이 있고 수영장도 있고 방마다 에어컨, 선풍기등이 있어 시원하고 욕실도 욕조도 있고 샤워기는 3가지 모드로 있으며 거실에는 유리가 있어 자연뷰를 볼 수 있다.#@문장구분# 또 태양열발전기도 많이 있어 전기비도 걱정 없다.#@문장구분# 그리고 캣타워도많이 있고 고양이집도 많이 있어 여러마리의 고양이를 키우고 좋고 아주 큰 어항도 있어 상어도 키울 수 있어야 한다.#@문장구분# 그리고 볼파이튼도 키울 수 있는 사육장도 있어야 한다. #@문장구분#컴퓨터도 많이 있는 PC방도 있어야 하고 오락실도 있어야 한다.#@문장구분# 보드게임 방도 있고 드레스룸도 크고 침실의 침대도 잠이 잘 와야 한다.#@문장구분# 부억의 있는 냉장고, 냉동고, 김치냉장고, 에어프라이기, 가스레인지, 후라이팬 등 모두 최신에 나온 좋은 것들이여야 한다.#@문장구분# 화질 진짜 좋고 크고 우리집에 있는 고장난 인공지능 스피커 말고 말 잘 듣는 기가지니가 있어야 한다.#@문장구분# 이 모든 것이 공짜!#@문장구분# 이거 다 하면 조프 베조스랑 일론 머스크도 파산할 수 있어서 khs세계관에 있는 신이 이거 공짜로 주었다는 스토리 근데 현실은 어림도 없지! ㅋㅋㅋㅋㅋㅋㅋ 갑자기 현자타임 온다... 끝.#@문장구분# 아 맞다.#@문장구분# 푹신푹신한 소파에 시원한 안마의자도 추가 (소파 다리 올릴 수 있는지) 이제 진짜 끝.#@문장구분#",
+      "paragraph_len": 869,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      28.4,
+      20.914286
+    ],
+    "essay_scoreT_avg": 23.904762,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.01",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 살고 싶은 집은 일단 엄마 명의고, 2층에 엄청 넓고 마당이 있고 수영장도 있고 방마다 에어컨, <문법_맞춤법>선풍기등이 </문법_맞춤법>있어 시원하고 욕실도 욕조도 있고 샤워기는 3가지 모드로 있으며 거실에는 유리가 있어 자연뷰를 볼 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>캣타워도많이 </문법_맞춤법>있고 고양이집도 많이 있어 여러마리의 고양이를 키우고 좋고 아주 큰 어항도 있어 상어도 키울 수 있어야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "어미 정정",
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_어미>부억의 </문법_어미>있는 냉장고, 냉동고, 김치냉장고, 에어프라이기, 가스레인지, 후라이팬 등 모두 최신에 나온 좋은 <문법_맞춤법>것들이여야 </문법_맞춤법>한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "맞춤법 정정"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 화질 진짜 좋고 크고 우리집에 있는 고장난 인공지능 스피커 말고 말 잘 듣는 <문법_맞춤법>기가지니가 </문법_맞춤법>있어야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "문맥 부자연스러움",
+        "문맥 부자연스러움"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이거 다 하면 조프 베조스랑 일론 머스크도 파산할 수 있어서 khs세계관에 있는 신이 이거 공짜로 주었다는<문법_맞춤법><문법_패러프레이징> 스토리 근데 현실은 어림도 없지! ㅋㅋㅋㅋㅋㅋㅋ 갑자기 현자타임 온다... 끝.</문법_패러프레이징></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36230",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 629,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 살고 싶은 미래의 집입니다.#@문장구분# \n 저는 12층집이 좋을 것 같고 1층에는 일단은 주방이 널직하고 거실에 바로 옆에 화장실이 바로 옆에있다.#@문장구분# 그리고 어디에서나 뛰거나 운동을 할수 있는 곳 이다.#@문장구분# 그리고 우리가 놀수 있는 놀이방이 있고 친구들과 파티할때 쓰는 파티룸도 있으면 좋겠다.#@문장구분# 그리고 인터넷으로 다 연결이 되어 있는 곳이다.#@문장구분# 그리고 2층에는 게임방도 있고 VR이 있고 2층에서 하늘에서 TV를 볼수가 있는 침실이 있다.#@문장구분# 그리고 3층에는 눈이 내려서 언제나 눈싸움을 할수가 있고 언제나 눈사람을 만들수가 있고 4층에는 비행기 타는 곳을 체험하는 곳이 있어서 언제나 체험을 할수가 있다.#@문장구분# 5층에는 언제나 놀수있는 수영장이 있고 6층에는 내 동생을 위한 드래스룸이 있고 7층에는 어디에서나 노래를 부를 수있는 방에 옆에는 방방이가 있다.#@문장구분# 8층에 레스토랑이 있어서 언제나 밥을 먹을 수가 있고 9층에는 직접 농사를 체험할수가 있는 텃밭을 만들어서 농사를 하고 10층에는 지구에 중력이 없어짐을 대비해서 중력 없어짐 체험장이 있고 11층에는 공부방이 있다.#@문장구분# 전부다 화장실이 층마다 있다.#@문장구분# 그리고 엘레베이터가 고속 엘레베이터가 있다.#@문장구분# 12층에는 아주 최상급 영화관이 있다.#@문장구분#",
+      "paragraph_len": 838,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.447618,
+      24.447618,
+      24.333334
+    ],
+    "essay_scoreT_avg": 24.409523,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " \n 저는 12층집이 좋을 것 같고 1층에는 일단은 주방이 널찍하고 거실에 바로 옆에 화장실이 바로 옆에 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 저는 12층집이 좋을 것 같고 1층에는 일단은 주방이 <문법_맞춤법>널직하고 </문법_맞춤법>거실에 바로 옆에 화장실이 바로 옆에있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 어디에서나 뛰거나 운동을 할 수 있는 곳이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 어디에서나 뛰거나 운동을 <문법_맞춤법>할수 </문법_맞춤법>있는 곳 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 우리가 놀 수 있는 놀이방이 있고 친구들과 파티할 때 쓰는 파티룸도 있으면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 우리가 <문법_맞춤법>놀수 </문법_맞춤법>있는 놀이방이 있고 친구들과 파티할때 쓰는 파티룸도 있으면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 2층에는 게임방도 있고 VR이 있고 2층에서 하늘에서 TV를 볼 수가 있는 침실이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 2층에는 게임방도 있고 VR이 있고 2층에서 하늘에서 TV를 <문법_맞춤법>볼수가 </문법_맞춤법>있는 침실이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 3층에는 눈이 내려서 언제나 눈싸움을 할 수가 있고 언제나 눈사람을 만들 수가 있고 4층에는 비행기 타는 곳을 체험하는 곳이 있어서 언제나 체험을 할 수가 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 3층에는 눈이 내려서 언제나 눈싸움을 <문법_맞춤법>할수가 </문법_맞춤법>있고 언제나 눈사람을 만들수가 있고 4층에는 비행기 타는 곳을 체험하는 곳이 있어서 언제나 체험을 <문법_맞춤법>할수가 </문법_맞춤법>있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 5층에는 언제나 놀 수 있는 수영장이 있고 6층에는 내 동생을 위한 드레스룸이 있고 7층에는 어디에서나 노래를 부를 수 있는 방에 옆에는 방방이가 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 5층에는 언제나 <문법_맞춤법>놀수있는 </문법_맞춤법>수영장이 있고 6층에는 내 동생을 위한 드래스룸이 있고 7층에는 어디에서나 노래를 부를 수있는 방에 옆에는 방방이가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 8층에 레스토랑이 있어서 언제나 밥을 먹을 수가 있고 9층에는 직접 농사를 체험할 수가 있는 텃밭을 만들어서 농사를 하고 10층에는 지구에 중력이 없어짐을 대비해서 중력 없어짐 체험장이 있고 11층에는 공부방이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 8층에 레스토랑이 있어서 언제나 밥을 먹을 수가 있고 9층에는 직접 농사를 <문법_맞춤법>체험할수가 </문법_맞춤법>있는 텃밭을 만들어서 농사를 하고 10층에는 지구에 중력이 없어짐을 대비해서 중력 없어짐 체험장이 있고 11층에는 공부방이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전부 다 화장실이 층마다 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>전부다 </문법_맞춤법>화장실이 층마다 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 엘리베이터가 고속 엘리베이터가 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>엘레베이터가 </문법_맞춤법>고속 <문법_맞춤법>엘레베이터가 </문법_맞춤법>있다.",
+      "sentence_corr_txt_styling": " 그리고 엘리베이터가 고속 엘리베이터가 있다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47213",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 598,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

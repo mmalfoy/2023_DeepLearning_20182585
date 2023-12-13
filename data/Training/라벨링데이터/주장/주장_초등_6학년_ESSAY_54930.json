@@ -1,0 +1,306 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교 폭력을 줄일수 있는 저의 생각은 첫번째로 곳곳 골목길 사람이 잘 안다니는 곳등 CCTV를 설치하면 좋을것 같습니다. #@문장구분#왜냐하면 그런곳에서 학교폭력이 일어난다면 마땅한 증거가 없어 처벌을 내리지 못하는 경우가 있다. #@문장구분#그렇기 때문에 곳곳 CCTV를 설치하면 좋을것 같다.#@문장구분#학교폭력을 줄일 수있는 저의 두 번째 생각은 곳곳에 방범대를 배치하는 것이다.#@문장구분# 방범대를 배치를 하면 순서대로 순찰을 돌며 학교폭력이 일어나는지 그 상황을 찾아낼 수 있습니다.#@문장구분#또 그 상황을 발견하면 더 이상의 폭력을 막을수 있기 때문에 이 방법도 좋다고 생각합니다. #@문장구분#학교폭력을 줄일 수 있는 저의 세번째 생각은 법을 좀더 강력하게 바꾸는 것입니다. #@문장구분#왜냐하면 지금 법으로는 학생들에게 겁이되지 않기 때문에 법을 바꾸면 학생들이 좀더 경각심을 줄 수 있습니다. #@문장구분#또 그 법으로 처벌을 받으면 확실한 손해가 생기기 때문에 더욱 폭력을 줄일수 있습니다.",
+      "paragraph_len": 614,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27,
+      22.077778,
+      25.51111
+    ],
+    "essay_scoreT_avg": 24.862963,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교 폭력을 줄일 수 있는 저의 생각은 첫 번째로 곳곳 골목길 사람이 잘 다니지 않는 곳에 CCTV를 설치하면 좋을 것 같습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "학교 폭력을 <문법_맞춤법>줄일수</문법_맞춤법> 있는 저의 생각은 첫번째로 곳곳 골목길 사람이 <문법_어순><문법_기타>잘 안다니는 곳등</문법_기타></문법_어순> CCTV를 설치하면 좋을것 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 그런 곳에서 학교폭력이 일어난다면 마땅한 증거가 없어 처벌을 내리지 못하는 경우가 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 <문법_맞춤법>그런곳에서</문법_맞춤법> 학교폭력이 일어난다면 마땅한 증거가 없어 처벌을 내리지 못하는 경우가 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇기 때문에 곳곳 CCTV를 설치하면 좋을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇기 때문에 곳곳 CCTV를 설치하면 <문법_맞춤법>좋을것</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학교폭력을 줄일 수 있는 저의 두 번째 생각은 곳곳에 방범대를 배치하는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교폭력을 줄일 <문법_맞춤법>수있는</문법_맞춤법> 저의 두 번째 생각은 곳곳에 방범대를 배치하는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 방범대를 배치를 하면 순서대로 순찰을 하며 학교폭력이 일어나는지 그 상황을 찾아낼 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 방범대를 배치를 하면 순서대로 <문법_맞춤법>순찰을 돌며</문법_맞춤법> 학교폭력이 일어나는지 그 상황을 찾아낼 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 그 상황을 발견하면 폭력을 막을 수 있기 때문에 이 방법도 좋다고 생각합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 그 상황을 발견하면 <문법_맞춤법>더 이상의 폭력을 막을수</문법_맞춤법> 있기 때문에 이 방법도 좋다고 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학교폭력을 줄일 수 있는 저의 세 번째 생각은 법을  좀 더 강력하게 바꾸는 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교폭력을 줄일 수 있는 저의 <문법_맞춤법>세번째</문법_맞춤법> 생각은 법을 좀더 강력하게 바꾸는 것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 지금 법으로는 학생들에게 겁이 되지 않기 때문에 법을 바꾸면 학생들이 조금 더 경각심을 줄 수 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 지금 법으로는 <문법_맞춤법>학생들에게 겁이되지</문법_맞춤법> 않기 때문에 법을 바꾸면 학생들이 좀더 경각심을 줄 수 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 그 법으로 처벌을 받으면 확실한 손해가 생기기 때문에 더욱 폭력을 줄일 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 그 법으로 처벌을 받으면 확실한 손해가 생기기 때문에 더욱 폭력을 <문법_맞춤법>줄일수</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_54930",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 455,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "그게 저만에는 아니지만 어디 영상에서 본대로 말하자면 나쁜 습관은 의지로 없애지 못한다.#@문장구분# 그러니까 좋은 습관을 들여서 나쁜 습관을 덥듯이 덥어라 라고 들었던 같네요.#@문장구분# 이런 일을 반복하다보면 나쁜 습관을 줄고 좋은 습관이 늘겠죠.#@문장구분# 그 영상 덕분에 이런걸 알고 할 수 있게 된거죠.#@문장구분# 그 영상을 보면 어느정도 이해 할 수 있는데 그 영상은 어쩌다 어른이라는 프로그렘이라고 하는 곳에서 나온걸로 기억하는데 그 프로그렘도 그냥 다른거 봐도 좋으니까 그 프로그렘을 1개만 이라도 봐보세요.#@문장구분# 좋은 프로그렘이니까.#@문장구분# 각설하고 저는 노하우 같은건 없어요.#@문장구분# 저도 잘 모르겠는걸요.#@문장구분# 전 좋은 습관은 잘 없어요.#@문장구분# 아니 있는지 잘 모르겠네요.#@문장구분#",
+      "paragraph_len": 545,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1.5,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.1666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      10,
+      17.75,
+      11.85
+    ],
+    "essay_scoreT_avg": 13.2,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그게 저만에는 아니지만 어디 영상에서 본 대로 말하자면 나쁜 습관은 의지로 없애지 못한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그게 저만에는 아니지만 어디 영상에서 <문법_맞춤법>본대로</문법_맞춤법> 말하자면 나쁜 습관은 의지로 없애지 못한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니까 좋은 습관을 들여서 나쁜 습관을 덮듯이 덮어라라고 들었던 같네요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니까 좋은 습관을 들여서 나쁜 습관을 <문법_맞춤법>덥듯이 덥어라 라고</문법_맞춤법> 들었던 같네요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 일을 반복하다 보면 나쁜 습관을 줄고 좋은 습관이 늘겠죠.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 이런 일을 <문법_맞춤법>반복하다보면</문법_맞춤법> 나쁜 습관을 줄고 좋은 습관이 늘겠죠.",
+      "sentence_corr_txt_styling": " 이런 일을 반복하다 보면 나쁜 습관을 줄고 좋은 습관이 늘겠죠.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 영상 덕분에 이런 걸 알고 할 수 있게 된 거죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 영상 덕분에 <문법_맞춤법>이런걸 알고 할 수 있게 된거죠.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 영상을 보면 어느 정도 이해할 수 있는데 그 영상은 어쩌다 어른이라는 프로그램이라고 하는 곳에서 나온 걸로 기억하는데 그 프로그램도 그냥 다른 거 봐도 좋으니까 그 프로그램을 1개만이라도 봐보세요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그 영상을 보면 <문법_맞춤법>어느정도 이해 할 수 있는데 그 영상은 어쩌다 어른이라는 프로그렘이라고 하는 곳에서 나온걸로</문법_맞춤법> 기억하는데 그 프로그렘도 그냥 다른거 봐도 좋으니까 그 프로그렘을 1개만 이라도 봐보세요.",
+      "sentence_corr_txt_styling": " 그 영상을 보면 어느 정도 이해할 수 있는데 그 영상은 어쩌다 어른이라는 프로그램이라고 하는 곳에서 나온 걸로 기억하는데 그 프로그램도 그냥 다른 거 봐도 좋으니까 그 프로그램을 1개만이라도 봐보세요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 좋은 프로그램이니까.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 좋은 <문법_맞춤법>프로그렘이니까.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 각설하고 저는 노하우 같은 건 없어요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 각설하고 저는 노하우 <문법_맞춤법>같은건</문법_맞춤법> 없어요.",
+      "sentence_corr_txt_styling": " 각설하고 저는 노하우 같은 건 없어요.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44822",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 346,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

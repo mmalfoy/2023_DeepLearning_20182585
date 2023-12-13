@@ -1,0 +1,300 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 반대 합니다.#@문장구분# 외냐하면 북한에 침범으로 시작된 전쟁으로 전쟁에나갔던 만은 사람들이 죽었을 겁니다.#@문장구분# 그리고 그곳에 있는 아들이 모두 슬퍼할것입니다.#@문장구분# 그럼으로 남한과 북한이 통일할 수 없다고 생각했 습니다.#@문장구분# 만약 북한이 남한을 빼았았으면 그들은 모두 노예가 될것임으로 통일을 하면 안돼요!#@문장구분# 제아무리 전쟁이 끝나도 만약 전쟁이 북한 쪽에서또오면 우리가 다시는 통일을 하지 않겠 습니다.#@문장구분# 만약 통일이 되면 언어는 같지만 언제 갑자기 공격을 해올수 있기 때문에 통일을 하면안됨니다.#@문장구분#",
+      "paragraph_len": 407,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.6,
+      16.25,
+      10.75
+    ],
+    "essay_scoreT_avg": 16.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "저는 <스타일링_담화 맥락 오류>반대 합니다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "저는 남한과 북한의 통일에 반대합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 6·25전쟁은 북한의 침범으로 시작된 전쟁으로 전쟁에 나갔던 많은 사람들이 죽었습니다.",
+      "sentence_corr_reason": [
+        "",
+        "주어 없음",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>외냐하면 </문법_맞춤법><스타일링_담화 맥락 오류>북한에 침범으로</스타일링_담화 맥락 오류> 시작된 전쟁으로 <문법_어미>전쟁에나갔던 만은 사람들이 죽었을 겁니다.</문법_어미>",
+      "sentence_corr_txt_styling": " 왜냐하면 6·25전쟁은 북한의 침범으로 시작된 전쟁으로 전쟁에 나갔던 많은 사람들이 죽었습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 그곳에 있는 이들은 모두 슬퍼했을 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "시제"
+      ],
+      "sentence_txt": " 그리고 그곳에 있는 <문법_조사>아들이</문법_조사> 모두 <문법_시제>슬퍼할것입니다</문법_시제>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 남한과 북한이 통일할 수 없다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럼으로 </문법_맞춤법>남한과 북한이 통일할 수 없다고 <문법_어미>생각했 습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 북한이 남한을 공격해서 이기면 우리들은 모두 노예가 될 것이므로통일을 하면 안 됩니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "띄어쓰기, 문장 부호"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 만약 <스타일링_담화 맥락 오류>북한이 남한을 빼았았으면</스타일링_담화 맥락 오류> 그들은 모두 노예가 <문법_맞춤법><문법_어미>될것임으로 </문법_어미></문법_맞춤법>통일을 하면 <문법_기타>안돼요!</문법_기타>",
+      "sentence_corr_txt_styling": " 만약 북한이 남한을 공격해서 이기면 우리들은 모두 노예가 될 것이므로통일을 하면 안 됩니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전쟁이 끝나고도 만약 북한이 또 전쟁을 일으킨다면 우리는 다시 통일을 하지 않을 것입니다.",
+      "sentence_corr_reason": [
+        "불필요",
+        "",
+        "띄어쓰기",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "담화 맥락 오류",
+        "맞춤법",
+        "어미",
+        "시제"
+      ],
+      "sentence_txt": " <스타일링_기타>제아무리 전쟁이 끝나도</스타일링_기타> 만약 <스타일링_담화 맥락 오류>전쟁이 북한 쪽에서또오면 </스타일링_담화 맥락 오류><문법_맞춤법><문법_어미><문법_시제>우리가 다시는 통일을 하지 않겠 습니다.</문법_시제></문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": " 전쟁이 끝나고도 만약 북한이 또 전쟁을 일으킨다면 우리는 다시 통일을 하지 않을 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 북한이 언제 갑자기 공격을 할지 모르기 때문에 통일을 하면 안 됩니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>만약 통일이 되면 언어는 같지만 언제</스타일링_담화 맥락 오류> 갑자기 공격을 해올수 있기 때문에 통일을 <문법_맞춤법><문법_어미>하면안됨니다</문법_어미></문법_맞춤법>.",
+      "sentence_corr_txt_styling": " 북한이 언제 갑자기 공격을 할지 모르기 때문에 통일을 하면 안 됩니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39367",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 267,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

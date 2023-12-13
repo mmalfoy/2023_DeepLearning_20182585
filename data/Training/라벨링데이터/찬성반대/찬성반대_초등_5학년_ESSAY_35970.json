@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "다수의 의견은 거의 대통령을 뽑을 때나 아니면 학급회이를 할 때 된요.#@문장구분# 제가 어떡 TV에서 봤는데 그 이야기를 설명하겠습니다.#@문장구분#당시 대통령을 뽑을려는데 깡패의 두목이랑 손을 잡은 사람이 대통령이 될려고 깡패들을 시켜 대통령이 됬는데 그것을 반대 하는 사람들이 시위를 하게 되고 깡패 두목과 손을 잡은 사람은 자살을 했답니다. #@문장구분#그러니 정정 당당하게 대통력 선거를 합시다.#@문장구분# 그다음 학급회이를 할 때 지켜야 되는 규칙을 설명 하겠습니다.#@문장구분# 1째친구의 발표를 기울려 듣기 친구가 의견을 발표하는데 대충 들으면 안될기 때문입니다.#@문장구분# 2. 친구가 발표할때 낄어 드어서 발표하지 말기 이유는 친구가 발표를 하는데 발표권 없이 말을 하면 친구가 발표를 하는데 방해가 될 수 있기 때문입니다.#@문장구분# 3. 자기만 계속 하지 말기 이유: 남이 발표하고 싶은데 계속 생각 나서 계속 발표하면 다르 친구들은 발표하고 싶은데 못하기 때문입니다. #@문장구분#그러므로 발표는 여러게 하고 싶어도 딱 1개씩 말해야 친구들도 발표 할 수 있기 때문입니다.#@문장구분# 그리까 정정당당하게 출마하고 발표할때는 기회를 얻거나 따1나씩만 합시다#@문장구분#. 끝",
+      "paragraph_len": 747,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.8,
+      20,
+      12.733334
+    ],
+    "essay_scoreT_avg": 16.51111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "다수의 의견은 거의 대통령을 뽑을 때나 아니면 학급 회의를 할 때 돼요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다수의 의견은 거의 대통령을 뽑을 때나 아니면 <문법_맞춤법>학급회이</문법_맞춤법>를 할 때 된요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 제가 어떡 TV에서 봤는데 그 이야기를 설명하겠습니다.",
+      "sentence_corr_txt_styling": " 제가 어떡 TV에서 봤는데 그 이야기를 설명하겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "당시 대통령을 뽑으려는데 깡패의 두목이랑 손을 잡은 사람이 대통령이 되려고 깡패들을 시켜 대통령이 됐는데 그것을 반대하는 사람들이 시위를 하게 되고 깡패 두목과 손을 잡은 사람은 자살을 했답니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "당시 대통령을 <문법_맞춤법>뽑을려는데</문법_맞춤법> 깡패의 두목이랑 손을 잡은 사람이 대통령이 될려고 깡패들을 시켜 대통령이 됬는데 그것을 반대 하는 사람들이 시위를 하게 되고 깡패 두목과 손을 잡은 사람은 자살을 했답니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 정정당당하게 대통력 선거를 합시다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러니 <문법_맞춤법>정정 당당하게</문법_맞춤법> 대통력 선거를 합시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 다음 학급 회의를 할 때 지켜야 되는 규칙을 설명하겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그다음 학급회이</문법_맞춤법>를 할 때 지켜야 되는 규칙을 설명 하겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째 친구의 발표를 귀 기울여 듣기 친구가 의견을 발표하는데 대충 들으면 안되기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>1째</문법_맞춤법>친구의 발표를 기울려 듣기 친구가 의견을 발표하는데 대충 들으면 안될기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2. 친구가 발표할 때 끼어 들어서 발표하지 말기 이유는 친구가 발표를 하는데 발표권 없이 말을 하면 친구가 발표를 하는데 방해가 될 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 2. 친구가 <문법_맞춤법>발표할때 낄어 드어서</문법_맞춤법> 발표하지 말기 이유는 친구가 발표를 하는데 발표권 없이 말을 하면 친구가 발표를 하는데 방해가 될 수 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3. 자기만 계속하지 말기 이유: 남이 발표하고 싶은데 계속 생각나서 계속 발표하면 다른 친구들은 발표하고 싶은데 못하기 때문입니다. ",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 3. 자기만 <문법_맞춤법>계속 하지</문법_맞춤법> 말기 이유: 남이 발표하고 싶은데 계속 생각 나서 계속 발표하면 다르 친구들은 발표하고 싶은데 못하기 때문입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러므로 발표는 여러 개 하고 싶어도 딱 1개씩 말해야 친구들도 발표 할 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러므로 발표는<문법_맞춤법> 여러게</문법_맞춤법> 하고 싶어도 딱 1개씩 말해야 친구들도 발표 할 수 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그니까 정정당당하게 출마하고 발표할 때는 기회를 얻거나 딱 1개씩만 합시다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리까</문법_맞춤법> 정정당당하게 출마하고 발표할때는 기회를 얻거나 따1나씩만 합시다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": ". 끝",
+      "sentence_corr_txt_styling": ". 끝",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35970",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 548,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

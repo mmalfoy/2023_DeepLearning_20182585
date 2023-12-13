@@ -1,0 +1,353 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가생각하는진정한친구란무엇을바라지않는게진정한친구라고생각됩니다. #@문장구분#왜냐하면친구에게무엇을바란다면결국친구가줄게없어진다면싸우게되고사이가안좋아질수도있기때문입니다.#@문장구분# 두번째나의마음을공유할수있는친구라고생각합니다. #@문장구분#왜냐하면친구에게불편한부분을말하지않으면그친구가점점싫어지고관심이없어지고결국은불편한사이가될수도있습니다. #@문장구분#친구에게불편한점을말한다면 나를정말친구로생각한다면내가말했던불편한점을고치고내가친구에게불편한점했다면친구도나에게불편한점을말할수있어서더끈끈한우정이생길것같습니다. #@문장구분#세번째나를존중하는친구여야진정한친구인것같습니다.#@문장구분# 왜냐하면친구가나를존중하지않고내가친구를존중하지않으면쉽게친구사이가나빠질것같습니다.#@문장구분# 친구가다쳤을때도와줄용기가있어야진정한친구같습니다.#@문장구분# 왜냐하면친구가다쳤을때선생님과친구들만도와줄수있는데친구가그냥가면도와줄사람은선생님밖게도와줄사람이없어집니다.#@문장구분# 그러다밖에서다치면도와줄사람이없을수도있습니다.#@문장구분# 다섯번째는나의감정을잘알아주는친구가진정한친구인것같습니다. #@문장구분#왜냐하면나의감정을잘알지못하는친구는힘이들대내가놀자고하면거절할수도없고힘이들데놀아야되서더힘들어지기때문이고반대로내마음을잘알아주는친구는내기분을알고위로해줄수있기때문입니다.#@문장구분#",
+      "paragraph_len": 789,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.55,
+      19.85,
+      30
+    ],
+    "essay_scoreT_avg": 24.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 진정한 친구란 무엇을 바라지 않는 게 진정한 친구라고 생각됩니다.. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>제가생각하는진정한친구란무엇을바라지않는게진정한친구라고생각됩니다</문법_기타>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 친구에게 무엇을 바란다면 결국 친구가 줄 게 없어진다면 싸우게 되고 사이가 안 좋아 질 수도 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>왜냐하면친구에게무엇을바란다면결국친구가줄게없어진다면싸우게되고사이가안좋아질수도있기때문입니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째 나의 마음을 공유할 수 있는 친구라고 생각합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>두번째나의마음을공유할수있는친구라고생각합니다</문법_기타>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 친구에게 불편한 부분을 말하지 않으면 그 친구가 점점 싫어지고 관심이 없어지고 결국은 불편한 사이가 될 수도 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>왜냐하면친구에게불편한부분을말하지않으면그친구가점점싫어지고관심이없어지고결국은불편한사이가될수도있습니다</문법_기타>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구에게 불편한 점을 말한다면 나를 정말 친구로 생각한다면 내가 말했던 불편한 점을 고치고 내가 친구에게 불편하게 했다면 친구도 나에게 불편한 점을 말할 수 있어서 더 끈끈한 우정이 생길 것 같습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어미><문법_기타>친구에게불편한점을말한다면 나를정말친구로생각한다면내가말했던불편한점을고치고내가친구에게불편한점했다면친구도나에게불편한점을말할수있어서더끈끈한우정이생길것같습니다.</문법_기타></문법_어미></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세 번째 나를 존중하는 친구여야 진정한 친구인 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>세번째나를존중하는친구여야진정한친구인것같습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 친구가 나를 존중하지 않고 내가 친구를 존중하지 않으면 쉽게 친구 사이가 나빠질 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>왜냐하면친구가나를존중하지않고내가친구를존중하지않으면쉽게친구사이가나빠질것같습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 다쳤을 때 도와줄 용기가 있어야 진정한 친구같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>친구가다쳤을때도와줄용기가있어야진정한친구같습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 친구가 다쳤을 때 선생님과 친구들만 도와줄 수 있는데 친구가 그냥 가면 도와줄 사람은 선생님밖에 도와줄 사람이 없어집니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>왜냐하면친구가다쳤을때선생님과친구들만도와줄수있는데친구가그냥가면도와줄사람은선생님밖게도와줄사람이없어집니다</문법_기타></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러다 밖에서 다치면 도와줄 사람이 없을 수도 있습니다..",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그러다밖에서다치면도와줄사람이없을수도있습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다섯 번째는 나의 감정을 잘 알아주는 친구가 진정한 친구인것 같습니다.. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>다섯번째는나의감정을잘알아주는친구가진정한친구인것같습니다</문법_기타>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 나의 감정을 잘 알지 못하는 친구는 힘이들 때 내가 놀자고 하면 거절할 수도 없고 힘이 드는데 놀아야 되서 더 힘들어지기 때문이고 반대로 내 마음을 잘 알아주는 친구는 내 기분을 알고 위로해줄 수 있기 때문입니다..",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>왜냐하면나의감정을잘알지못하는친구는힘이들대내가놀자고하면거절할수도없고힘이들데놀아야되서더힘들어지기때문이고반대로내마음을잘알아주는친구는내기분을알고위로해줄수있기때문입니다</문법_기타></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33151",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 549,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

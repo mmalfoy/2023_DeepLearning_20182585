@@ -1,0 +1,273 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 가장 존경하는 인물은 유관순열사이다.#@문장구분# 왜냐하면 유관순은 어른들도 하기 힘들 독립운동을 10대 젋고,어린나이에 엄청난 큰 결심을 하고 독립운동을 하셨기 때문이다.#@문장구분#        \n당시에 독립운동을 하게 되면 일본군이 쏘는 총이나, 칼에 찔려 목숨을 잃게 된다는 건 모두가 아는 사실이였다.#@문장구분# 그 무서운 총과 칼을 그 어린나이에 무시하고 자신에 소중한 목숨을 내놓으면서 독립운동을 하신게 정말 대단하시고, 존경스럽다.#@문장구분#\n 나는 과연 옛날처럼 일본이 우리나라를 배앗으면 유관순 열사처럼 총과 칼을 무시하고 독립운동을 할 수 있을까? 라는 생각을 가끔한다.#@문장구분# 내가 만약 유관순과 같은 처지였어도, 나라를 잃은 슬픔이 컸어도 절대 독립운동 할 생각을 절대 하지 못했을 것이다.#@문장구분#\n 내가 유관순열사에게 본받고 싶은것은 바로 용기이다.#@문장구분# 그 대단한 용기가 없었더라면 아직까지도 우리는 편하게 살고 있을 수 없다.#@문장구분#          \n유관순열사에 그 크나큰 용기를 본받아 나도 어떤 상황이 있어도 용기있게 해결해 보고 싶다.#@문장구분#",
+      "paragraph_len": 685,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      22.85,
+      21.6
+    ],
+    "essay_scoreT_avg": 24.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 유관순은 어른들도 하기 힘들 독립운동을 10대 젋고,어린 나이에 엄청난 큰 결심을 하고 독립운동을 하셨기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 유관순은 어른들도 하기 힘들 독립운동을 10대 젋고,<문법_맞춤법>어린나이에 </문법_맞춤법>엄청난 큰 결심을 하고 독립운동을 하셨기 때문이다.",
+      "sentence_corr_txt_styling": " 왜냐하면 유관순은 어른들도 하기 힘들 독립운동을 10대 젋고,어린 나이에 엄청난 큰 결심을 하고 독립운동을 하셨기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "        \n당시에 독립운동을 하게 되면 일본군이 쏘는 총이나, 칼에 찔려 목숨을 잃게 된다는 건 모두가 아는 사실이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "        \n당시에 독립운동을 하게 되면 일본군이 쏘는 총이나, 칼에 찔려 목숨을 잃게 된다는 건 모두가 아는 <문법_어미>사실이였다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 무서운 총과 칼을 그 어린 나이에 무시하고 자신의 소중한 목숨을 내놓으면서 독립운동을 하신게 정말 대단하시고, 존경스럽다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그 무서운 총과 칼을 그 <문법_맞춤법>어린나이에 </문법_맞춤법>무시하고 <문법_조사>자신에 </문법_조사>소중한 목숨을 내놓으면서 독립운동을 하신게 정말 대단하시고, 존경스럽다.",
+      "sentence_corr_txt_styling": " 그 무서운 총과 칼을 그 어린 나이에 무시하고 자신의 소중한 목숨을 내놓으면서 독립운동을 하신게 정말 대단하시고, 존경스럽다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 나는 과연 옛날처럼 일본이 우리나라를 배앗으면 유관순 열사처럼 총과 칼을 무시하고 독립운동을 할 수 있을까? 라는 생각을 가끔한다.",
+      "sentence_corr_txt_styling": "\n 나는 과연 옛날처럼 일본이 우리나라를 배앗으면 유관순 열사처럼 총과 칼을 무시하고 독립운동을 할 수 있을까? 라는 생각을 가끔한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 만약 유관순과 같은 처지였어도, 나라를 잃은 슬픔이 컸어도 절대 독립운동할 생각을 절대 하지 못했을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 만약 유관순과 같은 처지였어도, 나라를 잃은 슬픔이 컸어도 절대 <문법_맞춤법>독립운동 할</문법_맞춤법> 생각을 절대 하지 못했을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 내가 유관순 열사에게 본받고 싶은 것은 바로 용기이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 내가 <문법_맞춤법>유관순열사에게 </문법_맞춤법>본받고 싶은것은 바로 용기이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "          \n유관순 열사의 그 크나큰 용기를 본받아 나도 어떤 상황이 있어도 용기있게 해결해 보고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "          \n<문법_맞춤법><문법_조사>유관순열사에 </문법_조사></문법_맞춤법>그 크나큰 용기를 본받아 나도 어떤 상황이 있어도 용기있게 해결해 보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39888",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 506,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

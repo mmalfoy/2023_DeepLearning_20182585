@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 하루에 여가시간이 다르면서 또 같습니다.#@문장구분# 월요일의 여가시간은 학교의가 1시의 끝납니다.#@문장구분# 그리고 바로 피아노 가서 1시간있다 2시에 끝나면 집에 가서 쉬다 3시48분쯤 나가서 영어를 하러 갑니다.#@문장구분# 화요일은 학교 끝나고 집같다 바로 피아노의 갔다 집에 오고 나머지 시간은 다 자유시간입니다.#@문장구분# 자유시간때에는 도서, 유튜브, 미술 등등을 합니다.#@문장구분# 수요일은 월요일과 똑같고 목요일은 화요일과 똑같습니다.#@문장구분# 금요일은 좀 다릅니다.#@문장구분# 영어시간이 2시 57분에 나가야 됩니다.#@문장구분# 아!#@문장구분# 그리고 화요일은 학교가 2시쯤에 끝납니다.#@문장구분# 그리고 여가활동의 종류는 다양합니다.#@문장구분# 월요일 위주의 여가활동은 독서, 유튜브, 운동, 영어공부 등등이있고 수요일은 원료일 여가 생활과 똑같고 목요일은 화요일의 여가생활이랑 똑갔다.#@문장구분# 금요일의 여가생활은 영어공부, 독서, 보드나 롤러 타기, 운동, 미술, 달리기 등등 있는데요.#@문장구분# 지금까지 요일 여과생활 중에 빠진게 하나 있내요!#@문장구분# 바로 피아노치기 입니다.#@문장구분# 그리고 여과할동 중엔 고쳐야 된점은 매일매일 똑같고 정해져 있다는 점입니다.#@문장구분#",
+      "paragraph_len": 845,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      20.333334,
+      22
+    ],
+    "essay_scoreT_avg": 23.57778,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.24",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 월요일의 여가시간은 학교가 1시의 끝납니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 월요일의 여가시간은 <문법_맞춤법>학교의가</문법_맞춤법> 1시의 끝납니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 바로 피아노 가서 1시간있다 2시에 끝나면 집에 가서 쉬다 3시 48분쯤 나가서 영어를 하러 갑니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 바로 피아노 가서 1시간있다 2시에 끝나면 집에 가서 쉬다 <문법_맞춤법>3시48분쯤 나가서 영어를 하러 갑니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 화요일은 학교 끝나고 집에 같다가 바로 피아노의 갔다 집에 오고 나머지 시간은 다 자유 시간입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 화요일은 학교 끝나고 <문법_맞춤법><문법_어미>집같다 바로 피아노의 갔다 집에 오고 나머지 시간은 다 자유시간입니다.</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자유시간 때에는 도서, 유튜브, 미술 등등을 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>자유시간때에는</문법_맞춤법> 도서, 유튜브, 미술 등등을 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 월요일 위주의 여가활동은 독서, 유튜브, 운동, 영어 공부 등등이 있고 수요일은 원료일 여가 생활과 똑같고 목요일은 화요일의 여가생활이랑 똑같.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 월요일 위주의 여가활동은 독서, 유튜브, 운동, <문법_맞춤법>영어공부 등등이있고 수요일은 원료일 여가 생활과 똑같고 목요일은 화요일의 여가생활이랑 똑갔다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 금요일의 여가생활은 영어 공부, 독서, 보드나 롤러 타기, 운동, 미술, 달리기 등등 있는데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 금요일의 여가생활은 <문법_맞춤법>영어공부</문법_맞춤법>, 독서, 보드나 롤러 타기, 운동, 미술, 달리기 등등 있는데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금까지 요일 여과 생활 중에 빠진 게 하나 있네!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금까지 요일<문법_맞춤법> 여과생활 중에 빠진게 하나 있내요</문법_맞춤법>!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바로 피아노 치기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바로 <문법_맞춤법>피아노치기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45048",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 525,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

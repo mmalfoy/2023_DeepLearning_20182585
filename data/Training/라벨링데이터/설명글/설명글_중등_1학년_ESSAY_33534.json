@@ -1,0 +1,238 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 스승의 모습은 아이들을 잘 챙겨주고 아이들과 불편한 것 없이 지내는 것이 내가 생각하는 스승의 모습이다.#@문장구분# 이 모습과 닮은 사람은 내가 4학년때 담임 선생님이다.#@문장구분# 이 선생님은 내가 말했던 스승의 모습과 엄청 비슷하다.#@문장구분# 수업시간에 반 친구들이 힘들어 보이면 잠깐 쉬고 수업을 다시 하고, 간식도 많이 주시고, 쉬는시간에도 반 친구들과 공기놀이를 같이 해 주셨다.#@문장구분# 하지만 지금은 다른 학교로 가셔서 아쉽다.#@문장구분# 내가 스승이 되었던 경험은 태권도에서 사범님을 도와 어린아이들의 동작을 알려주었던 것 이다.#@문장구분# 이렇게 잠깐동안 스승이 되었는데 느낀점은 스승이 쉬운일은 아닌 것 같다.#@문장구분# 아이들을 하나하나 다 챙겨주려면 정말 힘들 것 같다.#@문장구분# 그리고 또 다시 내가 생각하는 스승의 모습을 더 설명하자면 다른 사람의 마음을 이해해주는 것, 다른 사람의 말을 경청해주는 것, 등등이 더 필요한 것 같다.#@문장구분# 이런 모습들을 생각한 이유는 다른 사람의 마음에 공감해주고, 잘 듣고, 이해해주는 것이 스승을 할 때 꼭 필요한 것이라고 생각해서 이다.#@문장구분#",
+      "paragraph_len": 720,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      24.9,
+      28.15
+    ],
+    "essay_scoreT_avg": 24.616667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>내가 생각하는 스승의 모습은 아이들을 잘 챙겨주고 아이들과 불편한 것 없이 지내는 것이 내가 생각하는 스승의 모습이다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": "내가 생각하는 스승의 모습은 아이들을 잘 챙겨주고 아이들과 불편한 것 없이 지내는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 모습과 닮은 사람은 나의 4학년때 담임 선생님이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 이 모습과 닮은 사람은 <문법_조사>내가</문법_조사> 4학년때 담임 선생님이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 스승이 되었던 경험은 태권도에서 사범님을 도와 어린 아이들의 동작을 알려주었던 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 스승이 되었던 경험은 태권도에서 사범님을 도와 <문법_맞춤법>어린아이들의</문법_맞춤법> 동작을 알려주었던 것 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 잠깐동안 스승이 되었는데 스승이 쉬운 일은 아니라는 것을 느꼈다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": " 이렇게 잠깐동안 스승이 되었는데 <문법_조사><문법_어미><문법_어순><문법_기타>느낀점은 스승이 쉬운일은 아닌 것 같다</문법_기타></문법_어순></문법_어미></문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 모습들을 생각한 이유는 다른 사람의 마음을 공감해주고, 잘 듣고, 이해해주는 것이 스승을 할 때 꼭 필요한 것이라고 생각해서 이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 이런 모습들을 생각한 이유는 다른 사람의 <문법_조사>마음에</문법_조사> 공감해주고, 잘 듣고, 이해해주는 것이 스승을 할 때 꼭 필요한 것이라고 생각해서 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33534",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 521,
+    "essay_main_subject": "참된 스승"
+  }
+}

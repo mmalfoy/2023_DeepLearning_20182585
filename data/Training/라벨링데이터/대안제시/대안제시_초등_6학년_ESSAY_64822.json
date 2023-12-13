@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물은 우리의 행복을 주고 위로도 할수 있습니다.#@문장구분# 하지만 버림받은 반려견이나 학대로 죽은 반려견들도 있습니다. #@문장구분#반려동물을 키우고 싶어서 키우지만 책임도 있습니다.#@문장구분# 하지만 그 책임을 이기지 못하고 버리는 사람들이 많습니다. #@문장구분#이러한 이유로 인해 일반적인 반려견들이 죽고 있습니다.#@문장구분# 이렇게 반려견들이 버림받지 못하게 하려면 어떻게 해야 할까요?#@문장구분# 첫째 책임감이 강해야 한다#@문장구분# 일단 자기가 이 반려견을 키울수 있는지 생각해야합니다. #@문장구분#먹이도 주고 똥도 치우고 등등 많은 책임감이 있어야 반려견을 키울수 있습니다.#@문장구분# 둘째 유기를 하는 일 자신들이 귀엽다고 가져가서 키우지만 금단적으로나 시간 상으로 부담이 되는 상황이 많이 생겨서 유기한다는 예기가 있습니다. #@문장구분#이러한 이유로 죄없는 반려견들이 죽어 나가고 있습니다. #@문장구분#제가 이런 생각을 적는 이유는 우리는 반려견을 키울라고 하면 먼저 책임감과 자기가 할수있따는 다짐이 있어야 합니다.#@문장구분# 그렇치 않으면 사람들이 아무 죄없는 반려견들을 유기하지 않고 행복하게 지네게 할수 있어서 입니다.",
+      "paragraph_len": 752,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23,
+      28.5,
+      28.5
+    ],
+    "essay_scoreT_avg": 26.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "반려동물은 우리의 행복을 주고 위로도 할 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "반려동물은 우리의 행복을 주고 위로도 <문법_맞춤법>할수 </문법_맞춤법>있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫째 책임감이 강해야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 첫째 책임감이 강해야 <문법_맞춤법>한다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 자기가 이 반려견을 키울 수 있는지 생각해야 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단 자기가 이 반려견을 <문법_맞춤법>키울수 </문법_맞춤법>있는지 생각해야합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "먹이도 주고 똥도 치우고 등등 많은 책임감이 있어야 반려견을 키울 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "먹이도 주고 똥도 치우고 등등 많은 책임감이 있어야 반려견을 <문법_맞춤법>키울수 </문법_맞춤법>있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이러한 이유로 죄 없는 반려견들이 죽어 나가고 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이러한 이유로 <문법_맞춤법>죄없는 </문법_맞춤법>반려견들이 죽어 나가고 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 이런 생각을 적는 이유는 우리는 반려견을 키우려고 하면 먼저 책임감과 자기가 할 수 있다는 다짐이 있어야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 이런 생각을 적는 이유는 우리는 반려견을 <문법_맞춤법>키울라고 </문법_맞춤법>하면 먼저 책임감과 자기가 할수있따는 다짐이 있어야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지 않으면 사람들이 아무 죄 없는 반려견들을 유기하지 않고 행복하게 지내게 할 수 있어서입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그렇치</문법_맞춤법> 않으면 사람들이 아무 죄없는 반려견들을 유기하지 않고 행복하게 지네게 할수 있어서 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64822",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 512,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

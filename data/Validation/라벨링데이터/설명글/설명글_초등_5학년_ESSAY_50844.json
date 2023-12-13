@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에는 아주 많고 다양한 취미활동이 있습니다.#@문장구분# 당연히 사람마다 즐기는 취미도 모두 다르겠죠?#@문장구분#\n 저는 춤추기를 취미활동으로 합니다.#@문장구분# 저는 춤추기를 좋아하고 제 생각으로는 제가 춤을 잘추는 편인 것 같습니다.#@문장구분# \n 제가 춤을 좋아하는 데에는 많은 이유가 있습니다.#@문장구분# 일단 저는 노래를 좋아합니다.#@문장구분# 그리고 노래를 부르는 것도 좋아하기 때문에 노래에 맞춰 춤을 추는게 제 적성에 맞는 것 같습니다. #@문장구분#그리고 춤을 추면 정말 신납니다.#@문장구분# 또, 춤을 추면 스트레스가 해소되나 조금 많은 에너지가 소모된다는 단점이 있습니다. #@문장구분#하지만 에너지가 소모되면서 운동을 하는 효과가 있기 때문에 건강에 좋은 점도 있습니다.#@문장구분#\n 이렇게 저는 취미로 춤을 즐기고 춥니다.#@문장구분# 저는 춤을 훨씬 잘치게되어서 춤경연대회에서나 많은사람들에게 저의 춤실력을 인정받고 싶습니다.#@문장구분# 저는 앞으로 더 노력하여 춤실력 인정받는 #@이름#이 될 것 입니다.",
+      "paragraph_len": 700,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.285713,
+      26,
+      24.333334
+    ],
+    "essay_scoreT_avg": 26.20635,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.11",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 춤추기를 좋아하고 제 생각으로는 제가 춤을 잘 추는 편인 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 춤추기를 좋아하고 제 생각으로는 제가 춤을 <문법_맞춤법>잘추는</문법_맞춤법> 편인 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 노래를 부르는 것도 좋아하기 때문에 노래에 맞춰 춤을 추는 게 제 적성에 맞는 것 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 노래를 부르는 것도 좋아하기 때문에 노래에 맞춰 춤을 <문법_맞춤법>추는게</문법_맞춤법> 제 적성에 맞는 것 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 춤을 훨씬 잘 추게 되어서 춤 경연 대회에서 나  많은 사람들에게 저의 춤실력을 인정받고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 춤을 훨씬 <문법_맞춤법>잘치게되어서 춤경연대회에서나 많은사람들에게 저의 춤</문법_맞춤법>실력을 인정받고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50844",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 446,
+    "essay_main_subject": "나의 취미"
+  }
+}

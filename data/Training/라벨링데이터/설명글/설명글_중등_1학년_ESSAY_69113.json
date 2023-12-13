@@ -1,0 +1,238 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 좋은 습관을 들이기 위해서는 자신의 행동과 말들 중 잘못된 것이 무엇인지 제대로 파악하는 것이 중요하다고 생각을 한다.#@문장구분# 그렇기 때문에 나도 올바른 행동과 말을 하기 위한 습관을 들이기 위해 노력을 하면서 내 행동과 말을 돌아볼 수 있는 시간을 가지는 것이 얼마나 중요한지를 깨닫게 되었다.#@문장구분# 자신을 되돌아보지 않는 행동은 자신의 잘못된 점을 고칠 생각이 없는 행동이라고 생각을 한다.#@문장구분# 그래서 나는 나 스스로를 돌아보는 가장 좋은 방법으로 많은 사람들이 보편적으로 선택하는 일기 쓰기를 했었다.#@문장구분# 일기를 쓰면서 오늘 나의 말과 행동을 돌아보고 어떤 일이 있었는지를 기록했다.#@문장구분# 그리고 이 부분에서는 이런 행동과 말을 했으면 더 좋았을 걸 이라고 생각도 하며 나의 행동과 말에 대해서 피드백을 했다.#@문장구분# 그리고 다음번에 비슷한 상황이 발생되면 꼭 그렇게 할 수 있도록 다짐을 했다.#@문장구분# 누구에게나 매일 일기를 쓰고 자신을 돌아보는 것은 매우 중요한 일이겠지만 실행하기에는 힘든 일이다.#@문장구분# 하지만 나를 고치기 위해서는 꼭 해야하는 일이라고 생각하고 꾸준히 할 수 있도록 노력을 했다.#@문장구분#",
+      "paragraph_len": 722,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.9,
+      22.8,
+      20.5
+    ],
+    "essay_scoreT_avg": 23.4,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 좋은 습관을 들이기 위해서는 자신의 행동과 말들 중 잘못된 것이 무엇인지 제대로 파악하는 것이 중요하다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "나는 좋은 습관을 들이기 위해서는 자신의 행동과 말들 중 잘못된 것이 무엇인지 제대로 파악하는 것이 중요하다고 <문법_조사>생각을 한다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 나도 올바른 행동과 말을 하기 위한 습관을 들이기 위해 노력하면서 내 행동과 말을 돌아볼 수 있는 시간을 가지는 것이 얼마나 중요한지 깨닫게 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그렇기 때문에 나도 올바른 행동과 말을 하기 위한 습관을 들이기 위해 <문법_조사>노력을 하면서</문법_조사> 내 행동과 말을 돌아볼 수 있는 시간을 가지는 것이 얼마나 중요한지를 깨닫게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자신을 되돌아보지 않는 행동은 자신의 잘못된 점을 고칠 생각이 없는 행동이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 자신을 되돌아보지 않는 행동은 자신의 잘못된 점을 고칠 생각이 없는 행동이라고 <문법_조사>생각을 한다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다음 번에 비슷한 상황이 발생하면 꼭 그렇게 할 수 있도록 다짐했다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>다음번에</문법_맞춤법> 비슷한 상황이 <문법_기타>발생되면</문법_기타> 꼭 그렇게 할 수 있도록 <문법_조사>다짐을 했다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 나를 고치기 위해서는 꼭 해야 하는 일이라고 생각하고 꾸준히 할 수 있도록 노력했다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 하지만 나를 고치기 위해서는 꼭 <문법_맞춤법>해야하는</문법_맞춤법> 일이라고 생각하고 꾸준히 할 수 있도록 <문법_조사>노력을 했다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69113",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 542,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

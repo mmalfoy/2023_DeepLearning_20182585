@@ -1,0 +1,321 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 통일이 되어야한다고 생각합니다.#@문장구분# 왜냐하면 통일 되면 좋은점이 많아집니다.#@문장구분# 먼저 첫째, 나라가 더욱더 세집니다.#@문장구분# 그리고 둘째, 인구가 많아집니다.#@문장구분# 한편으론 시끌벅적 할진몰라도 친구가 많아져서 좋을것같습니다.#@문장구분# 셋째, 북한의 문화를 경험해볼수있습니다.#@문장구분# 넷째, 북한의 관광지를 놀러갈수있습니다.#@문장구분# 제일 가고싶은곳은 평양을 가서 평양냉면을 먹고싶습니다.#@문장구분# 통일을 하려면 많은게 필요하기 때문에 잘 결정해서 통일을 하면 좋겠고, 북한의 자원이 많기 때문에 좋겠다.#@문장구분# 진짜 통일이 꼭 이루어 지길 바란다. 통일이 되면 뭔가 색다를것같다.#@문장구분# 또 너무나 신기할거같고 너무나 행복할것같다.#@문장구분# 통일이 되면 다른 나라들이 좀 견제 할것같긴 하지만 통일이 되면 625 전쟁이 끝나는 거니 마음 편히 잘 살것 같다.#@문장구분#",
+      "paragraph_len": 624,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          3,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.514286,
+      27.514286,
+      28.285713
+    ],
+    "essay_scoreT_avg": 27.77143,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 통일이 되어야 한다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 통일이 <문법_맞춤법>되어야한다고 </문법_맞춤법>생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 통일 되면 좋은 점이 많아집니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 통일 되면 <문법_맞춤법>좋은점이 </문법_맞춤법>많아집니다.",
+      "sentence_corr_txt_styling": " 왜냐하면 통일 되면 좋은 점이 많아집니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한편으론 시끌벅적 할진 몰라도 친구가 많아져서 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한편으론 시끌벅적 <문법_맞춤법>할진몰라도 </문법_맞춤법>친구가 많아져서 좋을것같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 셋째, 북한의 문화를 경험해 볼 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 셋째, 북한의 문화를 <문법_맞춤법>경험해볼수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 넷째, 북한의 관광지를 놀러 갈 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 넷째, 북한의 관광지를 <문법_맞춤법>놀러갈수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제일 가고 싶은 곳은 평양을 가서 평양냉면을 먹고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 제일 <문법_맞춤법>가고싶은곳은 </문법_맞춤법>평양을 가서 평양냉면을 먹고싶습니다.",
+      "sentence_corr_txt_styling": " 제일 가고 싶은 곳은 평양을 가서 평양냉면을 먹고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 통일을 하려면 많은 게 필요하기 때문에 잘 결정해서 통일을 하면 좋겠고, 북한의 자원이 많기 때문에 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 통일을 하려면 <문법_맞춤법>많은게</문법_맞춤법> 필요하기 때문에 잘 결정해서 통일을 하면 좋겠고, 북한의 자원이 많기 때문에 좋겠다.",
+      "sentence_corr_txt_styling": " 통일을 하려면 많은 게 필요하기 때문에 잘 결정해서 통일을 하면 좋겠고, 북한의 자원이 많기 때문에 좋겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진짜 통일이 꼭 이루어 지길 바란다. 통일이 되면 뭔가 색다를 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 진짜 통일이 꼭 이루어 지길 바란다. 통일이 되면 뭔가 <문법_맞춤법>색다를것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 너무나 신기할 거 같고 너무나 행복할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 너무나 <문법_맞춤법>신기할거같고 </문법_맞춤법>너무나 행복할것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 통일이 되면 다른 나라들이 좀 견제할 것 같긴 하지만 통일이 되면 6·25 전쟁이 끝나는 거니 마음 편히 잘 살 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 통일이 되면 다른 나라들이 좀<문법_맞춤법> 견제 할것같긴</문법_맞춤법> 하지만 통일이 되면 <문법_기타>625 </문법_기타>전쟁이 끝나는 거니 마음 편히 잘 살것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47335",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 384,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

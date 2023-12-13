@@ -1,0 +1,387 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나가 살고싶은 집은 마당이 있는 2층 집이다.#@문장구분# 우선 거실 창이 통유리 로 되서 햇볕 이 잘 들어와서 집 이 따뜻하면 좋겠다.#@문장구분# 그리고 마당과 바같 풍경이 있으면 좋을것같은대 거기에 나를 닮은 조각상도 있으면 더 좋을것같다.#@문장구분# 마당에 개도 있 으면 좋겄다.#@문장구분# 개집도 있어야 하고 개좋은 골든리트리버2마리 였으면 좋을것같다.#@문장구분# 나는 크고 넓은 집이 좋다.#@문장구분# 나중에 돈을 많이 벌어서 바다가 보이는 집에서 해질녁 노을 을 보면 서 쉬고싶다.#@문장구분# 그리고 마당 있는 2층집에는 뒷마당 도 있어야한다.#@문장구분# 뒷마당 에는 텃밭과 창고 도 있어야한다.#@문장구분# 텃밭에는 상추, 고추, 배추, 오이등등 을 키우겠다. #@문장구분#그리고 수영장 도 크게 만들겠다.#@문장구분# 잡안에는 복도에 길게 수족관 을 만들거다.#@문장구분# 수족관 안에는 노란색 비단잉어 를 10마리 넜고 거북이2마리 를 수족관에서 키울거다.#@문장구분# 집 근처 에는 편의시설이 있으면 좋같아#@문장구분# 편의시설은 마트, 밥집, 은행, 병원, 정육점, 편의점 등등 많은 편의시설이 있으면 좋다.#@문장구분# 그리고 집 안에 인테리어는 십 다.#@문장구분# 닭이 전부 금과 은이면 좋을 것같다.#@문장구분#",
+      "paragraph_len": 865,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      29.666666,
+      21.933334
+    ],
+    "essay_scoreT_avg": 23.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.25",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나가 살고 싶은 집은 마당이 있는 2층 집이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나가 <문법_맞춤법>살고싶은 </문법_맞춤법>집은 마당이 있는 2층 집이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우선 거실 창이 통유리로 되어 있어서 햇볕이 잘 들어와서 집이 따뜻하면 좋겠다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우선 거실 창이 <문법_맞춤법>통유리 로 되서 햇볕 이 잘 들어와서 집 이 따뜻하면 좋겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 마당과 바깥 풍경이 있으면 좋을 것 같은데 거기에 나를 닮은 조각상도 있으면 더 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 마당과 <문법_맞춤법>바같 풍경이 있으면 좋을것같은대 거기에 나를 닮은 조각상도 있으면 더 좋을것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마당에 개도 있으면 좋겠다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마당에 <문법_맞춤법>개도 있 으면 좋겄다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 개 집도 있어야 하고 개 좋은 골든리트리버 2마리 였으면 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>개집도 있어야 하고 개좋은 골든리트리버2마리 였으면 좋을것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나중에 돈을 많이 벌어서 바다가 보이는 집에서 해질 녘 노을을 보면서 쉬고 싶다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나중에 돈을 많이 벌어서 바다가 보이는 집에서 <문법_맞춤법>해질녁 노을 을 보면 서 쉬고싶다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 마당 있는 2층 집에는 뒷마당도 있어야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기와 붙여쓰기가 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 마당 있는 <문법_맞춤법>2층집에는 뒷마당 도 있어야한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뒷마당에는 텃밭과 창고도 있어야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기와 붙여쓰기가 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>뒷마당 에는 텃밭과 창고 도 있어야한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 텃밭에는 상추, 고추, 배추, 오이 등등을 키우겠다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기와 붙여쓰기가 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 텃밭에는 상추, 고추, 배추, <문법_맞춤법>오이등등 을</문법_맞춤법> 키우겠다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 수영장도 크게 만들겠다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>수영장 도</문법_맞춤법> 크게 만들겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집 안에는 복도에 길게 수족관을 만들거다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>잡안에는 복도에 길게 수족관 을 만들거다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수족관 안에는 노란색 비단잉어를 10마리 넣고 거북이 2마리를 수족관에서 키울거다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 수족관 안에는 노란색 <문법_맞춤법>비단잉어 를 10마리 넜고 거북이2마리 를 수족관에서 키울거다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "마무리말을 맥락에 맞게 삽입"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 집 <스타일링_담화 맥락 오류>근처 에는 편의시설이 있으면 좋같아</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 집 근처에는 편의시설이 있으면 좋을 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 닭이 전부 금과 은이면 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 닭이 전부 금과 은이면 <문법_맞춤법>좋을 것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33439",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 525,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

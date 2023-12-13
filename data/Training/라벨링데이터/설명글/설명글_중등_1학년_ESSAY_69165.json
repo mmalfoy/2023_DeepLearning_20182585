@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 좋은 습관을 들이기 위해서 노력을 했다.#@문장구분# 나는 사실 앉을 때 정말 나쁜 자세로 앉는다.#@문장구분# 공부할 때나 그냥 친구들이랑 이야기할때나 집에서 밥을 먹을 때 그럴 때 어떤 상황이든 상관 없이 나는 정말 구부정한 자세로 앉아 있는다.#@문장구분# 다시 똑바로 올바른 자세로 고쳐 앉아도 역시나 금방 자세가 풀어져서 나쁜 자세로 앉게 된다.#@문장구분# 허리를 굽히고 앉아있거나, 다리를 꼬아서 앉아 있기도 하고, 그리고 조금 마음이 편해져 있을 때나 조금 졸릴 떄는 아예 거의 눕는다 싶이 이상하게 앉아 있다.#@문장구분# 그런데 이런 나의 습관의 문제점은 누군가가 내가 그렇게 올바르지 못한 자세로 앉아있다고 알려주지 않으면 내 스스로 자각을 하지 못하다나는 것이다.#@문장구분# 그래서  올바른 자세로 앉는 좋은 습관을 들이기 위해서 친구들에게 부탁을 했다.#@문장구분# 내가 잘못된 자세로 앉아있으면 똑바로 앉으라고 이야기를 해달라는 부탁이었다.#@문장구분# 그래서 친구들 덕분에 나는 똑바른 자세로 앉는 좋은 습관을 들일 수 있었다.#@문장구분#",
+      "paragraph_len": 662,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.9,
+      21.75,
+      19.05
+    ],
+    "essay_scoreT_avg": 22.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 공부할 때나 그냥 친구들이랑 이야기할때나 집에서 밥을 먹을 때 그럴 때 어떤 상황이든 상관 없이 나는 정말 구부정한 자세로 앉아 있는다.",
+      "sentence_corr_txt_styling": " 공부할 때나 그냥 친구들이랑 이야기할때나 집에서 밥을 먹을 때 그럴 때 어떤 상황이든 상관 없이 나는 정말 구부정한 자세로 앉아 있는다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 허리를 굽히고 앉아있거나, 다리를 꼬아서 앉아 있기도 하고, 그리고 조금 마음이 편해져 있을 때나 조금 졸릴 떄는 아예 거의 눕는다 시피 이상하게 앉아 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 허리를 굽히고 앉아있거나, 다리를 꼬아서 앉아 있기도 하고, 그리고 조금 마음이 편해져 있을 때나 조금 졸릴 떄는 아예 거의 눕는다 <문법_맞춤법>싶이</문법_맞춤법> 이상하게 앉아 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 이런 나의 습관의 문제점은 누군가가 내가 그렇게 올바르지 못한 자세로 앉아있다고 알려주지 않으면 내 스스로 자각을 하지 못한다는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그런데 이런 나의 습관의 문제점은 누군가가 내가 그렇게 올바르지 못한 자세로 앉아있다고 알려주지 않으면 내 스스로 자각을 하지 <문법_어미>못하다나는</문법_어미> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서  올바른 자세로 앉는 좋은 습관을 들이기 위해서 친구들에게 부탁했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그래서  올바른 자세로 앉는 좋은 습관을 들이기 위해서 친구들에게 <문법_조사>부탁을 했다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 잘못된 자세로 앉아있으면 똑바로 앉으라고 이야기를 해 달라는 부탁이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 잘못된 자세로 앉아있으면 똑바로 앉으라고 이야기를 <문법_맞춤법>해달라는</문법_맞춤법> 부탁이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69165",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 482,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

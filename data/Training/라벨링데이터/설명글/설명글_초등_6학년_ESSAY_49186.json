@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 남자현님을 존경합니다. #@문장구분#왜냐하면 아픔을 무릎쓰고 자신의 손가락을 3번이나 끊으셨기 때문입니다#@문장구분# 왼손중 엄지손가락은 1920년8워 '나라를 빼앗긴 수모를 잊지말자'로1개 검지는 1922년3월 '독립군의 단결이 우선이다' 그리고 마지막은 글을 쓰려고 피로 글을 쓰려고 끊으셨습니다. #@문장구분#이렇게 대한민국을 위해 자기몸을 희생하셔서 지금의 멋진 대한민국이 됬다고 하니 정말 다들 대단하신것 같습니다. #@문장구분#그리고 죽기전에 남기신유언 3가지도 멋진것 같습니다. #@문장구분#첫째,가족 가운데 하나는 나라에 바칠 것, #@문장구분#둘째, 유산249워80전 가운데 200원은 독립 축하금으로 쓸 것#@문장구분# 셋째,몸보다 정신이다 독립은 정신이다,#@문장구분# 이 세가지 유언이 멋있었습니다.#@문장구분#",
+      "paragraph_len": 530,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.85,
+      20.55
+    ],
+    "essay_scoreT_avg": 24.133331,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 남자현 님을 존경합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 남<문법_맞춤법>자현님을</문법_맞춤법> 존경합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 아픔을 무릅쓰고 자신의 손가락을 3번이나 끊으셨기 때문입니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 아픔을 <문법_맞춤법>무릎쓰고 </문법_맞춤법>자신의 손가락을 3번이나 끊으셨기 때문입니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왼손 중 엄지손가락은 1920년 8월 '나라를 빼앗긴 수모를 잊지 말자'로 1개 검지는 1922년 3월 '독립군의 단결이 우선이다' 그리고 마지막은 글을 쓰려고 피로 글을 쓰려고 끊으셨습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왼손중 엄지손가락은 192<문법_맞춤법>0년8워</문법_맞춤법> '나라를 빼앗긴 수모를 잊지말자'로1개 검지는 1922년3월 '독립군의 단결이 우선이다' 그리고 마지막은 글을 쓰려고 피로 글을 쓰려고 끊으셨습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이렇게 대한민국을 위해 자기 몸을 희생하셔서 지금의 멋진 대한민국이 됐다고 하니 정말 다들 대단하신 것 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이렇게 대한민국을 위해 자기몸을 희생하셔서 지금의 멋진 대한민국이 <문법_맞춤법>됬다고 </문법_맞춤법>하니 정말 다들 대단하신것 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 죽기 전에 남기신 유언 3가지도 멋진 것 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 죽기전에 남기신유언 3가지도 <문법_맞춤법>멋진것</문법_맞춤법> 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "첫째, 가족 가운데 하나는 나라에 바칠 것, ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "첫<문법_맞춤법>째,가</문법_맞춤법>족 가운데 하나는 나라에 바칠 것, ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "둘째, 유산249원 80전 가운데 200원은 독립 축하금으로 쓸 것",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "둘째, 유산<문법_맞춤법>249워80전</문법_맞춤법> 가운데 200원은 독립 축하금으로 쓸 것",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 셋째, 몸보다 정신이다 독립은 정신이다,",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 셋<문법_맞춤법>째,몸보다 </문법_맞춤법>정신이다 독립은 정신이다,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 세 가지 유언이 멋있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 <문법_맞춤법>세가지 </문법_맞춤법>유언이 멋있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49186",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 350,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

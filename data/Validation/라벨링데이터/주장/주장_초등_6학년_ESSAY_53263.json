@@ -1,0 +1,453 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘학교에서는 신체적인폭력뿐만 아니라 인터넷 집단 따돌림등으로극단적인 선택을한 학생을보기 쉬울 정도 이다.#@문장구분# 이 학생들은 평소에 모범생이였다.#@문장구분# 카카오톡 틱톡 인스타그램 페이스북으로 집단따돌림이 끊이지 않게 일어난고 있다.#@문장구분# 또한 극단적 선택을하는 아이의 나이는 점점낮아진다.#@문장구분# 그만큼 인터넷의 심각성을 알려준다.#@문장구분# 또한 가해자는 가벼운 처벌만받는다. #@문장구분#또 법이너무약해서이런범죄가 끊이질않는다. #@문장구분#내가봐도 정부도지친거같다.#@문장구분# 이또한 부모의 마음이 난 도무지 이해가안된다.#@문장구분# 촉법소년들이 많아지는만큼 열심히정부도일하기.#@문장구분# 또 우리가 실천할 수있는캠페인을하고 법을강화하자. #@문장구분#우리정부가법 좀강화하고 종일 제대로 하자.#@문장구분# 좀 보람있게 나서자.#@문장구분# 발벗고 우리가 희생한 학생들의부모들은 슬프겠지만 슬프자 어쩔수없다.#@문장구분# 우리나라 법 강화를 위해 화이팅!#@문장구분# 폭력을예방한다. #@문장구분#어려움있음선생님한테말하기.#@문장구분# 학교폭력 멈춰!",
+      "paragraph_len": 774,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      28.5,
+      28.5
+    ],
+    "essay_scoreT_avg": 28.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "요즘 학교에서는 신체적인 폭력뿐만 아니라 인터넷 집단 따돌림 등으로 극단적인 선택을 한 학생을 보기 쉬울 정도이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>요즘학교에서는 신체적인폭력뿐만</문법_맞춤법> 아니라 인터넷 집단 따돌림등으로극단적인 선택을한 학생을보기 쉬울 정도 이다.",
+      "sentence_corr_txt_styling": "요즘 학교에서는 신체적인 폭력뿐만 아니라 인터넷 집단 따돌림 등으로 극단적인 선택을 한 학생을 보기 쉬울 정도이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 학생들은 평소에 모범생이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 학생들은 평소에 <문법_맞춤법>모범생이였다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 카카오톡, 틱톡, 인스타그램, 페이스북으로 집단 따돌림이 끊이지 않게 일어나고 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>카카오톡 틱톡 인스타그램</문법_맞춤법> 페이스북으로 집단따돌림이 끊이지 않게 일어난고 있다.",
+      "sentence_corr_txt_styling": " 카카오톡, 틱톡, 인스타그램, 페이스북으로 집단 따돌림이 끊이지 않게 일어나고 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 극단적 선택을 하는 아이의 나이는 점점 낮아진다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 극단적 <문법_맞춤법>선택을하는 </문법_맞춤법>아이의 나이는 점점낮아진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 가해자는 가벼운 처벌만 받는다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 가해자는 가벼운 <문법_맞춤법>처벌만받는다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 법이 너무 약해서 이런 범죄가 끊이질 않는다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 법<문법_맞춤법>이너무약해서이런범죄가 끊이질않는다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 봐도 정부도 지친 거 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>내가봐도 정부도지친거같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "내가 봐도 정부도 지친 거 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 또한 부모의 마음이 난 도무지 이해가 안 된다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>이또한 </문법_맞춤법>부모의 마음이 난 도무지 이해가안된다.",
+      "sentence_corr_txt_styling": " 이 또한 부모의 마음이 난 도무지 이해가 안 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 촉법소년들이 많아지는 만큼 열심히 정부도 일하기.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 촉법소년들이 <문법_맞춤법>많아지는만큼 열심히정부도일하기.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 촉법소년들이 많아지는 만큼 열심히 정부도 일하기.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 우리가 실천할 수 있는 캠페인을 하고 법을 강화하자. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 또 우리가 <문법_맞춤법>실천할 수있는캠페인을하고 법을강화하자.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": " 또 우리가 실천할 수 있는 캠페인을 하고 법을 강화하자. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리 정부가 법 좀 강화하고 종일 제대로 하자.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>우리정부가법 좀강화하고</문법_맞춤법> 종일 제대로 하자.",
+      "sentence_corr_txt_styling": "우리 정부가 법 좀 강화하고 종일 제대로 하자.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 좀 보람 있게 나서자.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 좀 <문법_맞춤법>보람있게 </문법_맞춤법>나서자.",
+      "sentence_corr_txt_styling": " 좀 보람 있게 나서자.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 발 벗고 우리가 희생한 학생들의 부모들은 슬프겠지만 슬프자 어쩔 수 없다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>발벗고 </문법_맞춤법>우리가 희생한 학생들의부모들은 슬프겠지만 슬프자 어쩔수없다.",
+      "sentence_corr_txt_styling": " 발 벗고 우리가 희생한 학생들의 부모들은 슬프겠지만 슬프자 어쩔 수 없다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라 법 강화를 위해 파이팅!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 우리나라 법 강화를 위해 <문법_맞춤법>화이팅</문법_맞춤법>!",
+      "sentence_corr_txt_styling": " 우리나라 법 강화를 위해 파이팅!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 폭력을 예방한다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>폭력을예방한다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": " 폭력을 예방한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어려움 있음 선생님한테 말하기.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>어려움있음선생님한테말하기</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "어려움 있음 선생님한테 말하기.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53263",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 435,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 소수의 의견을 찬성합니다. #@문장구분#그 이유는 다수결의 원칙속에 소수의 의견이 묻히면 안되기 때문입니다. #@문장구분#예시로 학급위원을 뽑을 때, 3vs5일때 그 3에 의견을 들어주지 않는것은 잘못 되었습니다.#@문장구분# 고작 2표 차이로 뽑히지 않았다뇨..#@문장구분#. 여러분, 길가에서 장애인 주차지역, 안내견, 등등 장애인을 위한 시설들과 강아지들을 보셨나요?#@문장구분# 네, 그렇죠#@문장구분# 다들 한번쯤은 보셨을 것 같은데요.#@문장구분# 특히 화장실을 갈때도 장애인도 이용할 수 있게 만들어진걸 보셨을 겁니다.#@문장구분# 그리고 임산부들은 보셨나요? #@문장구분#임산부는 소수는 아니지만, 그래도 아이없이 사는 가정들도 있죠,#@문장구분# 쨋든 임산부를 위한 임산부 좌석을 지하철에서 자주보셨을텐데요.#@문장구분# 장애인 임산부! 모두 소수지만 사람들은 그들에게 따뜻한 손길로 도와주었습니다. #@문장구분#소수를 위한 시설도 있으니 소수의 의견도 잘 들어야겠죠.#@문장구분# 저는 이러한 뒷받침 내용을 바탕으로 하여 소수의 의견을 찬성하였습니다. #@문장구분#여러분은 소수의 의견에 반대하시나요? #@문장구분#아니면 찬성하시나요?#@문장구분# 뒷받침 내용도 빠짐없이! 하여 저에게 의견과 까닭을 알려주세요~!#@문장구분#",
+      "paragraph_len": 864,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.685715,
+      26.114285,
+      20
+    ],
+    "essay_scoreT_avg": 20.933332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.01",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그 이유는 다수결의 원칙 속에 소수의 의견이 묻히면 안 되기 때문입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 이유는 다수결의 <문법_맞춤법>원칙속에</문법_맞춤법> 소수의 의견이 묻히면 안되기 때문입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예시로 학급위원을 뽑을 때, 3vs5일 때 그 3의 의견을 들어주지 않는 것은 잘못되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "예시로 학급위원을 뽑을 때, <문법_맞춤법>3vs5일때</문법_맞춤법> 그 <문법_조사>3에</문법_조사> 의견을 들어주지 않는것은 잘못 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고작 2표 차이로 뽑히지 않았다니요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 고작 2표 차이로 뽑히지<문법_맞춤법> 않았다뇨..</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분, 길가에서 장애인 주차지역, 안내견, 등등 장애인을 위한 시설들과 강아지들을 보셨나요?",
+      "sentence_corr_reason": [
+        "문장부호 삭제"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>. 여러분,</문법_기타> 길가에서 장애인 주차지역, 안내견, 등등 장애인을 위한 시설들과 강아지들을 보셨나요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다들 한 번쯤은 보셨을 것 같은데요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다들 <문법_맞춤법>한번쯤</문법_맞춤법>은 보셨을 것 같은데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 화장실을 갈 때도 장애인도 이용할 수 있게 만들어진 걸 보셨을 겁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 특히 화장실을 <문법_맞춤법>갈때도</문법_맞춤법> 장애인도 이용할 수 있게 만들어진걸 보셨을 겁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "임산부는 소수는 아니지만, 그래도 아이 없이 사는 가정들도 있죠,",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "임산부는 소수는 아니지만, 그래도 <문법_맞춤법>아이없이</문법_맞춤법> 사는 가정들도 있죠,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어쨌든 임산부를 위한 임산부 좌석을 지하철에서 자주 보셨을 텐데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>쨋든 </문법_맞춤법>임산부를 위한 임산부 좌석을 지하철에서 자주보셨을텐데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 저는 이러한 뒷받침 내용을 바탕으로 하여 소수의 의견을 찬성하였습니다. ",
+      "sentence_corr_txt_styling": " 저는 이러한 뒷받침 내용을 바탕으로 하여 소수의 의견을 찬성하였습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 뒷받침 내용도 빠짐없이! 하여 저에게 의견과 까닭을 알려주세요~!",
+      "sentence_corr_txt_styling": " 뒷받침 내용도 빠짐없이! 하여 저에게 의견과 까닭을 알려주세요~!",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35968",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 525,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

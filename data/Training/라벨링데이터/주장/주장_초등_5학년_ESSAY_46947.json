@@ -1,0 +1,260 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 다문화에 대한 교육을 잘 해야한다고 생각한다. #@문장구분#항상 자기는 다문화가정이 아니라고 다문화 가정의 아이에게 상처주는말을 하면 커서도 계속 할것이기 때문에 어릴때 교육을 잘 해야 한다고 생각한다. #@문장구분#어릴때부터 어른이 되기전까지는 다문화 가족 알아보기, 다문화 가정에 대해 존중하는 방법알아보기등의 교육을 실시해야한다. #@문장구분#만약 교육을 해도 다문화가정의 아이를 차별한다면 자신이 다문화 가정일때 친구들이 놀린다면 어떨지 입장을 바꿔서 생각해봐야 한다. #@문장구분#다문화 교육을 하면 좋은점은 일단 어른이 되서 다문화 가정에 대한 편견을 줄일수 있다.#@문장구분# 까닭은 어릴때 부터 다문화 가정이라는 것을 편견하면 안된다는 것을 어느정도 알고있어 존중을해줄수 있기 때문이다.#@문장구분# 그러므로 우리는 다문화 가정의 아이라고 편견이나 차별을 하지말고 존중을 잘 해줘야한다.",
+      "paragraph_len": 529,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.75,
+      27,
+      25
+    ],
+    "essay_scoreT_avg": 25.583334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "항상 자기는 다문화 가정이 아니라고 다문화 가정의 아이에게 상처주는 말을 하면 커서도 계속할 것이기 때문에 어릴 때 교육을 잘 해야 한다고 생각한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "항상 자기는 <문법_맞춤법>다문화가정이</문법_맞춤법> 아니라고 다문화 가정의 아이에게 상처주는말을 하면 커서도 계속 할것이기 때문에 어릴때 교육을 잘 해야 한다고 생각한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어릴 때부터 어른이 되기 전까지는 다문화 가족 알아보기, 다문화 가정에 대해 존중하는 방법 알아보기 등의 교육을 실시해야한다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>어릴때부터</문법_맞춤법> 어른이 되기전까지는 다문화 가족 알아보기, 다문화 가정에 대해 존중하는 방법알아보기등의 교육을 실시해야한다. ",
+      "sentence_corr_txt_styling": "어릴 때부터 어른이 되기 전까지는 다문화 가족 알아보기, 다문화 가정에 대해 존중하는 방법 알아보기 등의 교육을 실시해야한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 교육을 해도 다문화 가정의 아이를 차별한다면 자신이 다문화 가정일 때 친구들이 놀린다면 어떨지 입장을 바꿔서 생각해봐야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "만약 교육을 해도 <문법_맞춤법>다문화가정의</문법_맞춤법> 아이를 차별한다면 자신이 다문화 가정일때 친구들이 놀린다면 어떨지 입장을 바꿔서 생각해봐야 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다문화 교육을 하면 좋은 점은 일단 어른이 돼서 다문화 가정에 대한 편견을 줄일 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "다문화 교육을 하면 <문법_맞춤법>좋은점은</문법_맞춤법> 일단 어른이 되서 다문화 가정에 대한 편견을 줄일수 있다.",
+      "sentence_corr_txt_styling": "다문화 교육을 하면 좋은 점은 일단 어른이 돼서 다문화 가정에 대한 편견을 줄일 수 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 까닭은 어릴 때부터 다문화 가정이라는 것을 편견하면 안 된다는 것을 어느정도 알고있어 존중해줄 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 까닭은 <문법_맞춤법>어릴때 부터</문법_맞춤법> 다문화 가정이라는 것을 편견하면 안된다는 것을 어느정도 알고있어 <문법_조사>존중을해줄수</문법_조사> 있기 때문이다.",
+      "sentence_corr_txt_styling": " 까닭은 어릴 때부터 다문화 가정이라는 것을 편견하면 안 된다는 것을 어느정도 알고있어 존중해줄 수 있기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 우리는 다문화 가정의 아이라고 편견이나 차별을 하지 말고 존중을 잘 해줘야 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그러므로 우리는 다문화 가정의 아이라고 편견이나 차별을 <문법_맞춤법>하지말고</문법_맞춤법> 존중을 잘 해줘야한다.",
+      "sentence_corr_txt_styling": " 그러므로 우리는 다문화 가정의 아이라고 편견이나 차별을 하지 말고 존중을 잘 해줘야 한다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46947",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 409,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

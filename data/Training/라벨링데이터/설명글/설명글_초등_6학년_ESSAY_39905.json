@@ -1,0 +1,289 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 이순신 장군님을 존경한다.#@문장구분# 이순신 장군님은 용감하시고 마음도 바르시다.#@문장구분# 이순신 장군님은 용감하게 적과 최선을 다해 목숨걸고 싸워주셔서 우리나라를 지키신 위대한 위인이시라고 나는 생각한다.#@문장구분# 이순신 장군님은 죽기전까지도 나라를 향한 마음도 바뀌지 않고 위대한 업적을 세우신 분이다.#@문장구분# 나도 생활할때 이순신 장군님처럼 용감했었으면 좋겠다.#@문장구분# 이순신 장군님은 존경받읆나 하다.#@문장구분# 그리고 나라를 향한 마음은 뒤쳐지지 않는 이관순님도 존경받을만 하다.#@문장구분# 나라를 위해 두려움을 이기고 적앞에서 만세운동을 하시다가 결국 돌아가신 이관순님도 정말 용감하고 대단한 분이시다.#@문장구분# 이처럼 이분 말고도 우리나라를 위해 목숨바쳐 싸운사람들이 정말 많다.#@문장구분# 그분들을 모두 다 존중하고 존경하고 항상 감사하다.#@문장구분#",
+      "paragraph_len": 578,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.35,
+      22.85,
+      15.45
+    ],
+    "essay_scoreT_avg": 20.216667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이순신 장군님은 용감하게 적과 최선을 다해 목숨 걸고 싸워주셔서 우리나라를 지키신 위대한 위인이시라고 나는 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이순신 장군님은 용감하게 적과 최선을 다해 <문법_맞춤법>목숨걸고 </문법_맞춤법>싸워주셔서 우리나라를 지키신 위대한 위인이시라고 나는 생각한다.",
+      "sentence_corr_txt_styling": " 이순신 장군님은 용감하게 적과 최선을 다해 목숨 걸고 싸워주셔서 우리나라를 지키신 위대한 위인이시라고 나는 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이순신 장군님은 죽기 전까지도 나라를 향한 마음을 바꾸지 않고 위대한 업적을 세우신 분이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 이순신 장군님은 <문법_맞춤법>죽기전까지도 </문법_맞춤법>나라를 향한 <문법_조사>마음도 </문법_조사><문법_어미>바뀌지 </문법_어미>않고 위대한 업적을 세우신 분이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 생활할 때 이순신 장군님처럼 용감했으면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 나도 <문법_맞춤법>생활할때 </문법_맞춤법>이순신 장군님처럼 <문법_어미>용감했었으면 </문법_어미>좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이순신 장군님은 존경받을만 하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 이순신 장군님은 <문법_어미>존경받읆나 </문법_어미>하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나라를 향한 마음은 뒤쳐지지 않는 유관순님도 존경받을만 하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 나라를 향한 마음은 뒤쳐지지 않는 <문법_맞춤법>이관순님도 </문법_맞춤법>존경받을만 하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나라를 위해 두려움을 이기고 적 앞에서 만세운동을 하시다가 결국 돌아가신 유관순님도 정말 용감하고 대단한 분이시다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나라를 위해 두려움을 이기고 <문법_맞춤법>적앞에서 </문법_맞춤법>만세운동을 하시다가 결국 돌아가신 이관순님도 정말 용감하고 대단한 분이시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이처럼 이 분 말고도 우리나라를 위해 목숨바쳐 싸운 사람들이 정말 많다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이처럼 이분 말고도 우리나라를 위해 목숨바쳐 <문법_맞춤법>싸운사람들이 </문법_맞춤법>정말 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그분들을 모두 다 존중하고 존경하고 항상 감사하다.",
+      "sentence_corr_txt_styling": " 그분들을 모두 다 존중하고 존경하고 항상 감사하다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39905",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 379,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

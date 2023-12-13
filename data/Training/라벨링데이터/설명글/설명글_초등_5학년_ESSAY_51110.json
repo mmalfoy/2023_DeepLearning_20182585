@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단 저는 밥을먹고 양치질을한 뒤, 치실을 합니다.#@문장구분# 양치로도 빼내지 못한 찌꺼기가있을 수 있기 때문입니다.#@문장구분#\n 그리고 앞으로는 치실을 일주일에 한두번정도 하는데, 앞으로는 양치할때마다 하고싶습니다.#@문장구분# 그리고 로션과선크림도 매일 발라야합니다.#@문장구분#\n 그리고 저의 두번째 청결방법은 바로 트리트먼트입니다.#@문장구분# 매일쓰는건 좋지 않지만, 가끔씩 쓰는데, 이렇게 트리트먼트를 바르면 머리가 엉키지 않아서 막 떨어질일도 없고, 묶을때에도 편합니다.#@문장구분#\n 저의 세번째 청결방법은 바로 머리를 묶는것입니다.#@문장구분# 저는 집먼지진드기알레르기가있는데, 머리를 묶으면 머리카락이 잘 떨어지지 않습니다.#@문장구분# 아, 제가 머리카락얘기를 왜하냐면, 머리카락은 집먼지진드기의 먹이기 때문입니다.#@문장구분# 머리카락을 치우면 알레르기도 덜하고, 청결하기도하고, 일석이조입니다.#@문장구분# 또 머리를 묶으면 예쁘기도하고, 머리카락도 안떨어지기 때문에 이것도 일석이조입니다.#@문장구분# \n 앞으로도 청결을 잘 유지했으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 709,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.847618,
+      27.714287,
+      25.019047
+    ],
+    "essay_scoreT_avg": 25.19365,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "일단 저는 밥을 먹고 양치질을 한 뒤, 치실을 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 저는 <문법_맞춤법>밥을먹고 양치질을한 </문법_맞춤법>뒤, 치실을 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 양치로도 빼내지 못한 찌꺼기가 있을 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 양치로도 빼내지 못한 <문법_맞춤법>찌꺼기가있을 수 있</문법_맞춤법>기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 앞으로는 치실을 일주일에 한두 번 정도 하는데, 앞으로는 양치할 때 마다  하고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 앞으로는 치실을 일주일에 <문법_맞춤법>한두번정도 하는데, 앞으로는 양치할때마다 하고싶습</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 로션과 선크림도 매일 발라야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>로션과선크림도 매일 발라야합니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 저의 두 번째 청결 방법은 바로 트리트먼트입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 저의<문법_맞춤법> 두번째 청결방</문법_맞춤법>법은 바로 트리트먼트입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 매일 쓰는 건 좋지 않지만, 가끔씩 쓰는데, 이렇게 트리트먼트를 바르면 머리가 엉키지 않아서 막 떨어질 일도 없고, 묶을 때에도 편합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>매일쓰는건 좋지 않지만, 가끔씩 쓰는데, 이렇게 트리트먼트를 바르면 머리가 엉키지 않아서 막 떨어질일도 없고, 묶을때에도 편합</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 저의 세 번째 청결 방법은 바로 머리를 묶는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 저의 <문법_맞춤법>세번째 청결방법은 바로 머리를 묶는것</문법_맞춤법>입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 집 먼지 진드기 알레르기가 있는데, 머리를 묶으면 머리카락이 잘 떨어지지 않습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는<문법_맞춤법> 집먼지진드기알레르기가있는데, </문법_맞춤법>머리를 묶으면 머리카락이 잘 떨어지지 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아, 제가 머리가락 얘기를  왜 하냐면, 머리카락은 집 먼지 진드기의 먹이기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아, 제가 <문법_맞춤법>머리카락얘기를 왜하냐면, 머리카락은 집먼지진드기의 먹이기 때문입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 머리카락을 치우면 알레르기도 덜하고, 청결하기도 하고, 일석이조입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 머리카락을 치우면 알레르기도 덜하고, <문법_맞춤법>청결하기도하고</문법_맞춤법>, 일석이조입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 머리를 묶으면 예쁘기도 하고, 머리카락도 안 떨어지기 때문에 이것도 일석이조입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 머리를 묶으면 <문법_맞춤법>예쁘기도하고, 머리카락도 안떨어지기</문법_맞춤법> 때문에 이것도 일석이조입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51110",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 470,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

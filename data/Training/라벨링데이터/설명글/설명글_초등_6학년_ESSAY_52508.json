@@ -1,0 +1,315 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 친구가 정말좋은존재다.#@문장구분# 물론 싸울때도 있지만 그래도 좋은존재다.#@문장구분# 나와 같이 놀고 그리고 나와 공감하고 그래서 나는 친구가 정말좋다고 생각한다.#@문장구분# 그리고 나는 친구에게 상처를주지않는 친구가 되고싶은마음이다.#@문장구분# 나는 지금 친구가 그렇게는 많이있다고 생각하지는 않다.#@문장구분# 그리고 친구들에게 순위를 맺는다는것은 바르지 않는 일이라고 생각한다.#@문장구분# 왜냐하면 나와오래동안에 친구를 순위로 메긴다는것은 결코 쉬운 일도 아니고 그리고 순위를 맺이며 낮은 순위건에 있는친구가 상처를 받기때문에나는 순위를 맺는것이 옳다 생각하지 않는다.#@문장구분# 그리고 나와가장친한 친구가있다. 왜냐하면은 초2부터 5까지 4년연속으로 됬고 그리고 가장많이놀고 친한친구다.#@문장구분# 그런데 이번학년에서는 같은반이되지 않았다.#@문장구분# 그리고 친구라는 것은 단순히친하다는것이아닌 생일을 챙겨주고 공감하고 그리고 나와같이 노는것이 나는 친구라 생각한다",
+      "paragraph_len": 616,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          1.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      17,
+      22
+    ],
+    "essay_scoreT_avg": 22.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 친구가 정말 좋은 존재다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는 친구가 <문법_맞춤법>정말좋은존재다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "나는 친구가 정말 좋은 존재다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 싸울 때도 있지만 그래도 좋은 존재다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 <문법_맞춤법>싸울때도 </문법_맞춤법>있지만 그래도 좋은존재다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나와 같이 놀고 그리고 나와 공감하고 그래서 나는 친구가 정말 좋다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나와 같이 놀고 그리고 나와 공감하고 그래서 나는 친구가<문법_맞춤법> 정말좋다고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나는 친구에게 상처를 주지 않는 친구가 되고 싶은 마음이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 나는 친구에게 <문법_맞춤법>상처를주지않는 친구가 되고싶은마음이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 지금 친구가 그렇게는 많이 있다고 생각하지는 않다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 지금 친구가 그렇게는 <문법_맞춤법>많이있다고 </문법_맞춤법>생각하지는 않다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구들에게 순위를 맺는다는 것은 바르지 않는 일이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친구들에게 순위를<문법_맞춤법> 맺는다는것은</문법_맞춤법> 바르지 않는 일이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 나와 오랫동안에 친구를 순위로 매긴다는 것은 결코 쉬운 일도 아니고 그리고 순위를 매기며 낮은 순위권에 있는 친구가 상처를 받기 때문에 나는  순위를 맺는 것이 옳다 생각하지 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>나와오래동안에</문법_맞춤법> 친구를 순위로 메긴다는것은 결코 쉬운 일도 아니고 그리고 순위를 맺이며 낮은 순위건에 있는친구가 상처를 받기때문에나는 순위를 맺는것이 옳다 생각하지 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나와 가장 친한 친구가 있다. 왜냐하면은 초2부터 5까지4년 연속으로 됐고 그리고 가장 많이 놀고 친한 친구다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>나와가장친한 친구가있다</문법_맞춤법>. 왜냐하면은 초2부터 5까지 4년연속으로 됬고 그리고 가장많이놀고 친한친구다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 이번 학년에서는 같은 반이 되지  않았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 <문법_맞춤법>이번학년에서는 같은반이되지</문법_맞춤법> 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구라는 것은  단순히 친하다는 것이 아닌 생일을 챙겨주고 공감하고 그리고나와 같이 노는 것이  나는 친구라 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 친구라는 것은 <문법_맞춤법>단순히친하다는것이아닌</문법_맞춤법> 생일을 챙겨주고 공감하고 그리고 나와같이 노는것이 나는 친구라 생각<문법_기타>한다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52508",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 436,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘은 학교에서 정말 많은 상황들이 나오는 가운데 폭력, 그 중에서 사이버 폭력, 성폭력이 있지만 언어 폭력에 대한 예방 방법을 알아보겠습니다.#@문장구분# 우리가 언어 폭력을 예방하려면 평소에도 고운 말을 습관화해서 어떤 상황이든 비속어보단 좋은 말로 순화해서 자신의 생각을 확실하게 전하면 좋을 것 같습니다.#@문장구분# 그리고 또 다른 예방 방법은 말을 하기 전에 생각을 해야합니다. #@문장구분#우리가 만약 다음 할 말을 생각없이 말 해 버리면 상대가 기분이 나쁠 수 있습니다. #@문장구분#하지만 우리가 생각없이 말을 뱉기 전에 내가 지금 할 말이 적절한지 스스로 판단하고 말을 한다면 조금 더 언어 폭력을 예방 할 수 있을 겁니다.#@문장구분# 이처럼 좋은 언어 예방 방법이 다양하게 있습니다.#@문장구분# 꼭 한번 실천 해 보면 좋을 것 같습니다.#@문장구분#",
+      "paragraph_len": 523,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.277779,
+      25.811111,
+      29.7
+    ],
+    "essay_scoreT_avg": 26.262964,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "요즘은 학교에서 정말 많은 상황들이 나오는 가운데 폭력, 그중에서 사이버 폭력, 성폭력이 있지만 언어 폭력에 대한 예방 방법을 알아보겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘은 학교에서 정말 많은 상황들이 나오는 가운데 폭력, <문법_맞춤법>그 중에서</문법_맞춤법> 사이버 폭력, 성폭력이 있지만 언어 폭력에 대한 예방 방법을 알아보겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 다른 예방 방법은 말을 하기 전에 생각을 해야 합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 또 다른 예방 방법은 말을 하기 전에 생각을 <문법_맞춤법>해야합니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리가 만약 다음 할 말을 생각없이 말해 버리면 상대가 기분이 나쁠 수 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리가 만약 다음 할 말을 생각없이 <문법_맞춤법>말 해 버리면</문법_맞춤법> 상대가 기분이 나쁠 수 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 우리가 생각없이 말을 뱉기 전에 내가 지금 할 말이 적절한지 스스로 판단하고 말을 한다면 조금 더 언어 폭력을 예방할 수 있을 겁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 우리가 생각없이 말을 뱉기 전에 내가 지금 할 말이 적절한지 스스로 판단하고 말을 한다면 조금 더 언어 폭력을 <문법_맞춤법>예방 할</문법_맞춤법> 수 있을 겁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 꼭 한번 실천해 보면 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 꼭 한번 <문법_맞춤법>실천 해</문법_맞춤법> 보면 좋을 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63577",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 384,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 여러 사람들의 머리에 자신에 이름을 새긴 위인들이 있다.#@문장구분# 그중 나 본인 기억에 위인인 잭스님이다.#@문장구분# \n 잭스님은 녹ㅅㅈ상이라는 웹툰을 연재하시고 계신 작가님이다.#@문장구분# 작가님이 연재하고 계신 녹전은 로맨스물이며, 지금은 미리보기 29화까지 연재하시 상태다. #@문장구분#녹전에는 진과 매튜가 꽁냥거리는 일상이 나온다#@문장구분# 진짜 너무 깜찍하다.#@문장구분# 작가님은 독자들을 위해 하루하루 어김없이 그림을 그리시며 독자들간에 소통을 위하여 트위터나 인스타 등 열심히 활동하시고, 독자들과 함께 실시간도 키시며 작가님에 직업인 작가를 그리고 독자들을 위해 꾸준하게 노력하시고 계신다.#@문장구분#\n 나도 자가님을 본받아 열심히 그림을 그리며 노력을 배워야겠다고 매번 생각했다. #@문장구분#우리 작가님 너무 멋지시다.",
+      "paragraph_len": 550,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.85,
+      23.75,
+      22.65
+    ],
+    "essay_scoreT_avg": 23.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그중 나 본인 기억에 위인인 잭 스님이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그중 나 본인 기억에 위인인 <문법_맞춤법>잭스님이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " \n 잭스님은 녹ㅅㅈ상이라는 웹툰을 연재하시고 계신 작가님이다.",
+      "sentence_corr_txt_styling": " \n 잭스님은 녹ㅅㅈ상이라는 웹툰을 연재하시고 계신 작가님이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 작가님이 연재하고 계신 녹전은 로맨스물이며, 지금은 미리 보기 29화까지 연재하신 상태다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 작가님이 연재하고 계신 녹전은 로맨스물이며, 지금은 <문법_맞춤법>미리보기 29화까지 연재하시</문법_맞춤법> 상태다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "녹전에는 진과 매튜가 꽁냥 거리는 일상이 나온다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "녹전에는 진과 매튜가 <문법_맞춤법><문법_기타>꽁냥거리는 일상이 나온다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 작가님은 독자들을 위해 하루하루 어김없이 그림을 그리시며 독자들 간에 소통을 위하여 트위터나 인스타 등 열심히 활동하시고, 독자들과 함께 실시간도 키시며 작가님에 직업인 작가를 그리고 독자들을 위해 꾸준하게 노력하시고 계신다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 작가님은 독자들을 위해 하루하루 어김없이 그림을 그리시며 <문법_맞춤법>독자들간에</문법_맞춤법> 소통을 위하여 트위터나 인스타 등 열심히 활동하시고, 독자들과 함께 실시간도 키시며 작가님에 직업인 작가를 그리고 독자들을 위해 꾸준하게 노력하시고 계신다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43217",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 392,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 휴일에는 집에서 게임을 5시간정도 게임을하고1 9시간은 밥먹는데 그시간이 지나고 17시간은 공부1시간 하면 16시간이남고 아빠와 집안일을하면 1시간이 지나면 15시간 나가서 놀거나 자전거 타면 2시간이 지나고 13시간이 남는다.#@문장구분# 13시간으로는 아빠와 놀고 1시간이 지나면 12시간이 되고 12시간은 잠을 잔다 잠을 자고 일어나면 8시에 일어나서 나는 학교에 간다.#@문장구분#",
+      "paragraph_len": 246,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      8.4,
+      11.6,
+      10.333333
+    ],
+    "essay_scoreT_avg": 10.111111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.11",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 휴일에는 집에서 게임을 5시간정도 게임을 하고1 9시간은 밥먹는데 그 시간이 지나고 17시간은 공부1시간 하면 16시간이 남고 아빠와 집안일을 하면 1시간이 지나면 15시간 나가서 놀거나 자전거 타면 2시간이 지나고 13시간이 남는다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는 휴일에는 집에서 게임을 5시간정도 <문법_맞춤법>게임을하고</문법_맞춤법>1 9시간은 밥먹는데 그시간이 지나고 17시간은 공부1시간 하면 16시간이남고 아빠와 집안일을하면 1시간이 지나면 15시간 나가서 놀거나 자전거 타면 2시간이 지나고 13시간이 남는다.",
+      "sentence_corr_txt_styling": "나는 휴일에는 집에서 게임을 5시간정도 게임을 하고1 9시간은 밥먹는데 그 시간이 지나고 17시간은 공부1시간 하면 16시간이 남고 아빠와 집안일을 하면 1시간이 지나면 15시간 나가서 놀거나 자전거 타면 2시간이 지나고 13시간이 남는다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 13시간으로는 아빠와 놀고 1시간이 지나면 12시간이 되고 12시간은 잠을 잔다 잠을 자고 일어나면 8시에 일어나서 나는 학교에 간다.",
+      "sentence_corr_txt_styling": " 13시간으로는 아빠와 놀고 1시간이 지나면 12시간이 되고 12시간은 잠을 잔다 잠을 자고 일어나면 8시에 일어나서 나는 학교에 간다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40449",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 206,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

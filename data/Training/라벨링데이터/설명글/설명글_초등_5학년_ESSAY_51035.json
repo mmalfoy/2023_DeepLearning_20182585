@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단 첫번째로 손은 비누로 5번, 물로는 3번으로 하루에 8번씩 손을 씻고 있는 중 입니다.#@문장구분#\n하지만 제일 청결하고 께끗히 씻을때는 바로 음식을 만들때 제일 손을 청결히 씻을때 이다.#@문장구분#\n세균이 손에 있다면 먹는사람이 배가 아프거나 머리가 아플수도 있다.#@문장구분#\n그럼으로 꼭! 손을 청결히 해야한다.#@문장구분# 그리고 양치는 원래 3번 해야하지만 코로나 때문인지 학교에서 양치를 못해서 아침 저녁으로 2번 하고있다.#@문장구분#\n요즘같은 시대일수록 더욱 청결을 유지하고 조심해야 한다.#@문장구분#\n청결은 유지하는사람이 청결을 유지하지 않는 사람보다 오래 산다는 얘기도 있으니까 꼭 청결을 지키는 사람이 많아졌으면 좋겠습니다.",
+      "paragraph_len": 443,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.666668,
+      21.6,
+      20.333334
+    ],
+    "essay_scoreT_avg": 20.533335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "일단 첫 번째로 손은 비누로 5번, 물로는 3번으로 하루에 8번씩 손을 씻고 있는 중입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 <문법_맞춤법>첫번째로 손은 비누로 5번, 물로는 3번으로 하루에 8번씩 손을 씻고 있는 중 입</문법_맞춤법>니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n하지만 제일 청결하고 깨끗히 씻을 때는 바로 음식을 만들 때 제일 손을 청결히 씻을 때이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n하지만 제일 청결하고 <문법_맞춤법>께끗히 씻을때는 바로 음식을 만들때 제일 손을 청결히 씻을때 이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n세균이 손에 있다면 먹는 사람이 배가 아프거나 머리가 아플 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n세균이 손에 있다면 <문법_맞춤법>먹는사람이 배가 아프거나 머리가 아플수도 </문법_맞춤법>있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그럼으로 꼭! 손을 청결히 해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n그럼으로 꼭! 손을 청결히 <문법_맞춤법>해야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 양치는 원래 3번 해야 하지만 코로나 때문인지 학교에서 양치를 못해서 아침저녁 으로 2번 하고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 양치는 원래 3번 <문법_맞춤법>해야하지만 코로나 때문인지 학교에서 양치를 못해서 아침 저녁으로 2번 하고있</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n요즘같은은 시대일수록 더욱 청결을 유지하고 조심해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>요즘같은 </문법_맞춤법>시대일수록 더욱 청결을 유지하고 조심해야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n청결은 유지하는 사람이 청결을 유지하지 않는 사람보다 오래 산다는 얘기도 있으니까 꼭 청결을 지키는 사람이 많아졌으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n청결은<문법_맞춤법> 유지하는사람이</문법_맞춤법> 청결을 유지하지 않는 사람보다 오래 산다는 얘기도 있으니까 꼭 청결을 지키는 사람이 많아졌으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51035",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 323,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

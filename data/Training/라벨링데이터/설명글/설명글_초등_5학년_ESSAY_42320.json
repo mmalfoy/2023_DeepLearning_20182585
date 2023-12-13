@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에는 엄청나게 다양한 취미 활동이 있어요.#@문장구분#축구, 야구, 농구,그림그리기, 게임 등여러가지 취미 활동들이 있어요.#@문장구분#\n 저의취미는 야구입니다.#@문장구분# 보통야구는 바깟에서 나가서 하지만 저는집에서 합니다.#@문장구분# 어떻게요?#@문장구분# 스펀지공으로요#@문장구분# 스펀지공으로 하면 집에서 깨지거나 할수있는 물건이 없어요.#@문장구분#제가 왜야구가 취미일까요?#@문장구분# 저의 꿈은 야구선수이고, 운동을 좋아하고, 야구에 대해 관심이 많기 때문입니다.#@문장구분# 야구에서 유명한 인물들은 이승엽, 이종범, 양준혁, 김시진, 구대성, 정민철 등 엄청 많은 유명선수 들이 있습니다.#@문장구분# 대전의 야구 유명선수들은 주대성, 정민철, 송진우, 장종훈 등 인물이 있습니다.#@문장구분# 저도 위에 선수들처럼 되고 싶어서 취미로 야구를하고 있는 것 입니다.#@문장구분#",
+      "paragraph_len": 603,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.047619,
+      27.380953,
+      23.085714
+    ],
+    "essay_scoreT_avg": 25.504763,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "축구, 야구,  농구, 그림 그리기게임 등 여러 가지 취미 활동들이 있어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "축구, 야구, <문법_맞춤법>농구,그림그리기, </문법_맞춤법>게임 등여러가지 취미 활동들이 있어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 저의 취미는 야구입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>저의취미는</문법_맞춤법> 야구입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 보통 야구는 바깥에서 나가서 하지만 저는 집에서 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>보통야구는</문법_맞춤법> 바깟에서 나가서 하지만 저는집에서 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스펀지공으로 하면 집에서 깨지거나 할 수 있는 물건이 없어요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 스펀지공으로 하면 집에서 깨지거나<문법_맞춤법> 할수있는</문법_맞춤법> 물건이 없어요.",
+      "sentence_corr_txt_styling": " 스펀지공으로 하면 집에서 깨지거나 할 수 있는 물건이 없어요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 왜 야구가 취미일까요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 <문법_맞춤법>왜야구가</문법_맞춤법> 취미일까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 야구에서 유명한 인물들은 이승엽, 이종범, 양준혁, 김시진, 구대성, 정민철 등 엄청 많은 유명 선수들이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 야구에서 유명한 인물들은 이승엽, 이종범, 양준혁, 김시진, 구대성, 정민철 등 엄청 많은 <문법_맞춤법>유명선수 들이</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대전의 야구 유명 선수들은 주대성, 정민철, 송진우, 장종훈 등 인물이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대전의 야구 <문법_맞춤법>유명선수들은</문법_맞춤법> 주대성, 정민철, 송진우, 장종훈 등 인물이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 위에 선수들처럼 되고 싶어서 취미로 야구를 하고 있는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저도 위에 선수들처럼 되고 싶어서 취미로 <문법_맞춤법>야구를하고</문법_맞춤법> 있는 것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42320",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 364,
+    "essay_main_subject": "나의 취미"
+  }
+}

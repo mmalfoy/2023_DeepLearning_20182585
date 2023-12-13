@@ -1,0 +1,201 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "SNS상의 문제에 대한 제 의견은 우선 실명제를 실행해야 한다는 것과 실명제와 동시에 신고 횟수로 특정 계정을 삭제 조치를 취하는 방법입니다.#@문장구분# 요즘 SNS에서는 악플이나 비방성 댓글 같은 문제 외에도 사칭과 같은 문제가 심각합니다.#@문장구분# 특히 유명인들을 사칭해서 이상한 게시물을 올려서 이미지를 깎아내리거나 자신이 그 사람인 척 하면서 다른 사람들을 속이고 이익을 얻는 사람들이 많습니다. #@문장구분#이런 사칭 문제는 생각보다도 더 심각합니다.#@문장구분# 실명제는 반드시 필수라고 생각하고,SNS에서 이상한 논리를 남발하면서 물을 흐리는 사람들은 격리 조치를 취할 수도 있다고 생각합니다.#@문장구분# 표현의 자유 표현의 자유하기 보다는 차라리 정상적인 사고를 가진 사람들이 진정한 자유를 누릴 수 있도록 이상한 사람들은 삭제 조치를 최하는 것이 옳다고 생각합니다.#@문장구분# 어떤 사람들은 삭제 기준과 신고 기준이 애매하기 때문에 어렵다고 생각할 수 있지만 실제로 유튜브 같은 곳에서는 이미 신고 기능이 있습니다.#@문장구분# 그리고 댓글 삭제 기능을 없애야 사람들이 댓글을 쓰기 전에 좀 더 생각해보고 쓸 수 있을 것이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 706,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.41111,
+      24.177776,
+      18.2
+    ],
+    "essay_scoreT_avg": 22.929628,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "SNS상의 문제에 대한 제 의견은 우선 실명제를 실행해야 한다는 것과 실명제와 동시에 신고 횟수로 특정 계정에 삭제 조치를 취하는 방법입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "SNS상의 문제에 대한 제 의견은 우선 실명제를 실행해야 한다는 것과 실명제와 동시에 신고 횟수로 특정 <문법_조사>계정을</문법_조사> 삭제 조치를 취하는 방법입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 실명제는 반드시 필수라고 생각하고, SNS에서 이상한 논리를 남발하면서 물을 흐리는 사람들은 격리 조치를 취할 수도 있다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 실명제는 반드시 필수라고 <문법_맞춤법>생각하고,SNS에서</문법_맞춤법> 이상한 논리를 남발하면서 물을 흐리는 사람들은 격리 조치를 취할 수도 있다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 표현의 자유 표현의 자유하기 보다는 차라리 정상적인 사고를 가진 사람들이 진정한 자유를 누릴 수 있도록 이상한 사람들은 삭제 조치를 취하는 것이 옳다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 표현의 자유 표현의 자유하기 보다는 차라리 정상적인 사고를 가진 사람들이 진정한 자유를 누릴 수 있도록 이상한 사람들은 삭제 조치를 <문법_맞춤법>최하는</문법_맞춤법> 것이 옳다고 생각합니다.",
+      "sentence_corr_txt_styling": " 표현의 자유 표현의 자유하기 보다는 차라리 정상적인 사고를 가진 사람들이 진정한 자유를 누릴 수 있도록 이상한 사람들은 삭제 조치를 취하는 것이 옳다고 생각합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75770",
+    "essay_prompt": " SNS 서비스는 페이스북과 트위터 등의 폭발적 성장에 따라 관심의 대상으로 부상했습니다.\n\n 하지만, 소통과 여론 조성의 장이 SNS로 옮겨짐에 따라 온라인을 통해 다른 사람을 비판하는 행위 또한 더욱 활발해지고 있습니다. 특히 연예인이나 유명인들이 큰 피해를 받고 있습니다. 특정 인물의 사진이나 개인정보를 도용하는 일도 있습니다.\n\n 한쪽에서는 SNS의 익명성 때문에 이러한 일이 비일비재하게 벌어지고 있다고 주장합니다. 익명성을 없애고 실명제를 도입해야 근본적인 해결을 할 수 있다고 말합니다.\n\n 근거 없는 주장은 아닙니다. 다만 익명성이 보장되기 때문에 자유롭게 소통할 수 있었던 SNS의 장점도 사라지게 될 것입니다.\n\n 여러분은 SNS상의 문제에 대해 어떻게 생각하시나요?\n\n SNS를 시작하는 것 자체가 다른 사람들의 자유로운 의견을 받아들이는 것에 동의한 것이니 피해에 대해서는 본인이 감수해야 한다고 생각하시나요?\n\n 아니면 실명제가 도입을 해야 한다고 생각하시나요?\n\n 혹은 다른 방법이 있다고 생각하시나요?\n\n SNS상의 문제에 대한 본인의 의견을 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 547,
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성"
+  }
+}

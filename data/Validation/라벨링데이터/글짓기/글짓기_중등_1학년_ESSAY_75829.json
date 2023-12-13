@@ -1,0 +1,184 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시의 이름은 바로 스마트 빌리지 혹은 스마트 시티이다.#@문장구분# 이 도시는 많은 로봇들을 만들어 세상을 편하고 안전하게 만든다.#@문장구분# 이렇게 되면 비록 많은 사람들이 자신의 직업을 잃을 수도 있지만 많은 창직을 하여 실업자들에게 좋은 일자리를 제공한다. #@문장구분#스마트시티에는 현재 연구 중인 자율주행 자동차가 거리를 다니고 집에서는 집주인이 잡에서 깨어나 로봇에게 날씨와 아침밥을 만들라고 한다.#@문장구분# 출근시간에 차가 막힐 필요없이 하늘을 나는 자동차를 타고 빠르게 직장에 도착한다.#@문장구분# 하늘을 나는 자동차로 해외여행을 넘어 우주로 가서 외계인과 밥한끼를 한다.#@문장구분# 앞으로 로봇과 외계인들과 소통하는 세계가 될 것이다.#@문장구분#",
+      "paragraph_len": 479,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      20.5,
+      10.25
+    ],
+    "essay_scoreT_avg": 17.449999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.15",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이렇게 되면 비록 많은 사람들이 자신의 직업을 잃을 수도 있지만 많은 창직을 하여 실업자들에게 좋은 일자리를 제공한다. ",
+      "sentence_corr_txt_styling": " 이렇게 되면 비록 많은 사람들이 자신의 직업을 잃을 수도 있지만 많은 창직을 하여 실업자들에게 좋은 일자리를 제공한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하늘을 나는 자동차로 해외여행을 넘어 우주로 가서 외계인과 밥 한 끼를 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하늘을 나는 자동차로 해외여행을 넘어 우주로 가서 외계인과 <문법_맞춤법>밥한끼를</문법_맞춤법> 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75829",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 339,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

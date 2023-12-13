@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 환경을 위해 과학의 발전을 어느 정도 멈처야 된다고 생각 합니다.#@문장구분# 왜냐 하면 사람 한테도 영향을 끼치기 때문 입니다.#@문장구분# 과학의 발전을 멈처야 하는 이유 입니다.#@문장구분# 기후 변화로 인해 북극곰 육지가 가라 앉기 때문 입니다.#@문장구분# 동물과 사람이랑 폐를 끼치기 때문 입니다.#@문장구분# 과학의 발전을 멈처 주세요.#@문장구분# 안그러면 육지가 가라앉기 때문에 사람이랑 동물들이 살기가 힘들어 질것입니다.#@문장구분#과학의 발전을 멈처 주시기 바랍니다.#@문장구분# 동물들도 살아야 합니다. #@문장구분#과학의 발전을 멈추고 육지도 가라앉지 못하고 공기도 오염 되지 않을것 입니다.#@문장구분#",
+      "paragraph_len": 484,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      14.55,
+      16.55
+    ],
+    "essay_scoreT_avg": 18.366667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.10",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 환경을 위해 과학의 발전을 어느 정도 멈춰야 된다고 생각 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 환경을 위해 과학의 발전을 어느 정도 <문법_맞춤법>멈처야</문법_맞춤법> 된다고 생각 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 사람한테도 영향을 끼치기 때문 입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>왜냐 하면 사람 한테도</문법_맞춤법> 영향을 끼치기 때문 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과학의 발전을 멈춰야 하는 이유입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 과학의 발전을 <문법_맞춤법>멈처야 하는 이유 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기후 변화로 인해 육지가 가라앉기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기후 변화로 인해 <문법_맞춤법>북극곰 육지가 가라 앉기 때문 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 동물과 사람이랑 폐를 끼치기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 동물과 사람이랑 폐를 끼치기 <문법_맞춤법>때문 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과학의 발전을 멈춰주세요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 과학의 발전을 <문법_맞춤법>멈처 주세요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안 그러면 육지가 가라앉기 때문에 사람이랑 동물들이 살기가 힘들어질 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>안그러면</문법_맞춤법> 육지가 가라앉기 때문에 사람이랑 동물들이 살기가 힘들어 질것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과학의 발전을 멈춰주시기 바랍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "과학의 발전을 <문법_맞춤법>멈처 주시기</문법_맞춤법> 바랍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "과학의 발전을 멈추면 육지도 가라앉지 않고 공기도 오염되지 않을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "과학의 발전을 <문법_맞춤법>멈추고 육지도 가라앉지 못하고 공기도 오염 되지 않을것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39482",
+    "essay_prompt": " 현대 과학은 나날이 발전해 나아가고 있습니다. 여기서 '현대 과학'이란 지금 여러분들이 사용하고 있는 핸드폰이나 먹는 알약 등을 만들 수 있게 해주는 기술의 기반입니다.\n\n 많은 과학자들이 과학 기술을 연구해서 현대 과학의 수준이 많이 성장했습니다. 여러분이 주변에서 많이 보는 자동차나 일상생활에서 사용하는 생활용품도 대부분 과학기술의 발전으로 탄생했습니다.\n\n 하지만 이러한 과학기술의 발전은 심각한 환경문제를 만들어 지구환경에 심각한 경고를 주고 있습니다. 과학실험을 하기 위해서는 여러 화학적 실험과 쓰레기들이 생겨 환경에 안 좋은 물질들이 생기기 때문입니다.\n\n 과학이 발전하면 편리하고 사회의 많은 문제가 해결되지만 한편으로는 우리가 살고 있는 지구의 환경을 파괴하기도 한 거죠.\n\n 여러분은 과학의 발전이 지금처럼 빠르게 이루어져야 한다고 생각하나요? 아니면 환경을 위협하는 발전은 멈춰야 한다고 생각하나요?\n\n 과학의 발전을 위한 환경 파괴는 어쩔 수 없다고 생각하는지 아니면 환경을 위해 과학의 발전을 멈추어야 한다고 생각하는지 본인의 의견을 작성해주세요. 그리고 그 이유에 대해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 285,
+    "essay_main_subject": "과학의 발전에 대한 본인의 생각"
+  }
+}

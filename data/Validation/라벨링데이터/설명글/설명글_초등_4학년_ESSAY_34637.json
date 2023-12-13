@@ -1,0 +1,322 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 살고싶은 집은 엄청넑고 방은 7개 이고 삼층집이다.#@문장구분# 그리고 층마다 화장실이 있고 1층에는 방이 2개 2층에는 방이2개 3층에는 방이3개이다.#@문장구분# 그리고 집은 단독주택이다.#@문장구분# 그리고 엄마차와 아빠차는 포르쉐고 1층벾색은 하늘색이고 2층벾색은 힌색이고 삼층벾색은 핑크색이다.#@문장구분# 1층은 엄마와아빠방 이고 2층은 오빠방 그리고 삼층은 내방이다.#@문장구분# 오빠방은 펭귄스타일이고 내방은 유니콘스타일이고 엄마와아빠방은 심플한 컨셉이다.#@문장구분# 그리고 강아지는 네마리를 키우고 엄마와아빠방과오빠방 그리고 내방 까지 모든방에는 소파랑티비가있다#@문장구분#. 1층마루에도소파와침대는 있다.#@문장구분# 그리고 1층에는 안방과엄마아빠의 물건을 놓는 방이다.#@문장구분# 그리고 2층에는 오빠방과 오빠의 게임방이 있다.#@문장구분# 그리고 3층에는 내방과 장남감방 그리고 나의 어린이 자동차가 모아져있는 방이다.#@문장구분# 그리고 1층에서 2층까지 2층에서 삼층까지 엘레베이터를 타고갈수있다.#@문장구분#",
+      "paragraph_len": 684,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.666667,
+      20,
+      16.114286
+    ],
+    "essay_scoreT_avg": 16.926985,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 살고 싶은 집은 엄청 넓고 방은 7개 이고 삼층집이면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요",
+        "문맥상 부자연스러움"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "내가 <문법_맞춤법>살고싶은 </문법_맞춤법>집은 엄청넑고 방은 7개 이고 <스타일링_패러프레이징>삼층집이다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": "내가 살고 싶은 집은 엄청 넓고 방은 7개 이고 삼층집이면 좋겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 층마다 화장실이 있고 1층에는 방이 2개 2층에는 방이 2개 3층에는 방이 3개이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 층마다 화장실이 있고 1층에는 방이 2개 2층에는 <문법_맞춤법>방이2개</문법_맞춤법> 3층에는 방이3개이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 엄마 차와 아빠 차는 포르쉐고 1층 벽색은 하늘색이고 2층 벽색은 흰색이고 삼층 벽색은 핑크색이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>엄마차와 아빠차는</문법_맞춤법> 포르쉐고 1층벾색은 하늘색이고 2층벾색은 힌색이고 삼층벾색은 핑크색이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1층은 엄마와 아빠방 이고 2층은 오빠방 그리고 삼층은 내방이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1층은 <문법_맞춤법>엄마와아빠방 </문법_맞춤법>이고 2층은 오빠방 그리고 삼층은 내방이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오빠방은 펭귄 스타일이고 내방은 유니콘 스타일이고 엄마와 아빠방은 심플한 컨셉이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 오빠방은 <문법_맞춤법>펭귄스타일이고 </문법_맞춤법>내방은 유니콘스타일이고 엄마와아빠방은 심플한 컨셉이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 강아지는 네 마리를 키우고 엄마와 아빠방과 오빠방 그리고 내방 까지 모든방에는 소파랑 티비가 있다",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 강아지는 <문법_맞춤법>네마리를 </문법_맞춤법>키우고 엄마와아빠방과오빠방 그리고 내방 까지 모든방에는 소파랑티비가있다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ". 1층 마루에도 소파와 침대는 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>. 1층마루에도소파와침대는 있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 1층에는 안방과 엄마 아빠의 물건을 놓는 방이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 1층에는 <문법_맞춤법>안방과엄마아빠의 </문법_맞춤법>물건을 놓는 방이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 2층에는 오빠 방과 오빠의 게임방이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 2층에는 <문법_맞춤법>오빠방과 </문법_맞춤법>오빠의 게임방이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 1층에서 2층까지 2층에서 삼층까지 엘레베이터를 타고갈 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 1층에서 2층까지 2층에서 삼층까지 엘레베이터를 <문법_맞춤법>타고갈수있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_34637",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 445,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

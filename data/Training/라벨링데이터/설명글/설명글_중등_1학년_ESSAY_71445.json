@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 항상 물건을 어딘가에 들고 가면 잃어버리는 습관이 있었습니다.#@문장구분# 지금 생각해보면 주의력이 부족했던 것 같지만, 당시에는 제 습관으로 인해 저는 꽤나 피해를 봤었고, 습관을 고치기 위해 심각하게 고민하고 노력했습니다.#@문장구분# 우선 저는 낯선 장소에 가면 정말 자주 물건을 잃어버렸습니다.#@문장구분# 제가 평소에 잘 아는 곳이 아니었을 뿐만 아니라 주로 사람이 많은 곳이 낯설었기 때문에 잠시 앉았다 일어나는 그 사이에 정말 물건을 많이 잃어버렸습니다.#@문장구분# 간혹 누군가가 물건을 가져갔던 때도 있었지만, 대부분은 제가 어딘가에 제 물건을 놓고 온 것입니다.#@문장구분#이렇게 물건을 소중히 여기지 않는다며 부모님께 꾸지람을 많이 들었습니다.#@문장구분# 그러다가 제 좋지 않은 습관을 알고 있던 친구가 항상 물건을 넣어 다니라고 손목과 연결할 수 있는 고리가 있는 작은 가방을 주었습니다.#@문장구분# 친구의 말대로 가방에 물건을 담아 다니니 정말 그 이후로는 물건을 잘 잃어버리지 않았습니다.#@문장구분#",
+      "paragraph_len": 627,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.75,
+      23.3,
+      16.4
+    ],
+    "essay_scoreT_avg": 22.483332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 지금 생각해 보면 주의력이 부족했던 것 같지만, 당시에는 제 습관으로 인해 저는 꽤나 피해를 봤었고, 습관을 고치기 위해 심각하게 고민하고 노력했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금 <문법_맞춤법>생각해보면</문법_맞춤법> 주의력이 부족했던 것 같지만, 당시에는 제 습관으로 인해 저는 꽤나 피해를 봤었고, 습관을 고치기 위해 심각하게 고민하고 노력했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71445",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 467,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

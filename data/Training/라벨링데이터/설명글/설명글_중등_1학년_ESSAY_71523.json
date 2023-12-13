@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사람들은 모두 자신만의 좋지 않은 습관을 가지고 있게 마련입니다.#@문장구분#저 역시도 이러한 습관을 가지고 있었습니다.#@문장구분#저는 아침마다 늦게 일어나는 것이 최대의 약점이었습니다.#@문장구분#지각을 정말 많이 했고,선생님께서 그렇게 자주 지각할 거면 차라리 학교에서 자고 일어나는 게 낫겠다고 말씀하시면서 웃으실 정도로 지각이 잦았습니다.#@문장구분#이것을 고치기 위해 저는 전날 일찍 자는 것도 해보고,전날 전자기기를 안하기도 해보았지만 저에게 가장 효과적이었던 것은 자기 전에 물을 많이 마시고 자는 것이었습니다.#@문장구분#물을 많이 마시니 아침에 저절로 몸이 일으켜서 화장실에 가야했고,일어나면 샤워를 하자는 약속을 지켜서 습관을 고칠 수 있었습니다.#@문장구분#인간의 기본 욕구는 강합니다.#@문장구분#인간의 기본 욕구를 잘 활용해서 오히려 그것보다 약한 욕구에 기반한 습관을 고칠 수 있습니다.#@문장구분#",
+      "paragraph_len": 566,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.75,
+      24.3,
+      16.55
+    ],
+    "essay_scoreT_avg": 22.533333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "지각을 정말 많이 했고, 선생님께서 그렇게 자주 지각할 거면 차라리 학교에서 자고 일어나는 게 낫겠다고 말씀하시면서 웃으실 정도로 지각이 잦았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지각을 정말 많이 <문법_맞춤법>했고,선생님</문법_맞춤법>께서 그렇게 자주 지각할 거면 차라리 학교에서 자고 일어나는 게 낫겠다고 말씀하시면서 웃으실 정도로 지각이 잦았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이것을 고치기 위해 저는 전날 일찍 자는 것도 해보고, 전날 전자기기를 안 하기도 해보았지만 저에게 가장 효과적이었던 것은 자기 전에 물을 많이 마시고 자는 것이었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이것을 고치기 위해 저는 전날 일찍 자는 것도 <문법_맞춤법>해보고,전날</문법_맞춤법> 전자기기를 안하기도 해보았지만 저에게 가장 효과적이었던 것은 자기 전에 물을 많이 마시고 자는 것이었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물을 많이 마시니 아침에 저절로 몸이 일으켜서 화장실에 가야했고, 일어나면 샤워를 하자는 약속을 지켜서 습관을 고칠 수 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "물을 많이 마시니 아침에 저절로 몸이 일으켜서 화장실에 <문법_맞춤법>가야했고,일어나면</문법_맞춤법> 샤워를 하자는 약속을 지켜서 습관을 고칠 수 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71523",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 406,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

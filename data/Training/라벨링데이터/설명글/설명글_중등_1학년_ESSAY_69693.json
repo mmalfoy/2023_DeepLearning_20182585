@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 지금까지 많은 스승들을 만나왔다.#@문장구분# 최고로 기억되는 스승들이 있는가 하면, 최악으로 기억되는 스승들도 있다.#@문장구분# 최고의 스승으로 기억되는 스승들은 어떤 면을 가지고 있는지 한번 생각해 보았다.#@문장구분# 우선, 자신이 맡은 바에서 최선을 다했던 것 같다.#@문장구분# 학생들은 스승을 통해서 많은 것을 배운다.#@문장구분# 자신이 맡은바에서 최선을 다하는 모습을 스승이 보여 준다면, 학생들은 스승의 그런 모습을 본받아 따라할 것이다.#@문장구분# 그리고 항상 학생을 생각하는 마음을 지녔었다.#@문장구분# 스승은 결국, 학생과 소통을 해야하는 사람이다.#@문장구분# 그런 사람이 학생을 생각하지 않는다면?#@문장구분# 학생과의 소통이 잘 이루어지지 않을 것이다.#@문장구분# 하지만, 항상 학생을 생각하는 마음을 지는 스승이라면 학생들과의 소통이 활발해질 것이다.#@문장구분# 이 두가지 요소를 갖춘다면, 참된 스승이 될 수 있을 것이라고 생각한다.#@문장구분#",
+      "paragraph_len": 654,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.15,
+      24.3,
+      10
+    ],
+    "essay_scoreT_avg": 17.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 자신이 맡은 바에서 최선을 다하는 모습을 스승이 보여 준다면, 학생들은 스승의 그런 모습을 본 받아 따라 할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자신이 <문법_맞춤법>맡은바에서 </문법_맞춤법>최선을 다하는 모습을 스승이 보여 준다면, 학생들은 스승의 그런 모습을 본받아 따라할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승은 결국, 학생과 소통을 해야 하는 사람이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스승은 결국, 학생과 소통을 <문법_맞춤법>해야하는 </문법_맞춤법>사람이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 두 가지 요소를 갖춘다면, 참된 스승이 될 수 있을 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 <문법_맞춤법>두가지</문법_맞춤법> 요소를 갖춘다면, 참된 스승이 될 수 있을 것이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69693",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 414,
+    "essay_main_subject": "참된 스승"
+  }
+}

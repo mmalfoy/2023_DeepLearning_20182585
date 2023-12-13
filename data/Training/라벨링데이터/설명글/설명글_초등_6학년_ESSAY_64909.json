@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 존경하는 위인은 세종대왕님 입니다. #@문장구분#일단 한글을 만드셔서 이렇게 쉽게 말을 할수있어서 매우좋고 쓰기에도 영어나 일본어 등과는 다르게 지금처럼 쉽고 간편하게 글쓰기에도 좋아서 진짜 편리하기 때문에 세종대왕님을 존경하고 농사직설도 만드셔서 백성들이 농사짓기도 쉬워졌습니다. #@문장구분#그리고 앙부일구(해시계)나 자격루(물시계)까지 발명하셔서 백성들이 시간을 알기도 쉬워지고 정간보처럼 음악에 관한업적까지 여러분야에서 대단한 업적을 남기고 가셔서 저는 정말 대단하신 분이라고 생각해서 세종대왕님을 존경하게 되었습니다. #@문장구분#세종대왕님의 업적은 거의 다 나왔지만 아직 숨겨진 업적들이 더 발견 됫으면 좋겠고 저도 된다면 앙부일구나 자격루도 실물로 봐보고 싶네요. #@문장구분#아무튼 이러한 이유들 때문에 세종대왕님을 존경하게 됬다고 써봤습니다.#@문장구분#",
+      "paragraph_len": 499,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      21.75,
+      17.75
+    ],
+    "essay_scoreT_avg": 21.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 존경하는 위인은 세종대왕님입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 존경하는 위인은 세종대왕<문법_맞춤법>님 입니</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 한글을 만드셔서 이렇게 쉽게 말을 할 수 있어서 매우 좋고 쓰기에도 영어나 일본어 등과는 다르게 지금처럼 쉽고 간편하게 글쓰기에도 좋아서 진짜 편리하기 때문에 세종대왕님을 존경하고 농사직설도 만드셔서 백성들이 농사짓기도 쉬워졌습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 한글을 만드셔서 이렇게 쉽게 말을 <문법_맞춤법>할수있어서 매우좋고</문법_맞춤법> 쓰기에도 영어나 일본어 등과는 다르게 지금처럼 쉽고 간편하게 글쓰기에도 좋아서 진짜 편리하기 때문에 세종대왕님을 존경하고 농사직설도 만드셔서 백성들이 농사짓기도 쉬워졌습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 앙부일구(해 시계)나 자격루(물시계)까지 발명하셔서 백성들이 시간을 알기도 쉬워지고 정간보처럼 음악에 관한 업적까지 여러 분야에서 대단한 업적을 남기고 가셔서 저는 정말 대단하신 분이라고 생각해서 세종대왕님을 존경하게 되었습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 앙부일구(<문법_맞춤법>해시계</문법_맞춤법>)나 자격루(물시계)까지 발명하셔서 백성들이 시간을 알기도 쉬워지고 정간보처럼 음악에 관한업적까지 여러분야에서 대단한 업적을 남기고 가셔서 저는 정말 대단하신 분이라고 생각해서 세종대왕님을 존경하게 되었습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "세종대왕님의 업적은 거의 다 나왔지만 아직 숨겨진 업적들이 더 발견됐으면 좋겠고 저도 된다면 앙부일구나 자격루도 실물로 봐보고 싶네요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "세종대왕님의 업적은 거의 다 나왔지만 아직 숨겨진 업적들이 더 발<문법_맞춤법>견 됫으</문법_맞춤법>면 좋겠고 저도 된다면 앙부일구나 자격루도 실물로 봐보고 싶네요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아무튼 이러한 이유들 때문에 세종대왕님을 존경하게 됐다고 써봤습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아무튼 이러한 이유들 때문에 세종대왕님을 존경하게 <문법_맞춤법>됬다고 </문법_맞춤법>써봤습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64909",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 400,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

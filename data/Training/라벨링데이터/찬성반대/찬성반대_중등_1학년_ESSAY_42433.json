@@ -1,0 +1,254 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 모든 학생에게 모든 교육을 제공한다는 것에 반대합니다.#@문장구분# 그 이유는.#@문장구분#\n 첫째, 공교육과 사교육을 받을 수 있는 사람들이 세금을 더 많이내야합니다.#@문장구분# 세금은 국가가 국가 운영에 필요한 경비를 법률에 따라 국민이 부담하는 것 인데 모든 학생에 모든 교육을 제공하려면 국가에서 돈이 많이 드니 그만큼 국민들이 세금을 더 많이 내야합니다.#@문장구분# 그렇게 되면 세금을 내지 못할 형편의 사람은 안내고 형편이 되는 사람은 더 내게 되어 오히려 또다른 불평등을 만들어 낼 수 있습니다.#@문장구분#\n 둘째, 우리나라가 사회주의, 공산주의로 변하게 됩니다.#@문장구분# 여기서 사회주의와 공산주의는 사람이나사회를 평등하게 한다는 것에서 비슷하다.#@문장구분# 세금을 많이 받아가면 정부에서 비효율적으로 사용할 가능성도 높아집니다.#@문장구분# 저는 조사 할 시간이 많지 않아서 2가지 밖에 쓰지 못하였지만 대한민국에 없앨 수 있는 차별은 빨리 사라졌으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 625,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.966667,
+      25.51111,
+      21.2
+    ],
+    "essay_scoreT_avg": 23.225927,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 이유는",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 <문법_맞춤법>이유는.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫째, 공교육과 사교육을 받을 수 있는 사람들이 세금을 더 많이 내야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 첫째, 공교육과 사교육을 받을 수 있는 사람들이 세금을 더 <문법_맞춤법>많이내야합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 세금은 국가가 국가 운영에 필요한 경비를 법률에 따라 국민이 부담하는 것 인데 모든 학생에 모든 교육을 제공하려면 국가에서 돈이 많이 드니 그만큼 국민들이 세금을 더 많이 내야합니다.",
+      "sentence_corr_txt_styling": " 세금은 국가가 국가 운영에 필요한 경비를 법률에 따라 국민이 부담하는 것 인데 모든 학생에 모든 교육을 제공하려면 국가에서 돈이 많이 드니 그만큼 국민들이 세금을 더 많이 내야합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 되면 세금을 내지 못할 형편의 사람은 안 내고 형편이 되는 사람은 더 내게 되어 오히려 또 다른 불평등을 만들어 낼 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 되면 세금을 내지 못할 형편의 사람은 <문법_맞춤법>안내고</문법_맞춤법> 형편이 되는 사람은 더 내게 되어 오히려 또다른 불평등을 만들어 낼 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여기서 사회주의와 공산주의는 사람이나 사회를 평등하게 한다는 것에서 비슷합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 여기서 사회주의와 공산주의는 <문법_맞춤법>사람이나사회를</문법_맞춤법> 평등하게 한다는 것에서 <문법_높임법>비슷하다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 조사할 시간이 많지 않아서 2가지 밖에 쓰지 못하였지만 대한민국에 없앨 수 있는 차별은 빨리 사라졌으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>조사 할</문법_맞춤법> 시간이 많지 않아서 2가지 밖에 쓰지 못하였지만 대한민국에 없앨 수 있는 차별은 빨리 사라졌으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42433",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 446,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 숲 속에서 집을 짓고 살고 싶습니다.#@문장구분# 아침에 일어나면 상쾌한 풀 냄새를 맡으면서 깨고, 새벽에 맺힌 이슬에 비치는 햇빛을 보면서 아침을 먹는 그런 삶을 살고싶습니다.#@문장구분# 집은 편안하고, 여유롭고, 자연스럽다가도, 가끔씩 지나가는 새들과 인사하고 귀여운 딱정벌레와 함께 살아가고싶습니다.#@문장구분# 저는 피부가 약해서 서울의 탁한 공기는 제 피부를 많이 상하게 합니다.#@문장구분# 항상 연고를 발라줘야하고, 피부과에 가서 따가운 치료를 받아야하는 것에 너무 지쳤습니다.#@문장구분# 저는 자연 속에서 상쾌한 공기를 마시면서 깨끗하게 살고싶습니다.#@문장구분#",
+      "paragraph_len": 406,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.714287,
+      24.4,
+      20.466667
+    ],
+    "essay_scoreT_avg": 22.86032,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.07",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 아침에 일어나면 상쾌한 풀 냄새를 맡으면서 깨고, 새벽에 맺힌 이슬에 비치는 햇빛을 보면서 아침을 먹는 그런 삶을 살고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아침에 일어나면 상쾌한 풀 냄새를 맡으면서 깨고, 새벽에 맺힌 이슬에 비치는 햇빛을 보면서 아침을 먹는 그런 삶을 <문법_맞춤법>살고싶습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집은 편안하고, 여유롭고, 자연스럽다가도, 가끔씩 지나가는 새들과 인사하고 귀여운 딱정벌레와 함께 살아가고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집은 편안하고, 여유롭고, 자연스럽다가도, 가끔씩 지나가는 새들과 인사하고 귀여운 딱정벌레와 함께 <문법_맞춤법>살아가고싶습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 항상 연고를 발라줘야 하고, 피부과에 가서 따가운 치료를 받아야 하는 것에 너무 지쳤습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 항상 연고를 <문법_맞춤법>발라줘야하고</문법_맞춤법>, 피부과에 가서 따가운 치료를 받아야하는 것에 너무 지쳤습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 자연 속에서 상쾌한 공기를 마시면서 깨끗하게 살고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 자연 속에서 상쾌한 공기를 마시면서 깨끗하게 <문법_맞춤법>살고싶습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_57167",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 287,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

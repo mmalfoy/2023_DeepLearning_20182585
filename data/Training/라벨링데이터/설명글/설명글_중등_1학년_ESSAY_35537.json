@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 참된 스승은 선생님이신 것 같다.#@문장구분# 왜냐하면 선생님이 되려면 힘든 과정을 걸치고 걸쳐서 선생님이 되기 때문이다.#@문장구분# 물론 스승만할 선생님만이 있는 것은 아니다.#@문장구분# 두번째는 부모님이다.#@문장구분# 부모님은 먼저 자식이란 책임감이 있어야 하는데 많은 부모님께서는 거의 다 책임감이 있기 때문입니다.#@문장구분# 또, 자식들을 먹여 키우려면 정말 많은 돈이 필요한데 대부분 부모님께서는 자식을 위해서 많은 돈과 시간 등등을 투자 해주시기 때문이다.#@문장구분# 그리고 그 자식을 정말 아끼고 사랑해 주신다.#@문장구분# 난 이 점이 정말 참된 스승이라고 생각한다!#@문장구분# 세번째는 내가 좋아하는 분야의 전문가 이다.#@문장구분# 예를 들어서 내가 게임을 정말 좋아하는데, 그 게임의 전문가인 프로게이머가 나 자신의 스승이 될 수 있는 것처럼 각자 좋아하는 분야에 전문가가 스승이 될 수 있다.#@문장구분# 그리고 나는 스승 같이 내가 누굴 알려준 적이 있다.#@문장구분# 내가 아는 동생이나 친구, 아는 형 누나들한테 내가 게임을 알려준 적이 있다.#@문장구분# 그때는 정말 내가 알고있는 것을 모두 쏟아부어서 알려주었다.#@문장구분# 나중에는 실력이 좋아져서 뿌듯했던 적이 몇번 있었다.#@문장구분#",
+      "paragraph_len": 824,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      20,
+      17.6
+    ],
+    "essay_scoreT_avg": 20.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 선생님이 되려면 힘든 과정을 거치고 거쳐서  선생님이 되기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 선생님이 되려면 힘든 과정을 <문법_맞춤법>걸치고 걸쳐서</문법_맞춤법> 선생님이 되기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 스승만 할 선생님만이 있는 것은 아니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 <문법_맞춤법>스승만할</문법_맞춤법> 선생님만이 있는 것은 아니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님은 먼저 자식에게 책임감을 가져야 하는데  많은 부모님께서는 거의 다 책임감이 있기 때문이다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": " 부모님은 먼저 <문법_조사>자식이란</문법_조사> <스타일링_담화 맥락 오류>책임감이 있어야 하는데</스타일링_담화 맥락 오류> 많은 부모님께서는 거의 다 책임감이 있기 <문법_어미>때문입니다.</문법_어미>",
+      "sentence_corr_txt_styling": " 부모님은 먼저 자식에게 책임감을 가져야 하는데  많은 부모님께서는 거의 다 책임감이 있기 때문이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또, 자식들을 먹여 키우려면 정말 많은 돈이 필요한데 대부분 부모님께서는 자식을 위해서 많은 돈과 시간 등등을 투자해 주시기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또, 자식들을 먹여 키우려면 정말 많은 돈이 필요한데 대부분 부모님께서는 자식을 위해서 많은 돈과 시간 등등을 <문법_맞춤법>투자 해주시기</문법_맞춤법> 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째는 내가 좋아하는 분야의 전문가이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째는</문법_맞춤법> 내가 좋아하는 분야의 전문가 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어서 내가 게임을 정말 좋아하는데, 그 게임의 전문가인 프로게이머가 나 자신의 스승이 될 수 있는 것처럼 각자 좋아하는 분야의 전문가가 스승이 될 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 예를 들어서 내가 게임을 정말 좋아하는데, 그 게임의 전문가인 프로게이머가 나 자신의 스승이 될 수 있는 것처럼 각자 좋아하는 <문법_조사>분야에</문법_조사> 전문가가 스승이 될 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 나는 <스타일링_담화 맥락 오류>스승 같이</스타일링_담화 맥락 오류> 내가 누굴 알려준 적이 있다.",
+      "sentence_corr_txt_styling": " 그리고 나는 스승이 하는 것처럼 내가 누굴 알려준 적이 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나중에는 실력이 좋아져서 뿌듯했던 적이 몇 번 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나중에는 실력이 좋아져서 뿌듯했던 적이 <문법_맞춤법>몇번</문법_맞춤법> 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35537",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 544,
+    "essay_main_subject": "참된 스승"
+  }
+}

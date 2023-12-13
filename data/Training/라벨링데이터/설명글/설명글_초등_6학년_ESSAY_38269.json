@@ -1,0 +1,291 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 세상에서 가장 존경하는 우리 부모님입니다.#@문장구분# 왜냐하면 항상 집안일을 힘들게 하시고 항상 제가 좋아하는 음식을 매일 해주시고 항상 제편이시고, 아플때 절 잘 챙겨주시고 열심히 돈을 벌어오시는 부모님을 매우 사랑하고 존경합니다.#@문장구분# 저도 어른이 되서 아이를 키우겠지만 저도 꼭 우리 부모님처럼 잘 키울것입니다.#@문장구분# 때론 잔소리와 짜증을 내시지만 전 다 이해합니다. #@문장구분#왜냐하면 제가 잘 되라고 하시는것이고 짜증은 저도 많이내고 부모님은 그러한 사정이 있으실수도 있기 때문에 짜증을 내는것이라고 이해하기때문에 잔소리는 나쁜것이 아니라고 생각합니다. #@문장구분#부모님은 열심히 절 키우시고 힘들게 절 낳으시고 이러한 부분에 저는 얼마나 힘드실까? 라고 생각하는 경우가 많이 있습니다. #@문장구분#저는 앞으로 부모님께 지금보다 더 잘해드릴것이고 자주 존경하는 딸이 될것입니다.#@문장구분# 부모님 사랑하고 존경합니다.#@문장구분# 엄마아빠 최고!#@문장구분#",
+      "paragraph_len": 618,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      27.75,
+      22.4
+    ],
+    "essay_scoreT_avg": 26.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "저는 세상에서 가장 존경하는 우리 부모님입니다.",
+      "sentence_corr_txt_styling": "저는 세상에서 가장 존경하는 우리 부모님입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 항상 집안일을 힘들게 하시고, 항상 제가 좋아하는 음식을 매일 해 주시고, 항상 제 편이시고, 아플 때 절 잘 챙겨 주시고, 열심히 돈을 벌어 오시는 부모님을 매우 사랑하고 존경합니다.",
+      "sentence_corr_reason": [
+        "쉼표가 필요합니다.",
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 항상 집안일을 힘들게 <문법_기타>하시고</문법_기타> 항상 제가 좋아하는 음식을 매일 <문법_맞춤법>해주시고</문법_맞춤법> 항상 제편이시고, 아플때 절 잘 챙겨주시고 열심히 돈을 벌어오시는 부모님을 매우 사랑하고 존경합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 어른이 돼서 아이를 키우겠지만 저도 꼭 우리 부모님처럼 잘 키울 것입니다.",
+      "sentence_corr_reason": [
+        "'돼서'가 옳은 표현입니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 저도 어른이 <문법_맞춤법>되서</문법_맞춤법> 아이를 키우겠지만 저도 꼭 우리 부모님처럼 잘 키울것입니다.",
+      "sentence_corr_txt_styling": " 저도 어른이 돼서 아이를 키우겠지만 저도 꼭 우리 부모님처럼 잘 키울 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 때론 잔소리와 짜증을 내시지만 전 다 이해합니다. ",
+      "sentence_corr_txt_styling": " 때론 잔소리와 짜증을 내시지만 전 다 이해합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 제가 잘되라고 하시는 것이고 짜증은 저도 많이 내고 부모님은 그러한 사정이 있으실 수도 있기 때문에 짜증을 내는 것이라고 이해하기 때문에 잔소리는 나쁜 것이 아니라고 생각합니다. ",
+      "sentence_corr_reason": [
+        "붙여 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "왜냐하면 제가 <문법_맞춤법>잘 되라고</문법_맞춤법> 하시는것이고 짜증은 저도 많이내고 부모님은 그러한 사정이 있으실수도 있기 때문에 짜증을 내는것이라고 이해하기때문에 잔소리는 나쁜것이 아니라고 생각합니다. ",
+      "sentence_corr_txt_styling": "왜냐하면 제가 잘되라고 하시는 것이고 짜증은 저도 많이 내고 부모님은 그러한 사정이 있으실 수도 있기 때문에 짜증을 내는 것이라고 이해하기 때문에 잔소리는 나쁜 것이 아니라고 생각합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "부모님은 열심히 절 키우시고 힘들게 절 낳으시고 이러한 부분에 저는 '얼마나 힘드실까?'라고 생각하는 경우가 많이 있습니다. ",
+      "sentence_corr_reason": [
+        "따옴표가 필요합니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "부모님은 열심히 절 키우시고 힘들게 절 낳으시고 이러한 부분에 저는 <문법_기타>얼마나 힘드실까? 라고</문법_기타> 생각하는 경우가 많이 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 앞으로 부모님께 지금보다 더 잘해 드릴 것이고 자주 존경하는 딸이 될 것입니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "저는 앞으로 부모님께 지금보다 더 <문법_맞춤법>잘해드릴것이고</문법_맞춤법> 자주 존경하는 딸이 될것입니다.",
+      "sentence_corr_txt_styling": "저는 앞으로 부모님께 지금보다 더 잘해 드릴 것이고 자주 존경하는 딸이 될 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마 아빠 최고!",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>엄마아빠</문법_맞춤법> 최고!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38269",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 439,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

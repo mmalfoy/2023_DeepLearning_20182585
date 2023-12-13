@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교내 폭력이 점점 더 심해지고 있고 피해학생 연령대가 점점 낮아지고 있다니 더 적극적이고 강한 규제나 처벌법이 꼭 있어야 된다고 생각합니다.#@문장구분# 부모님 입장에서는 학교에 보내는 이유가 더 좋은 교육과 훈련을 받게 하기 위해 학교를 보낼텐데, 그런학교가 더 위험한 곳이 된다면 얼마나 불안할까요#@문장구분# 잘 어울리고 대처를 잘하는 아이들이라면 문제가 안되겠지만, 너무 순진하고 빠른 대응을 못하는 아이들이라면 학교에 가는것이 불편할 것입니다.#@문장구분# 직접적인 폭력외에도 사이버나 언어폭력 또한 많아진다고 하니, 적극적인 대책이 꼭 필요하다고 봅니다.#@문장구분# 친구끼리 서로 조를 만들어서 함께 모임을 갖거나 서로의 상태를 교류한다든지, 서로 연결해 놓는다면 한사람만 따로 왕따 당하는일이 없을 것이고 또 그 연결이 선생님과도 연결되게 하고 경찰과도 연결되게 해 놓는다면, 그런 위험으로 부터 헤어나올수 있지 않을까 생각합니다.#@문장구분# 요즘은 핸드폰, 사이버로 다 연결이 되어있으니 가능 하다고 봅니다.",
+      "paragraph_len": 584,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.3,
+      26.11111,
+      26.4
+    ],
+    "essay_scoreT_avg": 25.603704,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교 내 폭력이 점점 더 심해지고 있고 피해 학생 연령대가 점점 낮아지고 있다니 더 적극적이고 강한 규제나 처벌 법이 꼭 있어야 된다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>학교내 </문법_맞춤법>폭력이 점점 더 심해지고 있고 피해학생 연령대가 점점 낮아지고 있다니 더 적극적이고 강한 규제나 처벌법이 꼭 있어야 된다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님 입장에서는 학교에 보내는 이유가 더 좋은 교육과 훈련을 받게 하기 위해 학교를 보낼 텐데, 그런 학교가 더 위험한 곳이 된다면 얼마나 불안할까요",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모님 입장에서는 학교에 보내는 이유가 더 좋은 교육과 훈련을 받게 하기 위해 학교를 <문법_맞춤법>보낼텐데, 그런학교가</문법_맞춤법> 더 위험한 곳이 된다면 얼마나 불안할까요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 잘 어울리고 대처를 잘하는 아이들이라면 문제가 안되겠지만, 너무 순진하고 빠른 대응을 못하는 아이들이라면 학교에 가는 것이 불편할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 잘 어울리고 대처를 잘하는 아이들이라면 문제가 안되겠지만, 너무 순진하고 빠른 대응을 못하는 아이들이라면 학교에 <문법_맞춤법>가는것이 </문법_맞춤법>불편할 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 직접적인 폭력 외에도 사이버나 언어폭력 또한 많아진다고 하니, 적극적인 대책이 꼭 필요하다고 봅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 직접적인 <문법_맞춤법>폭력외에도 </문법_맞춤법>사이버나 언어폭력 또한 많아진다고 하니, 적극적인 대책이 꼭 필요하다고 봅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구끼리 서로 조를 만들어서 함께 모임을 갖거나 서로의 상태를 교류한다든지, 서로 연결해 놓는다면 한 사람만 따로 왕따 당하는 일이 없을 것이고 또 그 연결이 선생님과도 연결되게 하고 경찰과도 연결되게 해 놓는다면, 그런 위험으로부터 헤어 나올 수 있지 않을까 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구끼리 서로 조를 만들어서 함께 모임을 갖거나 서로의 상태를 교류한다든지, 서로 연결해 놓는다면 <문법_맞춤법>한사람만 </문법_맞춤법>따로 왕따 당하는일이 없을 것이고 또 그 연결이 선생님과도 연결되게 하고 경찰과도 연결되게 해 놓는다면, 그런 위험으로 부터 헤어나올수 있지 않을까 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘은 핸드폰, 사이버로 다 연결이 되어있으니 가능하다고 봅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘은 핸드폰, 사이버로 다 연결이 되어있으니 <문법_맞춤법>가능 하</문법_맞춤법>다고 봅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64701",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 485,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

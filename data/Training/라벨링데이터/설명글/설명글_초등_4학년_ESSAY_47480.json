@@ -1,0 +1,286 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어제 집으로 갈려고 아파트문 열고 엘레베이터 버튼? 그거 눌렀는데 뒤에서 어떤 사람이 문 몬열어서 열어드렸다.#@문장구분# 그 사람이 고맙다고 했는데 너무 어색해서 아무 말도 몬했다.#@문장구분# 근데 아파트 문 열어주는 일은 흔한 일 이다.#@문장구분# 언제 할아버지 였나 할머니 였나 짐든 노인이였는데 수레?에다가 박스 작하게 됀거라 해야돼나 수레에 박스 올려져 있었는데도와드릴까? 하다가 못 했다.#@문장구분# 어떻게 도와드릴지 몰르겠다.#@문장구분# 내가 집에 있는걸 좋아해서 밖에 잘 안 나간다.#@문장구분# 그러다 보내 내가 살는 곳을 잘 몰른다. #@문장구분#그래서 뭐 어떻해 해야 할지 몰르 겠다.#@문장구분#",
+      "paragraph_len": 453,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.952381,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.314285,
+      19.714287,
+      30
+    ],
+    "essay_scoreT_avg": 23.676191,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 선행",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "어제 집으로 갈려고 아파트 문 열고 엘리베이터 버튼? 그거 눌렀는데 뒤에서 어떤 사람이 문 못 열어서 열어드렸다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "어제 집으로 갈려고 아파트문 열고 <문법_맞춤법>엘레베이터 </문법_맞춤법>버튼? 그거 눌렀는데 뒤에서 어떤 사람이 문 몬열어서 열어드렸다.",
+      "sentence_corr_txt_styling": "어제 집으로 갈려고 아파트 문 열고 엘리베이터 버튼? 그거 눌렀는데 뒤에서 어떤 사람이 문 못 열어서 열어드렸다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 사람이 고맙다고 했는데 너무 어색해서 아무 말도 못 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 사람이 고맙다고 했는데 너무 어색해서 아무 말도 <문법_맞춤법>몬했다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 아파트 문 열어주는 일은 흔한 일이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 아파트 문 열어주는 일은 흔한 <문법_맞춤법>일 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 언제 할아버지였나 할머니였나 짐든 노인이었는데 수레?에다가 박스 작하게 된 거라 해야 되나 수레에 박스 올려져 있었는데 도와드릴까? 하다가 못 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 언제 <문법_맞춤법>할아버지 였나</문법_맞춤법> 할머니 였나 짐든 <문법_어미>노인이였는데 </문법_어미>수레?에다가 박스 작하게 됀거라 해야돼나 수레에 박스 올려져 있었는데도와드릴까? 하다가 못 했다.",
+      "sentence_corr_txt_styling": " 언제 할아버지였나 할머니였나 짐든 노인이었는데 수레?에다가 박스 작하게 된 거라 해야 되나 수레에 박스 올려져 있었는데 도와드릴까? 하다가 못 했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어떻게 도와드릴지 모르겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어떻게 도와드릴지 <문법_맞춤법>몰르겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 집에 있는 걸 좋아해서 밖에 잘 안 나간다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 집에 <문법_맞춤법>있는걸 </문법_맞춤법>좋아해서 밖에 잘 안 나간다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러다 보니 내가 사는 곳을 잘 모른다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러다 <문법_맞춤법>보내 </문법_맞춤법>내가 살는 곳을 잘 몰른다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 뭐 어떻게 해야 할지 모르겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 뭐 <문법_맞춤법>어떻해 </문법_맞춤법>해야 할지 몰르 겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47480",
+    "essay_prompt": " 우리 주변에는 선행으로 다른 사람들에게 모범을 보이는 이웃들이 많이 있습니다. 여기서 선행은 착한 행동과 착한 마음을 의미해요.\n\n 무거운 짐을 나르는 할머니를 도와드리는 착한 학생, 도망치는 소매치기를 같이 잡아주는 멋진 대학생, 서비스를 많이 주시는 떡볶이집 사장님같이 착한 행동을 기반으로 누군가에게 도움과 행복을 주지요.\n\n 이처럼 나의 착한 마음이 다른 사람에게 큰 기쁨을 줄 수도 있습니다. 여러분도 착한 행동을 한 경험이 있나요? 어떤 선행을 했었는지 자신의 경험을 적고 그때 느꼈던 감정도 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 293,
+    "essay_main_subject": "나의 선행"
+  }
+}

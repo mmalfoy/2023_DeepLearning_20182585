@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 다름 사람을 생각하지 않고 나만 생각하는 나쁜 버릇을 어려서부터 가지고 있었습니다.#@문장구분# 그래서 친구들의 이야기를 잘 들어주지 않을 때도 있었고 가족들이나 친구들에게 상처를 줬을 때도 많았습니다.#@문장구분# 그래서 이러한 부분을 꼭 고쳐야 겠다는 생각을 했습니다.#@문장구분# 그래서 이것을 고치기 위해서 어떻게 해야할까 여러 고민을 했습니다.#@문장구분# 지금까지 그렇게 했기 때문에 해결하기가 어려웠습니다.#@문장구분# 그래서 세 살 버릇이 여든까지 간다는 속담이 있다는 것을 깨닫게 되었습니다.#@문장구분# 저의 이런 나쁜 습관을 고치기 위해서는 가족의 도움이 가장 컸습니다.#@문장구분# 가족들과 매일 대화하고 저의 이런 버릇에 대해서 이야기 해보다보니까 계속 대화를 하면 조금 나아진다는 것을 알게 되었습니다.#@문장구분# 그래서 이야기를 할 때도 그렇게 말하지 않도록 신경을 쓰고 다른 사람의 이야기를 들어주려고 열심히 노력했습니다.#@문장구분# 그렇게 했더니 제 나쁜 버릇을 고칠 수 있었고 선생님이 칭찬을 해주셔서 기분이 좋았습니다.#@문장구분# 다른 친구들도 자기의 나쁜 버릇을 고쳤으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 726,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.75,
+      20.25,
+      21.3
+    ],
+    "essay_scoreT_avg": 23.1,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 다른 사람을 생각하지 않고 나만 생각하는 나쁜 버릇을 어려서부터 가지고 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "저는 <문법_어미>다름</문법_어미> 사람을 생각하지 않고 나만 생각하는 나쁜 버릇을 어려서부터 가지고 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 친구들의 이야기를 잘 들어주지 않을 때도 있었고 가족들이나 친구들에게 상처를 줄 때도 많았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그래서 친구들의 이야기를 잘 들어주지 않을 때도 있었고 가족들이나 친구들에게 상처를 <문법_어미>줬을</문법_어미> 때도 많았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 이러한 부분을 꼭 고쳐야겠다는 생각을 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 이러한 부분을 꼭 <문법_맞춤법>고쳐야 겠다는</문법_맞춤법> 생각을 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 이것을 고치기 위해서 어떻게 해야 할까 여러 고민을 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 이것을 고치기 위해서 어떻게 <문법_맞춤법>해야할까</문법_맞춤법> 여러 고민을 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 세 살 버릇이 여든까지 간다는 속담이 있다는 것을 깨닫게 되었습니다.",
+      "sentence_corr_txt_styling": " 그래서 세 살 버릇이 여든까지 간다는 속담이 있다는 것을 깨닫게 되었습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 저의 이런 나쁜 습관을 고치기 위해서는 가족의 도움이 가장 컸습니다.",
+      "sentence_corr_txt_styling": " 저의 이런 나쁜 습관을 고치기 위해서는 가족의 도움이 가장 컸습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가족들과 매일 대화하고 저의 이런 버릇에 대해서 이야기해 보다 보니까 계속 대화를 하면 조금 나아진다는 것을 알게 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가족들과 매일 대화하고 저의 이런 버릇에 대해서 <문법_맞춤법>이야기 해보다보니까</문법_맞춤법> 계속 대화를 하면 조금 나아진다는 것을 알게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 했더니 제 나쁜 버릇을 고칠 수 있었고 선생님이 칭찬을 해 주셔서 기분이 좋았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 했더니 제 나쁜 버릇을 고칠 수 있었고 선생님이 칭찬을 <문법_맞춤법>해주셔서</문법_맞춤법> 기분이 좋았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69211",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 506,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

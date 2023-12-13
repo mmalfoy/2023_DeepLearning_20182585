@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 어렸을 때부터 매번 긴장하는 습관이 있었습니다.#@문장구분# 아무리 매번 있는 일을 할 때도 긴장을 조금이라도 했었고, 처음 하는 일을 할 때는 더욱 긴장되어 온몸에 식은땀이 났습니다.#@문장구분# 저는 이런 습관을 고치기 위해 마음을 추스르는 연습을 하기 시작했습니다.#@문장구분# 저는 인터넷에 검색하여 명상, 복식호흡, 클래식 음악등 여러 시도를 해보았지만, 긴장을 늦출 수는 없었습니다.#@문장구분# 저는 '항상 무슨 일이 일어날지 모르기 때문에 긴장한 상태로 사는 것도 나쁘지 않을 수 있다.'라는 친구의 조언을 듣고 긴장을 늦추는 걸 포기하고 이대로 살아가기로 했습니다.#@문장구분# 그런데, 긴장한 채로 살아가다 보니 갑작스러운 일이 생겨도, 시험 기간이 다가와도 다른 친구들에 비해 오히려 긴장을 덜 하게 되어 결과가 나쁘지 않은 것을 보고 오히려 이런 저 자신이 나쁘지 않다는 것을 느끼게 되었습니다.#@문장구분#",
+      "paragraph_len": 545,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.5,
+      22.65,
+      19.75
+    ],
+    "essay_scoreT_avg": 20.966667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 인터넷에 검색하여 명상, 복식호흡, 클래식 음악등 여러 시도를 해 보았지만, 긴장을 늦출 수는 없었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 인터넷에 검색하여 명상, 복식호흡, 클래식 음악등 여러 시도를 <문법_맞춤법>해보았지만</문법_맞춤법>, 긴장을 늦출 수는 없었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 긴장한 채로 살아가다 보니 갑작스러운 일이 생겨도, 시험 기간이 다가와도 다른 친구들에 비해 오히려 긴장을 덜 하게 되어 결과가 나쁘지 않은 것을 보고 오히려 이런 저 자신이 나쁘지 않다는 것을 느끼게 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그런데,</문법_기타> 긴장한 채로 살아가다 보니 갑작스러운 일이 생겨도, 시험 기간이 다가와도 다른 친구들에 비해 오히려 긴장을 덜 하게 되어 결과가 나쁘지 않은 것을 보고 오히려 이런 저 자신이 나쁘지 않다는 것을 느끼게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69147",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 425,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

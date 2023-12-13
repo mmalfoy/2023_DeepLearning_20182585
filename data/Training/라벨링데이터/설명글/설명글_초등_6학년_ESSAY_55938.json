@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각했을 때 진정한 친구란?#@문장구분# 같은 학교에 다니고, 같이 밥을 먹고, 함께 놀면서 즐거운 시간을 함께 보내는 것도 중요하다고 생각하지만, 내가 생각하는 진정한 친구는 자주 만나지 않아도, 멀리 떨어져 있다가도 만나기만하면 어색하지 않고 매일 만나서 놀았던 것처럼 즐겁게 놀 수 있다면 진정한 친구라고 생각합니다. #@문장구분#얼마 안만나다가 오랜만에 만나서 느껴지는 어색함은 우정이 깊지 않다는 것을 설명하는 가장 간단한 것이라고 생각합니다. #@문장구분#왜냐하면 그 친구는 어색한 만큼 나와 친한 정도가 낮다는 것이고, 과거에 친했을 때도 그만큼 깊은 우정은 아니였을 것이라고 생각합니다.#@문장구분# 저도 이런 친구가 있습니다. #@문장구분#우리가 태어나기 전부터 엄마들끼리 친구여서 우리는 친구이기를 운명지어진 것이라고 생각합니다.#@문장구분# 이 친구는 언제든지 만나도 편하고, 힘든 일이 있거나, 즐거운 일이 있을 때 언제나 가장 먼저 생각나는 친구입니다.#@문장구분# 저는 이 친구가 너무 좋고 나랑 함께 놀아줘서 고마운 마음입니다.",
+      "paragraph_len": 628,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      22.9,
+      20.25
+    ],
+    "essay_scoreT_avg": 23.716667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.02.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 같은 학교에 다니고, 같이 밥을 먹고, 함께 놀면서 즐거운 시간을 함께 보내는 것도 중요하다고 생각하지만, 내가 생각하는 진정한 친구는 자주 만나지 않아도, 멀리 떨어져 있다가도 만나기만 하면 어색하지 않고 매일 만나서 놀았던 것처럼 즐겁게 놀 수 있다면 진정한 친구라고 생각합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 같은 학교에 다니고, 같이 밥을 먹고, 함께 놀면서 즐거운 시간을 함께 보내는 것도 중요하다고 생각하지만, 내가 생각하는 진정한 친구는 자주 만나지 않아도, 멀리 떨어져 있다가도 <문법_맞춤법>만나기만하면</문법_맞춤법> 어색하지 않고 매일 만나서 놀았던 것처럼 즐겁게 놀 수 있다면 진정한 친구라고 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "얼마 안 만나다가 오랜만에 만나서 느껴지는 어색함은 우정이 깊지 않다는 것을 설명하는 가장 간단한 것이라고 생각합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "얼마 <문법_맞춤법>안만나다가</문법_맞춤법> 오랜만에 만나서 느껴지는 어색함은 우정이 깊지 않다는 것을 설명하는 가장 간단한 것이라고 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 그 친구는 어색한 만큼 나와 친한 정도가 낮다는 것이고, 과거에 친했을 때도 그만큼 깊은 우정은 아니었을 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 그 친구는 어색한 만큼 나와 친한 정도가 낮다는 것이고, 과거에 친했을 때도 그만큼 깊은 우정은 <문법_맞춤법>아니였을</문법_맞춤법> 것이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리가 태어나기 전부터 엄마들끼리 친구여서 우리는 친구이기를 운명 지어진 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리가 태어나기 전부터 엄마들끼리 친구여서 우리는 친구이기를 <문법_맞춤법>운명지어진</문법_맞춤법> 것이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55938",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 489,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

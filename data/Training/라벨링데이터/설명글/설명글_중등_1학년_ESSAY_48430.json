@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 좋은 습관과 나쁜 습관을 배우고 고치는 나의 방법으로 알려줄까 한다.#@문장구분# 일단 좋은 습관을 배우려면 그 행동을 많이 해야 된다는 것이다.#@문장구분# 만약에 예시로 잠을 빨리 잔다는 습관을 들려면 잠을 빨리 자는 걸 여러 번 해야 된다는 것이다.#@문장구분# 다른 방법은 노력을 해야 되는 것이다.#@문장구분# 그리고 나쁜 습관을 고치려면 나쁜 습관을 그 습관을 못하게 다른 행동을 하는 것이다.#@문장구분# 아니면 그 행동을 미리 못하게 하는 것이다.#@문장구분# 예시를 보면 손톱을 물어뜯는다면 손톱을 물어뜯기 전에 미리 손톱을 깎는 것이다.#@문장구분# 그렇게 된다면 습관은 고칠 것이다.#@문장구분# 이상 습관은 배우는 망언과 습관을 고치는 방법을 내 생각으로 써보았다.#@문장구분#",
+      "paragraph_len": 511,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.9,
+      30,
+      20
+    ],
+    "essay_scoreT_avg": 25.300001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "051",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 만약에 예시로 잠을 빨리 잔다는 습관을 들이려면 잠을 빨리 자는 걸 여러 번 해야 된다는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 만약에 예시로 잠을 빨리 잔다는 습관을 <문법_어미>들려면</문법_어미> 잠을 빨리 자는 걸 여러 번 해야 된다는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48430",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 332,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

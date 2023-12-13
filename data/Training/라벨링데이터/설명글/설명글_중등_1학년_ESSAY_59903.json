@@ -1,0 +1,230 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 참된 스승이란 우리 아버지와 같은 스승이다.#@문장구분# 왜냐하면 우리 아버지께서는 항상 우리를 먼저 생각하시고 자신이 맡은 스케줄이 있어도 내가 무엇인가를 같이해달라고 하거나 요구하는 일이 생기면 그 일을 빠르게 처리한 뒤 나에게 와 도움을 주시기 때문이다.#@문장구분# 이러한 이유 때문에 나는 참된 스승은 우리 아버지와 같은 스승이라고 생각한다.#@문장구분# 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지는 우리 아버지가 지니고 계신 우리 아버지의 특징으로 대체하여 글을 작성하도록 하겠다.#@문장구분# 우리 아버지의 특징 2가지 중 한 개는 착하시다.#@문장구분# 우리 어머니께서도 인정하셨다.#@문장구분# 우리 아버지는 아버지로서 최고이고 착하시다.#@문장구분# 다른 한 개의 특징은 자신이 준 도움에 대해 겸손하시다.#@문장구분# 매우 도움이 되었지만 잘난체하시는 모습을 본 적이 없다.#@문장구분#",
+      "paragraph_len": 583,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.5,
+      22.8,
+      16.95
+    ],
+    "essay_scoreT_avg": 21.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 우리 아버지께서는 항상 우리를 먼저 생각하시고 자신이 맡은 스케줄이 있어도 내가 무엇인가를 같이 해달라고 하거나 요구하는 일이 생기면 그 일을 빠르게 처리한 뒤 나에게 와 도움을 주시기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 우리 아버지께서는 항상 우리를 먼저 생각하시고 자신이 맡은 스케줄이 있어도 내가 무엇인가를 <문법_맞춤법>같이해달라고</문법_맞춤법> 하거나 요구하는 일이 생기면 그 일을 빠르게 처리한 뒤 나에게 와 도움을 주시기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 참된 스승이 되기 위해 꼭 필요한 요소 2가지는 우리 아버지가 지니고 계신 우리 아버지의 특징으로 대체하여 글을 작성하도록 하겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그리고 참된 스승이 되기 위해 꼭 필요한 <문법_조사>요소에</문법_조사> 2가지는 우리 아버지가 지니고 계신 우리 아버지의 특징으로 대체하여 글을 작성하도록 하겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 우리 아버지의 특징 2가지 중 한 개는 착하시다.",
+      "sentence_corr_txt_styling": " 우리 아버지의 특징 2가지 중 한 개는 착하시다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 한 개의 특징은 자신이 준 도움에 대해 겸손하다는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 다른 한 개의 특징은 자신이 준 도움에 대해 <문법_어미>겸손하시다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 매우 도움이 되었지만 잘난 체하시는 모습을 본 적이 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 매우 도움이 되었지만 <문법_맞춤법>잘난체하시는</문법_맞춤법> 모습을 본 적이 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_59903",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 404,
+    "essay_main_subject": "참된 스승"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 살고 싶은 집은 주택가 이고 벽지는 하얀색 그리고 3층집 마당이 있고 1층에는 방이 4개 2층에는 방이 3개 3층은 2개 입니다.#@문장구분# 1층에 첫 방은 손님방 2번째는 놀이방 3번째는 누나방 4번째는 자유방 2층에 첫 방은 내방 2번째는 컴퓨터방 3번째는 노래방 3층에 첫 방은 안방 2번째는 손님방 1층과 2층 3층모두다 화장실이 2개씩 있고 옥상에는 태양열 수영장이 있다.#@문장구분# 거실에는 큰 TV와 소파 로봇 도우미 그리고 화분 테이블이 있다.#@문장구분# 주방에는 식기 새척기 냉장고 김치 냉장고 음식물 처리기 입니다.#@문장구분#\n 손님방에는 침대와 미니 냉장고를 둔다.#@문장구분# 놀이방은 장난감과 놀이터가 있다.#@문장구분# 누나방과 안방은 누나와 엄마 아빠에게 마음되로 하라 한다.#@문장구분# 내방에는 침대와 책상 책 꼬지가 있다.#@문장구분# 컴퓨터방에는 컴퓨터와 책상이 있다.#@문장구분# 노래방은 노래기게와 마이크가있다.#@문장구분# 꼭 커서 이집을 살것 이다.#@문장구분#",
+      "paragraph_len": 655,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      23.6,
+      22.666668
+    ],
+    "essay_scoreT_avg": 23,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 살고 싶은 집은 주택가이고 벽지는 하얀색 그리고 3층집 마당이 있고 1층에는 방이 4개 2층에는 방이 3개 3층은 2개입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 살고 싶은 집은 <문법_맞춤법>주택가 이고 </문법_맞춤법>벽지는 하얀색 그리고 3층집 마당이 있고 1층에는 방이 4개 2층에는 방이 3개 3층은 2개 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1층의 첫 방은 손님방 두 번째는 놀이방 세 번째는 누나 방 네 번째는 자유방 2층의 첫 방은 내 방 두 번째는 컴퓨터방 세 번째는 노래방 3층의 첫 방은 안방 두 번째는 손님방 1층과 2층 3층 모두 다 화장실이 2개씩 있고 옥상에는 태양열 수영장이 있다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_조사>1층에</문법_조사> 첫 방은 손님방 <문법_기타>2번째는</문법_기타> 놀이방 3번째는 <문법_맞춤법>누나방 </문법_맞춤법>4번째는 자유방 2층에 첫 방은 내방 <문법_기타>2번째는</문법_기타> 컴퓨터방 3번째는 노래방 3층에 첫 방은 안방 <문법_기타>2번째는</문법_기타> 손님방 1층과 2층 3층모두다 화장실이 2개씩 있고 옥상에는 태양열 수영장이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 주방에는 식기세척기 냉장고 김치 냉장고 음식물 처리기입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 주방에는 <문법_맞춤법>식기 새척기 </문법_맞춤법>냉장고 김치 냉장고 음식물 처리기 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 누나 방과 안방은 누나와 엄마 아빠에게 마음대로 하라고 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>누나방과 </문법_맞춤법>안방은 누나와 엄마 아빠에게 마음되로 <문법_어미>하라 </문법_어미>한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 방에는 침대와 책상 책꽂이가 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>내방에는</문법_맞춤법> 침대와 책상 책 꼬지가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 노래방은 노래 기계와 마이크가있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 노래방은 <문법_맞춤법>노래기게와 </문법_맞춤법>마이크가있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 꼭 커서 이 집을 살 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 꼭 커서 <문법_맞춤법>이집을 </문법_맞춤법>살것 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47214",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 436,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

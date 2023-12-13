@@ -1,0 +1,484 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "다른사람의 배려는 나의행복 이다.#@문장구분#\n나의 배려는 다른사람의 행복이다.#@문장구분#\n- 나에게 배려란?#@문장구분# (기준은?)#@문장구분#\n·코로나 때문에 마스크 쓰는것은?#@문장구분#\n우리에게도 배려와 예절로 느껴진다.#@문장구분#\n·엘레베이터 문이 닫힐때 문을 열어 드려도 예절 배려 행복입니다.#@문장구분#\n·우리의 예절은 인사도 좋은 예절 행복입니다.#@문장구분#\n·다른분이 무거운 짐을 들어드리는건 예절 행복 편함 입니다.#@문장구분#\n·다른사람의 행복이 나의 행복이 아닐때도 있습니다.#@문장구분#\n·도덕적인 삶도 다른사람의 해복도 포함합니다.#@문장구분#\n·친구가 아파서 먼저 누워있으라고 한것은 배려 입니다.#@문장구분#\n·다른사람 또는 어른에게 이상한 말은 불쾌합니다.#@문장구분#\n·또, 친구를 배려해주면 친구도 행복 입니다.#@문장구분#\n·만약 버스에서 어르신에게 자리를 양보해주시면 정말 좋아하십니다.#@문장구분#\n·또 다른 예절은 어떤것의 빌려준것은 예절이 아닌 배려입니다.#@문장구분#\n·만약 다른사람이 나에게도 배려와예절의 잘 지켜주면 나도 정말좋을것 같습니다.#@문장구분#\n-이 처럼 많은배려들이 더 많습니다.#@문장구분#",
+      "paragraph_len": 828,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.933334,
+      24.4,
+      10.333333
+    ],
+    "essay_scoreT_avg": 17.555555,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.05",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "예절의 기준에 대한 의견",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "다른 사람의 배려는 나의 행복이고,",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>다른사람의</문법_맞춤법> 배려는 <문법_어미><문법_기타>나의행복 이다.</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n나의 배려는 다른 사람의 행복입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "\n나의 배려는 <문법_맞춤법>다른사람의</문법_맞춤법> <문법_어미>행복이다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n코로나 때문에 마스크를 쓰는 것은",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_기타>·코로나</문법_기타> 때문에 <문법_조사>마스크</문법_조사> <문법_맞춤법>쓰는것은?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n우리에게도 배려와 예절로 느껴집니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "\n우리에게도 배려와 예절로 <문법_어미>느껴진다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n엘리베이터 문이 닫힐 때 문을 열어주는 것도 예절, 배려, 행복입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "높임법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법><문법_기타>·엘레베이터</문법_기타></문법_맞춤법> 문이 닫힐때 문을 <문법_높임법>열어 드려도</문법_높임법> 예절 배려 행복입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n우리의 예절은 인사도 좋은 예절 행복입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n<문법_기타>·우리의</문법_기타> 예절은 인사도 좋은 예절 행복입니다.",
+      "sentence_corr_txt_styling": "\n우리의 예절은 인사도 좋은 예절 행복입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n다른 분이 무거운 짐을 들어드리는 건 예절, 행복, 편함입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "\n<문법_맞춤법><문법_조사><문법_기타>·다른분이</문법_기타></문법_조사></문법_맞춤법> 무거운 짐을 들어드리는건 예절 행복 편함 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n다른 사람의 행복이 나의 행복이 아닐 때도 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "\n<문법_맞춤법><문법_기타>·다른사람의</문법_기타></문법_맞춤법> 행복이 나의 행복이 아닐때도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n도덕적인 삶에는 다른 사람의 행복도 포함됩니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_기타>·도덕적인</문법_기타> <문법_조사>삶도</문법_조사> <문법_맞춤법>다른사람의</문법_맞춤법> 해복도 포함합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n친구가 아파서 먼저 누워있으라고 한 것은 배려입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_기타>·친구가</문법_기타> 아파서 먼저 누워있으라고 <문법_맞춤법>한것은</문법_맞춤법> 배려 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n다른 사람 또는 어른에게 이상한 말은 불쾌합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n<문법_맞춤법><문법_기타>·다른사람</문법_기타></문법_맞춤법> 또는 어른에게 이상한 말은 불쾌합니다.",
+      "sentence_corr_txt_styling": "\n다른 사람 또는 어른에게 이상한 말은 불쾌합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n또, 친구를 배려해주면 친구도 행복해합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_기타>·또,</문법_기타> 친구를 배려해주면 친구도 <문법_맞춤법>행복 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n만약 버스에서 어르신에게 자리를 양보해드리면 정말 좋아하십니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "높임법"
+      ],
+      "sentence_txt": "\n<문법_기타>·만약</문법_기타> 버스에서 어르신에게 자리를 <문법_높임법>양보해주시면</문법_높임법> 정말 좋아하십니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n또 다른 예절은 어떤 것을 빌려준 것은 예절이 아닌 배려입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n<문법_기타>·또</문법_기타> 다른 예절은 <문법_맞춤법><문법_조사>어떤것의</문법_조사></문법_맞춤법> 빌려준것은 예절이 아닌 배려입니다.",
+      "sentence_corr_txt_styling": "\n또 다른 예절은 어떤 것을 빌려준 것은 예절이 아닌 배려입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n만약 다른 사람이 나에게도 배려와 예절을 잘 지켜주면 저도 정말 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "조사",
+        "높임법"
+      ],
+      "sentence_txt": "\n<문법_기타>·만약</문법_기타> <문법_맞춤법>다른사람이</문법_맞춤법> 나에게도 <문법_조사>배려와예절의</문법_조사> 잘 지켜주면 <문법_높임법>나도</문법_높임법> 정말좋을것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n이처럼 많은 배려들이 더 많습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n<문법_맞춤법><문법_기타>-이 처럼</문법_기타></문법_맞춤법> 많은배려들이 더 많습니다.",
+      "sentence_corr_txt_styling": "\n이처럼 많은 배려들이 더 많습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47109",
+    "essay_prompt": " 여러분은 버스 안에서 노약자분께 자리를 양보한 적이 있나요? 가정에서 부모님 말씀을 잘 듣고 형제들과 사이좋게 지내고 있나요? 학교에서 친구들과 배려하며 즐겁게 생활하나요?\n\n 가족을 사랑하고, 친구들과 친하게 지내고, 어르신을 공경하는 등 우리는 다른 사람을 존중하고 때와 장소에 알맞은 예절을 지키기 위해 교육을 받고 있습니다.\n\n 다만, 사람마다 예절의 기준은 다를 수 있다고 생각해본 적 있으신가요?\n\n 친한 사람들에게만 예절을 지키면 된다고 생각하는 사람도 있고 모든 사람이 평등하게 예절을 지켜야 한다고 생각하는 사람이 있어요. 또한, 아이들에게는 반말해도 된다는 사람들도 있고 아이들에게도 존댓말을 하며 존중해야 한다는 사람들도 있습니다.\n\n 여러분이 생각하는 예절의 기준은 무엇인가요? 그렇게 생각한 이유는 무엇인지 작성해보세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 468,
+    "essay_main_subject": "예절의 기준에 대한 의견"
+  }
+}

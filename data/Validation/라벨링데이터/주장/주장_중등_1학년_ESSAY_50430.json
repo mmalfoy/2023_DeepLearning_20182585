@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "도용도 좋은 것은 다니지만 실명제가 도입되면 사람들의 정보가 다 유출되니까 이름이 특별한 사람들은 놀림을 당할 것이다.#@문장구분# 실명제가 생기면 도용 같은 걸 방지 할 수 있어서 좋으나 다름을 이해하지 못하고 조금 다른 사람들은 놀림을 당할 수도 있다.#@문장구분# 그렇기 때문에 부분 실명제를 하는 것이 좋을 수도 있다.#@문장구분# 부분 실명제란 어찌됐건 SNS를 가입할 땐 실명으로 가입을 할 수 있게 하되 익명으로 글을 쓰고 싶을 땐 익명으로 글을 쓸 수 있게 하는 것이다.#@문장구분# 그렇지만 익명을 악용하는 사람들이 있을 것이다.#@문장구분# 그런 것들을 방지하기 위해 사람들한텐 익명으로 보이겠지만 해당 SNS업체나 경찰 측에서는 실명으로 확인 할 수 있는 조치를 취하면 좋겠다.#@문장구분# 그렇게 된다면 익명으로 악성 댓글이나 사이버 폭력을 저지르는 사람들에 대해 찾기도 쉬울 것이다.#@문장구분# 그리고 SNS에서 불법적인 행동을 하는 사람을 처벌 할 수 있는 법이 강화 되었으면 좋겠다.#@문장구분#",
+      "paragraph_len": 621,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      27,
+      30
+    ],
+    "essay_scoreT_avg": 28.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 실명제가 생기면 도용 같은 걸 방지할  수 있어서 좋으나 다름을 이해하지 못하고 조금 다른 사람들은 놀림을 당할 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 실명제가 생기면 도용 같은 걸 <문법_맞춤법>방지 할 수 </문법_맞춤법>있어서 좋으나 다름을 이해하지 못하고 조금 다른 사람들은 놀림을 당할 수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부분 실명제란 어찌 됐건 SNS를 가입할 땐 실명으로 가입을 할 수 있게 하되 익명으로 글을 쓰고 싶을 땐 익명으로 글을 쓸 수 있게 하는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부분 실명제란 <문법_맞춤법>어찌됐건</문법_맞춤법> SNS를 가입할 땐 실명으로 가입을 할 수 있게 하되 익명으로 글을 쓰고 싶을 땐 익명으로 글을 쓸 수 있게 하는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 것들을 방지하기 위해 사람들한텐 익명으로 보이겠지만 해당 SNS 업체나 경찰 측에서는 실명으로 확인 할 수 있는 조치를 취하면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 것들을 방지하기 위해 사람들한텐 익명으로 보이겠지만 해당<문법_맞춤법> SNS업체나 경찰 측에서는 실명으로 확인 할 수</문법_맞춤법> 있는 조치를 취하면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 SNS에서 불법적인 행동을 하는 사람을 처벌할 수 있는 법이 강화되었으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 SNS에서 불법적인 행동을 하는 사람을 <문법_맞춤법>처벌 할 수 있는 법이 강화 되었으면 </문법_맞춤법>좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50430",
+    "essay_prompt": " SNS 서비스는 페이스북과 트위터 등의 폭발적 성장에 따라 관심의 대상으로 부상했습니다.\n\n 하지만, 소통과 여론 조성의 장이 SNS로 옮겨짐에 따라 온라인을 통해 다른 사람을 비판하는 행위 또한 더욱 활발해지고 있습니다. 특히 연예인이나 유명인들이 큰 피해를 받고 있습니다. 특정 인물의 사진이나 개인정보를 도용하는 일도 있습니다.\n\n 한쪽에서는 SNS의 익명성 때문에 이러한 일이 비일비재하게 벌어지고 있다고 주장합니다. 익명성을 없애고 실명제를 도입해야 근본적인 해결을 할 수 있다고 말합니다.\n\n 근거 없는 주장은 아닙니다. 다만 익명성이 보장되기 때문에 자유롭게 소통할 수 있었던 SNS의 장점도 사라지게 될 것입니다.\n\n 여러분은 SNS상의 문제에 대해 어떻게 생각하시나요?\n\n SNS를 시작하는 것 자체가 다른 사람들의 자유로운 의견을 받아들이는 것에 동의한 것이니 피해에 대해서는 본인이 감수해야 한다고 생각하시나요?\n\n 아니면 실명제가 도입을 해야 한다고 생각하시나요?\n\n 혹은 다른 방법이 있다고 생각하시나요?\n\n SNS상의 문제에 대한 본인의 의견을 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 462,
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성"
+  }
+}

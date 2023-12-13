@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 음식을 보관할 때 위생을 철저하게 지키는 편입니다.#@문장구분# 조금 귀찮더라도 개별용기를 사용합니다.#@문장구분# 하 나가 세균에 오염되면 주변의 다른 음식물까지 세균감염 위험에 노출되기 때문입니다.#@문장구분# 특히 채소의 경우 깨끗이 씻어 용기나 비닐봉지등에 보관하지 않으면 흙에 있는 각종 세균이 다른 식품을 오염시키기 쉽습니다.#@문장구분# 흙이 묻은 야채를 씻지 않은 채 그냥 보관할 경우 신문지에 말거나 비닐 팩에 잘 싸두면 오래 보관할 수 있습니다.#@문장구분# 일반적인 세균 증식은 4-60임을 감안하면 냉장실의 경우 5도이하로 유지해야합니다.#@문장구분# 또 육류와 생선등 음식을 조리하고 난 뒤에는 최대한 빨리 식혀서  냉장고에 보관하고 있습니다.#@문장구분# 또 햄이나 두부등은 개봉 후 밀폐보관을 하고,먹다 남은 식품은 반드시 재가열을 한 후 냉장고에 보관하고 있습니다.#@문장구분#",
+      "paragraph_len": 558,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      19.666668,
+      19.419048
+    ],
+    "essay_scoreT_avg": 20.073017,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 특히 채소의 경우 깨끗이 씻어 용기나 비닐봉지 등에 보관하지 않으면 흙에 있는 각종 세균이 다른 식품을 오염시키기 쉽습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 특히 채소의 경우 깨끗이 씻어 용기나 <문법_맞춤법>비닐봉지등에 </문법_맞춤법>보관하지 않으면 흙에 있는 각종 세균이 다른 식품을 오염시키기 쉽습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일반적인 세균 증식은 4-60임을 감안하면 냉장실의 경우 5도 이하로 유지해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일반적인 세균 증식은 4-60임을 감안하면 냉장실의 경우 <문법_맞춤법>5도이하로 유지해야합니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 육류와 생선 등 음식을 조리하고 난 뒤에는 최대한 빨리 식혀서  냉장고에 보관하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 육류와 <문법_맞춤법>생선등 </문법_맞춤법>음식을 조리하고 난 뒤에는 최대한 빨리 식혀서  냉장고에 보관하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 햄이나 두부 등은 개봉 후 밀폐 보관을 하고, 먹다 남은 식품은 반드시 재가열을 한 후 냉장고에 보관하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 햄이나 <문법_맞춤법>두부등은</문법_맞춤법> 개봉 후 밀폐보관을 하고,먹다 남은 식품은 반드시 재가열을 한 후 냉장고에 보관하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64051",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 399,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

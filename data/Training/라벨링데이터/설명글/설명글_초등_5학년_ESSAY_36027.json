@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 취미는 다이어리 꾸미기, 일명 다꾸입니다. #@문장구분#전 종이에 하는 것보다 아이패드를 활용해 다꾸를 하고 있습니다.#@문장구분# 일기, 또는 소소한 이야기 쓰는 것을 좋아하는 저로써는 재밌는 취미입니다. #@문장구분#스티커를 활용해서 일기를 꾸미고 그림그려서 소소한이야기를 풀어나가는 것이 저는 매우 재미있었습니다. #@문장구분#제가 다이어리 꾸미기를 처음 접하게 된 계기는 친구들이 다이어리 꾸미기를 하는 것을 보고 시작되었습니다. #@문장구분#원래 아기자기하고 손이 많이 드는 걸 좋아하지 않는 저로써는 딱히 끌리지 않는 취미였습니다. #@문장구분#하지만 조금씩 해보니 남한텐 털어놓지 않는 비밀들을 나도 모르게 일기에 쓰고있고, 아기자기한 스티커로 다이어리를 꾸미고 있었습니다.#@문장구분# 이제는 다이어리 꾸미기는 제 하루의 마지막을 정리할 때 쓰지 않으면 찝찝해서  잠을 못 잡니다.. #@문장구분#그러니 저처럼 아기자기 한것을 싫어하셔도 좋아하셔도 꼭!!! 추천드리는 취미입니다. #@문장구분#종이든 패드든 모두 예쁘게 꾸미실 수 있습니다#@문장구분#",
+      "paragraph_len": 672,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20,
+      21.6
+    ],
+    "essay_scoreT_avg": 23.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 일기, 또는 소소한 이야기 쓰는 것을 좋아하는 저로서는 재밌는 취미입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일기, 또는 소소한 이야기 쓰는 것을 좋아하는 <문법_맞춤법>저로써는</문법_맞춤법> 재밌는 취미입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "스티커를 활용해서 일기를 꾸미고 그림 그려서 소소한 이야기를 풀어나가는 것이 저는 매우 재미있었습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "스티커를 활용해서 일기를 꾸미고 <문법_맞춤법>그림그려서 소소한이야기를</문법_맞춤법> 풀어나가는 것이 저는 매우 재미있었습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "원래 아기자기하고 손이 많이 드는 걸 좋아하지 않는 저로서는 딱히 끌리지 않는 취미였습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "원래 아기자기하고 손이 많이 드는 걸 좋아하지 않는 <문법_맞춤법>저로써는</문법_맞춤법> 딱히 끌리지 않는 취미였습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 조금씩 해보니 남한텐 털어놓지 않는 비밀들을 나도 모르게 일기에 쓰고 있고, 아기자기한 스티커로 다이어리를 꾸미고 있었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 조금씩 해보니 남한텐 털어놓지 않는 비밀들을 나도 모르게 일기에 <문법_맞춤법>쓰고있고</문법_맞춤법>, 아기자기한 스티커로 다이어리를 꾸미고 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 저처럼 아기자기한 것을 싫어하셔도 좋아하셔도 꼭 추천해 드리는 취미입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "문장부호",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": "그러니 저처럼 <문법_맞춤법>아기자기 한것을</문법_맞춤법> 싫어하셔도 좋아하셔도 <문법_기타>꼭!!!</문법_기타> <문법_조사>추천드리는</문법_조사> 취미입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36027",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 473,
+    "essay_main_subject": "나의 취미"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "스승님은 자고로 어려운 일입니다.#@문장구분# 다양한 인격의 학생들과, 다양한 인재들이 섞여있는 한 학급에서, 균등한 관심 배분등 여러 신경 써야할 일이 더욱 없기 때문입니다.#@문장구분# 이러한 상황에서 가장 좋은 스승은, 편애 하지 않지만, 적절한 심리 조장으로 스트레스를 받지 않지만(이겨야지)라는 생각이들게 하는 사람같습니다.#@문장구분# 이러한 특성은 학급에서 스트레스를 받지 않고 오히려 자신의 친구들과 선의 경쟁을 통해 더 열심히, 그래고 더 잘 배우게 합니다.#@문장구분# 이러한 특성이 잘 나타낸 스승님이 저희 어머님 이신데, 어머님의 직업은 속눈썹 정리와 제자를 가르키시는데 어머님은 이러한 방법을 통해 효과적으로, 그러고 더욱 효율적으로, 더욱 빠르도록, 더욱 잘하도록 장려한다고 하셨습니다.#@문장구분# 이처럼 적절한 스트래스는 오히려 더욱 좋은 효과를 가져올 확률이 높으니 이러한 방법은 적절히 사용해서 모두 바람직하고, 아름다운 사례를 만들기 위해 선생님말씀 잘 들읍시다.#@문장구분# 이보다 좋은 방안을 모를 수도 있지만 저는 이 방안이 가장 좋다고 생각합니다.#@문장구분#",
+      "paragraph_len": 651,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      20.25,
+      21.85
+    ],
+    "essay_scoreT_avg": 22.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.21",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 다양한 인격의 학생들과 다양한 인재들이 섞여있는 한 학급에서, 균등한 관심 배분 등 여러 신경 써야할 일이 더욱 많기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 다양한 인격의<문법_맞춤법> 학생들과, </문법_맞춤법>다양한 인재들이 섞여있는 한 학급에서, 균등한 관심 배분등 여러 신경 써야할 일이 더욱 없기 때문입니다.",
+      "sentence_corr_txt_styling": " 다양한 인격의 학생들과 다양한 인재들이 섞여있는 한 학급에서, 균등한 관심 배분 등 여러 신경 써야할 일이 더욱 많기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 상황에서 가장 좋은 스승은, 편애 하지 않고 적절한 심리 조장으로 스트레스를 받지 않지만 이겨야지라는 생각이 들게 하는 사람 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 이러한 상황에서 가장 좋은 스승은, 편애 하지 <문법_어미>않지만, </문법_어미>적절한 심리 조장으로 스트레스를 받지 <문법_맞춤법>않지만(이겨야지)라는</문법_맞춤법> 생각이들게 하는 사람같습니다.",
+      "sentence_corr_txt_styling": " 이러한 상황에서 가장 좋은 스승은, 편애 하지 않고 적절한 심리 조장으로 스트레스를 받지 않지만 이겨야지라는 생각이 들게 하는 사람 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 특성은 학급에서 스트레스를 받지 않고 오히려 자신의 친구들과 선의의 경쟁을 통해 더 열심히, 그리고 더 잘 배우게 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러한 특성은 학급에서 스트레스를 받지 않고 오히려 자신의 친구들과 <문법_맞춤법>선의 </문법_맞춤법>경쟁을 통해 더 열심히, 그래고 더 잘 배우게 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 특성이 잘 나타난 스승님이 저희 어머니이신데, 어머니의 직업은 속눈썹 정리와 제자를 가르치시는데 어머니는 이러한 방법을 통해 효과적으로, 그리고 더욱 효율적으로, 더욱 빠르도록, 더욱 잘하도록 장려한다고 하셨습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이러한 특성이 잘 <문법_맞춤법>나타낸 </문법_맞춤법>스승님이 저희 어머님 이신데, 어머님의 직업은 속눈썹 정리와 제자를 가르키시는데 어머님은 이러한 방법을 통해 효과적으로, 그러고 더욱 효율적으로, 더욱 빠르도록, 더욱 잘하도록 장려한다고 하셨습니다.",
+      "sentence_corr_txt_styling": " 이러한 특성이 잘 나타난 스승님이 저희 어머니이신데, 어머니의 직업은 속눈썹 정리와 제자를 가르치시는데 어머니는 이러한 방법을 통해 효과적으로, 그리고 더욱 효율적으로, 더욱 빠르도록, 더욱 잘하도록 장려한다고 하셨습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이처럼 적절한 스트레스는 오히려 더욱 좋은 효과를 가져올 확률이 높으니 이러한 방법을 적절히 사용해서 모두 바람직하고, 아름다운 사례를 만들기 위해 선생님 말씀 잘 들읍시다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 이처럼 적절한 <문법_맞춤법>스트래스는 </문법_맞춤법>오히려 더욱 좋은 효과를 가져올 확률이 높으니 이러한 <문법_조사>방법은 </문법_조사>적절히 사용해서 모두 바람직하고, 아름다운 사례를 만들기 위해 선생님말씀 잘 들읍시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 이보다 좋은 방안을 모를 수도 있지만 저는 이 방안이 가장 좋다고 생각합니다.",
+      "sentence_corr_txt_styling": " 이보다 좋은 방안을 모를 수도 있지만 저는 이 방안이 가장 좋다고 생각합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52955",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 512,
+    "essay_main_subject": "참된 스승"
+  }
+}

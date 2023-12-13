@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 몸을 깨끗하게 하기 위해 자주 씻습니다.#@문장구분# 그래야 몸에 있는 세균들이 씻껴 없어진다고 생각하기 때문입니다.#@문장구분#\n 양치는 하루에 4번씩 닦습니다. #@문장구분#아침, 점심, 저녁그리고 간식을 먹고 양치를 하기 때문입니다.#@문장구분# 또한 이빨을 잘 닦지 않으면 세균이 많아져 이빨이 썩기 때문에 양치를 할 때 2번씩 반복해서 닦습니다.#@문장구분#\n 손은 하루에 5번씩 씻습니다. #@문장구분#외출하고 난 후와 밥 먹기 전과후로 씻습니다. #@문장구분#그리고 간식도 먹기 때문에 먹은 후 씻습니다.#@문장구분#\n 이렇게 씻다보면 세균을 내 몸에서 살 수 없어 몸을 청결하게 유지 할 수 있고 무엇보다 몸을 튼튼하게 하여 건강하게 생활 할 수 있습니다.#@문장구분#\n 저는 앞으로도 이렇게 생활하여 나의 안전과 건강을 지킬 것 입니다.",
+      "paragraph_len": 541,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.6,
+      24.333334,
+      23.6
+    ],
+    "essay_scoreT_avg": 23.844444,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래야 몸에 있는 세균들이 씻겨 없어진다고 생각하기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래야 몸에 있는 세균들이<문법_맞춤법> 씻껴</문법_맞춤법> 없어진다고 생각하기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아침, 점심, 저녁 그리고 간식을 먹고 양치를 하기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아침, 점심, <문법_맞춤법>저녁그리고</문법_맞춤법> 간식을 먹고 양치를 하기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "외출하고 난 후와 밥 먹기 전과 후로 씻습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "외출하고 난 후와 밥 먹기 <문법_맞춤법>전과후로</문법_맞춤법> 씻습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이렇게 씻다 보면 세균을 내 몸에서 살 수 없어 몸을 청결하게 유지할 수 있고 무엇보다 몸을 튼튼하게 하여 건강하게 생활할 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 이렇게 <문법_맞춤법>씻다보면 </문법_맞춤법>세균을 내 몸에서 살 수 없어 몸을 청결하게 유지 할 수 있고 무엇보다 몸을 튼튼하게 하여 건강하게 생활 할 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 저는 앞으로도 이렇게 생활하여 나의 안전과 건강을 지킬 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 저는 앞으로도 이렇게 생활하여 나의 안전과 건강을 <문법_맞춤법>지킬 것 입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51015",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 362,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

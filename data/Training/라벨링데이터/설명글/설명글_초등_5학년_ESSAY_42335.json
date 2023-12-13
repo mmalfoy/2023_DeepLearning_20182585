@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 취미는 노래를 듣는 것입니다.#@문장구분#\n 예전에는 노래를 들으면 좋다고만 생각했는데 이제는 거의 항상 노래를 들으며 살고 있습니다.#@문장구분#\n 노래를 들으면 기분이 좋아집니다.#@문장구분# 평소에 노래를 들으면 그 노래의 가사나 분위기에 따라서 기분이 그렇게 바뀌거나, 마음이 편해집니다.#@문장구분#\n 평소에 노래를 들을 때 웹툰을 보거나, 숙제를 하는 것처럼 다른 활동을 자주 합니다.#@문장구분# 노래를 들으면서 웹툰을 볼 때 보던 웹툰의 내용이 들었던 노래를 들을 때 생각이 납니다.#@문장구분# 그래서 기억하고 싶을 때 노래를 들으면서 할 대가 많습니다.#@문장구분# 하지만 가끔은 기억이 나지 않습니다.#@문장구분#\n 노래를 들으면서 다른 것을 할 때 더 집중이 잘됩니다.#@문장구분# 다른 사람의 말을 들어보면 가사가 있는 노래는 집중이 안되고, 가사가 없는 음악을 들으면 집중이 된다고 합니다.#@문장구분# 그런데 오히려 저는 노래가 더 집중이 잘되는 것 같습니다.#@문장구분#\n 다른 일은 그냥 할 때는 지루할 때가 많은데 노래를 들으면서 하면 재미 있게 느껴져서 노래를 들으면서 할 수 있는 대부분의 일을 노래를 들으면서 합니다.#@문장구분#",
+      "paragraph_len": 755,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.333334,
+      22.733334,
+      22.733334
+    ],
+    "essay_scoreT_avg": 24.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 기억하고 싶을 때 노래를 들으면서 할 때가 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 기억하고 싶을 때 노래를 들으면서 할 <문법_맞춤법>대가</문법_맞춤법> 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 사람의 말을 들어보면 가사가 있는 노래는 집중이 안 되고, 가사가 없는 음악을 들으면 집중이 된다고 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다른 사람의 말을 들어보면 가사가 있는 노래는 집중이 <문법_맞춤법>안되고</문법_맞춤법>, 가사가 없는 음악을 들으면 집중이 된다고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 오히려 저는 노래가 더 집중이 잘 되는 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 오히려 저는 노래가 더 집중이 <문법_맞춤법>잘되는</문법_맞춤법> 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 다른 일은 그냥 할 때는 지루할 때가 많은데 노래를 들으면서 하면 재미있게 느껴져서 노래를 들으면서 할 수 있는 대부분의 일을 노래를 들으면서 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 다른 일은 그냥 할 때는 지루할 때가 많은데 노래를 들으면서 하면 재<문법_맞춤법>미 있게 </문법_맞춤법>느껴져서 노래를 들으면서 할 수 있는 대부분의 일을 노래를 들으면서 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42335",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 516,
+    "essay_main_subject": "나의 취미"
+  }
+}

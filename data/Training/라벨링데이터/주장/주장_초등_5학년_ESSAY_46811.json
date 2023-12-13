@@ -1,0 +1,263 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘은 옛날에 비해 다문화 가정이 많아졌습니다.#@문장구분# 하지만 사회나 학교 내에서 차별과 편견이 아직도 남아 있습니다.#@문장구분#\n 다문화 가정과 우리는 똑같습니다.#@문장구분# 피부색이 다르든, 국적이 다르든 간에우리는 모두 똑같습니다.#@문장구분# 칭찬을 받으면 행복하고, 놀림을 받거나 친구들과다툼이 있을땐 화나고 슬픕니다.#@문장구분# 이런다문화 가정의 편견을 없애기 위해서,어릴 때 부터 다문화 가정의 대한 교육을 받게 합니다.#@문장구분#\n 둘째, 만약 아이들이 다문화 가정의아이를 따돌리면(차별,편견) 약 50 만원 이상의 벌금을 지불하고, 약간의처벌을 줍니다.#@문장구분# 심할경우 소년원과 약100만원 이상의 벌금을 지불합니다.#@문장구분#\n 이처럼 다문화 가정의 대한 차별과 편견을 없애고자 합니다. 우리는 모두 같습니다~!",
+      "paragraph_len": 523,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5714285,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.047619,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.4,
+      16.714287,
+      23.264286
+    ],
+    "essay_scoreT_avg": 18.792858,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 피부색이 다르든, 국적이 다르든간에 우리는 모두 똑같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 피부색이 다르든, 국적이 <문법_맞춤법>다르든 간에우리는</문법_맞춤법> 모두 똑같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 칭찬을 받으면 행복하고, 놀림을 받거나 친구들과 다툼이 있을 땐 화나고 슬픕니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 칭찬을 받으면 행복하고, 놀림을 받거나 <문법_맞춤법>친구들과다툼이</문법_맞춤법> 있을땐 화나고 슬픕니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 다문화 가정의 편견을 없애기 위해서, 어릴 때부터 다문화 가정의 대한 교육을 받게 해야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법>이런다문화</문법_맞춤법> 가정의 편견을 없애기 위해서,어릴 때 부터 다문화 가정의 대한 교육을 받게 <문법_조사>합니다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 둘째, 만약 아이들이 다문화 가정의 아이를 따돌리면(차별,편견) 약 50 만원 이상의 벌금을 지불하고, 약간의 처벌을 줍니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "\n 둘째, 만약 아이들이 다문화 <문법_맞춤법>가정의아이를</문법_맞춤법> 따돌리면(차별,편견) 약 50 만원 이상의 벌금을 지불하고, 약간의처벌을 줍니다.",
+      "sentence_corr_txt_styling": "\n 둘째, 만약 아이들이 다문화 가정의 아이를 따돌리면(차별,편견) 약 50 만원 이상의 벌금을 지불하고, 약간의 처벌을 줍니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 심할 경우 소년원과 약 100만원 이상의 벌금을 지불해야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>심할경우</문법_맞춤법> 소년원과 약100만원 이상의 벌금을 <문법_어미>지불합니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이처럼 다문화 가정에 대한 차별과 편견을 없애고자 합니다. 우리는 모두 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 이처럼 다문화 <문법_조사>가정의</문법_조사> 대한 차별과 편견을 없애고자 합니다. 우리는 모두 <문법_기타>같습니다~!</문법_기타>",
+      "sentence_corr_txt_styling": "\n 이처럼 다문화 가정에 대한 차별과 편견을 없애고자 합니다. 우리는 모두 같습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_46811",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 364,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

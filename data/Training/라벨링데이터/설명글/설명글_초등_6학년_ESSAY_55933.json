@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나한테 친구는 엄청 소중한 존재인것 같다. #@문장구분#학교를 다니면서 같이 놀고 급식도 먹고 주말에도 놀고 행복한 순간들을 함께 보내는게 친구라고 생각한다.#@문장구분# 부모님도 소중하지만 부모님과는 다르고, 동생도 소중하지만 동생이랑은 좀 다른게 친구라고 생각한다. #@문장구분#친구는 같이 나이를 먹으니까 그런거라고 생각한다.#@문장구분# 친구가 제일 말도 잘 통하고 이야기할것듀 많은것 같다. #@문장구분#내 친구는 내가 좋아하는걸 좋아하고 내 친구가 좋아하는걸 난 좋아한다.#@문장구분# 내 친구랑 나랑은 정말 잘 맞는것 같다. #@문장구분#앞으로는 중학교도 같이 가고 고등학교도 같이 가고 대학교도 같이 가면 너무 행복할것 같다. #@문장구분#가끔은 싸울때도 있지만 같이 있으면 가장 행복하게 해주는 내 친구가 나는 인생의 동반자라고 한다.#@문장구분# 조금 더 크면 생각이 바뀔수도 있지만 지금 생각하기에는 나는 남편보다 친구가 더 좋고 함께 있을때 행복할것 같다. #@문장구분#힘든일이 있을때 기쁜 일이 있을때 그 순간들을 모두 친구와 함께라면 잘 보낼수 있을것 같다.",
+      "paragraph_len": 680,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.2,
+      23.9,
+      21.85
+    ],
+    "essay_scoreT_avg": 23.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나한테 친구는 엄청 소중한 존재인 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나한테 친구는 엄청 소중한 <문법_맞춤법>존재인것</문법_맞춤법> 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님도 소중하지만 부모님과는 다르고, 동생도 소중하지만 동생이랑은 좀 다른 게 친구라고 생각한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모님도 소중하지만 부모님과는 다르고, 동생도 소중하지만 동생이랑은 좀 <문법_맞춤법>다른게</문법_맞춤법> 친구라고 생각한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구는 같이 나이를 먹으니까 그런 거라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구는 같이 나이를 먹으니까 <문법_맞춤법>그런거라고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 제일 말도 잘 통하고 이야기할 것도 많은 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구가 제일 말도 잘 통하고 <문법_맞춤법>이야기할것듀 많은것</문법_맞춤법> 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내 친구는 내가 좋아하는 걸 좋아하고 내 친구가 좋아하는 걸 난 좋아한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내 친구는 내가 <문법_맞춤법>좋아하는걸 좋아하고 내 친구가 좋아하는걸</문법_맞춤법> 난 좋아한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 친구랑 나랑은 정말 잘 맞는 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내 친구랑 나랑은 정말 잘 <문법_맞춤법>맞는것</문법_맞춤법> 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "앞으로는 중학교도 같이 가고 고등학교도 같이 가고 대학교도 같이 가면 너무 행복할 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "앞으로는 중학교도 같이 가고 고등학교도 같이 가고 대학교도 같이 가면 너무 <문법_맞춤법>행복할것</문법_맞춤법> 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "가끔은 싸울 때도 있지만 같이 있으면 가장 행복하게 해주는 내 친구가 나는 인생의 동반자라고 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "가끔은 <문법_맞춤법>싸울때도</문법_맞춤법> 있지만 같이 있으면 가장 행복하게 해주는 내 친구가 나는 인생의 동반자라고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 조금 더 크면 생각이 바뀔 수도 있지만 지금 생각하기에는 나는 남편보다 친구가 더 좋고 함께 있을 때 행복할 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 조금 더 크면 생각이 <문법_맞춤법>바뀔수도</문법_맞춤법> 있지만 지금 생각하기에는 나는 남편보다 친구가 더 좋고 함께 있을때 행복할것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "힘든 일이 있을때 기쁜 일이 있을 때 그 순간들을 모두 친구와 함께라면 잘 보낼 수 있을것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>힘든일이</문법_맞춤법> 있을때 기쁜 일이 있을때 그 순간들을 모두 친구와 함께라면 잘 보낼수 있을것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55933",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 481,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

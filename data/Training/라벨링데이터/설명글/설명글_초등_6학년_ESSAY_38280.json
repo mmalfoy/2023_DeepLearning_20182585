@@ -1,0 +1,358 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상에는 많은 업적을 남겨 많은사람들에게 존경을 받는많은,뛰어나신 위인들이있습니다.#@문장구분# 하지만 그 많은 위인들 중에서도 제가 가장 존경하는 분이 있습니다. #@문장구분#그분이 바로 세종대왕님 이십니다.#@문장구분# 세종대왕님은 우리나라 국민이라면 모르는 사람이 없고 우리나라의 많은 위인들 중에서도 손에 꼽힐 정도로 몇백년이 지난 지금까지도 많은 존경을 받는 위인들중 하나입니다.#@문장구분# 많은 위인들 중 세종대왕을 선택한 이유는 세종대왕님이 우리나라에서 가장 훌륭한왕이었다고 생각했기 때문입니다#@문장구분# 세종대왕의 업적에 대해서는 모르는 사람이 없을정도로 익숙한 훈민정음을 창시하여 중국의 언어인 한자를 익히지 못하여 무지했던 백성들의 눈을 열어주셨습니다.#@문장구분# 지금 이글을  쓰는 순간에도 한글을 사용하고 있습니다.#@문장구분# 세종대왕님의 노력이 없었다면 지금 사용하는 이멋진 문자를 사용하고 있지 않았을 수도 같습니다. #@문장구분#그리고 세종대왕은 우리나라의 문자인 훈민정음을 창시 했을뿐만 아니라 우리나라의 과학발전에 크게 기여하신 분입니다.#@문장구분# 대표적으로 앙부일구.비의양을 측정하는 기구 별을 관측하는 기구들이 세종대왕님 시대에 개발되었습니다.#@문장구분# 그리고 백성을 사랑하는 마음도 크셨는데 앞에서 말한 세종대왕님의 업적은 모두 백성들을 위해서 개발되었습니다.#@문장구분# 세종대왕님이 백성을 사랑하는 마음을 가지지 많았다면 이러한 많은 업적을 세우지 못했을 것입니다.#@문장구분# 세종대왕님은 대한 민국에 있어서 없어서는 안될훌륭한 업적을 남기셨고 백성을 사랑하는 마음까지.#@문장구분# 옛날이나 앞으로나 가장 훌륭한 왕이 아닐까 싶습니다.#@문장구분#",
+      "paragraph_len": 1024,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      26.4,
+      22.65
+    ],
+    "essay_scoreT_avg": 24.483332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "세상에는 많은 업적을 남겨 많은 사람들에게 존경을 받는 많은, 뛰어나신 위인들이 있습니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "세상에는 많은 업적을 남겨 <문법_맞춤법>많은사람들에게</문법_맞춤법> 존경을 받는많은,뛰어나신 위인들이있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그분이 바로 세종대왕님이십니다.",
+      "sentence_corr_reason": [
+        "붙여 써야 합니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그분이 바로 <문법_맞춤법>세종대왕님 이십니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님은 우리나라 국민이라면 모르는 사람이 없고, 우리나라의 많은 위인들 중에서도 손에 꼽힐 정도로 몇백 년이 지난 지금까지도 많은 존경을 받는 위인들 중 하나입니다.",
+      "sentence_corr_reason": [
+        "쉼표가 필요합니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕님은 우리나라 국민이라면 모르는 사람이 <문법_기타>없고</문법_기타> 우리나라의 많은 위인들 중에서도 손에 꼽힐 정도로 <문법_맞춤법>몇백년이</문법_맞춤법> 지난 지금까지도 많은 존경을 받는 위인들중 하나입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 많은 위인들 중 세종대왕을 선택한 이유는 세종대왕님이 우리나라에서 가장 훌륭한 왕이었다고 생각했기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "마침표가 필요합니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 많은 위인들 중 세종대왕을 선택한 이유는 세종대왕님이 우리나라에서 가장 <문법_맞춤법>훌륭한왕이었다고</문법_맞춤법> 생각했기 <문법_기타>때문입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕의 업적에 대해서는 모르는 사람이 없을 정도로 익숙한 훈민정음을 창시하여 중국의 언어인 한자를 익히지 못하여 무지했던 백성들의 눈을 열어 주셨습니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 세종대왕의 업적에 대해서는 모르는 사람이 <문법_맞춤법>없을정도로</문법_맞춤법> 익숙한 훈민정음을 창시하여 중국의 언어인 한자를 익히지 못하여 무지했던 백성들의 눈을 열어주셨습니다.",
+      "sentence_corr_txt_styling": " 세종대왕의 업적에 대해서는 모르는 사람이 없을 정도로 익숙한 훈민정음을 창시하여 중국의 언어인 한자를 익히지 못하여 무지했던 백성들의 눈을 열어 주셨습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금 이 글을  쓰는 순간에도 한글을 사용하고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금 <문법_맞춤법>이글을</문법_맞춤법>  쓰는 순간에도 한글을 사용하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님의 노력이 없었다면 지금 사용하는 이 멋진 문자를 사용하고 있지 않았을 수도 있을 것 같습니다. ",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 세종대왕님의 노력이 없었다면 지금 사용하는 <문법_맞춤법>이멋진</문법_맞춤법> 문자를 사용하고 있지 않았을 수도 <문법_기타>같습니다</문법_기타>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 세종대왕은 우리나라의 문자인 훈민정음을 창시했을 뿐만 아니라 우리나라의 과학 발전에 크게 기여하신 분입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기가 잘못되었습니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 세종대왕은 우리나라의 문자인 훈민정음을 <문법_맞춤법>창시 했을뿐만</문법_맞춤법> 아니라 우리나라의 과학발전에 크게 기여하신 분입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대표적으로 앙부일구, 비의 양을 측정하는 기구, 별을 관측하는 기구들이 세종대왕님 시대에 개발되었습니다.",
+      "sentence_corr_reason": [
+        "쉼표가 필요합니다."
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 대표적으로 <문법_기타>앙부일구.비의양을</문법_기타> 측정하는 기구 별을 관측하는 기구들이 세종대왕님 시대에 개발되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 백성을 사랑하는 마음도 크셨는데, 앞에서 말한 세종대왕님의 업적은 모두 백성들을 위해서 개발되었습니다.",
+      "sentence_corr_reason": [
+        "쉼표가 필요합니다."
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 백성을 사랑하는 마음도 <문법_기타>크셨는데</문법_기타> 앞에서 말한 세종대왕님의 업적은 모두 백성들을 위해서 개발되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님이 백성을 사랑하는 마음을 가지지 않았다면 이러한 많은 업적을 세우지 못했을 것입니다.",
+      "sentence_corr_reason": [
+        "'않았다면'이 옳은 표현입니다."
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세종대왕님이 백성을 사랑하는 마음을 가지지 <문법_맞춤법>많았다면</문법_맞춤법> 이러한 많은 업적을 세우지 못했을 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님은 대한민국에 있어서 없어서는 안 될 훌륭한 업적을 남기셨고 백성을 사랑하는 마음까지.",
+      "sentence_corr_reason": [
+        "붙여 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 세종대왕님은 <문법_맞춤법>대한 민국에</문법_맞춤법> 있어서 없어서는 안될훌륭한 업적을 남기셨고 백성을 사랑하는 마음까지.",
+      "sentence_corr_txt_styling": " 세종대왕님은 대한민국에 있어서 없어서는 안 될 훌륭한 업적을 남기셨고 백성을 사랑하는 마음까지.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38280",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 745,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 좋아하는 여가 활동은 게임 놀기 운동이다.#@문장구분# 게임은 재미 있는 종류나 내가 잘 할것 같은 게임을 좋아한다.#@문장구분# 놀기는 사촌형이랑 놀기 친구들과 뛰어 놀기 운동은 축구를 좋아 한다.#@문장구분# 축구 말고도 달리기 야구 배구 족구 등 운동을 좋아 한다.#@문장구분# 여가 활동으로 TV도 본다.#@문장구분# 게임은 몇 시간하고 놀기는 많이 놀면 몇 시간 빨리 놀면 몇분을 논다.#@문장구분# 운동은 많이 놀면 몇 시간 빨리 운동 하면 몇분 한다.#@문장구분# TV는 많이 보면 몇 시간이다. #@문장구분#학습 활동은 학교에서 도덕 수학 국어 미술 과학 음악 사회 체육 등 많은걸 배운다.#@문장구분# 수학 학원에서는 수학 독서 한국사를 한다.#@문장구분# 태권도에서는 품새 발차기 기본 동작을 배운다.#@문장구분#",
+      "paragraph_len": 555,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.152382,
+      20.333334,
+      14.219048
+    ],
+    "essay_scoreT_avg": 16.901588,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 좋아하는 여가 활동은 게임, 놀기, 운동이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "내가 좋아하는 여가 활동은 <문법_기타>게임 놀기 운동</문법_기타>이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임은 재미있는 종류나 내가 잘할 것 같은 게임을 좋아한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게임은 <문법_맞춤법>재미 있는</문법_맞춤법> 종류나 내가 잘 할것 같은 게임을 좋아한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 놀기는 사촌형이랑 놀기, 친구들과 뛰어 놀기, 운동은 축구를 좋아한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_기타>놀기</문법_기타>는 사촌형이랑 <문법_기타>놀기</문법_기타> 친구들과 뛰어 <문법_기타>놀기</문법_기타> 운동은 축구를 <문법_맞춤법>좋아 한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 축구 말고도 달리기, 야구, 배구, 족구 등 운동을 좋아한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 축구 말고도 <문법_기타>달리기 야구 배구 족구</문법_기타> 등 운동을 <문법_맞춤법>좋아 한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": " 축구 말고도 달리기, 야구, 배구, 족구 등 운동을 좋아한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임은 몇 시간 하고 놀기는 많이 놀면 몇 시간 빨리 놀면 몇 분을 논다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게임은 몇 <문법_맞춤법>시간하고</문법_맞춤법> 놀기는 많이 놀면 몇 시간 빨리 놀면 몇분을 논다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 운동은 많이 놀면 몇 시간, 빨리 운동하면 몇 분 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 운동은 많이 놀면 몇 <문법_기타>시간</문법_기타> 빨리 <문법_맞춤법>운동 하면</문법_맞춤법> 몇분 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학습 활동은 학교에서 도덕, 수학, 국어, 미술, 과학, 음악, 사회, 체육, 등 많은 걸 배운다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "학습 활동은 학교에서 <문법_기타>도덕 수학 국어 미술 과학 음악 사회 체육</문법_기타> 등 <문법_맞춤법>많은걸</문법_맞춤법> 배운다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수학 학원에서는 수학, 독서, 한국사를 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 수학 학원에서는 <문법_기타>수학 독서 한국사를</문법_기타> 한다.",
+      "sentence_corr_txt_styling": " 수학 학원에서는 수학, 독서, 한국사를 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 태권도에서는 품새, 발차기, 기본 동작을 배운다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 태권도에서는 <문법_기타>품새 발차기 기본 동작을</문법_기타> 배운다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47145",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 335,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "소수의 의견도 존중해야 한다.#@문장구분#\n 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다.#@문장구분# 다수결은 더많은 사람이 그 의견이 좋다고 결정한다.#@문장구분#첫째, 꼭 그 의견의 좋다고 꼭 다수결로 고르면 안됀다.#@문장구분# 나도 이런경험이 있었는데 신중하게 골라야 하는데 사람들은 그냥 대부분 고려하지 않고 다수결로 한방에 고르기 때문이다.#@문장구분#둘째,꼭 다수결의 의견만 좋다고 뽑지말자.#@문장구분# 사람들이 다수결의 의견을 뽑을때 그 다수결의 포함된 사람이 많다.#@문장구분#보니 사람들은 다수결의 의견이 좋다고해서 뽑았는데 다수결의 의견을 뽑고 나서 사람들은 후회하는 사람도 있기 때문이다.#@문장구분# 셋째 우리소수들의 의견도 존중하자. #@문장구분#사람들은 대부분 다수결의 의견을 뽑는다.#@문장구분# 불공평하다. #@문장구분#우리 소수의 의견이 더 좋을때도 있다.#@문장구분# 소수의 포함되는 사람이 인원수가 적다고 해도 소수의 의견도 존중하자.#@문장구분# 이처럼우리사회가 좀 있으면 또 바뀌고 새로바뀔 것이다. #@문장구분#사람들이 계속 다수결의원칙을 따를 것 같다. #@문장구분#여러분은 소수의 의견도 존중 하실 건가요? #@문장구분#아니며 계속 다수결의 의견을 따르실 건가요?",
+      "paragraph_len": 837,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      24.447618,
+      28.333334
+    ],
+    "essay_scoreT_avg": 24.638098,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "의사결정과 중복",
+        "의사결정과 중복"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 민주주의 사회에서의 의사결정은 다수결의 원칙으로<스타일링_어미><스타일링_패러프레이징> 정합니다</스타일링_패러프레이징></스타일링_어미>.",
+      "sentence_corr_txt_styling": "\n 민주주의 사회에서의 의사결정은 다수결의 원칙으로 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다수결은 더 많은 사람이 그 의견이 좋다고 결정하는 것이다..",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 다수결은 <문법_맞춤법>더많은 사람이</문법_맞춤법> 그 의견이 좋다고 <스타일링_조사><스타일링_어미><스타일링_기타>결정한다</스타일링_기타></스타일링_어미></스타일링_조사>.",
+      "sentence_corr_txt_styling": " 다수결은 더 많은 사람이 그 의견이 좋다고 결정하는 것이다..",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "첫째, 꼭 그 의견이 좋다고 꼭 다수결로 고르면 안된다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "첫째, 꼭 그 <문법_조사>의견의</문법_조사> 좋다고 꼭 다수결로 고르면 <문법_맞춤법>안됀다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 이런 경험이 있었다. 신중하게 골라야 하는데 사람들은 그냥 대부분 깊게 고려하지 않고 다수결로 한방에 고르기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "문장 끊기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 나도 <문법_맞춤법>이런경험이</문법_맞춤법> <문법_조사>있었는데</문법_조사> 신중하게 골라야 하는데 사람들은 그냥 대부분 <스타일링_기타>고려하지</스타일링_기타> 않고 다수결로 한방에 고르기 때문이다.",
+      "sentence_corr_txt_styling": " 나도 이런 경험이 있었다. 신중하게 골라야 하는데 사람들은 그냥 대부분 깊게 고려하지 않고 다수결로 한방에 고르기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "둘째, 꼭 다수결의 의견만 좋은 것도 아니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "둘째,<문법_맞춤법>꼭</문법_맞춤법> 다수결의 의견만 <스타일링_담화 맥락 오류>좋다고 뽑지말자</스타일링_담화 맥락 오류>.",
+      "sentence_corr_txt_styling": "둘째, 꼭 다수결의 의견만 좋은 것도 아니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>보니 사람들은</스타일링_담화 맥락 오류> 다수결의 의견이 좋다고해서 뽑았는데 다수결의 의견을 뽑고 나서 사람들은 후회하는 사람도 있기 때문이다.",
+      "sentence_corr_txt_styling": "사람들은 다수결의 의견이 좋다고해서 뽑았는데 다수결의 의견을 뽑고 나서 사람들은 후회하는 사람도 있기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>불공평하다</스타일링_기타>. ",
+      "sentence_corr_txt_styling": " 하지만 이는 불공평하다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>소수의 포함되는 사람이 인원수가 적다고 해도</스타일링_패러프레이징> 소수의 의견도 존중하자.",
+      "sentence_corr_txt_styling": " 인원수가 적다고 해도 소수의 의견도 존중하자.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_조사><스타일링_담화 맥락 오류>이처럼우리사회가</스타일링_담화 맥락 오류></스타일링_조사> 좀 있으면 또 <스타일링_패러프레이징>바뀌고 새로</스타일링_패러프레이징>바뀔 것이다. ",
+      "sentence_corr_txt_styling": " 우리 사회는 좀 있으면 또 새롭게바뀔 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들은 계속 다수결의 원칙을 따를 것 같다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_조사>사람들이</문법_조사> 계속 <문법_맞춤법>다수결의원칙을</문법_맞춤법> 따를 것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분은 소수의 의견도 존중할 것인가, ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        "문장부호",
+        "문장부호"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "여러분은 소수의 의견도 <문법_맞춤법><문법_높임법>존중 하실</문법_높임법></문법_맞춤법> <문법_어미><문법_기타>건가요?</문법_기타></문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아니며 계속 다수결의 의견을 따를 것인가?",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": "아니며 계속 다수결의 의견을 <문법_조사><문법_어미><문법_높임법>따르실 건가요</문법_높임법></문법_어미></문법_조사>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38533",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 518,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

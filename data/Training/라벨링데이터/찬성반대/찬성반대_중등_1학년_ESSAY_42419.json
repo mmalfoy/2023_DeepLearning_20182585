@@ -1,0 +1,461 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 찬성입니다.#@문장구분# 저는 이런문제에 대해 이해가 안됩니다.#@문장구분# '왜 세상은 평등하지 않을까?'라고 나는 평등을 주시며 어떤일에도 '평등해야한다'고 생각합니다.#@문장구분#\n 이건 저의 생각이지만 저는 평등주의자입니다.#@문장구분# 저는 평등제도가 있어야된다고 생각합니다.#@문장구분# 아무리 고지식해도 아무리 인재여도 부모능력부터봅니다.#@문장구분# 아무리 고지식해봐야 부모의 능력이 없으면 아이가 좋은학교에가서 좋은직업을선택해 일하는것이 여럽다는겁니다.#@문장구분# 이것 역시 평등하지 못한단겁니다.#@문장구분# 돈으로 다 되는 세상입니다.#@문장구분#\n 요즘 조국의 딸에대해 떠들석합니다.#@문장구분# 이조국의딸은 아버지가 검무쪽에서 일했기에 돈을많이벌었고 이걸통해 더욱더 스펙을올려 의사가되었습니다.#@문장구분# 과연이것이 평등할까요?#@문장구분# 사람들은 생각할겁니다.#@문장구분# \"뭐라고하면 다 평등이라는 것으로 문제를 삼네?\"#@문장구분# 맞습니다.#@문장구분#모든것에는 평등에엮이지 않을수있습니다.#@문장구분# 하지만 '모든것'에만 엮이지 않을뿐 10중9에서8정도는 평등에 엮입니다.#@문장구분# 저는 교육에대해 많은생각을 가집니다.#@문장구분# 아까말했던 조국의 딸처럼 부모의 스펙, 능력등을 통해 교육환경이 발달되고 일반에 지식을 고지식하게 만들기 때문입니다.#@문장구분# 하지만 부모님의 능력이안되면 아무리 재능이있다고해도 안되는게 현실입니다.#@문장구분# 이것이 불평등입니다.#@문장구분# 이제는 바꿔야될때입니다.#@문장구분# 저는 평등이 무조건이어야한다!가 아닙니다.#@문장구분# 올라가야될 사람들은 더올라가고 밑에있었던사람을 올리게만드는것을 전 평등이라생각합니다.#@문장구분#",
+      "paragraph_len": 1163,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.855555,
+      25.38889,
+      22.077778
+    ],
+    "essay_scoreT_avg": 23.774073,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 이런 문제에 대해 이해가 안 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>이런문제</문법_맞춤법>에 대해 이해가 안됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " '왜 세상은 평등하지 않을까?'라고 나는 평등을 주시며 어떤일에도 '평등해야한다'고 생각합니다.",
+      "sentence_corr_txt_styling": " '왜 세상은 평등하지 않을까?'라고 나는 평등을 주시며 어떤일에도 '평등해야한다'고 생각합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 평등 제도가 있어야 된다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>평등제도가 있어야된다고</문법_맞춤법> 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 아무리 고지식해봐야 부모의 능력이 없으면 아이가 좋은학교에가서 좋은직업을선택해 일하는것이 여럽다는겁니다.",
+      "sentence_corr_txt_styling": " 아무리 고지식해봐야 부모의 능력이 없으면 아이가 좋은학교에가서 좋은직업을선택해 일하는것이 여럽다는겁니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것 역시 평등하지 못한단 겁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이것 역시 평등하지 <문법_맞춤법>못한단겁니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 요즘 조국의 딸에 대해 떠들썩합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 요즘 조국의 <문법_맞춤법>딸에대해</문법_맞춤법> 떠들석합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 조국의 딸은 아버지가 검찰 쪽에서 일했기에 돈을 많이 벌었고 이걸 통해 더욱더 스펙을 올려 의사가 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이조국의딸은 아버지가 검무쪽에서 일했기에 돈을많이벌었고 이걸통해 더욱더 스펙을올려 의사가되었습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 과연 이것이 평등할까요?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>과연이것이</문법_맞춤법> 평등할까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들은 생각할 겁니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람들은 <문법_맞춤법>생각할겁니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"뭐라고 하면 다 평등이라는 것으로 문제를 삼네?\"",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"<문법_맞춤법>뭐라고하면</문법_맞춤법> 다 평등이라는 것으로 문제를 삼네?\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "모든 것에는 평등에 엮이지 않을 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>모든것에는 평등에엮이지 않을수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 하지만 '모든것'에만 엮이지 않을뿐 10중9에서8정도는 평등에 엮입니다.",
+      "sentence_corr_txt_styling": " 하지만 '모든것'에만 엮이지 않을뿐 10중9에서8정도는 평등에 엮입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 교육에 대해 많은 생각을 가집니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>교육에대해 많은생각을</문법_맞춤법> 가집니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 아까말했던 조국의 딸처럼 부모의 스펙, 능력등을 통해 교육환경이 발달되고 일반에 지식을 고지식하게 만들기 때문입니다.",
+      "sentence_corr_txt_styling": " 아까말했던 조국의 딸처럼 부모의 스펙, 능력등을 통해 교육환경이 발달되고 일반에 지식을 고지식하게 만들기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 부모님의 능력이 안되면 아무리 재능이 있다고 해도 안되는 게 현실입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 부모님의 <문법_맞춤법>능력이안되면 아무리 재능이있다고해도 안되는게</문법_맞춤법> 현실입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제는 바꿔야 될 때입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0022",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이제는 <문법_맞춤법>바꿔야될때입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 평등이 무조건이어야 한다는 게 아닙니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0023",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 저는 평등이 <문법_맞춤법><문법_어미>무조건이어야한다!가</문법_어미></문법_맞춤법> 아닙니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 올라가야 될 사람들은 더 올라가고 밑에 있었던 사람을 올라가게 만드는 것을 전 평등이라 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0024",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_어미>올라가야될 사람들은 더올라가고 밑에있었던사람을 올리게만드는것을 전 평등이라생각합니다.</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42419",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 684,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

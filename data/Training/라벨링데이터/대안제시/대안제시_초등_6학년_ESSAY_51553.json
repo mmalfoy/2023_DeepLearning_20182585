@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물을 사랑과기쁨을 동시에 해줘야한다. #@문장구분#강아지고양이와동물등 감정이있는동물이다 가장먼저돈이많이들어서버리는동물도 있다돈이란 가장먼저 병원에 관련된 수술 시술등 동물들의 보험이 없기 때문에 돈이 많이들기때문에 음식사료등등동물들이 꼭먹야해야하는것 동물들도 사람들처럼 배고프고 하고싶으게 많기때문에 돈이 많이들어버리는게 종종있다#@문장구분# 그럼왜몰래쓰레기통에 버리는지를 알고싶다 #@문장구분#몰래 버리다걸리면 벌금때문이다#@문장구분# 벌금을 내기가싫어 몰래 그것도 제일조용한곳에서 이다#@문장구분# 그럼만약동물 쓰레기통에놓고 못나오면 죽을수도있지만 강아지와고양이그리고다른동물들자기만에 방식으로살아가지위해 발버둥을치거나 소리를짖를것이다#@문장구분# 그래도자기만에방식대로 살아갈수없는동물장애를갖은 동물이다#@문장구분#",
+      "paragraph_len": 495,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.6,
+      23.577778,
+      20
+    ],
+    "essay_scoreT_avg": 22.392593,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "반려동물을 사랑과 기쁨을 동시에 해줘야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "반려동물을 <문법_맞춤법>사랑과기쁨을 동시에 해줘야한다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "강아지 고양이와 동물 등 감정이 있는 동물이다 가장 먼저 돈이 많이 들어서 버리는 동물도  있다 돈이란  가장 먼저  병원에 관련된 수술  시술 등 동물들의  보험이 없기 때문에 돈이  많이 들기 때문에  음식 사료 등등 동물들이  꼭먹어야 해야하는것 동물들도 사람들처럼 배고프고 하고 싶은게 많기 때문에  돈이 많이 들어버리는 게  종종 있다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>강아지고양이와동물등 감정이있는동물이다 가장먼저돈이많이들어서버리는동물도 있다돈이란 가장먼저 병원에 관련된 수술 시술등 동물들의 보험이 없기 때문에 돈이 많이들기때문에 음식사료등등동물들이 꼭먹야해야하는것 동물들도 사람들처럼 배고프고 하고싶으게 많기때문에 돈이 많이들어버리는게 종종있다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 왜 몰래 쓰레기통에 버리는지를 알고 싶다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럼왜몰래쓰레기통에 버리는지를 알고싶다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "몰래 버리 다걸리면 벌금 때문이다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "몰래<문법_맞춤법> 버리다걸리면 벌금때</문법_맞춤법>문이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 벌금을 내기가 싫어 몰래 그것도 제일 조용한 곳에서이다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 벌금을 <문법_맞춤법>내기가싫어 몰래 그것도 제일조용한곳에서 이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 만약 동물 쓰레기통에 놓고  못 나오면  죽을 수도 있지만  강아지와 고양이 그리고 다른 동물들 자기만에 방식으로 살아가지 위해  발버둥을 치거나  소리를 질를 것이다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럼만약동물 쓰레기통에놓고 못나오면 죽을수도있지만 강아지와고양이그리고다른동물들자기만에 방식으로살아가지위해 발버둥을치거나 소리를짖를것이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 자기만에 방식대로  살아갈 수 없는 동물 장애를 갖은 동물이다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그래도자기만에방식대로 살아갈수없는동물장애를갖은 동물이</문법_맞춤법>다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51553",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 356,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

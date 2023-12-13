@@ -1,0 +1,411 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "수학이 매우 좋다.#@문장구분# 수학을 잘하는 것은 아니지만 쉬운문제가 나오거나 어려운 문제를 나자신이 풀었을 때 기분이 급상승한다.#@문장구분# 그다음으로 미술이 좋다.#@문장구분# 미술은 학교에서 대부분 만들기를 할 때가 많기 때문이다.#@문장구분# 그리고 나의 아이디어를 제일 많이 뿜어 낼수 있는 시간이기 때문이다.#@문장구분# 마지막으론 체육이 좋다,#@문장구분# 체육에서 피구를 할 때 가 더욱더 좋아진다.#@문장구분# 자유시간 일 때도 좋다.#@문장구분# 친구랑 마음 껏 뛰어놀수있기 때문이다.#@문장구분# 하지만 체육이 싫을 때도있다.#@문장구분# 어떨 때냐면 달리기를 할 때이다.#@문장구분# 또 발야구를 할 때이다.#@문장구분# 왜냐 나는 둘다 못하기 때문이다.#@문장구분# 미술에서 친구들이 그림을 잘 그린다고 칭찬을 해주었을 때 기분이 좋다.#@문장구분# 미술이 너무좋아 꿈도 화가 였을 때도 있었다.#@문장구분# 수학은 잘하진 않지만 좋아한다.#@문장구분# 옛날에는 수학이 매우 매우 싫었다.#@문장구분# 어떻게하다보니 수학이 좋아졌다.#@문장구분# 수학을 하다보면 짜증날 때도 있다.#@문장구분# 다시 풀면 기분이 좋아진다.#@문장구분# 미술은 미술학원도 다니다.#@문장구분# 마지막으로 사회도 좋아한다.#@문장구분# 즉 역사를 좋아한다는 것이다.#@문장구분# 하지만 사회는 듣기만 좋아하지 문제를 푸는 것은 좋아하지않는다.#@문장구분# 문제를 풀때는 머릿속이 하얗게 변하지만 이야기를 들을 때는 새로운 걸알게되어 신기하여서 계속듣는다.#@문장구분# 사회에서 다른 걸할 때는 재미가 없었는데 역사를 배우고나서 재밌어졌다.#@문장구분#",
+      "paragraph_len": 1154,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.180954,
+      23.533333,
+      25.933334
+    ],
+    "essay_scoreT_avg": 23.549208,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.18",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 수학을 잘하는 것은 아니지만 쉬운 문제가 나오거나 어려운 문제를 나 자신이 풀었을 때 기분이 급상승한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 수학을 잘하는 것은 아니지만 <문법_맞춤법>쉬운문제가 </문법_맞춤법>나오거나 어려운 문제를 나자신이 풀었을 때 기분이 급상승한다.",
+      "sentence_corr_txt_styling": " 수학을 잘하는 것은 아니지만 쉬운 문제가 나오거나 어려운 문제를 나 자신이 풀었을 때 기분이 급상승한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 다음으로 미술이 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그다음으로 </문법_맞춤법>미술이 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나의 아이디어를 제일 많이 뿜어낼 수 있는 시간이기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 나의 아이디어를 제일 많이 <문법_맞춤법>뿜어 낼수</문법_맞춤법> 있는 시간이기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 체육이 좋다,",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " <문법_조사>마지막으론 </문법_조사>체육이 좋다,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 체육에서 피구를 할 때가 더욱더 좋아진다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 체육에서 피구를 할 <문법_맞춤법>때 가</문법_맞춤법> 더욱더 좋아진다.",
+      "sentence_corr_txt_styling": " 체육에서 피구를 할 때가 더욱더 좋아진다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자유 시간일 때도 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>자유시간 일 </문법_맞춤법>때도 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구랑 마음껏 뛰어놀 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구랑 <문법_맞춤법>마음 껏 </문법_맞춤법>뛰어놀수있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 체육이 싫을 때도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 체육이 싫을 <문법_맞춤법>때도있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 나는 둘 다 못하기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>왜냐 </문법_맞춤법>나는 둘다 못하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술이 너무 좋아 꿈도 화가였을 때도 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미술이 <문법_맞춤법>너무좋아</문법_맞춤법> 꿈도 화가 였을 때도 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어떻게 하다 보니 수학이 좋아졌다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어떻게하다보니 </문법_맞춤법>수학이 좋아졌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수학을 하다 보면 짜증날 때도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 수학을 <문법_맞춤법>하다보면 </문법_맞춤법>짜증날 때도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술은 미술학원도 다닌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 미술은 미술학원도 <문법_어미>다니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 사회는 듣기만 좋아하지 문제를 푸는 것은 좋아하지 않는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 사회는 듣기만 좋아하지 문제를 푸는 것은 <문법_맞춤법>좋아하지않는다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 문제를 풀 때는 머릿속이 하얗게 변하지만 이야기를 들을 때는 새로운 걸 알게 되어 신기하여서 계속 듣는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 문제를 <문법_맞춤법>풀때는 </문법_맞춤법>머릿속이 하얗게 변하지만 이야기를 들을 때는 새로운 걸알게되어 신기하여서 계속듣는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사회에서 다른 걸 할 때는 재미가 없었는데 역사를 배우고 나서 재밌어졌다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0026",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사회에서 <문법_맞춤법>다른 걸할 때는</문법_맞춤법> 재미가 없었는데 역사를 배우고나서 재밌어졌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63425",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 635,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나도 다문화 가족을 본적이 있다.#@문장구분# 미국사람,베트남사람,중국사람등 많이봤다. #@문장구분#다문화가족이라고해서 놀리면 안됀다.#@문장구분# 저의 친구가 다문화가족입니다 .#@문장구분#그 친구의 유일한 친구가 져입니다.#@문장구분# 다문화가족이 라고 놀렸던친구가 있는데 그 친구를 선생님께 말하니 다문화교육을했다.#@문장구분# 부모님이 외국에서 오셨다고 놀리는것은 잘못된것이다. #@문장구분#만약 자신의 부모님이 다문화사람 이면 똑같이 따돌림을받게될것이다. #@문장구분#이처럼 베트남, 중국,일본,미국사람등 여러 다문화 가족을 놀리거나 왕따시키는것등 잘못된 방법을 사용하면 않된다.#@문장구분# 한국말을잘 못해서 욕하거나 생김새가 한국인과 다르다는 예기로 욕하는것또한 잘못된것이다 .#@문장구분# 당연히 외국인 사람들은 한국말도 잘 못하고 한글도 못쓰고 한국인들과 생김새또한 다르기 때문에 놀림 받을쑨 있다고 생각한다.#@문장구분# 놀림 받을수 있다고 해서 놀리는것 또한 안된다.#@문장구분# 다문화가 족도 존중해야 한다고 생각한다. 다른 나라의 문화체험을할수있다. #@문장구분#이 처럼 다른나라와 교류도 할수있고 다른나라의   음식, 다른나라의 문화도 알수있다.",
+      "paragraph_len": 768,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.55,
+      16.15
+    ],
+    "essay_scoreT_avg": 22.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나도 다문화 가족을 본 적이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나도 다문화 가족을 <문법_맞춤법>본적이</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미국사람, 베트남사람, 중국사람 등 많이 봤다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미국<문법_맞춤법>사람,베트남사람,중</문법_맞춤법>국사람등 많이봤다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다문화 가족이라고 해서 놀리면  안된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>다문화가족이라고해서 놀리면 안됀다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 친구가 다문화 가족이다 .",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저의 친구가 다문화가족입니다 .</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 친구의 유일한 친구가 나다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 친구의 유일한 친구가<문법_맞춤법> 져입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화 가족이라고 놀렸던 친구가 있는데 그 친구를 선생님께 말하니 다문화교육을 받게 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다문화가족이 라고 놀렸던친구가 </문법_맞춤법>있는데 그 친구를 선생님께 말하니 다문화교육을했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님이 외국에서 오셨다고 놀리는 것은 잘못된 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모님이 외국에서 오셨다고 <문법_맞춤법>놀리는것은</문법_맞춤법> 잘못된것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 자신의 부모님이 다문화 사람이면 똑같이 따돌림을 받게 될 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "만약 자신의 부모님이 <문법_맞춤법>다문화사람</문법_맞춤법> 이면 똑같이 따돌림을받게될것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이처럼 베트남, 중국, 일본, 미국사람 등 여러 다문화 가족을 놀리거나 왕따시키는 것 등 잘못된 방법을 사용하면 안된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이처럼 베트<문법_맞춤법>남, 중국,일본,미국사람등</문법_맞춤법> 여러 다문화 가족을 놀리거나 왕따시키는것등 잘못된 방법을 사용하면 않된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한국말을 잘 못해서 욕하거나 생김새가 한국인과 다르다는 이유로 욕 하는 것 또한 잘못된 것이다 .",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한국말을<문법_맞춤법>잘 못해서 </문법_맞춤법>욕하거나 생김새가 한국인과 다르다는 예기로 욕하는것또한 잘못된것이다 .",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 당연히 외국인 사람들은 한국말도 잘 못하고 한글도 못 쓰고 한국인들과 생김새 또한 다르기 때문에 놀림 받을 수 있다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 당연히 외국인 사람들은 한국말도 잘 못하고 한글도 <문법_맞춤법>못쓰고</문법_맞춤법> 한국인들과 생김새또한 다르기 때문에 놀림 받을쑨 있다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 놀림 받을 수 있다고 해서 놀리는 것 또한 안된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 놀림 받을수 있다고 해서 놀<문법_맞춤법>리는것</문법_맞춤법> 또한 안된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다문화가족도 존중해야 한다고 생각한다. 다른 나라의 문화체험을 할 수 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다문화가 족도 존중해야 한다고 생각한다. 다른 나라의 <문법_맞춤법>문화체험을할수있다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이처럼 다른 나라와 교류도 할 수 있고 다른 나라의   음식, 다른 나라의 문화도 알 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이 처럼</문법_맞춤법> 다른나라와 교류도 할수있고 다른나라의   음식, 다른나라의 문화도 알수있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42264",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 509,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

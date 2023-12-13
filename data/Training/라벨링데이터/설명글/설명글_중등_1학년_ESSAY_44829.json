@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사람들은 많은 습관들이 있고 많은 사람들이 습관을 고치지 못하고 있다.#@문장구분# 저의 습관을 고친 이야기를 설명하겠다.#@문장구분# 저는 손톱을 뜯는 습관이 있었습니다.#@문장구분# 나는 이러한 습관이 처음에는 있는 줄 몰랐다.#@문장구분# 그러던 중 부모님이 지적을 해주었고 멈추려 했는 데 잘 이루어지지 않았다.#@문장구분# 그걸보던 부모님은 손톱을 뜯으면 체벌을 주었다.#@문장구분# 그러나 변하지 않았고 부모님은 반대로 제한하게 됩니다.#@문장구분# 부모님은 손톱을 뜯지 않으면 상을 준다고 했다.#@문장구분# 저는 맞기 싫어서 안 뜯게됬던걸 상으로 바꾸니깐 마음이 달라졌습니다.#@문장구분#이렇게 해서 고치게되었고 습관을 고쳐서 알게 된 것은 습관을 고치기 위해서 벌보다는 상이 훨씬 효과적인 것을 알았습니다.#@문장구분#",
+      "paragraph_len": 541,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.1,
+      21.6,
+      21.6
+    ],
+    "essay_scoreT_avg": 21.1,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그러던 중 부모님이 지적을 해주었고 멈추려 했는데 잘 이루어지지 않았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러던 중 부모님이 지적을 해주었고 멈추려 <문법_맞춤법>했는 데</문법_맞춤법> 잘 이루어지지 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그걸 보던 부모님은 손톱을 뜯으면 체벌을 주었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그걸보던</문법_맞춤법> 부모님은 손톱을 뜯으면 체벌을 주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나 변하지 않았고 부모님은 반대로 제안하게 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러나 변하지 않았고 부모님은 반대로 <문법_맞춤법>제한하게</문법_맞춤법> 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 맞기 싫어서 안 뜯게 됐던 걸 상으로 바꾸니깐 마음이 달라졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 맞기 싫어서 안 <문법_맞춤법>뜯게됬던걸</문법_맞춤법> 상으로 바꾸니깐 마음이 달라졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이렇게 해서 고치게 되었고 습관을 고쳐서 알게 된 것은 습관을 고치기 위해서 벌보다는 상이 훨씬 효과적인 것을 알았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이렇게 해서 <문법_맞춤법>고치게되었고</문법_맞춤법> 습관을 고쳐서 알게 된 것은 습관을 고치기 위해서 벌보다는 상이 훨씬 효과적인 것을 알았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44829",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 343,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

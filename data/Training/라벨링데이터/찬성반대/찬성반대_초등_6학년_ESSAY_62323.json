@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 에너지절약을 반대합니다.#@문장구분# 왜냐하면 환경오염도 중요하지만 지금이순간이 편리해야 사람들의마음이 편해지기 때문입니다.#@문장구분# 그리고 친환경적인 태양렬이 많아지고 있기때문에 에너지절약을한다기 보단, 에너지를 태양렬로쓰면 환경오염이 되지 않아서이다.#@문장구분# 그런데 환경을 살려야 우리가 고기도 먹고 애채등을 먹을텐데 에너지절약을 아예 안한다고 할수는 없다.#@문장구분# 우리가 편해야하는것 맞지만 편하다고 해서 원자력을 계속쓰면 많아져서 바다에 버려지는 핵 폐기물 때문에 인간이명종할수도 있다.#@문장구분# 최근 일본이 바다에 핵 폐기물을 버린다고 하는데 괜찮다고 한다.#@문장구분# 일본의 바다와 우리나라의 바다가 연결되어있기 때문에 우리도 피해를 받을수밖에 없다.#@문장구분# 폐기물로 오염된 바닷물을 먹는 물고기들, 그 물고기들을 먹은 우리인간.#@문장구분# 어쨌든 편하든말든 그 피해는 우리인간에게 돌아온다.#@문장구분# 우리의 행복을 위해 하는것도 좋지만 그 피해가 곧 인간에게 오기때문에 에너지 절약을 해야한다.#@문장구분# 그러므로 나의 생각은 에너지를 \"절약해야한다\" 이다.",
+      "paragraph_len": 694,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.855555,
+      26.444445,
+      28.5
+    ],
+    "essay_scoreT_avg": 23.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          1,
+          1,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 에너지 절약을 반대합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>에너지절약을</문법_맞춤법> 반대합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 환경오염도 중요하지만 지금이순간이 편리해야 사람들의 마음이 편해지기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 환경오염도 중요하지만 지금이순간이 편리해야 <문법_맞춤법>사람들의마음이</문법_맞춤법> 편해지기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친환경적인 태양열이 많아지고 있기 때문에 에너지 절약을 한다기보단, 에너지를 태양열로 쓰면 환경오염이 되지 않아서이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친환경적인 <문법_맞춤법>태양렬이</문법_맞춤법> 많아지고 있기때문에 에너지절약을한다기 보단, 에너지를 태양렬로쓰면 환경오염이 되지 않아서이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 환경을 살려야 우리가 고기도 먹고 야채 등을 먹을 텐데 에너지 절약을 아예 안 한다고 할 수는 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 환경을 살려야 우리가 고기도 먹고 <문법_맞춤법>애채등을 먹을텐데 에너지절약을 아예 안한다고 할수는 없다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리가 편해야 하는 것 맞지만 편하다고 해서 원자력을 계속 쓰면 많아져서 바다에 버려지는 핵 폐기물 때문에 인간이 멸종할 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리가 <문법_맞춤법>편해야하는것</문법_맞춤법> 맞지만 편하다고 해서 원자력을 계속쓰면 많아져서 바다에 버려지는 핵 폐기물 때문에 인간이명종할수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일본의 바다와 우리나라의 바다가 연결되어 있기 때문에 우리도 피해를 받을 수밖에 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일본의 바다와 우리나라의 바다가 <문법_맞춤법>연결되어있기 때문에 우리도 피해를 받을수밖에</문법_맞춤법> 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 폐기물로 오염된 바닷물을 먹는 물고기들, 그 물고기들을 먹은 우리 인간.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 폐기물로 오염된 바닷물을 먹는 물고기들, 그 물고기들을 먹은 <문법_맞춤법>우리인간.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어쨌든 편하든 말든 그 피해는 우리 인간에게 돌아온다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어쨌든 <문법_맞춤법>편하든말든 그 피해는 우리인간에게</문법_맞춤법> 돌아온다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리의 행복을 위해 하는것도 좋지만 그 피해가 곧 인간에게 오기때문에 에너지 절약을 해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리의 행복을 위해 하는것도 좋지만 그 피해가 곧 인간에게 오기때문에 에너지 절약을 <문법_맞춤법>해야한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62323",
+    "essay_prompt": " 과학 발전을 통해 다양한 에너지들이 만들어지고 일상생활에 사용되고 있습니다. 대표적인 예가 원자력입니다.\n\n 원자력 발전소에서 생산되는 엄청난 양의 에너지를 통해 여러분이 핸드폰을 하고 TV를 보고 전등을 켤 수 있습니다.\n\n 하지만 원자력 발전소를 통해 에너지를 생산하는 과정에서 폭발위험과 핵폐기물로 인한 심각한 환경문제가 발생하고 있습니다.\n\n 우리가 에너지를 사용하면 사용할수록 원자력 발전소 같은 에너지를 생산할 수 있는 시설이 더욱 많이 필요할 것입니다. 이는 더 많은 환경문제를 일으키겠죠?\n\n 그렇기 때문에 더 에너지 사용을 늘리지 말자는 의견이 많이 나오고 있습니다. 생활의 편리함을 뒤로하고 에너지 절약을 먼저 하자는 의견입니다.\n\n 여러분은 편리한 생활을 줄이고 에너지를 절약하여 환경을 살리는 데 찬성하시나요? 아니면 환경보다는 지금의 편리함이 더 중요하다고 생각하시나요?  본인의 생각을 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 494,
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각"
+  }
+}

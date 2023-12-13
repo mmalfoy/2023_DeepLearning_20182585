@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "SNS를 하면서 중국을 욕하는 말을 굉장히 많이 보았는데 이 제시문을 읽고 왜 사람들이 중국을 욕했는지 알만하다는 생각이 들었습니다.#@문장구분# 나도 중국을 욕하고 싶다는 생각이 들었습니다.#@문장구분# 중국 자기들이 뭔데 대체 우리나라한테 저러는지 모르겠습니다.#@문장구분# 한국이 잘나가니 정말 부러웠나봅니다.#@문장구분# 위에 글처럼 중국이 우리나라의 문화를 저런 식으로 뺏아갈려고 하는 것은 정말 못된 생각입니다.#@문장구분# 혼내줘야 한다고 생각합니다.#@문장구분# 중국이 뭔데 우리나라를 건들지.#@문장구분# 이 문제를 해결하려면 중국인과 싸우는 것이 해결방법이라고 생각합니다.#@문장구분# 우리의 문화는 옛날부터 쭈욱 내려왔기 때문에 옛날 기록이 있습니다.#@문장구분# 아무리 중국사람중에 말빨이 쎈 사람이 있어도 자기 나라 문화라는 정확한 옛날 기록이 없다면 우리나라 문화를 자기나라 문화라고 주장하고 있는 거짓이 들통날 것입니다.#@문장구분# 이런 싸움은 기록이 있는 우리나라 사람들이 더 유리할 것입니다.#@문장구분# 이런 방법을 통해서 중국인들이 할 말을 잃게 만든다면 우리나라에게 더 이상 이런 짓을 하지 않지 않을까요?#@문장구분# 우리나라 사람들은 말도 잘하고 기록도 있으니까 이길 수 있을겁니다.#@문장구분#",
+      "paragraph_len": 805,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.722221,
+      23,
+      20.3
+    ],
+    "essay_scoreT_avg": 23.340738,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "한류를 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 한국이 잘나가니 정말 부러웠나 봅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한국이 잘나가니 정말 <문법_맞춤법>부러웠나봅니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 문제를 해결하려면 중국인과 싸우는 것이 해결 방법이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 문제를 해결하려면 중국인과 싸우는 것이 <문법_맞춤법>해결방법이라고 </문법_맞춤법>생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무리 중국사람 중에 말발이 센 사람이 있어도 자기 나라 문화라는 정확한 옛날 기록이 없다면 우리나라 문화를 자기 나라 문화라고 주장하고 있는 거짓이 들통날 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무리 <문법_맞춤법>중국사람중에 </문법_맞춤법>말빨이 쎈 사람이 있어도 자기 나라 문화라는 정확한 옛날 기록이 없다면 우리나라 문화를 자기나라 문화라고 주장하고 있는 거짓이 들통날 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 방법을 통해서 중국인들이 할 말을 잃게 만든다면 우리 나라에 더 이상 이런 짓을 하지 않지 않을까요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 방법을 통해서 중국인들이 할 말을 잃게 만든다면 <문법_맞춤법>우리나라에게 </문법_맞춤법>더 이상 이런 짓을 하지 않지 않을까요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라 사람들은 말도 잘하고 기록도 있으니까 이길 수 있을 겁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리나라 사람들은 말도 잘하고 기록도 있으니까 이길 수 <문법_맞춤법>있을겁니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_73633",
+    "essay_prompt": " 한류(韓流)는 한국의 대중문화, 즉 한국에서 제작된 영화, 방송, 음악, 패션 등이 해외에서 인기리에 소비되는 문화적 현상입니다. 넓은 의미로는 의·식·주 등 한국 문화 전체를 말하기도 합니다.\n\n 하지만, 최근 중국은 한류의 문화적 경제적 파급력에 주목하며 동북공정의 일환으로 한복, 김치, 비빔밥, 쌈 문화 등을 중국 소수민족의 문화로 편입시키려 하고 있습니다.\n\n SNS에 한국 사람이 한국적인 것을 올리면 '중국의 전통을 대신 알려줘서 고맙다.'던가 '중국의 전통을 마음대로 한국의 것이라 하지 말아라.'라는 댓글을 달고 있습니다.\n\n 중국 방송에서까지 이를 주제로 다루며 한국의 문화와 전통을 중국의 문화라고 주장하고 있습니다.\n\n 이러한 억지 주장을 우리가 가만히 있으면 중국이 그만둘까요? 우리는 중국의 행동에 어떻게 대처해야 할까요?\n\n UN이나 국제적인 기관에 중국의 억지 주장에 대해 호소할 수도 있고, 인터넷상에서 중국인들과 끊임없이 논쟁할 수도 있습니다.\n\n 여러분은 이러한 현상에 대해 어떻게 생각하며 한국문화로서 한류 열풍을 지켜내기 위한 방안이 어떤 것이 있다고 생각하시나요? 본인의 생각을 작성해주세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 546,
+    "essay_main_subject": "한류를 지키는 방법"
+  }
+}

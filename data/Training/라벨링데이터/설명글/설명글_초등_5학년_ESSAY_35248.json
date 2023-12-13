@@ -1,0 +1,343 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "자신의 몸을 병에 안걸리게 하고 음식도 편식 하지않고 좋은음식도 먹고 운동도 해야 내몸이 건강해진다.#@문장구분# 그리고 음식은 야채들도 자주 먹고 운동도 자주자주 해야한다#@문장구분# 위생을 지킬려면 음식 썩은 것 흙 풀 요런 아주 더러운 것들을 안먹어야 하고 혹시 먹었을 때는 약 같은 거를 먹어야 됩니다.#@문장구분# 그리고 식습관을 잘지켜 야 돼지즉 뚱땡이 살이 찌지 않기위해 밤에는 음식을 거의 먹지 말고 과하게 먹지 않은 것이 조으습니다. #@문장구분#그리고 또 집에오면 손을 깨끗이 싰습니다.#@문장구분# 발도 닦는 거 괜찮지 (난 발 안 씻지만)#@문장구분# 아무튼 나 자신을 잘 닦고 씼어야 병이 안들어온다.#@문장구분# 그리고 또 건강하려면 아이스크림 많이 먹지 말고 단 콜라, 불량 식품, 젤리, 초코릿 등을 많이 안 먹어야 살이 잘 안찌고 건강하고 이빨도 안 썩는다.#@문장구분# 그리고 건강 하려면 살을 안 찌우기 위해 운동 가끔씩 시간이 날 때마다 한다.#@문장구분# 그리고 잘 움직여야 될 것 같다. #@문장구분#또 위생을 지킬려면 아까도 말했던 썩은것 또 유통기한 아주 우래 지난것 예를 들어 1,2달 지난것 등을 피하고 우리의 대부분이 좋아하는 치킨, 햄버거, 피자, 짜장면, 떡볶이 이런 좋아하는 배달음식만 먹지 말고 건강한 집밥이랑 영양분이 들어간것을 먹어야 건강해진다.#@문장구분#",
+      "paragraph_len": 824,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      19.133333,
+      15.019047
+    ],
+    "essay_scoreT_avg": 18.050793,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "자신의 몸을 병에 걸리지 않게 노력하고 음식도 편식하지 않고 좋은 음식도 먹고 운동도 해야 몸이 건강해진다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "자신의 몸을 병에 <스타일링_담화 맥락 오류>안걸리게</스타일링_담화 맥락 오류> 하고 음식도 <문법_맞춤법>편식 하지않고</문법_맞춤법> 좋은음식도 먹고 운동도 해야 내몸이 건강해진다.",
+      "sentence_corr_txt_styling": "자신의 몸을 병에 걸리지 않게 노력하고 음식도 편식하지 않고 좋은 음식도 먹고 운동도 해야 몸이 건강해진다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 <스타일링_담화 맥락 오류>음식은 </스타일링_담화 맥락 오류>야채들도 자주 먹고 운동도<스타일링_맞춤법><스타일링_패러프레이징> 자주자주 해야한다</스타일링_패러프레이징></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 그리고  야채들도 자주 먹고 운동도 해야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위생을 지키려면 썩은 음식, 흙, 풀 같은 이런 아주 더러운 것들을 안 먹어야 하고 혹시 먹었을 때는 약 같은 거를 먹어야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": " 위생을 <문법_맞춤법>지킬려면</문법_맞춤법> <스타일링_담화 맥락 오류>음식 썩은 것 흙 풀 </스타일링_담화 맥락 오류>요런 아주 더러운 것들을 안먹어야 하고 혹시 먹었을 때는 약 같은 거를 먹어야 <문법_어미>됩니다.</문법_어미>",
+      "sentence_corr_txt_styling": " 위생을 지키려면 썩은 음식, 흙, 풀 같은 이런 아주 더러운 것들을 안 먹어야 하고 혹시 먹었을 때는 약 같은 거를 먹어야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 <스타일링_담화 맥락 오류>식습관을 잘지켜 야 돼지즉 뚱땡이 살이 찌지 않기위해 밤에는 음식을 거의 먹지 말고 과하게 먹지 않은 것이 조으습니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 그리고 건강을 지키기 위해서는 좋은 식습관을 잘 지켜야 하고, 밤에는 음식을 먹지 않는 것이 좋습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 또 집에 오면 손을 깨끗이 씻어야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "그리고 또 <문법_맞춤법>집에오면</문법_맞춤법> 손을 깨끗이 <문법_어미>싰습니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>발도 닦는 거 괜찮지 (난 발 안 씻지만)</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 발을 닦는 것도 좋습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>아무튼 나 자신을 잘 닦고 씼어야 병이 안들어온다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 정리하자면, 스스로를 잘 닦고 씻어야 병에 걸리지 않는다는 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 아이스크림을 많이 먹지 말고 단 콜라, 불량 식품, 젤리, 초콜릿 등을 많이 안 먹어야 살이 잘 안찌고 건강하고 이빨도 안 썩는다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 또<스타일링_담화 맥락 오류> 건강하려면 </스타일링_담화 맥락 오류><문법_조사>아이스크림</문법_조사> 많이 먹지 말고 단 콜라, 불량 식품, 젤리, <문법_맞춤법>초코릿</문법_맞춤법> 등을 많이 안 먹어야 살이 잘 안찌고 건강하고 이빨도 안 썩는다.",
+      "sentence_corr_txt_styling": " 그리고 또 아이스크림을 많이 먹지 말고 단 콜라, 불량 식품, 젤리, 초콜릿 등을 많이 안 먹어야 살이 잘 안찌고 건강하고 이빨도 안 썩는다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 건강하려면 살을 안 찌우기 위해 운동을 시간이 날 때마다 해야 한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>건강 하려면</문법_맞춤법> 살을 안 찌우기 위해 <스타일링_담화 맥락 오류>운동 가끔씩 시간이 날 때마다 한다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 그리고 건강하려면 살을 안 찌우기 위해 운동을 시간이 날 때마다 해야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 위생을 지키려면 아까도 말했던 썩은 것, 또 유통기한이 오래 지난 것 등을 피하고 우리의 대부분이 좋아하는 치킨, 햄버거, 피자, 짜장면, 떡볶이 이런 배달음식만 먹지 말고 건강한 집밥이랑 영양분이 들어간 것을 먹어야 건강해진다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "또 위생을 <문법_맞춤법>지킬려면</문법_맞춤법> 아까도 말했던 썩은것 또 <스타일링_담화 맥락 오류>유통기한 아주 우래 지난것 예를 들어 1,2달 지난것 등을</스타일링_담화 맥락 오류> 피하고 우리의 대부분이 좋아하는 치킨, 햄버거, 피자, 짜장면, 떡볶이 <스타일링_패러프레이징>이런 좋아하는 </스타일링_패러프레이징>배달음식만 먹지 말고 건강한 집밥이랑 영양분이 들어간것을 먹어야 건강해진다.",
+      "sentence_corr_txt_styling": "또 위생을 지키려면 아까도 말했던 썩은 것, 또 유통기한이 오래 지난 것 등을 피하고 우리의 대부분이 좋아하는 치킨, 햄버거, 피자, 짜장면, 떡볶이 이런 배달음식만 먹지 말고 건강한 집밥이랑 영양분이 들어간 것을 먹어야 건강해진다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35248",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 604,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

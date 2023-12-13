@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "친구란 나를 위로를해주고 싸웠다고해서 너무 멀어지고 다시 화해할수있는 친구.#@문장구분# 나와 장남과농담을 하면서 행복하고 즐거워하는 친구.#@문장구분# 나는 친구에게 즐거움을주고, 배려와존중을하며 싸우지 않는 친구가 되어주고싶다.#@문장구분# 가족같은 친구가 되고 싶다.#@문장구분# 그리고 절친이란 같이 있었던 시간이 많이 없었어도 빨리 친해져서 우정을 키워나갈수있는 친구.#@문장구분# 친구에게 양보, 배려, 존중을하며 다투지 않아야한다.#@문장구분# 친구와 같이 있으면 소중한 시간을 보낼수있고 놀면서 점점 서로에 대해 알아 가면서 친한 친구가 될수있다.#@문장구분# 친구와 나는 연필과지우개를 세트로 파는것처럼 언제든지 나와 같이 있어줄 친한 친구다. #@문장구분#싸우지 않고 사이좋은친구가 되어주고싶다.",
+      "paragraph_len": 503,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20,
+      23.05
+    ],
+    "essay_scoreT_avg": 24.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "친구란 나를 위로를 해주고 싸웠다고 해서  너무 멀어지고 다시 화해할 수 있는  친구.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구란 나를 <문법_맞춤법>위로를해주고 싸웠다고해서</문법_맞춤법> 너무 멀어지고 다시 화해할수있는 친구.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나와 장난과 농담을 하면서 행복하고 즐거워하는 친구.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나와<문법_맞춤법> 장남과농담을</문법_맞춤법> 하면서 행복하고 즐거워하는 친구.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 친구에게 즐거움을 주고, 배려와 존중을 하며  싸우지 않는 친구가 되어주고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 친구에게 <문법_맞춤법>즐거움을주고, 배려와존중을하며</문법_맞춤법> 싸우지 않는 친구가 되어주고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 절친이란 같이 있었던 시간이 많이 없었어도 빨리 친해져서 우정을 키워나갈 수 있는친구.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 절친이란 같이 있었던 시간이 많이 없었어도 빨리 친해져서 우정을 <문법_맞춤법>키워나갈수있는 </문법_맞춤법>친구.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구에게 양보, 배려, 존중을 하며 다투지 않아야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구에게 양보, 배려,<문법_맞춤법> 존중을하며</문법_맞춤법> 다투지 않아야한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구와 같이 있으면 소중한 시간을 보낼 수 있고 놀면서 점점 서로에 대해 알아 가면서 친한 친구가 될 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구와 같이 있으면 소중한 시간을<문법_맞춤법> 보낼수있고</문법_맞춤법> 놀면서 점점 서로에 대해 알아 가면서 친한 친구가 될수있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구와 나는 연필과 지우개를 세트로 파는 것처럼 언제든지 나와 같이 있어줄 친한 친구다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구와 나는 <문법_맞춤법>연필과지우개를</문법_맞춤법> 세트로 파는것처럼 언제든지 나와 같이 있어줄 친한 친구다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "싸우지 않고 사이좋은 친구가 되어주고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "싸우지 않고 <문법_맞춤법>사이좋은친구가 되어주고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52630",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 344,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즈음 SNS를 사용하는 사람들이 점점 증가하고 있다.#@문장구분# 그래서 SNS상에서 발생하는 문제들도 매우 많이 늘어나고 있다.#@문장구분# 특히 SNS의 익명성을 이용한 문제들이 매우 많이 발생한다.#@문장구분# 익명성을 이용하여 타인에게 악성댓글을 달거나, 루머를 유포하는 등, 다양한 많은 문제들이 발생하고 있다.#@문장구분# 그래서 사람들은, SNS에 실명제를 도입할 것인가?에 대하여 논의를 하고 있다.#@문장구분# SNS에 실명제를 도입하는 것에 대하여 찬성한다.#@문장구분# 실명제를 도입하게 된다면, 악성댓글을 달거나 루머를 유포하는 일이 적어질 것이다.#@문장구분# 왜냐하면 실명제를 시행했을 때, 악성댓글을 달거나 루머를 유포한다면 이것을 누가 한것인지 다 알게 될것이기 때문이다.#@문장구분# SNS에 실명제를 도입하여, 하루 빨리 이 문제를 해결할 수 있으면 좋겠다고 생각한다.#@문장구분# 이러한 문제가 해결된다면, 많은 사람들이 좀 더 유익한  SNS생활을 할 수 있을 것이라고 생각하기 때문이다.#@문장구분# 모두가 유익하고, 건강한 SNS생활을 할 수 있는 날이 하루라도 빨리 다가왔으면 좋겠다. #@문장구분#그럼 지금도 활발한 SNS활동이, 더욱 더 활발해질 것 같기 때문이다.#@문장구분#",
+      "paragraph_len": 785,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27,
+      27.61111,
+      27.61111
+    ],
+    "essay_scoreT_avg": 27.407408,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 SNS 상에서 발생하는 문제들도 매우 많이 늘어나고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>SNS상에서</문법_맞춤법> 발생하는 문제들도 매우 많이 늘어나고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 익명성을 이용하여 타인에게 악성 댓글을 달거나, 루머를 유포하는 등, 다양한 많은 문제들이 발생하고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 익명성을 이용하여 타인에게 <문법_맞춤법>악성댓글을 </문법_맞춤법>달거나, 루머를 유포하는 등, 다양한 많은 문제들이 발생하고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 실명제를 도입하게 된다면, 악성 댓글을 달거나 루머를 유포하는 일이 적어질 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 실명제를 도입하게 된다면, <문법_맞춤법>악성댓글을 </문법_맞춤법>달거나 루머를 유포하는 일이 적어질 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 실명제를 시행했을 때, 악성 댓글을 달거나 루머를 유포한다면 이것을 누가 한 것인지 다 알게 될 것이기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 실명제를 시행했을 때, <문법_맞춤법>악성댓글을 </문법_맞춤법>달거나 루머를 유포한다면 이것을 누가 한것인지 다 알게 될것이기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " SNS에 실명제를 도입하여, 하루빨리 이 문제를 해결할 수 있으면 좋겠다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " SNS에 실명제를 도입하여, <문법_맞춤법>하루 빨리</문법_맞춤법> 이 문제를 해결할 수 있으면 좋겠다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 문제가 해결된다면, 많은 사람들이 좀 더 유익한  SNS 생활을 할 수 있을 것이라고 생각하기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러한 문제가 해결된다면, 많은 사람들이 좀 더 유익한  <문법_맞춤법>SNS생활을</문법_맞춤법> 할 수 있을 것이라고 생각하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모두가 유익하고, 건강한 SNS 생활을 할 수 있는 날이 하루라도 빨리 다가왔으면 좋겠다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모두가 유익하고, 건강한 <문법_맞춤법>SNS생활을</문법_맞춤법> 할 수 있는 날이 하루라도 빨리 다가왔으면 좋겠다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그럼 지금도 활발한 SNS 활동이, 더욱 더 활발해질 것 같기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그럼 지금도 활발한 <문법_맞춤법>SNS활동</문법_맞춤법>이, 더욱 더 활발해질 것 같기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71590",
+    "essay_prompt": " SNS 서비스는 페이스북과 트위터 등의 폭발적 성장에 따라 관심의 대상으로 부상했습니다.\n\n 하지만, 소통과 여론 조성의 장이 SNS로 옮겨짐에 따라 온라인을 통해 다른 사람을 비판하는 행위 또한 더욱 활발해지고 있습니다. 특히 연예인이나 유명인들이 큰 피해를 받고 있습니다. 특정 인물의 사진이나 개인정보를 도용하는 일도 있습니다.\n\n 한쪽에서는 SNS의 익명성 때문에 이러한 일이 비일비재하게 벌어지고 있다고 주장합니다. 익명성을 없애고 실명제를 도입해야 근본적인 해결을 할 수 있다고 말합니다.\n\n 근거 없는 주장은 아닙니다. 다만 익명성이 보장되기 때문에 자유롭게 소통할 수 있었던 SNS의 장점도 사라지게 될 것입니다.\n\n 여러분은 SNS상의 문제에 대해 어떻게 생각하시나요?\n\n SNS를 시작하는 것 자체가 다른 사람들의 자유로운 의견을 받아들이는 것에 동의한 것이니 피해에 대해서는 본인이 감수해야 한다고 생각하시나요?\n\n 아니면 실명제가 도입을 해야 한다고 생각하시나요?\n\n 혹은 다른 방법이 있다고 생각하시나요?\n\n SNS상의 문제에 대한 본인의 의견을 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 546,
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성"
+  }
+}

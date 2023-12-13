@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 학습활동을 학교에서만 3시간 합니다.#@문장구분# 그리고 여가생활은 하루에 약 5시간입니다.#@문장구분# 그리고 여가활동중에 하는것은 쿠키런킹덤이라는 게임과 그리고 유튜브 그리고 닌텐도 스위치로 할 수 있는 모여봐요. 동물의 숲을 자주 하고 가끔은 할만한 게임을 찾으면서 놀기도 해도 그리고 고쳐야 할점은 학습 활동은 별로 안하는데 여가시간을 많이 보내서 공부를 별로 안한다는 점입니다.#@문장구분# 그래서 학습활동과 여가시간을 좀 조절해야 되겠습니다.#@문장구분# 끝#@문장구분#",
+      "paragraph_len": 337,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      12.4,
+      16.8,
+      17.533333
+    ],
+    "essay_scoreT_avg": 15.577777,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그리고 여가활동중에 하는것은 쿠키런킹덤이라는 게임과 그리고 유튜브 그리고 닌텐도 스위치로 할 수 있는 모여봐요. 동물의 숲을 자주 하고 가끔은 할만한 게임을 찾으면서 놀기도 해도 그리고 고쳐야 할점은 학습 활동은 별로 안하는데 여가시간을 많이 보내서 공부를 별로 안한다는 점입니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 여가활동 중에는 쿠키런 킹덤이라는 게임과 유튜브, 닌텐도 스위치로 할 수 있는 '모여봐요, 동물의 숲'을 자주 합니다. 가끔은 할 만한 게임을 찾으면서 놀기도 합니다. 그리고 고쳐야 할 점은 학습 활동은 별로 안하는데 여가시간을 많이 쓰고, 공부를 별로 안 한다는 것입니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39666",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 238,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

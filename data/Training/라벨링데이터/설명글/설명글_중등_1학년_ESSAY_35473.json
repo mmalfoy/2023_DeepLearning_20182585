@@ -1,0 +1,328 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "인간은 습관이라는 것을 가지고 있다.#@문장구분# 세 살 버릇 여듦까지 간다고 하는데 그것이 진짜 같다.#@문장구분# 나는 얼음을 먹을 때 그냥 물기 없는 얼음을 먹어서 볼이나 혀에 자주 붙었다.#@문장구분# 그래서 입술 쪽이 차가워서 아랫 입술을 빨았는데 그것이 습관이 됬다. #@문장구분#그것이 현재까지 습관이 안 고쳐지고 있다.#@문장구분# 나는 습관 중 하나는 다리를 떠는 것이다.#@문장구분# 게임을 할때나 수업을 들을때나 공부를 할때도 다리를 떨고 있다.#@문장구분# 나도 모르게 떨고 있다는 것이 정말 무섭다.#@문장구분# 이것을 고치기 위해서 조금 의식을 가지고 행동해야 겠다.#@문장구분# 2. 이불을 안 덮고 자는 습관이다.#@문장구분# 물론 더운 여름날 그러는건 상관이 없는데 봄, 여름, 가을, 겨울 4계절 내내  그래서 문제이다.#@문장구분# 나는 자기 전에는 이불을 꼭 덮고 잔다.#@문장구분# 하지만 일어나보면 이불은 저기 침대 밑에 있다. #@문장구분#부모님께 여쭤보니, 잘 때 내가 이불을 발로 차는 것이다. #@문장구분#그래서 나는 감기 몸살에 매우 약한 편이다.#@문장구분# 3. 요즘따라 거북목이 되고 있다.#@문장구분# 원래는 건강한 목이었는데 요즘 온라인 학습도 했고, 글 같은걸 많이 써서 그런지 목의 뻐근함을 느끼고 거북목이 점점 되고 있는 것도 느껴진다.#@문장구분# 목도 의식하면서 생활하는 습관을 길드려야 겠다.#@문장구분#",
+      "paragraph_len": 946,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.8,
+      24.15,
+      14.35
+    ],
+    "essay_scoreT_avg": 18.433332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.15",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 세 살 버릇 여든까지 간다고 하는데 그것이 진짜 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세 살 버릇 <문법_맞춤법>여듦</문법_맞춤법>까지 간다고 하는데 그것이 진짜 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 입술 쪽이 차가워서 아랫입술을 빨았는데 그것이 습관이 됐다.  ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 입술 쪽이 차가워서 <문법_맞춤법>아랫 입술을</문법_맞춤법> 빨았는데 그것이 습관이 됬다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그것이 현재까지 <스타일링_패러프레이징>습관이 안</스타일링_패러프레이징> 고쳐지고 있다.",
+      "sentence_corr_txt_styling": "그것이 현재까지 안 고쳐지고 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>나는</스타일링_담화 맥락 오류> 습관 중 하<스타일링_담화 맥락 오류>나는</스타일링_담화 맥락 오류> 다리를 떠는 것이다.",
+      "sentence_corr_txt_styling": " 내 습관 중 하나는 다리를 떠는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임을 할 때나 수업을 들을 때나 공부를 할 때도 다리를 떨고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게임을 <문법_맞춤법>할때나 수업을 들을때나 공부를 할때도</문법_맞춤법> 다리를 떨고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것을 고치기 위해서 조금 의식을 가지고 행동해야겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이것을 고치기 위해서 조금 의식을 가지고 <문법_맞춤법>행동해야 겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 더운 여름에 그러는 건 상관이 없는데 봄, 여름, 가을, 겨울 4계절 내내  그래서 문제이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 물론 더운 <문법_맞춤법><문법_조사>여름날 그러는건</문법_조사></문법_맞춤법> 상관이 없는데 봄, 여름, 가을, 겨울 4계절 내내  그래서 문제이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 일어나 보면 이불은 저기 침대 밑에 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>일어나보면</문법_맞춤법> 이불은 저기 침대 밑에 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3. 요즘 따라 거북목이 되고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 3. <문법_맞춤법>요즘따라</문법_맞춤법> 거북목이 되고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 원래는 건강한 목이었는데 요즘 온라인 학습도 했고, 글 같은 걸 많이 써서 그런지 목의 뻐근함을 느끼고 거북목이 점점 되고 있는 것도 느껴진다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 원래는 건강한 목이었는데 요즘 온라인 학습도 했고, 글 <문법_맞춤법>같은걸</문법_맞춤법> 많이 써서 그런지 목의 뻐근함을 느끼고 거북목이 점점 되고 있는 것도 느껴진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 목도 의식하면서 생활하는 습관을 <스타일링_담화 맥락 오류>길드려야 겠다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 목도 의식하면서 생활하는 습관을 길러야겠다. ",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35473",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 586,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

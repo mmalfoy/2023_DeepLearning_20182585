@@ -1,0 +1,165 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 친구를 같이 노는 사이라고 생각합니다.#@문장구분# 왜냐하면 같이 논다는 것은 마음이 맞는 다는 뜻이고 내가 놀래? 라고 권유를 했을때 그래 라고 답을 한다는 것은 서로 좋기에 그렇게 물어보고 대답한다고 생각합니다.#@문장구분# 또 같이 놀면 밥도 같이 먹을것이고 그러면서 쉬는 시간에 같이 놀고 하면서 자신이 어제 있었던 일이라던지 아니면 재미있었던 일들을 얘기하면서 서로 알아가고 더 친해지는 것 같습니다.#@문장구분# 같이 노는 친구라면 학교나 학원뿐만아니라 주말이나 휴일에 밖에서 따로 놀면서 더 추억도 쌓고 놀러도 같이 가면서 더 친해지고 서로 집에 초대하면서 친하게 지내면서 하기때문에 같이 노는 사이가 친구라고 생각합니다.#@문장구분# 그렇게 친하지 않으면 사적으로 밖에서 만나지도 서로의 집에 초대하지도 않을 것 같다는 생각을 하였습니다.",
+      "paragraph_len": 476,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      20.8,
+      18.95
+    ],
+    "essay_scoreT_avg": 20.533335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 같이 노는 친구라면 학교나 학원 뿐만 아니라 주말이나 휴일에 밖에서 따로 놀면서 더 추억도 쌓고 놀러도 같이 가면서 더 친해지고 서로 집에 초대하면서 친하게 지내면서 하기 때문에 같이 노는 사이가 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 같이 노는 친구라면 학교나 <문법_맞춤법>학원뿐만아니라</문법_맞춤법> 주말이나 휴일에 밖에서 따로 놀면서 더 추억도 쌓고 놀러도 같이 가면서 더 친해지고 서로 집에 초대하면서 친하게 지내면서 하기때문에 같이 노는 사이가 친구라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55916",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 397,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

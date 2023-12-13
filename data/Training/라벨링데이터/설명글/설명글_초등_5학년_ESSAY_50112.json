@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 좋아하는 과목은 바로 수학입니다.#@문장구분# 왜냐하면 계산을 좋아하기 때문입니다.#@문장구분# 3학년때까진느 수학이 싫었는데 수학학원을 다니고 수학을 열심히 하다보니 갑자기 수학이 좋아졌습니다. #@문장구분#덧셈, 나눗셈, 곱셈, 빼기 1분 안에 암산이 됩니다. #@문장구분#그래서 3학년때부터 수학 경시대회를 나갔습니다.#@문장구분# 지금까지 경시대회를 4~5번 나갔습니다.#@문장구분#상도 3번 받았습니다. #@문장구분#상을 탈때마다 부모님이 소원을 들어주셔서 더 열심히 공부를 하고 있습니다.#@문장구분# 계산이 빨리빨리 되다보니 수학이 너무 재밌어졌습니다.#@문장구분# 이제 점점 수학이 어려워지고 있는데 걱정입니다.#@문장구분# 그치만 어려울 수록 노력할 것 입니다. #@문장구분#계속계속 경시대회를 나가 상을 타고 싶습니다.#@문장구분# 저는 똑똑해져서 어른이 되가지고 저의 애기를 어릴때부터 수학을 가르치고 싶습니다. #@문장구분#저는 꼭 수학박사가 안되어도 수학을 잘하고 싶습니다.#@문장구분# 계속해서 수학을 잘하게 되어 박사가 되고 싶습니다.",
+      "paragraph_len": 723,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8571428,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      19.466667,
+      19.419048
+    ],
+    "essay_scoreT_avg": 20.00635,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 3학년 때까지는 수학이 싫었는데 수학학원을 다니고 수학을 열심히 하다 보니 갑자기 수학이 좋아졌습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>3학년때까진느</문법_맞춤법> 수학이 싫었는데 수학학원을 다니고 수학을 열심히 하다보니 갑자기 수학이 좋아졌습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 3학년 때부터 수학 경시대회를 나갔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 3<문법_맞춤법>학년때부터 </문법_맞춤법>수학 경시대회를 나갔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "상을 탈 때마다 부모님이 소원을 들어주셔서 더 열심히 공부를 하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "상을 <문법_맞춤법>탈때마다</문법_맞춤법> 부모님이 소원을 들어주셔서 더 열심히 공부를 하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 계산이 빨리빨리 되다 보니 수학이 너무 재밌어졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 계산이 빨리빨리 <문법_맞춤법>되다보니</문법_맞춤법> 수학이 너무 재밌어졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 어려울수록 노력할 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그치만 </문법_맞춤법>어려울 수록 노력할 것 입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "계속 계속 경시대회를 나가 상을 타고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>계속계속 </문법_맞춤법>경시대회를 나가 상을 타고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 똑똑해져서 어른이 돼가지고 저의 아이가 어릴 때부터 수학을 가르치고 싶습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 똑똑해져서 어른이 <문법_맞춤법>되가지고 </문법_맞춤법>저의 애기를 어릴때부터 수학을 가르치고 싶습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 꼭 수학 박사가 안되어도 수학을 잘하고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 꼭 <문법_맞춤법>수학박사가</문법_맞춤법> 안되어도 수학을 잘하고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50112",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 445,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

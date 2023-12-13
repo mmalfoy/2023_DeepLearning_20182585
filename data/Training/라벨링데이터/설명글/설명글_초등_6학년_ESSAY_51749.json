@@ -1,0 +1,328 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "당신은 유관순열사라는 이름을 들어보신적 있으십니까?#@문장구분# 유관순열사님은 어린나이에도 대한 독립을 위해 싸웠던 우리나라에 자랑스러운 인물입니다.#@문장구분# 유관순열사님이 대단한 이유는.#@문장구분#\n 첫째, 어린나이에 독립운동에 나섰다.#@문장구분# 유관순열사님은 우리들과 나이차이도 별로 나지 않는데도 목숨을 받혀 독립운동에 열과 성을 다하여 싸웠다.#@문장구분# \n 둘째, 많은 사람을 이끌어 독립운동을 하였다.#@문장구분# 유관순열사님은 사람들을 이끌고 태극기를 만들어 대한독립을 위해 싸웠다.#@문장구분# \n 셋째, 감옥에 있고, 죽기전까지도 \"대한독립만세\"를 외쳤다.#@문장구분# 유관순열사님은 독립운동을 하다. 일본군에게 잡혀 감옥에 끌려갔을 때에도 독립정신을 잃지 않고 독립운동을 하였다.#@문장구분# \n 이와같이 우리들과 나이차이도 별로 나지 않는데 나라사랑과 애국심으로 목숨을 바쳐 대한독립을 위해 싸웠다.#@문장구분# 나는 유관순열사님의 국건한 도전정신과 애국심을 본받고 싶다.#@문장구분# \n 우리 모두 유관순열사님을 본받아 멋진사람이 될때 입니다.",
+      "paragraph_len": 689,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      26.4,
+      24
+    ],
+    "essay_scoreT_avg": 25.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "당신은 유관순 열사라는 이름을 들어보신 적 있으십니까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "당신은 <문법_맞춤법>유관순열사라는 이름을 들어보신적 </문법_맞춤법>있으십니까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유관순 열사님은 어린 나이에도 대한 독립을 위해 싸웠던 우리나라에 자랑스러운 인물입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>유관순열사님은 </문법_맞춤법>어린나이에도 대한 독립을 위해 싸웠던 우리나라에 자랑스러운 인물입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유관순 열사님이 대단한 이유는.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>유관순열사님이 </문법_맞춤법>대단한 이유는.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫째, 어린 나이에 독립운동에 나섰다.",
+      "sentence_corr_reason": [
+        "",
+        "여기부터 마지막까지 높임말 바뀜"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n 첫째, <문법_맞춤법>어린나이에 </문법_맞춤법>독립운동에 나섰다.",
+      "sentence_corr_txt_styling": "\n 첫째, 어린 나이에 독립운동에 나섰다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유관순 열사님은 우리들과 나이 차이도 별로 나지 않는데도 목숨을 바쳐 독립운동에 열과 성을 다하여 싸웠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>유관순열사님은 </문법_맞춤법>우리들과 나이차이도 별로 나지 않는데도 목숨을 받혀 독립운동에 열과 성을 다하여 싸웠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유관순 열사님은 사람들을 이끌고 태극기를 만들어 대한 독립을 위해 싸웠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>유관순열사님은 </문법_맞춤법>사람들을 이끌고 태극기를 만들어 대한독립을 위해 싸웠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 셋째, 감옥에 있고, 죽기 전까지도 \"대한독립만세\"를 외쳤다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 셋째, 감옥에 있고, <문법_맞춤법>죽기전까지도 </문법_맞춤법>\"대한독립만세\"를 외쳤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유관순 열사님은 독립운동을 하다. 일본군에게 잡혀 감옥에 끌려갔을 때에도 독립정신을 잃지 않고 독립운동을 하였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>유관순열사님은 </문법_맞춤법>독립운동을 하다. 일본군에게 잡혀 감옥에 끌려갔을 때에도 독립정신을 잃지 않고 독립운동을 하였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 이와 같이 우리들과 나이 차이도 별로 나지 않는데 나라사랑과 애국심으로 목숨을 바쳐 대한 독립을 위해 싸웠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n <문법_맞춤법>이와같이</문법_맞춤법> 우리들과 나이차이도 별로 나지 않는데 나라사랑과 애국심으로 목숨을 바쳐 대한독립을 위해 싸웠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 유관순 열사님의 국건한 도전정신과 애국심을 본받고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>유관순열사님의 </문법_맞춤법>국건한 도전정신과 애국심을 본받고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 우리 모두 유관순 열사님을 본받아 멋진 사람이 될 때입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 우리 모두<문법_맞춤법> 유관순열사님을 본받아 멋진사람이 될때 입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51749",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 472,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

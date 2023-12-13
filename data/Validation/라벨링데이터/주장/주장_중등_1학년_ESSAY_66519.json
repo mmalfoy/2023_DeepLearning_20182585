@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "인터넷 실명제 제도는 생겨야 한다고 생각합니다.#@문장구분# 요즘 SNS의 핫한 문제점은 사칭이라고 생각하는데요.#@문장구분# 다른 사람의 사진만 있으면 쉽게 사칭을 할 수 있는 시대가 되었습니다.#@문장구분# 사칭은 누구나 당할 수 있는 것 이여서 더 무서운 것 같습니다.#@문장구분# 저도 사칭을 당해보았는데요.#@문장구분# 아는 여자인 동생이 익명으로 오픈 채팅 방에 들어 가서 남자인 척 하며 사람들을 속였는데 사람들이 남자인 것을 인증하라하여 저의 사진을 보여줬다고 합니다.#@문장구분# 왜 남자인 척 했냐고 물어보니 남자인 척 하면 사람들이 자신을 더 주목해주는 느낌이 나서 했다고 했습니다.#@문장구분# 잘 이해가 가지 않았지만 지인들로부터도 사칭을 당할 수 있다는 것이 있다는 것입니다.#@문장구분# 저에게도 이런 일이 일어났다는 것이 어처구니가 없지만 사칭하는 사람이 잘생겼거나 예쁜 것을 따지지 않고 사칭하는 사람들도 많기 때문에 사칭을 당한 피해자들은 남녀노소를 가리지 않습니다.#@문장구분# 그래서 저는 인터넷에서는 자신의 성별과 이름, 나이 등을 노출되어야 한다고 생각합니다.#@문장구분#",
+      "paragraph_len": 696,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      24.9,
+      22.52222
+    ],
+    "essay_scoreT_avg": 25.30741,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 아는 여자인 동생이 익명으로 오픈 채팅 방에 들어가서 남자인 척하며 사람들을 속였는데 사람들이 남자인 것을 인증하라 하여 저의 사진을 보여줬다고 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아는 여자인 동생이 익명으로 오픈 채팅 방에 <문법_맞춤법>들어 가서 남자인 척 하며</문법_맞춤법> 사람들을 속였는데 사람들이 남자인 것을 인증하라하여 저의 사진을 보여줬다고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜 남자인 척했냐고 물어보니 남자인 척하면 사람들이 자신을 더 주목해 주는 느낌이 나서 했다고 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜 <문법_맞춤법>남자인 척 했냐고</문법_맞춤법> 물어보니 남자인 척 하면 사람들이 자신을 더 주목해주는 느낌이 나서 했다고 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66519",
+    "essay_prompt": " SNS 서비스는 페이스북과 트위터 등의 폭발적 성장에 따라 관심의 대상으로 부상했습니다.\n\n 하지만, 소통과 여론 조성의 장이 SNS로 옮겨짐에 따라 온라인을 통해 다른 사람을 비판하는 행위 또한 더욱 활발해지고 있습니다. 특히 연예인이나 유명인들이 큰 피해를 받고 있습니다. 특정 인물의 사진이나 개인정보를 도용하는 일도 있습니다.\n\n 한쪽에서는 SNS의 익명성 때문에 이러한 일이 비일비재하게 벌어지고 있다고 주장합니다. 익명성을 없애고 실명제를 도입해야 근본적인 해결을 할 수 있다고 말합니다.\n\n 근거 없는 주장은 아닙니다. 다만 익명성이 보장되기 때문에 자유롭게 소통할 수 있었던 SNS의 장점도 사라지게 될 것입니다.\n\n 여러분은 SNS상의 문제에 대해 어떻게 생각하시나요?\n\n SNS를 시작하는 것 자체가 다른 사람들의 자유로운 의견을 받아들이는 것에 동의한 것이니 피해에 대해서는 본인이 감수해야 한다고 생각하시나요?\n\n 아니면 실명제가 도입을 해야 한다고 생각하시나요?\n\n 혹은 다른 방법이 있다고 생각하시나요?\n\n SNS상의 문제에 대한 본인의 의견을 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 497,
+    "essay_main_subject": "SNS상의 문제에 대한 본인의 생각 작성"
+  }
+}

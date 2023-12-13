@@ -1,0 +1,453 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단은 병에 걸리지 않으러면 위생을 지키러면은요 위생을 좋게 만들려면 일단 몸을 깨끗하게 해야 합니다.#@문장구분# 이유는요 외출을 하고오면 특히 손에 세균이 가장 많이 있는 곳 입니다. #@문장구분#그래서 안씻은 손으로 눈이같은 곳을 만지면 세균이 그곳으로 들어갈 수 있습니다.#@문장구분#\n그리고 손을 안씻고 음식을 만지면 음식을 통해 식도를 들어 갈 수 있습니다.#@문장구분# 그리까 손을 씻으면 세균이 들어오는 것을 막을 수 있습니다.#@문장구분# 그리까 30초동아 비누로 씻으면 세균을 죽일 수 있습니다.#@문장구분# 그렇다고 손만 하면 안되고 몸도 씻어야 합니다.#@문장구분# 몸은 비누 칠로 천천히 씻고 물로 행겨 야지만 몸에도 세금을 죽일 수 있습니다. #@문장구분#그러무노 손과 몸을 깨끗이 씻으며 겅간한 몸을 만들시다. #@문장구분#그다음 먹는 것도 알려좋야겠죠#@문장구분# 음식은 아무거나 먹으면 안됩니다.#@문장구분# 특히 약은더요#@문장구분# 약이 처방 된게아닌데 먹으면 더 안좋아질 수 도 있습니다#@문장구분#. 약은 정해진 거만 먹으며 시간이 너무 많이 지나면 버리고 다시약을 처방받아야 합니다.#@문장구분# 그리고 음식은 깨끗이 씻고 물을 끌어서 먹어야됩니다. #@문장구분#그냥먹으면 세균을 그냥 먹는거랑 같아서 배탈 같은 병에 걸리수 있습니다. #@문장구분#음식은 또 유통기간이 지난것도 먹으면 안됩니다. #@문장구분#그리까 깨끗이 씻고 유통이 지난것은 먹지 말시다.#@문장구분# 끝",
+      "paragraph_len": 969,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.333334,
+      14.4,
+      14.333333
+    ],
+    "essay_scoreT_avg": 15.022222,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "일단 병에 걸리지 않고 위생을 지키려면 몸을 깨끗하게 해야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_패러프레이징>일단은 병에 걸리지 않으러면 위생을 지키러면은요 위생을 좋게 만들려면 일단 몸을 깨끗하게 해야 합니다.</문법_패러프레이징></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>이유는요 외출을 하고오면 특히 손에 세균이 가장 많이 있는 곳 입니다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": " 외출을 하고 오면 특히 손에 세균이 가장 많습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 안 씻은 손으로 눈 같은 곳을 만지면 세균이 그곳으로 들어갈 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 <문법_맞춤법>안씻은 손으로 눈이같은 곳을</문법_맞춤법> 만지면 세균이 그곳으로 들어갈 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그리고 손을 안 씻고 음식을 만지면 음식을 통해 식도로 들어갈 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "\n그리고 손을 <문법_맞춤법>안씻고</문법_맞춤법> 음식을 만지면 음식을 통해 <문법_조사>식도를 들어 갈</문법_조사> 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그니까 손을 씻으면 세균이 들어오는 것을 막을 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리까</문법_맞춤법> 손을 씻으면 세균이 들어오는 것을 막을 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_패러프레이징>그리까 30초동아</스타일링_패러프레이징></스타일링_맞춤법> 비누로 씻으면 세균을 죽일 수 있습니다.",
+      "sentence_corr_txt_styling": " 30초 동안 비누로 씻으면 세균을 죽일 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇다고 손만 하면 안 되고 몸도 씻어야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇다고 손만 하면 <문법_맞춤법>안되고</문법_맞춤법> 몸도 씻어야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 몸은 비누칠로 천천히 씻고 물로 헹궈야지만 몸에도 세균을 죽일 수 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 몸은 <문법_맞춤법>비누 칠로 천천히 씻고 물로 행겨 야지만 몸에도 세금을 죽일 수 있습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러므로 손과 몸을 깨끗이 씻으며 건강한 몸을 만듭시다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그러무노 손과 몸을 깨끗이 씻으며 겅간한 몸을 만들시다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그다음 먹는 것도 알려줘야겠죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그다음 먹는 것도 <문법_맞춤법>알려좋야겠죠</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 음식은 아무거나 먹으면 안 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 음식은 아무거나 먹으면 <문법_맞춤법>안됩니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 약은 더요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 특히 <문법_맞춤법>약은더요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처방된 약이 아닌데 먹으면 더 안 좋아질 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>약이 처방 된게아닌데 먹으면 더 안좋아질 수 도 있습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>. 약은 정해진 거만 먹으며 시간이 너무 많이 지나면 버리고 다시약을 처방받아야 합니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "약은 정해진 것만 먹어야 하고, 시간이 너무 많이 지나면 버리고 새로운 약을 처방 받아야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 음식은 깨끗이 씻고 물은 끓여서 먹어야 됩니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그리고 음식은 깨끗이 씻고 <문법_맞춤법><문법_조사>물을 끌어서 먹어야됩니다.</문법_조사></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>그냥먹으면 세균을 그냥 먹는거랑 같아서 배탈 같은 병에 걸리수 있습니다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": "그냥 먹으면 세균을 그냥 먹는 거랑 같아서 배탈이 날 수 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "음식은 또 유통기한이 지난 것도 먹으면 안 됩니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "음식은 또 <스타일링_담화 맥락 오류>유통기간</스타일링_담화 맥락 오류>이 <문법_맞춤법>지난것도 먹으면 안됩니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "음식은 또 유통기한이 지난 것도 먹으면 안 됩니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그니까 깨끗이 씻어 먹고, 유통기한이 지난 것은 먹지 맙시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그리까 깨끗이 씻고 유통이 지난것은 먹지 말시다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36045",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 609,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

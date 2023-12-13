@@ -1,0 +1,398 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주제\n반려동물 증가와 유기에 대한 대안제시#@문장구분#\n제시문:\n동물들을 키우는것이 좋습니다.#@문장구분# 근데 동물들을 버린다.#@문장구분# 이건 아주 이상합니다.#@문장구분#저의 생각을 말해보겠습니다. #@문장구분#자 집에서 동물들안태 관심이있다는것이다. #@문장구분#그럼 그곳에서 동물과 관련된 직업 을가지고 거기서 동물의 건강한 기안 한가 를검사 해서 건강 한거 주고 그레서 좋은것갔다#@문장구분#. 저의 생각입니다.#@문장구분#\n의견:\n저의 의견은 1. 법을 만들자 입니다.#@문장구분#\n사람들은 법을지키는사람 안지키는사람이있다.#@문장구분# 거기서 법을 만들어서 동물법을만들어서 동물들을 학대, 버리는사람은 징역5년 벌금500만원으로하는것이다.#@문장구분# 2. 칩을심자 칩을만드어서 심어나서 잃어 버릴때아님 버릴때 다른사람이 찾았다면 불루투스를 연결해서집을찾는것이다.#@문장구분# 여기서잠깐 갑자기 칩을빼다 고하면 등록증을 인증하는것으로하자는 것이다.#@문장구분# 3. 경찰쪽에 이동물을 키우겠다 하고 인증 하고 전화번호이런걸 만들자 안하는경우앤 불법으로 잡아가자 이런걸한다.#@문장구분#",
+      "paragraph_len": 742,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.244446,
+      28.5,
+      15.51111
+    ],
+    "essay_scoreT_avg": 20.085184,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "주제:\n반려동물 증가와 유기에 대한 대안 제시",
+      "sentence_corr_reason": [
+        "쌍점이 필요합니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>주제</문법_기타>\n반려동물 증가와 유기에 대한 <문법_맞춤법>대안제시</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n제시문:\n동물들을 키우는 것이 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "\n제시문:\n동물들을 <문법_맞춤법>키우는것이</문법_맞춤법> 좋습니다.",
+      "sentence_corr_txt_styling": "\n제시문:\n동물들을 키우는 것이 좋습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 근데 동물들을 버린다.",
+      "sentence_corr_txt_styling": " 근데 동물들을 버린다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저의 생각을 말해 보겠습니다. ",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 생각을 <문법_맞춤법>말해보겠습니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "자 집에서 동물들한테 관심이 있다는 것입니다. ",
+      "sentence_corr_reason": [
+        "'한테'가 옳은 표현입니다.",
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "자 집에서 <문법_조사>동물들안태</문법_조사> <문법_맞춤법>관심이있다는것이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "자 집에서 동물들한테 관심이 있다는 것입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그럼 그 곳에서 동물과 관련된 직업을 가지고 거기서 동물의 건강한가를 검사해서 건강한 거 주고 그래서 좋은 것 같다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그럼 <문법_맞춤법>그곳에서</문법_맞춤법> 동물과 관련된 직업 을가지고 거기서 동물의 건강한 기안 한가 를검사 해서 건강 한거 주고 그레서 좋은것갔다",
+      "sentence_corr_txt_styling": "그럼 그 곳에서 동물과 관련된 직업을 가지고 거기서 동물의 건강한가를 검사해서 건강한 거 주고 그래서 좋은 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나의 생각이다.",
+      "sentence_corr_reason": [
+        "마침표를 빼는 것이 좋을 것 같습니다.",
+        "종결 어미를 통일하는 것이 좋을 것 같습니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": "<문법_기타>. 저의</문법_기타> <문법_어미>생각입니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n의견:\n나의 의견은 첫째, 법을 만들자이다.",
+      "sentence_corr_reason": [
+        "평칭이 자연스럽습니다.",
+        "쉼표가 자연스럽습니다.",
+        "붙여 써야 합니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n의견:\n<문법_높임법>저의</문법_높임법> 의견은 <문법_기타>1.</문법_기타> 법을 <문법_맞춤법>만들자 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n사람들은 법을 지키는 사람 안 지키는 사람이 있다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "\n사람들은 <문법_맞춤법>법을지키는사람</문법_맞춤법> 안지키는사람이있다.",
+      "sentence_corr_txt_styling": "\n사람들은 법을 지키는 사람 안 지키는 사람이 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거기서 법을 만들어서 동물 법을 만들어서 동물들을 학대, 버리는 사람은 징역 5년 벌금 500만 원으로 하는 것이다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 거기서 법을 만들어서 <문법_맞춤법>동물법을만들어서</문법_맞춤법> 동물들을 학대, 버리는사람은 징역5년 벌금500만원으로하는것이다.",
+      "sentence_corr_txt_styling": " 거기서 법을 만들어서 동물 법을 만들어서 동물들을 학대, 버리는 사람은 징역 5년 벌금 500만 원으로 하는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째, 칩을 심자. 칩을 만들어서 심어 놔서 잃어 버릴 때 아님 버릴 때 다른 사람이 찾았다면 블루투스를 연결해서 집을 찾는 것이다.",
+      "sentence_corr_reason": [
+        "쉼표가 자연스럽습니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_기타>2.</문법_기타> <문법_맞춤법>칩을심자</문법_맞춤법> 칩을만드어서 심어나서 잃어 버릴때아님 버릴때 다른사람이 찾았다면 불루투스를 연결해서집을찾는것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여기서 잠깐 갑자기 칩을 뺀다고 하면 등록증을 인증하는 것으로 하자는 것이다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>여기서잠깐</문법_맞춤법> 갑자기 칩을빼다 고하면 등록증을 인증하는것으로하자는 것이다.",
+      "sentence_corr_txt_styling": " 여기서 잠깐 갑자기 칩을 뺀다고 하면 등록증을 인증하는 것으로 하자는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 셋째, 경찰 쪽에 이 동물을 키우겠다 하고 인증하고 전화번호 이런 걸 만들자. 안 하는 경우엔 불법으로 잡아가자 이런 걸 한다.",
+      "sentence_corr_reason": [
+        "쉼표가 자연스럽습니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_기타>3.</문법_기타> <문법_맞춤법>경찰쪽에</문법_맞춤법> 이동물을 키우겠다 하고 인증 하고 전화번호이런걸 만들자 안하는경우앤 불법으로 잡아가자 이런걸한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38237",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 463,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

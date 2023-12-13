@@ -1,0 +1,222 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에게는 말을 더듬는 나쁜 습관이 있었다.#@문장구분# 아마도 성격이 급한 것과 관련이 있다고 생각한다. #@문장구분#왜냐하면 말을 빨리 하려고 하다 보니 혀가 꼬이게 되고, 말을 할 때에도 더듬게 된다고 생각하기 때문이다.#@문장구분# 그래서 나는 말을 할 때 최대한 천천히 하려고 노력을 했었다.#@문장구분# 또한 책을 피고 한 문장씩 또박또박 읽어 말하는 속도를 늦추려고 노력을 했었다.#@문장구분# 그렇게 노력을 하다 보니 나는 말을 하는 것이 점점 차분해 지기 시작했고 말을 더듬는 것도 많이 줄어 들었다.#@문장구분# 게다가 내가 지금 생각하고 있는 것을 친구나 부모님에게 전달하기도 훨씬 수월해지는 장점도 생겼다.#@문장구분# 어디가서 말 잘한다고 칭찬을 들을 정도로 나는 어휘력이 많이 늘었음을 체감을 하게 되었다. #@문장구분#그래서 나는 습관을 고치기 위해 노력을 한다면 절대 이루지 못할 것은 없다고 생각한다.#@문장구분#",
+      "paragraph_len": 588,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.3,
+      20.8,
+      19.2
+    ],
+    "essay_scoreT_avg": 21.1,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 말을 할 때 최대한 천천히 하려고 노력했다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "시제"
+      ],
+      "sentence_txt": " 그래서 나는 말을 할 때 최대한 천천히 하려고 <문법_조사><문법_시제>노력을 했었다</문법_시제></문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 책을 펴고 한 문장씩 또박또박 읽어 말하는 속도를 늦추려고 노력했다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "시제"
+      ],
+      "sentence_txt": " 또한 책을 <문법_맞춤법>피고</문법_맞춤법> 한 문장씩 또박또박 읽어 말하는 속도를 늦추려고 <문법_조사><문법_시제>노력을 했었다</문법_시제></문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 노력을 하다 보니 나는 말을 하는 것이 점점 차분해지기 시작했고 말을 더듬는 것도 많이 줄어들었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 노력을 하다 보니 나는 말을 하는 것이 점점 <문법_맞춤법>차분해 지기</문법_맞춤법> 시작했고 말을 더듬는 것도 많이 줄어 들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어디가서 말 잘한다고 칭찬을 들을 정도로 나는 어휘력이 많이 늘었음을 체감하게 되었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 어디가서 말 잘한다고 칭찬을 들을 정도로 나는 어휘력이 많이 늘었음을 <문법_조사>체감을 하게</문법_조사> 되었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69073",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 408,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "네 저는 3층짜리 집에서 살고십습니다.#@문장구분# 구조를 말해드리자면 마당에는 귀여운 강아지들이 있고 테라스가 있어 바베큐를 구어먹을수 있습니다.#@문장구분# 그리고 지하에는 큰 수영장이있습니다.#@문장구분# 수영장에는 워터슬라이드와 다이빙대가 있습니다.#@문장구분# 1층은 거실이 있는데 거실에는 고급스러운 소파가있습니다.#@문장구분# 그리고 토대형 티비가있죠.#@문장구분# 부엌에는 고급진세면대와 냉장고가 있습니다.#@문장구분# 2층에 올라가보면 방이 총 3개있습니다.#@문장구분# 한방에는 영화관이 있고 한방에는 놀이방이있습니다.#@문장구분# 그리고 한방에 노래방이 있습니다.#@문장구분# 그리고 3층에는 방이 9개 있습니다.#@문장구분# 한방에는 오락실이 있고 한방에는 부모님들에 방이 있습니다.#@문장구분# 한방에는 둘째방 한방에는 막내 방 입니다.#@문장구분# 그리고 한방에는 옷방이 있고 한방에는 금고가 있습니다.#@문장구분# 그리고 한방에들어가면 아기 동물들이 많이 있고 한방에는 방방이 있습니다.#@문장구분# 그리고마지막은 비밀의방이나 나만의방입니다.#@문장구분# 거기에는 폭신폭신한 구름침대가 있습니다.#@문장구분# 그리고 작은 인형과 큰 인형이있습니다#@문장구분# 그리고 액자와 마지막으로 큰티비와 책상입니다.#@문장구분# 진짜로 이런집에 살면 꿈일거 같네요!#@문장구분# 마지막으로 아기동물들이있는집과 멋진 자동차가있는 집에서 살고십네요.#@문장구분#",
+      "paragraph_len": 986,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.847618,
+      23.6,
+      16.952381
+    ],
+    "essay_scoreT_avg": 21.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 3층짜리 집에서 살고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_기타>네 저는</스타일링_기타> 3층짜리 집에서 <문법_맞춤법>살고십습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "저는 3층짜리 집에서 살고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마당에는 귀여운 강아지들이 있고 테라스가 있어 바베큐를 구워먹을 수 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>구조를 말해드리자면 마당에는</스타일링_담화 맥락 오류> 귀여운 강아지들이 있고 테라스가 있어 바베큐를 <문법_맞춤법>구어먹을수</문법_맞춤법> <문법_어미><문법_기타>있습니다</문법_기타></문법_어미>.",
+      "sentence_corr_txt_styling": " 마당에는 귀여운 강아지들이 있고 테라스가 있어 바베큐를 구워먹을 수 있으면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 지하에는 큰 수영장이 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 지하에는 큰 <문법_맞춤법><문법_어미><문법_기타>수영장이있습니다</문법_기타></문법_어미></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수영장에는 워터슬라이드와 다이빙대가 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 수영장에는 워터슬라이드와 다이빙대가 <문법_어미><문법_기타>있습니다</문법_기타></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1층은 거실이 있는데 거실에는 고급스러운 소파와",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 1층은 거실이 있는데 거실에는 고급스러운 <문법_맞춤법><문법_조사><문법_어미>소파가있습니다.</문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 초대형 텔레비전이 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그리고 토대형</문법_기타></문법_맞춤법> <문법_어미>티비가있죠</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부엌에는 고급스러운 세면대와 냉장고가 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 부엌에는 <문법_맞춤법><문법_어미>고급진세면대와</문법_어미></문법_맞춤법> 냉장고가 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한 방에는 영화관이 있고 한 방에는 놀이방이 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>한방에는</문법_맞춤법> 영화관이 있고 <문법_맞춤법>한방에는</문법_맞춤법> <문법_어미>놀이방이있습니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>그리고 한방에 노래방이 있습니다</스타일링_기타>.",
+      "sentence_corr_txt_styling": " 노래방도 있으면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "어미 포함",
+        "어미 포함"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류><스타일링_기타>그리고 3층에는 방이 9개 있습니다</스타일링_기타></스타일링_담화 맥락 오류>.",
+      "sentence_corr_txt_styling": " 3층에는 방이 9개 있고,.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "조사(맞춤법) 포함"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>한방에는 오락실이 있고 한방에는 부모님들에 방이 있습니다.</스타일링_기타>",
+      "sentence_corr_txt_styling": " 오락실, 부모님 방,",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>한방에는 둘째방 한방에는 막내 방 입니다.</스타일링_기타>",
+      "sentence_corr_txt_styling": " 둘째 방, 막내 방",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>그리고 한방에는 옷방이 있고 한방에는 금고가 있습니다.</스타일링_기타>",
+      "sentence_corr_txt_styling": " 그리고 옷방과 금고가 있으면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>그리고 한방에들어가면 아기 동물들이 많이 있고 한방에는 방방이 있습니다.</스타일링_기타>",
+      "sentence_corr_txt_styling": " 아기 동물들도 많이 있고 방방도 있으면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>그리고마지막은 비밀의방이나 나만의방입니다.</스타일링_기타>",
+      "sentence_corr_txt_styling": " 마지막으로 나만의 비밀 방이 있으면 좋겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 거기에는 폭신폭신한 <스타일링_기타>구름침대가 있습니다.</스타일링_기타>",
+      "sentence_corr_txt_styling": " 거기에는 폭신폭신한 구름침대,",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 작은 인형과 큰 인형이 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "전 문장에 쉼표",
+        "",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_기타>그리고 작은</문법_기타> 인형과 큰 <문법_맞춤법><문법_어미>인형이있습니다</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>그리고 액자와 마지막으로 큰티비와 책상입니다.</스타일링_기타>",
+      "sentence_corr_txt_styling": " 액자와 큰 텔레비전, 책상도요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진짜로 이런 집에 살면 꿈만같을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 진짜로 <문법_맞춤법>이런집에</문법_맞춤법> 살면 <스타일링_담화 맥락 오류>꿈일거 같네요!</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 진짜로 이런 집에 살면 꿈만같을 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 아기 동물들이 있는 집과 멋진 자동차가 있는 집에서 살고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 마지막으로 <문법_맞춤법>아기동물들이있는집과</문법_맞춤법> 멋진 자동차가있는 집에서 <문법_어미><문법_기타>살고십네요</문법_기타></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40104",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 567,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

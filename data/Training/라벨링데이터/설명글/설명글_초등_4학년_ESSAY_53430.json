@@ -1,0 +1,323 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 친구들이랑 놀이터에서 놀고 운동장에서 엄청 많이 놀아서 스트레스가 풀립니다.#@문장구분# 저는 즐거움이 놀이터와 먹는것과 일단 노는 것입니다.#@문장구분# 여가활동 고쳐야 할 점 3가지 쓰기 조용히 하기 책 읽기 컴퓨터 하기 입니다.#@문장구분# 저는 제발 공부 하기 책읽기를 정말 하기 싫고 핸드폰과 나가고 싶습니다.#@문장구분# 그리고 스트레스가 없으려면 나가서 많이 놀아야 한다.#@문장구분# 그리고 밖에서 못놀면 안에서 폰을 하면 된다.#@문장구분# 저는 주말에는 놀이터에서 놀고 폰을 하고 놀고 있엇다.#@문장구분# 그리고 센터에서 피아노도 치고 놀고 밥을 먹는다.#@문장구분# 가끔은 영화를 보기도 하고 밥도 먹는다.#@문장구분#",
+      "paragraph_len": 478,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.7142857,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.019047,
+      16,
+      12.619047
+    ],
+    "essay_scoreT_avg": 15.212697,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 친구들이랑 놀이터에서 놀고 운동장에서 많이 놀면 스트레스가 풀립니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "저는 친구들이랑 놀이터에서 놀고 운동장에서 <문법_어미>엄청 많이 놀아서</문법_어미> 스트레스가 풀립니다.",
+      "sentence_corr_txt_styling": "저는 친구들이랑 놀이터에서 놀고 운동장에서 많이 놀면 스트레스가 풀립니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 즐거움이 놀이터와 먹는 것과 일단 노는 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 저는 즐거움이 놀이터와 <문법_맞춤법>먹는것과</문법_맞춤법> 일단 노는 것입니다.",
+      "sentence_corr_txt_styling": " 저는 즐거움이 놀이터와 먹는 것과 일단 노는 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동 고쳐야 할 점 3가지 쓰기 조용히 하기 책 읽기 컴퓨터 하기입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 여가활동 고쳐야 할 점 3가지 쓰기 조용히 하기 책 읽기 컴퓨터 <문법_맞춤법>하기 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 여가활동 고쳐야 할 점 3가지 쓰기 조용히 하기 책 읽기 컴퓨터 하기입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 제발 공부 하기 책 읽기를 정말 하기 싫고 핸드폰과 나가고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 저는 제발 공부 하기 <문법_맞춤법>책읽기</문법_맞춤법>를 정말 하기 싫고 핸드폰과 나가고 싶습니다.",
+      "sentence_corr_txt_styling": " 저는 제발 공부 하기 책 읽기를 정말 하기 싫고 핸드폰과 나가고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 스트레스가 없으려면 나가서 많이 놀아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 스트레스가 없으려면 나가서 많이 놀아야 <문법_높임법>한다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 밖에서 못 놀면 안에서 폰을 하면 됩니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 밖에서 <문법_맞춤법>못놀면</문법_맞춤법> 안에서 폰을 하면 <문법_높임법>된다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 주말에는 놀이터에서 놀거나 핸드폰을 하며 놀고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "높임법",
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 주말에는 놀이터에서 <문법_어미>놀고</문법_어미> <문법_맞춤법>폰을</문법_맞춤법> 하고 <문법_어미>놀고</문법_어미> <문법_시제><문법_높임법>있엇다.</문법_높임법></문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 센터에서 피아노도 치고 놀고 밥을 먹습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 그리고 센터에서 피아노도 치고 놀고 밥을 <문법_높임법>먹는다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가끔은 영화를 보기도 하고 밥도 먹습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법"
+      ],
+      "sentence_txt": " 가끔은 영화를 보기도 하고 밥도 <문법_높임법>먹는다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53430",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 299,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

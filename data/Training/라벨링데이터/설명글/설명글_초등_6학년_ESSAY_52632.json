@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 친구를 항상같이 가고 어떤일이 있어도 나랑 함께 해주는 친구가 좋을거 같다고 생각합니다.#@문장구분# 아무리 연락을 많이하거나 인사만 해주는 친구보다 나를 진심으로 친구라고 생각하고 마음놓고 애기하는것이 익숙해지면 진정한 친구라고 생각하였습니다#@문장구분# 친구에게 순위를 맺는다 한들 친구는 같이살면서 서로 이해하고 존중하는 친구가 순위가 낮든 높든 정말가족같은 느낌이저에 순위는 아무소용이 없다고 생각합니다.#@문장구분# 그리고 저는 친구들에게 이런친구가 되고 싶습니다.#@문장구분# 저는 항상 받고만 살았기에 친구들에게 해준적이 거의 없을 정도록 기억이 안나는 제 모습이 부끄러워 친구들에게 진심으로 베풀줄 아는 친구가 될것입니다.#@문장구분# 이로써 저는 진정한 친구는 모든걸 같이 해주진 못하지만 내 마음을 이해 존중 해주는 사람을 친구라고 생각합니다.",
+      "paragraph_len": 494,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.65,
+      27.5
+    ],
+    "essay_scoreT_avg": 26.716667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 친구를 항상 같이 가고 어떤 일이 있어도 나랑 함께해 주는 친구가 좋을 거 같다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 친구를<문법_맞춤법> 항상같이</문법_맞춤법> 가고 어떤일이 있어도 나랑 함께 해주는 친구가 좋을거 같다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무리 연락을 많이 하거나 인사만 해주는 친구보다 나를 진심으로 친구라고 생각하고 마음 놓고 얘기하는 것이 익숙해지면 진정한 친구라고 생각하였습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무리 연락을 <문법_맞춤법>많이하거나</문법_맞춤법> 인사만 해주는 친구보다 나를 진심으로 친구라고 생각하고 마음놓고 애기하는것이 익숙해지면 진정한 친구라고 생각하였습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구에게 순위를 맺는다 한들 친구는 같이 살면서 서로 이해하고 존중하는 친구가 순위가 낮든 높든 정말 가족 같은 느낌이 저의 순위는 아무 소용이  없다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구에게 순위를 맺는다 한들 친구는 <문법_맞춤법>같이살면서</문법_맞춤법> 서로 이해하고 존중하는 친구가 순위가 낮든 높든 정말가족같은 느낌이저에 순위는 아무소용이 없다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 저는 친구들에게 이런 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 저는 친구들에게 <문법_맞춤법>이런친구가</문법_맞춤법> 되고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 항상 받고만 살았기에 친구들에게 해준 적이 거의 없을 정도로 기억이 안 나는 제 모습이 부끄러워 친구들에게 진심으로 베풀 줄 아는 친구가 될 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 항상 받고만 살았기에 친구들에게 <문법_맞춤법>해준적이 </문법_맞춤법>거의 없을 정도록 기억이 안나는 제 모습이 부끄러워 친구들에게 진심으로 베풀줄 아는 친구가 될것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이로써 저는 진정한 친구는 모든 걸 같이 해주진 못하지만 내 마음을 이해 존중해 주는 사람을 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이로써 저는 진정한 친구는 <문법_맞춤법>모든걸 </문법_맞춤법>같이 해주진 못하지만 내 마음을 이해 존중 해주는 사람을 친구라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52632",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 395,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

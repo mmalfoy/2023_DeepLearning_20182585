@@ -1,0 +1,327 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "찬성합니다.#@문장구분# 투표는 우승자를 정하는지랑 비슷하다. #@문장구분#반장선거도 1명만 뽑는거고 대통령선거도 단 1만 뽑는거기에, 자신이 투표 한사람 강등이 당하면 어쩔 수 없는거다. #@문장구분#그래서 요즘 사회는 이러하다. #@문장구분#이번에도 바이든이 대통령이 돼었지만 미국은 아직 잘산다.#@문장구분# 따라아서 튜표는 어쩔 수 없는거다.#@문장구분# 그리고 튜표는 사회에 큰 영향도 주지 않고, 뭐 크게야 거기에서 거기다. #@문장구분#공부를 열심히 해야돼요. #@문장구분#쉽게 말하면 투표는 중요하지 않고 사회적 영향도 (대통령 선거 제외) 만이 끼치기 않고 민주주의는 당당히(?) 다수결이기 때문에 비밀튜표보다 원할하고 빠르게 진행 할 수 있다.#@문장구분# 그래도 나중에는 좀 투표하는 방법이 달라지겠지만 지금껄 생각해야하니 일단 튜표는 다수결이나 제비뽑기든 튜표로 해야돼고 튜표가 많은사람들은 어떤일을 했기 때문에 튜표는 무조건 이긴사람들만 해야한다 #@문장구분#근데 안따깝께도 튜표에서 진 사람들은 다음 기회를 노려야 한다. #@문장구분#그래도 진 사람들은 절망은 하지 말고 좌절하지 말고 다음에 더 노력하면 된다.#@문장구분#",
+      "paragraph_len": 743,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      10,
+      21.6,
+      18.4
+    ],
+    "essay_scoreT_avg": 16.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.01",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 투표는 우승자를 정하는 것과 비슷하다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 투표는 우승자를 <문법_맞춤법><문법_조사>정하는지랑 비슷하다</문법_조사></문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "반장선거도 1명만 뽑는 거고 대통령선거도 단 1명만 뽑기 때문에, 자신이 투표한 사람이 강등 당하면 어쩔 수 없는 거다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "반장선거도 1명만 <문법_맞춤법>뽑는거고</문법_맞춤법> 대통령선거도 단 <스타일링_담화 맥락 오류>1만 뽑는거기에</스타일링_담화 맥락 오류>, 자신이 투표 한사람 강등이 당하면 어쩔 수 없는거다. ",
+      "sentence_corr_txt_styling": "반장선거도 1명만 뽑는 거고 대통령선거도 단 1명만 뽑기 때문에, 자신이 투표한 사람이 강등 당하면 어쩔 수 없는 거다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이번에도 바이든이 대통령이 되었지만 미국은 아직 잘산다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이번에도 바이든이 대통령이 <문법_맞춤법>돼었지만</문법_맞춤법> 미국은 아직 잘산다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 따라서 투표는 어쩔 수 없는 거다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 맞춤법"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>따라아서 튜표는 어쩔 수 없는거다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 투표는 사회에 큰 영향도 주지 않고, 뭐 거기서 거기다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>튜표는</문법_맞춤법> 사회에 큰 영향도 주지 않고,<스타일링_담화 맥락 오류> 뭐 크게야 거기에서 거기다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 그리고 투표는 사회에 큰 영향도 주지 않고, 뭐 거기서 거기다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "공부를 열심히 해야 해요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "공부를 열심히 <문법_조사>해야돼요</문법_조사>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "쉽게 말하면 투표는 중요하지 않고 사회적 영향도 (대통령 선거 제외) 많이 끼치기 않고 민주주의는 다수결이기 때문에 비밀투표보다 원활하고 빠르게 진행 할 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "쉽게 말하면 투표는 중요하지 않고 사회적 영향도 (대통령 선거 제외) <문법_맞춤법>만이</문법_맞춤법> 끼치기 않고 민주주의는<스타일링_담화 맥락 오류> 당당히(?) 다수결이기 때문에</스타일링_담화 맥락 오류> 비밀튜표보다 원할하고 빠르게 진행 할 수 있다.",
+      "sentence_corr_txt_styling": "쉽게 말하면 투표는 중요하지 않고 사회적 영향도 (대통령 선거 제외) 많이 끼치기 않고 민주주의는 다수결이기 때문에 비밀투표보다 원활하고 빠르게 진행 할 수 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징",
+        "기타"
+      ],
+      "sentence_txt": " 그래도 나중에는 좀 투표하는 방법이 달라지겠지만 <스타일링_담화 맥락 오류><스타일링_패러프레이징><스타일링_기타>지금껄 생각해야하니 일단 튜표는 다수결이나 제비뽑기든 튜표로 해야돼고 튜표가 많은사람들은 어떤일을 했기 때문에 튜표는 무조건 이긴사람들만 해야한다</스타일링_기타></스타일링_패러프레이징></스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 그래도 나중에는 좀 투표하는 방법이 달라지겠지만 지금까지 생각해보니 일단 투표는 다수결이나 제비뽑기든 투표로 해야돼고 많은 사람들은 어떤일을 했기 때문에 투표는 무조건 이긴 사람들 만 해야 한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "근데 안따깝게도 투표에서 진 사람들은 다음 기회를 노려야 한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "근데 <문법_맞춤법>안따깝께도</문법_맞춤법> 튜표에서 진 사람들은 다음 기회를 노려야 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>그래도 진 사람들은 절망은 하지 말고 좌절하지 말고 다음에 더 노력하면 된다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "그래도 진 사람들은 절망, 좌절하지 말고  다음에 더 노력하면 된다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35960",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 503,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

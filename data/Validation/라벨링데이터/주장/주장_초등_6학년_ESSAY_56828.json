@@ -1,0 +1,314 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요새들어 학교폭력이 많아져서 심각한 문제임니다. #@문장구분#물론 학교폭력 뿐만아니라 일반폭력 예를들어 가정폭력, 성폭력,   데이트폭력, 사이버폭력 등 이러한 수도없이 많은 폭력들도 심각한 문제임니다.#@문장구분# 이러한 폭력이 일어나는 이유는 더러워서, 못생겨서, 외국인, 장애인 , 공부를 못해서 등 소심한 것으로 또는 자신은 재미로 한건데 이것을당한 사람은 굉장히 힘들고 우울증 같은것을   경험할수도 있습니다. #@문장구분#이러한 경우도 있습니다. #@문장구분#학교폭력을 당한 사람이 신고하여 학교폭력회의를 열면 당한사람은   큰 문제가 없을진 몰라도 학교폭력을 한 사람은 평생 큰 문제가 되어 고생하여 불이익을 받을수도 있슴니다.#@문장구분# 이러한 피해를 받은 자신은 극심한 스트레스, 정신적 불안감, 경계심, 심한   경우는 공황장애가 올수도 있습니다.#@문장구분# 요새 학교폭력은 불법촬영및 유포, 협박, 떼카, 카톡감옥, 카톡방폭, 빵셔틀이 아닌 와이파이 셔틀 이뿐만이 아니라 공개저격 등 폭력을 행하는 강도가 점점 쌔지고 부모님의 눈을 피해서 새로운 앱을 설치해 행하는 경우가 많습니다.#@문장구분# 이러한걸 방지하는 방법은 많습니다. #@문장구분#예를들어 세이브더 칠드런,   초록우산 어린이 재단, 112신고, 부모님이나 선생님 상담 등 많은 방법이 있다.#@문장구분# 저는 학폭이나 사이버 등 이러한 일이 그만 일어났으면 좋겠다.",
+      "paragraph_len": 819,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.5,
+      22.666668,
+      23.11111
+    ],
+    "essay_scoreT_avg": 23.75926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "요새 들어 학교폭력이 많아져서 심각한 문제입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "<문법_맞춤법>요새들어 </문법_맞춤법>학교폭력이 많아져서 심각한 <문법_어미>문제임니다.</문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물론 학교폭력뿐만 아니라 일반 폭력 예를 들어 가정 폭력, 성폭력,   데이트 폭력, 사이버 폭력 등 이러한 수도 없이 많은 폭력들도 심각한 문제입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "물론 <문법_맞춤법>학교폭력 뿐만아니라</문법_맞춤법> 일반폭력 예를들어 가정폭력, 성폭력,   데이트폭력, 사이버폭력 등 이러한 수도없이 많은 폭력들도 심각한 <문법_어미>문제임니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 폭력이 일어나는 이유는 더러워서, 못생겨서, 외국인, 장애인 , 공부를 못해서 등 소심한 것으로 또는 자신은 재미로 한 건데 이것을 당한 사람은 굉장히 힘들고 우울증 같은 것을   경험할 수도 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이러한 폭력이 일어나는 이유는 더러워서, 못생겨서, 외국인, 장애인 , 공부를 못해서 등 소심한 것으로 또는 자신은 재미로 한건데 <문법_맞춤법>이것을당한 </문법_맞춤법>사람은 굉장히 힘들고 우울증 같은것을   경험할수도 있습니다. ",
+      "sentence_corr_txt_styling": " 이러한 폭력이 일어나는 이유는 더러워서, 못생겨서, 외국인, 장애인 , 공부를 못해서 등 소심한 것으로 또는 자신은 재미로 한 건데 이것을 당한 사람은 굉장히 힘들고 우울증 같은 것을   경험할 수도 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학교폭력을 당한 사람이 신고하여 학교폭력 회의를 열면 당한 사람은   큰 문제가 없을진 몰라도 학교폭력을 한 사람은 평생 큰 문제가 되어 고생하여 불이익을 받을 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "학교폭력을 당한 사람이 신고하여 <문법_맞춤법>학교폭력회의를 </문법_맞춤법>열면 당한사람은   큰 문제가 없을진 몰라도 학교폭력을 한 사람은 평생 큰 문제가 되어 고생하여 불이익을 받을수도 <문법_어미>있슴니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 피해를 받은 자신은 극심한 스트레스, 정신적 불안감, 경계심, 심한   경우는 공황장애가 올 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이러한 피해를 받은 자신은 극심한 스트레스, 정신적 불안감, 경계심, 심한   경우는 공황장애가 <문법_맞춤법>올수도 </문법_맞춤법>있습니다.",
+      "sentence_corr_txt_styling": " 이러한 피해를 받은 자신은 극심한 스트레스, 정신적 불안감, 경계심, 심한   경우는 공황장애가 올 수도 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요새 학교폭력은 불법 촬영 및 유포, 협박, 떼카, 카톡 감옥, 카톡 방폭, 빵셔틀이 아닌 와이파이 셔틀 이뿐만이 아니라 공개 저격 등 폭력을 행하는 강도가 점점 세지고 부모님의 눈을 피해서 새로운 앱을 설치해 행하는 경우가 많습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요새 학교폭력은 <문법_맞춤법>불법촬영및 </문법_맞춤법>유포, 협박, 떼카, 카톡감옥, 카톡방폭, 빵셔틀이 아닌 와이파이 셔틀 이뿐만이 아니라 공개저격 등 폭력을 행하는 강도가 점점 쌔지고 부모님의 눈을 피해서 새로운 앱을 설치해 행하는 경우가 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 걸 방지하는 방법은 많습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이러한걸 </문법_맞춤법>방지하는 방법은 많습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예를 들어 세이브 더 칠드런,   초록 우산 어린이 재단, 112신고, 부모님이나 선생님 상담 등 많은 방법이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>예를들어 </문법_맞춤법>세이브더 칠드런,   초록우산 어린이 재단, 112신고, 부모님이나 선생님 상담 등 많은 방법이 있다.",
+      "sentence_corr_txt_styling": "예를 들어 세이브 더 칠드런,   초록 우산 어린이 재단, 112신고, 부모님이나 선생님 상담 등 많은 방법이 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 학교폭력이나 사이버 등 이러한 일이 그만 일어났으면 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>학폭이나 </문법_맞춤법>사이버 등 이러한 일이 그만 일어났으면 좋겠다.",
+      "sentence_corr_txt_styling": " 저는 학교폭력이나 사이버 등 이러한 일이 그만 일어났으면 좋겠다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56828",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 641,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

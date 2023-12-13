@@ -1,0 +1,301 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 그냥 자기자신이 친구라고 생각하고 서로 진하게 지내기만 하면 친구가 맞다고 생각합니다.#@문장구분#\n 사람마다 친구의 기준이 다를것 같은데, 전 일단 반애들은 패시브로 친구라고 생각하고, 그 애들 중에서 저와 잘 통하는 친구랑 짱친을 먹습니다.#@문장구분# 그 친군 절 짱친이라 생각할진 모르겠 지만, 그래도 잘만 지내면 장땡이죠 뭐.#@문장구분#\n 그렇게 지내다가 헤어지면 헤어지는거고, 물론 전 안 헤어지려 노력하죠, #@문장구분#친구랑 같은 중학교 가려 하고있는데 이게 의미가 있을랑가 모르겠네요.#@문장구분# 짜피 다른반 되면 잘 만나지도 않을텐데.#@문장구분#\n 물론 예외는 있겠죠 예외는...#@문장구분#\n 그래도 나중엔 헤어질지라도 지금을 즐겨야 겠네요 머.#@문장구분#",
+      "paragraph_len": 489,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      25.35,
+      26
+    ],
+    "essay_scoreT_avg": 24.316666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          1
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.14",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 자기 자신이 친구라고 생각하고 서로 친하게 지내기만 하면 그게 진정한 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>저는 그냥 자기자신이 친구라고 생각하고 서로 진하게 지내기만 하면 친구가 맞다고 생각합니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 사람마다 친구의 기준이 다를 것 같은데, 저는 일단 반 친구들은 전부 친구라고 생각하고, 그 애들 중에서 저와 잘 통하는 친구와 가장 친하게 지냅니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "\n <문법_맞춤법><문법_조사><문법_기타>사람마다 친구의 기준이 다를것 같은데, 전 일단 반애들은 패시브로 친구라고 생각하고, 그 애들 중에서 저와 잘 통하는 친구랑 짱친을 먹습니다.</문법_기타></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 친구는 저를 가장 친한 친구라고 생각할지는 모르겠지만, 그래도 잘만 지내면 괜찮은 거겠죠.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_기타>그 친군 절 짱친이라 생각할진 모르겠 지만, 그래도 잘만 지내면 장땡이죠 뭐.</문법_기타></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그렇게 지내다가 헤어지면 헤어지는 거고, 하지만 물론 안 헤어지려고 노력합니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "\n <문법_맞춤법><문법_기타>그렇게 지내다가 헤어지면 헤어지는거고, 물론 전 안 헤어지려 노력하죠,</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구랑 같은 중학교에 가려 하고 있는데 이게 미래에도 의미가 있을 지는 모르겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "친구랑 같은 <문법_맞춤법><문법_기타>중학교 가려 하고있는데 이게 의미가 있을랑가 모르겠네요.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어차피 다른 반이 되면 잘 만나지도 않을 텐데.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>짜피 다른반 되면 잘 만나지도 않을텐데.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 물론 예외는 있을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 물론 <문법_맞춤법>예외는 있겠죠 예외는...</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그래서 나중에는 헤어질 지라도 지금을 즐겨야겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "\n <문법_맞춤법><문법_기타>그래도 나중엔 헤어질지라도 지금을 즐겨야 겠네요 머.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37920",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 330,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

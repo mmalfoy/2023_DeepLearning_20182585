@@ -1,0 +1,437 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "진정한친구는친하고믿을수있고심한장난을안치는것입니다#@문장구분#저는친구에게좋은사람이됐으면좋겠습니다#@문장구분#그리고저는이런친구만은안사겼으면좋겠습니다.#@문장구분# 많이싸우는친구, 욕을너무많이하는친구, 돈안갚는친구, 너무많이거짓말을하는친구등등...많이싸우는친구는옆에있을때말투가좀안좋습니다#@문장구분#그래서듣는사람이기분이안좋아져서그친구와싸움이일어날수있습니다(아마)#@문장구분#그리고욕을너무많이하는친구는욕이듣는것만으로상대방이듣기싫어하게됩니다#@문장구분#돈을안갚는친구는돈을빌려주거나뭐를내가사줬을때안갚으면돈이순식간에사라진지고신뢰도가점점사라지기때문입니다#@문장구분#거짓말도마찬가지입니다#@문장구분#그래서저도이런친구를사겨봤습니다#@문장구분#욕을너무많이하는친구를사겨봤습니다#@문장구분#그래서막게임할때전화를하고하는데다른친구와욕을많이하는친구, 그리고저와같이통화를하면서게임을하는데그친구가계속죽거나그러면욕을무지막지하게많이했었습니다#@문장구분#그래서저와다른친구가욕때문에피해를받았습니다#@문장구분#그때정말게임하고싶은마음이싹사라졌습니다#@문장구분#그때부터그친구하고통화를많이하지않게됐습니다.#@문장구분# 그래서만약에어떤친구가그친구와같이하려하고있을때같이질내가긴차지만사이가살짝멀어지게됐습니다#@문장구분#그래서살짝슬프기도하고욕을안들을수있다는생각에살짝기분이좋기도했습니다#@문장구분#그래서그때통화할때집에엄마가있었는데그때엄마가그친구욕하는걸들어서혼났습니다#@문장구분#그때혼나고짜증나고억울했습니다#@문장구분#",
+      "paragraph_len": 940,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.75,
+      19.85,
+      28.4
+    ],
+    "essay_scoreT_avg": 22.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "진정한 친구는 친하고 믿을 수 있고 심한 장난을 안 치는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>진정한친구는친하고믿을수있고심한장난을안치는것입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 친구에게 좋은 사람이 됐으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>저는친구에게좋은사람이됐으면좋겠습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 저는 이런 친구만은 안 사겼으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그리고저는이런친구만은안사겼으면좋겠습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 많이 싸우는 친구, 욕을 너무 많이 하는 친구, 돈 안갚는 친구, 너무 많이 거짓말을 하는 친구 등등.... 많이 싸우는 친구는 옆에 있을 때 말투가 좀 안좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>많이싸우는친구, 욕을너무많이하는친구, 돈안갚는친구, 너무많이거짓말을하는친구등등...많이싸우는친구는옆에있을때말투가좀안좋습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 듣는 사람이 기분이 안 좋아져서 그 친구와 싸움이 일어날 수 있습니다. (아마)",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그래서듣는사람이기분이안좋아져서그친구와싸움이일어날수있습니다(아마)</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 욕을 너무 많이 하는 친구는 욕이 듣는것만으로 상대방이 듣기 싫어하게 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그리고욕을너무많이하는친구는욕이듣는것만으로상대방이듣기싫어하게됩니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "돈을 안 갚는 친구는 돈을 빌려주거나 내가 뭐를 사줬을때 안 갚으면 돈이 순식간에 사라지고 신뢰도가 점점 사라지기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>돈을안갚는친구는돈을빌려주거나뭐를내가사줬을때안갚으면돈이순식간에사라진지고신뢰도가점점사라지기때문입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "거짓말도 마찬가지입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>거짓말도마찬가지입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저도 이런 친구를 사겨봤습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그래서저도이런친구를사겨봤습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "욕을 너무 많이 하는 친구를 사겨봤습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>욕을너무많이하는친구를사겨봤습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 막 게임할 때 전화를 하고 하는데 다른 친구와 욕을 많이 하는 친구, 그리고 저와 같이 통화를 하면서 게임을 하는 데 그 친구가 계속 죽거나 그러면 욕을 무지막지하게 많이 했었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그래서막게임할때전화를하고하는데다른친구와욕을많이하는친구, 그리고저와같이통화를하면서게임을하는데그친구가계속죽거나그러면욕을무지막지하게많이했었습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저와 다른 친구가 욕 때문에 피해를 받았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그래서저와다른친구가욕때문에피해를받았습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때 정말 게임하고 싶은 마음이 싹 사라졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그때정말게임하고싶은마음이싹사라졌습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때부터 그 친구하고 통화를 많이 하지 않게 됐습니다..",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그때부터그친구하고통화를많이하지않게됐습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 만약에 어떤 친구가 그 친구와 같이 하려하고 있을때 같아질 내가 긴차지만 사이가 살짝 멀어지게 됐습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그래서만약에어떤친구가그친구와같이하려하고있을때같이질내가긴차지만사이가살짝멀어지게됐습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 살짝 슬프기도 하고 욕을 안 들을수 있다는 생각에 살짝 기분이 좋기도 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그래서살짝슬프기도하고욕을안들을수있다는생각에살짝기분이좋기도했습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 그때 통화할 때 집에 엄마가 있었는데 그때 엄마가 그 친구 욕하는 걸 들어서 혼났습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그래서그때통화할때집에엄마가있었는데그때엄마가그친구욕하는걸들어서혼났습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때 혼나고 짜증나고 억울했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그때혼나고짜증나고억울했습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33155",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 580,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

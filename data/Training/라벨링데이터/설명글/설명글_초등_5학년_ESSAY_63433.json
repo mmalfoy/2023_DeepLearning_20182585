@@ -1,0 +1,287 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "이제 제가 좋아하는 과목을 알아보겠습니다.#@문장구분# 제가 좋아하는 과목은 영어입니다.#@문장구분# 왜냐하면 영어시간에는 영어복습과 같이 게임을 합니다#@문장구분# 이것은 1석2조입니다 #@문장구분#그리고 저는 영어단어시험이 재미있습니다.#@문장구분# 왜냐하면 저는 영어단어시험을 다 맞으면 기분이 좋기 때문입니다.#@문장구분# 또 저는 영어문장말하기가 재미있습니다.#@문장구분# 매일 영어문장말하기를 해서 영어를 더 잘하고 싶습니다#@문장구분# 또 저는 월드클래스축구선수가 꿈인데 영어를 잘해서 외국에서 영어로 인터뷰하고 싶기 때문에 영어를 지금보다 더 잘하고 싶습니다#@문장구분# 들어주셔서 감사합니다#@문장구분#",
+      "paragraph_len": 476,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          3,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.714287,
+      30,
+      28.285713
+    ],
+    "essay_scoreT_avg": 25.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.18",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 영어시간에는 영어 복습과 같이 게임을 합니다",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 영어시간에는 <문법_맞춤법>영어복습과 </문법_맞춤법>같이 게임을 합니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것은 일석이조입니다. ",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 이것은 <문법_맞춤법><문법_기타>1석2조입니다</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 저는 영어 단어 시험이 재미있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 저는 <문법_맞춤법>영어단어시험이 </문법_맞춤법>재미있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 저는 영어 단어 시험을 다 맞으면 기분이 좋기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 저는 <문법_맞춤법>영어단어시험을</문법_맞춤법> 다 맞으면 기분이 좋기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 저는 영어 문장 말하기가 재미있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 저는 <문법_맞춤법>영어문장말하기가 </문법_맞춤법>재미있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 매일 영어 문장 말하기를 해서 영어를 더 잘하고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 매일 <문법_맞춤법>영어문장말하기를 </문법_맞춤법>해서 영어를 더 잘하고 <문법_기타>싶습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 저는 월드 클래스 축구 선수가 꿈인데 영어를 잘해서 외국에서 영어로 인터뷰하고 싶기 때문에 영어를 지금보다 더 잘하고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 또 저는 <문법_맞춤법>월드클래스축구선수가</문법_맞춤법> 꿈인데 영어를 잘해서 외국에서 영어로 인터뷰하고 싶기 때문에 영어를 지금보다 더 잘하고 <문법_기타>싶습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 들어주셔서 감사합니다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 들어주셔서 <문법_기타>감사합니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63433",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 276,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

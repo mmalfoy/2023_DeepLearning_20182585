@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미할동은 미술입니다.#@문장구분#이유는 그림을 그릴때 마다 예쁜 그림을보면 너무예쁘다는 생각이들어 할머니나엄마,가족등 제가그린 그림을보여주면잘그렸다고합니다. #@문장구분#그래서저는 그림을취미로 하고있으며 예쁜 그림을 그리리도합니다. #@문장구분#저는 눈그리는게 소질이없어 맨날 집에서 눈그리는 걸 계속 반복됩니다.#@문장구분#\n애들이나가족 들은 잘그렸다.하는데 전아닌거같음니다#@문장구분#.아무튼 왜 그림그리 에취미가 생겼나면 어떤 사람의예쁜그림 을 보았는데 제가 우와 예쁘다.나도 저런그림그릴수 있을까? 생각하고천천히그림을그리는데 조금식 예뻐졌는데 좀그래서 그림그리는방법어플을 따음받아 연습 해 눈을더조금잘그리게되었씀니다.#@문장구분# 전맨날 눈연습을 하고있습니다.#@문장구분#그래도 조금은 발전되어 맨날잘그리고있습니다.#@문장구분#전너무나그림을그려 행복합니다.#@문장구분#만약제가화가 가되면 얼나나예쁜게 그렸을까요",
+      "paragraph_len": 578,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.733334,
+      24.514286,
+      27.714287
+    ],
+    "essay_scoreT_avg": 24.987303,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          1,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.26",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 취미 할 동은 미술입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저의 <문법_맞춤법>취미할동은</문법_맞춤법> 미술입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이유는 그림을 그릴 때마다 예쁜 그림을 보면 너무 예쁘다는  생각이 들어 할머니나 엄마,가족 등  제가 그린  그림을 보여주면 잘 그렸다고 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이유는 그림을 <문법_맞춤법>그릴때 마다 예쁜 그림을보면 너무예쁘다는 생각이들어 할머니나엄마,가족등 제가그린 그림을보여주면잘그렸다고합니</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저는 그림을 취미로  하고 있으며 예쁜 그림을 그리려고 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그래서저는 그림을취미로 하고있으며 예쁜 그림을 그리리도합니</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 눈 그리는 게  소질이 없어 맨날 집에서 눈 그리는 걸 계속 반복됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>눈그리는게 소질이없어 맨날 집에서 눈그리는 걸 계속 반복됩니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n애들이나 가족 들은 잘 그렸다 .하는데 전 아닌 거 같습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>애들이나가족 들은 잘그렸다.하는데 전아닌거같음니</문법_맞춤법>다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ".아무튼 왜 그림 그리기에 취미가  생겼나 면 어떤 사람의 예쁜 그림을 보았는데 제가 우와 예쁘다 .나도  저런 그림 그릴 수 있을까? 생각하고 천천히 그림을 그리는데  조금씩 예뻐졌는데 좀 그래서 그림 그리는 방법 앱을 다운받아  연습해 눈을 더 조금 잘 그리게 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": ".<문법_맞춤법>아무튼 왜 그림그리 에취미가 생겼나면 어떤 사람의예쁜그림 을 보았는데 제가 우와 예쁘다.나도 저런그림그릴수 있을까? 생각하고천천히그림을그리는데 조금식 예뻐졌는데 좀그래서 그림그리는방법어플을 따음받아 연습 해 눈을더조금잘그리게되었씀니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전 맨날 눈 연습을 하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>전맨날 눈연습을 하고있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래도 조금은 발전되어 맨날 잘 그리고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래도 조금은 발전되어<문법_맞춤법> 맨날잘그리고있습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "전 너무나 그림을 그려  행복합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>전너무나그림을그려 행복</문법_맞춤법>합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 제가 화가가 되면 얼마나 예쁘게  그렸을까요",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>만약제가화가 가되면 얼나나예쁜게 그렸을까</문법_맞춤법>요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50634",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 398,
+    "essay_main_subject": "나의 취미"
+  }
+}

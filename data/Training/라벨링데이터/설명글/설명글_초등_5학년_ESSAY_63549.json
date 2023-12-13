@@ -1,0 +1,262 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단 건강한 몸을 만들려면 야채도 먹고 채소도먹고 과일도 먹으면 좋은데 제일 중요한건 기름이 많은 음식을 먹어도 되지만 자주 먹지말고 가끔식 먹으면 된다#@문장구분# 예를들면 돼지고기, 소고기,햄버거,치킨,피자등등 그런건 많이 먹으면 살이찌고 살을 빼기 힘듬#@문장구분#\n 그리고 제일 중요한건 담배는 절대 피지 않는것 담배는 나중에 많이 피면 암도걸리고 숨이가빠지고 힘듬그리고 무엇보다도 수술 비용이 정말 많이들어짐#@문장구분# 그래서 담배는 절대 피지 않는것이 중요함#@문장구분# 탄산음료도 마찬가지 탄산도많이 먹으면 않좋음#@문장구분#",
+      "paragraph_len": 367,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          1.5714285,
+          1.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.085714,
+      15.819047,
+      14.980953
+    ],
+    "essay_scoreT_avg": 14.6285715,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "일단 건강한 몸을 만들려면 야채도 먹고 채소도 먹고 과일도 먹으면 좋은데 제일 중요한 건 기름이 많은 음식을 먹어도 되지만 자주 먹지 말고 가끔씩 먹으면 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "일단 건강한 몸을 만들려면 야채도 먹고 <문법_맞춤법>채소도먹고 </문법_맞춤법>과일도 먹으면 좋은데 제일 중요한건 기름이 많은 음식을 먹어도 되지만 자주 먹지말고 가끔식 먹으면 <문법_기타>된다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들면 돼지고기, 소고기,햄버거,치킨,피자 등등 그런 건 많이 먹으면 살이 찌고 살을 빼기 힘들다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표",
+        "마침표",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>예를들면</문법_맞춤법> 돼지고기, 소고기,햄버거,치킨,피자등등 그런건 많이 먹으면 살이찌고 살을 빼기 <문법_어미><문법_기타>힘듬</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": " 예를 들면 돼지고기, 소고기,햄버거,치킨,피자 등등 그런 건 많이 먹으면 살이 찌고 살을 빼기 힘들다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 제일 중요한 건 담배는 절대 피지 않는 것 담배는 나중에 많이 피면 암도 걸리고 숨이 가빠지고 힘들다. 그리고 무엇보다도 수술 비용이 정말 많이 든다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 마침표",
+        "띄어쓰기, 마침표",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 그리고 제일 <문법_맞춤법>중요한건 </문법_맞춤법>담배는 절대 피지 않는것 담배는 나중에 많이 피면 암도걸리고 숨이가빠지고 <문법_어미><문법_기타>힘듬그리고 </문법_기타></문법_어미>무엇보다도 수술 비용이 정말 많이들어짐",
+      "sentence_corr_txt_styling": "\n 그리고 제일 중요한 건 담배는 절대 피지 않는 것 담배는 나중에 많이 피면 암도 걸리고 숨이 가빠지고 힘들다. 그리고 무엇보다도 수술 비용이 정말 많이 든다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 담배는 절대 피지 않는 것이 중요하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 담배는 절대 피지 <문법_맞춤법>않는것이</문법_맞춤법> <문법_어미><문법_기타>중요함</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 탄산음료도 마찬가지 탄산도 많이 먹으면 안 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 마침표",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 탄산음료도 마찬가지 <문법_맞춤법>탄산도많이 </문법_맞춤법>먹으면 <문법_어미><문법_기타>않좋음</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63549",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 268,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

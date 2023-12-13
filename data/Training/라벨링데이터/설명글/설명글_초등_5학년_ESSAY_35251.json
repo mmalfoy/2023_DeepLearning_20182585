@@ -1,0 +1,284 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 의견은 솔직히 이렇다. #@문장구분#나이를 먹으면 어차피 죽는데 꼭 건강 해져야하나? 이런 생각을 한다.#@문장구분# 그런데 굳이 건강하게 살아야 된다면 식단을 일단 건강식으로 바꾸고 아침형 인간이 된다음 운동은 하루에 1시간을 한다음 하루에 한번은 씻고 양치도 하루에 3번 정도 해주면 건강 하게 될것같다.#@문장구분# 그리고 건강을 헤롭게 안할려면 일단 먼저 성인이 되야 할수 있는 거지만 담배를 피면 페가 안좋아져 인생을 생각보다 겁자 빨리 죽을수도 있다.#@문장구분# 그리고 또 성인이 되야지만 먹을 수있는 것이다.#@문장구분# 그것은 바로 술이다. #@문장구분#술에는 알코올이 들어있으며 다른건 나도 잘은모르는데 엄마가 말하길 알코올이 좋은 성분은 아니라고 배웠다. #@문장구분#일단 나는 아코올이 우리 몸한테 어떤 영향을 주는지는 잘 모르겠다만 일단 안좋은 성분이다.#@문장구분# 일단 이런건 성인이 되야지만 할수 있고 먹을수 있지만 어린이들이 몸에 안좋은것은 많다.#@문장구분# 그러니 조심하자!#@문장구분#",
+      "paragraph_len": 648,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.2,
+      22.514286,
+      13.419047
+    ],
+    "essay_scoreT_avg": 18.377779,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나이를 먹으면 어차피 죽는데 꼭 건강해져야 하나? 이런 생각을 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나이를 먹으면 어차피 죽는데 꼭 <문법_맞춤법>건강 해져야하나?</문법_맞춤법> 이런 생각을 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 굳이 건강하게 살아야 된다면 식단을 일단 건강식으로 바꾸고 아침형 인간이 된 다음 운동은 하루에 1시간을 하고, 하루에 한번은 씻고 양치도 하루에 3번 정도 해주면 건강하게 될 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그런데 굳이</스타일링_담화 맥락 오류> 건강하게 살아야 된다면 식단을 일단 건강식으로 바꾸고 아침형 인간이 <문법_맞춤법>된다음</문법_맞춤법> 운동은 하루에 1시간을 <스타일링_패러프레이징>한다음</스타일링_패러프레이징> 하루에 한번은 씻고 양치도 하루에 3번 정도 해주면 건강 하게 될것같다.",
+      "sentence_corr_txt_styling": " 굳이 건강하게 살아야 된다면 식단을 일단 건강식으로 바꾸고 아침형 인간이 된 다음 운동은 하루에 1시간을 하고, 하루에 한번은 씻고 양치도 하루에 3번 정도 해주면 건강하게 될 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 건강을 해롭게 안 하려면 일단 먼저 담배를 피워서는 안된다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 건강을 <문법_맞춤법>헤롭게</문법_맞춤법> 안할려면 일단 먼저 <스타일링_담화 맥락 오류>성인이 되야 할수 있는 거지만 담배를 피면 페가 안좋아져 인생을 생각보다 겁자 빨리 죽을수도 있다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 그리고 건강을 해롭게 안 하려면 일단 먼저 담배를 피워서는 안된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 성인이 되야지만 먹을 수 있는 것이 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그리고 또 성인이 되야지만 먹을 <문법_맞춤법>수있는</문법_맞춤법> <문법_어미>것이다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "술에는 알코올이 들어있으며 <스타일링_담화 맥락 오류>다른건 나도 잘은모르는데 엄마가 말하길 알코올이 좋은 성분은 아니라고 배웠다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": "술에는 알코올이 들어있으며 알코올은 몸에 좋지 않은 성분이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 나는 알코올이 우리 몸한테 어떤 영향을 주는지는 잘 모르겠다만 일단 안 좋은 성분이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 나는 <문법_맞춤법>아코올이</문법_맞춤법> 우리 몸한테 어떤 영향을 주는지는 잘 모르겠다만 일단 안좋은 성분이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 이런 건 성인이 되어야지 피울 수 있고 마실 수 있지만 어린이들이 몸에 안 좋은 것은 맞다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 일단 <문법_맞춤법>이런건</문법_맞춤법> 성인이 <문법_조사>되야지만</문법_조사> <스타일링_담화 맥락 오류>할</스타일링_담화 맥락 오류>수 있고 먹을수 있지만 어린이들이 몸에 <문법_어미>안좋은것은 많다.</문법_어미>",
+      "sentence_corr_txt_styling": " 일단 이런 건 성인이 되어야지 피울 수 있고 마실 수 있지만 어린이들이 몸에 안 좋은 것은 맞다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35251",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 448,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

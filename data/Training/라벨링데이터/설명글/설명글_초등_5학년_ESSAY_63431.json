@@ -1,0 +1,253 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가좋아하는과목은 체육입니다#@문장구분# 왜냐하면 친구들과 즐겁게 제가 좋아하는 피구나 배드민턴을 친구들과 함께할수있고 그냥친구들과 즐겁게 논것뿐인데 운동도되서 입니다#@문장구분# 친구들은 체육을싫어할수있지만 저는 이과목이 정말 좋습니다#@문장구분# 그치만 친구들에게도 친구들이 좋아하는 과목을 정말존중합니다#@문장구분# 그치만저도 그과목을왜좋아하는지 모르기따때문에 저도 그 친구들이 좋아하는과목을 비판하지않고 친구들의마음을 존중 할수있게 그과목에도 그어떤게 재미있는지알아보고 친구들이 좋아하는 과목을 이해하려 노력하겠습니다#@문장구분#",
+      "paragraph_len": 365,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          1.5714285,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.914286,
+      17.485714,
+      16.266666
+    ],
+    "essay_scoreT_avg": 16.222223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.08",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 좋아하는 과목은 체육입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>제가좋아하는과목은 </문법_맞춤법><문법_기타>체육입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 친구들과 즐겁게 제가 좋아하는 피구나 배드민턴을 친구들과 함께할 수 있고 그냥 친구들과 즐겁게 논 것 뿐인데 운동도 되기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 마침표",
+        "띄어쓰기, 마침표",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 친구들과 즐겁게 제가 좋아하는 피구나 배드민턴을 친구들과 <문법_맞춤법>함께할수있고 </문법_맞춤법>그냥친구들과 즐겁게 논것뿐인데 <문법_어미><문법_기타>운동도되서 입니다</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": " 왜냐하면 친구들과 즐겁게 제가 좋아하는 피구나 배드민턴을 친구들과 함께할 수 있고 그냥 친구들과 즐겁게 논 것 뿐인데 운동도 되기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들은 체육을 싫어할 수 있지만 저는 이 과목이 정말 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 친구들은 <문법_맞춤법>체육을싫어할수있지만 </문법_맞춤법>저는 이과목이 정말 <문법_기타>좋습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 친구들에게도 친구들이 좋아하는 과목을 정말 존중합니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>그치만 </문법_맞춤법>친구들에게도 친구들이 좋아하는 과목을 <문법_기타>정말존중합니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 저도 그 과목을 왜 좋아하는지 모르기 때문에 저도 그 친구들이 좋아하는 과목을 비판하지 않고 친구들의 마음을 존중할 수 있게 그 과목에도 그 어떤 게 재미있는지 알아보고 친구들이 좋아하는 과목을 이해하려 노력하겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>그치만저도 </문법_맞춤법>그과목을왜좋아하는지 모르기따때문에 저도 그 친구들이 좋아하는과목을 비판하지않고 친구들의마음을 존중 할수있게 그과목에도 그어떤게 재미있는지알아보고 친구들이 좋아하는 과목을 이해하려 <문법_기타>노력하겠습니다</문법_기타>",
+      "sentence_corr_txt_styling": " 그렇지만 저도 그 과목을 왜 좋아하는지 모르기 때문에 저도 그 친구들이 좋아하는 과목을 비판하지 않고 친구들의 마음을 존중할 수 있게 그 과목에도 그 어떤 게 재미있는지 알아보고 친구들이 좋아하는 과목을 이해하려 노력하겠습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63431",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 265,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

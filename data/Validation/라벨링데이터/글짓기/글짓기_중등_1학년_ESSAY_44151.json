@@ -1,0 +1,279 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단저는 미래에는 인간이 지구에는 없을 것이라고 생각합니다.#@문장구분# 이산화탄소는 최소 1000년동안나마있어지금배출양으로해도지구온난화는 계속되어 지구에는 없습니다.#@문장구분#그래서 다른행성에서외계인과공존하거나전쟁으로이겨서지배하고져서인류는 멸망할것입니다.#@문장구분# 외계인과공존하면발전된 문명으로더욱 행복하거나지배하면똑같고지면인류가그들에노예가될수있습니다.#@문장구분# 발달된 문명으로 신인행성만들고 더욱진보한 문명을 만들어나갈거고인류는 모든우주에걸쳐살아 지구촌이아닌우주촌이 될수도있습니다.#@문장구분# 일단일류에숙제인이상온난화를 해결하고 앞으로나아같으면좋겠다.#@문장구분# 그래야 앞으로미래가살아갈수있기에 빨리해결했으면좋겠다.#@문장구분#",
+      "paragraph_len": 451,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              1,
+              3,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.6,
+      20.5,
+      16.15
+    ],
+    "essay_scoreT_avg": 21.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          1,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "일단 저는 미래에는 인간이 지구에는 없을 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>일단저는</문법_맞춤법> 미래에는 인간이 지구에는 없을 것이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이산화탄소는 최소 1000년 동안 남아있어 지금 배출 양으로 해도 지구온난화는 계속되어 지구에는 없습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " 이산화탄소는 최소 <문법_맞춤법>1000년동안나마있어지금배출양으로해도지구온난화는</문법_맞춤법> 계속되어 지구에는 없습니다.",
+      "sentence_corr_txt_styling": " 이산화탄소는 최소 1000년 동안 남아있어 지금 배출 양으로 해도 지구온난화는 계속되어 지구에는 없습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 다른 행성에서 외계인과 공존하거나 전쟁으로 이겨서 지배하고 져서 인류는 멸망할 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그래서 <문법_맞춤법>다른행성에서외계인과공존하거나전쟁으로이겨서지배하고져서인류는 멸망할것입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "그래서 다른 행성에서 외계인과 공존하거나 전쟁으로 이겨서 지배하고 져서 인류는 멸망할 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 외계인과 공존하면 발전된 문명으로 더욱 행복하거나 지배하면 똑같고 지면 인류가 그들에 노예가 될 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>외계인과공존하면발전된 문명으로더욱 행복하거나지배하면똑같고지면인류가그들에노예가될수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 외계인과 공존하면 발전된 문명으로 더욱 행복하거나 지배하면 똑같고 지면 인류가 그들에 노예가 될 수 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 발달된 문명으로 신인 행성 만들고 더욱 진보한 문명을 만들어 나갈 거고 인류는 모든 우주에 걸쳐 살아 지구촌이 아닌 우주촌이 될 수도 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 발달된 문명으로 <문법_맞춤법>신인행성만들고 더욱진보한 문명을 만들어나갈거고인류는 모든우주에걸쳐살아 지구촌이아닌우주촌이 될수도있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 발달된 문명으로 신인 행성 만들고 더욱 진보한 문명을 만들어 나갈 거고 인류는 모든 우주에 걸쳐 살아 지구촌이 아닌 우주촌이 될 수도 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 일류에 숙제인 이상 온난화를 해결하고 앞으로 나아 갔으면 좋겠다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>일단일류에숙제인이상온난화를 해결하고 앞으로나아같으면좋겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 일단 일류에 숙제인 이상 온난화를 해결하고 앞으로 나아 갔으면 좋겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래야 앞으로 미래가 살아갈 수 있기에 빨리 해결했으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래야 <문법_맞춤법>앞으로미래가살아갈수있기에 빨리해결했으면좋겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44151",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 312,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

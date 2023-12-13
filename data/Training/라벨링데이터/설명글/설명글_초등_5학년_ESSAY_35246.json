@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내 건강을 지키기 위해서는 식습관, 운동, 위생, 생활규칙이 중요합니다. #@문장구분#식습관은 편식하지 않고 골고루 먹고 햄버거, 떡볶이, 사탕, 초콜릿 같은것만 먹지 않기입니다.#@문장구분# 편식을 하면 맛있는것만 골라 먹게되고, 맛있는것만 골라먹으면 살이 찌고 살이찌면 다이어트를 하게되고 다이어트를 하게되면 안먹게되고 안먹으면 건강에 안좋기때문에 편식을 하면 안되는것입니다. #@문장구분#그리고 또 군것짓을 하게되면 살이 찌고, 살이찌면 안먹게되고, 안먹게되면 건강에 안좋기때문에 군것질도 많이하면 안됩니다.#@문장구분# 운동은 하루에 10분이라도 해야 건강에 좋습니다. #@문장구분#조금이라도 걸으면 다리가 움직이기 때문에 다리가 튼튼해질수 있습니다.#@문장구분# 위생은 지금같은 코로나일때 제일 중요합니다.#@문장구분# 손 잘씻고, 양치 잘하고, 샤워 잘하기만 하면 됩니다.#@문장구분# 생활규칙은 일찍자고, 일찍 일어나고 밥 잘먹고, 잘 씻고, 핸드폰 많이하지 않고, 많이 나가고, 운동도 가끔씩 하고, 적당히 먹기만 하면 됩니다.#@문장구분#",
+      "paragraph_len": 651,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      16.733334,
+      15.133333
+    ],
+    "essay_scoreT_avg": 17.555555,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>내 건강을</스타일링_담화 맥락 오류> 지키기 위해서는 식습관, 운동, 위생, 생활규칙이 중요합니다. ",
+      "sentence_corr_txt_styling": "건강을 지키기 위해서는 식습관, 운동, 위생, 생활규칙이 중요합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "식습관은 편식하지 않고 골고루 먹고 햄버거, 떡볶이, 사탕, 초콜릿 같은 것만 먹지 않는 것을 의미합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "식습관은 편식하지 않고 골고루 먹고 햄버거, 떡볶이, 사탕, 초콜릿 <문법_맞춤법>같은것만</문법_맞춤법> 먹지 <스타일링_담화 맥락 오류>않기입니다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "식습관은 편식하지 않고 골고루 먹고 햄버거, 떡볶이, 사탕, 초콜릿 같은 것만 먹지 않는 것을 의미합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 편식을 하면 맛있는 것만 골라 먹게 되고, 맛있는 것만 골라 먹으면 살이 찌고, 살이 찌면 다이어트를 하게 되고 다이어트를 하게 되면 안 먹게 되고 안 먹으면 건강에 안 좋기 때문에 편식을 하면 안 되는 것입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 편식을 하면 <문법_맞춤법>맛있는것만</문법_맞춤법> 골라 먹게되고, <문법_맞춤법>맛있는것만</문법_맞춤법> 골라먹으면 <문법_기타>살이 찌고</문법_기타> 살이찌면 다이어트를 하게되고 다이어트를 하게되면 안먹게되고 안먹으면 건강에 안좋기때문에 편식을 하면 안되는것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 또 군것짓을 하게 되면 살이 찌고, 살이 찌면 안 먹게 되고, 안 먹게 되면 건강에 안 좋기 때문에 군것질도 많이 하면 안됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 또 군것짓을 <문법_맞춤법>하게되면</문법_맞춤법> 살이 찌고, 살이찌면 안먹게되고, 안먹게되면 건강에 안좋기때문에 군것질도 많이하면 안됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "조금이라도 걸으면 다리가 움직이기 때문에 다리가 튼튼해질 수 있습니다.",
+      "sentence_corr_reason": [
+        " 띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "조금이라도 걸으면 다리가 움직이기 때문에 다리가 <문법_맞춤법>튼튼해질수</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위생은 지금같은 코로나일 때 제일 중요합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 위생은 지금같은 <문법_맞춤법>코로나일때</문법_맞춤법> 제일 중요합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손 잘 씻고, 양치 잘하고, 샤워 잘하기만 하면 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손 <문법_맞춤법>잘씻고,</문법_맞춤법> 양치 잘하고, 샤워 잘하기만 하면 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생활 규칙은 일찍 자고, 일찍 일어나고 밥 잘 먹고, 잘 씻고, 핸드폰 많이하지 않고, 많이 나가고, 운동도 가끔씩 하고, 적당히 먹기만 하면 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>생활규칙은</문법_맞춤법> 일찍자고, 일찍 일어나고 밥 잘먹고, 잘 씻고, 핸드폰 많이하지 않고, 많이 나가고, 운동도 가끔씩 하고, 적당히 먹기만 하면 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35246",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 472,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

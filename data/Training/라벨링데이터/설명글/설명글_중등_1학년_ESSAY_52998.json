@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "참된 스승을 만나는 것은 정말 중요하다고 생각합니다.#@문장구분# 제가 생각하는 참된 스승은 누구에게나 공정한 것 입니다.#@문장구분# TV 드라마를 보면, 지위가 높은 사람의 아들은 잘 봐주고, 부모님이 안계시는 학생은 왕따를 당해도 모른척하였습니다.#@문장구분# 드라마니까 과장되어 표현한 것 이겠지만 혹시나 드라마와 같은 선생님이 계실까봐 마음이 무겁습니다.#@문장구분# 스승의 제일 기본적인 자세가 편견없이 제자들을 대하는 것인 다른 이유는, 학업 앞에서 더욱 공정해야하기 때문입니다.#@문장구분# 공부를 잘 하는 학생을 다른 학생들보다 훨씬 더 예뻐해준다던가, 공부 못하는 학생에게 도움을 주지 않고 미워하는 것들은 모두 옳은 행동이 아니라고 생각합니다.#@문장구분# 반대로 공부 잘하는 학생에게 미워하고 공부 못하는 학생을 이뻐할 경우는 드물겠지만, 이것 또한 좋은 교육, 좋은 스승이라고 할 수 없다고 생각합니다.#@문장구분# 참된 스승이 되기 위해 필요한 요소 2가지는, 학생을 편견하지 않는 마음과 학생을 사랑하는 마음이라고 생각합니다.#@문장구분# 가장 기본적이면서 필수적입니다.#@문장구분# 만약 나중에 제가 선생님이라는 직업을 가지게 되어 누군가에게 스승이 될 때, 이 두가지를 꼭 지키겠다고 다짐합니다.#@문장구분#",
+      "paragraph_len": 767,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.75,
+      24.5,
+      24.4
+    ],
+    "essay_scoreT_avg": 24.550001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 제가 생각하는 참된 스승은 누구에게나 공정한 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 생각하는 참된 스승은 누구에게나 공정한<문법_맞춤법> 것 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " TV 드라마를 보면, 지위가 높은 사람의 아들은 잘 봐주고, 부모님이 안 계시는 학생은 왕따를 당해도 모른 척하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " TV 드라마를 보면, 지위가 높은 사람의 아들은 잘 봐주고, 부모님이 <문법_맞춤법>안계시는 </문법_맞춤법>학생은 왕따를 당해도 모른척하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 드라마니까 과장되어 표현한 것이겠지만 혹시나 드라마와 같은 선생님이 계실까봐 마음이 무겁습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 드라마니까 과장되어 표현한 <문법_맞춤법>것 이겠지만</문법_맞춤법> 혹시나 드라마와 같은 선생님이 계실까봐 마음이 무겁습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스승의 제일 기본적인 자세가 편견 없이 제자들을 대하는 것인 다른 이유는, 학업 앞에서 더욱 공정해야 하기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 스승의 제일 기본적인 자세가 <문법_맞춤법>편견없이 </문법_맞춤법>제자들을 대하는 것인 다른 이유는, 학업 앞에서 더욱 공정해야하기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공부를 잘하는 학생을 다른 학생들보다 훨씬 더 예뻐해 준다던가, 공부 못하는 학생에게 도움을 주지 않고 미워하는 것들은 모두 옳은 행동이 아니라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 공부를<문법_맞춤법> 잘 하는</문법_맞춤법> 학생을 다른 학생들보다 훨씬 더 예뻐해준다던가, 공부 못하는 학생에게 도움을 주지 않고 미워하는 것들은 모두 옳은 행동이 아니라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반대로 공부 잘하는 학생을 미워하고 공부 못하는 학생을 이뻐할 경우는 드물겠지만, 이것 또한 좋은 교육, 좋은 스승이라고 할 수 없다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 반대로 공부 잘하는 <문법_조사>학생에게</문법_조사> 미워하고 공부 못하는 학생을 이뻐할 경우는 드물겠지만, 이것 또한 좋은 교육, 좋은 스승이라고 할 수 없다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52998",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 568,
+    "essay_main_subject": "참된 스승"
+  }
+}

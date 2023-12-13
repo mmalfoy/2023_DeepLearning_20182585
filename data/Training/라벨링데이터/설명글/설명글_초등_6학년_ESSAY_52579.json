@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 친구에 대해 별로 생각해 본 적이 없다.#@문장구분# 가끔 엄마가 뭐 친한친구가 없냐 제일 친한친구는 누구냐고 물우시지만 대수롭지 않게 생각하고 골고루 다 친하다고 했다. #@문장구분#그래도 이번엔 진정한 친구를 한번 생각해 보겠다.#@문장구분# 나는 진정한 친구는 남의 이야기를 묵묵히 들어주고 공감해 주는 그런 사람 내가 그런사람이 되고 싶기도 하고.#@문장구분# 좀 더 추가 하자면 공감대도 비슷하면 좋겠다.#@문장구분# 확실히 말이 잘 통하면 쉽게 가까워질테니까.#@문장구분# 아무튼 나는 이런 사람이 좋은 친구라고 생각한다.#@문장구분# 어제먹은 점심같은 소소한 이야기를 해도 들어주고 웃어주고 고민이 있어서 털어놓면 공감해주는 친구. #@문장구분#해결해 주지는 못해도 난 그런 사람이 가장 좋은 것 같다.#@문장구분# 내 주위에는 몇몇 보이는 것도 같지만 대부분 그냥 까분다.#@문장구분#그런 자랑도 재밌고 놀기는 좋다.#@문장구분# 그리고 친구의 기준.#@문장구분#친구라고 막 인사만 하면 그건 친구는 아니고 그냥 아는 사람.#@문장구분# 가까워져서 같이 게임도 하고 얘기도 하면 그런게 친구같다.#@문장구분# 친해질 때는 보통 나 보다는 상대방이 먼저 다가와 준다.#@문장구분# 그리고 친구를 순위를 매진다.#@문장구분# 이것도 잘못된것 같다. #@문장구분#자신이 좋은 친구라고,진정한 친구라고 생각하는 사람이 있어도 각자에 장점이 있고 단점도 있어서 1등 2등을 매기는 것안된다.#@문장구분# 친구는 좋은 친구만 사귀고 생활하자.",
+      "paragraph_len": 990,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.15,
+      26.75,
+      24.9
+    ],
+    "essay_scoreT_avg": 25.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 가끔 엄마가 뭐 친한 친구가 없냐 제일 친한 친구는 누구냐고 물어보시지만 대수롭지 않게 생각하고 골고루 다 친하다고 했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가끔 엄마가 뭐 <문법_맞춤법>친한친구가</문법_맞춤법> 없냐 제일 친한친구는 누구냐고 물우시지만 대수롭지 않게 생각하고 골고루 다 친하다고 했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 진정한 친구는 남의 이야기를 묵묵히 들어주고 공감해 주는 그런 사람 내가 추가하자면 되고 싶기도 하고.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 진정한 친구는 남의 이야기를 묵묵히 들어주고 공감해 주는 그런 사람 내가 <문법_맞춤법>그런사람이</문법_맞춤법> 되고 싶기도 하고.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 좀 더 추가하자면 공감대도 비슷하면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 좀 더 <문법_맞춤법>추가 하자면</문법_맞춤법> 공감대도 비슷하면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 확실히 말이 잘 통하면 쉽게 가까워질 테니까.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 확실히 말이 잘 통하면 쉽게 <문법_맞춤법>가까워질테니까.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어제 먹은 점심 같은 소소한 이야기를 해도 들어주고 웃어주고 고민이 있어서 털어놓으면 공감해 주는 친구. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어제먹은 점심같은</문법_맞춤법> 소소한 이야기를 해도 들어주고 웃어주고 고민이 있어서 털어놓면 공감해주는 친구. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가까워져서 같이 게임도 하고 얘기도 하면 그런 게 친구 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가까워져서 같이 게임도 하고 얘기도 하면 <문법_맞춤법>그런게 친구같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친해질 때는 보통 나보다는 상대방이 먼저 다가와 준다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친해질 때는 보통 <문법_맞춤법>나 보다는</문법_맞춤법> 상대방이 먼저 다가와 준다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구를 순위를 매긴다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친구를 순위를 <문법_맞춤법>매진다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것도 잘못된 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이것도 <문법_맞춤법>잘못된것</문법_맞춤법> 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "자신이 좋은 친구라고, 진정한 친구라고 생각하는 사람이 있어도 각자에 장점이 있고 단점도 있어서 1등 2등을 매기는 것 안 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "자신이 좋은 <문법_맞춤법>친구라고,진정한</문법_맞춤법> 친구라고 생각하는 사람이 있어도 각자에 장점이 있고 단점도 있어서 1등 2등을 매기는 것안된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52579",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 631,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 학교에 가는 것을 좋아하지 않는편이다.#@문장구분# 하지만 음악, 사회, 영어를 하는 날은 너무 학교에 가고싶어진다. #@문장구분#왜냐하면 음악은 요즘 국악? 수업을 하는데 너무 재밌기도 하고 우리나의 전통 음악을 알 수 있기 때문에 음악수업이 듣기 좋았던 것 같다.#@문장구분# 사회는 그냥 수업 자체가 동영상 첨부하면서 보며 하는거라 재미가 있었다.#@문장구분# 또 사회도 우리나라의 역사 이야기를 듣고 배우는 것이기에 흥미있게 또 몰입해서 배울수 있다. #@문장구분#또 영어는 내가 지금 꿈구는 외교관 일에도 도움이 돼고 또 내가 가장 잘하는 과목이기도 하고 또 영어자체를 좋아하다 보니까 자연스럽게 영어가 익숙해졌고 익숙해졌기에 재미가 있어진 것 같다. #@문장구분#그리고 내가 말한 3가지 과목중 가장 좋아하는 과목은 사회다.",
+      "paragraph_len": 492,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4285715,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.714287,
+      27.714287,
+      27.714287
+    ],
+    "essay_scoreT_avg": 27.714287,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 학교에 가는 것을 좋아하지 않는 편이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 학교에 가는 것을 좋아하지 <문법_맞춤법>않는편이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 음악, 사회, 영어를 하는 날은 너무 학교에 가고 싶어진다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 음악, 사회, 영어를 하는 날은 너무 학교에 <문법_맞춤법>가고싶어진다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 음악은 요즘 국악? 수업을 하는데 너무 재밌기도 하고 우리나라의 전통 음악을 알 수 있기 때문에 음악수업이 듣기 좋았던 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 음악은 요즘 국악? 수업을 하는데 너무 재밌기도 하고 <문법_맞춤법>우리나의 </문법_맞춤법>전통 음악을 알 수 있기 때문에 음악수업이 듣기 좋았던 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사회는 그냥 수업 자체가 동영상 첨부하면서 보며 하는 거라 재미가 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사회는 그냥 수업 자체가 동영상 첨부하면서 보며 <문법_맞춤법>하는거라 </문법_맞춤법>재미가 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 사회도 우리나라의 역사 이야기를 듣고 배우는 것이기에 흥미 있게 또 몰입해서 배울 수 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 사회도 우리나라의 역사 이야기를 듣고 배우는 것이기에 <문법_맞춤법>흥미있게 </문법_맞춤법>또 몰입해서 배울수 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 영어는 내가 지금 꿈꾸는 외교관 일에도 도움이 되고 또 내가 가장 잘하는 과목이기도 하고 또 영어 자체를 좋아하다 보니까 자연스럽게 영어가 익숙해졌고 익숙해졌기에 재미가 있어진 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 영어는 내가 지금 <문법_맞춤법>꿈구는 </문법_맞춤법>외교관 일에도 도움이 돼고 또 내가 가장 잘하는 과목이기도 하고 또 영어자체를 좋아하다 보니까 자연스럽게 영어가 익숙해졌고 익숙해졌기에 재미가 있어진 것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 내가 말한 3가지 과목 중 가장 좋아하는 과목은 사회다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 내가 말한 3가지 <문법_맞춤법>과목중 </문법_맞춤법>가장 좋아하는 과목은 사회다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50191",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 373,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

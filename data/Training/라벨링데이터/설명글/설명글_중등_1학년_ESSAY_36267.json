@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 참된 스승은 정말 많다.#@문장구분# 먼저 첫 번째는 나 자신이다.#@문장구분# 왜냐하면 먼저나는 내 자신이 정말 좋다.#@문장구분# 나는 자기 자신을 사랑하면 좋은 것이라고 생각한다.#@문장구분# 그래서 나는 내가 하는 것 하나하나를 나 자신을 믿고 맡긴다.#@문장구분# 예를 들어서 기부를 한다거나, 문제를 풀때 말이다.#@문장구분# 두 번째는 실패를 많이 했어도 열심히 포기하지 않아서 성공한 사람이다.#@문장구분# 왜냐하면 먼저 정말 인내심이 많은 것이다.#@문장구분# 실패를 한다면 우울하고 포기하고 싶어질텐데 그 실패를 발판으로 삼아서 포기하지 않고 성공할때 까지 노력했다는게 매우 경이롭다.#@문장구분# 그 점들을 매우 본 받고 싶다.#@문장구분# 세 번째는 어디에서든 눈치를 안 보는 것이다.#@문장구분# 왜냐하면 내가 하는 일에 눈치를 보지 않고, 내가 하고 싶거나 좋아하는 것을 당당하게 하는 것이 정말 대단하다.#@문장구분# 하지만 이렇게 눈치를 안 보는 것이 좋을 때만 있는 것은 아니다.#@문장구분# 너무 눈치가 없을 수도 있기 때문이다.#@문장구분# 마지막 네 번째는 나를 챙겨주는 사람이다.#@문장구분# 왜냐하면 왜 나를 위해서 돈과 시간을 써주기 때문이다.#@문장구분# 그래서 챙겨주는 사람한테 매우 고맙고, 나도 나중에 챙겨줄 것이라고 다짐한다.#@문장구분#",
+      "paragraph_len": 894,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      30,
+      17.05
+    ],
+    "essay_scoreT_avg": 22.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.23",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 <스타일링_패러프레이징>먼저나는</스타일링_패러프레이징> 내 자신이 정말 좋다.",
+      "sentence_corr_txt_styling": " 왜냐하면 나는 내 자신이 정말 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어서 기부를 한다거나, 문제를 풀 때 말이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들어서 기부를 한다거나, 문제를 <문법_맞춤법>풀때</문법_맞춤법> 말이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 두 번째는 실패를 많이 했어도 <스타일링_담화 맥락 오류>열심히 포기하지 않아서</스타일링_담화 맥락 오류> 성공한 사람이다.",
+      "sentence_corr_txt_styling": " 두 번째는 실패를 많이 했어도 끝까지 포기하지 않아서 성공한 사람이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 <스타일링_담화 맥락 오류>먼저 정말 인내심이 많은 것이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 왜냐하면 정말 인내심이 많은 사람이기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 실패를 한다면 우울하고 포기하고 싶어질 텐데 그 실패를 발판으로 삼아서 포기하지 않고 성공할 때까지 노력했다는 게 매우 경이롭다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 실패를 한다면 우울하고 포기하고 <문법_맞춤법>싶어질텐데</문법_맞춤법> 그 실패를 발판으로 삼아서 포기하지 않고 성공할때 까지 노력했다는게 매우 경이롭다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 점들을 매우 본받고 싶다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 점들을 매우<문법_맞춤법> 본 받고</문법_맞춤법> 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 세 번째는 어디에서든 눈치를 안 보는 <스타일링_담화 맥락 오류>것이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 세 번째는 어디에서든 눈치를 안 보는 사람이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 내가 하는 일에 눈치를 보지 않고, 내가 하고 싶거나 좋아하는 것을 당당하게 하는 것이 정말 대단하다고 생각하기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 왜냐하면 내가 하는 일에 눈치를 보지 않고, 내가 하고 싶거나 좋아하는 것을 당당하게 하는 것이 정말<문법_어미> 대단하다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막 네 번째는 나를 챙겨 주는 사람이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마지막 네 번째는 나를 <문법_맞춤법>챙겨주는</문법_맞춤법> 사람이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 나를 위해서 돈과 시간을 써주기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>왜 </문법_맞춤법>나를 위해서 돈과 시간을 써주기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36267",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 554,
+    "essay_main_subject": "참된 스승"
+  }
+}

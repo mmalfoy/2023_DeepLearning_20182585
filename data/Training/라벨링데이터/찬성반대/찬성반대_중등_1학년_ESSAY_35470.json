@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "평등한 세상에 대한 나의 의견은 찬성입니다.#@문장구분# 왜냐하면 이유는 여러모로 많다.#@문장구분# 첫번째는 부모님 능력에 대해 생각을 해봤다.#@문장구분# 반대 입장에에서는 부모님만 잘 만나면 부자로 편히 사는거 아닌가 라고 생각 할 수 있겠지만 나의 의견은 좀 다르다.#@문장구분# 부모님이 부자가 될 이유는 어느정도 노력도 있을 것 이고 도전과 많은 삶을 살아가며 어떻게 돈을 많이 버는지도 생각하며 살아 왔기 때문에 그만큼 가치가 나타나는 것 같다.#@문장구분# 그 노력을 한 가치를 자기 자식들에게 쓰고 주고 사용한다는데 괜찮은 것 같다.#@문장구분# 이 모습을 보고 불공평하고 않좋게 보지만 말고 나도 저렇게 커서 부자가 되야지, 어떻게 하면 돈을 많이 벌까 등을 생각해보면 좋겠고 이것을 아무리 불공평 하다고 생각해도 사실 상 크게 바뀌는 것은 없으니까 그냥 인정하고 좋은 마인드를 가지는 것도 좋은 생각같다.#@문장구분# 꼭 금수저들이 돈으로 범죄를 없애고 대학 등을 잘 가고 이럴 수 있긴 하지만 이렇지 않은 금수저들도 있다.#@문장구분# 그렇기 때문에 좋은곳에 많이 기부하는 사람도 많이 봤으며 아리아나 그란데도 어렸을 적 부터 금수저였는데 사람들이 나쁘게 보는가? 도 생각해야 할 것 같다.#@문장구분# 부럽다, 좋겠다 등 부러워하는 사람들은 봤지만 불공평하다고 생각한 사람들은 못 봤다.#@문장구분# 연예인, 가수, 배우 등 금수저인 사람이 있는데 그것들에 관한 영상, 글을 봤을때 반응도 마찬가지로 불공평하단 것은 못 봤다.#@문장구분# 그러므로 이 돈과 능력에 대해선 크게 신경쓸 게 없을 것 같다.#@문장구분# 그러므로 반대입장이다.#@문장구분#",
+      "paragraph_len": 994,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.688889,
+      16.422222,
+      15.233334
+    ],
+    "essay_scoreT_avg": 18.114815,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "평등한 세상에 대한 나의 의견은 찬성이다. ",
+      "sentence_corr_reason": [
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "평등한 세상에 대한 나의 의견은 <문법_어미>찬성입니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째는 부모님 능력에 대해 생각을 해봤다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫번째는</문법_맞춤법> 부모님 능력에 대해 생각을 해봤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반대 입장에서는 부모님만 잘 만나면 부자로 편히 사는 거 아닌가라고 생각할 수 있겠지만 나의 의견은 좀 다르다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 반대 <문법_맞춤법>입장에에서는</문법_맞춤법> 부모님만 잘 만나면 부자로 편히 사는거 아닌가 라고 생각 할 수 있겠지만 나의 의견은 좀 다르다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님이 부자가 될 이유는 어느 정도 노력도 있을 것이고 도전과 많은 삶을 살아가며 어떻게 돈을 많이 버는지도 생각하며 살아 왔기 때문에 그만큼 가치가 나타나는 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모님이 부자가 될 이유는 <문법_맞춤법>어느정도</문법_맞춤법> 노력도 있을 것 이고 도전과 많은 삶을 살아가며 어떻게 돈을 많이 버는지도 생각하며 살아 왔기 때문에 그만큼 가치가 나타나는 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 모습을 보고 불공평하고 안 좋게 보지만 말고 나도 저렇게 커서 부자가 되어야지, 어떻게 하면 돈을 많이 벌까 등을 생각해 보면 좋겠고 이것을 아무리 불공평하다고 생각해도 사실상 크게 바뀌는 것은 없으니까 그냥 인정하고 좋은 마인드를 가지는 것도 괜찮은 생각 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 모습을 보고 불공평하고 <문법_맞춤법>않좋게</문법_맞춤법> 보지만 말고 나도 저렇게 커서 부자가 되야지, 어떻게 하면 돈을 많이 벌까 등을 생각해보면 좋겠고 이것을 아무리 불공평 하다고 생각해도 사실 상 크게 바뀌는 것은 없으니까 그냥 인정하고 좋은 마인드를 가지는 것도 좋은 생각같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 좋은 곳에 많이 기부하는 사람도 많이 봤으며 아리아나 그란데도 어렸을 적부터 금수저였는데 사람들이 나쁘게 보는가? 도 생각해야 할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 <문법_맞춤법>좋은곳에</문법_맞춤법> 많이 기부하는 사람도 많이 봤으며 아리아나 그란데도 어렸을 적 부터 금수저였는데 사람들이 나쁘게 보는가? 도 생각해야 할 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 연예인, 가수, 배우 등 금수저인 사람이 있는데 그것들에 관한 영상, 글을 봤을 때 반응도 마찬가지로 불공평하단 것은 못 봤다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 연예인, 가수, 배우 등 금수저인 사람이 있는데 그것들에 관한 영상, 글을 <문법_맞춤법>봤을때</문법_맞춤법> 반응도 마찬가지로 불공평하단 것은 못 봤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 이 돈과 능력에 대해선 크게 신경 쓸 게 없을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 이 돈과 능력에 대해선 크게 <문법_맞춤법>신경쓸 게</문법_맞춤법> 없을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 반대 입장이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 <문법_맞춤법>반대입장이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35470",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 734,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

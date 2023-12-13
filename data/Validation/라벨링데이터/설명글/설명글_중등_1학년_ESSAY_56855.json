@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "습관을 들이기는 힘든 것 같다.#@문장구분# 왜냐하면 이미 습관이 된 나쁜 습관이 잘 안 버려지기 때문이다.#@문장구분# 웃을 때 자꾸 옆에 있는 사람을 때려서 곤란했던 적이 많다.#@문장구분# 언제는 한 번 힘 조절을 잘못해서 너무 세게 친구를 때린 바람에, 친구를 울게 만든 적도 있었다.#@문장구분# 그리고 엄마도 사람 좀 그만 때리라고 나한테 뭐라고 한다.#@문장구분# 나는 이 습관이 엄청 고치고 싶었다.#@문장구분# 그래서 어떤 노력을 했냐면, 웃을 때마다 손을 가만히 둘 수 있게끔 하는 걸 연습했다.#@문장구분#웃으면서 옆에 있는 친구를 패려다가도 아차 하고 손을 내렸다.#@문장구분# 이걸 계속해서 반복하다 보니까 어느순간부터는 이 버릇이 싸악 사라져 있었다.#@문장구분# 역시 세상에는 노력으로 안 되는 일이 하나도 없는 것 같다.#@문장구분# 다른 나쁜 습관을 발견하게 된다면 이번에 고친 것처럼 그것도 반드시 노력을 해서 꼭 고치고 말 것이다.#@문장구분#",
+      "paragraph_len": 634,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      23.2,
+      20.25
+    ],
+    "essay_scoreT_avg": 23.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 나는 이 습관을 엄청 고치고 싶었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 나는 이 <문법_조사>습관이 </문법_조사>엄청 고치고 싶었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "웃으면서 옆에 있는 친구를 패려다가도 아차 하고 손을 내렸다.",
+      "sentence_corr_txt_styling": "웃으면서 옆에 있는 친구를 패려다가도 아차 하고 손을 내렸다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이걸 계속해서 반복하다 보니까 어느 순간부터는 이 버릇이 싹 사라져 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이걸 계속해서 반복하다 보니까 <문법_맞춤법>어느순간부터는 </문법_맞춤법>이 버릇이 싸악 사라져 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56855",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 415,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

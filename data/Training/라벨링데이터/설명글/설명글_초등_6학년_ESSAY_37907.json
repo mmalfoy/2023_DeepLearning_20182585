@@ -1,0 +1,334 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "친구란 나의 짐을 지고갈 수 있는 사람이라고 생각한다.#@문장구분# 서로 배려하고 함께하고, 공감할 수 있는것이 친구인 것 같다.#@문장구분# 나는 남에게 해가되는 인물이 돼고싶지 않다.#@문장구분# 다른사람에게 친근한 존재가 돼고싶다.#@문장구분#진정한 친구는 서로 코드가 잘 맞는 친구여야 가능하다고 생각한다#@문장구분#. 친구는 같은반이라고해도 인사만 한다고 해도 친하게 지내는 것이 아니기 때문에 친구라고 할 수 없다.#@문장구분# 그리고 친구 중에서 순위를 매기는 것은 상대방에게는 불편할 수도 있고, 서운할 수도있다.#@문장구분# 비록 싸울 수도 있지만 서로 이해하면 다시 친해질 수 있을 것이다.#@문장구분# 사람들마다 생각하는 것과, 좋아하는 것이 다르 겠지만 서로 존중하고, 이해하면 서로를 배려하게돼어 친해질 것이다.#@문장구분# 서로 잘 맞는다면 좋아하는 것도 비슷하고, 서로에 대해 잘 알기 때문에 싸울 일이 적고 우정이 오래갈 것이다.#@문장구분# 친구는 나이가 같든 다르든 서로 잘 맞고 친하고, 서로 친구라고 생각이 든다면 서로 친구인 것이다.#@문장구분# 친구는 나이가 중요하지 않는다. #@문장구분#서로를 존중하고 중요하게 생각한다면 친구인 것이다. #@문장구분#다만 선은 지켜야 한다.#@문장구분# 서로의 선을 넘으면 상대방이 불편해하고, 서로가 점점 멀어질 것이다.#@문장구분#",
+      "paragraph_len": 873,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      26.4,
+      20.25
+    ],
+    "essay_scoreT_avg": 24.883333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "친구란 나의 짐을 지고 갈 수 있는 사람이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>친구란 나의 짐을 지고갈 수 있는 사람이라고 생각한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 서로 배려하고 함께하고, 공감할 수 있는 것이 친구인 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 서로 배려하고 함께하고, 공감할 수 <문법_맞춤법>있는것이</문법_맞춤법> 친구인 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 남에게 해가 되는 사람이 되고 싶지 않다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 남에게 <문법_맞춤법>해가되는 인물이 돼고싶지</문법_맞춤법> 않다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 사람에게 친근한 존재가 되고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다른사람에게 친근한 존재가 돼고싶다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "진정한 친구는 서로 코드가 잘 맞는 친구여야 가능하다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "진정한 친구는 서로 코드가 잘 맞는 친구여야 가능하다고 <문법_맞춤법>생각한다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "같은 반 친구라도 인사만 하는 것은 친하게 지내는 게 아니기 때문에, 친구라고 할 수 없다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어순><문법_기타>. 친구는 같은반이라고해도 인사만 한다고 해도 친하게 지내는 것이 아니기 때문에 친구라고 할 수 없다.</문법_기타></문법_어순></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구 중에서 순위를 매기는 것은 상대방에게는 불편할 수도 있고, 서운할 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친구 중에서 순위를 매기는 것은 상대방에게는 불편할 수도 있고, <문법_맞춤법>서운할 수도있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들마다 생각하는 것과, 좋아하는 것이 다르겠지만 서로 존중하고, 이해하면서 서로를 배려하면 더욱 친해질 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 사람들마다 생각하는 것과, 좋아하는 것이 <문법_맞춤법><문법_기타>다르 겠지만 서로 존중하고, 이해하면 서로를 배려하게돼어 친해질 것이다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구는 나이가 같든 다르든 서로 잘 맞고 친하고, 서로 친구라고 생각이 든다면 친구인 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구는 나이가 같든 다르든 서로 잘 맞고 친하고, 서로 친구라고 생각이 든다면 <문법_맞춤법>서로 친구인 것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구에는 나이가 중요하지 않다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구<문법_맞춤법>는 나이가 중요하지 않는다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 서로의 선을 넘으면 상대방이 불편해하고, 점점 멀어질 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 서로의 선을 넘으면 상대방이 불편해하고, <문법_맞춤법>서로가 점점</문법_맞춤법> 멀어질 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37907",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 574,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

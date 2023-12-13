@@ -1,0 +1,328 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요.#@문장구분# 저는 #@이름# 이라고 합니다.#@문장구분# 다문화 가정을 한번 애기 하도록 하겠습니다.#@문장구분# 저의 솔직한 의견을 담았습니다.#@문장구분#일단 다문화 가정이란 외국인이 우리나라 사람이랑 결혼을 한것을 말한다고 합니다.#@문장구분# 그런데 이것의 사회의 문제점은 아이가 태어날때 생긴다고 합니다.#@문장구분#왜냐하면 아이가 외국인의 DNA 그리고 한국인의 DNA가 협쳐저 생김새가 외국인처럼 아니면 우리나라 사람처럼 태어납니다.#@문장구분# 그런데 제가 주변의 있는 다문화 가정을 보고 분석을 해본다면 외국인 처럼 생긴 아이들이 많았습니다.#@문장구분# 그런데 이게 왜 문제가 되느냐 어른들은 다크고 머리도 다 공부를 하고 철도 들었기 때문에 생김새 같고는 놀리거나 따돌림 등등 받지 않고 합니다.#@문장구분# 그런데 어린이들은 그생김새가 나와는 달라 가까워 지지 않을려거나 놀리거나 따돌림 하거나 등등 안좋은짓거리들은 거의 거의 다 합니다.#@문장구분# 이렇게 되서 차별이 생기고 편견이 생깁니다.#@문장구분# 저는 이런 차별과 편견을 버리고 아주나 평화로운 사회를 만들수는 없지만 그래도 만든다면 사회가 평화로워 질거같습니다.#@문장구분#",
+      "paragraph_len": 769,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      15.75,
+      14.95
+    ],
+    "essay_scoreT_avg": 16.9,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.10",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 다문화 <스타일링_담화 맥락 오류>가정을</스타일링_담화 맥락 오류> 한번 애기 하도록 하겠습니다.",
+      "sentence_corr_txt_styling": " 다문화 가정에 대해 이야기 해보도록 하겠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "먼저 다문화 가정이란 외국인이 우리나라 사람이랑 결혼하여 만들어진 가정을 말한다고 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>일단</문법_맞춤법> 다문화 가정이란 외국인이 우리나라 사람이랑 <스타일링_담화 맥락 오류>결혼을 한것을</스타일링_담화 맥락 오류> 말한다고 합니다.",
+      "sentence_corr_txt_styling": "먼저 다문화 가정이란 외국인이 우리나라 사람이랑 결혼하여 만들어진 가정을 말한다고 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 이것의 사회적인 문제점은 아이가 태어날 때 생긴다고 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 이것의 <문법_조사><문법_어미>사회의</문법_어미></문법_조사> 문제점은 아이가 <문법_맞춤법>태어날때</문법_맞춤법> 생긴다고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 아이가 외국인의 DNA 그리고 한국인의 DNA가 합쳐져 생김새가 조금 다르게 태어나는 경우가 많기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 아이가 외국인의 DNA 그리고 한국인의 DNA가 <문법_맞춤법>협쳐저</문법_맞춤법> 생김새가 외국인처럼 아니면 우리나라 사람처럼 <스타일링_담화 맥락 오류>태어납니다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "왜냐하면 아이가 외국인의 DNA 그리고 한국인의 DNA가 합쳐져 생김새가 조금 다르게 태어나는 경우가 많기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 제가 주변에 있는 다문화 가정을 보고 분석을 해봤을 때엔 외국인처럼 생긴 아이들이 많았습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 제가 <문법_조사>주변의</문법_조사> 있는 다문화 가정을 보고 분석을 <문법_맞춤법>해본다면</문법_맞춤법> 외국인 처럼 생긴 아이들이 많았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 이게 왜 문제가 될까요? 어른들은 철이 들었기 때문에 생김새 가지고는 놀리거나 따돌림을 하지 않습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 이게 왜 문제가 <문법_어미>되느냐 </문법_어미>어른들은<스타일링_담화 맥락 오류> 다크고 머리도 다 공부를 하고 철도 들었기 때문에 </스타일링_담화 맥락 오류>생김새 <문법_맞춤법>같고는</문법_맞춤법> 놀리거나 따돌림 등등 받지 않고 합니다.",
+      "sentence_corr_txt_styling": " 그런데 이게 왜 문제가 될까요? 어른들은 철이 들었기 때문에 생김새 가지고는 놀리거나 따돌림을 하지 않습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나 어린이들은 생김새가 나와 다르면 가까이 하지 않으려고 하거나 놀리거나 따돌림 하는 등등 안 좋은 행동을 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그런데</스타일링_담화 맥락 오류> 어린이들은 <문법_맞춤법>그생김새가</문법_맞춤법> <문법_어미>나와는 달라</문법_어미> 가까워 지지 않을려거나 놀리거나 따돌림 <스타일링_패러프레이징>하거나 </스타일링_패러프레이징>등등 안좋은짓거리들은 거의 거의 다 합니다.",
+      "sentence_corr_txt_styling": " 그러나 어린이들은 생김새가 나와 다르면 가까이 하지 않으려고 하거나 놀리거나 따돌림 하는 등등 안 좋은 행동을 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 되어 차별이 생기고 편견이 생깁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이렇게 되서</문법_맞춤법> 차별이 생기고 편견이 생깁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 지금 당장 이런 차별과 편견을 버리고 아주 평화로운 사회를 만들 수는 없지만 그래도 만든다면 사회가 평화로워질 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>저는 </스타일링_담화 맥락 오류>이런 차별과 편견을 버리고 <문법_맞춤법>아주나</문법_맞춤법> 평화로운 사회를 만들수는 없지만 그래도 만든다면 사회가 평화로워 질거같습니다.",
+      "sentence_corr_txt_styling": " 제가 지금 당장 이런 차별과 편견을 버리고 아주 평화로운 사회를 만들 수는 없지만 그래도 만든다면 사회가 평화로워질 것 같습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35222",
+    "essay_prompt": " 다문화 가족은 아버지 혹은 어머니가 외국 국적의 사람일 경우를 말합니다.\n\n 국가 정책을 통해 다문화 가정에 대한 이해 교육을 펼쳐 국민들의 생각을 변화시키려 하고 있지만, 여전히 사회나 학교 안에서 차별과 편견이 남아있습니다.\n\n 생김새와 문화가 한국인과는 다르다는 이유로 다문화 가정인 아이들이 사람들이 보는 시선에 의해 상처받는 경우가 많습니다.\n\n 다문화 가족의 아이들이 차별 혹은 편견 받지 않고 우리와 동일한 한국인으로 인정받고 존중하는 사회를 만들기 위해서는 어떠한 노력이 필요할까요?\n\n 여러분이 생각하기에 가장 먼저 실천되어야 하는 것이 무엇인지 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 516,
+    "essay_main_subject": "다문화 가족을 대하는 본인의 자세"
+  }
+}

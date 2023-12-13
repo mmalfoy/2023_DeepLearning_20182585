@@ -1,0 +1,312 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 에너지를절약하자는 주제이다#@문장구분#\n편리한 것을미래가 밝을 지를 않다#@문장구분#\n 동물들이 원자력을먹어 우리몸으로 들어와 나쁜성질을 일으킨다하지만 그게끝이아니다#@문장구분# 에너지절약하지않으면 우리가살아갈때 태양이 더강해지고 지구 온난화를 일으킬수있다 온난화때 북극곰이 죽을수있고 결코우리도살아남을수없다 #@문장구분#우리가 계속에너지절약하지않으면 이제 미래는 없다 #@문장구분#허나 만약계속 미래가 발전되어 산, 바다등 자연환경이 파괴뿐만아니라 동물, 식물등 우리에게 필요한 동물과식물도없어진다 #@문장구분#반대로 만약 환경보다 편리함이 더중요하다고 생각하나요라는글을 장점 지금보다 더 편리할수있고또어차피 남음 인생 전기에너지절약뭐가중요해라는사람도 있다.#@문장구분# 하지만 이런 사람들이나쁘다고는하면안돼다. #@문장구분#저마다 다의견이있는법 누구하나 탓을하면안된다.#@문장구분# 절약하는의견 편리한삶을살자라는의견당신을어떻게하겠습니까? 저는 개인적으로 에너지를 조금이라도 절약하면서 편리하게살면 될수도있다#@문장구분#",
+      "paragraph_len": 649,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          1.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.01111,
+      24.01111,
+      30
+    ],
+    "essay_scoreT_avg": 26.007406,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 에너지를 절약하자는 주제이다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 에<문법_맞춤법>너지를절약하자</문법_맞춤법>는 주제이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n편리한 것 을 미래가  밝을지를 않다",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "\n편<문법_맞춤법>리한 것을미래가 밝을 지를 않</문법_맞춤법>다",
+      "sentence_corr_txt_styling": "\n편리한 것 을 미래가  밝을지를 않다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 동물들이 원자력을 먹어 우리 몸으로 들어와 나쁜 성질을  일으킨다 하지만 그게 끝이 아니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 동물들이<문법_맞춤법> 원자력을먹어 우리몸으로 들어와 나쁜성질을 일으킨다하지만 그게끝이아니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 에너지 절약하지 않으면  우리가 살아갈 때 태양이  더 강해지고  지구 온난화를  일으킬 수 있다 온난화 때 북극곰이 죽을 수 있고 결코 우리도 살아남을 수 없다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>에너지절약하지않으면 우리가살아갈때 태양이 더강해지고 지구 온난화를 일으킬수있다 온난화때 북극곰이 죽을수있고 결코우리도살아남을수없</문법_맞춤법>다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리가 계속 에너지 절약하지 않으면 이제 미래는 없다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리가 <문법_맞춤법>계속에너지절약하지않으면</문법_맞춤법> 이제 미래는 없다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "허나 만약 계속 미래가 발전되어 산, 바다 등 자연환경이 파괴뿐만 아니라 동물 , 식물 등 우리에게 필요한 동물과 식물도 없어진다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>허나 만약계속 미래가 발전되어 산, 바다등 자연환경이 파괴뿐만아니라 동물, 식물등 우리에게 필요한 동물과식물도없어진다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "반대로 만약 환경보다 편리함이 더 중요하다고 생각하나요라는 글을 장점 지금보다 더 편리할 수 있고 또 어차피 남음 인생 전기에너지 절약 뭐가 중요해라는 사람도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "반대로 만약 환경보다 편리함이 <문법_맞춤법>더중요하다고 생각하나요라는글을 장점 지금보다 더 편리할수있고또어차피 남음 인생 전기에너지절약뭐가중요해라는사람도 있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 이런 사람들이 나쁘다고는 하면 안됀다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 이<문법_맞춤법>런 사람들이나쁘다고는하면안돼다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저마다 다 의견이 있는 법 누구 하나 탓을 하면 안 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저마다<문법_맞춤법> 다의견이있는법 누구하나 탓을하면안된</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 절약하는 의견 편리한 삶을 살자는 의견 당신을 어떻게 하겠습니까? 저는 개인적으로 에너지를 조금이라도 절약하면서 편리하게 살면  될 수도 있다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>절약하는의견 편리한삶을살자라는의견당신을어떻게하겠습니까? 저는 개인적으로 에너지를 조금이라도 절약하면서 편리하게살면 될수도있다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51648",
+    "essay_prompt": " 과학 발전을 통해 다양한 에너지들이 만들어지고 일상생활에 사용되고 있습니다. 대표적인 예가 원자력입니다.\n\n 원자력 발전소에서 생산되는 엄청난 양의 에너지를 통해 여러분이 핸드폰을 하고 TV를 보고 전등을 켤 수 있습니다.\n\n 하지만 원자력 발전소를 통해 에너지를 생산하는 과정에서 폭발위험과 핵폐기물로 인한 심각한 환경문제가 발생하고 있습니다.\n\n 우리가 에너지를 사용하면 사용할수록 원자력 발전소 같은 에너지를 생산할 수 있는 시설이 더욱 많이 필요할 것입니다. 이는 더 많은 환경문제를 일으키겠죠?\n\n 그렇기 때문에 더 에너지 사용을 늘리지 말자는 의견이 많이 나오고 있습니다. 생활의 편리함을 뒤로하고 에너지 절약을 먼저 하자는 의견입니다.\n\n 여러분은 편리한 생활을 줄이고 에너지를 절약하여 환경을 살리는 데 찬성하시나요? 아니면 환경보다는 지금의 편리함이 더 중요하다고 생각하시나요?  본인의 생각을 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 450,
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각"
+  }
+}

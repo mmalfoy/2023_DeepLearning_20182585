@@ -1,0 +1,257 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서는 많은 과목들을 배우고 있습니다.#@문장구분# 국어, 수학, 과학, 사회, 체육 등 정말 다양한 과목들이 있습니다.#@문장구분# 하지만 사람들마다 성격이 다르고좋아하는 것도 달라서 재밌는 과목이 다를 것으로 생각합니다.#@문장구분#\n 그 중에서 제가 좋아하는 과목은 미술과수학입니다.#@문장구분# 미술은 예술적 감각이없어도 할 수있다고해서 그림을 그리다보니까 그림을 그리니까 미술이 좋아졌습니다.#@문장구분# 수학은 4학년때까지는 진짜싫어했는데 5학년수학은 쉬워서 시험을볼때마다 점수가 90점이상이여서 부모님께 칭찬을 받으니까 기분이 좋아져서 수학을 더 많이 배우고싶어졌습니다.#@문장구분#\n 미술에서 가을리스 만드는게 인상 깊었다.#@문장구분# 다른과목에도 흥미를 가지면 좋겠다고 생각했다.#@문장구분#",
+      "paragraph_len": 503,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.066668,
+      21.6,
+      20.333334
+    ],
+    "essay_scoreT_avg": 20,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 하지만 사람들마다 성격이 다르고 좋아하는 것도 달라서 재밌는 과목이 다를 것으로 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 사람들마다 성격이 <문법_맞춤법>다르고좋아하는</문법_맞춤법> 것도 달라서 재밌는 과목이 다를 것으로 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그중에서 제가 좋아하는 과목은 미술과 수학입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>그 중에서 제가 좋아하는 과목은 미술과수학입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미술은 예술적 감각이 없어도 할 수 있다고해서 그림을 그리다보니까 그림을 그리니까 미술이 좋아졌습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미술은 예술적 <문법_맞춤법>감각이없어도 할 수있다고해서</문법_맞춤법> 그림을 그리다보니까 그림을 그리니까 미술이 좋아졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 수학은 4학년때까지는 진짜싫어했는데 5학년수학은 쉬워서 시험을볼때마다 점수가 90점이상이여서 부모님께 칭찬을 받으니까 기분이 좋아져서 수학을 더 많이 배우고싶어졌습니다.",
+      "sentence_corr_txt_styling": " 수학은 4학년때까지는 진짜싫어했는데 5학년수학은 쉬워서 시험을볼때마다 점수가 90점이상이여서 부모님께 칭찬을 받으니까 기분이 좋아져서 수학을 더 많이 배우고싶어졌습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 미술에서 가을리스 만드는 게 인상 깊었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "\n 미술에서 가을리스 <문법_맞춤법><문법_높임법>만드는게 인상 깊었다</문법_높임법></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 과목에도 흥미를 가지면 좋겠다고 생각했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_높임법>다른과목에도 흥미를 가지면 좋겠다고 생각했다.</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48088",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 344,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 사회가 가장 좋다.#@문장구분# 5학년2학기 사회에서는 역사를 배울 수 있다.#@문장구분# 사회가 재미있는 이유는 사회가 재미있기 때문이고 흥미로운 내용이 많다.#@문장구분# 그리고 사회를 하면 너무즐겁다.#@문장구분# 나는 사회를 하면 시간이 가는 것도 모른다.#@문장구분# 사회는 다른 과목보다 지루하지 않고 하나하나 배우는게 너무 재미있다.#@문장구분# 나는 특히 사회에서 역사를 좋아한다.#@문장구분# 그리고 우리가 살고 있는 지역사회를 공부할때도 재미있다.#@문장구분# 우리 역사를 배울때 너무 흥미로워서 가끔은 온종일 사회만 하고싶을 때도 있다.#@문장구분# 사회 내용을 정리하는 사회 공책을 적거나 사회공책을 보는 것도 재미있다.#@문장구분# 그래서 사회가 있는 날은 항상 기쁘다.#@문장구분# 사회책을 미리 읽거나 예습, 복습하는 것도 재미있다.#@문장구분# 사회에서 다양한 역사인물을 배우고 그 시대를 상상하거나'내가 그사람이었다면'이라고 생각 하는것 도 재미 있다.#@문장구분# 많은 친구들 이 나처럼 사회를 좋아해, 주면 좋을 것 같다.#@문장구분# 앞으로도 사회를 좋아하고 열심히 공부할것이다.#@문장구분# 그리고 사회공부를 매일 즐겁게 할 것이다.#@문장구분#",
+      "paragraph_len": 817,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      30,
+      26
+    ],
+    "essay_scoreT_avg": 28.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 5학년 2학기 사회에서는 역사를 배울 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>5학년2학기</문법_맞춤법> 사회에서는 역사를 배울 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 사회를 하면 너무 즐겁다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 사회를 하면 <문법_맞춤법>너무즐겁다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사회는 다른 과목보다 지루하지 않고 하나하나 배우는 게 너무 재미있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사회는 다른 과목보다 지루하지 않고 하나하나 <문법_맞춤법>배우는게</문법_맞춤법> 너무 재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 우리가 살고 있는 지역 사회를 공부할 때도 재미있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 우리가 살고 있는 <문법_맞춤법>지역사회를 공부할때도</문법_맞춤법> 재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리 역사를 배울 때 너무 흥미로워서 가끔은 온종일 사회만 하고 싶을 때도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리 역사를 <문법_맞춤법>배울때</문법_맞춤법> 너무 흥미로워서 가끔은 온종일 사회만 하고싶을 때도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 사회 내용을 정리하는 사회 공책을 적거나 사회공책을 보는 것도 재미있다.",
+      "sentence_corr_txt_styling": " 사회 내용을 정리하는 사회 공책을 적거나 사회공책을 보는 것도 재미있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사회에서 다양한 역사 인물을 배우고 그 시대를 상상하거나 '내가 그 사람이었다면'이라고 생각하는 것도 재미있다.'내가 그사람이었다면'이라고 생각 하는것 도 재미 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사회에서 다양한 <문법_맞춤법>역사인물을 배우고 그 시대를 상상하거나</문법_맞춤법>'내가 그사람이었다면'이라고 생각 하는것 도 재미 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 많은 친구들이 나처럼 사회를 좋아해 주면 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "문장 부호"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 많은 <문법_맞춤법>친구들 이</문법_맞춤법> 나처럼 사회를 <문법_기타>좋아해, 주면</문법_기타> 좋을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로도 사회를 좋아하고 열심히 공부할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 앞으로도 사회를 좋아하고 열심히 <문법_맞춤법>공부할것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_47978",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 497,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

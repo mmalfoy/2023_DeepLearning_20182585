@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 무슨 일이든 바로바로 하지 않고 미루는 안 좋은 습관을 가지고 있습니다.#@문장구분# 미루고 미루다보면 결국 끝에 너무 많이 몰려있어서 힘들어하고 너무 많은 양에 결국 포기를 해서 다 하지 못하는 경우가 많았습니다.#@문장구분# 이러한 것 때문에 숙제나 해야 할 것을 제대로 못하는 사람으로 누구에게나 각인되었습니다.#@문장구분# 더 이상은 이렇게 있으면 안 될 거 같다는 생각이 들어서 해야 할 것은 그때그때 하자는 생각을 가지기 시작했습니다.#@문장구분# 그런데 처음에는 습관에 무서움이 몸이 움직여주지 않았습니다.#@문장구분# 생각으로는 '해야지. 해야지.'하는데 막상 몸은 움직이지 않았습니다.#@문장구분# 그래서 집에 있을 때는 가족 옆에 와서 했습니다.#@문장구분# 그렇게 되면 감시하는 사람이 있으니까 하게 되었습니다.#@문장구분# 그리고 다른 시간에는 친구들이랑 같이 하면서 그때그때 할 수 있도록 했습니다.#@문장구분# 그래서 지금은 해야 할 것이 있으면 나름 바로바로 하는 사람이 되었습니다.#@문장구분#",
+      "paragraph_len": 649,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.5,
+      19,
+      20.5
+    ],
+    "essay_scoreT_avg": 20,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 미루고 미루다 보면 결국 끝에 너무 많이 몰려있어서 힘들어 하고 너무 많은 양에 결국 포기를 해서 다 하지 못하는 경우가 많았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미루고 <문법_맞춤법>미루다보면</문법_맞춤법> 결국 끝에 너무 많이 몰려있어서 힘들어하고 너무 많은 양에 결국 포기를 해서 다 하지 못하는 경우가 많았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 더 이상은 이렇게 있으면 안 될 것 같다는 생각이 들어서 해야 할 것은 그때그때 하자는 생각을 가지기 시작했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 더 이상은 이렇게 있으면 안 될 <문법_맞춤법>거</문법_맞춤법> 같다는 생각이 들어서 해야 할 것은 그때그때 하자는 생각을 가지기 시작했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 처음에는 습관의 무서움이 몸이 움직여주지 않았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그런데 처음에는 <문법_조사>습관에</문법_조사> 무서움이 몸이 움직여주지 않았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생각으로는 '해야지, 해야지.'하는데 막상 몸은 움직이지 않았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 생각으로는 '<문법_기타>해야지.</문법_기타> <문법_기타>해야지.</문법_기타>'하는데 막상 몸은 움직이지 않았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69120",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 449,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

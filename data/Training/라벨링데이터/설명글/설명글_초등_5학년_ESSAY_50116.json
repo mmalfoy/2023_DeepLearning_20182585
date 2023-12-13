@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교에서의 대표 과목은 체육, 수학, 국어, 사회, 과학, 음악 등이 있다.#@문장구분# 그 중에서 내가 가장 좋아하는 과목은 체육, 수학이다.#@문장구분# 내가 왜 체육과 수학을 좋아하냐면, 체육은 내가 좋아하는 달리기, 줄넘기 등 내가 좋아하는 것들을 많이 하기 때문이다.#@문장구분# 또한 나한텐 경쟁심이 많아서 경쟁할때도 재미있다.#@문장구분# 내가 홈런, 골인, 아웃 시키는 것과 같은 대단한 일을 해내면 얼마나 기분이 좋은지 모른다.#@문장구분# 그리고 내가 수학을 좋아하는 이유는 내가 심화 문제를 푸는걸 좋아하기 때문이다.#@문장구분# 심화 문제를 풀고나면 뿌듯하기 때문에 내가 심화 문제를 좋아하게 된 것같다.#@문장구분# 그래서 심화 문제를 기준으로 해서 평가를 하는 수학 경시 대회에 자주 나가곤 한다.#@문장구분# 그래서 내가 가장 좋아하는 과목은 둘중 수학인것 같다.#@문장구분# 앞으로도 난 심화 문제를 많이 풀것이고, 수학 경시 대회도 많이 나갈 것이다.#@문장구분#",
+      "paragraph_len": 630,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      22.8,
+      24.114285
+    ],
+    "essay_scoreT_avg": 22.415873,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그중에서 내가 가장 좋아하는 과목은 체육, 수학이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그 중에서 </문법_맞춤법>내가 가장 좋아하는 과목은 체육, 수학이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 나한텐 경쟁심이 많아서 경쟁할 때도 재미있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 나한텐 경쟁심이 많아서 <문법_맞춤법>경쟁할때도 </문법_맞춤법>재미있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 내가 수학을 좋아하는 이유는 내가 심화 문제를 푸는 걸 좋아하기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 내가 수학을 좋아하는 이유는 내가 심화 문제를 <문법_맞춤법>푸는걸 </문법_맞춤법>좋아하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 심화 문제를 풀고 나면 뿌듯하기 때문에 내가 심화 문제를 좋아하게 된 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 심화 문제를 <문법_맞춤법>풀고나면 </문법_맞춤법>뿌듯하기 때문에 내가 심화 문제를 좋아하게 된 것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 내가 가장 좋아하는 과목은 둘 중 수학인 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 내가 가장 좋아하는 과목은 <문법_맞춤법>둘중 수학인것 </문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로도 난 심화 문제를 많이 풀 것이고, 수학 경시 대회도 많이 나갈 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 앞으로도 난 심화 문제를 많이 <문법_맞춤법>풀것이고</문법_맞춤법>, 수학 경시 대회도 많이 나갈 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50116",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 431,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

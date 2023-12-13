@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "스승의 날이되면 친구들과 계획을 세워서 선생님을 놀래주곤 했다.#@문장구분# 노래도 불러주고 그리고 초등학교 졸업식날은 여지없이 친구들이랑 헤어지는게 아쉽고 선생님과 헤어진다는게 슬펐다.#@문장구분# 왠지 엄마같이 우리를 하나하나 챙겨주시던 6학년때 담임선생님.#@문장구분# 내가 친구랑싸웠을때도 둘이 불러다놓고 아이스크림을 사주면서 화해를 시켜주던 선생님 나에겐 참된 스승이었다.#@문장구분# 중학교에 올라와서 맞이한 첫스승의날은 공부해야한다는 강요로 아무것도 하지 않았다.#@문장구분# 왠지 선생님이 낯설다#@문장구분# 공부만 강요하는 선생님 인성이 먼저라고 말해주는게 아니라 중학교 첫중간고사이니 꼭 우리반이 일등해야한다고 말한다.#@문장구분# 지금 너희들에게 가장 중요한 것은 좋은 고등학교가서 좋은 대학가는거라고 나에게 참된스승은 너는 꿈이 뭐냐고 물어봐주고 힘든건 없는지 친구들이랑 학교생활은 잘하는지 다독여주던선생님이다.#@문장구분#",
+      "paragraph_len": 577,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20.8,
+      20
+    ],
+    "essay_scoreT_avg": 23.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "스승의 날이 되면 친구들과 계획을 세워서 선생님을 놀래주곤 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "스승의 <문법_맞춤법>날이되면</문법_맞춤법> 친구들과 계획을 세워서 선생님을 놀래주곤 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 노래도 불러주고 그리고 초등학교 졸업식날은 여지없이 친구들이랑 헤어지는게 아쉽고 선생님과 헤어진다는 게 슬펐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 노래도 불러주고 그리고 초등학교 졸업식날은 여지없이 친구들이랑 <문법_맞춤법>헤어지는게</문법_맞춤법> 아쉽고 선생님과 헤어진다는게 슬펐다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왠지 엄마 같이 우리를 하나하나 챙겨주시던 6학년 때 담임 선생님.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왠지 <문법_맞춤법>엄마같이</문법_맞춤법> 우리를 하나하나 챙겨주시던 6학년때 담임선생님.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 친구랑 싸웠을 때도 둘이 불러다 놓고 아이스크림을 사주면서 화해를 시켜주던 선생님 나에겐 참된 스승이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 <문법_맞춤법>친구랑싸웠을때도 둘이 불러다놓고</문법_맞춤법> 아이스크림을 사주면서 화해를 시켜주던 선생님 나에겐 참된 스승이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 중학교에 올라와서 맞이한 첫스승의 날은 공부해야 한다는 강요로 아무것도 하지 않았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 중학교에 올라와서 맞이한 첫<문법_맞춤법>스승의날은 공부해야한다는</문법_맞춤법> 강요로 아무것도 하지 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공부만 강요하는 선생님 인성이 먼저라고 말해주는 게 아니라 중학교 첫 중간고사이니 꼭 우리 반이 일등해야 한다고 말한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 공부만 강요하는 선생님 인성이 먼저라고 <문법_맞춤법>말해주는게 아니라 중학교 첫중간고사이니 꼭 우리반이 일등해야한다고</문법_맞춤법> 말한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금 너희들에게 가장 중요한 것은 좋은 고등학교 가서 좋은 대학 가는 거라고 나에게 참된 스승은 너는 꿈이 뭐냐고 물어봐 주고 힘든 건 없는지 친구들이랑 학교생활은 잘하는지 다독여 주던 선생님이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금 너희들에게 가장 중요한 것은 좋은 고<문법_맞춤법>등학교가서 좋은 대학가는거라고</문법_맞춤법> 나에게 참된스승은 너는 꿈이 뭐냐고 물어봐주고 힘든건 없는지 친구들이랑 학교생활은 잘하는지 다독여주던선생님이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60144",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 418,
+    "essay_main_subject": "참된 스승"
+  }
+}

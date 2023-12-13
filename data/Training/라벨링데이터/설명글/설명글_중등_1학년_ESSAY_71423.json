@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 어떤 일을 시작하기 전에 계획도 세우지 않고 무턱대고 시작하려는 성향이 있었다.#@문장구분# 그렇게 얼렁뚱땅 시작하더라도 일이 잘끝나면 문제가되지 않는데, 나는 결국 일을 잘 끝내지 못하는 경우가 많았다.#@문장구분# 그래서 나는 부모님의 권유로 계획표를 쓰기 시작했다.#@문장구분# 계획표를 쓰면 어떤 일을 오늘 얼마만큼 해야지 이 일을 다 끝낼 수 있는지를 알 수 있어서 좋은 것 같다.#@문장구분# 덕분에 나는 얼렁뚱땅 일을 시작하기보다는 체계적으로 일을 계획하는 습관을 가지게 되었다.#@문장구분# 예전에는 계획표를 써야했지만, 이제는 따로 그리지 않아도 머릿속에서 자연스럽게 계획표가 세워지는 것 같다.#@문장구분# 이런 습관은 내가 어떤 일을 하는 데에 있어서 굉장히 도움이 될 것 같은 습관인 것 같아서, 그리고 내가 가진 안좋은 습관을 좋은 습관으로 고친 사례이기 때문에 이 이야기를 적어본다,#@문장구분#",
+      "paragraph_len": 553,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      19.55,
+      16.55
+    ],
+    "essay_scoreT_avg": 20.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그렇게 얼렁뚱땅 시작하더라도 일이 잘 끝나면 문제가 되지 않는데, 나는 결국 일을 잘 끝내지 못하는 경우가 많았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 얼렁뚱땅 시작하더라도 일이 <문법_맞춤법>잘끝나면 문제가되지 </문법_맞춤법>않는데, 나는 결국 일을 잘 끝내지 못하는 경우가 많았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예전에는 계획표를 써야 했지만, 이제는 따로 그리지 않아도 머릿속에서 자연스럽게 계획표가 세워지는 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예전에는 계획표를 <문법_맞춤법>써야했지만</문법_맞춤법>, 이제는 따로 그리지 않아도 머릿속에서 자연스럽게 계획표가 세워지는 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 습관은 내가 어떤 일을 하는 데에 있어서 굉장히 도움이 될 것 같은 습관인 것 같아서, 그리고 내가 가진 안 좋은 습관을 좋은 습관으로 고친 사례이기 때문에 이 이야기를 적어본다,",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 습관은 내가 어떤 일을 하는 데에 있어서 굉장히 도움이 될 것 같은 습관인 것 같아서, 그리고 내가 가진 <문법_맞춤법>안좋은 </문법_맞춤법>습관을 좋은 습관으로 고친 사례이기 때문에 이 이야기를 적어본다,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71423",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 413,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 싫어하는 습관을 스스로 고치게 된 습관은 바로 집중을 1시간 이상 못하는 습관입니다.#@문장구분# 저는 그 습관을 고치기 위해서 집중시간을 10분에서 조금씩 늘려갔습니다. #@문장구분#그랬더니 처음에는 10분하기가 쉬워서 쭉쭉하다가 10분 집중하는게 너무 쉬워졌습니다.#@문장구분# 그래서 이제는 20분 그런 다음에는 30분 그리고는 40분 그런식으로 조금씩 시간을 늘렸더니 매우 쉽게 60분동안 집중을 할 수 있게 되었습니다.#@문장구분# 그리고 지금은 2시간을 집중해도 집중이 어느정도 유지 되어서 집중시간이 엄청나게 늘어났습니다.#@문장구분# 그래서 저는 습관을 고치기 위해서는 한번에 그 습관을 고치려고 하기보다는 조금씩 습관을 고치는 습관을 들여서 천천히 고쳐나가는게 중요하다고 생각합니다.#@문장구분# 친구들도 이런식으로 습관을 고쳐나갔으면 좋겠다고 생각합니다.#@문장구분#",
+      "paragraph_len": 533,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.15,
+      19.3,
+      16.55
+    ],
+    "essay_scoreT_avg": 20.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그랬더니 처음에는 10분 하기가 쉬워서 쭉쭉 하다가 10분 집중하는 게 너무 쉬워졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그랬더니 처음에는 <문법_맞춤법>10분하기가</문법_맞춤법> 쉬워서 쭉쭉하다가 10분 집중하는게 너무 쉬워졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 이제는 20분 그런 다음에는 30분 그러고는 40분 그런 식으로 조금씩 시간을 늘렸더니 매우 쉽게 60분 동안 집중을 할 수 있게 되었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 이제는 20분 그런 다음에는 30분 <문법_조사>그리고는 </문법_조사>40분 <문법_맞춤법>그런식으로 </문법_맞춤법>조금씩 시간을 늘렸더니 매우 쉽게 60분동안 집중을 할 수 있게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 지금은 2시간을 집중해도 집중이 어느 정도 유지되어서 집중시간이 엄청나게 늘어났습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 지금은 2시간을 집중해도 집중이 <문법_맞춤법>어느정도 유지 되어서</문법_맞춤법> 집중시간이 엄청나게 늘어났습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 습관을 고치기 위해서는 한 번에 그 습관을 고치려고 하기보다는 조금씩 습관을 고치는 습관을 들여서 천천히 고쳐나가는 게 중요하다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 습관을 고치기 위해서는 <문법_맞춤법>한번에</문법_맞춤법> 그 습관을 고치려고 하기보다는 조금씩 습관을 고치는 습관을 들여서 천천히 고쳐나가는게 중요하다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들도 이런 식으로 습관을 고쳐나갔으면 좋겠다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구들도 <문법_맞춤법>이런식으로 </문법_맞춤법>습관을 고쳐나갔으면 좋겠다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71497",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 393,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "여가활동은 물론 운동과책도 읽지만 제일 문제인 것은 게임이다.#@문장구분# 게임을 하니 나쁜언어,말을 하게되고 게임에 중독이 되면아주몸이 피곤해지고 다크서클이 생기면 아주 보기가 싫어진다.#@문장구분# 그런데도 사람들과 심지어나도 알고있는데도 몸이 마음데로 십게 되지안는다.#@문장구분# 그레도 열심히 안 할려고 노력을하지 말고 열심히 다 같이 전분 모든 인구들이 시간을 정하고 일정한 시간에만 하면 좋을것 같다.#@문장구분# 다 같이 힘들어도 일정하고 시험시험 휴대폰을 사용 하는 게 좋다고 생각이 내가 안 지키기로 해도 이제 부터 노력은 할 거다.#@문장구분# 다 같이 하이팅 아자아자.#@문장구분#",
+      "paragraph_len": 415,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          1.4285715,
+          1.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.685715,
+      15.647619,
+      12.952381
+    ],
+    "essay_scoreT_avg": 15.095239,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "여가활동은 물론 운동과 책도 있지만 내가 생각하는 안 좋은 여가활동은  게임이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "여가활동은 물론 <문법_기타>운동과책도 읽지만</문법_기타> 제일 문제인 것은 게임이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임을 하니 나쁜 언어, 말을 하게 되고 게임에 중독이 되면 아주 몸이  피곤해지고 다크서클이 생기면 아주 보기가 싫어진다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게임을 하니 <문법_맞춤법>나쁜언어,말을 하게되고 게임에 중독이 되면아주몸이</문법_맞춤법> 피곤해지고 다크서클이 생기면 아주 보기가 싫어진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데도 사람들과 심지어 나도 알고 있는데도 몸이 마음대로 쉽게 되지 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데도 사람들과 <문법_맞춤법>심지어나도 알고있는데도 몸이 마음데로 십게 되지안는다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 게임을 너무 많이 하지 않고 모든 사람들이 시간을 정하고 일정한 시간에만 하면 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": " <문법_맞춤법>그레도</문법_맞춤법> <문법_어순>열심히 안 할려고 노력을하지 말고 열심히 다 같이 전분 모든 인구들이</문법_어순> 시간을 정하고 일정한 시간에만 하면 좋을것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다 같이 힘들어도 일정하게  휴대폰을 사용하는 게 좋다고 생각이 내가 안 지키기로 해도 이제부터 노력은 할 거다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 다 같이 힘들어도 <문법_기타>일정하고</문법_기타> <문법_맞춤법>시험시험</문법_맞춤법> 휴대폰을 사용 하는 게 좋다고 생각이 내가 안 지키기로 해도 이제 부터 노력은 할 거다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다 같이 아자아자 파이팅.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": " 다 같이 <문법_맞춤법><문법_어순>하이팅 아자아자</문법_어순></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_45710",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 295,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

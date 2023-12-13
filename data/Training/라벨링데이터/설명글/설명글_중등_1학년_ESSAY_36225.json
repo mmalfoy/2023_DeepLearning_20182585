@@ -1,0 +1,334 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "습관이란 어떤 행위를 오랫동안 되풀이하는 과정에서 저절로 익혀진 행동방식을 말합니다.#@문장구분#\n습관에는 좋은 습관과 나쁜 습관이 있습니다.#@문장구분#\n어력을적 저는 손톱을 물어 뜯는 나쁜 습관이 있었습니다.#@문장구분# 손톱을 계속 물어 뜯다 보니 손톱이 항상 뭉툭했었습니다.#@문장구분# 지금은 없어진 습관이지만 어력을적 부모님이 걱정을 하셨다고 합니다.#@문장구분#\n지금은 중학생이 되어 저에게 도움이 되는 습관을 갖을수 있도록 노력합니다.#@문장구분# 저는 많은것을 기억하지 못하는것 같습니다.#@문장구분# 가족들과 여행을 갔던 곳이나 맛있는 식당에 간곳을 깜밖 잊곤 합니다.#@문장구분# 그래서 기록하는 습관을 갖기위해 노력중입니다.#@문장구분# 수업시간 공부한것을 메모하고 가족들과 다녀온곳에 관하여 일기를 쓰듯이 기록합니다.#@문장구분#\n기록하는 습관은 저에게 많은 도움을 줍니다.#@문장구분#\n좋은 생각이 떠올랐거나 기억하고 싶은 이야기를 들었을 때도 기록하려 노력합니다.#@문장구분# 요즘은 노트 필기도구가 없어도 핸드폰 메모에 저장도 할수있고 사진을 찍어서 기록할수 있기에 손쉽게 기록 할수 있습니다.#@문장구분#\n기록한 내용을 나중에 찾아보면 예전의 나의 생각도 알수있고 필요했던 정보도 알수있어 아주 좋습니다.#@문장구분#\n다른 친구들에게 기록하는 습관을 갖을수 있도록 추천하고 싶습니다.#@문장구분#",
+      "paragraph_len": 881,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.95,
+      27.75,
+      18.65
+    ],
+    "essay_scoreT_avg": 25.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "습관이란 어떤 행위를 오랫동안 되풀이하는 과정에서 저절로 익혀진 행동 방식을 말합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "습관이란 어떤 행위를 오랫동안 되풀이하는 과정에서 저절로 익혀진 <문법_맞춤법>행동방식을</문법_맞춤법> 말합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n어렸을 적 저는 손톱을 물어 뜯는 나쁜 습관이 있었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>어력을적</문법_맞춤법> 저는 손톱을 물어 뜯는 나쁜 습관이 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금은 없어진 습관이지만 어렸을 적 부모님이 걱정을 하셨다고 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금은 없어진 습관이지만 <문법_맞춤법>어력을적</문법_맞춤법> 부모님이 걱정을 하셨다고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n지금은 중학생이 되어 저에게 도움이 되는 습관을 갖을수 있도록 노력하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": "\n지금은 중학생이 되어 저에게 도움이 되는 습관을 갖을수 있도록 <문법_시제>노력합니다.</문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 많은 것을 기억하지 못하는 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>많은것을</문법_맞춤법> 기억하지 못하는것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가족들과 여행을 갔던 곳이나 맛있는 식당에 간 곳을 깜빡 잊곤 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가족들과 여행을 갔던 곳이나 맛있는 식당에 <문법_맞춤법>간곳을</문법_맞춤법> 깜밖 잊곤 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 기록하는 습관을 갖기 위해 노력 중입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 기록하는 습관을 <문법_맞춤법>갖기위해 노력중입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수업 시간에 공부한 것을 메모하고 가족들과 다녀온 곳에 관하여 일기를 쓰듯이 기록합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사>수업시간 공부한것을</문법_조사></문법_맞춤법> 메모하고 가족들과 다녀온곳에 관하여 일기를 쓰듯이 기록합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘은 노트나 필기도구가 없어도 핸드폰 메모에 저장도 할 수 있고 사진을 찍어서 기록할 수 있기에 손쉽게 기록할 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘은 <문법_조사>노트 </문법_조사>필기도구가 없어도 핸드폰 메모에 저장도<문법_맞춤법> 할수있고</문법_맞춤법> 사진을 찍어서 기록할수 있기에 손쉽게 기록 할수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n기록한 내용을 나중에 찾아보면 예전의 나의 생각도 알 수 있고 필요했던 정보도 알 수 있어 아주 좋습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n기록한 내용을 나중에 찾아보면 예전의 나의 생각도 <문법_맞춤법>알수있고 </문법_맞춤법>필요했던 정보도 알수있어 아주 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n다른 친구들도 기록하는 습관을 갖을 수 있도록 추천하고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n다른 <문법_조사>친구들에게</문법_조사> 기록하는 습관을 <문법_맞춤법>갖을수 있도록</문법_맞춤법> 추천하고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36225",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 582,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

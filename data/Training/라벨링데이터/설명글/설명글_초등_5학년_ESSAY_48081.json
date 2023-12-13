@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 제일 좋아하는 과목은 과학 입니다.#@문장구분#왜냐하면 과학이 성적도 좋고 또과학이 재미있기 때문입니다.#@문장구분# 왜 재미가 있냐면 과학은 신기하고 생물, 기후, 자연재해 들을 배우기 때문입니다#@문장구분#그리고 과학 은 나중에 쓸모가 많이있다고 생각하고 또 과학은 쉽고 재미있게 배울수 있기 때문입니다.#@문장구분# 그리고 내 성격에도 잘맞고 또 재 꿈이 과학에 관련되어 있기 때문입니다.#@문장구분# 그리고제가글씨를 잘 못쓰지만 과학은 글씨를많이 쓰지않기 때문 입니다.#@문장구분# 과학의 나정은 실험을 안하면 지루하고 재미가없어서 실험을더 많이 하면 좋겠습니다#@문장구분#그러면 우리반 친구들 이 과학에 관심을 더많아질 것 입니다.#@문장구분# 또 과학의안좋은점은 실험이 많아서 실험관찰에 쓸게너무많다#@문장구분# 우리반 친구들이 과학에 많은관심이 생기면 좋겠다.#@문장구분#",
+      "paragraph_len": 572,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      23.64762,
+      21.933334
+    ],
+    "essay_scoreT_avg": 22.126984,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.17",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 제일 좋아하는 과목은 과학입니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 제일 좋아하는 과목은 <문법_맞춤법>과학 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 과학이 성적도 좋고 또 과학이 재미있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 과학이 성적도 좋고 <문법_맞춤법>또과학이</문법_맞춤법> 재미있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜 재미가 있냐면 과학은 신기하고 생물, 기후, 자연 재해들을 배우기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜 재미가 있냐면 과학은 신기하고 생물, 기후, <문법_맞춤법>자연재해 들을 배우기 때문입니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 과학 은 나중에 쓸모가 많이있다고 생각하고 또 과학은 쉽고 재미있게 배울수 있기 때문입니다.",
+      "sentence_corr_txt_styling": "그리고 과학 은 나중에 쓸모가 많이있다고 생각하고 또 과학은 쉽고 재미있게 배울수 있기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 내 성격에도 잘맞고 또 재 꿈이 과학에 관련되어 있기 때문입니다.",
+      "sentence_corr_txt_styling": " 그리고 내 성격에도 잘맞고 또 재 꿈이 과학에 관련되어 있기 때문입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고제가글씨를 잘 못쓰지만 과학은 글씨를많이 쓰지않기 때문 입니다.",
+      "sentence_corr_txt_styling": " 그리고제가글씨를 잘 못쓰지만 과학은 글씨를많이 쓰지않기 때문 입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 과학의 나정은 실험을 안하면 지루하고 재미가없어서 실험을더 많이 하면 좋겠습니다",
+      "sentence_corr_txt_styling": " 과학의 나정은 실험을 안하면 지루하고 재미가없어서 실험을더 많이 하면 좋겠습니다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러면 우리반 친구들이 과학에 관심을 더 많이 가질 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러면 우리반 <문법_맞춤법>친구들 이 과학에 관심을 더많아질 것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 또 과학의안좋은점은 실험이 많아서 실험관찰에 쓸게너무많다",
+      "sentence_corr_txt_styling": " 또 과학의안좋은점은 실험이 많아서 실험관찰에 쓸게너무많다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리반 친구들이 과학에 많은 관심이 생기면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 우리반 친구들이 과학에 <문법_맞춤법>많은관심이</문법_맞춤법> 생기면 <문법_높임법>좋겠다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48081",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 373,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교폭력이 점점 심해지고 있습니다.#@문장구분# 하지만 촉법소년이 존재해서 문제가됩니다.#@문장구분# 촉법소년이 처벌을 안받는다고 생각해서 이를 이용하는 학생이있습니다.#@문장구분# 위에서 본것같이 부모님에 처벌을 강화 하자는 예기가 있는데 이는 잘못됬다고 생각합니다.#@문장구분# 왜냐하면 부모가 잘 가르치고 해도 학생들이 폭력을 하고 나쁜짓을 합니다.#@문장구분# 부모님들은 이를 혼내시고 피해자쪽에 사과하고 하지만 학생들은 처벌을 받지않습니다. #@문장구분#처벌을 안받고 자기는 피해가없으니 계속 이름 이용해서 처벌이 강해도 소녀원 밖에 안갑니다.#@문장구분# 즉 학생들의 법이 너무 약하다는거죠. #@문장구분#그래서 제 생각은 학생들의 처벌을 확실히 강화 해야 합니다.#@문장구분# 그리고 정부는 어린이들을 보호대상이라고 합니다. #@문장구분#그럼 피해자들은 어린이가 아닙니까?#@문장구분# 그리고 학교폭력을 줄이려면 법을 강화 해야 학생들이 또다신 학교폭력을 안하겠죠. #@문장구분#이렇게 약한 법으로 학교폭력을 줄이는것은 아니라고 생각합니다.#@문장구분# 그리고 요즘 부모님들은 직장, 사업 때문에 바쁘시니까 아들, 딸 들을 신경을 못 씁니다. #@문장구분#그러니 학교에서 학교폭력이 일어나는지 확인조사가 필요하다고 생각합니다.#@문장구분#",
+      "paragraph_len": 839,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.722221,
+      26.11111,
+      27.61111
+    ],
+    "essay_scoreT_avg": 26.814814,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 하지만 촉법소년이 존재해서 문제가 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 촉법소년이 존재해서 <문법_맞춤법>문제가됩니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 촉법소년이 처벌을 안받는다고 생각해서 이를 이용하는 학생이 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 촉법소년이 처벌을 안받는다고 생각해서 이를 이용하는 <문법_맞춤법>학생이있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위에서 본 것 같이 부모님의 처벌을 강화하자는 얘기가 있는데 이는 잘못됐다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 위에서 <문법_맞춤법>본것같이 </문법_맞춤법><문법_조사>부모님에 </문법_조사>처벌을 강화 하자는 예기가 있는데 이는 잘못됬다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 부모가 잘 가르치고 해도 학생들이 폭력을 하고 나쁜 짓을 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 부모가 잘 가르치고 해도 학생들이 폭력을 하고 <문법_맞춤법>나쁜짓을 </문법_맞춤법>합니다.",
+      "sentence_corr_txt_styling": " 왜냐하면 부모가 잘 가르치고 해도 학생들이 폭력을 하고 나쁜 짓을 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님들은 이를 혼내시고 피해자 쪽에 사과하고 하지만 학생들은 처벌을 받지 않습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모님들은 이를 혼내시고 <문법_맞춤법>피해자쪽에 </문법_맞춤법>사과하고 하지만 학생들은 처벌을 받지않습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "처벌을 안 받고 자기는 피해가 없으니 계속 이름 이용해서 처벌이 강해도 소녀원밖에 안 갑니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "처벌을 <문법_맞춤법>안받고 </문법_맞춤법>자기는 피해가없으니 계속 이름 이용해서 처벌이 강해도 소녀원 밖에 안갑니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 즉 학생들의 법이 너무 약하다는 거죠. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 즉 학생들의 법이 너무 <문법_맞춤법>약하다는거죠.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 제 생각은 학생들의 처벌을 확실히 강화해야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그래서 제 생각은 학생들의 처벌을 확실히<문법_맞춤법> 강화 해야</문법_맞춤법> 합니다.",
+      "sentence_corr_txt_styling": "그래서 제 생각은 학생들의 처벌을 확실히 강화해야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 학교폭력을 줄이려면 법을 강화해야 학생들이 또다시 학교폭력을 안 하겠죠. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 학교폭력을 줄이려면 법을 <문법_맞춤법>강화 해야 </문법_맞춤법>학생들이 또다신 학교폭력을 안하겠죠. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이렇게 약한 법으로 학교폭력을 줄이는 것은 아니라고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이렇게 약한 법으로 학교폭력을 <문법_맞춤법>줄이는것은 </문법_맞춤법>아니라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 학교에서 학교폭력이 일어나는지 확인 조사가 필요하다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러니 학교에서 학교폭력이 일어나는지 <문법_맞춤법>확인조사가 </문법_맞춤법>필요하다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63576",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 540,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

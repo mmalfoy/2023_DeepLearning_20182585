@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 가장 좋아하는 과목은 체육, 미술, 음악 인데요.#@문장구분# 그중에서 저는 체육이 가장 좋아하는 과목 입니다.#@문장구분# 이유는 체육 시간이 거의 노는시간 이라고 보면 되기 때문입니다.#@문장구분# 그리고 체육 시간에 주먹야구를 할때 공을 칠때 딱! 손에 맞는 느낌이 재맛이기 때문입니다.#@문장구분# 그리고 체육 시간에 피구가 가장 재미있는 활동 입니다.#@문장구분# 피구할때 얘들을 퍽! 소리나게 맞추면 기분이 와우! 하게 들뜹니다.#@문장구분# 그리고 발야구를 할때 우리팀이 지면 우울하지만 이기면 아주 기분이 좋습니다.#@문장구분# 그리고 체육 시간에 주먹야구 연습 할때 공 주고 받기 에서 나는 그게 가장 좋다.#@문장구분# 그리고 공을 내가 가지고 있을때 기분이 좋다.#@문장구분# 그래서 내가 공을 가지고 피구를 할때 내가 피구를 할때 내가 공을 개속 갔고 있고 싶다.#@문장구분# 그리고 체육 시간에 나는 피구를 해서 내가 혼자만 남아서 요리조리 우당탕탕 나만 혼자 피하며 내가 하드캐리를 하고 싶은데 친구들과 같이 하니까 나 혼자를 못해서 아쉽지만 친구들과 같이하면 목숨이 1개가 되니까 아주 잘 피해야 해서 잘피하는 것을 잘한다.#@문장구분# 따라서 나는 체육 과목이 좋다.#@문장구분#",
+      "paragraph_len": 779,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2857144,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      27.714287,
+      27.714287
+    ],
+    "essay_scoreT_avg": 27.142859,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.09",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 가장 좋아하는 과목은 체육, 미술, 음악인 데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 가장 좋아하는 과목은 체육, 미술, <문법_맞춤법>음악 인데</문법_맞춤법>요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중에서 저는 체육이 가장 좋아하는 과목입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그중에서 저는 체육이 가장 좋아하는 <문법_맞춤법>과목 입니</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 체육 시간이 거의 노는 시간이라고 보면 되기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이유는 체육 시간이 거의 <문법_맞춤법>노는시간 이라고 </문법_맞춤법>보면 되기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 체육 시간에 주먹 야구를 할 때 공을 칠 때 딱! 손에 맞는 느낌이 제맛이기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 체육 시간에 <문법_맞춤법>주먹야구를 할때 공을 칠때 딱! 손에 맞는 느낌이 재맛이기 때문입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 체육 시간에 피구가 가장 재미있는 활동입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 체육 시간에 피구가 가장 재미있는 <문법_맞춤법>활동 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 피구할 때 얘들을 퍽! 소리 나게 맞추면 기분이 와우! 하게 들뜹니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>피구할때 얘들을 퍽! 소리나게</문법_맞춤법> 맞추면 기분이 와우! 하게 들뜹니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 발야구를 할 때 우리 팀이 지면 우울하지만 이기면 아주 기분이 좋습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 발야구를 <문법_맞춤법>할때 우리팀이</문법_맞춤법> 지면 우울하지만 이기면 아주 기분이 좋습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 체육 시간에 주먹 야구 연습할 때 공 주고받기  에서 나는 그게 가장 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 체육 시간에 <문법_맞춤법>주먹야구 연습 할때 공 주고 받기 에서</문법_맞춤법> 나는 그게 가장 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 공을 내가 가지고 있을 때 기분이 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 공을 내가 가지고 <문법_맞춤법>있을때 기분이 좋다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 내가 공을 가지고 피구를 할 때 내가 피구를 할 때 내가 공을 계속 갖고 있고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 내가 공을 가지고 피구를 <문법_맞춤법>할때 내가 피구를 할때 내가 공을 개속 갔고 있고 싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 체육 시간에 나는 피구를 해서 내가 혼자만 남아서 요리조리 우당탕탕 나만 혼자 피하며 내가 하드캐리를 하고 싶은데 친구들과 같이 하니까 나 혼자를 못해서 아쉽지만 친구들과 같이하면 목숨이 1개가 되니까 아주 잘 피해야 해서 잘 피하는 것을 잘한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 체육 시간에 나는 피구를 해서 내가 혼자만 남아서 요리조리 우당탕탕 나만 혼자 피하며 내가 하드캐리를 하고 싶은데 친구들과 같이 하니까 나 혼자를 못해서 아쉽지만 친구들과 같이하면 목숨이 1개가 되니까 아주 잘 피해야 해서 <문법_맞춤법>잘피하는 것을 </문법_맞춤법>잘한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50557",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 540,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

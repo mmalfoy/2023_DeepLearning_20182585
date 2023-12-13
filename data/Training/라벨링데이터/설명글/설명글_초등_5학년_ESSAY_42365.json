@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 개인위생을 위해 샤워하기,손씻기,양치질하기,세수하기 등 위생을 위해 많은 노력을 하고 있다.#@문장구분# 먼저 샤워는 하루에 한번 한다.#@문장구분#샤워는 보통 저녁에 하는데,그 이유는 내가 낮에 밖에서 묻혀온 병균,세균을 씻어내기 위함이다.#@문장구분#또 양치는 하루에 세 번을 한다.#@문장구분#아침,점심,저녁 이렇게 한다.#@문장구분#아침에는 학교가기 전,점심에는 학교에 갔다 온 후,저녁은 저녁 먹고 한다.#@문장구분#요즘에는 학교에서 양치를 할 수 없어 학교를 마친 후 집에와서 양치를 한다.#@문장구분# 가끔 시간이 없을때에는 가글만 하기도 한다.#@문장구분# 그리고 손씻기,손씻기는 요즘 시국에는 필수다.#@문장구분#나는 손씻기를 하루에 열번도 더 한다.#@문장구분#학교 끝나고,학원끝나고,친구집을 방문하거나,음식점 등 여러 곳에서 많이 한다.#@문장구분#공공장소에서는 손소독제를 많이 사용한다.#@문장구분# 그리고 세수는 학교가기전,샤워할 때한다.#@문장구분# 이렇게 나는 개인위생을 위해 샤워하기,손씻기,세수하기,양치하기 등 많은 노력을 하고 있다.#@문장구분#앞으로는 더욱 청결을 유지해야겠다.#@문장구분#",
+      "paragraph_len": 771,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.6,
+      23.64762,
+      25.133335
+    ],
+    "essay_scoreT_avg": 24.126984,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 개인위생을 위해 샤워하기, 손 씻기, 양치질하기, 세수하기 등 위생을 위해 많은 노력을 하고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 개인위생을 위해 샤워<문법_맞춤법>하기,손씻기,양치질하기,세수하기 등 </문법_맞춤법>위생을 위해 많은 노력을 하고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 샤워는 하루에 한 번 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저 샤워는 하루에 <문법_맞춤법>한번 </문법_맞춤법>한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "샤워는 보통 저녁에 하는데, 그 이유는 내가 낮에 밖에서 묻혀온 병균, 세균을 씻어내기 위함이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "샤워는 보통 저녁에 하는<문법_맞춤법>데,그 </문법_맞춤법>이유는 내가 낮에 밖에서 묻혀온 병균,세균을 씻어내기 위함이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아침, 점심, 저녁 이렇게 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아침,점심,저녁 이</문법_맞춤법>렇게 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아침에는 학교가기 전, 점심에는 학교에 갔다 온 후, 저녁은 저녁 먹고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아침에는 학교가기<문법_맞춤법> 전,점심</문법_맞춤법>에는 학교에 갔다 온 후,저녁은 저녁 먹고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요즘에는 학교에서 양치를 할 수 없어 학교를 마친 후 집에 와서 양치를 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘에는 학교에서 양치를 할 수 없어 학교를 마친 후 <문법_맞춤법>집에와서 </문법_맞춤법>양치를 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가끔 시간이 없을 때에는 가글만 하기도 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가끔 시간이 <문법_맞춤법>없을때에는 </문법_맞춤법>가글만 하기도 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 손 씻기, 손 씻기는 요즘 시국에는 필수다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>손씻기,손씻기는</문법_맞춤법> 요즘 시국에는 필수다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 손 씻기를 하루에 열 번도 더 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>손씻기를 </문법_맞춤법>하루에 열번도 더 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학교 끝나고, 학원 끝나고, 친구 집을 방문하거나, 음식점 등 여러 곳에서 많이 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교 끝나<문법_맞춤법>고,학원끝나고,친구집을</문법_맞춤법> 방문하거나,음식점 등 여러 곳에서 많이 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 세수는 학교 가기전, 샤워할 때 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 세수는 학<문법_맞춤법>교가기전,샤워할 때</문법_맞춤법>한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 나는 개인위생을 위해 샤워하기, 손 씻기, 세수하기, 양치하기 등 많은 노력을 하고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 나는 개인위생을 위해 샤<문법_맞춤법>워하기,손씻기,세수하기,양치하기 등 </문법_맞춤법>많은 노력을 하고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42365",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 472,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

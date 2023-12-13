@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 손톱 물어뜯는 습관을 고친 경험이 있다.#@문장구분# 어렸을 때 가만히 있는 것을 안 좋아했던 나는 손톱을 물어뜯는 습관이 있었다.#@문장구분# 그래서 감기도 많이 걸리고 면역력이 낮아져 오랫동안 고생을 했었다.#@문장구분# 엄마, 아빠가 나의 습관을 고쳐주기 위해서 같이 노력을 하셨는데, 손가락에 밴드를 붙이기도 하고 투명 매니큐어를 바르기도 하면서 갖가지 방법을 써봤지만 오랫동안 해왔던지라 습관이라는게 고치기가 쉽지 않았다.#@문장구분# 습관의 무서움을 이때 느꼈다.#@문장구분# 그러나 코로나가 터지면서 마스크를 쓰고 나서부터 마스크를 내리는 날이 없으니 저절로 손톱을 안 물어 뜯게 되었고, 면역력도 많이 괜찮아져서 옛날보다 감기에 걸리는 일이 적어졌다.#@문장구분# 옛 어른들의 '세 살 버릇 여든까지 간다.'라는 속담을 이해할 수 있었던 나의 습관 고친 경험담 이였다.#@문장구분#",
+      "paragraph_len": 539,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.75,
+      19.8,
+      14.55
+    ],
+    "essay_scoreT_avg": 20.033333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 엄마, 아빠가 나의 습관을 고쳐주기 위해서 같이 노력을 하셨는데, 손가락에 밴드를 붙이기도 하고 투명 매니큐어를 바르기도 하면서 갖가지 방법을 써봤지만 오랫동안 해왔던지라 습관이라는 게 고치기가 쉽지 않았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마, 아빠가 나의 습관을 고쳐주기 위해서 같이 노력을 하셨는데, 손가락에 밴드를 붙이기도 하고 투명 매니큐어를 바르기도 하면서 갖가지 방법을 써봤지만 오랫동안 해왔던지라 <문법_맞춤법>습관이라는게 </문법_맞춤법>고치기가 쉽지 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71436",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 399,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

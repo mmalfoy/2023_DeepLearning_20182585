@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저에 생각은요... 반대입니다.#@문장구분# 왜냐하면 본인들이 듣고 싶은 교육과 듣기 싫은 교육이 있는데 모두 똑같은 교육을 받으면요.#@문장구분# 자신들이 듣기 싫은것을 전부 억지로 들어야되고 듣고싶은건 들으면 좋겠지만 교육자체를 듣기 싫어 하는 학생도 있기때문에 공교육, 사교육 할것없이 모든 교육을 제공해주는 제도는 아예 없는것이 나을것 같습니다.#@문장구분# 하지만 돈 때문에 교육을 받지 못한다면 가격을 쫌 낮추면 웬만해서 다 평등하게 받을수있을껏입니다.#@문장구분# 그리고 경재적, 사회적, 정치적인 이유로 사회적 불만과불평등이 있는것은 어른들이 지금부터라도 바꾸면 지금 한창 크고있는 아이들은 그나마 들느낄껏입니다.#@문장구분# 그리고 이세상에 완전한 평등은 있을수 없는일입니다.#@문장구분# 그리고 교육만 평등한다면 무슨 의미라랍니까?#@문장구분# 사회부터가 바뀌어야지 그래서 이러한 이유로 전 반대입니다.#@문장구분#",
+      "paragraph_len": 570,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.222221,
+      21.477777,
+      19.7
+    ],
+    "essay_scoreT_avg": 20.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저의 생각은요... 반대입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>저에</문법_맞춤법> 생각은요... 반대입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자신들이 듣기 싫은 것을 전부 억지로 들어야 되고 듣고 싶은 건 들으면 좋겠지만 교육 자체를 듣기 싫어하는 학생도 있기 때문에 공교육, 사교육 할 것 없이 모든 교육을 제공해 주는 제도는 아예 없는 것이 나을 것 같습니다..",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>자신들이 듣기 싫은것을 전부 억지로 들어야되고 듣고싶은건 들으면 좋겠지만 교육자체를 듣기 싫어 하는 학생도 있기때문에 공교육, 사교육 할것없이 모든 교육을 제공해주는 제도는 아예 없는것이 나을것 같습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 돈 때문에 교육을 받지 못한다면 가격을 좀 낮추면 웬만해서 다 평등하게 받을 수 있을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 돈 때문에 교육을 받지 못한다면 가격을 <문법_맞춤법>쫌 </문법_맞춤법>낮추면 웬만해서 다 평등하게 받을수있을껏입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 경제적, 사회적, 정치적인 이유로 사회적 불만과 불평등이 있는 것은 어른들이 지금부터라도 바꾸면 지금 한창 크고 있는 아이들은 그나마 덜 느낄 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>경재적</문법_맞춤법>, 사회적, 정치적인 이유로 사회적 불만과불평등이 있는것은 어른들이 지금부터라도 바꾸면 지금 한창 크고있는 아이들은 그나마 들느낄껏입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 이 세상에 완전한 평등은 있을 수 없는 일입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>이세상에 완전한 평등은 있을수 없는일입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 교육만 평등한다면 무슨 의미입니까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그리고 교육만 평등한다면 무슨 <문법_어미>의미라랍니까</문법_어미>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66890",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 410,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

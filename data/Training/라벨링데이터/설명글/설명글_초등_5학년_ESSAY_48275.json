@@ -1,0 +1,453 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 공예, 만들기 같은 것이 취미 입니다.#@문장구분# 아니면 올해나 이번달 생활게획표 같은 것 짜는것도 좋아해요. #@문장구분#사실 계획대로 잘 실천하진 않지만... (사실 여러분도 그렇죠...?)#@문장구분# 어쨌튼! 만들기를 해서 괜찮은 것만 모아놓는걸 좋아해요#@문장구분# 맨날 예쁜것만 보면 기분이 좋아져요. #@문장구분#그리고 만들기를해서 선물하는것도 좋아해요.#@문장구분# 부모님 생신이나 결혼기념일때 제가 돈다발 같은것을 몰래 만들어요.#@문장구분# 그때도 만들기해서 좋고 부모님이 사진찍으시고 너무 좋아하셔서 저도 너무좋답니다.#@문장구분# 계속말해도 제 취미 생활이 무엇인지 끝나지 않을걸요...#@문장구분# 아아! 친구3명이 모여서 선물교환하는 것도 있어요!#@문장구분# 그것도 대부분 만들기 하는데 만들기도 재밌고 나는 무슨선물을 받을까도 기대하는 것이 좋아요.#@문장구분# 아버지가 중요한날에 제가 좋아하는 미니어쳐 만들기 라는게 있는데요.#@문장구분# 아버지가 선물해 주시거든요.#@문장구분# 너무 재미있어요. #@문장구분#몇일만 열심히하다보면 어느새 완성을 하는데요. #@문장구분#완성작이 너무 아름다워요!! #@문장구분#그러고 친구들 한테 보여주면 너무이쁘다고 해요. #@문장구분#그럼 뿌듯합니다.#@문장구분# 레진아트 라는것도있는데요#@문장구분# 레진을 굳혀서 만드는 거에요 #@문장구분#우리집에도 있어서 해보았는데요...#@문장구분# 레진이 바닥에 흘리고 끈적끈적 해서 이거는 비추천!#@문장구분# 여러분은 취미생활이 무엇인가요?#@문장구분# 궁금해요!",
+      "paragraph_len": 1075,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.447618,
+      22.733334,
+      24.333334
+    ],
+    "essay_scoreT_avg": 23.838097,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 공예, 만들기 같은 것이 취미입니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 공예, 만들기 같은 것이<문법_맞춤법> 취미 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아니면 올해나 이번 달 생활 계획표 같은 것을 짜는 것도 좋아해요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사>아니면 올해나 이번달 생활게획표 같은 것 짜는것도 좋아해요.</문법_조사></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어쨌든! 만들기를 해서 괜찮은 것만 모아 놓는 걸 좋아해요",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어쨌튼</문법_맞춤법>! 만들기를 해서 괜찮은 것만 모아놓는걸 좋아해요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 맨날 예쁜 것만 보면 기분이 좋아져요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 맨날 <문법_맞춤법>예쁜것만</문법_맞춤법> 보면 기분이 좋아져요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 만들기를 해서 선물하는 것도 좋아해요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>만들기를해서 선물하는것도</문법_맞춤법> 좋아해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님 생신이나 결혼기념일 때 제가 돈다발 같은 것을 몰래 만들어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모님 생신이나 <문법_맞춤법>결혼기념일때 제가 돈다발 같은것을</문법_맞춤법> 몰래 만들어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때도 만들기를 해서 좋고 부모님이 사진 찍으시고 너무 좋아하셔서 저도 너무 좋답니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사>그때도 만들기해서 좋고 부모님이 사진찍으시고 너무 좋아하셔서 저도 너무좋답니다.</문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 계속 말해도 제 취미 생활이 무엇인지 끝나지 않을 걸요...",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>계속말해도</문법_맞춤법> 제 취미 생활이 무엇인지 끝나지 않을걸요...",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아아! 친구 3명이 모여서 선물 교환하는 것도 있어요!",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아아! <문법_맞춤법>친구3명이 모여서 선물교환하는</문법_맞춤법> 것도 있어요!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그것도 대부분 만들기 하는데 만들기도 재밌고 나는 무슨 선물을 받을까 기대하는 것이 좋아요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그것도 대부분 만들기 하는데 만들기도 재밌고 나는 <문법_맞춤법><문법_조사>무슨선물을 받을까도</문법_조사></문법_맞춤법> 기대하는 것이 좋아요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 아버지가 중요한날에 제가 좋아하는 미니어쳐 만들기 라는게 있는데요.",
+      "sentence_corr_txt_styling": " 아버지가 중요한날에 제가 좋아하는 미니어쳐 만들기 라는게 있는데요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 아버지가 선물해 주시거든요.",
+      "sentence_corr_txt_styling": " 아버지가 선물해 주시거든요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "며칠만 열심히 하다 보면 어느새 완성을 하는데요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>몇일만</문법_맞춤법> 열심히하다보면 어느새 완성을 하는데요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러고 친구들한테 보여주면 너무 이쁘다고 해요. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그러고 친구들 한테 보여주면 너무이쁘다고 해요.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 레진아트라는 것도 있는데요.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0019",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>레진아트 라는것도있는데요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 레진을 굳혀서 만드는 거예요. ",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0020",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 레진을 굳혀서 만드는 <문법_맞춤법><문법_어미>거에요</문법_어미></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 레진이 바닥에 흘리고 끈적끈적 해서 이거는 비추천!",
+      "sentence_corr_txt_styling": " 레진이 바닥에 흘리고 끈적끈적 해서 이거는 비추천!",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48275",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 615,
+    "essay_main_subject": "나의 취미"
+  }
+}

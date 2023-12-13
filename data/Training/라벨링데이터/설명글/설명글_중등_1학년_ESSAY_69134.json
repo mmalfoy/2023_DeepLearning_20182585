@@ -1,0 +1,184 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "최근 저는 밥을 먹고난 후, 곧바로 먹은 것을 치우는 습관을 들이기 위해 노력 중입니다.#@문장구분# 원래의 저는 밥을 먹고나서 한참을 누워있다가 치우는 버릇이 있습니다.#@문장구분# 밥을 먹고나면 몸이 너무 무거워서 못 움직이겠어서 최대한 누워있다가 배가 좀꺼지고 나면 치웠었습니다.#@문장구분# 그런데 누워있으면 누워있을수록 귀찮아지고 결국 먹고나서 3시간은 지나야 치우게 되는데그것 때문에 잔소리를 엄청 들었습니다.#@문장구분# 엄마아빠의 지속된 잔소리를 듣다보니 이 버릇의 심각성을 깨닫고 고치고자 마음 먹었습니다.#@문장구분# 그래서 요즘은 밥을 먹고나면 그 직후 바로 움직이고 상을 치웁니다.#@문장구분# 저희 가족은 가족들이 밥을 다 먹고나면 항상 제가 치우는 편입니다.#@문장구분# 어릴 때부터 그래왔고요.#@문장구분# 그래서 가족들이 밥을 다 먹을 때까지 기다리다보니 귀찮아졌었던 건데 요즘은 가족들도 저를 위해 후딱 밥을 먹는 편입니다.#@문장구분#",
+      "paragraph_len": 602,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      21.3,
+      14.8
+    ],
+    "essay_scoreT_avg": 20.333332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그런데 누워있으면 누워있을수록 귀찮아지고 결국 먹고 나서 3시간은 지나야 치우게 되는데 그것 때문에 잔소리를 엄청 들었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 누워있으면 누워있을수록 귀찮아지고 결국 <문법_맞춤법>먹고나서</문법_맞춤법> 3시간은 지나야 치우게 되는데그것 때문에 잔소리를 엄청 들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마와 아빠의 지속된 잔소리를 듣다 보니 이 버릇의 심각성을 깨닫고 고치고자 마음먹었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사>엄마아빠의</문법_조사></문법_맞춤법> 지속된 잔소리를 듣다보니 이 버릇의 심각성을 깨닫고 고치고자 마음 먹었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69134",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 422,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

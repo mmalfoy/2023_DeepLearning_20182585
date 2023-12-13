@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사람은 누구나 나쁜 습관과 좋은 습관을 가지고 있다.#@문장구분# 내가 가지고 있는 나쁜 습관은 공상을 많이 하는 것이다.#@문장구분# 공상을 하기 위해 가만히 멍 때리고 있는 시간이 많아지다 보니 말 수가 적어지고 주변에 친구가 적다.#@문장구분# 학교에 등교할 때나 하교할 때 학원을 가거나 다녀올 때, 길을 다니면서도 공상을 하다 보니 가끔은 주변을 살피지 못해 사고가 날 뻔해 놀랬던적도 한 두번이 아니다.#@문장구분# 그렇기 때문에 나는 쓸데없이 공상을 하는 습관을 고쳐야겠다고 생각했다.#@문장구분# 공상을 하기보단 주변에 신경을 쓴다 거나 그 시간에 친구와 수다를 떠는 것처럼 공상 세계에서 빠져나오기 위해 나는 노력할 것이다. #@문장구분#이러한 나라도 좋은 습관은 있다.#@문장구분# 주변은 신경 쓰지 못해도 부모님한테는 신경을 매우 잘 쓴다.#@문장구분# 어버이날과 어머니 아버지 생신은 물론, 부모님의 결혼 기념일도 챙겨드린다.#@문장구분# 그렇게 챙겨드릴 때 마다 부모님께서는 매우 기특해 하셔서 나는 기분이 좋아진다.#@문장구분#",
+      "paragraph_len": 663,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.75,
+      26.8,
+      16.65
+    ],
+    "essay_scoreT_avg": 23.4,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 학교에 등교할 때나 하교할 때 학원을 가거나 다녀올 때, 길을 다니면서도 공상을 하다 보니 가끔은 주변을 살피지 못해 사고가 날 뻔해 놀랐던 적도 한두 번이 아니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 학교에 등교할 때나 하교할 때 학원을 가거나 다녀올 때, 길을 다니면서도 공상을 하다 보니 가끔은 주변을 살피지 못해 사고가 날 뻔해 <문법_맞춤법>놀랬던적도</문법_맞춤법> 한 두번이 아니다.",
+      "sentence_corr_txt_styling": " 학교에 등교할 때나 하교할 때 학원을 가거나 다녀올 때, 길을 다니면서도 공상을 하다 보니 가끔은 주변을 살피지 못해 사고가 날 뻔해 놀랐던 적도 한두 번이 아니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공상을 하기보단 주변에 신경을 쓴다거나 그 시간에 친구와 수다를 떠는 것처럼 공상 세계에서 빠져나오기 위해 나는 노력할 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 공상을 하기보단 주변에 신경을 <문법_맞춤법>쓴다 거나</문법_맞춤법> 그 시간에 친구와 수다를 떠는 것처럼 공상 세계에서 빠져나오기 위해 나는 노력할 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 챙겨드릴 때마다 부모님께서는 매우 기특해 하셔서 나는 기분이 좋아진다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 챙겨드릴 <문법_맞춤법>때 마다</문법_맞춤법> 부모님께서는 매우 기특해 하셔서 나는 기분이 좋아진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_69081",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 463,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

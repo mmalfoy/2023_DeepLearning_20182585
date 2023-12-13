@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 진정한 친구는 서로에 대해 믿음이 되고 비밀도 말할 수있는 그런 친구가 진짜 친구라고 생각한다. #@문장구분#서로의 비밀을 나눌 수 있는 친구는 그 만큼 믿음이 있다는 것이고 믿음이 있다는 것은 그 만큼 오래 동안 보았다는 것이기 때문이다. #@문장구분#내가 이렇게 까지 서로의 믿음 그리고 비밀을 마음껏 말할 수 있다는 것을 강조하는 이유는 1학년 때 친했고 2, 3, 4학년 때 다른 반으로 멀어졌다가 5학년 때 다시 엄청 친해진 친구가 있다. #@문장구분#그 뒤 엄청 친해져 가족끼리 여행도 약 4번정도 같이가고 서로 집에서도 많이 잤다.#@문장구분# 그러나 요즘 더 친한친구가 생겨 난 찬밥신세인게 억울해서이다.#@문장구분# 그래서 믿음이 있는 친구가 곧 좋은친구다.",
+      "paragraph_len": 450,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      25.35,
+      14.1
+    ],
+    "essay_scoreT_avg": 20.616667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 진정한 친구는 서로에 대해 믿음이 되고 비밀도 말할 수 있는 그런 친구가 진짜 친구라고 생각한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 진정한 친구는 서로에 대해 믿음이 되고 비밀도 말할 <문법_맞춤법>수있는 </문법_맞춤법>그런 친구가 진짜 친구라고 생각한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "서로의 비밀을 나눌 수 있는 친구는 그만큼 믿음이 있다는 것이고 믿음이 있다는 것은 그만큼 오래동안 보았다는 것이기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "서로의 비밀을 나눌 수 있는 친구는 그<문법_맞춤법> 만</문법_맞춤법>큼 믿음이 있다는 것이고 믿음이 있다는 것은 그<문법_맞춤법> 만</문법_맞춤법>큼 오래 동안 보았다는 것이기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 이렇게까지 서로의 믿음 그리고 비밀을 마음껏 말할 수 있다는 것을 강조하는 이유는 1학년 때 친했고 2, 3, 4학년 때 다른 반으로 멀어졌다가 5학년 때 다시 엄청 친해진 친구가 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 이렇<문법_맞춤법>게 까</문법_맞춤법>지 서로의 믿음 그리고 비밀을 마음껏 말할 수 있다는 것을 강조하는 이유는 1학년 때 친했고 2, 3, 4학년 때 다른 반으로 멀어졌다가 5학년 때 다시 엄청 친해진 친구가 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 뒤 엄청 친해져 가족끼리 여행도 약 4번 정도 같이 가고 서로 집에서도 많이 잤다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 뒤 엄청 친해져 가족끼리 여행도 약 4<문법_맞춤법>번정도 </문법_맞춤법>같이가고 서로 집에서도 많이 잤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러나 요즘 더 친한 친구가 생겨 난 찬밥 신세인 게 억울해서이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러나 요즘 더 <문법_맞춤법>친한친구가 생겨 난 찬밥신세인게</문법_맞춤법> 억울해서이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 믿음이 있는 친구가 곧 좋은 친구다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 믿음이 있는 친구가 곧 <문법_맞춤법>좋은친구다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64925",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 351,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

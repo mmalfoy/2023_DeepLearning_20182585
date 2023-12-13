@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "본받고 싶은 위인은 나이팅게일 이다.#@문장구분#\n 내가 나이팅게일을 본받고 싶어하는 이유는 영국 군인으로 전쟁에 나간사람들 중에 부상을 입거나 다친 사람들을 정성것 돌봤기 때문이다.#@문장구분# 다른이유도 많지만 가장 본받고 싶은 일이여서 여기에 적었다.#@문장구분# 나이팅게일은 처음에 왔을때 의사와 병사들은 나이팅게일을 차갑게 굴었다.#@문장구분# 하지만 나이팅게일은 멈추지 않고 열심히 간호를 했다.#@문장구분# 바닥을 닦고 침대보를 갈면서 병사들을 열심히 간호 해주었다.#@문장구분# 간호를 열심히 했지만 약과 음식이 모자랐다.#@문장구분# 그리고 나이팅게일이 약과 음식을 가지고 왔다.#@문장구분# \n 그 약과 음식은 나이팅게일이 자신의 돈으로 마련을 했다.#@문장구분# 그리고 가끔씩은 어딘가에 도움의 편지를 보냈다.#@문장구분# 또 매일 나이팅게일은 조용히 등불을 들고 병실을 돌아다녔다.#@문장구분# 그러면서 위로해 주고 아픈 사람을 찾아 다녔다.#@문장구분# 그러다가 나이팅게일이 쓰러 졌지만 더 열심히 일을했다.#@문장구분# 그리고 전쟁이 끝나고 나이팅게일은 간호사들을 가르쳤다.#@문장구분# 이렇게 나이팅게일은 아주 대단한 분이다.#@문장구분# 사람들이 다 무시해도 열심히 하고 쓰러져도 열심히해서 본받고싶다.#@문장구분# 이런 끈기를 본받고 싶다.#@문장구분# 포기하지 않고 열심히사는 나이팅게일을 본 받고 싶다.#@문장구분#",
+      "paragraph_len": 933,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.75,
+      23.1,
+      18
+    ],
+    "essay_scoreT_avg": 20.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "본받고 싶은 위인은 나이팅게일이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "본받고 싶은 위인은 <문법_맞춤법>나이팅게일 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 내가 나이팅게일을 본받고 싶어하는 이유는 영국 군인으로 전쟁에 나간 사람들 중에 부상을 입거나 다친 사람들을 정성껏 돌봤기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 내가 나이팅게일을 본받고 싶어하는 이유는 영국 군인으로 전쟁에 <문법_맞춤법>나간사람들 </문법_맞춤법>중에 부상을 입거나 다친 사람들을 정성것 돌봤기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 이유도 많지만 가장 본받고 싶은 일이여서 여기에 적었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다른이유도</문법_맞춤법> 많지만 가장 본받고 싶은 일이여서 여기에 적었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나이팅게일이 처음에 왔을 때 의사와 병사들은 나이팅게일을 차갑게 대했다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_조사>나이팅게일은 </문법_조사>처음에 <문법_맞춤법>왔을때 </문법_맞춤법>의사와 병사들은 나이팅게일을 차갑게 <스타일링_기타>굴었다</스타일링_기타>.",
+      "sentence_corr_txt_styling": " 나이팅게일이 처음에 왔을 때 의사와 병사들은 나이팅게일을 차갑게 대했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바닥을 닦고 침대보를 갈면서 병사들을 열심히 간호해주었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바닥을 닦고 침대보를 갈면서 병사들을 열심히 <문법_맞춤법>간호 해주었다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러다가 나이팅게일이 쓰러졌지만 더 열심히 일을 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러다가 나이팅게일이 <문법_맞춤법>쓰러 졌지만</문법_맞춤법> 더 열심히 일을했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들이 다 무시해도 열심히 하고 쓰러져도 열심히해서 본받고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람들이 다 무시해도 열심히 하고 쓰러져도 열심히해서 <문법_맞춤법>본받고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 포기하지 않고 열심히 사는 나이팅게일을 본받고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 포기하지 않고 <문법_맞춤법>열심히사는 </문법_맞춤법>나이팅게일을 본 받고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39878",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 574,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

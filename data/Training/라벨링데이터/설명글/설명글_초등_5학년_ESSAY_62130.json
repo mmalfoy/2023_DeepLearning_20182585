@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "이 세상에는 사람들이 하는 다양한 취미가 있습니다#@문장구분# 축구, 농구, 그림그리기, 배구, 독서, 게임, 뜨개질, 배드민턴, 테니스, 밖에 나가서 뛰어 놀기, 자전거 타기, 인라인 타기 등등 여러가지의 취미활동이 있습니다.#@문장구분# 저는 밖에 나가서 뛰기랑 자전거 타기가 있습니다.#@문장구분# 저가 이 취미 활동을 할때 즐기는 것은 밖에 나가서 놀기는 친구들과 매일매일 나가서 시간을 보내는 것 입니다.#@문장구분# 그리고 자전거 타기는 친구들 만나러 나가서 놀때 항상 자전거를 타고 놀기 때문에 자전거 타기도 취미 활동으로 정했습니다.#@문장구분# \n 저가 밖에 나가서 놀때 항상 옆에 친구들이 있습니다.#@문장구분# 그리고 술래잡기도 하고 놀고 피구도 하고 놉니다.#@문장구분# 그리고 자전거를 타고 이동 합니다.#@문장구분# 자전거가 없으면 뛰어야 해서 힘들어서 자전거를 타고 항상 이동합니다.#@문장구분# 그리고 저의 친구들도 자전거를 타고 이동합니다.#@문장구분# 그리고 친구들도자전거가 편하다고 해서 항상 같이 이동해요.#@문장구분# \n 제가 앞으로도 즐기고 싶은 취미는 두개다 하고 싶습니다.#@문장구분# 계속 저는 이 취미를 잃지 않을 것 입니다.#@문장구분# 왜냐하면 전 이취미가 너무 제 맘에 들고 좋아서 이취미를 계속 이어가고 싶습니다.#@문장구분# 다른 취미가 더해질수 있지만, 전 이지금가지고 있는 두취미를 가지고 있을 것 입니다.#@문장구분#",
+      "paragraph_len": 910,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.847618,
+      30,
+      22.733334
+    ],
+    "essay_scoreT_avg": 25.19365,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 전 이 취미가 너무 제 맘에 들고 좋아서 이 취미를 계속 이어가고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 전 <문법_맞춤법>이취미가 너무 제 맘에 들고 좋아서 이취미를</문법_맞춤법> 계속 이어가고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 취미가 더해질수 있지만, 전 이 지금 가지고 있는 두취미를 가지고 있을 것 입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다른 취미가 더해질수 있지만, 전 <문법_맞춤법>이지금가지고</문법_맞춤법> 있는 두취미를 가지고 있을 것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_62130",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 612,
+    "essay_main_subject": "나의 취미"
+  }
+}

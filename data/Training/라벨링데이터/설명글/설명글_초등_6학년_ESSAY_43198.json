@@ -1,0 +1,302 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세종대왕.\n세종대왕님의 유영한 일은 한글을 만드신것입니다.#@문장구분# 모든 사람들이 한글을 쓰는것만큼 본받고 싶다는 생각이 들었다. #@문장구분#세종대왕님은 자음, ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ. 모음은 ㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣ입니다. #@문장구분#라나다, 갸냐댜, 거너더 다양한 한글이 있습니다.#@문장구분# 세종대왕님 뿐만 아니라 다른분들도 많습니다#@문장구분#\n광개토대왕님, 유관순, 김구, 이순신, 안중근, 윤봉길, 고종, 순종, 심사임당분들 등등.... 많습니다.#@문장구분#\n독립운동가분들 일본과 싸우신분들, 등등... 더 많이 많습니다.#@문장구분#\n심사임당은 5만원 지폐에서 보입니다.#@문장구분# 광개토대왕은 싸우신 분이고 이순신장군님은 일본군의 맞서 싸웠습니다.#@문장구분#\n저는 이러한 위인분들을 존경하고 본받고싶습니다.#@문장구분# 위인분들께 저는 #@소속# #@이름#입니다. #@문장구분#저는 이러한 위인분들을 본받고싶습니다. #@문장구분#존경합니다. #@문장구분#열심히 공부하겠습니다.",
+      "paragraph_len": 700,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      22.5,
+      17.6
+    ],
+    "essay_scoreT_avg": 20.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "세종대왕.\n세종대왕님의 유명한 일은 한글을 만드신 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "세종대왕.\n세종대왕님의 <문법_맞춤법>유영한 일은 한글을 만드신것입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모든 사람들이 한글을 쓰는 것만큼 본받고 싶다는 생각이 들었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모든 사람들이 한글을 <문법_맞춤법>쓰는것만큼</문법_맞춤법> 본받고 싶다는 생각이 들었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세종대왕님뿐만 아니라 다른 분들도 많습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>세종대왕님 뿐만 아니라 다른분들도 많습니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n광개토 대왕님, 유관순, 김구, 이순신, 안중근, 윤봉길, 고종, 순종, 신사임당 분들 등등.... 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>광개토대왕님, 유관순, 김구, 이순신, 안중근, 윤봉길, 고종, 순종, 심사임당분들</문법_맞춤법> 등등.... 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n독립운동가분들 일본과 싸우신 분들, 등등... 더 많이 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n독립운동가분들 일본과 <문법_맞춤법>싸우신분들,</문법_맞춤법> 등등... 더 많이 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n신사임당은 5만 원 지폐에서 보입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>심사임당은 5만원</문법_맞춤법> 지폐에서 보입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 광개토 대왕은 싸우신 분이고 이순신 장군님은 일본군의 맞서 싸웠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>광개토대왕은 싸우신 분이고 이순신장군님은</문법_맞춤법> 일본군의 맞서 싸웠습니다.",
+      "sentence_corr_txt_styling": " 광개토 대왕은 싸우신 분이고 이순신 장군님은 일본군의 맞서 싸웠습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n저는 이러한 위인분들을 존경하고 본받고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n저는 이러한 위인분들을 존경하고 <문법_맞춤법>본받고싶습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저는 이러한 위인분들을 본받고 싶습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "저는 이러한 위인분들을 <문법_맞춤법>본받고싶습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "저는 이러한 위인분들을 본받고 싶습니다. ",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43198",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 426,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

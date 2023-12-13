@@ -1,0 +1,286 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 존경하는위인은 세종대왕 입니다.#@문장구분#  세종대왕님이 있어서 지금 이렇게 멋진 한글을 쓸수있어서 제가 가장 존경하는 사람입니다.#@문장구분# 그리고 세종대왕님은 백성들을 정말로 사랑하고 좋아하셨습니다.#@문장구분# 그리고 가난한백성들은 돈벌기가 바빠서 말하는걸 못배웠었는데 그런 백성들을 위해서 만들어주셨습니다.#@문장구분# 그리고 그런백성들을 위해서 눈을 바치셨습니다.#@문장구분# 그래서 가장 존경하는분이 세종대왕입니다.#@문장구분# 그리고 세종대왕님은 다른 사람들을 위해서 한글도 만들고 다른사람들을 도와주시기도하셔서 존경하는분입니다.#@문장구분# 그리고 본받고싶은점 저도 다른 사람들을 위해서 무언가 열심히 도와주고 싶습니다.#@문장구분# 그리고 세종대왕님이 훈민정음(한글)을 만드신건 정말로 대박이고 정말로 고마워해야합니다.#@문장구분#",
+      "paragraph_len": 540,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      21.6,
+      17.45
+    ],
+    "essay_scoreT_avg": 22.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 존경하는 위인은 세종대왕입니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_조사>저의</문법_조사> <문법_맞춤법>존경하는위인은 </문법_맞춤법>세종대왕 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "  세종대왕님이 있어서 지금 이렇게 멋진 한글을 쓸수있어서 제가 가장 존경하는 사람입니다.",
+      "sentence_corr_txt_styling": "  세종대왕님이 있어서 지금 이렇게 멋진 한글을 쓸수있어서 제가 가장 존경하는 사람입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 가난한 백성들은 돈벌기가 바빠서 말하는 걸 못 배웠었는데 그런 백성들을 위해서 만들어주셨습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>가난한백성들은 </문법_맞춤법>돈벌기가 바빠서 말하는걸 못배웠었는데 그런 백성들을 위해서 만들어주셨습니다.",
+      "sentence_corr_txt_styling": " 그리고 가난한 백성들은 돈벌기가 바빠서 말하는 걸 못 배웠었는데 그런 백성들을 위해서 만들어주셨습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 그런 백성들을 위해서 눈을 바치셨습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>그런백성들을 </문법_맞춤법>위해서 눈을 바치셨습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 가장 존경하는분이 세종대왕입니다.",
+      "sentence_corr_txt_styling": " 그래서 가장 존경하는분이 세종대왕입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 세종대왕님은 다른 사람들을 위해서 한글도 만들고 다른 사람들을 도와주시기도 하셔서 존경하는분입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 세종대왕님은 다른 사람들을 위해서 한글도 만들고 <문법_맞춤법>다른사람들을 </문법_맞춤법>도와주시기도하셔서 존경하는분입니다.",
+      "sentence_corr_txt_styling": " 그리고 세종대왕님은 다른 사람들을 위해서 한글도 만들고 다른 사람들을 도와주시기도 하셔서 존경하는분입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 본받고싶은점 저도 다른 사람들을 위해서 무언가 열심히 도와주고 싶습니다.",
+      "sentence_corr_txt_styling": " 그리고 본받고싶은점 저도 다른 사람들을 위해서 무언가 열심히 도와주고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 세종대왕님이 훈민정음(한글)을 만드신건 정말로 대박이고 정말로 고마워해야합니다.",
+      "sentence_corr_txt_styling": " 그리고 세종대왕님이 훈민정음(한글)을 만드신건 정말로 대박이고 정말로 고마워해야합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39881",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 360,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

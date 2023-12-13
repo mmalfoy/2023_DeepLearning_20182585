@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 취미는 축구, 농구, 배드민턴, 달리기입니다. #@문장구분#저는 그 중 축구를 알아보겠습니다. #@문장구분#그 중 제가 아는 축구의 역사를 알아보겠습니다. #@문장구분#제가 알고 있는 축구의 역사는 옛날에 아이들이 돼지 오줌보로 축구를 했다는 것으로 알고 있고 이제 축구의 방법을 알아봅시다. #@문장구분#포지션은 골키퍼, 미드필더, 수비수, 공격수가 있다. #@문장구분#축구는 콜키퍼는 공을 골키퍼 박스 안에서 공을 잡을 수 있고 나머지 선수들은 공을 못 잡는다. #@문장구분#또 축구는 고을 상대보다 많이 넣어야지 이기는 게임이다. #@문장구분#나도 1학년 때부터 3학년 때까지는 형들이랑 축구를 했는데 4학년부터 5학년인 지금은 친구들이랑 하고 있다. #@문장구분#그리고 축구는 11명에서 뛰는 경기이다. #@문장구분#취미는 갖고 있는게 좋다. #@문장구분#왜냐하면 나중에 그 취미가 직업이 될 수 있기 때문이다. #@문장구분#여러분들은 어떤 취미를 갖고 계신가요? #@문장구분#갖고 계시면 말을 해보세요. #@문장구분#마지막으로 제가 제일 좋아하는 축구선수는 레반도프스키입니다.",
+      "paragraph_len": 723,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.4285715,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8095238,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      26.114285,
+      30
+    ],
+    "essay_scoreT_avg": 28.171427,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_40539",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 464,
+    "essay_main_subject": "나의 취미"
+  }
+}

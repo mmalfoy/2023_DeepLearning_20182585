@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 초등학교 2학년 때 만난 선생님이 참된 스승님이라고 생각합니다.#@문장구분# 그땐 어려서 몰랐지만 지금 돌이켜보면 '그분이 진정한 스승님이었구나.'라는 생각을 할때가 있습니다.#@문장구분# 그 선생님은 저희들에게 이렇게 말하셨습니다.#@문장구분#'나를 이제부터 보바 선생님이라고 불러라!'#@문장구분#보바는 바보라는 단어를 거꾸로한 단어로 결국 선생님보고 바보라고 부르라는 격이 된 것입니다.#@문장구분# 어렸던 저희는 그게 우습고 재밌어서 진짜 바보의 의미가 아닌 애칭이나 별명 느낌으로 늘 선생님을 그렇게 불렀습니다.#@문장구분# 지금 생각해보면 죄송한 일이지만 한편으로는 선생님의 원래 의도를 생각해보고 놀라기도 합니다.#@문장구분# 선생님의 의도는 아마 '아이들에게 이렇게라도 다가가서 좋은 인상을 주고 싶다'라는 것이었을 것입니다.#@문장구분# 이렇게 자신을 희생해서라도 제자들을 이끌어나가려고 하는 모습이 참된 스승의 덕목이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 603,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.9,
+      22.05,
+      25.9
+    ],
+    "essay_scoreT_avg": 23.616667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.19",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그땐 어려서 몰랐지만 지금 돌이켜보면 '그분이 진정한 스승님이었구나.'라는 생각을 할 때가 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그땐 어려서 몰랐지만 지금 돌이켜보면 '그분이 진정한 스승님이었구나.'라는 생각을 <문법_맞춤법>할때가</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 선생님은 저희들에게 이렇게 말씀하셨습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 선생님은 저희들에게 이렇게 <문법_맞춤법>말하셨습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "보바는 바보라는 단어를 거꾸로한 단어로 결국 선생님 보고 바보라고 부르라는 격이 된 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "보바는 바보라는 단어를 거꾸로한 단어로 결국 <문법_맞춤법>선생님보고</문법_맞춤법> 바보라고 부르라는 격이 된 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금 생각해 보면 죄송한 일이지만 한편으로는 선생님의 원래 의도를 생각해 보고 놀라기도 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금 <문법_맞춤법>생각해보면 죄송한 일이지만 한편으로는 선생님의 원래 의도를 생각해보고</문법_맞춤법> 놀라기도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56147",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 424,
+    "essay_main_subject": "참된 스승"
+  }
+}

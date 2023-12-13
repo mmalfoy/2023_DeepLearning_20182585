@@ -1,0 +1,319 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에게는 10가지의 취미가 있습니다.#@문장구분# 일단 1번째!#@문장구분# 피구 피구는 여러모로 좋은 운동이라 할수있다.#@문장구분# 피구는 달리기, 반사신경, 머리가 좋아진다.#@문장구분# 그이유는 달리기는 피할때 사용되어 달리기가 점점 더 빨라진다!!#@문장구분# 반사신경은 공을 피하고 받을때 사용된다!#@문장구분# 머리가좋아지는 이유는 작전을 짤때 머리를 써야해서 머리가 좋아집니다!!!#@문장구분# 그러므로 피구는 건강에 좋은 운동입니다.#@문장구분# 2번째 놀기!!!#@문장구분# 노는건 누구나 언제나 재미있게 놀수있다.#@문장구분# 3번째 핸드폰하기!!!#@문장구분# 핸드폰은 나쁘지마 재미있게 할수있는 스마트기기이다.#@문장구분# 4번째 옷, 신발 등등 있는 쿠팡, 브랜디,  ABiy, 지그재그를 본다.#@문장구분# 5번째!! 샤프사기!!!!!#@문장구분# 샤프는연필과 비슷한 연필 입니다.#@문장구분# 다음으로 넘어가서 6번째!!! 음료수 먹기!!!#@문장구분# 음료수는 톡쏘는 맛으로 여러 많은 사람들에게 주목받고 있다.#@문장구분# 주로 대표적인 음료수는 사이다와콜라이다.#@문장구분# 사이다는 주로 칠성사이다가 인기가많고 콜라는 2종류로 나뉜다.#@문장구분# 일단 1번째는 펩시 콜라이다.#@문장구분# 2번째는 코카 콜라이다.#@문장구분# 이로 아직 7~10번 까지 남았지만 그냥 끝내도록 하겠다!#@문장구분#",
+      "paragraph_len": 977,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      18.866667,
+      20.733334
+    ],
+    "essay_scoreT_avg": 20.4,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "나의 취미",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 피구 피구는 여러모로 좋은 운동이라 할 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 피구 피구는 여러모로 좋은 운동이라 <문법_맞춤법>할수있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 달리기는 피할때 사용되어 달리기가 점점 더 빨라진다!!",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는 </문법_맞춤법>달리기는 피할때 사용되어 달리기가 점점 더 빨라진다!!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반사 신경은 공을 피하고 받을 때 사용된다!",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>반사신경은 공을 피하고 받을때 </문법_맞춤법>사용된다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 머리가 좋아지는 이유는 작전을 짤 때 머리를 써야 해서 머리가 좋아집니다!!!",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>머리가좋아지는 이유는 작전을 짤때</문법_맞춤법> 머리를 써야해서 머리가 좋아집니다!!!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 노는 건 누구나 언제나 재미있게 놀 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>노는건 누구나 언제나 재미있게 놀수있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 핸드폰은 나쁘지만 재미있게 할 수 있는 스마트기기이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 핸드폰은 <문법_맞춤법>나쁘지마 재미있게 할수있는 스마트기기이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 샤프는 연필과 비슷한 연필입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>샤프는연필과 비슷한 연필 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 음료수는 톡 쏘는 맛으로 여러 많은 사람들에게 주목받고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 음료수는 <문법_맞춤법>톡쏘는</문법_맞춤법> 맛으로 여러 많은 사람들에게 주목받고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 주로 대표적인 음료수는 사이다와 콜라이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 주로 대표적인 음료수는 <문법_맞춤법>사이다와콜라</문법_맞춤법>이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사이다는 주로 칠성 사이다가 인기가 많고 콜라는 2종류로 나뉜다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0019",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사이다는 주로 <문법_맞춤법>칠성사이다가 인기가많고</문법_맞춤법> 콜라는 2종류로 나뉜다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33108",
+    "essay_prompt": " 세상에는 다양한 취미활동이 있습니다. 축구, 농구, 그림 그리기, 게임, 독서 등등 정말 다양하지요.\r\n\r\n 여러분은 어떤 취미를 가지고 계시는가요? 여러분의 취미를 알려주시고 그 취미에 관해 설명해주세요. 취미를 하는 방법이나 취미의 역사나 대회 같은 것도 같이 설명해주세요.\r\n\r\n 없으면 만들고 싶은 취미나 해보고 싶은 것을 작성해주셔도 좋아요. 누군가와 함께 하고 싶은 취미도 좋답니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 537,
+    "essay_main_subject": "나의 취미"
+  }
+}

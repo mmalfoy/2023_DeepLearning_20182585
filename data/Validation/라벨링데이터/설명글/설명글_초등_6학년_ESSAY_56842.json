@@ -1,0 +1,254 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 친구는 티격태격하면서도 서로에 대해서 잘 알고 오래전부터 안 친구입니다.#@문장구분#(약 4~6년 정도) 저는 제가 제일 잘 아는 친구가 많지만 이중에 몇 명을 뽑아 얘기 할 것입니다.#@문장구분# 이 친구는 지금 저와 같은 반입니다.#@문장구분# 성별은 남자이고 나이는 저와 6학년으로 동일합니다. #@문장구분#서로 같이 편이점이나 문구점, 다른 친구들이나 부모님과 같이 놀이동산 등으로 같이 놀러다님니다. #@문장구분#가끔씩은 서로 싸우고 때리고 말싸움 등 싸우지만 또 몇일 있다가는 다시 화해하고 놈니다.#@문장구분# 또 같은 학원에 다니고 끝나면 서로 얘기나 음식을 먹는 등 학원에서도 서로의 사이가 좋고 서로 팔이나 다리 등을 다쳤을땐 서로 놀리기도 하고 걱정도 합니다.#@문장구분# 사실은 이런것보단 싸우는 날이 더 많습니다.#@문장구분# 저는 이 친구를 좋은친구라고 생각합니다.",
+      "paragraph_len": 549,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.9,
+      21.6,
+      21.85
+    ],
+    "essay_scoreT_avg": 20.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "(약 4~6년 정도) 저는 제가 제일 잘 아는 친구가 많지만 이중에 몇 명을 뽑아 얘기할 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "(약 4~6년 정도) 저는 제가 제일 잘 아는 친구가 많지만 이중에 몇 명을 뽑아 <문법_맞춤법>얘기 할 </문법_맞춤법>것입니다.",
+      "sentence_corr_txt_styling": "(약 4~6년 정도) 저는 제가 제일 잘 아는 친구가 많지만 이중에 몇 명을 뽑아 얘기할 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "서로 같이 편의점이나 문구점, 다른 친구들이나 부모님과 같이 놀이동산 등으로 같이 놀러다닙니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "서로 같이 <문법_맞춤법>편이점이나 </문법_맞춤법>문구점, 다른 친구들이나 부모님과 같이 놀이동산 등으로 같이 <문법_어미>놀러다님니다.</문법_어미> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "가끔씩은 서로 싸우고 때리고 말싸움 등 싸우지만 또 며칠 있다가는 다시 화해하고 놉니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "가끔씩은 서로 싸우고 때리고 말싸움 등 싸우지만 또 <문법_맞춤법>몇일 </문법_맞춤법>있다가는 다시 화해하고 <문법_어미>놈니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 같은 학원에 다니고 끝나면 서로 얘기나 음식을 먹는 등 학원에서도 서로의 사이가 좋고 서로 팔이나 다리 등을 다쳤을 땐 서로 놀리기도 하고 걱정도 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 같은 학원에 다니고 끝나면 서로 얘기나 음식을 먹는 등 학원에서도 서로의 사이가 좋고 서로 팔이나 다리 등을 <문법_맞춤법>다쳤을땐 </문법_맞춤법>서로 놀리기도 하고 걱정도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사실은 이런 것보단 싸우는 날이 더 많습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사실은 <문법_맞춤법>이런것보단 </문법_맞춤법>싸우는 날이 더 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이 친구를 좋은 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 이 친구를 <문법_맞춤법>좋은친구라고 </문법_맞춤법>생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56842",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 391,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

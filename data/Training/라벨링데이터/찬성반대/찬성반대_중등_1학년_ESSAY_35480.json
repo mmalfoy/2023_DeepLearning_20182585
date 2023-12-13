@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "부모의 능력과 경제력에 따른 불평등에 대해 찬성한다.#@문장구분#\n자기 자신이 태어날때 금수저인 부모를 선택한 것이 아니라 태어나보니 부모가 금수저인 것이다.#@문장구분# 금수저 부모의 자식은 태어나기 전에 금수저 부모 흑수저 부모중에 선택한 것이 아니라 태어나보니 부모가 금수저이니 운이 좋은 삶인 것이다.#@문장구분# 부모의 능력과 경제력이 많다고 다 좋은 것이 아니다.#@문장구분# 부모의 능력과 경제력이 많을 수록 자식의 대한 기대감이 높아 부모가 누구니 너도 이렇겠지? 라고 생각하여 부담스럽기도 할것이다.#@문장구분# 마지막은 부모의 능력과 경제력 때문에 따른 불평등이 있다면, 그것을 뛰어엄으면 된다.#@문장구분# 물론 능력과 경제력이 뛰어난 부모의 자식을 더 잘 챙겨주거나 어떠한 면접을 볼때 그 자식을 우선순위로 생각할 수 있지만 금수저 부모의 자식보다 자기 자신이 더 뛰어나고 일에 대한 능력이 더 옾으면 금수저의 자식이 아닌 자신을 뽑을수도 있는 것이다.#@문장구분#",
+      "paragraph_len": 587,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "\n부모의 능력과 경제력에 따른 불평등에 찬성하는 나의 의견은 태어날때 부모를 선택한 것이 아니라 그 부모한테서 태어난거고 부모의 능력과 경제력이 높아 자식의 대한 \"기대치가 높아 부담스럽다. 불평등을 뛰어넘고 자신이 더 잘 하면된다.#@문장구분#",
+      "paragraph_len": 150,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      20.91111,
+      21.48889
+    ],
+    "essay_scoreT_avg": 20.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          1
+        ],
+        [
+          2,
+          0,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.19",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n자기 자신이 태어날 때 금수저인 부모를 선택한 것이 아니라 태어나 보니 부모가 금수저인 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n자기 자신이 <문법_맞춤법>태어날때</문법_맞춤법> 금수저인 부모를 선택한 것이 아니라 태어나보니 부모가 금수저인 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 금수저 부모의 자식은 태어나기 전에 <스타일링_담화 맥락 오류><스타일링_패러프레이징>금수저 부모 흑수저 부모중에 선택한 것이 아니라 태어나보니 부모가 금수저이니</스타일링_패러프레이징></스타일링_담화 맥락 오류> 운이 좋은 삶인 것이다.",
+      "sentence_corr_txt_styling": " 금수저 부모의 자식은 태어나기 전에 부모를 선택한 것이 아니라 태어나 보니 그런 환경이었기 때문에 운이 좋은 삶인 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모의 능력과 경제력이 많을 수록 자식의 대한 기대감이 높아 부모가 '누구는 이러니까 너도 이렇겠지?' 라고 생각하여 부담스럽기도 할 것이다.",
+      "sentence_corr_reason": [
+        "문장 부호",
+        "문장 부호",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모의 능력과 경제력이 많을 수록 자식의 대한 기대감이 높아 부모가 <스타일링_기타><스타일링_담화 맥락 오류>누구니 너도 이렇겠지?</스타일링_담화 맥락 오류></스타일링_기타> 라고 생각하여 부담스럽기도 <문법_맞춤법>할것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 부모의 능력과 경제력이 많을 수록 자식의 대한 기대감이 높아 부모가 '누구는 이러니까 너도 이렇겠지?' 라고 생각하여 부담스럽기도 할 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막은 부모의 능력과 경제력 때문에 따른 불평등이 있다면, 그것을 뛰어넘으면 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마지막은 부모의 능력과 경제력 때문에 따른 불평등이 있다면, 그것을 <문법_맞춤법>뛰어엄으면</문법_맞춤법> 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 능력과 경제력이 뛰어난 부모의 자식을 더 잘 챙겨주거나 어떠한 면접을 볼 때 그 자식을 우선순위로 생각할 수 있지만 금수저 부모의 자식보다 자기 자신이 더 뛰어나고 일에 대한 능력이 더 높으면 자신이 뽑힐 수도 있는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 물론 능력과 경제력이 뛰어난 부모의 자식을 더 잘 챙겨주거나 어떠한 면접을 <문법_맞춤법>볼때</문법_맞춤법> 그 자식을 우선순위로 생각할 수 있지만 금수저 부모의 자식보다 자기 자신이 더 뛰어나고 일에 대한 능력이 더 <문법_담화 맥락 오류><문법_패러프레이징>옾으면 금수저의 자식이 아닌 자신을 뽑을수도 있는 것이다.</문법_패러프레이징></문법_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35480",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 579,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

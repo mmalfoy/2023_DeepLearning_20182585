@@ -1,0 +1,267 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "많은 사람들은 애완동물을 키운다.#@문장구분# 단지 귀엽다는 이유로, 멋있다는 의도로 많은반려동물이 있다. #@문장구분#그러나 유기견/묘 보호센터 홈페이지에서는 매일매일 귀여운 동물들이 안락사된다.#@문장구분# 심지어 유기동물의 양이 15%나 증가했다.#@문장구분# 반려동물 유기, 이대로 괜찮은 것인가?#@문장구분# 먼저 네 유형중에 하나라도 포함되면 반려동물을 키울 자격이 없는 사람들이다. #@문장구분#첫째로 가족의 동의를 하나라도 얻지 못한 사람이다. #@문장구분#가족의 동의를 단 한명이라도 얻지 못하면 가족과의 갈등이 생겨 어쩔수 없이 동물을 유기해야 하는 안타까운 상황이 발생할 수 있다.#@문장구분#그리고 두번째는 반려동물 지식이 부족한 사람, 세번째는 경제적 여유가 없는 사람, 마지막으로 책임감이 없는 사람이다#@문장구분#. 반려동물을 입양하기 전, 내가 진짜 키울수 있는 상황인지, 반려동물에 대한 지식이 있는지 다시 한번 생각해 보아야 한다.#@문장구분# 인간은 동물을 마음대로 유기한다.#@문장구분# 그러나 동물이 인간을 유기할 일은 없다.#@문장구분# 동물의 입장에서도 생각해야 한다.#@문장구분# 단지 귀여워서 동물을 키우고, 책임감 없이 동물을 버리는 행동을 하는건 진짜 사람도 아니다.#@문장구분# 동물을 유기하기 전, 동물에 대해 공부하고, 입양 여부를 신중히 결정하자.#@문장구분#",
+      "paragraph_len": 875,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.777779,
+      20,
+      21.8
+    ],
+    "essay_scoreT_avg": 21.192593,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 단지 귀엽다는 이유로, 멋있다는 의도로 많은 반려동물이 키워진다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 단지 귀엽다는 이유로, 멋있다는 의도로 <문법_맞춤법>많은반려동물이</문법_맞춤법> <스타일링_담화 맥락 오류>있다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 단지 귀엽다는 이유로, 멋있다는 의도로 많은 반려동물이 키워진다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 심지어 유기 동물의 양이 15%나 증가했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 심지어 <문법_맞춤법>유기동물의</문법_맞춤법> 양이 15%나 증가했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>먼저</스타일링_담화 맥락 오류> 네 유형중에 하나라도 포함되면 반려동물을 키울 자격이 없는 사람들이다. ",
+      "sentence_corr_txt_styling": " 이 글의 네 유형중에 하나라도 포함되면 반려동물을 키울 자격이 없는 사람들이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "첫 번째로 가족의 동의를 하나도 얻지 못한 사람이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "조사"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>첫째로</스타일링_담화 맥락 오류> 가족의 동의를 <문법_조사>하나라도</문법_조사> 얻지 못한 사람이다. ",
+      "sentence_corr_txt_styling": "첫 번째로 가족의 동의를 하나도 얻지 못한 사람이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "가족의 동의를 단 한명이라도 얻지 못하면 가족과의 갈등이 생겨 어쩔 수 없이 동물을 유기해야 하는 안타까운 상황이 발생할 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "가족의 동의를 단 한명이라도 얻지 못하면 가족과의 갈등이 생겨 <문법_맞춤법>어쩔수</문법_맞춤법> 없이 동물을 유기해야 하는 안타까운 상황이 발생할 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 두 번째는 반려동물 지식이 부족한 사람, 세 번째는 경제적 여유가 없는 사람, 마지막으로 책임감이 없는 사람이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>두번째는</문법_맞춤법> 반려동물 지식이 부족한 사람, 세번째는 경제적 여유가 없는 사람, 마지막으로 책임감이 없는 사람이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ". 반려동물을 입양하기 전, 내가 진짜 키울 수 있는 상황인지, 반려동물에 대한 지식이 있는지 다시 한번 생각해 보아야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": ". 반려동물을 입양하기 전, 내가 진짜 <문법_맞춤법>키울수</문법_맞춤법> 있는 상황인지, 반려동물에 대한 지식이 있는지 다시 한번 생각해 보아야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35272",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 575,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

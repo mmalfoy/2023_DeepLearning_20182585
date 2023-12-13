@@ -1,0 +1,301 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕 하세요.#@문장구분# 저는 #@이름# 이라고 합니다. #@문장구분#오늘은 한번 위생을 지키는 방법어 대해서 한번 말해 보도록 하겠 습니다. #@문장구분#그런데 이주제를 쓰기 전에 한번만 말하고 싶은게 있어서 말하도록 하겠 습니다. #@문장구분#일단 사람은 어차피 죽는데 자기의 몸이나 위생을 지켜 봤자 뭐를 할까그라고 생각을 해봤 습니다.#@문장구분# 그런데 여기서 쓰라고 하니깐 위생의 방법을 한 5가지 정도 애기 하도록 하겠 습니다.#@문장구분# 일단 첫번째 운동 입니다.#@문장구분# 운동을 안하던 사람들은 가볍게 운동을 하거나 아니면 운동을 했던 사람 이라면 처음 달에는 운동을 안하던 사람들 아니면 운동을 했었는데 갑자기 하는 사람이라면 운동을 적게 하면서 점차 점차 늘여 가는게 좋다고 생각 합니다.#@문장구분# 그런데 운동을 원래 빡세게 한다면 운동을 원래대로 빡세게 하거나 아니면 더 늘어나게 한다면 좋을 거 같다.#@문장구분# 그런데 내가 처음에 5가지를 준비 했다 했라 했는레 생각 해보디 쓸게 없어서 그냥 여기서 끝내겠 습니다.#@문장구분#",
+      "paragraph_len": 683,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          1,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      14.5523815,
+      10,
+      15.6
+    ],
+    "essay_scoreT_avg": 13.384128,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕하세요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>안녕 하세요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "오늘은 위생을 지키는 방법에 대해서 한번 말해 보도록 하겠습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "오늘은 <문법_맞춤법><문법_패러프레이징>한번 위생을 지키는 방법어 대해서 한번 말해 보도록 하겠 습니다.</문법_패러프레이징></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그런데 <스타일링_패러프레이징>이주제를 쓰기 전에 한번만 말하고 싶은게 있어서 말하도록 하겠 습니다.</스타일링_패러프레이징> ",
+      "sentence_corr_txt_styling": "그런데 이 주제에 대해 쓰기 전에 한번 말하고 싶은 게 있습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 사람은 어차피 죽는데 자기의 몸이나 위생을 지켜 봤자 뭐를 할까 라고 생각을 해봤습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 사람은 어차피 죽는데 자기의 몸이나 위생을 지켜 봤자 <문법_맞춤법>뭐를 할까그라고 생각을 해봤 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 여기서 쓰라고 하니깐 위생의 방법을 한 다섯 가지 정도 얘기하도록 하겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 여기서 쓰라고 하니깐 위생의 방법을 한 <문법_맞춤법>5가지 정도 애기 하도록 하겠 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 첫 번째, 운동입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 쉼표"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단 <문법_맞춤법>첫번째 운동 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 운동을 안하던 사람들은 가볍게 운동을 하거나 아니면 <스타일링_패러프레이징>운동을 했던 사람 이라면 처음 달에는 운동을 안하던 사람들 아니면 운동을 했었는데 갑자기 하는 사람이라면 운동을 적게 하면서 점차 점차 늘여 가는게 좋다고 생각 합니다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 운동을 안하던 사람들은 가볍게 운동을 하거나 아니면 적게 하면서 점차 점차 늘려가는 게 좋다고 생각합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그런데 운동을 원래 빡세게 한다면 운동을 원래대로 빡세게 하거나 아니면 더 <스타일링_패러프레이징>늘어나게 한다면 좋을 거 같다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 그런데 운동을 원래 빡세게 한다면 운동을 원래대로 빡세게 하거나 아니면 더 늘린다면 좋을 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그런데 내가 처음에 <스타일링_맞춤법><스타일링_패러프레이징>5가지를 준비 했다 했라 했는레 생각 해보디 쓸게 없어서 그냥 여기서 끝내겠 습니다.</스타일링_패러프레이징></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 그런데 내가 처음에 다섯 가지를 준비했다고 했는데 생각해보니 쓸 게 없어서 그냥 여기서 끝내겠습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36055",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 469,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

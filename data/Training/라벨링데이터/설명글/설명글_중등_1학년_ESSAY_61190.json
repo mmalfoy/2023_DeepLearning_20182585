@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사람은 누구나 습관을 가지고 있다.#@문장구분# 그게 좋은 습관일 수도 있고 나쁜 습관일 수도 있다.#@문장구분# 그래서 많은 사람들이 나자신의 습관들 중 나쁜습관을 없애고 좋은 습관들 더 늘이려고 노력을 하기도 한다.#@문장구분# 하지만 그것은 매우 쉽지않다.#@문장구분# 나도 나쁜 습관을 없애보려고 노력해 보았지만 쉽지 않아 결국 실패했다.#@문장구분# 그래서 나는 나쁜 습관을 없애는 대신 더 좋은 습관들 들이려고 노력했다.#@문장구분# 내가 가지고 싶었던 좋은 습관은 군것질을 줄이는 것이다.#@문장구분# 군것질을 줄이기 위해 여러 가지 노력을 해 보았는데 그중 가장 효과있었던 방법은 만약 내가 낮에 군것질을 하지 않았다면 저녁에 나 자신에게 상으로 더 맛있는 군것질을 하게 허락하는 것이었다.#@문장구분# 아예 군것질을 안하는것 보다는 조금 먹더라도 참은 다음 더 좋은 것을 보상으로 먹는 것이 훨씬 효과적인 것 같았다.#@문장구분#",
+      "paragraph_len": 590,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.9,
+      21.75,
+      16.95
+    ],
+    "essay_scoreT_avg": 20.533335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 많은 사람들이 나자신의 습관들 중 나쁜습관을 없애고 좋은 습관을 더 늘이려고 노력을 하기도 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그래서 많은 사람들이 나자신의 <문법_조사>습관들</문법_조사> 중 나쁜습관을 없애고 좋은 <문법_조사>습관들</문법_조사> 더 늘이려고 노력을 하기도 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 그것은 매우 쉽지 않다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 그것은 매우 <문법_맞춤법>쉽지않다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 군것질을 줄이기 위해 여러 가지 노력을 해 보았는데 그중 가장 효과가 있었던 방법은 만약 내가 낮에 군것질을 하지 않았다면 저녁에 나 자신에게 상으로 더 맛있는 군것질을 하게 허락하는 것이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 군것질을 줄이기 위해 여러 가지 노력을 해 보았는데 그중 가장 <문법_조사>효과있었던</문법_조사> 방법은 만약 내가 낮에 군것질을 하지 않았다면 저녁에 나 자신에게 상으로 더 맛있는 군것질을 하게 허락하는 것이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아예 군것질을 안하는 것보다는 조금 먹더라도 참은 다음 더 좋은 것을 보상으로 먹는 것이 훨씬 효과적인 것 같았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아예 군것질을 <문법_맞춤법>안하는것 보다는</문법_맞춤법> 조금 먹더라도 참은 다음 더 좋은 것을 보상으로 먹는 것이 훨씬 효과적인 것 같았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_61190",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 411,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

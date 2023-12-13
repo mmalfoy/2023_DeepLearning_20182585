@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 방법이 있습니다.#@문장구분# 그것은 학교폭력을 하면 징계를 받고 일주일동안 학교에 나오지 않고 집에서 혼자만 공부를 하는 방법입니다.#@문장구분# 왜 그렇게 생각했냐면 옆에 아무도 없이 자기 혼자서 공부하면 어떤 기분이 들지 생각하라고 하고싶기 때문이다.#@문장구분# 두번째는 반을 바꾸는 방법입니다.#@문장구분# 왜냐하면 학폭가해자와 피해자가 한 반에서 지내기 불편할수있기 때문입니다.#@문장구분# 세번째는 일주일동안 쉬는 시간, 점심시간 없이 공부만 하기입니다.#@문장구분# 왜냐하면 잘못을 했으면 벌을 받아야하기 때문입니다 #@문장구분#네번째는 학교 폭력을 하면 원래 있는 규칙보다 더 안좋게 퇴학과 유기정학, 강제 전학, 학교폭력 위원회열기, 똑같이 당하기입니다.#@문장구분# 왜냐하면 자신도 똑같이 당해봐야 학교폭력을 하기 않을것이기 때문이다.#@문장구분# 퇴학, 유기정학, 강제전학, 학교폭력 위원회는 원래 있는 것이다. #@문장구분#그리고 마지막 다섯번째는 학부모들의 상담입니다#@문장구분# 가해자의 학부모와 피해자의 학부모가 만나 토론과 상담을 하여 서로 나쁜 감정을 만들지 않게 하기 입니다. #@문장구분#왜냐하면 나쁜 감정이 생기면 위험한 행동하면 안돼기 때문입니다.",
+      "paragraph_len": 772,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.02222,
+      22.966667,
+      22.52222
+    ],
+    "essay_scoreT_avg": 22.17037,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그것은 학교폭력을 하면 징계를 받고 일주일 동안 학교에 나오지 않고 집에서 혼자만 공부를 하는 방법입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그것은 학교폭력을 하면 징계를 받고 <문법_맞춤법>일주일동안 </문법_맞춤법>학교에 나오지 않고 집에서 혼자만 공부를 하는 방법입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜 그렇게 생각했냐면 옆에 아무도 없이 자기 혼자서 공부하면 어떤 기분이 들지 생각하라고 하고 싶기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜 그렇게 생각했냐면 옆에 아무도 없이 자기 혼자서 공부하면 어떤 기분이 들지 생각하라고 <문법_맞춤법>하고싶기</문법_맞춤법> 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째는 반을 바꾸는 방법입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째는 </문법_맞춤법>반을 바꾸는 방법입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 학폭 가해자와 피해자가 한 반에서 지내기 불편할 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>학폭가해자와 </문법_맞춤법>피해자가 한 반에서 지내기 불편할수있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째는 일주일 동안 쉬는 시간, 점심시간 없이 공부만 하기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째는 </문법_맞춤법>일주일동안 쉬는 시간, 점심시간 없이 공부만 하기입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 잘못을 했으면 벌을 받아야 하기 때문입니다 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 잘못을 했으면 벌을 <문법_맞춤법>받아야하기 </문법_맞춤법>때문입니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "네 번째는 학교 폭력을 하면 원래 있는 규칙보다 더 안 좋게 퇴학과 유기정학, 강제 전학, 학교폭력 위원회 열기, 똑같이 당하기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>네번째는 </문법_맞춤법>학교 폭력을 하면 원래 있는 규칙보다 더 안좋게 퇴학과 유기정학, 강제 전학, 학교폭력 위원회열기, 똑같이 당하기입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 자신도 똑같이 당해봐야 학교폭력을 하기 않을 것이기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 자신도 똑같이 당해봐야 학교폭력을 하기 <문법_맞춤법>않을것이기 </문법_맞춤법>때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 마지막 다섯 번째는 학부모들의 상담입니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 마지막 <문법_맞춤법>다섯번째는 </문법_맞춤법>학부모들의 상담입니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가해자의 학부모와 피해자의 학부모가 만나 토론과 상담을 하여 서로 나쁜 감정을 만들지 않게 하기입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가해자의 학부모와 피해자의 학부모가 만나 토론과 상담을 하여 서로 나쁜 감정을 만들지 않게 <문법_맞춤법>하기 입니</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 나쁜 감정이 생겨 위험한 행동하면 안 되기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 나쁜 감정이 생기면 위험한 행동하면 <문법_맞춤법>안돼기</문법_맞춤법> 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64693",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 532,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

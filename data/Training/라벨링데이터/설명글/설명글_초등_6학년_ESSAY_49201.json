@@ -1,0 +1,315 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 본 받고 싶은 위인은 한글을만드신 세종대왕님 이시다. #@문장구분#그 이유는 세종대왕은 백서들을 위해 하루하루 밤을 새 가며 희생하시면서 끈기있게 노력하여 한글을 만드신분이기 때문이다. #@문장구분#정말 한글은 우리에게선 없어서는 안될 우리나라의 자랑스러운 언어이다.#@문장구분# 이런 한글을 밤을 계속 새가면서  만듯서 눈 시력도 굉장히 나빠지셨다.#@문장구분# 나는 이렇게 세종대왕님 처럼 남을 위해 희생할 줄 알고 노력할줄 아는 사람이 되고싶다. #@문장구분#그리고 세종대왕님은정말로 대단하시다. #@문장구분#어떻게 그럼 언어를 생각해 내실 수 있는지 정말 신기하고 대단했다.#@문장구분# 나라면 그냥 중간에 너무 힘들다고 포기해버릴 것 이다. #@문장구분#끈기 있게 노력하여 목표를 이루어낸건 정말 대단한일이다. #@문장구분#나는 매일  힘들면 그냥 포기해 버리고 만다.#@문장구분# 그래서 앞으로는 포기하지 않고 끈기있게노력하며 남을 위해 희생할 줄 아는 사람이 되려고 한다.#@문장구분#",
+      "paragraph_len": 648,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      23.9,
+      21.75
+    ],
+    "essay_scoreT_avg": 24.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 본 받고 싶은 위인은 한글을 만드신 세종대왕님이시다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 본 받고 싶은 위인은 <문법_맞춤법>한글을만드신</문법_맞춤법> 세종대왕님 이시다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 이유는 세종대왕은 백성들을 위해 하루하루 밤을 새워 가며 희생하시면서 끈기 있게 노력하여 한글을 만드신 분이기 때문이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "그 이유는 세종대왕은 백서들을 위해 하루하루 <문법_맞춤법><문법_조사>밤을 새</문법_조사></문법_맞춤법> 가며 희생하시면서 끈기있게 노력하여 한글을 만드신분이기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "정말 한글은 우리에게선 없어서는 안 될 우리나라의 자랑스러운 언어이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "정말 한글은 우리에게선 <문법_맞춤법>없어서는 안될</문법_맞춤법> 우리나라의 자랑스러운 언어이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 한글을 밤을 계속 새 가면서  만드셔서 눈 시력도 굉장히 나빠지셨다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이런 한글을 밤을 계속 <문법_맞춤법>새가면서  만듯서</문법_맞춤법> 눈 시력도 굉장히 나빠지셨다.",
+      "sentence_corr_txt_styling": " 이런 한글을 밤을 계속 새 가면서  만드셔서 눈 시력도 굉장히 나빠지셨다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 이렇게 세종대왕님처럼 남을 위해 희생할 줄 알고 노력할 줄 아는 사람이 되고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 이렇게 <문법_맞춤법>세종대왕님 처럼 </문법_맞춤법>남을 위해 희생할 줄 알고 노력할줄 아는 사람이 되고싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 세종대왕님은 정말로 대단하시다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>세종대왕님은정말로</문법_맞춤법> 대단하시다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어떻게 그런 언어를 생각해 내실 수 있는지 정말 신기하고 대단했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어떻게 <문법_맞춤법>그럼</문법_맞춤법> 언어를 생각해 내실 수 있는지 정말 신기하고 대단했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나라면 그냥 중간에 너무 힘들다고 포기해버릴 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나라면 그냥 중간에 너무 힘들다고 포기해버릴 <문법_맞춤법>것 이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "끈기 있게 노력하여 목표를 이루어낸 건 정말 대단한 일이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "끈기 있게 노력하여 목표를 <문법_맞춤법>이루어낸건</문법_맞춤법> 정말 대단한일이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 앞으로는 포기하지 않고 끈기 있게 노력하며  남을 위해 희생할 줄 아는 사람이 되려고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 앞으로는 포기하지 않고 <문법_맞춤법>끈기있게노력하며</문법_맞춤법> 남을 위해 희생할 줄 아는 사람이 되려고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_49201",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 429,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

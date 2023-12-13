@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 학교에서 배우는 과목에서 가장좋아하는 것은 바로 사회 입니다.#@문장구분# 이유는 사회를 알면 나라의 기본적인 규칙을 알수 있고 그냥 개인적으로 말하면 사회만 알면 이런 세상에서 살수 있을 것 같아서 좋아하고 열심히 배우는 것이다.#@문장구분#\n그리고 구체적인 사례로는 사회에서 법에 관련된 것을 배우는 것이 좋고 또사회에 대한 영상을 보거나 퀴즈를 풀는 것도 좋아한다. #@문장구분#나만 좋아하는데 학습지를 풀는 것을 좋아하는데 이렇게학습지를 좋아하는 친구는 처음 이라고선생님께서 말하셨다. #@문장구분#집에서는 사회에관련되는 유튜브 동영상을 보고 아빠와사회에 대해서 대화를 한다.#@문장구분# 나는 앞으로 사회를 더 많이 좋아하고 공부해서 사람들에게 기억이 남을 사회학자가되겠다.",
+      "paragraph_len": 450,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5714285,
+          2.4285715,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.285713,
+      26.580952,
+      23.6
+    ],
+    "essay_scoreT_avg": 24.822222,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "가장 좋아하는 과목",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 학교에서 배우는 과목에서 가장 좋아하는 것은 바로 사회입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 학교에서 배우는 과목에서 <문법_맞춤법>가장좋아하는</문법_맞춤법> 것은 바로 사회 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 사회를 알면 나라의 기본적인 규칙을 알 수 있고 그냥 개인적으로 말하면 사회만 알면 이런 세상에서 살 수 있을 것 같아서 좋아하고 열심히 배우는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이유는 사회를 알면 나라의 기본적인 규칙을 <문법_맞춤법>알수</문법_맞춤법> 있고 그냥 개인적으로 말하면 사회만 알면 이런 세상에서 살수 있을 것 같아서 좋아하고 열심히 배우는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그리고 구체적인 사례로는 사회에서 법에 관련된 것을 배우는 것이 좋고 또 사회에 대한 영상을 보거나 퀴즈를 푸는 것도 좋아한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n그리고 구체적인 사례로는 사회에서 법에 관련된 것을 배우는 것이 좋고 <문법_맞춤법>또사회에</문법_맞춤법> 대한 영상을 보거나 퀴즈를 풀는 것도 좋아한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나만 좋아하는데 학습지를 푸는 것을 좋아하는데 이렇게 학습지를 좋아하는 친구는 처음이라고 선생님께서 말하셨다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나만 좋아하는데 학습지를 <문법_맞춤법>풀는</문법_맞춤법> 것을 좋아하는데 이렇게학습지를 좋아하는 친구는 처음 이라고선생님께서 말하셨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "집에서는 사회에 관련되는 유튜브 동영상을 보고 아빠와 사회에 대해서 대화를 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "집에서는 <문법_맞춤법>사회에관련되는</문법_맞춤법> 유튜브 동영상을 보고 아빠와사회에 대해서 대화를 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 앞으로 사회를 더 많이 좋아하고 공부해서 사람들에게 기억에 남을 사회학자가되겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 나는 앞으로 사회를 더 많이 좋아하고 공부해서 사람들에게 <문법_조사>기억이</문법_조사> 남을 사회학자가되겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_48047",
+    "essay_prompt": " 학교에서 많은 과목을 배우고 있습니다. 수학, 과학, 체육, 미술, 음악 정말 과목이 다양하죠! \n\n 하지만 다들 성격이 다르고 좋아하는 것도 달라서 제일 잘하고 재밌는 과목 또한 서로 다를 것으로 생각합니다.\n\n 여러분은 어떤 과목이 제일 재미있나요? 가장 좋아하는 과목과 그 이유를 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 351,
+    "essay_main_subject": "가장 좋아하는 과목"
+  }
+}

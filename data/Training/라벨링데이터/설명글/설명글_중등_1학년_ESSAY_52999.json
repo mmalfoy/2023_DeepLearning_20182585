@@ -1,0 +1,254 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "먼저 참된 스승이란 나를 올바른길을   가도록 이끌어주는 스승이 참된 스승이라 생각한다.#@문장구분# 그리고 스승과 제자가 서로 존중하며 같이 성장해 나가는 것이야말로 진정한 스승과 제자의 관계라고 생각한다.#@문장구분# 그리고 참된 스승이 되기 위한 요소는 첫번째 스승은 제자의 본보기가 될만한 행동을 하고 항상 제자의 의견을 존중해준다.#@문장구분# 두번째 스승은 제자를 이용하려만 하지 않고 서로 성장한다. 등이 있는 것같다.#@문장구분# 참된 스승을 한 줄로 요약하자면 존중하고 성장하고 의견을 받아드릴줄 아는 스승 이것이 내가 생각하는 참된 스승이다.#@문장구분# 다행이도 내 주위에는 참된 스승이 정말 많은 것 같다.#@문장구분# 그리고 참된 스승이 정말 많은 것 같다.#@문장구분# 그리고 참된 스승이 나이를 떠나서 나에게 가르침을 주는 친구, 동생도 나에게는 참된 스승이 될 수 있다고 생각한다.#@문장구분# 그리고 서로 성장하려면 배려하고 항상 고마워하는 마음이 필요할 것 같다.#@문장구분# 비록 어려운 문제를 내주실 때도 있지만 항상 나에게 도움을 주는 그게 참된 스승이 아닐까?#@문장구분#",
+      "paragraph_len": 696,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.5,
+      25.35,
+      22.3
+    ],
+    "essay_scoreT_avg": 24.049997,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "먼저 참된 스승이란 나를 올바른 길로   가도록 이끌어주는 스승이 참된 스승이라 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "먼저 참된 스승이란 나를 <문법_맞춤법><문법_조사>올바른길을 </문법_조사></문법_맞춤법>  가도록 이끌어주는 스승이 참된 스승이라 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 참된 스승이 되기 위한 요소는 첫 번째, 스승은 제자의 본보기가 될만한 행동을 하고 항상 제자의 의견을 존중해 준다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 참된 스승이 되기 위한 요소는 <문법_맞춤법>첫번째 </문법_맞춤법>스승은 제자의 본보기가 될만한 행동을 하고 항상 제자의 의견을 존중해준다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째, 스승은 제자를 이용하려고만 하지 않고 서로 성장한다 등이 있는 것같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째 </문법_맞춤법>스승은 제자를 <문법_어미>이용하려만 </문법_어미>하지 않고 서로 성장한다. 등이 있는 것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 참된 스승을 한 줄로 요약하자면 존중하고 성장하고 의견을 받아들일 줄 아는 스승, 이것이 내가 생각하는 참된 스승이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 참된 스승을 한 줄로 요약하자면 존중하고 성장하고 의견을 <문법_맞춤법>받아드릴줄 </문법_맞춤법>아는 스승 이것이 내가 생각하는 참된 스승이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다행히도 내 주위에는 참된 스승이 정말 많은 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다행이도 </문법_맞춤법>내 주위에는 참된 스승이 정말 많은 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 참된 스승이 나이를 떠나서 나에게 가르침을 주는 친구, 동생도 나에게는 참된 스승이 될 수 있다고 생각한다.",
+      "sentence_corr_txt_styling": " 그리고 참된 스승이 나이를 떠나서 나에게 가르침을 주는 친구, 동생도 나에게는 참된 스승이 될 수 있다고 생각한다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52999",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 497,
+    "essay_main_subject": "참된 스승"
+  }
+}

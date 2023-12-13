@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 찬성 합니다.#@문장구분# 왜냐하면 돈이 없어 학교를 다니지 못하는 학생이 있을 수도 있습니다.#@문장구분# 그렇게 되면 교육을 못 받아 공부를 못하는 학생이 있을수도 있습니다.#@문장구분# 돈 많은 학생만 학교를 다니는 것은 전혀 평등하지 않습니다.#@문장구분# 초등학교 교육은 의무이지만 돈 문제때문에 학교를 다니지 못하는 학생들도 많습니다.#@문장구분# 흙수저라고 무시하거나 교육을 못 받을 권리는 없습니다.#@문장구분# 모두 평등하게 교육을 받고 성공해서 흙수저가 금수저가 되게 할수도 있습니다.#@문장구분# 흙수저도 성공할수 있습니다.#@문장구분# 그리고 인성교육도 중요합니다.#@문장구분# 흙수저라고 이런 권리를 못 받을 수는 없습니다.#@문장구분# 많은 비용이 들긴 하겠지만 중요한 교육을 모두 편견없이 평등하게 받을 권리가 있기에 평등한 사회는 모두가 평등하게 대우를 받아야 평등사회가 만들어 질수있습니다.#@문장구분# 금수저라고 좋은대우를 받는것이 아닌 흙수저나 금수저나 같이 평등하게 교육을 받아야하기 때문에 공교육, 사교육을 돈이 많이들지라도 지원을 해줘야 합니다.#@문장구분#",
+      "paragraph_len": 717,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      22.52222,
+      19.7
+    ],
+    "essay_scoreT_avg": 23.574074,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 찬성합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>찬성 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 되면 교육을 못 받아 공부를 못하는 학생이 있을 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 되면 교육을 못 받아 공부를 못하는 학생이 <문법_맞춤법>있을수도</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 초등학교 교육은 의무이지만 돈 문제 때문에 학교를 다니지 못하는 학생들도 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 초등학교 교육은 의무이지만 돈 <문법_맞춤법>문제때문에</문법_맞춤법> 학교를 다니지 못하는 학생들도 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모두 평등하게 교육을 받고 성공해서 흙수저가 금수저가 되게 할 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모두 평등하게 교육을 받고 성공해서 흙수저가 금수저가 되게 <문법_맞춤법>할수도</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 흙수저도 성공할 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 흙수저도 <문법_맞춤법>성공할수 </문법_맞춤법>있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 많은 비용이 들긴 하겠지만 중요한 교육을 모두 편견 없이 평등하게 받을 권리가 있기에 평등한 사회는 모두가 평등하게 대우를 받아야 평등사회가 만들어질 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 많은 비용이 들긴 하겠지만 중요한 교육을 모두 <문법_맞춤법>편견없이 평등하게 받을 권리가 있기에 평등한 사회는 모두가 평등하게 대우를 받아야 평등사회가 만들어 질수있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 금수저라고 좋은 대우를 받는 것이 아닌 흙수저나 금수저나 같이 평등하게 교육을 받아야 하기 때문에 공교육, 사교육을 돈이 많이 들지라도 지원을 해줘야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 금수저라고 <문법_맞춤법>좋은대우를 받는것이 아닌 흙수저나 금수저나 같이 평등하게 교육을 받아야하기 때문에 공교육, 사교육을 돈이 많이들지라도</문법_맞춤법> 지원을 해줘야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44210",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 478,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

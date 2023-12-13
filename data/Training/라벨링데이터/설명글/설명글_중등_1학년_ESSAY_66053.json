@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "누구나 습관을 들이긴 쉽지 않을 것이다.#@문장구분# 더군다나 좋은 습관을 들여, 실천하는 일은 끈기있게 행동해야 가능한 일이다.#@문장구분# 나쁜 습관도 마찬가지이다.#@문장구분# 이미 익숙해진 나쁜 습관을 고치려면, 끈기있게 고치려는 노력을 들여야 한다.#@문장구분# 나도 좋은 습관을 들이려는 노력을 해 본적 있다.#@문장구분# 예를들어, 꾸준히 숙제를 미루지 않기 위해 스터디 플래너를 작성해 본적이 있다.#@문장구분# 그 습관을 들이기 위해, 매일 숙제하기 전에 플래너를 작성하여 꾸준히 숙제를 하려고 했다.#@문장구분# 이처럼, 어떤 행동 앞 혹은 뒤에 습관을 들이고자 하는 행동을 실천하면 좋다.#@문장구분# 약을 먹을때도 이와 같은 원리로, 식후 또는 식전 30분에 먹는 것이다.#@문장구분# 아니면 들이고 싶은 습관을 실천했을때는 동그라미 표시를, 안했을땐 X 표시를 하며 지키키 위한 노력을 들이는 것도 좋다.#@문장구분#",
+      "paragraph_len": 600,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.9,
+      23.7,
+      26
+    ],
+    "essay_scoreT_avg": 25.533333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 더군다나 좋은 습관을 들여, 실천하는 일은 끈기 있게 행동해야 가능한 일이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 더군다나 좋은 습관을 들여, 실천하는 일은 <문법_맞춤법>끈기있게</문법_맞춤법> 행동해야 가능한 일이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이미 익숙해진 나쁜 습관을 고치려면, 끈기 있게 고치려는 노력을 들여야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이미 익숙해진 나쁜 습관을 고치려면,<문법_맞춤법> 끈기있게</문법_맞춤법> 고치려는 노력을 들여야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 좋은 습관을 들이려는 노력을 해 본 적 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 좋은 습관을 들이려는 노력을 해 <문법_맞춤법>본적 </문법_맞춤법>있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어, 꾸준히 숙제를 미루지 않기 위해 스터디 플래너를 작성해 본 적이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>예를들어, </문법_맞춤법>꾸준히 숙제를 미루지 않기 위해 스터디 플래너를 작성해 본적이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 약을 먹을 때도 이와 같은 원리로, 식후 또는 식전 30분에 먹는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 약을 <문법_맞춤법>먹을때도 </문법_맞춤법>이와 같은 원리로, 식후 또는 식전 30분에 먹는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아니면 들이고 싶은 습관을 실천했을 때는 동그라미 표시를, 안 했을 땐 X 표시를 하며 지키기 위한 노력을 들이는 것도 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아니면 들이고 싶은 습관을 <문법_맞춤법>실천했을때는</문법_맞춤법> 동그라미 표시를, 안했을땐 X 표시를 하며 지키키 위한 노력을 들이는 것도 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66053",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 401,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

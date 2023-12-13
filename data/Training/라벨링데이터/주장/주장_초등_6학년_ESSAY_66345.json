@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학생과 학부모의 처벌을 강화해야합니다. #@문장구분#간혹가다가 학부모의 영향으로 학교 폭력을 일으키는 학생들이 있습니다. #@문장구분#또 학생들이 자발적으로 학교폭력을 일으 키는 경우도 있기때문입니다. #@문장구분#따라서 상황을 보고 학부모때문에 학생이 학교폭력을 일으켰으면 학부모를 처벌하고, 학생이 자발적으로 학교폭력을 일으킨 경우는 학생을 처벌해야합니다. #@문장구분#그러므로 학생과 학부모의 처벌을 강화해야합니다. #@문장구분#사이버 폭력은 피해자의 증거물과 피해자의 진술로 가해자가 얼마나 괴롭혔는지, 얼마나 피해자에게 정신적피해를 줬는지에 따라 처벌을 강화 해야 합니다. #@문장구분#또 언어 폭력은 녹음을 하여 녹음본을 가지고 이것이 얼마나 피해자에게 정신적피해를 줬는지 아니면 피해자도 여기에 반격 하여 가해자에게 씻을 수없는 상처를 남겼는지에 따라 둘다에게 처벌을 내리거나 한쪽에게 강력한 처벌을 내려야 합니다.",
+      "paragraph_len": 541,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23,
+      23.577778,
+      18.811111
+    ],
+    "essay_scoreT_avg": 21.796295,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "또 학생들이 자발적으로 학교폭력을 일으 키는 경우도 있기때문입니다. ",
+      "sentence_corr_txt_styling": "또 학생들이 자발적으로 학교폭력을 일으 키는 경우도 있기때문입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "따라서 상황을 보고 학부모 때문에 학생이 학교폭력을 일으켰으면 학부모를 처벌하고, 학생이 자발적으로 학교폭력을 일으킨 경우는 학생을 처벌해야합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "따라서 상황을 보고 <문법_맞춤법>학부모때문에</문법_맞춤법> 학생이 학교폭력을 일으켰으면 학부모를 처벌하고, 학생이 자발적으로 학교폭력을 일으킨 경우는 학생을 처벌해야합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사이버 폭력은 피해자의 증거물과 피해자의 진술로 가해자가 얼마나 괴롭혔는지, 얼마나 피해자에게 정신적 피해를 줬는지에 따라 처벌을 강화해야 합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사이버 폭력은 피해자의 증거물과 피해자의 진술로 가해자가 얼마나 괴롭혔는지, 얼마나 피해자에게 <문법_맞춤법>정신적피해를</문법_맞춤법> 줬는지에 따라 처벌을 강화 해야 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 언어 폭력은 녹음을 하여 녹음본을 가지고 이것이 얼마나 피해자에게 정신적 피해를 줬는지 아니면 피해자도 여기에 반격하여 가해자에게 씻을 수 없는 상처를 남겼는지에 따라 둘 다에게 처벌을 내리거나 한쪽에게 강력한 처벌을 내려야 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 언어 폭력은 녹음을 하여 녹음본을 가지고 이것이 얼마나 피해자에게 <문법_맞춤법>정신적피해</문법_맞춤법>를 줬는지 아니면 피해자도 여기에 반격 하여 가해자에게 씻을 수없는 상처를 남겼는지에 따라 둘다에게 처벌을 내리거나 한쪽에게 강력한 처벌을 내려야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66345",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 421,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

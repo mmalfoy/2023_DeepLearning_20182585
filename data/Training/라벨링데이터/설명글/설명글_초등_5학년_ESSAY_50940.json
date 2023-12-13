@@ -1,0 +1,357 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는지금 운동은농구을하고 샤워랑 세수을하면서 위생을한다.#@문장구분# 하지만나는 양치을하루에 2번을 한다.#@문장구분# 3번은 해야 하는데말이다.#@문장구분# 그래서 내계획은 하루에 양치3번 손씻기 는 6번사이에서 7번 샤워는 하루에 한번씩 세수는 아침 점심 저녁으로 3번 운동은 일주일에 두번을 하는게 앞으로의 내 위생 방법이다.#@문장구분# 왜내가 이렇게 위생에 계획을 짯냐면 깨끗하게 내몸을 하지않으면 병에걸리수 있고 또 내가 봐도 더럽다. #@문장구분#그래서 나는계획을 짠 거다. #@문장구분#내위생이있다면 샤워을 할때 머리을 빡박 곳곳에 비누을 묻혀서 내몸에다가 다내고 샤워을하고 물로 시원하게 씻을거다.#@문장구분# 또세수을 할때 손에비누을 짜서 얼굴에 바르고 물로 시원하게 씻은 다음 양치을 한다.#@문장구분# 내가 양치을 할때 위 아래 밑에 잇몸 위에 잇몸 을칫 솔로 딲고 혓 바닥을 딲고 물을 입에 머금고 오로로 퉤퉤 을하면은 내 위생이 된다.#@문장구분# 그리 고 건 강 하려면 운동도 해야 해서 내가 농구을 한다.#@문장구분# 농구을 하면 좋은점은 내 몸이 건강 해지고 또키 도 커 지기 때문에 내가 좋아 하는 운동은 농구다.#@문장구분# 그렇게 하루가 내위생 방법이다.#@문장구분#\n내가 이렇게 위생을 하니 지금 더럽지 않고 세균이 내몸에함 부로 침투할수 없다.#@문장구분# 그래서 난이위생 법을 계속 기억 할거고 위생 은 하루에 손씻기 7법 세수3번 양치3번 샤워을 한번 해야지 내몸을 깨끗 하게 내몸을 유지할수있다.",
+      "paragraph_len": 919,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8095239,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.447618,
+      22.733334,
+      14.733334
+    ],
+    "essay_scoreT_avg": 20.638096,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는  지금 운동은 농구를 하고 샤워랑 세수를 하면서 위생을 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>나는지금 운동은농구을하고 샤워랑 세수을하면서 위생을한</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3번은 해야 하는데 말이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 3번은 해야 <문법_맞춤법>하는데말이</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 내 계획은 하루에 양치 3번 손 씻기는 6번 사이에서 7번 샤워는 하루에 한 번씩 세수는 아침 점심 저녁으로 3번 운동은 일주일에 두 번을 하는 게 앞으로의 내 위생 방법이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>내계획은 하루에 양치3번 손씻기 는 6번사이에서 7번 샤워는 하루에 한번씩 세수는 아침 점심 저녁으로 3번 운동은 일주일에 두번을 하는게 앞으로의 내 위생 방법</문법_맞춤법>이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜 내가 이렇게 위생에 계획을 짯냐면 깨끗하게 내 몸을 하지 않으면  병에 걸리 수 있고 또 내가 봐도 더럽다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>왜내가 이렇게 위생에 계획을 짯냐면 깨끗하게 내몸을 하지않으면 병에걸리수 있고</문법_맞춤법> 또 내가 봐도 더럽다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 나는 계획을 짠 거다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 <문법_맞춤법>나는계획을</문법_맞춤법> 짠 거다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내 위생이 있다면 샤워를 할 때 머리를 빡빡 곳곳에 비누를 묻혀서 내 몸에다가 다 내고  샤워를 하고 물로 시원하게 씻을 거다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>내위생이있다면 샤워을 할때 머리을 빡박 곳곳에 비누을 묻혀서 내몸에다가 다내고 샤워을하고 물로 시원하게 씻을거</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 세수을 할 때 손에 비누를 짜서 얼굴에 바르고 물로 시원하게 씻은 다음 양치를 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>또세수을 할때 손에비누을 짜서 얼굴에 바르고 물로 시원하게 씻은 다음 양치을</문법_맞춤법> 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 양치를 할 때 위아래 밑에 잇몸 위에 잇몸 을 칫솔로 닦고 혓 바닥을 닦고 물을 입에 머금고 오로로 퉤퉤 을 하면은 내 위생이 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 <문법_맞춤법>양치을 할때 위 아래 밑에 잇몸 위에 잇몸 을칫 솔로 딲고 혓 바닥을 딲고 물을 입에 머금고 오로로 퉤퉤 을하면은 내 위생이 </문법_맞춤법>된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리 고 건강 하려면 운동도 해야 해서 내가 농구를 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리 고 <문법_맞춤법>건 강 하려면 운동도 해야 해서 내가 농구을 한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 농구를 하면 좋은 점은 내 몸이 건강 해지고 또 키  도 커지기 때문에 내가 좋아 하는 운동은 농구다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>농구을 하면 좋은점은 내 몸이 건강 해지고 또키 도 커 지기 때문에 내가 좋아 하는 운동은 농</문법_맞춤법>구다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 하루가 내 위생 방법이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 하루가 <문법_맞춤법>내위생</문법_맞춤법> 방법이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n내가 이렇게 위생을 하니 지금 더럽지 않고 세균이 내 몸에 함 부로 침투할 수 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n내가 이렇게 위생을 하니 지금 더럽지 않고 세균이 <문법_맞춤법>내몸에함 부로 침투할수 없</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 난 이 위생법을 계속 기억  할 거고 위생 은 하루에 손 씻기 7번 세수 3번  양치 3번  샤워를 한번  해야지 내 몸을 깨끗하게 내 몸을  유지할 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>난이위생 법을 계속 기억 할거고 위생 은 하루에 손씻기 7법 세수3번 양치3번 샤워을 한번 해야지 내몸을 깨끗 하게 내몸을 유지할수있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_50940",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 659,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "학교폭력을 해도 처벌을하는 법이 너무 약한거 같다.#@문장구분# 다른나라에서는 성인이되지않아도 강한 처벌을내리지만 우리나라는 처벌이 너무 약하다.#@문장구분# 그래서 바늘도둑이소도둑된다는 말이 있듯시 어릴때 학교폭력을 했는데 처벌이 약해 커서 더 큰일을 저지를수 있다. #@문장구분#그렇기때문에 나는 우리나라의 처벌을 청소년이라고 약하게 처벌을 하는것은 조금 바꿔야 할꺼 같다.#@문장구분# 또다른 한가지는  학교폭력 예방 수업을 한달마다 세번씩 했으면 한다.#@문장구분# 어릴때 부터 수업으로 학교폭력은 하면되는것 하면 나쁜것이라고배우면 커서도 하면 안되는 것 이라는걸 알기 때문에 학교폭력은 안할수가 있을거같다#@문장구분# 그래서난 학교폭력 예방 수업은 학교에 수업으로 했으면 좋을거 같다.#@문장구분# 마지막 세번째 방법은 스스로가 지키는 것이다 #@문장구분#친구들과 친하게 지내고 같이 친하게 지내면 싸울일도 없다.#@문장구분# 만약싸우면 서로서로 화해하면서 해결을 하면될꺼같다.#@문장구분# 나는 학교폭력을 예방하는 방법은 친구들과 사이좋게 친하게 지내는 것 인거같다.#@문장구분# 친구들과 싸우지 말고 사람을 때리지말고 사이버폭력도 하지말고 서로서로 이해하며 친하게 지냈으면좋겠다.",
+      "paragraph_len": 754,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      24.177776,
+      20.3
+    ],
+    "essay_scoreT_avg": 23.125925,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "학교폭력을 해도 처벌을 하는 법이 너무 약한 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "학교폭력을 해도 처벌을하는 법이 너무 <문법_맞춤법>약한거</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 나라에서는 성인이 되지 않아도 강한 처벌을 내리지만 우리나라는 처벌이 너무 약하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다른나라에서는 성인이되지않아도 강한 처벌을내리지만</문법_맞춤법> 우리나라는 처벌이 너무 약하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 바늘도둑이 소 도둑 된다는 말이 있듯이 어릴 때 학교폭력을 했는데 처벌이 약해 커서 더 큰일을 저지를 수 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>바늘도둑이소도둑된다는 말이 있듯시 어릴때 학교폭력을 했는데 처벌이 약해 커서 더 큰일을 저지를수</문법_맞춤법> 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇기 때문에 나는 우리나라의 처벌이 청소년이라고 약하게 하는 것은 조금 바꿔야 할 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그렇기때문에 나는 우리나라의 처벌을 청소년이라고 약하게 처벌을 하는것은 조금 바꿔야 할꺼</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 다른 한 가지는  학교폭력 예방 수업을 한 달마다 세 번씩 했으면 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>또다른 한가지는  학교폭력 예방 수업을 한달마다 세번씩</문법_맞춤법> 했으면 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어릴 때부터 수업으로 학교폭력은 하면 안 되는 것 하면 나쁜 것이라고 배우면 커서도 하면 안 되는 것이라는 걸 알기 때문에 학교폭력은 안 할 수가 있을 거 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어릴때 부터 수업으로 학교폭력은 하면되는것 하면 나쁜것이라고배우면 커서도 하면 안되는 것 이라는걸 알기 때문에 학교폭력은 안할수가 있을거</문법_맞춤법>같다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 난 학교폭력 예방 수업은 학교에 수업으로 했으면 좋을 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그래서난 학교폭력 예방 수업은 학교에 수업으로 했으면 좋을거</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막 세 번째 방법은 스스로가 지키는 것이다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마지막 <문법_맞춤법>세번째 </문법_맞춤법>방법은 스스로가 지키는 것이다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구들과 친하게 지내고 같이 친하게 지내면 싸울 일도 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구들과 친하게 지내고 같이 친하게 지내면 <문법_맞춤법>싸울일도</문법_맞춤법> 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 싸우면 서로서로 화해하면서 해결을 하면 될 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>만약싸우면 서로서로 화해하면서 해결을 하면될꺼</문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 학교폭력을 예방하는 방법은 친구들과 사이좋게 친하게 지내는 것인 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 학교폭력을 예방하는 방법은 친구들과 사이좋게 친하게 지내는 <문법_맞춤법>것 인거</문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들과 싸우지 말고 사람을 때리지 말고 사이버 폭력도 하지 말고 서로서로 이해하며 친하게  지냈으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구들과 싸우지 말고 사람을 <문법_맞춤법>때리지말고 사이버폭력도 하지말고 서로서로 이해하며 친하게 지냈으면좋겠</문법_맞춤법>다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64698",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 537,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

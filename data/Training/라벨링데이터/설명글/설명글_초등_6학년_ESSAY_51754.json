@@ -1,0 +1,421 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저가 미술을 좋아합니다.#@문장구분# 그이유는 저가 미술을 왜? 좋아하면 옜날에는 그림을 못 그리는돼 점점1,2,3학년이 돼자 그림이 발단 하기 시작돼고 있습니다.#@문장구분# 1학년돼는 그림이 이상하게 그린저는 3학년때좀 그림이 잘 그려지기 생각이 들어습니다.#@문장구분# 3학년때 미술시간에 그림 그린 시간이여서요.#@문장구분# 선생님이 저한돼 그린 잘 그린다고 칭찬을해저서요.#@문장구분# 그리고 친구들도 저 그림을 보고 칭찬을 해서요.#@문장구분# 그리고 친구들도 저 그림을 보고 칭찬을 해서요.#@문장구분# B친구가 \"너 그림 못그린다.\" 라고 해서 저 송상해서요.#@문장구분# 그돼 선생님이 와서 B가 선생님한돼 \"선생님 A가 저 그림 못 그린다고 놀렸요.\" 라고 했는돼 선생님이 저를 많이 혼네 서요.#@문장구분# B가 저 그림을 보고 못 그련네 라고 했는돼 저한돼 거징말을 해서요.#@문장구분# B는 선생님가고 저한돼 이런말을 해서요.#@문장구분# \"야 너 선생님한돼 말하기만 해반 너희 어머니한돼 일리다\" 라고 말 하고 가서요.#@문장구분# 그래서 저는 무수 용기지 선생님한돼 말을 해서요.#@문장구분# \"선생님B이가 저 그림보고\" 헐 너 뭐임? 그림 거나 못 그런네\" 라고 저한돼 말해서요.#@문장구분# 그리고 B가 이말 선생님께 말하면 엄마하돼 일이다고 해서요.#@문장구분# \"어머정말 이는? 선생님이 B 어머니꺼 말씀을 들을꺼 역시야 선생님이 미안해 B말만 듣고 미안해\" 선생님이 말했다.#@문장구분# 선생님이 B어머니게 전화를 했다.#@문장구분# \"안녕하세요 B어머니 그 B가 A이한돼 혁박을 받아서요. B이가 A그림을 보고 거나 못 그린네 라면서 B이가 A를 과룹이고있서요. A이 어머니 끼서 경찰에 신고 한다고해는돼 그 A어머니랑 산당을 받을 쓰는거 어돼요",
+      "paragraph_len": 1107,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      11.9,
+      11.9,
+      14
+    ],
+    "essay_scoreT_avg": 12.599999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 미술을 좋아합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>저가 </문법_맞춤법>미술을 좋아합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 제가 미술을 왜? 좋아하면 옛날에는 그림을 못 그렸는데 점점1, 2, 3학년이 되자 그림이 발전하기 시작했습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는 </문법_맞춤법>저가 미술을 왜? 좋아하면 옜날에는 그림을 못 그리는돼 점점1,2,3학년이 돼자 그림이 발단 하기 시작돼고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1학년 때 그림을 이상하게 그린 저는 3학년 때는 좀  그림이 잘 그려지고 있다고 생각이 들어습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>1학년돼는 그림이 이상하게 그린저는 3학년때좀 그림이 잘 그려지기</문법_맞춤법> 생각이 들어습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3학년 미술시간에 그림 그린 시간에서요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>3학년때 미술시간에 그림 그린 시간이여서요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님이 저한테 그림 잘 그린다고 칭찬을 해서요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선생님이 <문법_맞춤법>저한돼 그린 잘 그린다고 칭찬을해저서요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구들도 제 그림을 보고 칭찬을 해서요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 친구들도 <문법_맞춤법>저 </문법_맞춤법>그림을 보고 칭찬을 해서요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "문장 반복"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 친구들도 저 그림을 보고 칭찬을 해서요.",
+      "sentence_corr_txt_styling": " 그리고 친구들도 저 그림을 보고 칭찬을 해서요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " B 친구가 \"너 그림 못 그린다.\"라고 해서 저는 속상했어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " B<문법_맞춤법>친구가 </문법_맞춤법>\"너 그림 못그린다.\" 라고 해서 저 송상해서요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때 선생님이 와서 B가 선생님한테 \"선생님 A가 저 그림 못 그린다고 놀렸요.\"라고 했는데 선생님이 저를 많이 혼냈어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그돼 선생님이 와서 B가 선생님한돼 \"선생님 A가 저 그림 못 그린다고 놀렸요.\" 라고 했는돼 선생님이 저를 많이 혼네 서요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " B가 제 그림을 보고 못 그렸네라고 했는데 저한테 거짓말을 했어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " B가 저 그림을 보고 못 <문법_맞춤법>그련네 라고 했는돼 저한돼 거징말을 해서요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " B는 선생님이 가시고 저한테 이런 말을 했어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " B는 <문법_맞춤법>선생님가고 저한돼 이런말을 해서요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"야 너 선생님한테 말하기만 해봐 너희 어머니한테 이른다\"라고 말 하고 갔어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"야 <문법_맞춤법>너 선생님한돼 말하기만 해반 너희 어머니한돼 일리다\" 라고 말 하고 가서요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 무슨 용기인지 선생님한테 말을 했어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 <문법_맞춤법>무수 용기지 선생님한돼 말을 해서요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"선생님 B가 제 그림보고\"헐 너 뭐임? 그림 겁나 못 그렸네\"라고 저한테 말했어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"<문법_맞춤법>선생님B이가 저 그림보고\" 헐 너 뭐임? 그림 거나 못 그런네\" 라고 저한돼 말해서요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 B가 이말 선생님께 말하면 엄마한테 이른다고 했어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 B가 이말 선생님께 말하면 <문법_맞춤법>엄마하돼 일이다고 해서요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"어머 정말 이는? 선생님이 B 어머니꺼 말씀을 들을꺼 역시야 선생님이 미안해 B말만 듣고 미안해\" 선생님이 말했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"<문법_맞춤법>어머정말 이는? 선생님이 B 어머니꺼 말씀을 들을꺼 역시야 선생님이 미안해 B말만 듣고 미안해\"</문법_맞춤법> 선생님이 말했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"안녕하세요 B어머니 그 B가 A이한테 협박을 했어요. B가 A그림을 보고 겁나 못 그렸네라면서 B이가 A를 괴롭히고 있어요. A이 어머니께서 경찰에 신고 한다고 했는데 그 A어머니랑 상담을 받으시는 게 어떠세요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"<문법_맞춤법>안녕하세요 B어머니 그 B가 A이한돼 혁박을 받아서요. B이가 A그림을 보고 거나 못 그린네 라면서 B이가 A를 과룹이고있서요. A이 어머니 끼서 경찰에 신고 한다고해는돼 그 A어머니랑 산당을 받을 쓰는거 어돼요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_51754",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 768,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

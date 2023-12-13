@@ -1,0 +1,286 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 유관순을 존경한다.#@문장구분# 유관순이라는 이름을 들으면 가장먼저 생각나는것이 만세운동이다.#@문장구분# 그리고 나는 가족과 유관순에 대한 영화를 본적이 있다.#@문장구분# 그중에 가장 기억에 남는 대사는 '우린 청개구리가 아니다'와 '대한독립만세'이다.#@문장구분# 유관순은 정말 대단한것 같다.#@문장구분# 그당시에 여러 사람들이 목숨을 걸고 만세운동을 했고, 우리나라를 위해 열심히 노력하고, 희생하셨기 때문에 지금 우리나라가 있는 것 같다.#@문장구분#  나는 유관순의 열정과, 끈기, 노력을   본받고 싶다.#@문장구분# 나는 유관순이 열정,   끈기, 노력을 한 것 처럼 나도 앞으로 모든 일에 열정과, 끈기, 그리고 노력을 해서 어떤 일이든 다 하고, 두려워하고, 무서워하지 않은 것 이다.#@문장구분# 만약 내가 그당시 유관순이었더라면 유관순 처럼은 아니겠지만 나도 만세운동을 했을 것 이다.#@문장구분# 나도 정말   유관순처럼 모든 일에 끝까지 최선을 다 할 것 이다.#@문장구분#",
+      "paragraph_len": 637,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.95,
+      21.25,
+      21.6
+    ],
+    "essay_scoreT_avg": 22.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "존경하는 위인에 대한 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 유관순이라는 이름을 들으면 가장 먼저 생각나는 것이 만세운동이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 유관순이라는 이름을 들으면 <문법_맞춤법>가장먼저 </문법_맞춤법>생각나는것이 만세운동이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나는 가족과 유관순에 대한 영화를 본 적이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 나는 가족과 유관순에 대한 영화를 <문법_맞춤법>본적이 </문법_맞춤법>있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중에 가장 기억에 남는 대사는 '우린 청개구리가 아니다'와 '대한 독립 만세'이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그중에 가장 기억에 남는 대사는 '우린 청개구리가 아니다'와 '<문법_맞춤법>대한독립만세</문법_맞춤법>'이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유관순은 정말 대단한 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 유관순은 정말 <문법_맞춤법>대단한것 </문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 당시에 여러 사람들이 목숨을 걸고 만세운동을 했고, 우리나라를 위해 열심히 노력하고, 희생하셨기 때문에 지금 우리나라가 있는 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그당시에 </문법_맞춤법>여러 사람들이 목숨을 걸고 만세운동을 했고, 우리나라를 위해 열심히 노력하고, 희생하셨기 때문에 지금 우리나라가 있는 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 유관순이 열정,   끈기, 노력을 한 것 처럼 나도 앞으로 모든 일에 열정과, 끈기, 그리고 노력을 해서 어떤 일이든 다 하고, 두려워하고, 무서워하지 않을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 나는 유관순이 열정,   끈기, 노력을 한 것 처럼 나도 앞으로 모든 일에 열정과, 끈기, 그리고 노력을 해서 어떤 일이든 다 하고, 두려워하고, 무서워하지 <문법_어미>않은 </문법_어미><문법_맞춤법>것 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 나는 유관순이 열정,   끈기, 노력을 한 것 처럼 나도 앞으로 모든 일에 열정과, 끈기, 그리고 노력을 해서 어떤 일이든 다 하고, 두려워하고, 무서워하지 않을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 내가 그 당시 유관순이었더라면 유관순처럼은 아니겠지만 나도 만세운동을 했을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 만약 내가 <문법_맞춤법>그당시 </문법_맞춤법>유관순이었더라면 유관순 처럼은 아니겠지만 나도 만세운동을 했을 것 이다.",
+      "sentence_corr_txt_styling": " 만약 내가 그 당시 유관순이었더라면 유관순처럼은 아니겠지만 나도 만세운동을 했을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 정말   유관순처럼 모든 일에 끝까지 최선을 다 할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 정말   유관순처럼 모든 일에 끝까지 최선을 다 할 <문법_맞춤법>것 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39892",
+    "essay_prompt": " 세상에는 훌륭한 일을 하고 뛰어난 업적을 쌓아 역사에 이름을 남긴 위인들이 많습니다. 지금 살아계신 분도 있고 돌아가신 분들도 계시지만, 누군가의 마음속에서 희망이 되고 모범이 되고 있습니다.\n\n 여러분들의 마음속에서 꼭 닮고 싶은 사람이나 본받고 싶은 사람이 있을 것 같아요. 우리나라 사람일 수도 있고 외국인일 수도 있겠죠.\n\n 그렇다면 여러분들은 어떤 분을 가장 존경하나요? 위인의 업적과 위인의 행동 그리고 내 삶에 적용해 볼 수 있는 본받을 점에 대해 써보세요.\n\n 존경하는 위인이 없다면 자기가 생각하는 존경 받을만한 행동이나 모습을 상상해서 작성해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 438,
+    "essay_main_subject": "존경하는 위인에 대한 생각"
+  }
+}

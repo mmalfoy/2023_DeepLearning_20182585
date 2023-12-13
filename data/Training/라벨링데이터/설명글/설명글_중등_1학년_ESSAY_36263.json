@@ -1,0 +1,344 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "스승에는 다양한 역할이 있습니다.#@문장구분# 수업시간 공부를 가르쳐주는것 외에도 학생들이 바르게 클수 있도록 많은것을 지도합니다.#@문장구분#\n 요즘엔 학습적인 부분은 학원이나 과외를 통해 공부를 하고있습니다.#@문장구분#\n 그래서 저는 참된 스승을 학생들을 진심으로 이해해주는 선생님인것 같습니다.#@문장구분# 예전에 아파서 학교를 간적이 있습니다.#@문장구분# 선생님께서 진심으로 걱정해 주시고 엄마에게 연락을 해주어서 병원에가서 치료를 받을수 있었습니다.#@문장구분#\n 집에서 쉬고 있을때도 제가 괜찮은지 엄마에게 연락을 하셨다고 하였습니다.#@문장구분# 선생님이 저에게 많은 관심을 주시고 걱정해주셔서 너무 감사했습니다.#@문장구분#\n 선생님의 말 한마디와 표정이 학생들에게 큰 영향을 미칩니다.#@문장구분#\n 항상 따뜻한 목소리와 눈빛으로 우리를 걱정해주는 선생님이 참된 스승인것 같다.#@문장구분# 요즘 무례한 학생들도 많아서 어느정도의 훈육이 필요하겠지만 진실된 마음으로 학생들을 지도해주는 참된 스승이 많아 졌음좋겠다.#@문장구분# \n 나도 누군가에게 도움이 되는 스승이 될수 있으면 좋겠다.#@문장구분#",
+      "paragraph_len": 727,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      30,
+      17.45
+    ],
+    "essay_scoreT_avg": 22.483332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "참된 스승",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "스승에겐 다양한 역할이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "<문법_조사>스승에는</문법_조사> 다양한 역할이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수업시간 공부를 가르쳐 주는 것 외에도 학생들이 바르게 클 수 있도록 많은 것을 지도합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 수업시간 공부를 <문법_맞춤법>가르쳐주는것</문법_맞춤법> 외에도 학생들이 바르게 클수 있도록 많은것을 지도합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 요즘엔 학습적인 부분은 학원이나 과외를 통해 공부를 하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 요즘엔 학습적인 부분은 학원이나 과외를 통해 공부를 <문법_맞춤법>하고있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그래서 저는 참된 스승은 학생들을 진심으로 이해해 주는 선생님인 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그래서 저는 참된 <문법_조사>스승을</문법_조사> 학생들을 진심으로 <문법_맞춤법>이해해주는 선생님인것 </문법_맞춤법>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예전에 아파서 학교를 간 적이 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 예전에 아파서 학교를<문법_맞춤법> 간적이 </문법_맞춤법>있습니다.",
+      "sentence_corr_txt_styling": " 예전에 아파서 학교를 간 적이 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님께서 진심으로 걱정해 주시고 엄마에게 연락을 해주어서 병원에 가서 치료를 받을 수 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선생님께서 진심으로 걱정해 주시고 엄마에게 연락을 해주어서 <문법_맞춤법>병원에가서 치료를 받을수</문법_맞춤법> 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 집에서 쉬고 있을 때도 제가 괜찮은지 엄마에게 연락을 하셨다고 하였습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 집에서 쉬고 <문법_맞춤법>있을때도</문법_맞춤법> 제가 괜찮은지 엄마에게 연락을 하셨다고 하였습니다.",
+      "sentence_corr_txt_styling": "\n 집에서 쉬고 있을 때도 제가 괜찮은지 엄마에게 연락을 하셨다고 하였습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선생님이 저에게 많은 관심을 주시고 걱정해 주셔서 너무 감사했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 선생님이 저에게 많은 관심을 주시고 <문법_맞춤법>걱정해주셔서</문법_맞춤법> 너무 감사했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 항상 따뜻한 목소리와 눈빛으로 우리를 걱정해 주는 선생님이 참된 스승인 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "\n 항상 따뜻한 목소리와 눈빛으로 우리를 <문법_맞춤법>걱정해주는 </문법_맞춤법>선생님이 참된 스승인것 <문법_높임법>같다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 무례한 학생들도 많아서 어느 정도의 훈육이 필요하겠지만 진실된 마음으로 학생들을 지도해 주는 참된 스승이 많아졌음 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 요즘 무례한 학생들도 많아서 <문법_맞춤법>어느정도의</문법_맞춤법> 훈육이 필요하겠지만 진실된 마음으로 학생들을 지도해주는 참된 스승이 많아 졌음<문법_높임법>좋겠다.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 나도 누군가에게 도움이 되는 스승이 될 수 있으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " \n 나도 누군가에게 도움이 되는 스승이 <문법_맞춤법>될수</문법_맞춤법> 있으면 <문법_높임법>좋겠다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36263",
+    "essay_prompt": " 스승은 자기를 가르쳐 이끌어 주는 사람을 의미합니다. 스승은 비단 선생님만을 뜻하는 의미가 아니라 여러분에게 가르침을 주고 이를 통해 이끌어 주는 사람 모두를 의미합니다.\n\n 그릇된 스승은 사람을 잘못된 행동을 하도록 만들 수도 있습니다. 하지만 참된 스승은 그릇된 행동을 하던 사람을 참된 길로 이끌 수도 있습니다.\n\n 여러분이 생각하는 참된 스승이란 어떤 스승인가요?\n\n 여러분이 생각하는 참된 스승에 대해 한 줄로 요약해주세요. 그리고 참된 스승이 되기 위해 꼭 필요한 요소에 2가지에 관해 서술해 주세요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 488,
+    "essay_main_subject": "참된 스승"
+  }
+}

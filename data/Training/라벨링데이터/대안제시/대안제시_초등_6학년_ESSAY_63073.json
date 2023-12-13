@@ -1,0 +1,386 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 생각은 반려동물을 키우고 싶으면 반려동물을 버리지 않고 버리지 않는다고 책음을 지고 가져가야 한다고 맞다본다#@문장구분# 하지만 저도 강아지를 키울 려고 강아지를 집에 대려왔는데 막상 키우다 보니 금전적으로나 시간상 으로 부담이 되는 상황이 많이 생겨서 저도 다시 주인에게 돌려줬습니다 #@문장구분#개도 생명입니다 #@문장구분#단순히 귀엽다는 이유로 가져가면 꼭 책임을 지고 가져 가야 한다#@문장구분# 아직도 개고기를 먹는게 너무 끔직하다#@문장구분#\n 내 생각이지만 지금은 먹을게 너무많고 너무 많아서 음식물 쓰레기가 넘쳐나는데 개고기를 먹는게 좀 끔직 하다#@문장구분# \n 그리고 우리나라도 할아버지 나이때 고양이도 잡아 먹어다#@문장구분# 왜냐하면 고양이 가 관절에 좋다고 해서 냄비에다 고양이를 팔팔 끓여서 먹었다고 했다#@문장구분# 아직도 중국은 박쥐 같은것을 먹는데 중국 한테 뭐라하지 않고 우리나라도 참새도 먹었다#@문장구분# 그리고 반려동물을 키우고 싶으면 책임을 져야한다 #@문장구분#그리고 반려동물 귀에다 위치추적기 같은 것을 해야한다#@문장구분# 그리고 목걸이에다 주인 전화번호 같은 것을 써야한다.",
+      "paragraph_len": 717,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          0.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      9.1,
+      21.477777,
+      22.077778
+    ],
+    "essay_scoreT_avg": 17.551851,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          1,
+          3
+        ],
+        [
+          2,
+          0,
+          1,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나의 생각은 반려동물을 키우고 싶으면 반려동물을 버리지 않고 버리지 않는다고 책임을 지고 가져가야 한다고 맞다고 본다.",
+      "sentence_corr_reason": [
+        "",
+        "마침표",
+        "마침표",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나의 생각은 반려동물을 키우고 싶으면 반려동물을 버리지 않고 버리지 않는다고 <문법_맞춤법>책음을 </문법_맞춤법>지고 가져가야 한다고 <문법_어미><문법_기타>맞다본다</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "나의 생각은 반려동물을 키우고 싶으면 반려동물을 버리지 않고 버리지 않는다고 책임을 지고 가져가야 한다고 맞다고 본다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 저도 강아지를 키우려고 강아지를 집에 데려왔는데 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨서 저도 다시 주인에게 돌려줬습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 하지만 저도 강아지를 <문법_맞춤법>키울 려고 </문법_맞춤법>강아지를 집에 대려왔는데 막상 키우다 보니 금전적으로나 시간상 으로 부담이 되는 상황이 많이 생겨서 저도 다시 주인에게 <문법_기타>돌려줬습니다</문법_기타> ",
+      "sentence_corr_txt_styling": " 하지만 저도 강아지를 키우려고 강아지를 집에 데려왔는데 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨서 저도 다시 주인에게 돌려줬습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "개도 생명입니다. ",
+      "sentence_corr_reason": [
+        "마침표",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "개도 <문법_기타>생명입니다</문법_기타> ",
+      "sentence_corr_txt_styling": "개도 생명입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "단순히 귀엽다는 이유로 가져가면 꼭 책임을 지고 가져가야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "단순히 귀엽다는 이유로 가져가면 꼭 책임을 지고 <문법_맞춤법>가져 가야</문법_맞춤법> <문법_기타>한다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아직도 개고기를 먹는 게 너무 끔찍하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 아직도 개고기를 <문법_맞춤법>먹는게 </문법_맞춤법>너무 <문법_기타>끔직하다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 내 생각이지만 지금은 먹을 게 너무 많고 너무 많아서 음식물 쓰레기가 넘쳐나는데 개고기를 먹는 게 좀 끔찍하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 마침표",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 내 생각이지만 지금은 <문법_맞춤법>먹을게 </문법_맞춤법>너무많고 너무 많아서 음식물 쓰레기가 넘쳐나는데 개고기를 먹는게 좀 <문법_기타>끔직 하다</문법_기타>",
+      "sentence_corr_txt_styling": "\n 내 생각이지만 지금은 먹을 게 너무 많고 너무 많아서 음식물 쓰레기가 넘쳐나는데 개고기를 먹는 게 좀 끔찍하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 그리고 우리나라도 할아버지 나이 때 고양이도 잡아먹었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " \n 그리고 우리나라도 할아버지 <문법_맞춤법>나이때 </문법_맞춤법>고양이도 <문법_기타>잡아 먹어다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 고양이가 관절에 좋다고 해서 냄비에다 고양이를 팔팔 끓여서 먹었다고 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>고양이 가</문법_맞춤법> 관절에 좋다고 해서 냄비에다 고양이를 팔팔 끓여서 먹었다고 <문법_기타>했다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아직도 중국은 박쥐 같은 것을 먹는데 중국한테 뭐라하지 않고 우리나라도 참새도 먹었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 아직도 중국은 박쥐 같은것을 먹는데 <문법_맞춤법>중국 한테</문법_맞춤법> 뭐라하지 않고 우리나라도 참새도 <문법_기타>먹었다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 반려동물을 키우고 싶으면 책임을 져야 한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 반려동물을 키우고 싶으면 책임을 <문법_맞춤법><문법_기타>져야한다</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 반려동물 귀에다 위치추적기 같은 것을 해야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 마침표",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그리고 반려동물 귀에다 위치추적기 같은 것을 <문법_맞춤법><문법_기타>해야한다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 목걸이에다 주인 전화번호 같은 것을 써야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 목걸이에다 주인 전화번호 같은 것을 <문법_맞춤법>써야한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63073",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 497,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}
